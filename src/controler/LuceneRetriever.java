@@ -106,7 +106,9 @@ public class LuceneRetriever {
 		System.out.println(query.toString());
 		TopDocs tds = indexSearcher.search(query, numTopDocs);
 		ScoreDoc[] sds = tds.scoreDocs;
+		System.out.println(indexSearcher.explain(query, 1).toHtml());
 		System.out.println(sds.length);
+		System.out.println(tds.getMaxScore()-sds[sds.length-1].score);
 		List<model.ResultDoc> res = new ArrayList<model.ResultDoc>();
 		for (ScoreDoc sd:sds) {
 			Document d = indexSearcher.doc(sd.doc);
@@ -144,11 +146,12 @@ public class LuceneRetriever {
 		}
 	}
 
-	public Hashtable<String, Integer> temporalTrend(String query, String startTime, String endTime) throws ParseException, IOException {
+	public Hashtable<String, Integer> temporalTrend(String query, String indexPath,
+			String startTime, String endTime) throws ParseException, IOException {
 		Hashtable<String, Integer> trend = new Hashtable<String, Integer>();
 		List<model.ResultDoc> resultDocs = null;
-		String indexPath = "E:\\Users\\Assassin\\workspace\\temporal_information_retrieval\\indexes";
-		resultDocs = search(indexPath, query, 100);
+		//String indexPath = "E:\\Users\\Assassin\\workspace\\temporal_information_retrieval\\indexes";
+		resultDocs = search(indexPath, query, 1000);
 		for (model.ResultDoc resultDoc : resultDocs) {
 			//"2011-08-13".compareTo("2011-08-14") == -1
 			if ((resultDoc.getDate().compareTo(startTime)  >= 0) &
