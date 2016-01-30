@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marie McCarthy, Designer, 86</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="574355"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">MCCARTHY, MARIE</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDA1031F937A35751C1A964958260" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marie McCarthy, Designer, 86</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marie McCarthy, who for many years designed the Larry Aldrich fashion collection, died on Tuesday at the Windermere Nursing Home in Virginia Beach, Va., at the age of 86.</p>
+        <p>She entered the home in 1989 because of severe osteoporosis, and her condition had deteriorated, said her daughter, Polly Gillespie.</p>
+      </block>
+      <block class="full_text">
+        <p>Marie McCarthy, who for many years designed the Larry Aldrich fashion collection, died on Tuesday at the Windermere Nursing Home in Virginia Beach, Va., at the age of 86.</p>
+        <p>She entered the home in 1989 because of severe osteoporosis, and her condition had deteriorated, said her daughter, Polly Gillespie.</p>
+        <p>Miss McCarthy, who was born in Cambridge, Mass., and attended Radcliffe College, started her career as a buyer for Filene's, the Boston department store. In New York in 1939, she became the designer for Larry Aldrich, a Seventh Avenue manufacturer known for simple, tasteful women's clothing.</p>
+        <p>She became a partner in the early 1970's and continued to design the line until the company closed in 1975.</p>
+        <p>In addition to her daughter, she is survived by a sister, Agnes Nessen, of Lincoln, Mass., and three grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Briefing | Hardware: Complaint Filed On Unlicensed CD'S</title>
+    <meta content="MB004835" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1403708"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <org class="indexing_service">Royal Philips Electronics</org>
+        <org class="indexing_service">International Trade Commission (US)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0DE143EF935A15755C0A9649C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Briefing | Hardware: Complaint Filed On Unlicensed CD'S</hl1>
+      </hedline>
+      <abstract>
+        <p>Royal Philips Electronics files complaint with International Trade Commission against 19 companies that make blank compact discs, or distribute them, in effort to curb imports of unlicensed discs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Royal Philips Electronics said yesterday that it had filed a complaint with the International Trade Commission against 19 companies that make blank compact discs, or distribute them, in an effort to curb imports of unlicensed discs. Philips, which is Europe's largest electronics company, said it sought to keep companies from infringing its patents on recordable and rewritable compact disc technology by selling the discs in the United States without a license. Officials for Philips said the company asked the commission to issue an order ''excluding importation of all unlicensed discs into the United States.''</p>
+      </block>
+      <block class="full_text">
+        <p>Royal Philips Electronics said yesterday that it had filed a complaint with the International Trade Commission against 19 companies that make blank compact discs, or distribute them, in an effort to curb imports of unlicensed discs. Philips, which is Europe's largest electronics company, said it sought to keep companies from infringing its patents on recordable and rewritable compact disc technology by selling the discs in the United States without a license. Officials for Philips said the company asked the commission to issue an order ''excluding importation of all unlicensed discs into the United States.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Zairian Rebels Relent on Refugee Airlift</title>
+    <meta content="06REBE" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="921038"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <location class="indexing_service">Rwanda</location>
+        <location class="indexing_service">Zaire</location>
+        <org class="indexing_service">United Nations (Un)</org>
+        <person class="indexing_service">Kabila, Laurent</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Congo, The Democratic Republic of</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Rwanda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Rwanda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Congo, The Democratic Republic of the</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDB113DF935A35757C0A961958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Zairian Rebels Relent on Refugee Airlift</hl1>
+      </hedline>
+      <dateline>KISANGANI, Zaire, April 5</dateline>
+      <abstract>
+        <p>zairian rebels relent on refugee airlift**Zairian rebel leader Laurent Kabila, bowing to international pressure, agrees to let United Nations airlift 80,000 malnourished Rwandan refugees back to Rwanda (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bowing to international pressure, Zairian rebels agreed today to allow the United Nations to airlift 80,000 malnourished Rwandan refugees back to their homeland.</p>
+        <p>The decision by the rebel leader, Laurent Kabila, broke an impasse between aid organizations and rebel officials over how to return the Hutu refugees, who had fled almost 300 miles on foot through jungles to escape the advancing rebel army.</p>
+      </block>
+      <block class="full_text">
+        <p>Bowing to international pressure, Zairian rebels agreed today to allow the United Nations to airlift 80,000 malnourished Rwandan refugees back to their homeland.</p>
+        <p>The decision by the rebel leader, Laurent Kabila, broke an impasse between aid organizations and rebel officials over how to return the Hutu refugees, who had fled almost 300 miles on foot through jungles to escape the advancing rebel army.</p>
+        <p>The refugees are camped out in heavy rainforest from Kisangani to Ubundu, about 72 miles away. They have been dying at a rate of more than 120 a day from malaria and other diseases, aid workers said.</p>
+        <p>Since Kisangani fell to the rebels on March 15, the United Nations had sought permission to truck the refugees to Kisangani, which has two major airfields, and then fly them to Rwanda. But  rebel officials at first objected,  saying the refugees included former Hutu militiamen and soldiers who had fought with the Zairian Army, and that their presence would heighten insecurity in Kisangani. Instead, rebel officials asked that the Rwandans be kept away from Kisangani and forced to walk back to Rwanda. Aid workers argued this would mean death for some refugees.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

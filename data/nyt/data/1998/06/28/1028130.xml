@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emanuel Levenson, Music Educator, 81</title>
+    <meta content="28LEVE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1028130"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Levenson, Emanuel</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED9143FF93BA15755C0A96E958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emanuel Levenson, Music Educator, 81</hl1>
+      </hedline>
+      <abstract>
+        <p>Emanuel Levenson, who shared his love of opera with schoolchildren across country, dies at age 81 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emanuel Levenson, who shared his love of opera with schoolchildren across the country, died on June 9 at the University of Michigan Hospital in Ann Arbor. He was 81 and lived in Ypsilanti, Mich.</p>
+        <p>Mr. Levenson, a graduate of Columbia University, studied piano with Joseph Adler and taught piano and vocal techniques. He directed an opera workshop at the New School for Social Research, and he was music director of the After Dinner Opera Company.</p>
+      </block>
+      <block class="full_text">
+        <p>Emanuel Levenson, who shared his love of opera with schoolchildren across the country, died on June 9 at the University of Michigan Hospital in Ann Arbor. He was 81 and lived in Ypsilanti, Mich.</p>
+        <p>Mr. Levenson, a graduate of Columbia University, studied piano with Joseph Adler and taught piano and vocal techniques. He directed an opera workshop at the New School for Social Research, and he was music director of the After Dinner Opera Company.</p>
+        <p>He founded the Pennybridge Opera Company in Brooklyn and the Berkshire Pro Musica in Pittsfield, Mass., and was a founder of the Becket Arts Center in Becket, Mass.</p>
+        <p>He was the director of the music organization called Young Audiences when the group brought opera performers into schools.</p>
+        <p>He is survived by his wife, Fay; a stepdaughter, Davi Napoleon; a sister, Judith Corin of Anacortes, Wash.; a brother, Mickey, of Castro Valley, Calif., and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

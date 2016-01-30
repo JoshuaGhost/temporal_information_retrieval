@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets Make Sabo an Offer</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="656596"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">NEW YORK METS</org>
+        <org class="indexing_service">NEW YORK METS</org>
+        <person class="indexing_service">SABO, CHRIS</person>
+        <person class="indexing_service">SMITH, CLAIRE</person>
+        <person class="indexing_service">SABO, CHRIS</person>
+        <person class="indexing_service">SMITH, CLAIRE</person>
+        <object.title class="indexing_service">NEW YORK METS</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DD1739F93BA25751C1A965958260" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets Make Sabo an Offer</hl1>
+      </hedline>
+      <byline class="print_byline">By CLAIRE SMITH</byline>
+      <byline class="normalized_byline">SMITH, CLAIRE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mets, trying to end a long tradition of the revolving door at their third-base position, offered free agent Chris Sabo a contract yesterday.</p>
+        <p>Neither Joe McIlvaine, the Mets' general manager, nor Jim Bronner, the agent for Sabo, would reveal the length or terms of the offer. But both described the negotiating process as now being in the preliminary stages.</p>
+      </block>
+      <block class="full_text">
+        <p>The Mets, trying to end a long tradition of the revolving door at their third-base position, offered free agent Chris Sabo a contract yesterday.</p>
+        <p>Neither Joe McIlvaine, the Mets' general manager, nor Jim Bronner, the agent for Sabo, would reveal the length or terms of the offer. But both described the negotiating process as now being in the preliminary stages.</p>
+        <p>"We don't make offers to someone we don't have a serious interest in signing," said Ed Lynch, a special assistant to McIlvaine. "But it's not a situation where we'd get into a bidding war with other clubs."</p>
+        <p>Sabo, who turns 32 next month, drove in 82 runs and hit 21 home runs while playing in 143 games for Cincinnati last season. During the season, Sabo underwent back surgery to repair a ruptured disk. Only when Sabo passed a physical in New York on Thursday did the Mets decide to tender their offer.</p>
+        <p>Although McIlvaine did not meet with Sabo Thursday, the general manager said he had been intrigued by Sabo's fiery attitude toward the Reds. "He's been stung by some of the remarks apparently that have been made in Cincinnati about him, so that probably will have a positive affect, an 'I'll show them' type of thing," McIlvaine said.</p>
+        <p>The third baseman's marketability rose once the Reds decided not to offer him arbitration, thus eliminating the need for any team to compensate Cincinnati with draft picks should it sign him.</p>
+        <p>Sabo, who made $3.1 million in 1993, could also end the Mets' brief flirtation with the idea of using Bobby Bonilla at that position. And McIlvaine may be more willing to trade Bonilla, one of the Mets' two pricier commodities on the market; pitcher Bret Saberhagen is the other.</p>
+        <p>Talks with the Cleveland Indians about Saberhagen are dead, McIlvaine said. Interestingly, though, talks with the Baltimore Orioles involving Bonilla have continued despite Baltimore's signing of first baseman Rafael Palmeiro.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

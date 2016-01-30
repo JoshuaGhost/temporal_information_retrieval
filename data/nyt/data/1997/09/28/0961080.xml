@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Stand-Up Egg</title>
+    <meta content="LBROD2$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="961080"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Eggs</classifier>
+        <person class="indexing_service">Brodtkorb, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5DA173AF93BA1575AC0A961958260" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Stand-Up Egg</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul Brodtkorb letter comments on Sept 24 article on eggs�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your article on eggs (Dining In, Dining Out, Sept. 24) praises the organically produced Country Hen brand. One reason it sells well may be that its freshness bears some relation to the date on the carton. In New York, a carton is supposed to carry a date 30 days after it was packaged. Legislators obviously consider one-month-old eggs fresh.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your article on eggs (Dining In, Dining Out, Sept. 24) praises the organically produced Country Hen brand. One reason it sells well may be that its freshness bears some relation to the date on the carton. In New York, a carton is supposed to carry a date 30 days after it was packaged. Legislators obviously consider one-month-old eggs fresh.</p>
+        <p>At the store, however, I have seen dates seven weeks ahead. That seems optimistic. Put such an egg in water, and it will likely stand upright, held there by gases at one end. This indicates age. Fry one, and the yolk will lie flat instead of proud, also indicating venerability.</p>
+        <p>PAUL BRODTKORB  Brooklyn, Sept. 25, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

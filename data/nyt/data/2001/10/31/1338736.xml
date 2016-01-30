@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Briefing | Telecommunications: Verizon Reports A Loss</title>
+    <meta content="MB015243" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20011102T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1338736"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Verizon Communications</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3D91230F932A05753C1A9679C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Briefing | Telecommunications: Verizon Reports A Loss</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero (NYT) (Compiled by Alan Krauss)</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Verizon Communications reports third-quarter net of $1.86 billion, compared with $3.47 billion in year-earlier period (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Verizon Communications, the nation's largest local telephone company, said yesterday that earnings fell 46 percent in the third quarter, to $1.86 billion, or 69 cents a share, from $3.47 billion, or $1.27, in the comparable quarter a year earlier. Verizon, which was formed last year by Bell Atlantic's acquisition of the GTE Corporation, said sales in the quarter had climbed 2.8 percent, to $17 billion. The company's financial performance was hurt by the Sept. 11 attacks, which destroyed switching equipment in Lower Manhattan, and by weaker demand for telephone services.</p>
+        <p>Simon Romero (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Verizon Communications, the nation's largest local telephone company, said yesterday that earnings fell 46 percent in the third quarter, to $1.86 billion, or 69 cents a share, from $3.47 billion, or $1.27, in the comparable quarter a year earlier. Verizon, which was formed last year by Bell Atlantic's acquisition of the GTE Corporation, said sales in the quarter had climbed 2.8 percent, to $17 billion. The company's financial performance was hurt by the Sept. 11 attacks, which destroyed switching equipment in Lower Manhattan, and by weaker demand for telephone services.</p>
+        <p>Simon Romero (NYT)</p>
+        <p>Correction:  November 2, 2001, Friday  A headline in the Technology Briefing column of Business Day on Wednesday about the third-quarter financial results of Verizon Communications misstated them. Profit declined by 46 percent; the company did not report a loss.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 2, 2001, Friday</p>
+        <p>A headline in the Technology Briefing column of Business Day on Wednesday about the third-quarter financial results of Verizon Communications misstated them. Profit declined by 46 percent; the company did not report a loss.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

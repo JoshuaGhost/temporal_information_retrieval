@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Algorithm As a Pickax</title>
+    <meta content="09advi" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/09/business/09advi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1708434"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="OFFICE SPACE: ARMCHAIR M.B.A."/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Interview</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Armchair M.B.A.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DF1F30F93AA35753C1A9639C8B63" item-length="962" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Algorithm As a Pickax</hl1>
+        <hl2 class="online_headline">An Algorithm as a Pickax</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DATA mining is becoming more sophisticated in government, politics and many industries, says Stephen Brobst, chief technology officer of the Teradata division of the NCR Corporation and an expert on data-mining techniques. Here are excerpts from an interview.</p>
+        <p>Q. How would you define data mining?</p>
+        <p>A. Data mining is the use of historical information to predict the future or to predict patterns of behavior.</p>
+        <p>Q. Can you offer an example?</p>
+        <p>A. With data mining, you can use historical data to predict which of your customers will defect in the next six months. I would create a training set, or sample, of all customers who have defected versus those who didn't defect. Then I would apply a mathematical model of pattern detection, or algorithm, to understand the differences in behavior. Then I'm in position to take action to prevent further defections.</p>
+        <p>Q. How does the Internal Revenue Service use data mining?</p>
+        <p>A. Are people paying the taxes that they're supposed to be paying? It turns out that random audits are a very ineffective way to get tax compliance. You need some random audits to find people cheating in new ways. But most noncompliance consists of patterns that have existed for a long time. You can apply these data-mining algorithms to understand the characteristics of a tax return where all the proper information is not provided or is submitted incorrectly.</p>
+        <p>Q. How was data mining used in the Republican campaign for president in 2004?</p>
+        <p>A. You can use data mining to look for the patterns of which voters are most likely to respond to a particular message or platform. Then you reach out to those voters. This is just a special case of how data mining has been used for decades. At a very base level, you can consider elections to be a big marketing campaign. Before I send a piece of direct mail out to you, a best-of-breed company likes to know what is the expected likelihood that the individual receiving this message will respond positively.</p>
+        <p>Q. Are data-mining predictions -- like one for income level, based on where you live and the car you drive -- always correct?</p>
+        <p>A. No. In my case, I travel a lot for my work. I don't own a car. I do own a motorcycle, as a hobby, that's over 30 years old. The blue book value on that motorcycle is quite small. When the aggregators predict my income, the prediction is significantly lower than the reality.</p>
+        <p>Q. Why do you believe that data mining has become more effective, over all, in the last two or three years?</p>
+        <p>A. It has become more effective because the amount of information that's available has certainly increased. Probably more importantly, the processing power and the sophistication of the algorithms have grown significantly. You can use data mining in a more targeted, pinpointed way.</p>
+        <p>Q. How do companies use it?</p>
+        <p>A. If you put a two-liter bottle of Pepsi on sale, in most cases that's a loss leader. You don't actually make a profit on that. You're trying to bring customers into your store and you make a profit on all the other stuff that they buy. You can use data-mining algorithms to predict, ''When I put this item on sale, what is the profile of the individual who will come in to buy it and what are the other things they are likely to buy?''</p>
+        <p>Q. Where else is data mining being used?</p>
+        <p>A. I would say virtually every industry. Data mining is even used in professional sports like the National Basketball Association. Some of the teams use data mining to predict which players ought to be playing under which game positions in terms of who is the opposing team and who are the players and their characteristics.</p>
+        <p>Q. Do you have concerns about privacy?</p>
+        <p>A. At one level, you can say, ''Well, do you really want someone predicting my behavior and in some cases influencing my behavior with this kind of technology?'' On the other hand, if a company can figure out what I'm most interested in, it's better for me to get a targeted offer than a sack of junk mail. There are trade-offs on both sides. In most cases, it's a matter of consumer choice. For example, at most banks, if I'm doing business with them, I can explicitly say what information can be used for what purposes. If I fill out a credit application, it is used to determine whether I get a loan. It's the consumer's choice whether they want that information to be used to figure out other products that may be of interest to them.</p>
+        <p>Q. Some information is publicly available. We don't have any control over that, right?</p>
+        <p>A. The fact is, the car you drive is publicly available information. You don't have a choice. It is out there. It's an issue of what's personal information versus aggregated information. Saying that all the people in this neighborhood have, on average, 2.1 children, that's useful for data mining but it's not down to the individual level.</p>
+        <p>There are pros and cons. In health care, you can use data mining to predict when is the right time to intervene with a diabetic with an on-call nurse. That information will never leave the health care company. But it can prevent that person from landing in the emergency room. Data mining in and of itself is not really the issue. It's the public availability of information that's at issue, when the consumer doesn't have a choice. That's a policy choice. In some countries, that information is not available and you can't use it. In the European Union, the laws and regulation are much stricter than they are in the United States.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As databases grow richer, even the I.R.S. and the local grocery store are becoming miners.</p>
+      </block>
+      <block class="full_text">
+        <p>DATA mining is becoming more sophisticated in government, politics and many industries, says Stephen Brobst, chief technology officer of the Teradata division of the NCR Corporation and an expert on data-mining techniques. Here are excerpts from an interview.</p>
+        <p>Q. How would you define data mining?</p>
+        <p>A. Data mining is the use of historical information to predict the future or to predict patterns of behavior.</p>
+        <p>Q. Can you offer an example?</p>
+        <p>A. With data mining, you can use historical data to predict which of your customers will defect in the next six months. I would create a training set, or sample, of all customers who have defected versus those who didn't defect. Then I would apply a mathematical model of pattern detection, or algorithm, to understand the differences in behavior. Then I'm in position to take action to prevent further defections.</p>
+        <p>Q. How does the Internal Revenue Service use data mining?</p>
+        <p>A. Are people paying the taxes that they're supposed to be paying? It turns out that random audits are a very ineffective way to get tax compliance. You need some random audits to find people cheating in new ways. But most noncompliance consists of patterns that have existed for a long time. You can apply these data-mining algorithms to understand the characteristics of a tax return where all the proper information is not provided or is submitted incorrectly.</p>
+        <p>Q. How was data mining used in the Republican campaign for president in 2004?</p>
+        <p>A. You can use data mining to look for the patterns of which voters are most likely to respond to a particular message or platform. Then you reach out to those voters. This is just a special case of how data mining has been used for decades. At a very base level, you can consider elections to be a big marketing campaign. Before I send a piece of direct mail out to you, a best-of-breed company likes to know what is the expected likelihood that the individual receiving this message will respond positively.</p>
+        <p>Q. Are data-mining predictions -- like one for income level, based on where you live and the car you drive -- always correct?</p>
+        <p>A. No. In my case, I travel a lot for my work. I don't own a car. I do own a motorcycle, as a hobby, that's over 30 years old. The blue book value on that motorcycle is quite small. When the aggregators predict my income, the prediction is significantly lower than the reality.</p>
+        <p>Q. Why do you believe that data mining has become more effective, over all, in the last two or three years?</p>
+        <p>A. It has become more effective because the amount of information that's available has certainly increased. Probably more importantly, the processing power and the sophistication of the algorithms have grown significantly. You can use data mining in a more targeted, pinpointed way.</p>
+        <p>Q. How do companies use it?</p>
+        <p>A. If you put a two-liter bottle of Pepsi on sale, in most cases that's a loss leader. You don't actually make a profit on that. You're trying to bring customers into your store and you make a profit on all the other stuff that they buy. You can use data-mining algorithms to predict, ''When I put this item on sale, what is the profile of the individual who will come in to buy it and what are the other things they are likely to buy?''</p>
+        <p>Q. Where else is data mining being used?</p>
+        <p>A. I would say virtually every industry. Data mining is even used in professional sports like the National Basketball Association. Some of the teams use data mining to predict which players ought to be playing under which game positions in terms of who is the opposing team and who are the players and their characteristics.</p>
+        <p>Q. Do you have concerns about privacy?</p>
+        <p>A. At one level, you can say, ''Well, do you really want someone predicting my behavior and in some cases influencing my behavior with this kind of technology?'' On the other hand, if a company can figure out what I'm most interested in, it's better for me to get a targeted offer than a sack of junk mail. There are trade-offs on both sides. In most cases, it's a matter of consumer choice. For example, at most banks, if I'm doing business with them, I can explicitly say what information can be used for what purposes. If I fill out a credit application, it is used to determine whether I get a loan. It's the consumer's choice whether they want that information to be used to figure out other products that may be of interest to them.</p>
+        <p>Q. Some information is publicly available. We don't have any control over that, right?</p>
+        <p>A. The fact is, the car you drive is publicly available information. You don't have a choice. It is out there. It's an issue of what's personal information versus aggregated information. Saying that all the people in this neighborhood have, on average, 2.1 children, that's useful for data mining but it's not down to the individual level.</p>
+        <p>There are pros and cons. In health care, you can use data mining to predict when is the right time to intervene with a diabetic with an on-call nurse. That information will never leave the health care company. But it can prevent that person from landing in the emergency room. Data mining in and of itself is not really the issue. It's the public availability of information that's at issue, when the consumer doesn't have a choice. That's a policy choice. In some countries, that information is not available and you can't use it. In the European Union, the laws and regulation are much stricter than they are in the United States.  OFFICE SPACE: ARMCHAIR M.B.A. William J. Holstein is editor in chief of Chief Executive magazine.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">William J. Holstein is editor in chief of Chief Executive magazine.</tagline>
+    </body.end>
+  </body>
+</nitf>

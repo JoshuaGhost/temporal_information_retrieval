@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kodak Buying Biotech Stake</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="24936"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">GENENCOR INC</org>
+        <org class="indexing_service">EASTMAN KODAK CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD7163CF934A15750C0A961948260" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kodak Buying Biotech Stake</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>SAN FRANCISCO, March 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Eastman Kodak Company said today that it would acquire a 16 percent equity interest in Genencor Inc., a biotechnology company based here that specializes in industrial products. Genencor, formed in 1982 as a joint venture between Genentech Inc. and Corning Glass Works, was spun off in 1983 and has been owned equally by the founding companies and Staley Continental Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Eastman Kodak Company said today that it would acquire a 16 percent equity interest in Genencor Inc., a biotechnology company based here that specializes in industrial products. Genencor, formed in 1982 as a joint venture between Genentech Inc. and Corning Glass Works, was spun off in 1983 and has been owned equally by the founding companies and Staley Continental Inc.</p>
+        <p>The Eastman Kodak Company said today that it would acquire a 16 percent equity interest in Genencor Inc., a biotechnology company based here that specializes in industrial products. Genencor, formed in 1982 as a joint venture between Genentech Inc. and Corning Glass Works, was spun off in 1983 and has been owned equally by the founding companies and Staley Continental Inc. since 1984.</p>
+        <p>New stock would be issued to cover Kodak's stake in the company, which it can increase during 1987. Further terms were not disclosed, but Kodak said that it had agreed to a multimillion-dollar, multiyear commitment to research and development projects related to the use of Genencor's enzymes as food additives and in other applications. Genencor is a private company with more than 100 employees, and it does not release financial data.</p>
+        <p>Kodak's investment in Genencor closely follows the announcement that it would sell its shares in ICN Pharmaceuticals Inc., a company based in Costa Mesa, Calif., that is best known for an antiviral drug, Ribavirin. Kodak has also taken stakes in the Amgen Corporation, the Immunex Corporation, the Cetus Corporation and Engenics. Analysts estimated that it had invested more than $100 million in biotechnology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

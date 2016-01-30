@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Linda Kanarvogel and Robert Tepper</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="651100"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KANARVOGEL, LINDA ELLEN (LINDA ELLEN TEPPER)</person>
+        <person class="indexing_service">TEPPER, ROBERT ERIC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DA1639F932A15752C1A965958260" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Linda Kanarvogel and Robert Tepper</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Linda Ellen Kanarvogel, an attending physician and internist at the Long Island Jewish Medical Center in New Hyde Park, L.I., was married last evening to Dr. Robert Eric Tepper, a gastroenterologist in Great Neck, L.I. Rabbi Marc Disick performed the ceremony at the South Huntington Jewish Center in Huntington, L.I.</p>
+        <p>Dr. Kanarvogel, 29, is keeping her name. She graduated magna cum laude from Wellesley College, where she was elected to Phi Beta Kappa, and received her M.D. from the Mount Sinai School of Medicine.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Linda Ellen Kanarvogel, an attending physician and internist at the Long Island Jewish Medical Center in New Hyde Park, L.I., was married last evening to Dr. Robert Eric Tepper, a gastroenterologist in Great Neck, L.I. Rabbi Marc Disick performed the ceremony at the South Huntington Jewish Center in Huntington, L.I.</p>
+        <p>Dr. Kanarvogel, 29, is keeping her name. She graduated magna cum laude from Wellesley College, where she was elected to Phi Beta Kappa, and received her M.D. from the Mount Sinai School of Medicine.</p>
+        <p>She is a daughter of Joel and Florence Kanarvogel of Massapequa, L.I. Her father is the director of the New York City Food Stamp Program. Her mother teaches kindergarten at the Parkway Elementary School in Plainview, L.I.</p>
+        <p>Dr. Tepper, 30, graduated summa cum laude from Lehigh University, where he was elected to Phi Beta Kappa. He received his M.D. from the Medical College of Pennsylvania. He is a son of Stanley and Sandra Tepper of Oceanside, L.I. His mother is an elementary-school teacher in Oceanside. His father is a senior partner at Corwin &amp; Tepper, an accounting firm in Baldwin, L.I.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Dose of Anxiety At Ever-Changing Bank</title>
+    <meta content="18REAC" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1003042"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Chase Manhattan Corp</org>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E3D71039F93BA25750C0A96E958260" item-length="430" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Dose of Anxiety At Ever-Changing Bank</hl1>
+      </hedline>
+      <byline class="print_byline">By THOMAS J. LUECK</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>Scene is described as grim at Chase Manhattan Corp's headquarters on Park Avenue where management announced massive layoffs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From outward appearances, it was a normal day at the Park Avenue headquarters of Chase Manhattan, except perhaps for the spectacle next door on 48th Street, where St. Patrick's Day marchers gave an oddly festive air to one of New York City's most bankerly addresses.</p>
+        <p>But inside, after Chase announced big job cuts, it was grim. ''Of course people are nervous,'' said an executive in Chase's foreign currency data processing department who identified himself only as Abraham. ''We won't know from one day to the next who will stay, and who will go.''</p>
+      </block>
+      <block class="full_text">
+        <p>From outward appearances, it was a normal day at the Park Avenue headquarters of Chase Manhattan, except perhaps for the spectacle next door on 48th Street, where St. Patrick's Day marchers gave an oddly festive air to one of New York City's most bankerly addresses.</p>
+        <p>But inside, after Chase announced big job cuts, it was grim. ''Of course people are nervous,'' said an executive in Chase's foreign currency data processing department who identified himself only as Abraham. ''We won't know from one day to the next who will stay, and who will go.''</p>
+        <p>Chase said the cuts would be especially deep in New York City, where it is the largest private employer, and in the suburbs.</p>
+        <p>Beginning in the next three months, the company said, 1,125  workers in the New York region -- out of a total of 36,594 -- will be told that they are being let go. Chase would not specify where the cuts would be made, but they could come at the Park Avenue headquarters; at the lower Manhattan office tower, known as One Chase Plaza; at a technology complex built during the 1980's in downtown Brooklyn and at its national credit card processing center in Hicksville, on Long Island.</p>
+        <p>Chase's cutbacks come at a time of buoyant expansion in most of the region's economy. The culprits, analysts say, are mergers, consolidation and a steady migration of some operations like data processing to lower-cost regions.</p>
+        <p>Chase itself provides a corporate genealogy of such shifts in the region's banking. The largest recent merger was Chase's combination with Chemical Banking in 1996, leading to thousands of job cuts and the elimination of 100 retail bank branches.</p>
+        <p>That came close on the heels of Chemical's 1993 acquisition of Manufacturers Hanover.</p>
+        <p>No more branch closings are planned, Chase officials said.</p>
+        <p>For the bank's employees, the long-running turmoil has made some of them stoic. ''I'm a survivor,'' said an executive in the information technology division, whose career path has tracked recent banking history. Hired first by Manufacturers Hanover in 1990, he was retained after Chemical took it over. Then, amid the steep cuts after Chase's 1996 acquisition of Chemical, he was spared once again.</p>
+        <p>''This is all just part of what goes on every day in this industry,'' he said. ''But listen, the economy is generally strong, and even if I don't survive these layoffs, I'll find something else.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

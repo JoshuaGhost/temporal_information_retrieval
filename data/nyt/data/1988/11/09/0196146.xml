@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Retailers' Profits Rise</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="196146"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">LIMITED INC</org>
+        <org class="indexing_service">WAL-MART STORES INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D8143DF93AA35752C1A96E948260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Retailers' Profits Rise</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Limited Inc. announced yesterday that its third-quarter net income rose 1.7 percent as its sales began to recover from a yearlong slump. And Wal-Mart Stores Inc., which has thrived while other retailers stagnated, said its earnings rose 33 percent in the quarter.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Limited Inc. announced yesterday that its third-quarter net income rose 1.7 percent as its sales began to recover from a yearlong slump. And Wal-Mart Stores Inc., which has thrived while other retailers stagnated, said its earnings rose 33 percent in the quarter.</p>
+        <p>The Limited Inc. announced yesterday that its third-quarter net income rose 1.7 percent as its sales began to recover from a yearlong slump. And Wal-Mart Stores Inc., which has thrived while other retailers stagnated, said its earnings rose 33 percent in the quarter.</p>
+        <p>The Limited, based in Columbus, Ohio, said it earned $70.4 million, or 39 cents a share, in the quarter ended Oct. 29, up from $69.3 million, or 36 cents a share, in the period last year. Sales at the specialty apparel retailer totaled $1.01 billion, up 13.4 percent from $891.7 million in the third quarter a year earlier.</p>
+        <p>The Limited showed signs of recovery in September and October after a year of dismal sales. Many apparel retailers have seen their sales slump and profits decline since the third quarter of 1987. The Limited's divisions include Limited Express, Lerner, Victoria's Secret and Lane Bryant.</p>
+        <p>Wal-Mart, which has more than 1,300 stores in 25 states, said it earned $180.9 million, or 32 cents a share, in the quarter ended Oct. 31.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Warning for Irabu</title>
+    <meta content="10METS$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="979301"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EED8153CF933A25751C1A961958260" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Warning for Irabu</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK CURRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Saying that George Steinbrenner had made a grave mistake by dismissing him as Hideki Irabu's translator last Friday, Kota Ishijima insisted yesterday that the Japanese pitcher would be lost without him next season.</p>
+        <p>''The fact that they fired me means they're sticking it in Irabu's face,'' Ishijima said. ''It's not a threat, but this is Steinbrenner telling him things aren't going to be the same and his privileges aren't going to be there. I talked to Hideki and he's wondering how he's going to get around without me.''</p>
+      </block>
+      <block class="full_text">
+        <p>Saying that George Steinbrenner had made a grave mistake by dismissing him as Hideki Irabu's translator last Friday, Kota Ishijima insisted yesterday that the Japanese pitcher would be lost without him next season.</p>
+        <p>''The fact that they fired me means they're sticking it in Irabu's face,'' Ishijima said. ''It's not a threat, but this is Steinbrenner telling him things aren't going to be the same and his privileges aren't going to be there. I talked to Hideki and he's wondering how he's going to get around without me.''</p>
+        <p>Ishijima said Mark Newman, the vice president for player development, told him he had been dismissed for budgetary reasons. The Yankees said they are still deciding on a replacement.</p>
+        <p>JACK CURRY</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

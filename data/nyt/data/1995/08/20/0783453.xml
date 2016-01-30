@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="783453"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">SLAVERY</classifier>
+        <person class="indexing_service">BOYER, ALLEN D</person>
+        <person class="indexing_service">RENEHAN, EDWARD J JR</person>
+        <person class="indexing_service">BROWN, JOHN (1800-1859)</person>
+        <object.title class="indexing_service">SECRET SIX, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Slavery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DC1739F933A1575BC0A963958260" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLEN D. BOYER</byline>
+      <byline class="normalized_byline">BOYER, ALLEN D</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE SECRET SIX  The True Tale of the Men  Who Conspired With John Brown. By Edward J. Renehan Jr.  Crown, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>THE SECRET SIX  The True Tale of the Men  Who Conspired With John Brown. By Edward J. Renehan Jr.  Crown, $25.</p>
+        <p>Edward J. Renehan Jr.'s account of the men who backed John Brown's raid on Harpers Ferry in 1859, "The Secret Six," sketches its characters skillfully. Theodore Parker was a Boston society preacher whose appeals for abolition were couched in comparisons to Lexington and Concord. Gerrit Smith was a land baron who treated upstate New York as a personal fiefdom. Samuel Gridley Howe was a world-renowned teacher of the deaf and blind; his wife, Julia, would write "The Battle Hymn of the Republic." The toughest-minded of the group was Thomas Wentworth Higginson, a minister-cum-journalist who led antislavery mobs. (During the Civil War, Higginson would lead a black regiment; later he would edit The Atlantic Monthly and befriend Emily Dickinson.) The mainspring of the plot was John Brown -- zealous, enigmatic, given to violence and perennially short of cash. The "secret six" began by funneling guns to Brown and his ragged troop of Free Soil Party guerrillas in Kansas. Brown lied to them about his record of looting and murder; they patronized him as the "Miles Standish of Kansas" and failed to keep all their promises of aid. As Brown turned east toward Virginia, chasing a messianic delusion of seizing weapons for a slave rebellion, he dragged his backers after him, clumsily but inexorably. (Frederick Douglass saw disaster brewing and stayed clear.) The bloody debacle at Harpers Ferry meant death for Brown and his men and panic among the six, as they hastily scattered for shelter. Mr. Renehan, who previously wrote "John Burroughs: An American Naturalist," draws on the conspirators' papers to reveal their shared commitments and private doubts. "The Secret Six" is a spellbinding study in revolution from the top down -- gaslit opulence with tense whispers from the shadows.  ALLEN D. BOYER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

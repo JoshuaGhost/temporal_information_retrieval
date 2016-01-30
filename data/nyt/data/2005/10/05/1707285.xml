@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Helping Victims Of the Storm Stay Connected</title>
+    <meta content="05belson" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/05/technology/techspecial/05belson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1707285"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="RADIO RESPONSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DB1130F936A35753C1A9639C8B63" item-length="1948" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Helping Victims Of the Storm Stay Connected</hl1>
+        <hl2 class="online_headline">Wireless Know-How Helps Crisis Victims Reach Loved Ones</hl2>
+      </hedline>
+      <byline class="print_byline">By KEN BELSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAC DEARMAN is a gregarious storyteller with deep ties in rural northeastern Louisiana. So when he saw a crowd outside a local church the day after Hurricane Katrina hit, he stopped by to see who had died.</p>
+        <p>What he found instead intensified his involvement in the world of wireless networks. At the church in Mangham, La., there was a sign, Welcome Katrina Evacuees; inside, newcomers from Waveland, Miss., and New Orleans were crying because they could not find their families.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Long-distance wireless networks is an emerging technology that uses unlicensed radio-wave bandwidth to send Internet signals into rural towns.</p>
+      </block>
+      <block class="full_text">
+        <p>MAC DEARMAN is a gregarious storyteller with deep ties in rural northeastern Louisiana. So when he saw a crowd outside a local church the day after Hurricane Katrina hit, he stopped by to see who had died.</p>
+        <p>What he found instead intensified his involvement in the world of wireless networks. At the church in Mangham, La., there was a sign, Welcome Katrina Evacuees; inside, newcomers from Waveland, Miss., and New Orleans were crying because they could not find their families.</p>
+        <p>The telephone networks in the area were destroyed or overloaded, so calling on a land-line or a cellphone -- which rely on land lines to connect calls between towers -- was difficult.</p>
+        <p>As it happens, Mr. Dearman, the owner of a forklift company in Rayville, La., had also created the first wireless Internet service in the area. And as he left the church, he looked up and saw one of the towers he used to transmit broadband signals to his customers. ''Gee whiz,'' he thought, ''I can do something about this.''</p>
+        <p>He raced home, grabbed a computer, two Internet phones, an antenna and a router to receive the signal from the tower. Within an hour of returning to the church, he had hooked up the equipment, and evacuees were phoning loved ones. Within a day, 11 families had been reunited.</p>
+        <p>''There wasn't any better feeling in the world,'' said Mr. Dearman, who is 43. ''After food and shelter, their next need was to get ahold of their families.''</p>
+        <p>In one swoop, Mr. Dearman not only connected people in crisis, but he also illustrated the power of long-distance wireless networks, an emerging technology that uses unlicensed radio-wave bandwidth to send Internet signals into rural towns and cities, where the connections are locally accessible, much like Wi-Fi hot spots. The networks typically use microwave dishes and routers to beam and distribute the information many miles in the air from an original Internet connection. In Mr. Dearman's case, the connection was on his farm, which suffered no damage in the hurricane.</p>
+        <p>The technology's attraction, for Mr. Dearman and the small bands of volunteer techies who cobbled similar systems together around the Gulf Coast, is that it sidesteps many of the pitfalls that plague conventional phone systems during disasters. Other than the original Internet connection, the technology does not rely on telephone wires run by BellSouth or other phone companies; no roads have to be dug up and switching stations are not needed.</p>
+        <p>Mr. Dearman and his team also provided voice service to the evacuees by using Internet phone adapters and handsets that enabled calls to piggyback on the high-speed data connections.</p>
+        <p>All the equipment was donated, but the microwave dishes normally cost a few thousand dollars and are hung from water and radio towers. The dishes are a bit larger than those used for home satellite TV. Antennas placed atop shelters and churches cost several hundred dollars and are the size of a shoe box.</p>
+        <p>The equipment uses little power and can run from wall plugs, generators or batteries.</p>
+        <p>Wireless Internet Service Providers, or WISP's, like the one Mr. Dearman has run for four years, are popping up in rural areas where there are not enough customers for cable or phone companies to justify offering broadband service. These wireless networks are being pushed by an informal group of unconventional technologists whom Mr. Dearman tapped into after the storm.</p>
+        <p>After he got the church online, Mr. Dearman's mother-in-law told him about another shelter in Delhi nearby, so he hooked up two more Internet phones there. Before he left town, he heard of another 13 shelters in the area.</p>
+        <p>Realizing the scope of the challenge, he went home and sent out an SOS on two Web sites devoted to wireless technology, asking for donations of equipment. The response was startling.</p>
+        <p>Several manufacturers, including Trango, based in San Jose, Calif., which makes antennas, shipped $20,000 of gear by overnight mail. Other readers sent clothing that Mr. Dearman's wife, Sharon, gave out. Jim Patient, a wireless Internet service provider from St. Louis, sent $200 and showed up at Mr. Dearman's farm two days later in a minivan packed with canned goods, clothes and wireless gear.</p>
+        <p>Others quickly followed. Five employees of GNU Technologies, a wireless networking company in Atlanta, arrived with a 28-foot trailer. Steve Milton drove from Seattle and Michael Kasprzyk came from Buffalo.</p>
+        <p>To attract more volunteers and donations, Mr. Dearman set up a Web site, www.radioresponse.org.</p>
+        <p>Similar efforts were thrown together elsewhere in the hurricane-ravaged areas. Tropos Networks, which is based in Sunnyvale, Calif., and makes routers, worked with its customers, including wireless Internet providers in Lafayette, Baton Rouge and New Orleans, to set up ''mesh networks'' that provided Internet connections to Federal Emergency Management Agency shelters and others. They also worked with MCI to send signals to two FEMA ships offshore.</p>
+        <p>Antennas that could not be placed near electrical outlets ran off solar panels that charged batteries during the day. Mesh networks are flexible, so if one antenna or dish is damaged, another one nearby picks up the slack.</p>
+        <p>The Federal Communications Commission took note of these ad hoc networks, pointing out in recent proceedings that wireless Internet providers helped restore communications in more than 400 places hit by Katrina.</p>
+        <p>Back in Rayville, Mr. Dearman soon found that he had unwittingly become Max Yasgur, with his farm a wireless Woodstock, attracting strangers committed to a cause sleeping in tents and trucks.</p>
+        <p>''It was a camp of geeks and one redneck, and I was the redneck,'' Mr. Dearman said with a laugh. ''These boys did everything that was needed, and no one was ever ugly to anyone.''</p>
+        <p>Visitors immediately felt at ease. Doug Roberts, a network engineer from Columbus, Ohio, said that the air in Mr. Dearman's home ''was filled with nerdspeak, cigarette smoke and people talking about the physics of Star Trek transponders.''</p>
+        <p>Mr. Roberts, a vegetarian, said that he had eaten brisket and brownies for dinner made by Mr. Dearman's brother-in-law. Though he knew little about wireless technology, Mr. Roberts drove people to look at towers and hang equipment. He also helped load trailers with gear.</p>
+        <p>''I didn't want to use my muscles but I had to,'' he said, to emphasize his geek credentials..</p>
+        <p>With equipment and people pouring in, Mr. Dearman became a wireless Johnny Appleseed, sprinkling Louisiana and Mississippi with antennas and Internet connections. He directed teams south to shelters and churches along the Louisiana and Mississippi coast. From Delhi, the group sent signals 18 miles to one of his microwave dishes in Tallulah, where there were three shelters.</p>
+        <p>The group patched lines in Winnsboro, a town with two shelters, to Baskin and Archibald, where there were more shelters. Mr. Dearman already had connections in these towns, but to reach shelters blocked by buildings and trees, he used special antennas donated by Trango.</p>
+        <p>Mr. Dearman said that the servers on his farm that routed calls between the shelters and the Internet handled 40,000 calls.</p>
+        <p>He also took what he called ''my group of gypsy geeks'' farther south to Ponchatoula, where there was gas, power and water. From there, they traveled to Bay St. Louis, a town on the Mississippi-Louisiana border that was flattened.</p>
+        <p>At that point, Mr. Dearman heard that MCI had a high-grade Internet connection in Gulfport, 16 miles to the east, which he could use if he got the antennas in place. That connection was beamed via Long Beach to Bay St. Louis, where Mr. Dearman's team was able to provide Internet access to the police department, local hospitals andother emergency groups.</p>
+        <p>The randomness of these projects mirrored Mr. Dearman's own introduction to the wireless world. Four years ago, he recalled, he said he wanted an Internet connection at his home to help him run his forklift business. No company sold residential broadband lines in his area, so he ordered a commercial high-speed connection.</p>
+        <p>It worked great, but it cost $1,400 a month. So Mr. Dearman poked around the Web and learned about wireless networks. He enrolled in a course in Virginia and read tech journals. He discovered that the technology not only worked, but that it would also make a good business since many towns near him had no broadband service.</p>
+        <p>So he started a company, Maximum Access, that delivered broadband lines for $50 a month.</p>
+        <p>Now, Mr. Dearman and other wireless network advocates are trying to build on their success after Katrina by calling on the F.C.C. to dedicate part of the radio spectrum to wireless Internet providers and emergency responders.</p>
+        <p>''Certainly this technology will be given a new look for disaster awareness and dull the arguments against them,'' said Ron Sege, the chief executive of Tropos.</p>
+        <p>Approval is not certain. Established land-line and cellular carriers are not enamored with the service because it undercuts their high-speed data services, and they have fought publicly financed wireless networks that give citizens free access to the Internet.</p>
+        <p>But Mr. Dearman has a bigger concern: how to keep his stitched-together network still going after his band of wireless warriors get back to their day jobs. At the moment, few new stewards are in sight.</p>
+        <p>Nevertheless, Mr. Dearman said he had learned plenty of lessons that would pay off after the next storm. With enough equipment and a list of professionals to call, he said, ''I could be anywhere in 48 hours.''</p>
+        <p>In a Crisis, a Digital Lifeline</p>
+        <p>AFTER disasters like the London subway bombings and Hurricane Katrina, people predictably rush to call their loved ones. One result is also predictable -- jammed phone circuits and fast busy signals.</p>
+        <p>But cellphone users are learning that short messages typed on handsets have a good chance of getting through.</p>
+        <p>For one, text messages contain far less data. A typical message contains 128 characters or less, and about 10 messages can be sent in the time it takes to connect one call. The person receiving the message does not need to be on the line when the message is sent, and text messages look for openings in the network, trying until they get through.</p>
+        <p>After Katrina hit, many people got messages through, even though their voice calls did not connect. Verizon Wireless, Cingular Wireless and other carriers have started telling their customers to try sending text messages during emergencies.</p>
+        <p>Even before Katrina, Americans were sending more short messages than ever before, a sign that they will become popular as digital lifelines in future calamities. In June, Americans sent 7.2 billion short messages with their cellphones, two-and-a-half times more than the same month last year, according to C.T.I.A.-The Wireless Association, a trade group.</p>
+        <p>KEN BELSON</p>
+        <p>RADIO RESPONSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

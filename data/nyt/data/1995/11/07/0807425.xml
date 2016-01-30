@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Training Students to Help Others</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="807425"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">TEACHERS AND SCHOOL EMPLOYEES</classifier>
+        <classifier class="indexing_service" type="descriptor">TUTORS ANDTUTORING</classifier>
+        <classifier class="indexing_service" type="descriptor">COLLEGES AND UNIVERSITIES</classifier>
+        <org class="indexing_service">INSTITUTE OF URBAN EDUCATION</org>
+        <org class="indexing_service">ST PETER'S COLLEGE</org>
+        <person class="indexing_service">KELLER, SUSAN JO</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DF1439F934A35752C1A963958260" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Training Students to Help Others</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN JO KELLER</byline>
+      <byline class="normalized_byline">KELLER, SUSAN JO</byline>
+      <dateline>JERSEY CITY</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A lot of teaching about teaching will be going on in Hudson County because of a $927,000 Federal grant to the Institute for the Advancement of Urban Education at St. Peter's College. College students will be trained to tutor high school students and high school students will learn how to help elementary students. Parents and senior citizens will be recruited, too.</p>
+      </block>
+      <block class="full_text">
+        <p>A lot of teaching about teaching will be going on in Hudson County because of a $927,000 Federal grant to the Institute for the Advancement of Urban Education at St. Peter's College. College students will be trained to tutor high school students and high school students will learn how to help elementary students. Parents and senior citizens will be recruited, too.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE ART OF HIS CHOOSING</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="749780"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <org class="indexing_service">WHITNEY MUSEUM OF AMERICAN ART (NYC)</org>
+        <person class="indexing_service">GOLDBERGER, PAUL</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DA133EF93AA25750C0A963958260" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE ART OF HIS CHOOSING</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Having exhibited at the MOMA, lived the corporate life and written a few obscure historical novels, I venture a view on the visual fine arts, prompted by your feature article about the Whitney Biennial ("The Art of His Choosing," by Paul Goldberger, Feb. 26).</p>
+        <p>Major art has always been a result of its times and technology: cave paintings, bas-relief, mosaic, wood panel, stained glass, fresco and canvas, all logically static and mute.</p>
+      </block>
+      <block class="full_text">
+        <p>Having exhibited at the MOMA, lived the corporate life and written a few obscure historical novels, I venture a view on the visual fine arts, prompted by your feature article about the Whitney Biennial ("The Art of His Choosing," by Paul Goldberger, Feb. 26).</p>
+        <p>Major art has always been a result of its times and technology: cave paintings, bas-relief, mosaic, wood panel, stained glass, fresco and canvas, all logically static and mute.</p>
+        <p>The Whitney's choices and such ilk are eclectic, anachronistic and trivial, destined to become minor art, if art at all. Imagine a 25th-century archeologist unearthing a signed mattress, a Pollock and then a Pompeian mosaic -- or a preserved video disk.</p>
+        <p>Abstract Expressionism, Minimalism and installations will be historic footnotes . . .  lifeless, selfish interpretations of a moving and sonorous world. JOHN VAN ZWIENEN Worcester, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

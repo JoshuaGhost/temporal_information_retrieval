@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hunger Strikers At Guantánamo</title>
+    <meta content="l15gitmo-2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1739890"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Guantanamo Bay Naval Base (Cuba)</classifier>
+        <classifier class="indexing_service" type="descriptor">Hunger Strikes</classifier>
+        <location class="indexing_service">Afghanistan</location>
+        <person class="indexing_service">Atkinson, Holly (Dr)</person>
+        <person class="indexing_service">Nicholl, David (Dr)</person>
+        <person class="indexing_service">Wilks, Michael (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Strikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunger Strikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EEDE133EF936A25751C0A9609C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hunger Strikers At Guantánamo</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Drs Holly G Atkinson, David Nicholl and Michael Wilks holds Defense Dept's medical personnel are violating every canon of medical ethics in their treatment of hunger strikers at Guantanamo (Feb 9 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Defense Department's medical personnel are violating every canon of medical ethics in their treatment of hunger strikers at Guantánamo.</p>
+        <p>In December, the commander of the hospital there, Capt. John S. Edmondson, acknowledged in a letter to one of us (Dr. Nicholl) that conditions essential to enable prisoners to decide freely whether to go on a hunger strike, including a noncoercive environment and the ability to consult with their families, were not being met.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Defense Department's medical personnel are violating every canon of medical ethics in their treatment of hunger strikers at Guantánamo.</p>
+        <p>In December, the commander of the hospital there, Capt. John S. Edmondson, acknowledged in a letter to one of us (Dr. Nicholl) that conditions essential to enable prisoners to decide freely whether to go on a hunger strike, including a noncoercive environment and the ability to consult with their families, were not being met.</p>
+        <p>Now the situation is even worse, as the prisoners have been deprived of access to the courts.</p>
+        <p>Instead of using brutal and painful methods to force-feed the prisoners, the Pentagon should enable the prisoners to have independent medical examinations and advice to enable them make informed decisions affecting their health.</p>
+        <p>Once made, those decisions should be respected.</p>
+        <p>Holly G. Atkinson, M.D.  David Nicholl, M.D.  Michael Wilks, M.D.  New York, Feb. 9, 2006</p>
+        <p>The writers are, respectively, president of Physicians for Human Rights; consultant neurologist, City Hospital, Birmingham, England; and chairman, Medical Ethics Committee, British Medical Association.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

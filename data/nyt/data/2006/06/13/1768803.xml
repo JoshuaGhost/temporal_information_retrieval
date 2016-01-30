@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The 3 Suicides at Guantánamo</title>
+    <meta content="l13gitmo-3" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1768803"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="indexing_service" type="descriptor">Guantanamo Bay Naval Base (Cuba)</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom and Human Rights</classifier>
+        <person class="indexing_service">Cohen, Robert L (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EFDA1331F930A25755C0A9609C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The 3 Suicides at Guantánamo</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dr Robert L Cohen, court-appointed monitor of health care in several state prisons in US, says prisoners at Guantanamo are subject to inhuman treatment intended to drive men to madness, which leads to suicide</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a federal court-appointed monitor of health care in prisons for more than 20 years, I have reviewed the medical records of prisoners who killed themselves in prisons and jails throughout the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a federal court-appointed monitor of health care in prisons for more than 20 years, I have reviewed the medical records of prisoners who killed themselves in prisons and jails throughout the United States.</p>
+        <p>Prisoners kill themselves when they are hopeless, when they have no contact with their families, and when faced with a terrifying future.</p>
+        <p>Prisoners at Guantánamo are subject to torture and to cruel, inhuman and degrading punishment intended to drive men to madness, which leads to suicide.</p>
+        <p>For the sake of humanity, for the sake of the prisoners at Guantánamo and to divert our country from its course of infamy, the prison at Guantánamo must be closed immediately.</p>
+        <p>Robert L. Cohen, M.D.  New York, June 11, 2006</p>
+        <p>The writer, the medical director of Rikers Island Health Services from 1982 to 1985, is a federal court-appointed monitor of medical care for prisoners in Michigan, New York, and Connecticut.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

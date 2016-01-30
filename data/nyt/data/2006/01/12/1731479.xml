@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Plains: Oklahoma: Bush Declares Fires A Disaster</title>
+    <meta content="12brfs-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1731479"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3D6163FF931A25752C0A9609C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Plains: Oklahoma: Bush Declares Fires A Disaster</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC O'KEEFE (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush issued a disaster declaration on Tuesday for 12 counties ravaged by fires. The move makes federal financing available to people who have suffered fire losses since Dec. 1. Mr. Bush ordered federal aid to supplement state and local efforts. ''We want to read the fine print and get all our questions answered before we are satisfied that the declaration is sufficient to meet Oklahoma's needs,'' Gov. Brad Henry said in a statement.</p>
+        <p>ERIC O'KEEFE (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush issued a disaster declaration on Tuesday for 12 counties ravaged by fires. The move makes federal financing available to people who have suffered fire losses since Dec. 1. Mr. Bush ordered federal aid to supplement state and local efforts. ''We want to read the fine print and get all our questions answered before we are satisfied that the declaration is sufficient to meet Oklahoma's needs,'' Gov. Brad Henry said in a statement.</p>
+        <p>ERIC O'KEEFE (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

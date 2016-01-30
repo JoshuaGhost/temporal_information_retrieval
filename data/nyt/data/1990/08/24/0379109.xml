@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diner's Journal</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="379109"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <org class="indexing_service">ANDIAMO (NYC RESTAURANT)</org>
+        <org class="indexing_service">PANGAUD (NYC RESTAURANT)</org>
+        <org class="indexing_service">LA BELLE CREOLE (NYC RESTAURANT)</org>
+        <org class="indexing_service">MON CHER TON TON (NYC RESTAURANT)</org>
+        <person class="indexing_service">GODON, GREGORY</person>
+        <person class="indexing_service">MILLER, BRYAN</person>
+        <person class="indexing_service">MENAUD, MARC</person>
+        <person class="indexing_service">CRISPO, FRANK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DE133AF937A1575BC0A966958260" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diner's Journal</hl1>
+      </hedline>
+      <byline class="print_byline">By BRYAN MILLER</byline>
+      <byline class="normalized_byline">MILLER, BRYAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>Quick Changes</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>Quick Changes</p>
+        <p>Quick Changes</p>
+        <p>The ''now you see it now you don't'' award goes to La Belle Creole, at 174 Grand Street, which in six months has had three names and three menus. The Creole concept, which followed casual French, is now to be followed by a luxury French restaurant to be called Pangaud, after its chef and part owner Gerard Pangaud.</p>
+        <p>''We are going to do something very nice,'' Mr. Pangaud said. ''Just like I did in France when I got two stars.'' Mr. Pangaud said his partners, Edward and Andrew Penson, who are in the real-estate business, have made him a full partner and given him carte blanche. The Creole concept was not successful, Mr. Pangaud said, because ''it was not really me - it was not what I felt happy doing.''</p>
+        <p>Mon Cher Consultant</p>
+        <p>Marc Meneau, the chef and owner of the three-star (Michelin) L'Esperance in Vezelay, about two hours southeast of Paris, is the new consultant at Mon Cher Ton Ton, a French restaurant at 68 East 56th Street. Under the terms of his agreement with the Manhattan restaurant, Mr. Meneau will come roughly every month to oversee menu development, said Jean-Claude Lesbre, a captain at Mon Cher Ton Ton. He also has placed three of his French cooks in the kitchen here. Mon Cher Ton Ton also has a Japanese restaurant on the premises; no changes are planned there.</p>
+        <p>New Chef at Andiamo</p>
+        <p>Frank Crispo has left as chef at Andiamo, the Italian restaurant at 1991 Broadway, near 67th Street. The new chef is Gregory Godon, the former sous chef. Mr. Crispo said his immediate plans are to help open the Chef's and Cuisiniere's Club at 36 East 22d Street, where he is a partner with Charles Palmer of Aureole, Richard Moonan of the Water Club and several other chefs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

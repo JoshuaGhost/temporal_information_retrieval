@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Small Successful</title>
+    <meta content="15BOHL$05" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1002408"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="DANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Balleto di Toscana</org>
+        <person class="indexing_service">Bohlen, Celestine</person>
+        <person class="indexing_service">Bozzolini, Cristina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7DB1330F936A25750C0A96E958260" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Small Successful</hl1>
+      </hedline>
+      <byline class="print_byline">By CELESTINE BOHLEN</byline>
+      <byline class="normalized_byline">Bohlen, Celestine</byline>
+      <dateline>FLORENCE</dateline>
+      <abstract>
+        <p>Interview with Cristina Bozzolini, founder of Balleto di Toscana, which begins first North and South American tour; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Balleto di Toscana,  which started its first North and South American tour on Friday, is in many ways an Italian cultural anomaly. The company is private, it is small, its repertory is modern, and its success is greater abroad than at home, where contemporary dance is often forgotten in the institutional bias for the big splashy productions of Italy's state-financed opera houses.</p>
+        <p>When the Balleto di Toscana recently went to Frankfurt with its popular ''Mediterranea,'' an exuberant and haunting homage to the diverse cultures that share what the Romans called Mare Nostrum (Our Sea), there was a 10-minute standing ovation. The same ballet, a 1993 work by the Italian choreographer Mauro Bigonzetti, played to a half-empty house recently in the northern Italian city of Brescia.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Balleto di Toscana,  which started its first North and South American tour on Friday, is in many ways an Italian cultural anomaly. The company is private, it is small, its repertory is modern, and its success is greater abroad than at home, where contemporary dance is often forgotten in the institutional bias for the big splashy productions of Italy's state-financed opera houses.</p>
+        <p>When the Balleto di Toscana recently went to Frankfurt with its popular ''Mediterranea,'' an exuberant and haunting homage to the diverse cultures that share what the Romans called Mare Nostrum (Our Sea), there was a 10-minute standing ovation. The same ballet, a 1993 work by the Italian choreographer Mauro Bigonzetti, played to a half-empty house recently in the northern Italian city of Brescia.</p>
+        <p>But none of this bothers Cristina Bozzolini, the 54-year-old former prima ballerina who founded the company in Florence in 1985 as a way of giving Italian dancers an opportunity she never had: to perform contemporary choreography. ''I was frustrated,'' said Ms. Bozzolini, now the company's artistic director and still its driving force, speaking after a performance in between squeals from her cellular phone. ''So I set up my own company.''</p>
+        <p>In the beginning, she explained, most of the Balleto di Toscana's 12 dancers, all of them classically trained, were foreigners, since most good Italian dancers had to go abroad to explore their talents. Now the company has 16 full-time dancers, all but two of them Italian, a proportion that makes her proud.</p>
+        <p>Being small has allowed the company to maintain high professional standards -- with an emphasis on rigorous discipline that is evident in performances. Even when the company could not afford more than a dozen dancers, it was able to keep to its schedule, with none of the last-minute changes and cancellations common to state-owned companies. ''We have never missed a show,'' boasted Ms. Bozzolini.</p>
+        <p>The company, which is on the road for all but 10 performances in Florence a year, has now performed 80 ballets in all and keeps 10 in its current repertory, which includes varied offerings like Prokofiev's ''Romeo and Juliet,'' choreographed by Fabrizio Monteverde, and ''Blue Note'' and ''Don Giovanni,'' two newer works by Mr. Bigonzetti.</p>
+        <p>''Mediterranea'' is the only work being performed on the two-month tour and will be offered at the Joyce Theater in New York for a week starting on Tuesday. ''Everyone wants this ballet,'' said Ms. Bozzolini. ''It's about seas, about countries, about people overcoming their diversities.''</p>
+        <p>DANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hampel/Stefanides To Be Acquired</title>
+    <meta content="MB000806" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055372"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Hampel/stefanides</org>
+        <org class="indexing_service">Envoy Communications Group</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4DE173DF93AA25753C1A96E958260" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hampel/Stefanides To Be Acquired</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Envoy Communications Group is acquiring Hampel/Stefanides (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The agency world is getting smaller again as another independent shop is being acquired.</p>
+        <p>Envoy Communications Group in Toronto, which owns the Canadian agency Communique, is expanding to the United States by buying Hampel/Stefanides in New York. Financial terms of the deal, to be formally announced today, were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>The agency world is getting smaller again as another independent shop is being acquired.</p>
+        <p>Envoy Communications Group in Toronto, which owns the Canadian agency Communique, is expanding to the United States by buying Hampel/Stefanides in New York. Financial terms of the deal, to be formally announced today, were not disclosed.</p>
+        <p>Hampel/Stefanides, founded in 1993, will continue to operate as an autonomous agency under that name. The present management team -- Larry Hampel, 39, president, and Dean Stefanides, 43, and Brian Goodall, 50, co-creative directors -- will continue in those roles.</p>
+        <p>Hampel/Stefanides has had ''many opportunities to do a deal,'' Mr. Goodall said, but selected Envoy because it offered clients access to integrated marketing services like Web site design.</p>
+        <p>Hampel/Stefanides, which also has an office in San Francisco, has 60 employees and billings estimated at $110 million from clients like Aer Lingus. Envoy agencies have 175 employees and billings estimated at $75 million (United States) from clients like Adidas.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

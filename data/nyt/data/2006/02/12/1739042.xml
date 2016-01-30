@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ya Gotta Blame New York for Dat</title>
+    <meta content="12njbtw" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20060219T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1739042"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="BY THE WAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0D6143EF931A25751C0A9609C8B63" item-length="439" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ya Gotta Blame New York for Dat</hl1>
+      </hedline>
+      <byline class="print_byline">By TAMMY LA GORCE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MEMO to dialect coaches for ''The Sopranos'': there is no such thing (gasp!) as a Joisey accent. ''Deze and doze are examples of words many people associate with Jersey, but really they're borrowed from the New York City pattern.''</p>
+        <p>That comes from William Labov, director of the linguistics lab at the University of Pennsylvania and one of the authors of the new Atlas of North American English (Mouton de Gruyter, $620), a sprawling bible on regional accents. It is vast enough to include 139 color-coded maps and software that lets users click around the country to hear native speakers drop their r's and overextend their diphthongs with abandon. And the Garden State?</p>
+      </block>
+      <block class="full_text">
+        <p>MEMO to dialect coaches for ''The Sopranos'': there is no such thing (gasp!) as a Joisey accent. ''Deze and doze are examples of words many people associate with Jersey, but really they're borrowed from the New York City pattern.''</p>
+        <p>That comes from William Labov, director of the linguistics lab at the University of Pennsylvania and one of the authors of the new Atlas of North American English (Mouton de Gruyter, $620), a sprawling bible on regional accents. It is vast enough to include 139 color-coded maps and software that lets users click around the country to hear native speakers drop their r's and overextend their diphthongs with abandon. And the Garden State?</p>
+        <p>''What we have in Jersey is a continuum of two patterns,'' Mr. Labov, a Rutherford native, said in a recent phone conversation from his home in Philadelphia. ''In North Jersey -- and here I include Weehawken, Hoboken, Jersey City and Newark -- it makes no difference whether you're talking about the New York City pattern or the New Jersey pattern, because they're going to be similar. And Jersey definitely is not the tail wagging the New York City dog.''</p>
+        <p>He explained that, no matter how Jersey-esque it may sound, the Brooklynese spoken by Archie Bunker and firefighters in the Bronx belongs first and firmly to New York City.</p>
+        <p>''The moment you get to Paterson, it's a whole different world,'' he said. ''Once you get to South Jersey, you're well into the Philadelphia system, an entirely different nasal system. The word people think of when they think of the Philadelphia accent is warter'' -- water. But, he allowed, very slight regional variations may account for South Jerseyans' ability to scrape by without being called funny talkers while on vacation.</p>
+        <p>The relative vernacular cosmopolitanism of a region like Princeton also adds to New Jersey's linguistic appeal. ''If you're going to get married in Jersey, you might consider a six-foot submarine sandwich,'' Mr. Labov said. ''In New York, you would only consider a hero, and in Philadelphia, of course, you would only consider a hoagie. In Princeton all three words are used.''</p>
+        <p>Which is not to say that New Jersey, or at least the Princeton region, has a better-developed vocabulary than other regions. ''People aren't conscious of the boundaries much,'' he said. ''You just know how you say it.'' That being the case, and with all the borrowing from border states, Mr. Labov granted, New Jersey is not the most pioneering of states in his atlas.</p>
+        <p>''But we always have Springsteen,'' he said.</p>
+        <p>TAMMY LA GORCE</p>
+        <p>BY THE WAY</p>
+        <p>Correction:  February 19, 2006, Sunday  An article last Sunday about regional accents misidentified the home borough of the television character Archie Bunker, from ''All in the Family.'' He was from Astoria, Queens, not Brooklyn.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 19, 2006, Sunday</p>
+        <p>An article last Sunday about regional accents misidentified the home borough of the television character Archie Bunker, from ''All in the Family.'' He was from Astoria, Queens, not Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="727482"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOWS (EXHIBITS)</classifier>
+        <person class="indexing_service">SMITH, ROBERTA</person>
+        <person class="indexing_service">OURSLER, TONY</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DB1038F936A15752C1A962958260" item-length="406" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">SMITH, ROBERTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tony Oursler Metro Pictures 150 Greene Street (at Houston Street) SoHo Through tomorrow</p>
+        <p>In the strongest show of his career, Tony Oursler takes the concept of the talking head to places it hasn't been before, while giving the tired art of assemblage a needed boost. His discombobulated video sculptures combine projected or on-screen faces and sometimes figures with discarded furniture, fabric or scarecrowlike stuffed garments. They eerily bring to life a cast of unhappy characters who natter and curse, pound their fists, disparage themselves or the rest of us, or wedge themselves into tight places. The overall effect is of a none-too-comforting stroll through a mental hospital, each piece representing a patient in a different state of torment.</p>
+      </block>
+      <block class="full_text">
+        <p>Tony Oursler Metro Pictures 150 Greene Street (at Houston Street) SoHo Through tomorrow</p>
+        <p>In the strongest show of his career, Tony Oursler takes the concept of the talking head to places it hasn't been before, while giving the tired art of assemblage a needed boost. His discombobulated video sculptures combine projected or on-screen faces and sometimes figures with discarded furniture, fabric or scarecrowlike stuffed garments. They eerily bring to life a cast of unhappy characters who natter and curse, pound their fists, disparage themselves or the rest of us, or wedge themselves into tight places. The overall effect is of a none-too-comforting stroll through a mental hospital, each piece representing a patient in a different state of torment.</p>
+        <p>In "Getaway No. 2," a woman harangues the viewer from beneath a mattress, telling all to keep away, while "Broken" presents another video-head tangled up in chairs as if in the aftermath of a violent tantrum. Others seem to hallucinate: "I am a woman in a pile of money . . . I am a can of soup being opened" intones the artist's face, distorted by a drivel of secondary images and projected onto the stuffed head of a stuffed suit. And anyone who ventures close to a bouquet of fake flowers will find a strange little butterfly of a face incessantly telling herself how awful she is, a combination that adds a new twist to Surrealist montage.</p>
+        <p>Mr. Oursler plays the almost comic nonchalance of his means against some very strong, in fact uncontrollable emotions, which he frequently antes up with striking technological effects. For example, the face of the woman under the mattress, (it belongs to the actress Tracy Leipold, who appears in several works), fills a smallish screen in such a way that it seems slightly squashed by the weight of the bedding, which adds to the work's claustrophobic intensity.</p>
+        <p>Mr. Oursler is trolling the margins of territory already occupied by such artists as Cindy Sherman, Bruce Nauman and Mike Kelley. He aims to make the psychological real, by compressing the crafts of the sculptor, puppeteer, performance artist, movie director and video wizard into small talking objects. His work could be less physically awkward and more thoroughly visual -- maybe he needs to add a little Nam June Paik to the mix -- but the best of these pieces have a haunting sense of emotional exposure and lots of possibilities. ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

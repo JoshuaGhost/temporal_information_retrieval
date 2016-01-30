@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Coffee, Tea or I.S.P.?</title>
+    <meta content="18PLAN$05" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/18/technology/circuits/18PLAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1385016"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Honeywell Inc</org>
+        <org class="indexing_service">Inmarsat</org>
+        <org class="indexing_service">Thales</org>
+        <person class="indexing_service">Wald, Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Air Traffic Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Traffic Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DB163FF93BA25757C0A9649C8B63" item-length="570" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Coffee, Tea or I.S.P.?</hl1>
+        <hl2 class="online_headline">Coffee, Tea or I.S.P.? Connected at 40,000 Feet</hl2>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew</byline>
+      <abstract>
+        <p>Honeywell, satellite service provider Inmarsat and French electronics company Thales demonstrate system in which fliers with laptops can be linked with Ethernet or LAN wireless connection to antenna atop fuselage, allowing speeds of up to 64 KB per second; first market is corporate jets, but builders hope to sell systems to airlines too; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPEED demons, the kind who like corporate jets that do 500 knots at 40,000 feet, are reaching the point where they can cruise the Internet at that altitude as well -- and at speeds comparable to a deskbound computer's.</p>
+        <p>This month Honeywell, the satellite service provider Inmarsat and the French electronics company Thales demonstrated a system in which fliers with laptops can be linked, by an Ethernet LAN or wireless connection, to an antenna on top of the fuselage, allowing speeds of up to 64 kilobits per second.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Speed demons, the kind who like corporate jets that do 500 knots at 40,000 feet, are reaching the point where they can cruise the Internet at that altitude as well.</p>
+      </block>
+      <block class="full_text">
+        <p>SPEED demons, the kind who like corporate jets that do 500 knots at 40,000 feet, are reaching the point where they can cruise the Internet at that altitude as well -- and at speeds comparable to a deskbound computer's.</p>
+        <p>This month Honeywell, the satellite service provider Inmarsat and the French electronics company Thales demonstrated a system in which fliers with laptops can be linked, by an Ethernet LAN or wireless connection, to an antenna on top of the fuselage, allowing speeds of up to 64 kilobits per second.</p>
+        <p>Laptop users need a network card or a wireless modem. The system, called Swift 64, is fast enough to handle streaming video or video conference calls using standard equipment.</p>
+        <p>The first market is corporate jets, but the builders hope to sell the system to airlines, too. The companies did not give a price but said it would depend partly on how much equipment was already on board. Many planes already have some satellite communication gear for passenger seat-back telephones and for the cockpit crew to use to communicate with the airline or maintenance base.</p>
+        <p>Boeing has a competing product that is in service on 11 corporate planes, and Lufthansa is hoping to offer it on a Boeing 747 late this year or early next year. Boeing and Lufthansa have not worked out how they will charge customers. Communications experts say they could charge by the minute or the bit.</p>
+        <p>A spokesman for Connexion by Boeing, the subsidiary that produces the system, said it would allow the use of palmtop-based e-mail service in addition to laptops, and speeds far higher than the Swift 64 system, 20 gigabits per second.</p>
+        <p>Tenzing Communications, a Seattle company partly owned by the European plane maker Airbus, also provides a slower satellite-based service on a handful of airlines.</p>
+        <p>Honeywell's demonstration plane, a Cessna Citation, a twin-engine business jet that carries two crew members and as many as eight passengers, carries an antenna about the size and shape of a surfboard.</p>
+        <p>Planes with long over-water routes often carry satellite antennas; older antenna models are steered mechanically to keep them pointed toward the satellite as the plane banks, climbs and descends. The one on the Honeywell plane is steered electronically. On a recent demonstration flight from Dulles Airport near Washington, the antenna was pointed at a satellite in orbit over Brazil that transmitted back to a ground station in Connecticut.</p>
+        <p>On the demonstration flight, a user of a Dell Latitude CPx found that the Web site of the Federal Aviation Administration popped up on the screen so fast that the system's performance was nearly indistinguishable from that of a desktop in a corporate office.</p>
+        <p>Such speed offers white-knuckle fliers new possibilities: for example, it took no time at all to download a 238-kilobyte aviation safety manual.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

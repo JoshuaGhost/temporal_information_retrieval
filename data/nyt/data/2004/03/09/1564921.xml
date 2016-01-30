@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Virtual Green Tea</title>
+    <meta content="09QNA.$02" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/09/health/nutrition/09QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1564921"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Tea</classifier>
+        <classifier class="indexing_service" type="descriptor">Dietary Supplements and Herbal Remedies</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="descriptor">Tea</classifier>
+        <classifier class="online_producer" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EED9163EF93AA35750C0A9629C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Virtual Green Tea</hl1>
+        <hl2 class="online_headline">Virtual Green Tea</hl2>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column compares health benefits of drinking Green Tea and similar herbal supplements; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is there a green tea extract that provides the same health benefits as the brewed stuff? The recommended number of cups is too much for me to drink.</p>
+        <p>A. Laboratory tests and some, but not all, epidemiological studies suggest that green tea has properties that may help prevent cancer and arterial plaque, and there are dietary supplements that contain catechins, the substances in green tea that are suspected, but not proved, to have health benefits.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>This week's question: Is there a green tea extract that provides the same health benefits as the brewed stuff?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is there a green tea extract that provides the same health benefits as the brewed stuff? The recommended number of cups is too much for me to drink.</p>
+        <p>A. Laboratory tests and some, but not all, epidemiological studies suggest that green tea has properties that may help prevent cancer and arterial plaque, and there are dietary supplements that contain catechins, the substances in green tea that are suspected, but not proved, to have health benefits.</p>
+        <p>Health claims for the supplements, which are sometimes marketed for weight loss, cancer and plaque, would require rigorous clinical trials to substantiate, and they have not been done, said Dr. Sheldon S. Hendler, co-editor of the PDR for Nutritional Supplements, the standard reference book in the field.</p>
+        <p>''In the meantime, those who enjoy green tea should continue to do so,'' Dr. Hendler suggested.</p>
+        <p>''Catechins are potent antioxidants, and they also have anticarcinogenic, anti-inflammatory, anti-atherogenic and antimicrobial activities, at least in the laboratory,'' he said.</p>
+        <p>In the epidemiological studies suggesting that green tea may have cancer-preventive activity, the amount of green tea consumed was about 10 or more teacups a day, each with about 30 milligrams of catechins.</p>
+        <p>Epigallocatechin gallate (EGCG) is the major catechin in tea. (White tea, an expensive brew made from very young tea leaves, has even more catechins, and black tea, because it is fermented, has fewer.)</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

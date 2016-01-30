@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="108903"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">CRIME AND CRIMINALS</classifier>
+        <classifier class="indexing_service" type="descriptor">ROBBERIES AND THEFTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">BEDFORD-STUYVESANT (NYC)</location>
+        <person class="indexing_service">PURDUM, TODD S</person>
+        <person class="indexing_service">DESILVA, PHILLIP</person>
+        <person class="indexing_service">HUGGINS, MARY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D91731F931A25752C0A96E948260" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+      <byline class="print_byline">Gunman Shoots 2 Passengers On a Brooklyn Subway TrainBy TODD S. PURDUM</byline>
+      <byline class="normalized_byline">PURDUM, TODD S</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A teen-ager who resisted a robbery was shot in the thigh, and the same bullet seriously wounded a woman who was seated near him on a subway train in Brooklyn yesterday, the police said. The gunman escaped.  The victims were shot on a southbound A train as it approached the Kingston-Throop Avenue station in the Bedford-Stuyvesant section about 1 P.M., the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A teen-ager who resisted a robbery was shot in the thigh, and the same bullet seriously wounded a woman who was seated near him on a subway train in Brooklyn yesterday, the police said. The gunman escaped.  The victims were shot on a southbound A train as it approached the Kingston-Throop Avenue station in the Bedford-Stuyvesant section about 1 P.M., the police said.</p>
+        <p>A teen-ager who resisted a robbery was shot in the thigh, and the same bullet seriously wounded a woman who was seated near him on a subway train in Brooklyn yesterday, the police said. The gunman escaped.  The victims were shot on a southbound A train as it approached the Kingston-Throop Avenue station in the Bedford-Stuyvesant section about 1 P.M., the police said. They said another teen-ager tried to steal a gold chain from the youth, Phillip DeSilva, 16 years old, and shot him once with a .45-caliber pistol when he resisted.</p>
+        <p>The bullet went through Mr. DeSilva's right thigh and struck the woman, Mary Huggins, 47, of 492 Throop Avenue, in the stomach. She was listed in critical condition at Kings County Hospital and was undergoing surgery to remove the bullet, said a hospital spokeswoman, Leah Johnson. Mr. DeSilva was in stable condition at the hospital. Gun Is Recovered</p>
+        <p>The suspect ran from the train after it stopped and the doors opened. A transit police officer posted at the station encountered the suspect, who told him there had been a shooting on the train, said a transit police spokesman, Albert W. O'Leary. But the teen-ager fled when the officer, Edward Tamney, tried to obtain more information and detain him as a witness, Mr. O'Leary said.</p>
+        <p>Officer Tamney chased the youth onto the street. During the pursuit, the suspect dropped a gun, a United States Army-issue .45-caliber Colt pistol. After picking up the gun, the officer renewed the chase, but lost the suspect in the Albany Houses project at Park Place, Mr. O'Leary said.</p>
+        <p>Mr. O'Leary said he did not know whether Mr. DeSilva had known the suspect. He said the wounded woman was ''a bystander.''</p>
+        <p>The only description that the police could provide of the suspect was that he was black, about 17 years old and was wearing two rings on his left hand and a red ski jacket.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

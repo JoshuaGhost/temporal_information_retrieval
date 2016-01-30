@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Downtown Theater Company Is Moving Even Farther South</title>
+    <meta content="21proj" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/11/21/theater/21proj.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1806379"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <org class="online_producer">Culture Project</org>
+        <person class="online_producer">Buchman, Allan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4D6153EF932A15752C1A9609C8B63" item-length="431" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Downtown Theater Company Is Moving Even Farther South</hl1>
+        <hl2 class="online_headline">A Downtown Theater Company Is Moving Even Farther South</hl2>
+      </hedline>
+      <byline class="print_byline">By CAMPBELL ROBERTSON</byline>
+      <byline class="normalized_byline">Robertson, Campbell</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Culture Project, the 10-year-old downtown nonprofit theater that specializes in political drama, has found a new home: the space now occupied by the Manhattan Ensemble Theater.</p>
+        <p>The reason for the move -- surprise, surprise -- is rent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Culture Project, the 10-year-old downtown nonprofit theater that specializes in political drama, has found a new home: the space now occupied by the Manhattan Ensemble Theater.</p>
+      </block>
+      <block class="full_text">
+        <p>The Culture Project, the 10-year-old downtown nonprofit theater that specializes in political drama, has found a new home: the space now occupied by the Manhattan Ensemble Theater.</p>
+        <p>The reason for the move -- surprise, surprise -- is rent.</p>
+        <p>At its current site at 45 Bleecker Street in the East Village, the Culture Project had two leases: one on the fourth-floor offices and living quarters of Allan Buchman, the project's founder and artistic director, and another on two performance spaces, a 199-seat theater on the first floor and a 99-seater in the basement.</p>
+        <p>The company pays $50,000 a month for both theaters and office space, Mr. Buchman said. The lease for the offices was renewed in April. But for more than a year Mr. Buchman had been looking around for new theater space. The rent was just too high, he said, and under terms of the seven-year lease that was drawn up in June, it was only going to get higher.</p>
+        <p>Meanwhile, Dave Fishelson, the founder and artistic director of the five-year-old Manhattan Ensemble, had decided to get out of nonprofit theater. The success of his show ''Golda's Balcony'' -- and the time demanded by transferring the show to Broadway in 2003, then taking it on the road -- had forced him to rent out the theater's space at 55 Mercer Street, between Broome and Grand Streets in SoHo, for long periods, including most of the last two years. It was simpler, Mr. Fishelson decided, to become a full-time commercial producer for the moment.</p>
+        <p>First, though, he had to find someone to take over the 10 years remaining on his theater's lease. About three weeks ago he learned that Mr. Buchman, still in negotiations over the new lease at 45 Bleecker, was seeking an alternate site. Long story short: The Culture Project will move its performance space into 55 Mercer in January.</p>
+        <p>In its new building the Culture Project space will be cut to one 140-seat theater from its two existing theaters, but the savings, which Mr. Buchman estimated at $300,000 the first year alone, were worth it. Also, as part of the deal, the company is buying the Manhattan Ensemble Theater's lighting and sound equipment, gear that it generally rents.</p>
+        <p>''I want our money to be going onstage rather than into real estate,'' Mr. Buchman said.</p>
+        <p>Several projects that had been in line for the 99-seat theater will not take place as planned because of the move, Mr. Buchman said. Otherwise the schedule is still being worked out for various productions, including ''Dai (Enough),'' which opened at the current space last week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

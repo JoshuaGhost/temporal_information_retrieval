@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wall Street; Zero-Coupon Junk: Is It Really Worth the Risk?</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="651445"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">CORPORATE BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">INVESTMENT STRATEGIES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DF1F3EF932A15752C1A965958260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wall Street; Zero-Coupon Junk: Is It Really Worth the Risk?</hl1>
+      </hedline>
+      <byline class="print_byline">By Floyd Norris</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT takes confidence to lend to a company with dubious credit on terms that forgo receiving any interest for many years.</p>
+        <p>That investors have confidence can be seen from the strength of underwriting business for zero-coupon bonds, which pay no cash interest but instead are worth more at maturity, that are rated below investment grade. If the company goes under in a few years, the bond holder could wind up with nothing to show for the investment.</p>
+      </block>
+      <block class="full_text">
+        <p>IT takes confidence to lend to a company with dubious credit on terms that forgo receiving any interest for many years.</p>
+        <p>That investors have confidence can be seen from the strength of underwriting business for zero-coupon bonds, which pay no cash interest but instead are worth more at maturity, that are rated below investment grade. If the company goes under in a few years, the bond holder could wind up with nothing to show for the investment.</p>
+        <p>While issues of regular zero-coupon junk bonds have not yet returned to the record levels of 1988, before the collapse of the junk market, those of convertible zeros have set a record this year. Buyers hope the stock will soar, so conversion will be profitable, but figure that the promise of interest provides protection against a bear market in stocks.</p>
+        <p>So enthusiastic are buyers that issuers must promise little in the way of interest. The latest issue, from Office Depot, promises just 4 percent, with payment in seven years if the stock has not risen enough to make conversion worthwhile. FLOYD NORRIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  DEUTSCH, TESSIE (NEE MOLLOV)</title>
+    <meta content="DN021698" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="995789"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">DEUTSCH, TESSIE (NEE MOLLOV)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E2DC103CF935A25751C0A96E958260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  DEUTSCH, TESSIE (NEE MOLLOV)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DEUTSCH-Tessie (nee Mollov). Died February 15, 1998. Survived by son Barry Deutsch of Canton, CT, daughter Kerri Maner of Campbell Hall, NY, brother Norman Mollov, of Jamaica, NY, and six grandchildren. Funeral services 1 PM, today, Mt. Hebron Cemetery, Flushing, NY. For information call Weinstein Mortuary of Hartford, CT.</p>
+      </block>
+      <block class="full_text">
+        <p>DEUTSCH-Tessie (nee Mollov). Died February 15, 1998. Survived by son Barry Deutsch of Canton, CT, daughter Kerri Maner of Campbell Hall, NY, brother Norman Mollov, of Jamaica, NY, and six grandchildren. Funeral services 1 PM, today, Mt. Hebron Cemetery, Flushing, NY. For information call Weinstein Mortuary of Hartford, CT.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

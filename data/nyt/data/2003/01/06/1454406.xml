@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scandal, Silence and the Church</title>
+    <meta content="LTR230131" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1454406"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Priests</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Leonardi, Rich</person>
+        <person class="indexing_service">Dintner, Paul E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Priests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E1DD143EF935A35752C0A9659C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scandal, Silence and the Church</hl1>
+      </hedline>
+      <abstract>
+        <p>Rich Leonardi letter replies to Paul E Dintner's Jan 1 Op-Ed article linking child abuse scandal in Roman Catholic Church to culture of clerical deference to authority</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''A Catholic Crisis, Bestowed From Above,'' by Paul E. Dinter (Op-Ed, Jan. 1), says many priests remained silent after the ''out of sync'' papal encyclical Humanae Vitae, which famously opposed contraception. Presumably, a church with a more participatory clergy would have fewer crises like the present one.</p>
+        <p>Humanae Vitae was not greeted with total priestly silence. Pope Paul VI, apparently fearing schism, allowed the dissenting priests to go unrebuked. This papal reluctance taught American bishops that the Vatican would not support efforts to maintain priestly discipline and doctrinal integrity, a lesson not forgotten when the church faced new crises in subsequent decades.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''A Catholic Crisis, Bestowed From Above,'' by Paul E. Dinter (Op-Ed, Jan. 1), says many priests remained silent after the ''out of sync'' papal encyclical Humanae Vitae, which famously opposed contraception. Presumably, a church with a more participatory clergy would have fewer crises like the present one.</p>
+        <p>Humanae Vitae was not greeted with total priestly silence. Pope Paul VI, apparently fearing schism, allowed the dissenting priests to go unrebuked. This papal reluctance taught American bishops that the Vatican would not support efforts to maintain priestly discipline and doctrinal integrity, a lesson not forgotten when the church faced new crises in subsequent decades.</p>
+        <p>Mr. Dinter objects to papal authority, despite its 2,000-year pedigree. But as the aftermath of Humanae Vitae makes clear, a congregational Catholic church unmoored from orthodoxy would likely have more crises, not fewer.</p>
+        <p>RICH LEONARDI  Cincinnati, Jan. 1, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

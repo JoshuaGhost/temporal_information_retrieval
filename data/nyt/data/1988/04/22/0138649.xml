@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First Jersey Case Is Settled</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="138649"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">INSIDERS INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">VIOLATIONS OF SECURITIES AND COMMODITIES REGULATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINES (PENALTIES)</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">SECURITIES AND EXCHANGE COMMISSION (SEC)</org>
+        <org class="indexing_service">FIRST NATIONAL CORP</org>
+        <person class="indexing_service">LEONE, RITA F</person>
+        <person class="indexing_service">GOROLAMO, RITA F</person>
+        <person class="indexing_service">LEONE, ARMAND SR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0D6153AF931A15757C0A96E948260" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First Jersey Case Is Settled</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>WASHINGTON, April 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A former director of the First Jersey National Corporation and her husband today settled Federal civil charges that they traded First Jersey stock while possessing non-public information about merger negotiations with a unit of National Westminster Bank P.L.C. of Britain last summer.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A former director of the First Jersey National Corporation and her husband today settled Federal civil charges that they traded First Jersey stock while possessing non-public information about merger negotiations with a unit of National Westminster Bank P.L.C. of Britain last summer.</p>
+        <p>A former director of the First Jersey National Corporation and her husband today settled Federal civil charges that they traded First Jersey stock while possessing non-public information about merger negotiations with a unit of National Westminster Bank P.L.C. of Britain last summer.</p>
+        <p>The Securities and Exchange Commission charged Rita F. Leone, whose name was listed by First Jersey as Rita F. Girolamo on its list of directors, and her husband, Armand Leone Sr., in a lawsuit filed in Federal District Court in Manhattan.</p>
+        <p>They settled the charges without admitting or denying the allegations and were ordered to repay $774,302 in profits that may have been illegal and to pay a $480,916 penalty under the Insider Trading Sanctions Act of 1984.</p>
+        <p>Julian Friedman, the Leones' lawyer, said the couple would have no comment.</p>
+        <p>According to the complaint, Mrs. Leone, the vice chairman of the department of radiology at the New York Medical College, was informed of merger discussions between First Jersey and National Westminster on July 15, 1987, after a regular meeting of the board.</p>
+        <p>The S.E.C. contended that she had informed Mr. Leone, who then instructed the family's stockbroker to purchase shares for various family accounts.</p>
+        <p>Within three weeks, according to the complaint, based on the information provided by Mrs. Leone, a total of 37,525 First Jersey shares had been purchased at an average price of between $54.375 and $55.625 a share.</p>
+        <p>On Aug. 5, First Jersey announced the merger with National Westminster for $82 a share.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

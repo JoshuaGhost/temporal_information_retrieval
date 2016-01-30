@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV103637" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1052981"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Polk, James</person>
+        <person class="indexing_service">Restrepo, Laura</person>
+        <object.title class="indexing_service">Angel of Galilea, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DE1238F932A25753C1A96E958260" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By James Polk</byline>
+      <byline class="normalized_byline">Polk, James</byline>
+      <abstract>
+        <p>James Polk reviews book The Angel of Galilea by Laura Restrepo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE ANGEL OF GALILEA</p>
+        <p>By Laura Restrepo.</p>
+        <p>Crown, $20.</p>
+      </block>
+      <block class="full_text">
+        <p>THE ANGEL OF GALILEA</p>
+        <p>By Laura Restrepo.</p>
+        <p>Crown, $20.</p>
+        <p>The Colombian novelist Laura Restrepo's first book to appear in English is a decidedly mixed bag. Its heroine, Mona, a dissatisfied reporter for a sensational magazine in Bogota, is dispatched to cover the appearance of an angel in Galilea, one of the city's most decrepit slums. Once she finds the place and meets the divine creature, she quickly falls in love, has beautiful sex and decides ''I wanted my love to become a common man, rather than continue to be a splendid angel.'' She is not alone in wishing to diminish the miracle. Others invest the strange events in Galilea with their own singular meanings: Mona's editor wants to use them to boost his magazine's circulation, one of her psychologist friends wants to treat the angel for epilepsy, the self-proclaimed guardians of the heavenly apparition want to be his official interpreters, and the local priest wants to maintain authority while keeping his own transgressions under wraps. Even the angel contributes to the chaos, claiming in diaries channeled through his (human) mother a number of celestial identities, ranging from the sensual and loving to the vengeful and antagonistic. Variously allegorical, feminist, folkloric, spiritual, political and downright New Age, ''The Angel of Galilea'' is a peculiar conglomeration that seems destined to sow mostly confusion. But despite all this, the novel (in Dolores M. Koch's translation) has some sharply resonant passages and a number of provocative themes. Now and then, it provides a frustrating, tantalizing glimpse of the novel that might have been.</p>
+        <p>James Polk</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

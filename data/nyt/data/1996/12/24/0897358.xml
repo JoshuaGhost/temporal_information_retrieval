@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Death and Taxes Joined By Computer Failure</title>
+    <meta content="24PERI" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="PERHIPERHALS" name="column_name"/>
+    <docdata>
+      <doc-id id-string="897358"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="PERHIPERHALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <person class="indexing_service">Shannon, L R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3D71031F937A15751C1A960958260" item-length="935" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Death and Taxes Joined By Computer Failure</hl1>
+      </hedline>
+      <byline class="print_byline">By L. R. SHANNON</byline>
+      <byline class="normalized_byline">Shannon, L R</byline>
+      <abstract>
+        <p>Peripherals column on experiencing breakdown of two personal computers in the same week, and problems in getting technical support (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE failure of two computers in the same week should teach you something. You would also think I had learned the lesson long ago.</p>
+        <p>The first to go was the Dell Dimension XPs P166s. It is only a few months old, and the failure was probably my fault. The night before, after dinner, I had deleted a few unnecessary files; one of them must have been necessary after all.</p>
+      </block>
+      <block class="full_text">
+        <p>THE failure of two computers in the same week should teach you something. You would also think I had learned the lesson long ago.</p>
+        <p>The first to go was the Dell Dimension XPs P166s. It is only a few months old, and the failure was probably my fault. The night before, after dinner, I had deleted a few unnecessary files; one of them must have been necessary after all.</p>
+        <p>The next day, the machine refused to load Windows 95. I could operate in DOS mode, of course, but that was not a world I wanted to live in. Following much ineffectual tinkering, I made several calls to Dell's help desk, which, after an endless tree of options, informed me each time that no one would be available for at least an hour. So I decided to reinstall essential parts of Windows 95.</p>
+        <p>The problem with reinstalling Windows was that the program was on a CD-ROM, and DOS did not know I had a CD drive. It was necessary to peruse the autoexec.bat and config.sys files, an editing task I thought had been relegated to the bad old days. Finally I got back into Windows.</p>
+        <p>The display default in Windows is 16 colors at 640 by 480 pixels, pathetic now for a high-class computer. The Dimension had come with a graphics accelerator, the 9FX Reality 332 from Number Nine Visual Technology, which allowed me to display millions of colors at 800 by 600 pixels, the highest quality legible on a 15-inch monitor. But where was the driver, the little program that lets the graphics accelerator do its job? It was on the hard disk.</p>
+        <p>It was, past tense, on the hard disk. Neither Hawkeye, the Number Nine program nor a Dell accessory could find it. ''C:windows.number9s3rex95.dll cannot find the file,'' Hawkeye explained, followed by: ''This program has performed an illegal operation and will be shut down.''</p>
+        <p>More tries to reach Dell failed in a process spread over several weekday evenings and weekend days. The booklet that came with the system did not give a phone number for Number Nine, but did give its address, so directory assistance supplied the number. Only five or six minutes on hold were necessary, time filled with Beatles trivia because Number Nine's name was inspired by their ''Revolution No. 9.'' I explained the problem to a technician, who promised to send a full set of drivers on a CD-ROM by priority mail. When I mentioned that I had tried to get help from Dell, I think he chuckled. He also said I could download the right driver from Number Nine's Web site. I told him that I could not, without saying why.</p>
+        <p>The other computer that failed that week, a few-year-old Macintosh Quadra 660AV, is my Internet connection and main writing machine. After fiddling with various programs, I decided to go the whole way in resuscitating the machine. First, I backed up essential files, then restarted the computer from a Mac Disk Tools floppy, which contains a minimal system, and finally reformatted the hard disk, resulting in, effectively, a brand-new computer.</p>
+        <p>Then I reinstalled System 7.5 and a few not-to-be-done-without programs, like Wordperfect 3.1, Clarisworks 4.0, After Dark 4.0 and Norton Utilities 3. At last, I restored the Web-related programs from the backups, called the Internet service provider via modem and failed to make the connection. The Internet provider is a small local company, and I immediately got someone there by phone. After perhaps an hour of following his directions and getting nowhere, I agreed to wait for him to call back. At this writing, I have called back but he has not.</p>
+        <p>For domestic reasons, this is a more serious problem than the other one. I can always connect to the Web at the real office, rather than the home office. But my wife has her own Web site, provided by the local company, and she updates it frequently for her business. And we pay the company a not inconsiderable sum for maintaining the Web site.</p>
+        <p>The lesson: Find out about the quality, or availability, of technical support before you buy a computer, a major program, or a major service. In the case of a computer or program, call the technical support number, if you can discover what it is, before the purchase. There is no guarantee that things will work the same after the purchase, but it is at least an indication. With a local company, collect the names of a few current customers, and check with them. And, though I hate to say it, think twice or even three times about new companies. Start-ups can have unanticipated problems.</p>
+        <p>I wonder where that old AT with DOS 3.2 is. Or the Macintosh SE/30 running System 6. The old days were not that bad.</p>
+        <p>A few days later a floppy disk, not a CD-ROM, arrived from Number Nine. It contained the Hawkeye program and the necessary driver. I installed it without incident, and in a few minutes the gorgeous display was back on my monitor. Meanwhile, I have been studying ads for Web page providers. This time I may follow my own advice.</p>
+        <p>PERHIPERHALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

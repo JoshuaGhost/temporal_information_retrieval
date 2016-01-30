@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT/FOOTBALL</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="638364"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">COOPER, ANDREA</person>
+        <person class="indexing_service">BYRD, DENNIS</person>
+        <person class="indexing_service">D'ORSO, MICHAEL</person>
+        <object.title class="indexing_service">RISE AND WALK (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDD153FF930A35753C1A965958260" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT/FOOTBALL</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrea Cooper</byline>
+      <byline class="normalized_byline">COOPER, ANDREA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RISE AND WALK  The Trial and Triumph of Dennis Byrd. By Dennis Byrd with Michael D'Orso. Zondervan/HarperCollins, $20.</p>
+      </block>
+      <block class="full_text">
+        <p>RISE AND WALK  The Trial and Triumph of Dennis Byrd. By Dennis Byrd with Michael D'Orso. Zondervan/HarperCollins, $20.</p>
+        <p>Dennis Byrd lay in the middle of Giants Stadium staring at the sky on Nov. 29, 1992, after delivering the hardest tackle of his life. It took the defensive end for the Jets a few moments to realize that tackle would cost him his career and might leave him permanently paralyzed. In "Rise and Walk," Mr. Byrd and Michael D'Orso, a reporter at The Virginian-Pilot and The Ledger-Star in Norfolk, Va., chronicle Mr. Byrd's fight at the age of 26 to heal his broken neck and regain movement in his torso, arms and legs. Mr. Byrd eventually learned to walk again, a victory he credits to devout Christianity as much as to skilled medical care. Though the book is obviously a form of witnessing, it is more engaging and less preachy than might be expected, in part because of Mr. Byrd's rambunctious personality. His contradictions are intriguing. He acknowledges that his passion for football comes from the thrill of "combat, that one-on-one, man-to-man competition, clean and direct," and from "a need to consume, to just devour what was in front of me." Yet he sees no conflict between the violence of the game and the tenets of his religion. The tale of his recovery is undeniably gripping, from the moment doctors twist screws into his skull as part of his treatment to the joyful afternoon when he drives alone in his truck again, his wheelchair parked in the garage.  ANDREA COOPER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

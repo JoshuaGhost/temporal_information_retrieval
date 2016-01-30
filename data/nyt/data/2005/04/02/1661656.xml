@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Broadcast Honors</title>
+    <meta content="MB015110" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1661656"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <org class="indexing_service">New York State Broadcasters Assn</org>
+        <person class="indexing_service">Imus, Don</person>
+        <person class="indexing_service">Cronkite, Walter</person>
+        <person class="indexing_service">Sweetland, Phil</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EFDA113FF931A35757C0A9639C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Broadcast Honors</hl1>
+      </hedline>
+      <byline class="print_byline">By PHIL SWEETLAND; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Sweetland, Phil</byline>
+      <abstract>
+        <p>Arts, Briefly column; Don Imus and Walter Cronkite are among 32 members elected to inaugural class of New York State Broadcasters Assn Hall of Fame; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Don Imus, below, and Walter Cronkite were among the 32 members elected to the inaugural class of the New York State Broadcasters Association Hall of Fame on Thursday night. The Gambling family, whose roots in New York radio date to 1925, was honored with three inductions: John B., John A. and John R. Gambling, each representing a different generation of hosts of the famous ''Rambling With Gambling'' program on WOR (710 AM). Frankie Crocker, the former program director of WBLS (107.5 FM) and WLIB (1190 AM), who died in 2000, was also inducted. So was Mr. Cronkite's old boss, the CBS and Museum of Television and Radio founder, William S. Paley, who died in 1990. The Broadcasters Association is a nonprofit organization based in Albany.</p>
+        <p>PHIL SWEETLAND</p>
+      </block>
+      <block class="full_text">
+        <p>Don Imus, below, and Walter Cronkite were among the 32 members elected to the inaugural class of the New York State Broadcasters Association Hall of Fame on Thursday night. The Gambling family, whose roots in New York radio date to 1925, was honored with three inductions: John B., John A. and John R. Gambling, each representing a different generation of hosts of the famous ''Rambling With Gambling'' program on WOR (710 AM). Frankie Crocker, the former program director of WBLS (107.5 FM) and WLIB (1190 AM), who died in 2000, was also inducted. So was Mr. Cronkite's old boss, the CBS and Museum of Television and Radio founder, William S. Paley, who died in 1990. The Broadcasters Association is a nonprofit organization based in Albany.</p>
+        <p>PHIL SWEETLAND</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

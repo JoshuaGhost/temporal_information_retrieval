@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pillows of Straw</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="794112"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="CURRENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BEDS AND BEDDING</classifier>
+        <classifier class="indexing_service" type="descriptor">STRAW</classifier>
+        <org class="indexing_service">GARDEN ATELIER (BASKING RIDGE, NJ)</org>
+        <person class="indexing_service">PERSHYN-DAVID, BARBARA</person>
+        <person class="indexing_service">OWENS, MITCHELL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beds and Bedding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Straw</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D6103FF936A35753C1A963958260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pillows of Straw</hl1>
+      </hedline>
+      <byline class="print_byline">By Mitchell Owens</byline>
+      <byline class="normalized_byline">OWENS, MITCHELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE handmade pillows on Barbara Pershyn-Davis's bed in Basking Ridge, N.J., are a little firmer than most. They smell sweet, too, and they should: they're stuffed with straw. "It doesn't get saggy like down," said Ms. Pershyn-Davis, a young antiques dealer and decorator, whose idea was inspired by the organic innards of a 1700's Swedish chair she bought.</p>
+      </block>
+      <block class="full_text">
+        <p>THE handmade pillows on Barbara Pershyn-Davis's bed in Basking Ridge, N.J., are a little firmer than most. They smell sweet, too, and they should: they're stuffed with straw. "It doesn't get saggy like down," said Ms. Pershyn-Davis, a young antiques dealer and decorator, whose idea was inspired by the organic innards of a 1700's Swedish chair she bought.</p>
+        <p>Ms. Pershyn-Davis hand-sews similar pillows, cushions, bolsters and mattresses for clients, too, using antique fabrics. To clean, remove the straw, dry-clean the fabric and restuff. "After six months, put in more straw, because it compacts," she said. Prices are from $45 for a 14-by-20-inch pillow to $250 for a daybed-size mattress. Fabrics are $65 a yard. Surplus straw is also available. Garden Atelier, (908) 766-0680.  CURRENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

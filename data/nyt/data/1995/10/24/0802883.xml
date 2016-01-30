@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lubrizol Corp.(LZ,N) reports earnings for 3d qtr to Sep 30</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="802883"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D61F3BF937A15753C1A963958260" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lubrizol Corp.(LZ,N) reports earnings for 3d qtr to Sep 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Lubrizol Corp.(LZ,N)</p>
+        <p>3d qtr to Sep 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>413,724,000</p>
+        <p>397,855,000</p>
+        <p>Net inc</p>
+        <p>27,942,000</p>
+        <p>b47,933,000</p>
+        <p>Share earns</p>
+        <p>.44</p>
+        <p>.73</p>
+        <p>Shares outst</p>
+        <p>63,460,000</p>
+        <p>65,486,000</p>
+        <p>b-Included an after-tax gain of $ 7.8 million, or 12 cents a share, on the sale of investments. Before the gain, net income was 61 cents a share.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

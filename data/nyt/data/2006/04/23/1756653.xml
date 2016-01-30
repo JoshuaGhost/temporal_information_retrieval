@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brookhaven Lab Chooses Interim Head</title>
+    <meta content="23librie-2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1756653"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="IN BRIEF: UPTON"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Brookhaven National Laboratory</org>
+        <person class="indexing_service">aronson, samuel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EED6153FF930A15757C0A9609C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brookhaven Lab Chooses Interim Head</hl1>
+      </hedline>
+      <byline class="print_byline">By HEATHER FLETCHER</byline>
+      <abstract>
+        <p>Brookhaven National Laboratory names Samuel Aronson interim director (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brookhaven National Laboratory will be led by Samuel Aronson from May 1 until a permanent director can be chosen later this year, the laboratory's governing board announced on Tuesday.</p>
+        <p>Mr. Aronson is the lab's associate director for high energy and nuclear physics. A resident of Poquott, he has worked at the lab since 1978, and oversaw the construction of one of its major experimental facilities, the relativistic heavy ion collider, which is used to study subatomic particles.</p>
+      </block>
+      <block class="full_text">
+        <p>Brookhaven National Laboratory will be led by Samuel Aronson from May 1 until a permanent director can be chosen later this year, the laboratory's governing board announced on Tuesday.</p>
+        <p>Mr. Aronson is the lab's associate director for high energy and nuclear physics. A resident of Poquott, he has worked at the lab since 1978, and oversaw the construction of one of its major experimental facilities, the relativistic heavy ion collider, which is used to study subatomic particles.</p>
+        <p>The current director of the laboratory, Praveen Chaudhari, announced earlier this year that he would step down April 30 to become a part-time scientist at the lab, which is managed by a partnership between Stony Brook University and the Battelle Memorial Institute of Columbus, Ohio.</p>
+        <p>HEATHER FLETCHER</p>
+        <p>IN BRIEF: UPTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

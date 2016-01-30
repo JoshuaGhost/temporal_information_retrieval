@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cordero Has Surgery</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="500335"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SPORTS PEOPLE: HORSE RACING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HORSE RACING</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <person class="indexing_service">CORDERO, ANGEL JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D71238F936A25752C0A964958260" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cordero Has Surgery</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jockey ANGEL CORDERO had his spleen removed yesterday and is in stable condition in the intensive care unit of Long Island Jewish Hospital, according to FRANK SANABRIA, the jockey's agent.</p>
+      </block>
+      <block class="full_text">
+        <p>Jockey ANGEL CORDERO had his spleen removed yesterday and is in stable condition in the intensive care unit of Long Island Jewish Hospital, according to FRANK SANABRIA, the jockey's agent.</p>
+        <p>The 49-year-old Cordero, who broke his left arm and three ribs, was the most seriously injured of four jockeys in a chain-reaction accident in the second-race at Aqueduct Sunday.</p>
+        <p>SPORTS PEOPLE: HORSE RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

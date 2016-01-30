@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="599124"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">SEX</classifier>
+        <classifier class="indexing_service" type="descriptor">DIVORCE, SEPARATIONS AND ANNULMENTS</classifier>
+        <person class="indexing_service">MASTERS, WILLIAM H (DR)</person>
+        <person class="indexing_service">JOHNSON, VIRGINIA E</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Divorce, Separations and Annulments</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC123CF932A05750C0A965958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Another couple who forged what must be considered a highly successful professional partnership -- Dr. WILLIAM H. MASTERS and VIRGINIA E. JOHNSON -- have ended their marriage but will continue to work together.</p>
+        <p>The pioneer researchers in the physiology of sex were granted a divorce earlier this month by Associate Judge Joseph A. Goeke 3d of the Circuit Court of St. Louis County in Clayton, Mo.</p>
+      </block>
+      <block class="full_text">
+        <p>Another couple who forged what must be considered a highly successful professional partnership -- Dr. WILLIAM H. MASTERS and VIRGINIA E. JOHNSON -- have ended their marriage but will continue to work together.</p>
+        <p>The pioneer researchers in the physiology of sex were granted a divorce earlier this month by Associate Judge Joseph A. Goeke 3d of the Circuit Court of St. Louis County in Clayton, Mo.</p>
+        <p>Neither has publicly discussed the end of their 22-year marriage, but WILLIAM R. YOUNG, director of the Masters and Johnson Institute in St. Louis, was more than willing to comment yesterday.</p>
+        <p>"If you're going to get divorced, this is the way to do it: without rancor, bitterness, hatred or public displays of foolishness," he said. "They have been in each other's pockets for 34 years, professionally and personally, so there will always be fond admiration and respect."</p>
+        <p>So what did the happy un-couple do when they got their divorce decree?</p>
+        <p>"They signed them and then went out to dinner," Mr. Young said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

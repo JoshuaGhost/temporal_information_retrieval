@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Americas: Canada: Economic Output Increases</title>
+    <meta content="MB020526" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1354326"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Gross Domestic Product</classifier>
+        <location class="indexing_service">Canada</location>
+        <person class="indexing_service">Simon, Bernard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leading Economic Indicators</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E4D81531F936A15751C1A9679C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Americas: Canada: Economic Output Increases</hl1>
+      </hedline>
+      <byline class="print_byline">By Bernard Simon (NYT)</byline>
+      <byline class="normalized_byline">Simon, Bernard</byline>
+      <abstract>
+        <p>Statistics Canada reports Canada's real gross domestic product grew at 0.3 percent annual rate, Oct, compared with 0.8 percent Sept drop; warns underlying economic weakness persisted in Oct; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Canada's real gross domestic product grew at an annual rate of 0.3 percent in October, helped by retail sales and home construction, Statistics Canada said. The increase, the first monthly advance since May, exceeded economists' expectations and compared with a 0.8 percent decline in September. But Statistics Canada cautioned that the underlying weakness in the economy persisted in October. Output of computers and electronics slid 2.7 percent, the 14th monthly decline in a row. Communications equipment output was down 9.3 percent. Retail sales climbed 2.3 percent in October, due mostly to a 3.6 percent jump in motor vehicle sales.  In manufacturing, 10 of 21 sectors advanced, accounting for 62 percent of production.</p>
+        <p>Bernard Simon (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Canada's real gross domestic product grew at an annual rate of 0.3 percent in October, helped by retail sales and home construction, Statistics Canada said. The increase, the first monthly advance since May, exceeded economists' expectations and compared with a 0.8 percent decline in September. But Statistics Canada cautioned that the underlying weakness in the economy persisted in October. Output of computers and electronics slid 2.7 percent, the 14th monthly decline in a row. Communications equipment output was down 9.3 percent. Retail sales climbed 2.3 percent in October, due mostly to a 3.6 percent jump in motor vehicle sales.  In manufacturing, 10 of 21 sectors advanced, accounting for 62 percent of production.</p>
+        <p>Bernard Simon (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

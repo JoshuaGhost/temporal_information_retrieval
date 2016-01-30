@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A NATION CHALLENGED</title>
+    <meta content="25MORE" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1336902"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1D81231F936A15753C1A9679C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A NATION CHALLENGED</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Difference in the Count  A survey of companies and organizations that lost workers in the World Trade Center disaster suggests that as few as 2,950 are missing or dead. That figure is about 1,800 fewer than the list updated by the city.</p>
+        <p>PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>A Difference in the Count  A survey of companies and organizations that lost workers in the World Trade Center disaster suggests that as few as 2,950 are missing or dead. That figure is about 1,800 fewer than the list updated by the city.</p>
+        <p>PAGE B1</p>
+        <p>House Split on Recovery Plan  House Republicans narrowly passed an economic recovery package heavy on corporate tax cuts, overcoming Democrats who said it did too little for the people who would need it most.</p>
+        <p>PAGE B9</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

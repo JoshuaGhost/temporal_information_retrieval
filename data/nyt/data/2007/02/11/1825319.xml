@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unhappy Meals</title>
+    <meta content="11letters.t-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1825319"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <person class="indexing_service">Pollan, Michael</person>
+        <person class="indexing_service">klein, ellery</person>
+        <person class="indexing_service">Goldstein, Mark R (Dr)</person>
+        <person class="indexing_service">Shapiro, Laura</person>
+        <person class="indexing_service">gomez, lynne</person>
+        <person class="indexing_service">flaxman, marian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDA103FF932A25751C0A9619C8B63" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unhappy Meals</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Pollan's Jan 28 article on American diet prompts letters from Marian Flaxman, Lynne Gomez, Laura Shapiro, Mark R Goldstein and Ellery Klein; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As I read Michael Pollan's article (Jan. 28), I found myself wishing I could read it out loud to everyone I know. His message is clear and powerful. We need to go back to eating food that is food -- that comes from a field rather than a factory, from a pot rather than a pouch. We need to turn back to eating the real, whole foods that our ancestors did.</p>
+      </block>
+      <block class="full_text">
+        <p>As I read Michael Pollan's article (Jan. 28), I found myself wishing I could read it out loud to everyone I know. His message is clear and powerful. We need to go back to eating food that is food -- that comes from a field rather than a factory, from a pot rather than a pouch. We need to turn back to eating the real, whole foods that our ancestors did.</p>
+        <p>Marian Flaxman</p>
+        <p>Chevy Chase, Md.</p>
+        <p>The genius of Michael Pollan's article was in the simplicity of the first paragraph. Our family's new mantra is: ''Eat food. Not too much. Mostly plants.''</p>
+        <p>Lynne Gomez</p>
+        <p>Sherman, Conn.</p>
+        <p>Pollan's excellent analysis of today's distorted eating habits leaves out one important ingredient -- the food industry's determination to wipe out home cooking. For well over half a century, food manufacturers have been trumpeting the message that cooking from scratch is so laborious and time-consuming that modern women should not take it seriously as a way to get dinner on the table. The solution, of course, is to buy boxes, jars and ready-mades, instead of what Pollan so nicely calls ''food.''</p>
+        <p>Laura Shapiro</p>
+        <p>New York</p>
+        <p>I call it the ''McLipitor Syndrome.'' Patients feel they can eat whatever they want as long as they take a statin drug to lower cholesterol. Because of time constraints, physicians may spend little time counseling lifestyle change, which can work as well as or better than the best drugs for heart disease, obesity, diabetes and high blood pressure.</p>
+        <p>Mark R. Goldstein, M.D.</p>
+        <p>Naples, Fla.</p>
+        <p>Summer for me means farmer's markets and fresh salads from unique lettuces, kale, fennel, escarole, corn, heirloom tomatoes -- the list goes on. Pollan briefly acknowledges that low-income families can have trouble accessing food like this. While working at a farmer's market here in Boston for several summers, I encountered lower-income families using food stamps that can be used at farmer's markets to buy fresh produce. The farmers then send these papers to the state for reimbursement. I think that this idea might be expanded. By working with farmers to open stands in low-income areas of cities, while providing a food stamp redeemable only for fresh, locally grown produce, states could in one fell swoop support a local, small-scale agricultural industry while giving families of all economic means access to fresh foods.</p>
+        <p>Ellery Klein</p>
+        <p>East Boston, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

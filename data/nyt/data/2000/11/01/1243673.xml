@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grand Jury Fails to Indict Penn State's Casey</title>
+    <meta content="01CASE$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/01/sports/01CASE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243673"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COLLEGE FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Assaults</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <org class="indexing_service">Pennsylvania State University</org>
+        <person class="indexing_service">Lapointe, Joe</person>
+        <person class="indexing_service">Casey, Rashard</person>
+        <person class="indexing_service">Fitzsimmons, Patrick (Police Officer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DE1030F932A35752C1A9669C8B63" item-length="425" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grand Jury Fails to Indict Penn State's Casey</hl1>
+      </hedline>
+      <byline class="print_byline">By JOE LAPOINTE</byline>
+      <byline class="normalized_byline">Lapointe, Joe</byline>
+      <abstract>
+        <p>Rashard Casey, Penn State quarterback, is cleared by grand jury of charges that he had assaulted off-duty police officer in Hoboken, NJ, last spring; Casey still faces civil suit by officer Patrick D Fitzsimmons (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rashard Casey, the Penn State quarterback, was cleared yesterday by a grand jury of charges that he had assaulted an off-duty police officer in Hoboken, N.J., last spring.</p>
+        <p>Casey still faces a civil suit by the officer, Patrick D. Fitzsimmons, who has not worked since the incident outside a nightclub last May 14. The police chief of Hoboken, Carmen LaBruno, also said yesterday that he would pursue the case against Casey on the federal level because, the chief said, the officer was the victim of a racial attack. Casey is black; Fitzsimmons is white.</p>
+      </block>
+      <block class="full_text">
+        <p>Rashard Casey, the Penn State quarterback, was cleared yesterday by a grand jury of charges that he had assaulted an off-duty police officer in Hoboken, N.J., last spring.</p>
+        <p>Casey still faces a civil suit by the officer, Patrick D. Fitzsimmons, who has not worked since the incident outside a nightclub last May 14. The police chief of Hoboken, Carmen LaBruno, also said yesterday that he would pursue the case against Casey on the federal level because, the chief said, the officer was the victim of a racial attack. Casey is black; Fitzsimmons is white.</p>
+        <p>Casey's lawyer, Dennis McAlevy, said yesterday that the bias charges had no chance at the federal level and that he would fight the civil suit. He said the decision not to indict Casey, made by a Hudson County grand jury, vindicated the quarterback.</p>
+        <p>''I talked to Rashard and he is certainly pleased with the decision made by the grand jury,'' McAlevy said. ''I knew he didn't do it. I am relieved for Rashard and his family. All's well that ends well.''</p>
+        <p>An acquaintance of Casey's, Desmond Miller, was indicted by the grand jury for assault in an altercation that left Fitzsimmons unconscious and bleeding. LaBruno, the police chief, said the incident was sparked because Fitzsimmons was with a black woman. LaBruno said that Casey and his friends made remarks to the couple and a physical altercation followed.</p>
+        <p>LaBruno said last night of the grand jury's decision: ''My reaction ranges from disbelief to disappointment. The grand jury chose not to believe the officer and two independent witnesses and chose to disregard the medical evidence of the officer's injuries and, rather, accepted the belief of Mr. Casey's friends.''</p>
+        <p>LaBruno said the Newark office of the Federal Bureau of Investigation is looking into allegations of racial bias and that an enhanced videotape of the incident will be screened by federal investigators. A Justice Department spokeswoman said last summer that the case remains open.</p>
+        <p>Ed DeFazio, deputy first assistant prosecutor for Hudson County, said the grand jury did not find probable cause to return an indictment against Casey, who could be called as a witness against Miller.</p>
+        <p>Penn State Coach Joe Paterno had been harshly criticized by some people for playing Casey while the court case was pending. Neither Casey nor Paterno were available for comment last night. McAlevy, Casey's lawyer, said of Paterno's critics, ''A lot of people have egg on their faces.''</p>
+        <p>COLLEGE FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

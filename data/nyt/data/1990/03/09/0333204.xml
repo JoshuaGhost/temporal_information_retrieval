@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.B.I. Denies Retaliation Against Agent</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="333204"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">SPANISH-SPEAKING GROUPS (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND CLAIMS AGAINST GOVERNMENT</classifier>
+        <org class="indexing_service">FEDERAL BUREAU OF INVESTIGATION (FBI)</org>
+        <person class="indexing_service">MATA, FERNANDO E</person>
+        <person class="indexing_service">SESSIONS, WILLIAM S (DIR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spanish Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900309T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DE123BF93AA35750C0A966958260" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.B.I. Denies Retaliation Against Agent</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, March 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Director of the Federal Bureau of Investigation strongly denied today that a highly decorated counter-espionage agent was suspended because of his involvement in a discrimination suit brought against the bureau by its Hispanic agents.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Director of the Federal Bureau of Investigation strongly denied today that a highly decorated counter-espionage agent was suspended because of his involvement in a discrimination suit brought against the bureau by its Hispanic agents.</p>
+        <p>The Director of the Federal Bureau of Investigation strongly denied today that a highly decorated counter-espionage agent was suspended because of his involvement in a discrimination suit brought against the bureau by its Hispanic agents.</p>
+        <p>The charge was leveled earlier this week by lawyers for the Miami-based agent, Fernando Mata, who was suspended with pay about two months ago. Administration officials, speaking on condition of anonymity, say he is being investigated on suspicion of unauthorized contacts with Cuban intelligence agents.</p>
+        <p>Addressing the charge by Mr. Mata's lawyers, Hugo Rodriguez and Antonio Silva, Director William S. Sessions said in a statement today: ''The F.B.I. categorically denies retaliation against Agent Mata. There is no connection between Agent Mata's being placed on administrative leave with pay and the lawsuit in which he participated. The F.B.I. further denies that it leaked any information relating to the inquiry.''</p>
+        <p>The suspension and the investigation of Mr. Mata were first reported on Monday in The New York Times, which attributed its account to Government officials and friends of the agent. The article quoted several current and former agents as saying that the charges against him were old and unreliable and that he appeared to be a victim of retaliation by the bureau.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

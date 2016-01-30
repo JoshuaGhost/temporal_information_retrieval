@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Butler Manufacturing Co.(NMS) reports earnings for Qtr to Dec 31</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="665701"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DE1639F932A05752C0A962958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Butler Manufacturing Co.(NMS) reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Butler Manufacturing Co.(NMS)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Sales</p>
+        <p>156,445,000</p>
+        <p>134,799,000</p>
+        <p>Net inc</p>
+        <p>b12,769,000</p>
+        <p>1,578,000</p>
+        <p>Share earns</p>
+        <p>2.63</p>
+        <p>.35</p>
+        <p>Shares outst</p>
+        <p>4,856,094</p>
+        <p>4,572,392</p>
+        <p>Yr sales</p>
+        <p>575,847,000</p>
+        <p>500,177,000</p>
+        <p>Net inc</p>
+        <p>b18,098,000</p>
+        <p>1,079,000</p>
+        <p>Share earns</p>
+        <p>3.84</p>
+        <p>.25</p>
+        <p>Shares outst</p>
+        <p>4,715,993</p>
+        <p>4,569,288</p>
+        <p>b-Included $ 18,000,000 pretax gain on sale of Walker division in both the quarter and year. The company's operating net was $ 2,064,000, or 43 cents a share, in the quarter and $ 7,393,000, or $ 1.57 a share, in the year. Butler Manufacturing Co. said 1993 fourth-quarter operating results benefited most significantly from increased earnings in its Vistawall/Naturalite architectural aluminum division.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

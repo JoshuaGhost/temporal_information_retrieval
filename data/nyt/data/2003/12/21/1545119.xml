@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NURSE ADMITS KILLING 40</title>
+    <meta content="MB023732" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1545119"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="BRIEFING: LAW AND ORDER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Serial Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Nursing and Nurses</classifier>
+        <location class="indexing_service">Somerville (NJ)</location>
+        <org class="indexing_service">Somerset Medical Center (Somerville, NJ)</org>
+        <person class="indexing_service">Cullen, Charles</person>
+        <person class="indexing_service">Pearce, Jeremy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nursing and Nurses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Serial Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6DB133FF932A15751C1A9659C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NURSE ADMITS KILLING 40</hl1>
+      </hedline>
+      <byline class="print_byline">By Jeremy Pearce</byline>
+      <byline class="normalized_byline">Pearce, Jeremy</byline>
+      <abstract>
+        <p>Nurse Charles Cullen is charged with murder of one patient and attempted murder of another at Somerset Medical Center in Somerville, NJ; Cullen reportedly told investigators he killed as many as 40 more people in his 16-year career; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charles Cullen, a 43-year-old nurse, was charged last week with the murder of one patient and the attempted murder of another at the hospital where he worked, Somerset Medical Center in Somerville, and has apparently told investigators he killed as many as 40 more people in his 16-year nursing career.</p>
+        <p>Mr. Cullen was arrested on Dec. 12 and, at a Superior Court hearing last Monday, said he would not contest the murder charges. He is being held in lieu of $1 million bail.</p>
+      </block>
+      <block class="full_text">
+        <p>Charles Cullen, a 43-year-old nurse, was charged last week with the murder of one patient and the attempted murder of another at the hospital where he worked, Somerset Medical Center in Somerville, and has apparently told investigators he killed as many as 40 more people in his 16-year nursing career.</p>
+        <p>Mr. Cullen was arrested on Dec. 12 and, at a Superior Court hearing last Monday, said he would not contest the murder charges. He is being held in lieu of $1 million bail.</p>
+        <p>Officials say Mr. Cullen may have killed as many as 15 patients during his 13-month employment at Somerset Medical Center, apparently giving sick patients lethal doses of drugs to end their pain and suffering. Investigators said this may have been a pattern at other hospitals and nursing homes in which he worked in New Jersey and Pennsylvania - possibly as many as 10 places of employment - and are investigating suspicious deaths at those places.</p>
+        <p>Jeremy Pearce</p>
+        <p>BRIEFING: LAW AND ORDER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

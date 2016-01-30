@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Butler Waits for the Commissioner</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="475637"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">DRUNKEN AND RECKLESS DRIVING</classifier>
+        <org class="indexing_service">CHICAGO BEARS</org>
+        <org class="indexing_service">NATIONAL FOOTBALL LEAGUE (NFL)</org>
+        <person class="indexing_service">BUTLER, KEVIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Chicago Bears</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drunken and Reckless Driving</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DD163EF931A1575AC0A967958260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Butler Waits for the Commissioner</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One judge has had her say. Now KEVIN BUTLER is waiting to see if the other ax will fall. Butler, the Chicago Bears' kicker, was fined $1,000 and sentenced to 200 hours of community service on Friday after he pleaded guilty to a drunk driving charge stemming from an Aug. 6 arrest in suburban Lincolnshire, Ill. Judge BARBARA GILLERAN-JOHNSON, who passed sentence in Lake County Circuit Court in Waukehan, also ordered Butler to take a drivers' education and counseling course, something his lawyer said Butler had already done.</p>
+        <p>Next to be heard from is Commissioner PAUL TAGLIABUE, who will decide whether to suspend Butler up to four games, as the National Football League rules allow, as a result of the conviction. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>One judge has had her say. Now KEVIN BUTLER is waiting to see if the other ax will fall. Butler, the Chicago Bears' kicker, was fined $1,000 and sentenced to 200 hours of community service on Friday after he pleaded guilty to a drunk driving charge stemming from an Aug. 6 arrest in suburban Lincolnshire, Ill. Judge BARBARA GILLERAN-JOHNSON, who passed sentence in Lake County Circuit Court in Waukehan, also ordered Butler to take a drivers' education and counseling course, something his lawyer said Butler had already done.</p>
+        <p>Next to be heard from is Commissioner PAUL TAGLIABUE, who will decide whether to suspend Butler up to four games, as the National Football League rules allow, as a result of the conviction. (AP)  SPORTS PEOPLE: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

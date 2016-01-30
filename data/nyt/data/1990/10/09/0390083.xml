@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Upshaw Speaks Out</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="390083"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE: FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">SEXUAL HARASSMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <classifier class="indexing_service" type="descriptor">NUDISM AND NUDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">PRIVACY, RIGHT OF</classifier>
+        <org class="indexing_service">BOSTON HERALD</org>
+        <org class="indexing_service">NEW ENGLAND PATRIOTS</org>
+        <person class="indexing_service">OLSON, LISA</person>
+        <person class="indexing_service">UPSHAW, GENE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New England Patriots</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sexual Harassment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nudism and Nudity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D7163BF93AA35753C1A966958260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Upshaw Speaks Out</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Gene Upshaw, the executive director of the National Football League players' union, said yesterday that a separate area apart from the locker room should be provided for the news media after games splayers would not be required to participate in media interviews unless fully clothed.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Gene Upshaw, the executive director of the National Football League players' union, said yesterday that a separate area apart from the locker room should be provided for the news media after games splayers would not be required to participate in media interviews unless fully clothed.</p>
+        <p>Gene Upshaw, the executive director of the National Football League players' union, said yesterday that a separate area apart from the locker room should be provided for the news media after games splayers would not be required to participate in media interviews unless fully clothed.</p>
+        <p>Upshaw's statement was the latest comment in a controversy that has seen charges by a female reporter for The Boston Herald that she was sexually harassed by Patriot players and a fine of about $30,000 imposed of Sam Wyche, the Bengal coach, for closing his team's locker room to a feamle reporter. (AP)  SPORTS PEOPLE: FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

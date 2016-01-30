@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="27ABOR$08" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1606948"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDD113EF934A1575BC0A9629C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COMING ON SUNDAY</p>
+        <p>Conventiontown  On Sunday, a special Republican National Convention section, New York 2004, on the city and the delegates.</p>
+        <p>Dan Barry punctures popular myths about New York.</p>
+      </block>
+      <block class="full_text">
+        <p>COMING ON SUNDAY</p>
+        <p>Conventiontown  On Sunday, a special Republican National Convention section, New York 2004, on the city and the delegates.</p>
+        <p>Dan Barry punctures popular myths about New York.</p>
+        <p>Pete Hamill on the miracle of social order in a divided city.</p>
+        <p>Ron Rosenbaum on what makes New York unique.</p>
+        <p>Christopher Buckley on advice to visitors in enemy territory.</p>
+        <p>Paul Rudnick interviews a secretly gay Republican.</p>
+        <p>Also: Times critics guide to places to eat, to play and to shop, and how to get there.</p>
+        <p>U.S. Judge Rejects Ban On Method of Abortion  A federal judge ruled that a ban on a procedure known as partial-birth abortion was unconstitutional because it did not exempt cases where the procedure might be necessary to protect a woman's health.</p>
+        <p>PAGE A12</p>
+        <p>Yemeni Takes On Tribunal  In a twist during his terrorism trial, a Yemeni defendant said he belonged to Al Qaeda and demanded to represent himself.</p>
+        <p>PAGE A14</p>
+        <p>A Loophole Profits Lenders  Student loan companies are using a loophole to bill taxpayers $1 billion a year for a subsidy that was supposed to have ended.</p>
+        <p>BUSINESS DAY</p>
+        <p>Power and Kobe Bryant Case  Jury selection begins today in the trial of the basketball star Kobe Bryant, a case that seems defined by celebrity and power.</p>
+        <p>PAGE A12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

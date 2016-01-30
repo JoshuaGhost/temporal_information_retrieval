@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Under Vaulted Ceilings</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="763874"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <classifier class="indexing_service" type="descriptor">CULTURE</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D9173AF932A15756C0A963958260" item-length="18" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Under Vaulted Ceilings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A cathedral and an armory play host to two causes: the arts and the fight against AIDS, respectively.</p>
+      </block>
+      <block class="full_text">
+        <p>A cathedral and an armory play host to two causes: the arts and the fight against AIDS, respectively.</p>
+        <p>EVENING HOURS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

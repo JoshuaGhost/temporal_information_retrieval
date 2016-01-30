@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BELOUS, FAYE</title>
+    <meta content="DN082003" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1513343"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">BELOUS, FAYE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DB1E30F93AA2575BC0A9659C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BELOUS, FAYE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BELOUS--Faye. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Faye Belous, beloved mother of Annora Gilman, a member of the UJA-Federation Long Island Steering Committee and chair of the South Shore Executive Committee. We extend our deepest sympathies to the Belous, Belousofsky, Gilman, and Reich families. Larry Zicklin, President Morris W. Offit Chair of the Board John S. Ruskay Exec. VP and CEO</p>
+      </block>
+      <block class="full_text">
+        <p>BELOUS--Faye. The officers, Board of Directors, and staff of UJA-Federation of New York mourn the passing of Faye Belous, beloved mother of Annora Gilman, a member of the UJA-Federation Long Island Steering Committee and chair of the South Shore Executive Committee. We extend our deepest sympathies to the Belous, Belousofsky, Gilman, and Reich families. Larry Zicklin, President Morris W. Offit Chair of the Board John S. Ruskay Exec. VP and CEO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

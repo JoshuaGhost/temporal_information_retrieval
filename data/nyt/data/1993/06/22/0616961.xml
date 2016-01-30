@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CUNY Overhaul Assailed</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="616961"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <org class="indexing_service">CITY UNIVERSITY OF NEW YORK (CUNY)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D6143DF931A15755C0A965958260" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CUNY Overhaul Assailed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A plan to overhaul academic programs throughout the City University of New York was denounced yesterday by dozens of faculty members, students, artists and intellectuals as an effort to destroy the university's attempts to provide a broad-based education for poor students. The criticism was made at a public hearing of the university's board at the Hunter College School of Social Work.</p>
+      </block>
+      <block class="full_text">
+        <p>A plan to overhaul academic programs throughout the City University of New York was denounced yesterday by dozens of faculty members, students, artists and intellectuals as an effort to destroy the university's attempts to provide a broad-based education for poor students. The criticism was made at a public hearing of the university's board at the Hunter College School of Social Work.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The New Fuller Figure</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="54" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="787"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MODELS (PROFESSIONAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <person class="indexing_service">MOCK, LINDA C</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Models (Professional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D8153BF937A35752C0A961948260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The New Fuller Figure</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: So curvaceous women's bodies are in! The fashion gurus say the American woman's body has filled out from all the ''working out at gyms, jogging and the like.'' What has really happened is that the baby boomers are quietly approaching middle age. For most of us, that means a bit more broadening - in fact, a delightfully womanly figure!</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: So curvaceous women's bodies are in! The fashion gurus say the American woman's body has filled out from all the ''working out at gyms, jogging and the like.'' What has really happened is that the baby boomers are quietly approaching middle age. For most of us, that means a bit more broadening - in fact, a delightfully womanly figure!</p>
+        <p>So curvaceous women's bodies are in! The fashion gurus say the American woman's body has filled out from all the ''working out at gyms, jogging and the like.'' What has really happened is that the baby boomers are quietly approaching middle age. For most of us, that means a bit more broadening - in fact, a delightfully womanly figure!</p>
+        <p>Fashion is finally responding to us. Just as the popular conception of beauty has aged, so have our bodies.  LINDA C. MOCK  Bergenfield, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holiday on Monday: Christmas</title>
+    <meta content="22HOLI" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/12/22/nyregion/22HOLI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1257203"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1DC1638F931A15751C1A9669C8B63" item-length="456" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holiday on Monday: Christmas</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK</p>
+        <p>GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail and special delivery only. Main post office at 33rd Street and Eighth Avenue open.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK</p>
+        <p>GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail and special delivery only. Main post office at 33rd Street and Eighth Avenue open.</p>
+        <p>BANKS -- Option to close.</p>
+        <p>PARKING -- Alternate-side regulations suspended. No-parking, standing and stopping rules suspended except no standing any-time warnings. Meters suspended.</p>
+        <p>SANITATION -- No pickups, street cleanings or recycling.</p>
+        <p>SCHOOLS -- Closed in New York City. Option to close elsewhere.</p>
+        <p>FINANCIAL MARKETS -- Closed.</p>
+        <p>TRANSPORTATION -- New York City buses and subways on a Sunday schedule. Long Island Rail Road on a Sunday schedule with extra service. Metro-North on a weekend schedule.</p>
+        <p>NEW JERSEY</p>
+        <p>GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail and special delivery only.</p>
+        <p>BANKS -- Option to close.</p>
+        <p>SCHOOLS -- Option to close.</p>
+        <p>TRANSPORTATION -- PATH trains on a weekend schedule. New Jersey Transit rail service on a Sunday schedule with additional direct service into New York City, and buses on a Sunday schedule, with additional direct service into New York City.</p>
+        <p>CONNECTICUT</p>
+        <p>GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail and special delivery only.</p>
+        <p>BANKS -- Option to close.</p>
+        <p>SCHOOLS -- Closed.</p>
+        <p>TRANSPORTATION -- Metro-North on a holiday schedule. New Haven Line on a weekend schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

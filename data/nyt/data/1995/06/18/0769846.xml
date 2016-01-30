@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HER OWN PRIVATE TAILHOOK</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="769846"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">WOMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR FORCES</classifier>
+        <org class="indexing_service">UNITED STATES AIR FORCE ACADEMY (COLORADO)</org>
+        <person class="indexing_service">FLANAGAN, MARY JO FLORIO</person>
+        <person class="indexing_service">PALMER, LAURA</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED61F30F93BA25755C0A963958260" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HER OWN PRIVATE TAILHOOK</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Palmer's article confuses the misbehavior of Tailhook with Elizabeth Saum's inability to endure the rigorous but necessary preparation about which she complains. As our troops prepare to leave for Bosnia amid news reports that rape is especially prevalent against politically active women in that country, we have every reason to believe that female prisoners of war will be treated similarly. MARY JO FLORIO FLANAGAN Stamford, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>Palmer's article confuses the misbehavior of Tailhook with Elizabeth Saum's inability to endure the rigorous but necessary preparation about which she complains. As our troops prepare to leave for Bosnia amid news reports that rape is especially prevalent against politically active women in that country, we have every reason to believe that female prisoners of war will be treated similarly. MARY JO FLORIO FLANAGAN Stamford, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

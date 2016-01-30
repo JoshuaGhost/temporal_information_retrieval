@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Help From an Alert Dummy</title>
+    <meta content="03CARD" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/03/03/crosswords/bridge/03CARD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1469329"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="BRIDGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D71E3CF930A35750C0A9659C8B63" item-length="531" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Help From an Alert Dummy</hl1>
+        <hl2 class="online_headline">Help From an Alert Dummy</hl2>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Alan Truscott column analyzes deal in which an alert dummy helped assure victory; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Whether the player in the dummy seat should relax totally, preserving his mental energy for subsequent deals, or focus fiercely on the play, is an arguable point. Certainly the dummy who constantly intervenes, without good reason, with a demand to know whether his partner has revoked is a nuisance to everyone.</p>
+        <p>Many dummies are looking alertly for opportunities to criticize their partners in the post-mortem, which does not promote harmony. But it is possible, though very rare, for an alert dummy to make an effective contribution to the outcome of a deal.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Whether the player in the dummy seat should relax totally, preserving his mental energy for subsequent deals, or focus fiercely on the play, is an arguable point.</p>
+      </block>
+      <block class="full_text">
+        <p>Whether the player in the dummy seat should relax totally, preserving his mental energy for subsequent deals, or focus fiercely on the play, is an arguable point. Certainly the dummy who constantly intervenes, without good reason, with a demand to know whether his partner has revoked is a nuisance to everyone.</p>
+        <p>Many dummies are looking alertly for opportunities to criticize their partners in the post-mortem, which does not promote harmony. But it is possible, though very rare, for an alert dummy to make an effective contribution to the outcome of a deal.</p>
+        <p>Some 40 years ago Paul Zweifel of Blacksburg, Va., held the North cards on the diagramed deal. South charged into four spades and regretted this action when West led a diamond and the dummy appeared. A raise to three no-trump after the one no-trump response would have led to an easy game, but four spades seemed to be in serious trouble when the defenders took two diamond winners and a ruff.</p>
+        <p>South's main hope was to find the remaining four trumps evenly divided, which would have made it possible to draw trumps ending in dummy and to discard the heart loser on a diamond winner.</p>
+        <p>The declarer duly won West's club shift, cashed his spade king and led to dummy's ace. When West discarded a club on this trick, South needed a defensive error. If he calls for a low diamond from the dummy, East may carelessly discard. This is known as the Sheinwold Coup, named for a great player-writer of yesteryear.</p>
+        <p>The chance that this maneuver would succeed fell to zero when East managed to play both his trumps under dummy's ace. ''Oh, I'm sorry,'' he exclaimed. ''I guess that's a penalty card.'' And he left the spade nine face up on the table.</p>
+        <p>That was a considerable blow to the declarer, a young player named Zeke Jabbour en route to fame in the game. He could perhaps recover, he knew, by telling East that he could pick up the exposed spade nine, which would have to be played if a diamond was led from the dummy. That, however, could cause East to smell a rat, distrusting such generosity. Luckily for South, his partner was paying careful attention. ''Pick it up,'' urged North. ''We don't want to win that way.'' His thinking was slightly different: ''We don't want to lose that way.''</p>
+        <p>''Well, thank you,'' gushed East. ''You fellows are real gentlemen.'' He put the spade nine back in his hand, and did not suspect that North's offer was not entirely altruistic. Why should he doubt dummy's motives?</p>
+        <p>Jabbour duly called for a low diamond, and the Sheinwold Coup succeeded when East failed to ruff. The heart nine was discarded and the game succeeded.</p>
+        <p>Forty years later Zweifel is still wondering whether he did something unethical. Probably not, but it is an interesting question.</p>
+        <p>BRIDGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

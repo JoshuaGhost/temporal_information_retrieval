@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Princeton University at 250</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="831412"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <org class="indexing_service">PRINCETON UNIVERSITY PRINCETON UNIVERSITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E1D71339F933A15751C0A960958260" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Princeton University at 250</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <dateline>PRINCETON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Princeton University's elaborate 250th anniversary celebration will begin Friday with speeches, music and poetry commissioned for the event.</p>
+        <p>The university expects to spend up to $5 million on eight months of birthday activities, including about 20 academic conferences, said Justin Harmon, a spokesman. Last November, the university announced the beginning of a $750 million fund-raising campaign.</p>
+        <p>TERRY PRISTIN</p>
+      </block>
+      <block class="full_text">
+        <p>Princeton University's elaborate 250th anniversary celebration will begin Friday with speeches, music and poetry commissioned for the event.</p>
+        <p>The university expects to spend up to $5 million on eight months of birthday activities, including about 20 academic conferences, said Justin Harmon, a spokesman. Last November, the university announced the beginning of a $750 million fund-raising campaign.</p>
+        <p>TERRY PRISTIN</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

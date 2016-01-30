@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Tour for Strong Men in '97</title>
+    <meta content="26TOUR" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="885625"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="indexing_service" type="descriptor">Tour De France (Bicycle Race)</classifier>
+        <person class="indexing_service">Riis, Bjarne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tour De France (Bicycle Race)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EED81E30F935A15753C1A960958260" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Tour for Strong Men in '97</hl1>
+      </hedline>
+      <dateline>PARIS, Oct. 25</dateline>
+      <abstract>
+        <p>Route for 1997 Tour de France is presented, Paris; Tour will begin July 9 in Rouen, and will include two days in Pyrenees mountains, long and hilly time trial and three days in Alps; Bjarne Riis, Dane who won this year's Tour, declares 'It's going to take a strong man to win this Tour' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bjarne Riis, the Dane who won this year's Tour de France, watched with excitement today when the route and difficulties of the 1997 race were unveiled at a special presentation.</p>
+        <p>And why not? Two days in the Pyrenees mountains, a long and hilly time trial and three days in the Alps will be packed into eight days of the three-week bicycle race.</p>
+      </block>
+      <block class="full_text">
+        <p>Bjarne Riis, the Dane who won this year's Tour de France, watched with excitement today when the route and difficulties of the 1997 race were unveiled at a special presentation.</p>
+        <p>And why not? Two days in the Pyrenees mountains, a long and hilly time trial and three days in the Alps will be packed into eight days of the three-week bicycle race.</p>
+        <p>''It's going to take a strong man to win this Tour,'' Riis said, looking as if he thought himself just that man.</p>
+        <p>The Tour will begin July 5 in Rouen, the city in Normandy that was home to the late Jacques Anquetil, who is one of four men to have won the race five times. After the customary short prologue, the Tour will proceed counterclockwise around France, covering roughly 2,400 miles, before it reaches its end in Paris on July 27. Of the 21 daily stages, excluding the prologue, 11 will be on the flat, with 8 of those consecutively before the Pyrenees are tackled on July 14 and 15. The Alps last from July 19 to 21.</p>
+        <p>In addition to the time trial July 18 in St. Etienne, there will be another long individual race against the clock on July 26, starting at the Disneyland Paris theme park.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE COUCH</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="580451"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MENTAL HEALTH AND DISORDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">DRUGS (PHARMACEUTICALS)</classifier>
+        <person class="indexing_service">STONE, ELIZABETH</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DF103BF930A35752C0A965958260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE COUCH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The traditional but nonetheless specious distinction between mind and brain has spawned an equally false dichotomy between psychotherapy and psychiatric medications ("Off the Couch," by Elizabeth Stone, Dec. 6). According to this flawed view, only medications redress the chemical imbalances that cause behavioral, cognitive or emotional problems. The biochemical disturbances associated with mental illness, presumably, are untouched by the various forms of "talk" therapy.</p>
+        <p>However, recent discoveries in neuroscience have started to reveal the neuroanatomical and chemical changes that learning produces. The stunning implication is that, once inside the brain, words and medications are substantively equivalent.</p>
+      </block>
+      <block class="full_text">
+        <p>The traditional but nonetheless specious distinction between mind and brain has spawned an equally false dichotomy between psychotherapy and psychiatric medications ("Off the Couch," by Elizabeth Stone, Dec. 6). According to this flawed view, only medications redress the chemical imbalances that cause behavioral, cognitive or emotional problems. The biochemical disturbances associated with mental illness, presumably, are untouched by the various forms of "talk" therapy.</p>
+        <p>However, recent discoveries in neuroscience have started to reveal the neuroanatomical and chemical changes that learning produces. The stunning implication is that, once inside the brain, words and medications are substantively equivalent.</p>
+        <p>Evidence of the unity of mind and brain would have delighted Freud, an avowed materialist, who was a pioneering neuroscientist before he invented psychoanalysis. WILLIAM F. WALSH</p>
+        <p>Metuchen, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

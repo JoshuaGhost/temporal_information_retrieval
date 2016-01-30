@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Speculator Collapses, And Traders Worry</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="678218"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="MARKET WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <org class="indexing_service">ASKIN CAPITAL MANAGEMENT</org>
+        <person class="indexing_service">NORRIS, FLOYD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Gretchen Morgenson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E4D7123FF930A35757C0A962958260" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Speculator Collapses, And Traders Worry</hl1>
+      </hedline>
+      <byline class="print_byline">By Floyd Norris</byline>
+      <byline class="normalized_byline">NORRIS, FLOYD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE most dangerous speculators are the ones who don't think they are speculating at all. For they assume that market disruptions will not affect them, and thus show a disregard for the warning signs that markets are turning against them.</p>
+        <p>That is why the collapse last week of Askin Capital Management may have been the most significant event of the week. Askin was running more than $600 million in an allegedly "market neutral" account that was supposed to produce guaranteed profits without interest rate risk. Something went wrong, and the entire amount may have been wiped out as interest rates rose in recent weeks.</p>
+      </block>
+      <block class="full_text">
+        <p>THE most dangerous speculators are the ones who don't think they are speculating at all. For they assume that market disruptions will not affect them, and thus show a disregard for the warning signs that markets are turning against them.</p>
+        <p>That is why the collapse last week of Askin Capital Management may have been the most significant event of the week. Askin was running more than $600 million in an allegedly "market neutral" account that was supposed to produce guaranteed profits without interest rate risk. Something went wrong, and the entire amount may have been wiped out as interest rates rose in recent weeks.</p>
+        <p>Askin's strategy involved buying mortgage-backed securities that its computer program determined were underpriced, and then taking opposite positions in fairly priced securities. If all went as planned, that would produce a small profit as the market prices came into line. To lift that profit, Askin used leverage, borrowing up to $3 for every dollar in capital.</p>
+        <p>What went wrong? It appears that prices got too far out of line, and that Askin's computer program may not have figured out that some securities, which gain in value if interest rates rise a little, could fall in value if rates rise a lot. In any case, as Askin scrambled to survive, it dumped securities on an already weak market, further pushing prices down.</p>
+        <p>All that was eerily reminiscent of 1987, when it was the siren song of "portfolio insurance" that lulled institutional investors to sleep. The assumption was that when stock prices dropped the institutions could limit their losses by selling stock index futures. As they all tried to dump at the same time, prices fell far further than they should have. Those who caused the crash thought they were playing it safe.</p>
+        <p>Among the big boys, there is no doubt that there have been a lot of margin calls, forcing selling that drives down prices still further. The big question now is whether the margin calls among the leveraged set are over, or whether they have a long way to go. Are there other Askins out there, hoping a rally will save them? If so, now is not the time to get adventuresome.</p>
+        <p>The other question is whether the public, which joined in the panic in 1987 but which since has shown a tendency to buy on weakness, will again decide to get out. The direct-sale mutual fund companies like Fidelity and T. Rowe Price say that their customers began selling stock funds last week. Will they continue?</p>
+        <p>The wild action in the stock market on Thursday, in which the Dow covered a range of 90 points before closing with a mild gain, looked like a climax. And in the last few years, stocks have normally rebounded after very bad weeks.</p>
+        <p>But on Friday, with the stock market closed, bonds sold off again, pushing the yield on 30-year Treasury bonds above 7.25 percent for the first time since January 1993. The news was that a lot of people found work in March, which sounds bad only if you're a bond trader. Will that bring out more margin calls, and will the higher rates scare stock buyers again? It should be an interesting week for the markets.  MARKET WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Somewhat Suited</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Styles of The Times" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="552089"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D6163CF930A1575BC0A964958260" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Somewhat Suited</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The vest, usually the hidden element of a three-piece suit, requiring less than a yard of cloth, has emerged this summer as fashion's main event for both men and women. The vest has lost its gender identity and become a fashion trend with both men and women, coming into its own as a major ingredient in the creation of a new language of casual dress.</p>
+        <p>On hot muggy days, it is being worn as a top of its own by some. More often, it is being worn over shirts, from a simple T-shirt to more elaborate styles. Some of the wearers are recycling vests from men's old business suits. One woman chose a white pique vest, the sort usually worn with men's white evening tails. Other vests are printed in leopard spots or vivid abstract motifs. A few have imaginative new designs, like the Romeo Gigli at the far upper right.</p>
+      </block>
+      <block class="full_text">
+        <p>The vest, usually the hidden element of a three-piece suit, requiring less than a yard of cloth, has emerged this summer as fashion's main event for both men and women. The vest has lost its gender identity and become a fashion trend with both men and women, coming into its own as a major ingredient in the creation of a new language of casual dress.</p>
+        <p>On hot muggy days, it is being worn as a top of its own by some. More often, it is being worn over shirts, from a simple T-shirt to more elaborate styles. Some of the wearers are recycling vests from men's old business suits. One woman chose a white pique vest, the sort usually worn with men's white evening tails. Other vests are printed in leopard spots or vivid abstract motifs. A few have imaginative new designs, like the Romeo Gigli at the far upper right.</p>
+        <p>The vests are being paired with trousers, leggings and both long and short skirts. One of America's top designers, James Galanos, spotlighted the vest in the new fall collection he showed in New York this month as an alternative to the jacket, both for daytime and as a cover for formal evening dresses.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

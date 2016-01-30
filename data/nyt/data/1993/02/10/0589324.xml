@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Evert Event</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="589324"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TENNIS</classifier>
+        <person class="indexing_service">EVERT, CHRIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DC173AF933A25751C0A965958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Evert Event</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Names may not be everything, but CHRIS EVERT seemed suitably impressed yesterday at the formal unveiling of the official trophy for the Matrix Essentials Evert Cup, which will be held in Indian Wells, Calif., from Feb. 22-28. She was also, perhaps, a bit puzzled. The Evert Cup, it turns out, is no cup at all, but a truncated chunk of Baccarat crystal that wouldn't hold so much as a sip of champagne.</p>
+      </block>
+      <block class="full_text">
+        <p>Names may not be everything, but CHRIS EVERT seemed suitably impressed yesterday at the formal unveiling of the official trophy for the Matrix Essentials Evert Cup, which will be held in Indian Wells, Calif., from Feb. 22-28. She was also, perhaps, a bit puzzled. The Evert Cup, it turns out, is no cup at all, but a truncated chunk of Baccarat crystal that wouldn't hold so much as a sip of champagne.</p>
+        <p>SPORTS PEOPLE: TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

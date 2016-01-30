@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Celeste P. Colyer Planning to Wed</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="55" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="448241"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">COLYER, CELESTE P.</person>
+        <person class="indexing_service">BOELE, PIETER CORNELIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDE153EF935A15756C0A967958260" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Celeste P. Colyer Planning to Wed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>September wedding plans for Celeste Patricia Colyer and Peter Cornelis Boele have been announced by her parents, Patricia Benedict Colyer of Greenwich, Conn., and John M. Colyer Jr. of New York.</p>
+        <p>Miss Colyer, 28 years old, graduated from Boston University. She runs her own gift-shopping service in New York. Her father owns a real-estate and investment company in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>September wedding plans for Celeste Patricia Colyer and Peter Cornelis Boele have been announced by her parents, Patricia Benedict Colyer of Greenwich, Conn., and John M. Colyer Jr. of New York.</p>
+        <p>Miss Colyer, 28 years old, graduated from Boston University. She runs her own gift-shopping service in New York. Her father owns a real-estate and investment company in New York.</p>
+        <p>Mr. Boele, also 28, graduated from Clark University in Worchester, Mass., and is a program director at the Institute for Applied Economics in New York. He is a son of Mr. and Mrs. Geert-Jan Boel-Eschauzier of Rotterdam, the Netherlands. His father heads Merode B.V., a family investment and real-estate concern in Rotterdam.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Campus Safety By Computer</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Education Life Supplement" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="4A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="735691"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="BLACKBOARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COLLEGES AND UNIVERSITIES</classifier>
+        <classifier class="indexing_service" type="descriptor">CRIME AND CRIMINALS</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITY AND WARNING SYSTEMS</classifier>
+        <person class="indexing_service">MARTIN, DOUGLAS</person>
+        <person class="indexing_service">BEALS, MICHAEL (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1DA133FF93BA35752C0A963958260" item-length="430" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Campus Safety By Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By DOUGLAS MARTIN</byline>
+      <byline class="normalized_byline">MARTIN, DOUGLAS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>College is sometimes thought of as a sylvan, otherworldly realm of the mind. Well, check out the crime statistics: In 1992, some 2,400 colleges reported 1,000 rapes, 17 murders and 1,800 robberies.</p>
+        <p>Urban, suburban and rural campuses all had roughly similar per-capita rates, to the figures required to be reported under the Student Right-to-Know and Campus Security Act of 1990.</p>
+      </block>
+      <block class="full_text">
+        <p>College is sometimes thought of as a sylvan, otherworldly realm of the mind. Well, check out the crime statistics: In 1992, some 2,400 colleges reported 1,000 rapes, 17 murders and 1,800 robberies.</p>
+        <p>Urban, suburban and rural campuses all had roughly similar per-capita rates, to the figures required to be reported under the Student Right-to-Know and Campus Security Act of 1990.</p>
+        <p>Imagine the unease all this gore gives parents sending their bundles of joy away from home for the first time. Dr. Michael Beals, a New Jersey dentist of entrepreneurial bent, was no different. But after he learned that there had been sexual attacks at Syracuse University, where he was dropping off his daughter Lara, he decided to do something about it.</p>
+        <p>Dr. Beals developed a device the size of a keychain that incorporates a radio transmitter. With the press of a button, it instantly tells a central computer in the campus security office where the person is and pinpoints the location on an electronic map. If the caller moves, the system keeps track.</p>
+        <p>A security guard monitoring the computer simply flicks a key and up comes a physical description of the student -- hair and eye color, medical history and so on -- that can be electronically transmitted to patrol cars. The central computer monitors the device continuously to detect possible malfunction.</p>
+        <p>The system, called CAMPUS SECURE , is being used at the University of Bridgeport in Connecticut, Loyola University of New Orleans and Scranton University in Pennsylvania.</p>
+        <p>Michael Beecher, chief financial officer at the University of Bridgeport, was responsible for bringing the system there, as part of a general effort to beef up security on the 86-acre urban campus.</p>
+        <p>Mr. Beecher said the system, installed on Oct. 1, 1994, has already signaled several emergencies. And students who initially complained about the $150 item in their required fees have quieted, he said.</p>
+        <p>One student who certainly isn't complaining is Kim Soon Young, who was going to her dormitory room at 8 A.M. when two men started chasing her. "I heard the sound of them running after me," she said. "I began to run. I became very scared."</p>
+        <p>Within 30 seconds, a security officer in a car was on the scene. "It worked very well," Ms. Kim said.</p>
+        <p>And what about Syracuse? So far Dr. Beal hasn't succeeded in selling that university his system. His daughter has since graduated, and now another daughter, Morgan, is at Syracuse.</p>
+        <p>"I keep on sending them letters," the dentist said, "and they keep on saying that they'll try it when it's truly tested."  BLACKBOARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

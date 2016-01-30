@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun Line Cruises Moves Its Account</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="678710"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <org class="indexing_service">SUN LINE CRUISES INC</org>
+        <org class="indexing_service">DWECK &amp; CAMPBELL</org>
+        <org class="indexing_service">AC&amp;R ADVERTISING</org>
+        <person class="indexing_service">ADELSON, ANDREA</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1DC1E3FF936A35757C0A962958260" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun Line Cruises Moves Its Account</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrea Adelson</byline>
+      <byline class="normalized_byline">ADELSON, ANDREA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sun Line Cruises said yesterday that it would move its account, without a review, to Dweck &amp; Campbell of New York from AC&amp; R Advertising in New York. Billings were estimated at $2.5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>Sun Line Cruises said yesterday that it would move its account, without a review, to Dweck &amp; Campbell of New York from AC&amp; R Advertising in New York. Billings were estimated at $2.5 million.</p>
+        <p>"We wanted a fresh perspective," said Meg Duncan, a spokeswoman for Sun Line in New York, adding that a campaign was scheduled to begin in June. The account had been at AC&amp; R on and off for nearly two decades; that agency successfully defended it in a review in 1992.  THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

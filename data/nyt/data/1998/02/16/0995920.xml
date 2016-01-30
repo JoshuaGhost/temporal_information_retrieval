@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Return of the Gold</title>
+    <meta content="LTR234855" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="995920"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (1998)</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Snowboarding</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Nagano (Japan)</location>
+        <person class="indexing_service">Drake, Robert F (Prof)</person>
+        <person class="indexing_service">Rebagliati, Ross</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Nagano</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snowboarding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E3DE163FF935A25751C0A96E958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Return of the Gold</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Robert F Drake letter on Feb 12 article on return of Olympic gold medal to Canadian snowboarder Ross Rebagliati (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''These Games Are a Lesson in Chemistry'' (Sports of The Times, Feb. 12): The restoration of the gold medal to the Canadian snowboarder Ross Rebagliati, who had been found to have 17.8 nanograms of marijuana traces in his system when 15 is the legal limit, is not so much a lesson in chemistry as in how fast science is outstripping the ability of nonscientists to comprehend the repercussions of the new tools available to them.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''These Games Are a Lesson in Chemistry'' (Sports of The Times, Feb. 12): The restoration of the gold medal to the Canadian snowboarder Ross Rebagliati, who had been found to have 17.8 nanograms of marijuana traces in his system when 15 is the legal limit, is not so much a lesson in chemistry as in how fast science is outstripping the ability of nonscientists to comprehend the repercussions of the new tools available to them.</p>
+        <p>At a time when the eating of a poppyseed roll can put a measurable quantity of opiates in your system, the International Olympic Committee has to decide the level at which drugs are ''performance-enhancing'' at the time of the performance as well as the acceptable levels of others, like steroids, that might be used to attain a superhuman performance.</p>
+        <p>ROBERT F. DRAKE  Bronx, Feb. 13, 1998</p>
+        <p>The writer is an assistant professor of chemistry, Bronx Community College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

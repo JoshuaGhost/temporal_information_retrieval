@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GOING OUT GUIDE</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="37400"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENTERTAINMENT AND AMUSEMENTS</classifier>
+        <person class="indexing_service">FRASER, C GERALD</person>
+        <object.title class="indexing_service">GOING OUT GUIDE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Entertainment and Amusements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DB1330F936A35756C0A961948260" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GOING OUT GUIDE</hl1>
+      </hedline>
+      <byline class="print_byline">By C. Gerald Fraser</byline>
+      <byline class="normalized_byline">FRASER, C GERALD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Music at Sacred Heart</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Music at Sacred Heart</p>
+        <p>Music at Sacred Heart</p>
+        <p>Otto Kahn, a banker and patron of the arts, used his wealth to support various artistic enterprises. These included the Ziegfeld Follies, the Paris Conservatory Orchestra, the Metropolitan Opera and the Provincetown Players. And he treated himself to a 66-room Beaux-Arts-style mansion at Fifth Avenue and 91st Street.</p>
+        <p>When Mr. Kahn died in 1934, the Convent of the Sacred Heart acquired his home for its school, the city's oldest independent academy for girls.</p>
+        <p>A Sacred Heart music teacher, Susan Coffee, begins a faculty concert series today, conducting an ensemble in a program that includes the premiere of a work by Eric Klein and music by Edgar Varese, Aaron Copland and William Walton.</p>
+        <p>The program starts at 8 P.M. in the second-floor assembly room at the school, 1 East 91st Street. Admission, $5. Information: 722-4745.  Poetry and Stories</p>
+        <p>Aaron Kramer is a poet who earns his living as a professor of English and a translator of poetry. Pete Seeger is a political activist, environmentalist and a folk singer. Both men came to prominence in the 1940's. In 1944, Mr. Kramer compiled an anthology of anti-Hitler poems, ''Seven Poets in Search of an Answer,'' which included the work of Maxwell Bodenheim, Langston Hughes and Alfred Kreymborg. In 1948 Mr. Seeger and three compatriots, Lee Hays, Ronnie Gilbert and Fred Hellerman, began singing together in a quartet called the Weavers.</p>
+        <p>Mr. Kramer and Mr. Seeger are to present a program called ''An Evening of Poetry and Stories'' at the Donnell Library Center this evening at 6 P.M. Mr. Kramer is to read new poems and translations from German, Hungarian and Yiddish, and talk about problems of poetry translation. Mr. Seeger is to tell stories, recite poems, and sing.</p>
+        <p>The library is at 20 West 53d Street. Admission is free. Information: 621-0618.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

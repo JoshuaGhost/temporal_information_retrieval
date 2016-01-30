@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High School Girl Sets Meet Record</title>
+    <meta content="PL024407" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1270601"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="PLUS: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Interscholastic Athletics</classifier>
+        <person class="indexing_service">Miller, William J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interscholastic Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4DE1F31F930A25751C0A9679C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High School Girl Sets Meet Record</hl1>
+      </hedline>
+      <byline class="print_byline">By William J. Miller</byline>
+      <byline class="normalized_byline">Miller, William J</byline>
+      <abstract>
+        <p>Results of Varsity Classic high school track and field meet noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tawana Watkins, a 17-year-old junior at Kennedy High School in Paterson, N.J., made her first effort last night in the 800 meters at the Varsity Classic a memorable one. She registered the fastest time in the nation this year when she won in 2 minutes 9.6 seconds, breaking the meet record by more than eight seconds.</p>
+        <p>The second-place finisher, Erin Donohue, a senior from Haddonfield, N.J., was timed in 2:10.0. That was also under the previous American best this season of 2:11.20, set by Stacey Ann Livingston of Boys and Girls High School in Brooklyn. Livingston was not entered in last night's meet, which involved 171 schools from four states at the Armory Track and Field Center in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Tawana Watkins, a 17-year-old junior at Kennedy High School in Paterson, N.J., made her first effort last night in the 800 meters at the Varsity Classic a memorable one. She registered the fastest time in the nation this year when she won in 2 minutes 9.6 seconds, breaking the meet record by more than eight seconds.</p>
+        <p>The second-place finisher, Erin Donohue, a senior from Haddonfield, N.J., was timed in 2:10.0. That was also under the previous American best this season of 2:11.20, set by Stacey Ann Livingston of Boys and Girls High School in Brooklyn. Livingston was not entered in last night's meet, which involved 171 schools from four states at the Armory Track and Field Center in Manhattan.</p>
+        <p>Watkins, who has won five New Jersey indoor and outdoor titles this season, let Donohue set the pace with 200 splits of 31.4 seconds, 32.8 and 32.0. Then Watkins moved in front on the last turn and won by less than 2 meters.</p>
+        <p>Bellport of Long Island won the girls' distance medley on the strength of Theresa Fach's 4:53.4 anchor leg in the 1,600 meters; the winning time was 11:58.4, a meet record. In the boys' medley, Brian Boyett took Parsippany Hills of New Jersey from sixth place to first with an outstanding 1,600 anchor leg of 4:14.9. Parsippany Hills won in 10:25.4.</p>
+        <p>The Fieldston School of Riverdale achieved a rare victory in a major meet when Hannah Oberman-Brendel won the girls' 3,000-meter run in 11:03.7, a meet record by 31 seconds.</p>
+        <p>William J. Miller</p>
+        <p>PLUS: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

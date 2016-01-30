@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frederick Ballon, Bankruptcy Lawyer, 88</title>
+    <meta content="11BALL" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="929145"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Ballon, Frederick E M</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EEDA1339F932A25756C0A961958260" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frederick Ballon, Bankruptcy Lawyer, 88</hl1>
+      </hedline>
+      <abstract>
+        <p>Frederick E M Ballon, bankruptcy lawyer, dies at age 88 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frederick E. M. Ballon, a practitioner of bankruptcy and insolvency law and a founder of the Manhattan law firm of Ballon Stoll Bader &amp; Nadler, died on April 25 at a hospital in Palm Beach, Fla., where he had a winter house. He was 88 and lived on the Upper East Side of Manhattan.</p>
+        <p>Mr. Ballon was especially knowledgeable about the textile industry and often represented textile and apparel concerns.</p>
+      </block>
+      <block class="full_text">
+        <p>Frederick E. M. Ballon, a practitioner of bankruptcy and insolvency law and a founder of the Manhattan law firm of Ballon Stoll Bader &amp; Nadler, died on April 25 at a hospital in Palm Beach, Fla., where he had a winter house. He was 88 and lived on the Upper East Side of Manhattan.</p>
+        <p>Mr. Ballon was especially knowledgeable about the textile industry and often represented textile and apparel concerns.</p>
+        <p>He was born in Manhattan and  graduated from Columbia College in 1928 and from Columbia Law School in 1930. Mr. Ballon is survived by his wife, Sydell; a daughter, Lois Ballon, and a stepdaughter, Geraldine Lipshie, both of Manhattan; a sister, Rhita Berhrman of Florida; six grandchildren, and six great-grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

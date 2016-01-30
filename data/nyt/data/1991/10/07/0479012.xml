@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Emergency Room's Emergency</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="479012"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">EMERGENCY MEDICAL TREATMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">ASSAULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">JEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">ANTI-SEMITISM</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <location class="indexing_service">CROWN HEIGHTS (NYC)</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">KINGS COUNTY HOSPITAL (NYC)</org>
+        <person class="indexing_service">ROSENBAUM, YANKEL</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anti-Semitism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D61F3DF934A35753C1A967958260" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Emergency Room's Emergency</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kings County Hospital has the busiest emergency room in New York City. It's also one of the most troubled. A Federal survey last January cited nearly a dozen cases where the timeliness and adequacy of patient evaluations and other procedures were deficient.</p>
+        <p>The stabbing and death of Yankel Rosenbaum has highlighted those deficiencies once again, revealing serious management flaws that require prompt correction by the hospital and the city's Health and Hospitals Corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>Kings County Hospital has the busiest emergency room in New York City. It's also one of the most troubled. A Federal survey last January cited nearly a dozen cases where the timeliness and adequacy of patient evaluations and other procedures were deficient.</p>
+        <p>The stabbing and death of Yankel Rosenbaum has highlighted those deficiencies once again, revealing serious management flaws that require prompt correction by the hospital and the city's Health and Hospitals Corporation.</p>
+        <p>Mr. Rosenbaum was the victim of a revenge stabbing last August after a black child was accidentally killed by a car driven by a Hasidic Jew. When Mr. Rosenbaum was taken to the Kings County emergency room, two residents failed to notice a serious wound on his left side for 45 minutes, even though it had been noted by the ambulance crew. Investigators also discovered long delays in obtaining a chest X-ray and documenting vital signs.</p>
+        <p>Individual incompetence may be to blame. But the hospital has long suffered from chronic management problems. The Hospitals Corporation is investigating whether a senior doctor assigned residents, including the two who attended Mr. Rosenbaum, to jobs for which they were not qualified. In addition, blurred lines of authority might have caused confusion in the emergency room.</p>
+        <p>Kings County is not the only overburdened hospital in New York. Many emergency rooms are overwhelmed because poor patients use these facilities for their primary care. As a result, about half of the municipal hospitals, including Kings County, now have walk-in centers to treat such patients, in an effort to preserve emergency resources for true emergencies.</p>
+        <p>But such measures have not solved Kings County's chronic problems. The hospital has attempted corrective action in the past but seems incapable of sustaining improvements. Investigations have been launched by Mayor David Dinkins, the State Health Department and others. This time, the hospital's management and the Hospitals Corporation will have to demonstrate that Kings County is capable of lasting change.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

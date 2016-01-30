@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Talks May Resume</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="773790"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D7113CF93AA35754C0A963958260" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Talks May Resume</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The baseball labor negotiations that disappeared more than three months ago could come back soon. A management person close to the owners' negotiating committee said the committee hopes to resume talks "in some form" in 10 days to two weeks.</p>
+        <p>That timetable in mind, the committee has a meeting scheduled for tomorrow in Dallas. Participating in the meeting will be Rob Manfred, who had been the owners' No. 2 labor lawyer but who will apparently become No. 1. He would replace Chuck O'Connor, his associate at the Washington firm of Morgan, Lewis &amp; Bockius, who was dismissed by Bud Selig, the acting commissioner.</p>
+      </block>
+      <block class="full_text">
+        <p>The baseball labor negotiations that disappeared more than three months ago could come back soon. A management person close to the owners' negotiating committee said the committee hopes to resume talks "in some form" in 10 days to two weeks.</p>
+        <p>That timetable in mind, the committee has a meeting scheduled for tomorrow in Dallas. Participating in the meeting will be Rob Manfred, who had been the owners' No. 2 labor lawyer but who will apparently become No. 1. He would replace Chuck O'Connor, his associate at the Washington firm of Morgan, Lewis &amp; Bockius, who was dismissed by Bud Selig, the acting commissioner.</p>
+        <p>Asked about being No. 1, Manfred said he wouldn't comment but acknowledged that he would be in Texas "for business reasons" this week.  BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

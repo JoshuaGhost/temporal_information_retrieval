@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trapped, Escapee Kills Himself</title>
+    <meta content="08SUIC" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993997"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Prison Escapes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suicides and Suicide Attempts</classifier>
+        <org class="indexing_service">Washington Square Hotel (NYC)</org>
+        <org class="indexing_service">Camp Hill Prison (Pa)</org>
+        <person class="indexing_service">Roane, Kit R</person>
+        <person class="indexing_service">Brown, Edward Thomas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prison Escapes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4D8113DF93BA35751C0A96E958260" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trapped, Escapee Kills Himself</hl1>
+      </hedline>
+      <byline class="print_byline">By KIT R. ROANE</byline>
+      <byline class="normalized_byline">Roane, Kit R</byline>
+      <abstract>
+        <p>Edward Thomas Brown, fugitive from Camp Hill state prison in Pennsylvania, kills himelf in Washington Square Hotel in New York City as law enforcement officers close in on him (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After committing a string of bank robberies and a kidnapping, a fugitive from a Pennsylvania prison killed himself in a West Village hotel room yesterday morning as his pursuers closed in, law enforcement officers said.</p>
+        <p>The fugitive, Edward Thomas Brown, 32, put a pistol under his chin and pulled the trigger shortly after United States marshals and Pennsylvania state troopers announced they were outside his door at the Washington Square Hotel around 10 A.M., said David M. Branham, a spokesman for the marshals. After answering the door, the authorities said, Mr. Brown ran into the bathroom and shot himself.</p>
+      </block>
+      <block class="full_text">
+        <p>After committing a string of bank robberies and a kidnapping, a fugitive from a Pennsylvania prison killed himself in a West Village hotel room yesterday morning as his pursuers closed in, law enforcement officers said.</p>
+        <p>The fugitive, Edward Thomas Brown, 32, put a pistol under his chin and pulled the trigger shortly after United States marshals and Pennsylvania state troopers announced they were outside his door at the Washington Square Hotel around 10 A.M., said David M. Branham, a spokesman for the marshals. After answering the door, the authorities said, Mr. Brown ran into the bathroom and shot himself.</p>
+        <p>Mr. Brown had been sought by Federal marshals since July, when he escaped from the state prison in Camp Hill, Pa. Only recently, he was tracked to the hotel room through a stolen car and a tip, Mr. Branham said. The authorities said Mr. Brown had been in New York no longer than a week.</p>
+        <p>According to the Pennsylvania and North Carolina ''Most Wanted'' sites on the World Wide Web, Mr. Brown, a former resident of Bryn Mawr, Pa., committed a bank robbery in Scranton, Pa., three in Baltimore and another in Raleigh, N.C., since escaping from prison. He was imprisoned in 1987 for a sentence of 16 to 32 years for several armed robberies and the attempted murder of a law enforcement officer.</p>
+        <p>Officers with the Raleigh police said that Mr. Brown robbed a bank there in August after kidnapping a man as he got into his car. He tied the man up, then drove around town asking him about the location of local banks, the police said. After he settled on the Central Carolina Bank, he tied his victim's neck to the car's headrest and walked inside, they said.</p>
+        <p>While Mr. Brown was robbing the bank, the police said, the man was able to free himself from the car and hop to the front of the bank, where a bank customer used a pair of toenail clippers to cut the remaining ropes. The victim and his rescuer walked into the bank as Mr. Brown ran back out to the stolen car, the police said. The car was later found abandoned.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

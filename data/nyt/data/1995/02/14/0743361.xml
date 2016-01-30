@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="743361"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">NEW YORK BOTANICAL GARDEN</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">NORMAN, JESSYE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED81530F937A25751C0A963958260" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Another singer, albeit in a different league, is diversifying, too: the soprano JESSYE NORMAN has been elected to the board of managers of the New York Botanical Garden in the Bronx, thanks to a staghorn fern.</p>
+        <p>Several years ago, Ms. Norman bought the exotic-looking fern at the garden's annual plant auction.</p>
+      </block>
+      <block class="full_text">
+        <p>Another singer, albeit in a different league, is diversifying, too: the soprano JESSYE NORMAN has been elected to the board of managers of the New York Botanical Garden in the Bronx, thanks to a staghorn fern.</p>
+        <p>Several years ago, Ms. Norman bought the exotic-looking fern at the garden's annual plant auction.</p>
+        <p>"I brought it home, looked after it well, but when I went on a long tour, my assistant didn't know what it was and thought it was dead, so she threw it out," she said. "I was so sick about losing that plant, I never bought another one."</p>
+        <p>But she did continue forging bonds with the garden, serving on various committees. On Thursday, she will join the board.</p>
+        <p>It's no stretch from opera to gardens, she said.</p>
+        <p>"I sing so many songs that have to do with trees, flowers, sunlight and moonlight, and I enjoy being outside," she said. "So much of my professional life is spent inside."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

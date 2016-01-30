@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Music in Review</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="856114"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">HONG KONG CHINESE ORCHESTRA</org>
+        <person class="indexing_service">OESTREICH, JAMES R</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DC1639F93BA35755C0A960958260" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Music in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By James R. Oestreich</byline>
+      <byline class="normalized_byline">OESTREICH, JAMES R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Penetrating Power Of Chinese Instruments Hong Kong Chinese Orchestra Alice Tully Hall</p>
+      </block>
+      <block class="full_text">
+        <p>The Penetrating Power Of Chinese Instruments Hong Kong Chinese Orchestra Alice Tully Hall</p>
+        <p>The very sight of some 40 players of traditional Chinese instruments arrayed in the style of a Western orchestra, complete with concertmaster (playing gaohu, a small, lap-held fiddle) and baton-wielding conductor, seemed to herald  an evening of uncomfortable juxtapositions on Wednesday. And the concern was little allayed by the first number, "Thunder in a Drought," one of several nature sketches that drew on cliches Eastern and Western in title and music alike. But other pieces, written with an ear to the instruments' inherent qualities, like Law Wing-fai's "Soundscape," afforded real musical interest.</p>
+        <p>Prominent among those qualities is a pungency of a sort that allows a small  band of players to raise a delightful racket in performances of Chinese opera. Some of that sense came through in a modest arrangement of an operatic tune, "In the Deep of the Night," apart from its having been turned into a percussion concerto. But in the larger deployments, the penetrating power of individual instruments seemed dulled rather than enhanced by cumulation, much the way returns diminish and even cancel out with multiple pianos.</p>
+        <p>Still, it is not the place of a Westerner to tell these musicians how to use  their instruments, and the quality of the performances, led by the Western-trained Henry Shek, was everywhere admirable. The virtuosity of soloists was sometimes astonishing, as in "Birds in the Shade," with Cheng Chai-man playing the piccololike di and Cheng Tai-wai on sheng, a mouth organ with actual pipes.</p>
+        <p>JAMES R. OESTREICH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

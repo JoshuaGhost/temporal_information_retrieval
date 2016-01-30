@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="344467"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D9173EF934A25757C0A966958260" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline/>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Americans put an estimated $31.5 billion into Individual Retirement Accounts by the 1989 tax filing deadline yesterday, Money magazine reports. The latest year's total is more than double the $15 billion added to I.R.A.'s in 1988 but lags well behind the record $50 billion invested in 1986, the year before Congress reduced the deductibility of contributions, the magazine said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Americans put an estimated $31.5 billion into Individual Retirement Accounts by the 1989 tax filing deadline yesterday, Money magazine reports. The latest year's total is more than double the $15 billion added to I.R.A.'s in 1988 but lags well behind the record $50 billion invested in 1986, the year before Congress reduced the deductibility of contributions, the magazine said.</p>
+        <p>Americans put an estimated $31.5 billion into Individual Retirement Accounts by the 1989 tax filing deadline yesterday, Money magazine reports. The latest year's total is more than double the $15 billion added to I.R.A.'s in 1988 but lags well behind the record $50 billion invested in 1986, the year before Congress reduced the deductibility of contributions, the magazine said. The total amount held in I.R.A.'s rose $72 billion in the last year, to $465 billion, Money said. Earnings from existing investments accounted for $40.5 billion of the increase.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

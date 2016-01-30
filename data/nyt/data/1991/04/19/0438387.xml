@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Novel Vaccine Used to Treat AIDS-Like Illness in Monkeys</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="438387"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">VACCINATION AND VACCINES</classifier>
+        <classifier class="indexing_service" type="descriptor">MONKEYS AND APES</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <person class="indexing_service">KOLATA, GINA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Vaccination and Immunization</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monkeys and Apes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE173BF93AA25757C0A967958260" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Novel Vaccine Used to Treat AIDS-Like Illness in Monkeys</hl1>
+      </hedline>
+      <byline class="print_byline">By GINA KOLATA</byline>
+      <byline class="normalized_byline">KOLATA, GINA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a step they say may lead to a new approach to developing an AIDS vaccine, researchers have devised a novel vaccine against an AIDS-like disease that affects monkeys.</p>
+        <p>The vaccine consists of an otherwise innocuous virus artifically studded with genes from a simian immunodeficiency virus, or SIV, that causes an AIDS-like disease in monkeys. In the laboratory, when the researchers injected monkeys with this vaccine, the animals produced a burst of white blood cells that turned on and destroyed the cells that had been infected. The researchers have not yet tested the vaccine to see if this stimulation of the immune system can protect monkeys against the disease.</p>
+      </block>
+      <block class="full_text">
+        <p>In a step they say may lead to a new approach to developing an AIDS vaccine, researchers have devised a novel vaccine against an AIDS-like disease that affects monkeys.</p>
+        <p>The vaccine consists of an otherwise innocuous virus artifically studded with genes from a simian immunodeficiency virus, or SIV, that causes an AIDS-like disease in monkeys. In the laboratory, when the researchers injected monkeys with this vaccine, the animals produced a burst of white blood cells that turned on and destroyed the cells that had been infected. The researchers have not yet tested the vaccine to see if this stimulation of the immune system can protect monkeys against the disease.</p>
+        <p>The study, by Dr. Norman L. Letvin of the New England Regional Primate Research Center in Southborough, Mass., is being published today in the journal Science.  Hopes for AIDS Research</p>
+        <p>Dr. Letvin said he was trying to elicit cells that are the body's natural defense against the AIDS virus.</p>
+        <p>"This is a very important study," said Dr. Dani Bolognesi, an AIDS vacine researcher at Duke University, plaining that this was the first time such a vaccine had worked in laboratory monkeys.</p>
+        <p>Dr. Bernard Moss, an AIDS researcher at the National Institute of Allergy and Infectious Diseases, said such results could also help investigators understand the natural course of AIDS virus infections in humans. In particular, he and others want to know more about why some people can carry the virus for a decade or more before becoming ill. And the researchers want to know what it is that causes them to start showing signs of illness.</p>
+        <p>Most vaccines work by stimulating the body to make antibodies. Still, many researchers are growing disenchanted with that approach for AIDS, Dr. Bolognesi said. People already make antibodies to the AIDS virus, but the virus evades the antibodies as it slips from cell to cell.</p>
+        <p>Instead, many researchers are starting to focus on the immune cells that the body mobilizes to fight an infection.</p>
+        <p>Dr. Moss and others have found that when people are first infected with the AIDS virus, their immune system bursts into action, flooding the body with white blood cells that attack other cells infected with the virus. Many investigators believe these killer cells, called cytotoxic T cells, keep the AIDS virus in check. When people become ill with AIDS, their cytotoxic T cells decline in number. But no one knows why the cytotoxic T cell response breaks down.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

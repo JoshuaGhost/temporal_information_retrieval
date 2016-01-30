@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yipes!</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Styles of The Times" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="623772"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DD1E38F936A15754C0A965958260" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yipes!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stripes -- vertical, horizontal and combinations -- are all over fashion. In Greenwich Village, one man was seen camouflaged in broad stripes that resembled those on a beach chair. His ensemble was of four different stripe patterns: tank top, scarf, duffel bag and trousers. At another extreme are long, slim, jersey tube dresses in Roman stripes, those circles of brilliant colors in contrasting series that run across the fabric. For others, the stripe story is graphic black and white or navy and white stripes. Even the street performer Gustavo Sola has stitched himself a pair of black-and-white striped overalls for handing out restaurant fliers (when not stepping out on lower Broadway with his legs and stilts opening to form an arch that bicycle messengers whiz under for a bit of summer fun).</p>
+      </block>
+      <block class="full_text">
+        <p>Stripes -- vertical, horizontal and combinations -- are all over fashion. In Greenwich Village, one man was seen camouflaged in broad stripes that resembled those on a beach chair. His ensemble was of four different stripe patterns: tank top, scarf, duffel bag and trousers. At another extreme are long, slim, jersey tube dresses in Roman stripes, those circles of brilliant colors in contrasting series that run across the fabric. For others, the stripe story is graphic black and white or navy and white stripes. Even the street performer Gustavo Sola has stitched himself a pair of black-and-white striped overalls for handing out restaurant fliers (when not stepping out on lower Broadway with his legs and stilts opening to form an arch that bicycle messengers whiz under for a bit of summer fun).</p>
+        <p>Up on Fifth Avenue, it's a more sophisticated striping, like a hatband matched to trousers or a vertical striped skirt topped with an overdress of flying panels cut from horizontal stretch jersey. The popular tank-top ankle-length sheath, with bold horizontal bands encircling the wearer, recalls a style popular in the early 1950's. The tubelike multicolored Roman-stripe dresses are becoming an evening favorite, bringing the same casual comfort of the day look onto the dance floor.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

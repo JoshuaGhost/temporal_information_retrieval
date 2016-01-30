@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BRIDGES</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="793944"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E0D61539F936A35753C1A963958260" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BRIDGES</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The diagramed deal, played in a duplicate game in March, at the Atlanta Bridge Club in Atlanta, has a weird feature that is well concealed.</p>
+        <p>One would expect North-South to land in four spades, but one pair, as shown,  landed in six spades after an opening weak two-bid in hearts by West. North's raise to five spades was overoptimistic.</p>
+      </block>
+      <block class="full_text">
+        <p>The diagramed deal, played in a duplicate game in March, at the Atlanta Bridge Club in Atlanta, has a weird feature that is well concealed.</p>
+        <p>One would expect North-South to land in four spades, but one pair, as shown,  landed in six spades after an opening weak two-bid in hearts by West. North's raise to five spades was overoptimistic.</p>
+        <p>A minor-suit lead would have defeated the slam, but a heart was led to the ace, and the heart return was ruffed. The declarer, Nicholas Passarello, cashed  the spade ace, led to the diamond ace, and prayed that the king would fall. His  prayer was answered, and he then ruffed a heart, cashed the spade king and entered dummy with a club lead. Three trumps were cashed, leaving this ending:</p>
+        <p>The lead of the club ace now squeezed West in the red suits and brought home the slam.</p>
+        <p>So what was the weird feature? Passarello points out the effect of strengthening the North hand by trading the diamond ten for East's diamond king. The slam would then be a reasonable contract, and there would be nothing wrong with the bidding, but it would be unmakable against any normal defense.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

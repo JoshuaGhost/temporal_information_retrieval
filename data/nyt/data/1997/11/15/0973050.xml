@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Bomb Trial, Expert Cites Fingerprints</title>
+    <meta content="T15BOMB" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="973050"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DC1238F936A25752C1A961958260" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Bomb Trial, Expert Cites Fingerprints</hl1>
+      </hedline>
+      <byline class="print_byline">By JO THOMAS</byline>
+      <dateline>DENVER, Nov. 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An expert from the Federal Bureau of Investigation laboratory testified today that he had found Terry L. Nichols's fingerprints on a cardboard wrapper for explosives and on documents used to rent a storage locker in Kansas and a motel room in Oklahoma under false names.</p>
+        <p>Mr. Nichols, 42, is on trial in Federal court on charges of murder and conspiracy in the April 19, 1995, bombing of the Federal Building in Oklahoma City. His co-defendant, Timothy J. McVeigh, 29, was convicted on identical charges last June and sentenced to death.</p>
+      </block>
+      <block class="full_text">
+        <p>An expert from the Federal Bureau of Investigation laboratory testified today that he had found Terry L. Nichols's fingerprints on a cardboard wrapper for explosives and on documents used to rent a storage locker in Kansas and a motel room in Oklahoma under false names.</p>
+        <p>Mr. Nichols, 42, is on trial in Federal court on charges of murder and conspiracy in the April 19, 1995, bombing of the Federal Building in Oklahoma City. His co-defendant, Timothy J. McVeigh, 29, was convicted on identical charges last June and sentenced to death.</p>
+        <p>The F.B.I. expert, Louis G. Hupp, told the jury that he had identified a fingerprint of Mr. Nichols on the wrapper of an 18-meter length of Primadet blasting cap recovered in Kingman, Ariz., from the home of Michael J. Fortier, who was a friend of Mr. McVeigh and who is the Government's main witness.</p>
+        <p>Mr. Fortier testified on Thursday that Mr. McVeigh had told him that he intended to use some of the explosives stored in Kingman to detonate a bomb in Oklahoma City and had taken several blasting caps, including this one, to Mr. Fortier's home for safekeeping. Mr. Hupp's testimony, however, was the first to introduce forensic evidence linking Mr. Nichols with any of Mr. McVeigh's explosives.</p>
+        <p>Mr. Hupp said he also found Mr. Nichols's fingerprints, along with those of Mr. McVeigh, on anti-Government literature, including the anti-Semitic novel ''Hunter,'' which was found at the Nichols home.</p>
+        <p>Michael E. Tigar, the lead lawyer for Mr. Nichols, has often asserted that his client was simply the passive recipient of anti-Government materials that Mr. McVeigh insisted on giving his friends.</p>
+        <p>Mr. Hupp said he found Mr. Nichols's prints on a contract for a storage shed in Council Grove, Kan., rented under the name Ted Parker.</p>
+        <p>Prosecutors have said that shed and another one were used to store materials used in preparation for the bombing, as well as stolen guns.</p>
+        <p>Mr. Nichols's fingerprints were also found, Mr. Hupp said, on a registration receipt for a ''Joe Kyle'' at the Amish Inn, in Pauls Valley, Okla., south of Oklahoma City, for the night of Oct. 20, 1994.</p>
+        <p>Prosecutors have said Mr. Nichols and Mr. McVeigh stayed at that motel on their way to a racetrack in Ennis, Tex., where Mr. McVeigh bought three 54-gallon drums of racing fuel the next day. Timothy Chambers, the fuel salesman who loaded those drums into a pickup truck, testified today that the customer had a face like a ''possum'' and was not Mr. Nichols. But he could not positively identify Mr. McVeigh.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

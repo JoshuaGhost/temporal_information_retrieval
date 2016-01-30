@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: FICTION</title>
+    <meta content="RV102451" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1585391"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Salam, Reihan</person>
+        <person class="indexing_service">McAdam, Colin</person>
+        <object.title class="indexing_service">Some Great Thing (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6DC1E3FF933A05756C0A9629C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: FICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Reihan Salam</byline>
+      <byline class="normalized_byline">Salam, Reihan</byline>
+      <abstract>
+        <p>Reihan Salam reviews book Some Great Thing by Colin McAdam (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SOME GREAT THING</p>
+        <p>By Colin McAdam.</p>
+        <p>Harcourt, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>SOME GREAT THING</p>
+        <p>By Colin McAdam.</p>
+        <p>Harcourt, $24.</p>
+        <p>The most memorable Canadian fiction has dealt less with the taming of the Great White North than with the strivers and charlatans of the cities -- the novels of Mordecai Richler and Robertson Davies were nothing if not urbane. ''Some Great Thing,'' Colin McAdam's first novel, is a departure, a modern frontier story. In it, the strivers meet the wide-open spaces as a plasterer turned builder named Jerry McGuinty expands his empire of solidly built homes along Ottawa's suburban fringe. McGuinty's credo is that of all great empire-builders: ''the sacred part of land,'' he tells us, ''is the use you make of it, and most of this land was saying 'use me.' '' But the government, as represented by a suavely repulsive bureaucrat named Simon Struthers, stands in his way with deliberately opaque memos and directives. Struthers is effete, unctuous and ultimately unconvincing, as are too many of the other characters here, including members of Jerry's family. This novel can be turgid and manipulative: heartstrings are tugged transparently, but, in the end, very affectingly.</p>
+        <p>Reihan Salam</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

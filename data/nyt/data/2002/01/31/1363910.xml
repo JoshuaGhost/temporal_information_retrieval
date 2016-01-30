@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bucks Next Test For Maturing Nets</title>
+    <meta content="31BUCK" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1363910"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">New Jersey Nets</org>
+        <org class="indexing_service">Milwaukee Bucks</org>
+        <person class="indexing_service">Scott, Byron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Milwaukee Bucks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E7D81F3AF932A05752C0A9649C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bucks Next Test For Maturing Nets</hl1>
+      </hedline>
+      <byline class="print_byline">By Liz Robbins</byline>
+      <abstract>
+        <p>New Jersey Nets coach Byron Scott cites importance of defeating Milwaukee Bucks in upcoming game (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Nets (29-14) may be two games in front of the Milwaukee Bucks (27-16) in the Eastern Conference, but Nets Coach Byron Scott says his team's legitimacy as the conference leader hinges on defeating the Bucks tonight at Continental Arena.</p>
+        <p>''I just think they're the team to beat in the East,'' Scott said yesterday after practice at the Champion Center in East Rutherford, N.J. ''If we want to get anything really, really accomplished this season, we're going to have to go through them.''</p>
+      </block>
+      <block class="full_text">
+        <p>The Nets (29-14) may be two games in front of the Milwaukee Bucks (27-16) in the Eastern Conference, but Nets Coach Byron Scott says his team's legitimacy as the conference leader hinges on defeating the Bucks tonight at Continental Arena.</p>
+        <p>''I just think they're the team to beat in the East,'' Scott said yesterday after practice at the Champion Center in East Rutherford, N.J. ''If we want to get anything really, really accomplished this season, we're going to have to go through them.''</p>
+        <p>On Dec. 8 the Bucks stampeded through the Nets for a 95-79 victory in Milwaukee as Ray Allen, Sam Cassell and Glenn Robinson combined for 62 points and the team shot 48.8 percent. The Nets shot 33.3 percent in the game.</p>
+        <p>''Even though it has been a while, no one has forgotten what happened in Milwaukee and the fact that we didn't play very well,'' center Todd MacCulloch said.</p>
+        <p>The Bucks will come after their 109-90 drubbing Tuesday of the Celtics, giving them a 20-4 record in conference play. The Nets are 18-9 against the Eastern Conference teams.</p>
+        <p>Liz Robbins</p>
+        <p>LEAGUE SUSPENDS WEBBER: Sacramento Kings forward Chris Webber was suspended yesterday for one game and fined $7,500 for deliberately throwing an elbow to the head of Utah's Jarron Collins last week.</p>
+        <p>Webber will miss the Kings' game tonight against Seattle. He was called for a flagrant foul for hitting Collins last Saturday, and the National Basketball Association imposed the suspension. (AP)</p>
+        <p>BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

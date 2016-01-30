@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World News Briefs;American Boxer May Sue Toronto Police for Arrest</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="843822"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUG ABUSE AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND CLAIMS AGAINST GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">MURDERSAND ATTEMPTED MURDERS</classifier>
+        <location class="indexing_service">TORONTO (ONTARIO)</location>
+        <location class="indexing_service">TORONTO, ON, CANADA</location>
+        <person class="indexing_service">CARTER, RUBIN (HURRICANE)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario/Toronto</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0D91139F937A25757C0A960958260" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World News Briefs;American Boxer May Sue Toronto Police for Arrest</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>TORONTO, April 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rubin (Hurricane) Carter, who spent 19 years in prison for a murder he did not commit, says he is considering legal action against the Toronto police after he was detained for half an hour during a drug sweep.</p>
+        <p>Mr. Carter, 60, said on Friday that drug-squad detectives had arrested him on Wednesday after he left a Toronto restaurant. He said he was told he was being arrested for selling drugs to an undercover officer.</p>
+      </block>
+      <block class="full_text">
+        <p>Rubin (Hurricane) Carter, who spent 19 years in prison for a murder he did not commit, says he is considering legal action against the Toronto police after he was detained for half an hour during a drug sweep.</p>
+        <p>Mr. Carter, 60, said on Friday that drug-squad detectives had arrested him on Wednesday after he left a Toronto restaurant. He said he was told he was being arrested for selling drugs to an undercover officer.</p>
+        <p>Inspector Jim Martin said Mr. Carter had been arrested because he matched the description given by an officer. The inspector conceded that it was unusual  to arrest a 60-year-old when the suspect was supposed to be in his 30's, but said the discrepancy could be explained partly by Mr. Carter's fitness.</p>
+        <p>A contender for the world middleweight boxing title in the 1960's, Mr. Carter, who is black, was arrested in Paterson, N.J., in 1966 and charged in the killing of three white men. In 1986 a judge ruled that racism and the withholding of evidence had caused him to be jailed unfairly.</p>
+        <p>Mr. Carter has since lived in Toronto, lecturing at law schools and promoting prisoners' rights.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

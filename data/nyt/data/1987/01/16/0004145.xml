@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Comings and Goings</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="4145"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <org class="indexing_service">NEW JERSEY DEVILS</org>
+        <person class="indexing_service">BRIDGMAN, MEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DF153DF935A25752C0A961948260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Comings and Goings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Mel Bridgman, the captain of the Devils, has a fracture in his left foot rather than a bruise, which was the original diagnosis. Bridgman was injured Monday night during the victory over the Hartford Whalers, but he finished the game. He missed Wednesday night's victory in Chicago. . . . In a plea-bargaining agreement, Michael Dokes, a former World Boxing Association champion, pleaded guilty in Las Vegas, Nev., to possession of a controlled substance, cocaine.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Mel Bridgman, the captain of the Devils, has a fracture in his left foot rather than a bruise, which was the original diagnosis. Bridgman was injured Monday night during the victory over the Hartford Whalers, but he finished the game. He missed Wednesday night's victory in Chicago. . . . In a plea-bargaining agreement, Michael Dokes, a former World Boxing Association champion, pleaded guilty in Las Vegas, Nev., to possession of a controlled substance, cocaine.</p>
+        <p>Mel Bridgman, the captain of the Devils, has a fracture in his left foot rather than a bruise, which was the original diagnosis. Bridgman was injured Monday night during the victory over the Hartford Whalers, but he finished the game. He missed Wednesday night's victory in Chicago. . . . In a plea-bargaining agreement, Michael Dokes, a former World Boxing Association champion, pleaded guilty in Las Vegas, Nev., to possession of a controlled substance, cocaine. Dokes, who was arrested last Oct. 6, will be sentenced Feb. 26 and faces a maximum of six years in prison and a $5,000 fine.</p>
+        <p>SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

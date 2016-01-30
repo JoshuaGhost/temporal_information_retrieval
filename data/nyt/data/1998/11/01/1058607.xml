@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sylvia Kimball, Christopher Perry</title>
+    <meta content="01KIMB$04" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1058607"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KIMBALL, SYLVIA KNEELAND (SYLVIA KNEELAND PERRY)</person>
+        <person class="indexing_service">PERRY, CHRISTOPHER DRAKE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E7D7173FF932A35752C1A96E958260" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sylvia Kimball, Christopher Perry</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sylvia Kneeland Kimball, the daughter of Mr. and Mrs. Richard A. Kimball Jr. of Millbrook, N.Y., was married yesterday to Christopher Drake Perry, a son of Rachel C. Claflin of Boston and A. Wade Perry of Lincoln, Mass. The Rev. Louise Conant performed the ceremony at Christ Episcopal Church in Cambridge, Mass.</p>
+        <p>The bride, 29, is an associate marketing manager at Harvard Pilgrim Health Care, a health maintenance organization in Boston. She graduated from Yale University and received a master's degree in public health from Harvard University.</p>
+      </block>
+      <block class="full_text">
+        <p>Sylvia Kneeland Kimball, the daughter of Mr. and Mrs. Richard A. Kimball Jr. of Millbrook, N.Y., was married yesterday to Christopher Drake Perry, a son of Rachel C. Claflin of Boston and A. Wade Perry of Lincoln, Mass. The Rev. Louise Conant performed the ceremony at Christ Episcopal Church in Cambridge, Mass.</p>
+        <p>The bride, 29, is an associate marketing manager at Harvard Pilgrim Health Care, a health maintenance organization in Boston. She graduated from Yale University and received a master's degree in public health from Harvard University.</p>
+        <p>Her father is of counsel to Hughes, Hubbard &amp; Reed, a New York law firm, and the chairman of the Dutchess Land Conservancy, a land trust in Millbrook.</p>
+        <p>The bridegroom, 30, is an associate at Sherburne, Powers &amp; Needham, a Boston law firm. He graduated from Wesleyan University and received a J.D. degree from Boston College Law School. His father is a retired architect and photographer who worked in Lincoln.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Under New Management</title>
+    <meta content="FLOATCAPT" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1034507"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="DIARY: JAPAN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">Japan</location>
+        <person class="indexing_service">Obuchi, Keizo</person>
+        <person class="indexing_service">Hashimoto, Ryutaro (Prime Min)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDE1139F935A15754C0A96E958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Under New Management</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH GEMIGNANI</byline>
+      <abstract>
+        <p>Photo of newly elected Japanese Prime Min Keizo Obuchi and predecessor Ryutaro Hashimoto</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>DIARY: JAPAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

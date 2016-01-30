@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carla Hills Forms Firm</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597519"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <org class="indexing_service">HILLS &amp; CO</org>
+        <person class="indexing_service">HILLS, CARLA A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3D71330F931A15750C0A965958260" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carla Hills Forms Firm</hl1>
+      </hedline>
+      <dateline>WASHINGTON, March 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carla A. Hills, who was the United States trade representative throughout the Bush Administration, has announced the formation of her own international business consulting firm, Hills &amp; Company.</p>
+        <p>Joining Mrs. Hills will be Julius L. Katz, the senior deputy United States trade representative for the last four years, and two top career officials from her former agency.</p>
+      </block>
+      <block class="full_text">
+        <p>Carla A. Hills, who was the United States trade representative throughout the Bush Administration, has announced the formation of her own international business consulting firm, Hills &amp; Company.</p>
+        <p>Joining Mrs. Hills will be Julius L. Katz, the senior deputy United States trade representative for the last four years, and two top career officials from her former agency.</p>
+        <p>The career officials are Erin Endean, the director of Japan affairs, and Robert Fisher, who was the director of Mexican affairs and who negotiated the tariff reduction provisions of the North American Free Trade Agreement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

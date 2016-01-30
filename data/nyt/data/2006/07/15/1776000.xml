@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drugs and Pregnancy</title>
+    <meta content="l15drug" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1776000"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="indexing_service" type="descriptor">Depression (Mental)</classifier>
+        <person class="indexing_service">Freedman, Jeffrey B (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Depression (Mental)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060715T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1DE1F30F936A25754C0A9609C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drugs and Pregnancy</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Jeffrey B Freedman letter holds that it is clear that medications are indicated when pregnant woman is in agitated and psychotic state, but this is not always case for depression (July 13 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Medical Journal Says It Was Again Misled'' (news article, July 13):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Medical Journal Says It Was Again Misled'' (news article, July 13):</p>
+        <p>It is clear that medications are indicated when a pregnant woman is in an agitated and psychotic state. This is not always the case for depression.</p>
+        <p>The perceived benefit versus risk for antidepressants is influenced by studies from researchers with ties to the pharmaceutical industry.</p>
+        <p>I try to balance this bias to the psychiatrists whom I train with a comment and a question:</p>
+        <p>Some depressions respond to psychotherapy alone. Would you want antidepressants prescribed if it were you or a family member who was pregnant?</p>
+        <p>Jeffrey B. Freedman, M.D.  New York, July 13, 2006</p>
+        <p>The writer is chief of the psychiatry consultation service at St. Vincent's Hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

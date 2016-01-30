@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Release of a Radical</title>
+    <meta content="LTR225247" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1514853"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Armored Car Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <location class="indexing_service">Rockland County (NY)</location>
+        <org class="indexing_service">Brink's Inc</org>
+        <org class="indexing_service">Weather Underground</org>
+        <person class="indexing_service">Gitlin, Todd (Prof)</person>
+        <person class="indexing_service">Boudin, Kathy</person>
+        <person class="indexing_service">Miata, Frank</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFDD1339F935A1575BC0A9659C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Release of a Radical</hl1>
+      </hedline>
+      <abstract>
+        <p>Frank Miata letter holds Prof Todd Gitlin's characterization of Kathy Boudin's case as representative of 'cultural conflict' appears to rationalize and dignify elitist arrogance of Weather Underground movement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''As Ex-Radical Nears Release, Old Wounds Are Reopened'' (news article, Aug. 22):</p>
+        <p>Prof. Todd Gitlin's characterization of Kathy Boudin's case as representative of a ''cultural conflict'' appears to rationalize and dignify the elitist arrogance of the Weather Underground movement in the late 1960's into the 1980's.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''As Ex-Radical Nears Release, Old Wounds Are Reopened'' (news article, Aug. 22):</p>
+        <p>Prof. Todd Gitlin's characterization of Kathy Boudin's case as representative of a ''cultural conflict'' appears to rationalize and dignify the elitist arrogance of the Weather Underground movement in the late 1960's into the 1980's.</p>
+        <p>I, like Mr. Gitlin, participated in the antiwar movement. I was a regional organizer for the Students for a Democratic Society.</p>
+        <p>The S.D.S. movement was kidnapped by deluded, self-important people like Ms. Boudin, who lived out a revolutionary fantasy that was spawned while she lived a life of upper-middle-class privilege.</p>
+        <p>The deaths of the police officers and the suffering of their families were tragic. The actions of Ms. Boudin were criminal and socially irrelevant.</p>
+        <p>FRANK MIATA  Brooklyn, Aug. 22, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

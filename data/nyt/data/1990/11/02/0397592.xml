@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MBNA's Offering To Yield 8.938%</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="397592"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">CREDIT CARDS AND ACCOUNTS</classifier>
+        <org class="indexing_service">MNC FINANCIAL INC</org>
+        <org class="indexing_service">MASTERCARD INTERNATIONAL INC</org>
+        <org class="indexing_service">MBNA AMERICA BANK</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D81F30F931A35752C1A966958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MBNA's Offering To Yield 8.938%</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The MBNA 90-B Trust, established by MBNA America, a unit of MNC Financial, is making a $600 million global offering of certificates backed by Mastercard credit card receivables through Merrill Lynch &amp; Company.</p>
+        <p>The certificates carry a coupon of 8 3/4 percent and are priced at 99.59375 to yield 8.938 percent, or about 110 basis points more than the when-issued three-year Treasury note.</p>
+        <p>The certificates are rated Aaa by Moody's and AAA by Standard &amp; Poor's, partly on the strength of the underlying credit card receivables and a 10 percent letter of credit issued by the Union Bank of Switzerland as additional support for the financing.</p>
+        <p>MBNA stands for Maryland Bank, N.A.</p>
+      </block>
+      <block class="full_text">
+        <p>The MBNA 90-B Trust, established by MBNA America, a unit of MNC Financial, is making a $600 million global offering of certificates backed by Mastercard credit card receivables through Merrill Lynch &amp; Company.</p>
+        <p>The certificates carry a coupon of 8 3/4 percent and are priced at 99.59375 to yield 8.938 percent, or about 110 basis points more than the when-issued three-year Treasury note.</p>
+        <p>The certificates are rated Aaa by Moody's and AAA by Standard &amp; Poor's, partly on the strength of the underlying credit card receivables and a 10 percent letter of credit issued by the Union Bank of Switzerland as additional support for the financing.</p>
+        <p>MBNA stands for Maryland Bank, N.A.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

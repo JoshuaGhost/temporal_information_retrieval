@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Caryn B. Parness and Keith E. Evans</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="750933"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PARNESS, CARYN BLAINE (CARYN BLAINE EVANS)</person>
+        <person class="indexing_service">EVANS, KEITH ERIC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DF1439F935A15750C0A963958260" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Caryn B. Parness and Keith E. Evans</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caryn Blaine Parness, a daughter of Arlyne and Mel Parness of Chestnut Ridge, N.Y., is to be married today to Keith Eric Evans, a son of Yvonne and Tom Evans of Whitman, Mass. Rabbi Reuben Katz is to officiate at the New York Hilton.</p>
+        <p>The bride and the bridegroom graduated from Emerson College.</p>
+      </block>
+      <block class="full_text">
+        <p>Caryn Blaine Parness, a daughter of Arlyne and Mel Parness of Chestnut Ridge, N.Y., is to be married today to Keith Eric Evans, a son of Yvonne and Tom Evans of Whitman, Mass. Rabbi Reuben Katz is to officiate at the New York Hilton.</p>
+        <p>The bride and the bridegroom graduated from Emerson College.</p>
+        <p>The bride, 26, was until recently a teacher at Kids Are People, a preschool in Boston. Her father is the executive vice president of Bnai Zion, a fraternal organization in New York.</p>
+        <p>The bridegroom, 24, is a sales manager in Boston for the Rockport Company, a clothing manufacturer. His father is the principal of the Holt School in Whitman.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

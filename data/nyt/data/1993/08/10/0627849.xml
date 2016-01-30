@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unitil Corp.  reports earnings for Qtr to June 30</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="627849"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4D61126E632BC4053DFB56F958A" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unitil Corp.  reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Unitil Corp.  (AMEX)</p>
+        <p>Qtr to June 30</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>34,990,339</p>
+        <p>34,285,291</p>
+        <p>Net inc</p>
+        <p>1,399,244</p>
+        <p>824,710</p>
+        <p>Share earns</p>
+        <p>.34</p>
+        <p>.20</p>
+        <p>Shares outst</p>
+        <p>4,175,447</p>
+        <p>4,123,235</p>
+        <p>6mo rev</p>
+        <p>75,234,353</p>
+        <p>73,992,019</p>
+        <p>Net inc</p>
+        <p>3,826,884</p>
+        <p>2,809,909</p>
+        <p>Share earns</p>
+        <p>.92</p>
+        <p>.68</p>
+        <p>Shares outst</p>
+        <p>4,166,699</p>
+        <p>4,121,734</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

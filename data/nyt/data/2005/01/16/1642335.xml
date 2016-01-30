@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tilles Center Upgrade</title>
+    <meta content="L16TILLES" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1642335"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <org class="indexing_service">Tilles Center for the Performing Arts (Brookville, NY)</org>
+        <person class="indexing_service">Weintraub, Lee</person>
+        <person class="indexing_service">Weintraub, Bernie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DD1738F935A25752C0A9639C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tilles Center Upgrade</hl1>
+      </hedline>
+      <abstract>
+        <p>Lee and Bernie Weintraub letter on January 2 article on new entrance to Tilles Center for the Performing Arts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As concertgoers, we were not impressed by the elegant new entrance to the Tilles Center for the Performing Arts (Jan. 2). We were distressed by the planners' disregard for the convenience of the audience.</p>
+        <p>Parking is now more difficult. We always come early so that we can park nearby in case of inclement weather and sit inside the lobby. For the first two concerts, not enough seats were provided and we had to stand for an hour.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As concertgoers, we were not impressed by the elegant new entrance to the Tilles Center for the Performing Arts (Jan. 2). We were distressed by the planners' disregard for the convenience of the audience.</p>
+        <p>Parking is now more difficult. We always come early so that we can park nearby in case of inclement weather and sit inside the lobby. For the first two concerts, not enough seats were provided and we had to stand for an hour.</p>
+        <p>Disabled people (and there are many who go to classical concerts) were grumbling about the difficulty they had with the new luxurious stairs. Only one elevator seemed to be in service. Down with facades, up with people!</p>
+        <p>Lee Weintraub  Bernie Weintraub  North Valley Stream</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Injuries Will Result</title>
+    <meta content="LTR015403" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="Just a New York Minute! High Minds Thrive on Our Subways." name="column_name"/>
+    <docdata>
+      <doc-id id-string="890082"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="Just a New York Minute! High Minds Thrive on Our Subways."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Subways</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">pond, constance</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DE153AF935A25752C1A960958260" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Injuries Will Result</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Constance Pond says plan to keep subway doors open no more than 45 seconds may cause accidents (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Editor:</p>
+        <p>Keeping subway doors open no more than 45 seconds (news article, Nov. 12) seems like a recipe for disaster for parents and their small children and for the elderly. The closing doors may separate children from parents and may cause older people injury. I hope this is not brought into common use as a way to improve our transit system.</p>
+        <p>CONSTANCE POND</p>
+        <p>New York, Nov. 14, 1996</p>
+      </block>
+      <block class="full_text">
+        <p>To The Editor:</p>
+        <p>Keeping subway doors open no more than 45 seconds (news article, Nov. 12) seems like a recipe for disaster for parents and their small children and for the elderly. The closing doors may separate children from parents and may cause older people injury. I hope this is not brought into common use as a way to improve our transit system.</p>
+        <p>CONSTANCE POND</p>
+        <p>New York, Nov. 14, 1996</p>
+        <p>Just a New York Minute! High Minds Thrive on Our Subways.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

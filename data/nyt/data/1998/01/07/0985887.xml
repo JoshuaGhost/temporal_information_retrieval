@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Long Bond's Yield 5.72%, a New Low</title>
+    <meta content="Y07BON$04" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="985887"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MARKETS: BONDS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Government Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Treasury Department</org>
+        <person class="indexing_service">Hurtado, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED91330F934A35752C0A96E958260" item-length="416" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Long Bond's Yield 5.72%, a New Low</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT HURTADO</byline>
+      <byline class="normalized_byline">Hurtado, Robert</byline>
+      <abstract>
+        <p>Bond prices end higher for fourth straight session, pushing yields further into record-low territory; Treasury's benchmark 30-year bond closes up 9/32, to price of 105 25/32, while yield falls to 5.72 percent, beating record low of 5.74 percent set on Jan 5; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bond prices ended higher for the fourth straight session yesterday, pushing yields further into record-low territory and inducing more corporate borrowers to sell debt.</p>
+        <p>Although the appetite for bonds was not as hearty as on Monday, investors were still motivated to buy on resilient speculation that the Federal Reserve's next adjustment of interest-rate policy might be down. Lower rates tend to enhance the value of bonds already in circulation.</p>
+      </block>
+      <block class="full_text">
+        <p>Bond prices ended higher for the fourth straight session yesterday, pushing yields further into record-low territory and inducing more corporate borrowers to sell debt.</p>
+        <p>Although the appetite for bonds was not as hearty as on Monday, investors were still motivated to buy on resilient speculation that the Federal Reserve's next adjustment of interest-rate policy might be down. Lower rates tend to enhance the value of bonds already in circulation.</p>
+        <p>The Treasury's benchmark 30-year bond closed up 9/32, to a price of 105 25/32, while the yield, which moves in the opposite direction, fell to 5.72 percent, beating the record low of 5.74 percent set on Monday.</p>
+        <p>Long-term prices initially fell but rallied in the late afternoon after corporate debt sales were met with good demand, a sign that the broader pressures pushing up bond prices have not peaked. Securities dealers who had sold long-term Treasuries ahead of the uncertainty over those corporate sales bought them back.</p>
+        <p>''The initial selling came from large hedge funds,'' said Jack Regan, chief derivative strategist at Josephthal, Lyon &amp; Ross. He also attributed some of the early selling to dealers who were taking profits from the recent rally on ''perhaps a feeling that the bond market had overshot reality.''</p>
+        <p>Among the $2 billion of corporate debt priced was International Business Machines' $700 million of 30-year debentures through Merrill Lynch, yielding 6.5 percent, about 79 basis points above the Government's long bond. A basis point is one-hundredth of a percentage point. Following are results of yesterday's Treasury auction of new 52-week bills:</p>
+        <p>(000 omitted in dollar figures)</p>
+        <p>Average Price . . . 94.879  Discounted Rate . . . 5.06%  Coupon Yield . . . 5.34%  High Price . . . 94.889  Discounted Rate . . . 5.06%  Coupon Yield . . . 5.34%  Low Price . . . 94.879  Discounted Rate . . . 5.05%  Coupon Yield . . . 5.33%  Accepted at low price . . . 51%  Total applied for . . . $48,355,101  Accepted . . . $17,813,541  Noncompetitive . . . $1,058,116</p>
+        <p>The one-year bills mature Jan. 7, 1999.</p>
+        <p>THE MARKETS: BONDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

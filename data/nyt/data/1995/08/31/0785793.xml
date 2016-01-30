@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FINANCE BRIEFS</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="785793"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0DE1238F932A0575BC0A963958260" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FINANCE BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Common  * Enterprise Systems Inc., Wheeling, Ill., filed with the Securities and Exchange Commission to sell 2.35 million shares in an initial public offering. Robertson, Stephens will be the lead underwriter.</p>
+      </block>
+      <block class="full_text">
+        <p>Common  * Enterprise Systems Inc., Wheeling, Ill., filed with the Securities and Exchange Commission to sell 2.35 million shares in an initial public offering. Robertson, Stephens will be the lead underwriter.</p>
+        <p>* First Merchants Acceptance Corp., Deerfield, Ill., filed to sell 3.2 million shares. Salomon Brothers Inc. will be the lead underwriter. * Lifecore Biomedical Inc., Chaska, Minn., filed to sell 2.2 million shares. Piper Jaffray Inc. will be the lead underwriter. * Ocal Inc., Van Nuys, Calif., filed to sell 1 million shares in an initial public offering. * Tylan General Inc., San Diego, filed to sell 2.55 million shares. Hambrecht &amp; Quist will be the lead underwriter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apple Juice With Calvados Has a Low-Key Kick</title>
+    <meta content="22APPL$02" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1458398"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <org class="indexing_service">Manoir d'Apreval</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DC1230F931A15752C0A9659C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apple Juice With Calvados Has a Low-Key Kick</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Manoir d'Apreval is bottling blend of one-third Calvados apple liqueur and two-thirds apple juice; it is suggested as aperitif or dessert wine; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Normandy, people mix Calvados and apple juice and call it pommeau. Now, Manoir d'Apreval, a producer near Honfleur, France, is bottling a blend of one-third Calvados and two-thirds apple juice that has been aged in oak for five years. The result is a dark amber drink with a rich burnt-caramel-apple flavor. It is relatively low in alcohol (16.5 percent) and is best served chilled as an aperitif or dessert wine. Apreval Pommeau de Normandie is about $32 a bottle in Manhattan at Eli's W.I.N.E., Sherry-Lehmann, Astor Wine and Spirits, McCabe's Wine &amp; Spirits and 67 Wine and Spirits; and in Park Slope, Brooklyn, at Slope Cellars and Red White and Bubbly.</p>
+      </block>
+      <block class="full_text">
+        <p>In Normandy, people mix Calvados and apple juice and call it pommeau. Now, Manoir d'Apreval, a producer near Honfleur, France, is bottling a blend of one-third Calvados and two-thirds apple juice that has been aged in oak for five years. The result is a dark amber drink with a rich burnt-caramel-apple flavor. It is relatively low in alcohol (16.5 percent) and is best served chilled as an aperitif or dessert wine. Apreval Pommeau de Normandie is about $32 a bottle in Manhattan at Eli's W.I.N.E., Sherry-Lehmann, Astor Wine and Spirits, McCabe's Wine &amp; Spirits and 67 Wine and Spirits; and in Park Slope, Brooklyn, at Slope Cellars and Red White and Bubbly.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Casting Agent</title>
+    <meta content="30WIWN" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1172426"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Marsh, Sally</person>
+        <person class="indexing_service">Cavalli, Roberto</person>
+        <person class="indexing_service">Hayt, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DA153CF933A05752C0A9669C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Casting Agent</hl1>
+      </hedline>
+      <byline class="print_byline">By ELIZABETH HAYT</byline>
+      <byline class="normalized_byline">Hayt, Elizabeth</byline>
+      <abstract>
+        <p>Sally Marsh, casting agent, loves Roberto Cavalli fashions of 1970's, which are making a comeback; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Roberto Cavalli's designs  were popular in the 1970's, Sally Marsh did not wear them, but she isn't missing the chance now that they have made a comeback. Passing the Roberto Cavalli boutique, which opened in September at 711 Madison Avenue (63rd Street), she found that the mannequins in feather-trimmed jeans, metallic print tops and painted leather jackets made her nostalgic for her wilder days in the 70's, when she was a publicist for a London nightclub.</p>
+        <p>''It was bizarre and glitzy,'' Ms. Marsh, 46, said of the display, which included banners decorated with giant roses sewn out of candy-color paillettes.</p>
+      </block>
+      <block class="full_text">
+        <p>When Roberto Cavalli's designs  were popular in the 1970's, Sally Marsh did not wear them, but she isn't missing the chance now that they have made a comeback. Passing the Roberto Cavalli boutique, which opened in September at 711 Madison Avenue (63rd Street), she found that the mannequins in feather-trimmed jeans, metallic print tops and painted leather jackets made her nostalgic for her wilder days in the 70's, when she was a publicist for a London nightclub.</p>
+        <p>''It was bizarre and glitzy,'' Ms. Marsh, 46, said of the display, which included banners decorated with giant roses sewn out of candy-color paillettes.</p>
+        <p>''The whole store is a fantasy,'' she added.</p>
+        <p>Now a casting agent for clothing catalogs and a producer of fashion shoots, Ms. Marsh said she and her colleagues have been buying up Cavalli's animal-inspired creations because they like the ''borderline tarty'' look.</p>
+        <p>Not long ago, she wore the ensemble on the left -- gold stretch jeans printed to look like wolf fur (on sale for $234) and a matching velvet cardigan with a fox collar (on sale for $492) -- to a black-tie affair.</p>
+        <p>She could hardly say she fitted in with the elegant crowd, Ms. Marsh remarked, ''But everyone thought it was really fun.''</p>
+        <p>ELIZABETH HAYT</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

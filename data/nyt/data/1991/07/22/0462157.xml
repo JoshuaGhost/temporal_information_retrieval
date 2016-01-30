@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ted and Joe, 1941: July 22</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="1941 -- An Unmatchable Summer" name="series_name"/>
+    <docdata>
+      <doc-id id-string="462157"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <person class="indexing_service">WILLIAMS, TED</person>
+        <person class="indexing_service">DIMAGGIO, JOE</person>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D81630F931A15754C0A967958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ted and Joe, 1941: July 22</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Jim Benagh</byline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

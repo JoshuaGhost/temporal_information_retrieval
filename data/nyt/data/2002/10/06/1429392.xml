@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taking Bach To the Bowery And the Bar</title>
+    <meta content="06HIGH" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/10/06/arts/music/06HIGH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1429392"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="MUSIC: HIGH NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Haimovitz, Matt</person>
+        <person class="indexing_service">Bach, Johann Sebastian (1685-1750)</person>
+        <person class="indexing_service">Oestreich, James R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/High Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Haimovitz, Matt</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDB1338F935A35753C1A9649C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taking Bach To the Bowery And the Bar</hl1>
+        <hl2 class="online_headline">Taking Bach to the Bowery and the Bar</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES R. OESTREICH</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>Young cellist Matt Haimovitz is performing Bach suites weekly at rock mecca CBGB on Manhattan's Bowery; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The young cellist Matt Haimovitz has been taking Bach to unlikely places in recent years: bars, cafes and other alternative, nonclassical spaces. (Well, not entirely unlikely if you subscribe to H. L. Mencken's cherished notion that Bach's ''natural solvent'' is beer.) Now, in perhaps his most unusual venture yet, Mr. Haimovitz is playing Bach suites on Friday night at the rock mecca CBGB on the Bowery.</p>
+        <p>Mr. Haimovitz came to attention a dozen or so years ago, fresh from prodigyhood. At the time, he seemed bent on becoming a heroic virtuoso soloist in the historic mold. Certainly, his technical skills were never in doubt. But he seemed to need some artistic ripening, and it was not clear that he would have the patience for it.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In perhaps his most unusual venture yet, young cellist Matt Haimovitz is playing Bach suites at the rock mecca CBGB on the Bowery.</p>
+      </block>
+      <block class="full_text">
+        <p>The young cellist Matt Haimovitz has been taking Bach to unlikely places in recent years: bars, cafes and other alternative, nonclassical spaces. (Well, not entirely unlikely if you subscribe to H. L. Mencken's cherished notion that Bach's ''natural solvent'' is beer.) Now, in perhaps his most unusual venture yet, Mr. Haimovitz is playing Bach suites on Friday night at the rock mecca CBGB on the Bowery.</p>
+        <p>Mr. Haimovitz came to attention a dozen or so years ago, fresh from prodigyhood. At the time, he seemed bent on becoming a heroic virtuoso soloist in the historic mold. Certainly, his technical skills were never in doubt. But he seemed to need some artistic ripening, and it was not clear that he would have the patience for it.</p>
+        <p>Whatever ambitions he may still harbor in the bravura line, he is at least not sitting by the phone. His ''Listening Room'' tour, as he calls the Bach performances, includes 29 dates in eight states and two Canadian provinces before the year is out. He is also releasing records on his own label, Oxingale, which kicked off with his recording of the six Bach suites in 2000. Not surprisingly, the performances reveal an original cast of mind. Mr. Haimovitz is fond of big gestures and sharp contrasts in Bach, but he also likes to strew little ornaments and graces about.</p>
+        <p>Those big gestures will undoubtedly be needed at CBGB, even with amplification. How the little subtleties will fare is another question altogether. One way or another the event is sure to be memorable.</p>
+        <p>JAMES R. OESTREICH</p>
+        <p>MUSIC: HIGH NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

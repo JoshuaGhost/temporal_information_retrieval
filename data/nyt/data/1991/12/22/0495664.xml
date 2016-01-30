@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Handley Needs A Break Today</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="495664"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">NEW YORK GIANTS</org>
+        <person class="indexing_service">HANDLEY, RAY</person>
+        <person class="indexing_service">ENGLISH, JIM</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DE103CF931A15751C1A967958260" item-length="56" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Handley Needs A Break Today</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>I don't know whose ideas of justice are worse, Judge Roy Bean's or the average Giants fan's. Of Coach Ray Handley: Some Giants fans want him fired, others want to send him to law school (at their own expense, no less). I've got the best idea: How about giving him a break? JIM ENGLISH Bayside, Queens</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>I don't know whose ideas of justice are worse, Judge Roy Bean's or the average Giants fan's. Of Coach Ray Handley: Some Giants fans want him fired, others want to send him to law school (at their own expense, no less). I've got the best idea: How about giving him a break? JIM ENGLISH Bayside, Queens</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

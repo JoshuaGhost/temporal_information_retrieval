@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Girard Wants Sale Of Pic 'N' Save</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="356445"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOARDS OF DIRECTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">PIC 'N' SAVE CORP</org>
+        <org class="indexing_service">GIRARD PARTNERS LP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA103AF936A15756C0A966958260" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Girard Wants Sale Of Pic 'N' Save</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>LOS ANGELES, May 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Girard Parnters L.P., the investment group seeking to gain control of the board of the Pic 'N' Save Corporation, said that if its nominees are elected they would create an advisory committee of representatives of institutional shareholders to recommend how to sell the company.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Girard Parnters L.P., the investment group seeking to gain control of the board of the Pic 'N' Save Corporation, said that if its nominees are elected they would create an advisory committee of representatives of institutional shareholders to recommend how to sell the company.</p>
+        <p>Girard Parnters L.P., the investment group seeking to gain control of the board of the Pic 'N' Save Corporation, said that if its nominees are elected they would create an advisory committee of representatives of institutional shareholders to recommend how to sell the company.</p>
+        <p>Girard, which is led by David H. Batchelder, a former chief strategist for T. Boone Pickens, has said that if it gains control it will try to buy all the company or sell it. Pic 'N' Save's management has put the company up for auction. So far, Girard and the company have not reached an agreement about including Girard in the process.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

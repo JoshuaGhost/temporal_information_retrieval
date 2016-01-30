@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lockheed Rejects Plan of Simmons</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="426350"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">PROXY CONTESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BOARDS OF DIRECTORS</classifier>
+        <org class="indexing_service">LOCKHEED CORP</org>
+        <person class="indexing_service">TELLEP, DANIEL M</person>
+        <person class="indexing_service">SIMMONS, HAROLD C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boards of Directors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0D91430F935A15751C0A967958260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lockheed Rejects Plan of Simmons</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LOS ANGELES, Feb. 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Counterproposals by Harold C. Simmons to a plan to limit costs in his proxy war to unseat the board of the Lockheed Corporation were rejected by Daniel M. Tellep, chairman of the big military contractor. Mr. Simmons, who owns 20 percent of Lockheed and lost an expensive proxy contest in 1990, last week accepted Mr. Tellep's proposal that both sides forgo newspaper advertisements to solicit support for their positions.</p>
+        <p>But Mr. Simmons's associate, J. Landis Martin, said he had been denied a request for four additional conditions, among which were a $5 million spending cap for each side, a limit of two mailings to small shareholders and a videotaped debate between Mr. Martin and Mr. Tellep. "Prearrangements with regard to the nature, timing and cost of shareholder communications are unnecessary and inappropriate," Mr. Tellep wrote in a letter released today rejecting new conditions. Mr. Martin did not return a telephone call seeking comment.</p>
+      </block>
+      <block class="full_text">
+        <p>Counterproposals by Harold C. Simmons to a plan to limit costs in his proxy war to unseat the board of the Lockheed Corporation were rejected by Daniel M. Tellep, chairman of the big military contractor. Mr. Simmons, who owns 20 percent of Lockheed and lost an expensive proxy contest in 1990, last week accepted Mr. Tellep's proposal that both sides forgo newspaper advertisements to solicit support for their positions.</p>
+        <p>But Mr. Simmons's associate, J. Landis Martin, said he had been denied a request for four additional conditions, among which were a $5 million spending cap for each side, a limit of two mailings to small shareholders and a videotaped debate between Mr. Martin and Mr. Tellep. "Prearrangements with regard to the nature, timing and cost of shareholder communications are unnecessary and inappropriate," Mr. Tellep wrote in a letter released today rejecting new conditions. Mr. Martin did not return a telephone call seeking comment.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

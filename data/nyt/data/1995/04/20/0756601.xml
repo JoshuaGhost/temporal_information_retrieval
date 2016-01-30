@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Electrical Rates Rising, Again</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="756601"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">RATES</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <org class="indexing_service">PUBLIC SERVICE ELECTRIC &amp; GAS CO</org>
+        <org class="indexing_service">NEW JERSEY CITIZEN ACTION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6DB123EF933A15757C0A963958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Electrical Rates Rising, Again</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+      <dateline>NEWARK</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Electrical rates are going up again, by about 45 cents a month for typical residential consumers, after a vote by the Board of Public Utilities on a request from the Public Service Electric and Gas Company. In November, the board granted the utility an increase that raised the monthly bill of the average residential consumer about $2.40. The latest increase, amounting to $130 million, is intended to offset fuel costs that were higher than anticipated. Rates for nonresidential consumers will rise by 5.8 percent. A consumer group, New Jersey Citizen Action, said it would appeal the board's decision in state court.</p>
+      </block>
+      <block class="full_text">
+        <p>Electrical rates are going up again, by about 45 cents a month for typical residential consumers, after a vote by the Board of Public Utilities on a request from the Public Service Electric and Gas Company. In November, the board granted the utility an increase that raised the monthly bill of the average residential consumer about $2.40. The latest increase, amounting to $130 million, is intended to offset fuel costs that were higher than anticipated. Rates for nonresidential consumers will rise by 5.8 percent. A consumer group, New Jersey Citizen Action, said it would appeal the board's decision in state court.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

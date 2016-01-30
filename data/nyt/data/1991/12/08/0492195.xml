@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ellen Gwynne, Editor, to Wed</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="82" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="492195"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GWYNNE, ELLEN EADE</person>
+        <person class="indexing_service">SATHE, NIKHIL SUDHAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DB163AF93BA35751C1A967958260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ellen Gwynne, Editor, to Wed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. John T. Gwynne of Stony Brook, L.I., have announced the engagement of their daughter Ellen Eade Gwynne to Nikhil Sudhan Sathe, a son of Mr. and Mrs. Sudhan Dinker Sathe of Bombay, India. A fall wedding is planned.</p>
+        <p>Miss Gwynne, 23 years old, graduated from Lafayette College, where her fiance was a summa cum laude graduate. She is an editor of Gallery Guide/Europe, a bimonthly directory of European art exhibitions published in Clinton, N.J. Her father is the director of flight operations at the Grumman Corporation in Calverton, L.I. Her mother, Margaret A. Gwynne, an anthropologist, is a consultant on women's and children's health issues in the West Indies.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. John T. Gwynne of Stony Brook, L.I., have announced the engagement of their daughter Ellen Eade Gwynne to Nikhil Sudhan Sathe, a son of Mr. and Mrs. Sudhan Dinker Sathe of Bombay, India. A fall wedding is planned.</p>
+        <p>Miss Gwynne, 23 years old, graduated from Lafayette College, where her fiance was a summa cum laude graduate. She is an editor of Gallery Guide/Europe, a bimonthly directory of European art exhibitions published in Clinton, N.J. Her father is the director of flight operations at the Grumman Corporation in Calverton, L.I. Her mother, Margaret A. Gwynne, an anthropologist, is a consultant on women's and children's health issues in the West Indies.</p>
+        <p>Mr. Sathe, 23, is a consultant at Seer Technologies, a computer-systems engineering firm in New York. His father is an owner of Universal Containers, a manufacturer of steel containers in Bombay.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

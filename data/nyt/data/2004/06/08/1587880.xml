@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reveries, Please,With Extra Madeleines</title>
+    <meta content="RV235634" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1587880"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THEATER IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Colleagues Theater Co</org>
+        <person class="indexing_service">Gates, Anita</person>
+        <person class="indexing_service">Amendolia, Don</person>
+        <object.title class="indexing_service">Tasting Memories (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DB1F31F93BA35755C0A9629C8B63" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reveries, Please,With Extra Madeleines</hl1>
+      </hedline>
+      <byline class="print_byline">By ANITA GATES</byline>
+      <byline class="normalized_byline">Gates, Anita</byline>
+      <abstract>
+        <p>Anita Gates reviews Colleagues Theater Company production of Tasting Memories, directed by Don Amendolia; one-act reading of poetry and prose about food features rotating cast of older actors; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Tasting Memories'  The Neighborhood Playhouse</p>
+        <p>Kitty Carlisle Hart really is 93, but that's hard to believe when she stands up and sings Irving Berlin's ''Let's Have Another Cup o' Coffee'' and William Bolcom's ''Lime Jell-O Marshmallow Cottage Cheese Surprise.'' Her delicate voice seems more fragile than frail, and her face reflects the delight of a little girl who knows she's pleasing the grown-ups. That's a quality hard not to love.</p>
+      </block>
+      <block class="full_text">
+        <p>'Tasting Memories'  The Neighborhood Playhouse</p>
+        <p>Kitty Carlisle Hart really is 93, but that's hard to believe when she stands up and sings Irving Berlin's ''Let's Have Another Cup o' Coffee'' and William Bolcom's ''Lime Jell-O Marshmallow Cottage Cheese Surprise.'' Her delicate voice seems more fragile than frail, and her face reflects the delight of a little girl who knows she's pleasing the grown-ups. That's a quality hard not to love.</p>
+        <p>The Colleagues Theater Company's ''Tasting Memories'' is a one-act reading (with a little music) of poetry and prose about food. It is performed by a rotating cast of Broadway notables of a certain age, including Mrs. Hart, Rosemary Harris, Philip Bosco, Tammy Grimes, Alvin Epstein, Richard Easton, Kathleen Noone and the team who compiled the material, Michael Fischetti and Emily Mitchell.</p>
+        <p>The sources are admirable, among them Shakespeare, Hemingway, Pablo Neruda, Edna St. Vincent Millay, M. F. K. Fisher and of course Proust, with his madeleines. But the cast alternately phones it in and overemotes.</p>
+        <p>Happily the show, directed by Don Amendolia and playing through Sunday at 340 East 54th Street, Manhattan, has its moments, and not only Mrs. Hart's. Mr. Epstein quotes Somerset Maugham (''To eat well in England, you should have breakfast three times a day'') and Julia Child (''Whenever you see food beautifully arranged on a plate, you know someone's fingers have been all over it''). Lewis Carroll's ''Walrus and the Carpenter,'' performed by Ms. Grimes, Mr. Epstein and Mr. Bosco at the performance I attended, is as charming as ever. It's part of a four-part salute to oysters.</p>
+        <p>New York stages have turned oddly gastronomic recently, with ''Chef's Theater,'' ''Dinner With Demons'' and ''The Last Supper.'' This company, founded partly to create opportunities for older actors, seems to have jumped on the bandwagon.</p>
+        <p>ANITA GATES</p>
+        <p>THEATER IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>T.W.A. Is Set To Order Jets From Boeing</title>
+    <meta content="09JETS$02" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1068386"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Trans World Airlines</org>
+        <org class="indexing_service">Boeing Co</org>
+        <person class="indexing_service">Zuckerman, Laurence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDE123AF93AA35751C1A96E958260" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>T.W.A. Is Set To Order Jets From Boeing</hl1>
+      </hedline>
+      <byline class="print_byline">By LAURENCE ZUCKERMAN</byline>
+      <byline class="normalized_byline">Zuckerman, Laurence</byline>
+      <dateline>SEATTLE, Dec. 8</dateline>
+      <abstract>
+        <p>Trans World Airlines is expected to announce an order for at least 50 Boeing 717 jetliners worth about $1.5 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Trans World Airlines is expected to announce an order for at least 50 Boeing 717 jetliners on Wednesday to help replace its aging fleet, people close to the transaction said tonight.</p>
+        <p>The order, worth about $1.5 billion, would insure the future of the 717, a short-range plane developed by McDonnell Douglas before Boeing  bought the one-time rival last year.</p>
+      </block>
+      <block class="full_text">
+        <p>Trans World Airlines is expected to announce an order for at least 50 Boeing 717 jetliners on Wednesday to help replace its aging fleet, people close to the transaction said tonight.</p>
+        <p>The order, worth about $1.5 billion, would insure the future of the 717, a short-range plane developed by McDonnell Douglas before Boeing  bought the one-time rival last year.</p>
+        <p>Orders for the 717 have been lacking since the first customer, Airtran, formerly known as Valujet, ordered 50 three years ago. Pembroke Capital, an Irish leasing concern, ordered 10 717's earlier this week.</p>
+        <p>Boeing and T.W.A. declined to comment on the T.W.A. order, but a person close to the deal said T.W.A. would announce it Wednesday.</p>
+        <p>Under the terms, T.W.A. is expected to order 50 of the planes and take options for 50 more, giving the order a potential value of $3 billion.</p>
+        <p>The order would be the first large-scale purchase of Boeing aircraft since it announced an extensive cutback last week because of slowing demand, mostly from Asian customers. Boeing said it was reducing production and cutting 48,000 jobs in the next two years, 20,000 more than it had announced some months ago.</p>
+        <p>T.W.A. is expected to use the 717's as replacements for its aging DC-9's, which were built by McDonnell Douglas.</p>
+        <p>T.W.A. is also expected to buy an undisclosed number of Airbus A318's, which are short-range aircraft that Boeing's European rival is developing to compete with the 717. The Seattle Times, citing unnamed sources, reported today that T.W.A. is planning to buy 75 A318's with an option for another 75, a deal potentially valued at $5 billion.</p>
+        <p>It was unclear why T.W.A. would split the order between two competing models, however. Many airlines choose to avoid that as a way to simplify maintenance procedures and reduce costs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

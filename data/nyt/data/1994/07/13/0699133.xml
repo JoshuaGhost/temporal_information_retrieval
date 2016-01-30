@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="699133"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUGS (PHARMACEUTICALS)</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <classifier class="indexing_service" type="descriptor">MAIL ORDER COMPANIES</classifier>
+        <org class="indexing_service">DIAGNOSTEK INC</org>
+        <org class="indexing_service">HEALTH CARE SERVICES INC</org>
+        <org class="indexing_service">DEFENSE DEPARTMENT</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mail Order Companies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3DB133FF930A25754C0A962958260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIAGNOSTEK INC., Albuquerque, N.M., said its Health Care Services Inc. unit had received a $100 million contract from the Department of Defense for mail prescription services. DUKE POWER CO., Charlotte, N.C., said 1,200 employees would leave the company under a voluntary separation program.</p>
+      </block>
+      <block class="full_text">
+        <p>DIAGNOSTEK INC., Albuquerque, N.M., said its Health Care Services Inc. unit had received a $100 million contract from the Department of Defense for mail prescription services. DUKE POWER CO., Charlotte, N.C., said 1,200 employees would leave the company under a voluntary separation program.</p>
+        <p>NATURE'S BOUNTY INC., Bohemia, L.I., said its board had approved the repurchase of as many as 1.7 million common shares. UNITED INNS INC., Memphis, said it had retained Smith Barney Inc. as an investment banker to explore a possible sale of all or most of the company.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

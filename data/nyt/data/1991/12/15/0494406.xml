@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Sikowitz to Wed</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="77" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="494406"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">SIKOWITZ, PAULA BETH</person>
+        <person class="indexing_service">WHITMAN, ROBERT STEVEN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DE1E30F936A25751C1A967958260" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Sikowitz to Wed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. Joel Sikowitz of Babylon, L.I., have announced the engagement of their daughter Paula Beth Sikowitz to Robert Steven Whitman, the son of Mr. and Mrs. Martin Whitman of Albany. An April wedding is planned. Ms. Sikowitz, 27 years old, graduated from Northwestern University and is the manager of human resources at Jackson &amp; Campbell, a Washington law firm. Mr. Whitman, 27, graduated from Cornell University and the University of Michigan Law School. He is a lawyer in the civil division of the United States Department of Justice.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. Joel Sikowitz of Babylon, L.I., have announced the engagement of their daughter Paula Beth Sikowitz to Robert Steven Whitman, the son of Mr. and Mrs. Martin Whitman of Albany. An April wedding is planned. Ms. Sikowitz, 27 years old, graduated from Northwestern University and is the manager of human resources at Jackson &amp; Campbell, a Washington law firm. Mr. Whitman, 27, graduated from Cornell University and the University of Michigan Law School. He is a lawyer in the civil division of the United States Department of Justice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

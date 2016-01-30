@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists, the Human Side</title>
+    <meta content="LTR000705" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Science; Movies; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1069951"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <person class="indexing_service">Rieger, Gina</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DE153DF936A25751C1A96E958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists, the Human Side</hl1>
+      </hedline>
+      <abstract>
+        <p>Gina Rieger letter on Dec 1 article on efforts to present science in more positive light in movies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article ''Scientists Seek a New Movie Role'' on Dec. 1 said that scientists accounted for a mere 2 percent of characters in prime-time dramas and then concluded that doctors were not scientists. Anyone who has been a premed student will assure you that doctors are scientists. In fact, a common complaint among medical students is the intense focus on the sciences to the exclusion of the arts. Perhaps viewers have a fascination with hospital dramas like ''E.R.'' because they portray these scientists as humans with foibles, fears, love lives and children they cherish. There is no reason not to include more science on television.  But as with chocolate milk and presweetened, high-fiber cereals, maybe producers have to sneak in the science, so the audience won't know it's learning.</p>
+        <p>GINA RIEGER  Piedmont, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article ''Scientists Seek a New Movie Role'' on Dec. 1 said that scientists accounted for a mere 2 percent of characters in prime-time dramas and then concluded that doctors were not scientists. Anyone who has been a premed student will assure you that doctors are scientists. In fact, a common complaint among medical students is the intense focus on the sciences to the exclusion of the arts. Perhaps viewers have a fascination with hospital dramas like ''E.R.'' because they portray these scientists as humans with foibles, fears, love lives and children they cherish. There is no reason not to include more science on television.  But as with chocolate milk and presweetened, high-fiber cereals, maybe producers have to sneak in the science, so the audience won't know it's learning.</p>
+        <p>GINA RIEGER  Piedmont, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

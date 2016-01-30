@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ruth Chinitz Uris, New York Philanthropist</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="838291"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">URIS, RUTH CHINITZ</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E7D61739F931A15750C0A960958260" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ruth Chinitz Uris, New York Philanthropist</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ruth Chinitz Uris, a New York philanthropist and chairwoman of the Uris Brothers Foundation, died on Tuesday at her home on the Upper East Side of Manhattan. She was 86.</p>
+        <p>Mrs. Uris was the widow of Harold Uris, the developer, and she continued the  couple's charitable work after his death in 1982. The beneficiaries have ranged  from famous institutions that showed their appreciation by putting the Uris name on a school, a library or a hospital wing to low-income housing in the South Bronx.</p>
+      </block>
+      <block class="full_text">
+        <p>Ruth Chinitz Uris, a New York philanthropist and chairwoman of the Uris Brothers Foundation, died on Tuesday at her home on the Upper East Side of Manhattan. She was 86.</p>
+        <p>Mrs. Uris was the widow of Harold Uris, the developer, and she continued the  couple's charitable work after his death in 1982. The beneficiaries have ranged  from famous institutions that showed their appreciation by putting the Uris name on a school, a library or a hospital wing to low-income housing in the South Bronx.</p>
+        <p>Recipients of multimillion-dollar gifts from the foundation include the Metropolitan Museum of Art's Junior Museum and educational programs, the Columbia University Graduate School of Business, Cornell University, and Lenox Hill Hospital.</p>
+        <p>The foundation Mrs. Uris headed also gave grants to projects likely to better the life of a specific neighborhood and its homeless, unemployed and undereducated. She served for many years on the board of the Hudson Guild, a large settlement house in Chelsea.</p>
+        <p>She was born in Manhattan, the daughter of the restaurateurs Aaron and Rose Chinitz, and attended Smith College.</p>
+        <p>Mrs. Uris is survived by four daughters, Judith Haber of Germantown, N.Y., Susan Halpern of Manhattan, Dr. Linda Sanger of Cambridge, Mass., and Jane Bayard of Manhattan, and eight grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

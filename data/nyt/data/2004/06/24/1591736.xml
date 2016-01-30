@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scaling the Heights, With a Disc as Sherpa</title>
+    <meta content="24STAT$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/24/technology/circuits/24stat.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1591736"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Maps</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Delorme (Co)</org>
+        <org class="indexing_service">Maptech (Co)</org>
+        <org class="indexing_service">National Geographic Society</org>
+        <person class="indexing_service">Pogue, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/State of the Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/David Pogue</classifier>
+        <classifier class="online_producer" type="descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">National Geographic</org>
+        <org class="online_producer">Maptech</org>
+        <org class="online_producer">United States Geological Survey</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DA1139F937A15755C0A9629C8B63" item-length="1474" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scaling the Heights, With a Disc as Sherpa</hl1>
+        <hl2 class="online_headline">Scaling the Heights, With a Disc as Sherpa</hl2>
+      </hedline>
+      <byline class="print_byline">By David Pogue</byline>
+      <byline class="normalized_byline">Pogue, David</byline>
+      <abstract>
+        <p>David Pogue State of the Art column on topographical mapping software; products from National Geographic Society, Maptech and DeLorme compared; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NOW that it's officially summertime, millions will soon enjoy a traditional pastime: exploring America the beautiful. But with today's gas prices, the car isn't everybody's first choice of vehicle. Canoes, hiking boots and mountain bikes suddenly look a lot more attractive.</p>
+        <p>So how do you plan your outdoorsy excursion? Not the same way you'd get driving directions, that's for sure. You can't ask MapQuest.com to provide turn-by-turn directions to ''the spruce on Mount Moosilauke that looks like Bette Midler.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hikers cannot go to MapQuest.com for turn-by-turn directions to guide them down the trail. What they want is topographical mapping software.</p>
+      </block>
+      <block class="full_text">
+        <p>NOW that it's officially summertime, millions will soon enjoy a traditional pastime: exploring America the beautiful. But with today's gas prices, the car isn't everybody's first choice of vehicle. Canoes, hiking boots and mountain bikes suddenly look a lot more attractive.</p>
+        <p>So how do you plan your outdoorsy excursion? Not the same way you'd get driving directions, that's for sure. You can't ask MapQuest.com to provide turn-by-turn directions to ''the spruce on Mount Moosilauke that looks like Bette Midler.''</p>
+        <p>When the paths aren't paved or even named, what you want is topographical mapping software: DeLorme's Topo USA 5.0, National Geographic's Topo State Series or Maptech's Terrain Navigator. Each presents an electronic topographical map -- that is, one with contours illustrating hills and valleys.</p>
+        <p>Of course, you can buy topographical maps on paper for a lot less money, like the United States Geological Survey's classic quad maps, on which all three of these software programs are based: an extremely detailed survey of the American landscape that took the government about 100 years to complete. (Your tax dollars at work.) Generations of Boy Scouts and Girl Scouts are already familiar with the colorful land and water features of these maps, the charming typography (for labeling streets, parks, trails and other features) and the meandering concentric amoebas that illustrate the terrain contours.</p>
+        <p>But the software versions offer zooming, seamless scrolling between map segments, distance calculations and route planning. You can add colorful pushpins, jot down notes and circle proposed campsites without ruining the map, and print or export the result as a graphic. If you decide, wisely, to leave your heavy computer at home, you can transfer the finished route (although not the map itself) to a Global Positioning System receiver when you're ready to sally forth. Another $25 or $30 buys you software that sends the maps to a Palm or PocketPC, or -- the best of all worlds -- a G.P.S.-enabled Palm or PocketPC, so you can have real-time, scrolling views of your maps and your routes as you travel.</p>
+        <p>Each program is also a vast searchable database of campgrounds, beaches and other points of interest, which helps explain why each program requires several CD's. (The DeLorme program is also available on a single DVD-ROM.)</p>
+        <p>Each disc holds one region's worth of maps and information. You must either keep the appropriate disc in your computer -- which, as you scroll, often means having to swap discs -- or copy it to your hard drive. Yes, both of those alternatives are imperfect, but look at the bright side of digital maps: at least you never have to figure out how to refold them.</p>
+        <p>Of the three contenders, Topo, from the National Geographic Society, is by far the simplest. It's solid, staid, fast and easy to understand. Each of its five zoom levels is scanned from a different map series, so every feature is crisp and appropriate for the current map scale. (In Maptech's software, by contrast, you can zoom in and out of only two differently scaled maps.)</p>
+        <p>It's the work of but an instant to draw an intended route, either freehand or with straight-line segments. At that point the program tells you what distance you'll cover, and can also show you a cross-section of the terrain. This sort of unambiguous display can reveal that your 10-mile bike ride is all uphill -- something that a paper map wouldn't tell you, or at least not as clearly.</p>
+        <p>Only National Geographic's program is available for both Mac OS X and Windows. It also offers the MapXChange, where customers swap annotated routes. One guy uploaded a hike called ''1779 Western Campaign,'' which recreates the Continental Army's exhausting march across the Connecticut wilderness during the Revolutionary War. I had fun following it -- with my finger on the screen.</p>
+        <p>(National Geographic and Maptech provide their software in $100 kits, each of which covers one state, except for the Northeast and Mid-Atlantic kits, which cover several small states apiece. Don't buy National Geographic's Topo Regional series by accident; it costs $25 to $50 but is older and not as good.)</p>
+        <p>Note, though, that the National Geographic software lacks some of the whizzier-bangier features of its rivals. Maptech's Terrain Navigator for Windows, for example, adds a 3-D view that crumples your virtual map, so that peaks really look like peaks. You can even drag the mouse to spin or tilt your 3-D model.</p>
+        <p>The Pro version ($300 per state or region) is even more amazing. With a single click you can load, from the Internet, an aerial photograph of the area you're studying. The photographs are grayscale, not color, and several years old. But they're a powerful planning tool for any human-powered expedition. (After the first year, unlimited downloads cost $100 annually.)</p>
+        <p>The Pro edition reveals street addresses as you pass your cursor over the map, which helps you get your bearings. It also lets you tack icons of everyday PC documents -- digital photos, spreadsheets of animal sightings, journal entries, whatever -- to particular spots on the map. (National Geographic Topo offers a similar feature.)</p>
+        <p>The software is quick, slick and loaded with useful keyboard shortcuts. It even lets you view two windows of the same thing side by side (aerial view and map, for example), although it's a pity they don't scroll and zoom simultaneously.</p>
+        <p>The third competitor in this market, DeLorme's Topo USA 5.0, is the only $100 package that contains the entire country, not just one state. Then again, you're not getting the same thing. Rather than scanning Geological Survey maps, as National Geographic and Maptech have done, DeLorme went to the considerable effort of tracing them as so-called vector art -- that is, smooth, computer-generated lines and text.</p>
+        <p>An important advantage is that these maps look smooth and crisp at any degree of magnification; you never see the graininess of individual pixels. As you zoom, labels for important features appear automatically.</p>
+        <p>A disadvantage, however, is that you don't get nearly as much detail as you find on the Geological Survey maps. You don't see any buildings at all, for example, nor minutiae like radio towers, rock quarries and so on. And because the computer is essentially recreating each map in real time, changing views is slow.</p>
+        <p>Still, Topo USA has two awesome tricks up its sleeve. First, it contains the entire database of DeLorme's Street Atlas USA program, which means that it doubles as a full-blown street finder, complete with turn-by-turn driving directions, MapQuest style.</p>
+        <p>Second, for most parts of the country, you can view those vector-art maps side by side, in simultaneously scrolling windows, with your choice of three alternate views: the standard Geological Survey scans that National Geographic and Maptech use (complete with radio towers and quarries), those black-and-white aerial photos, or colorized satellite imagery -- ideal for identifying troop movements in your neighbors' yards. Each is available in a rotatable 3-D view.</p>
+        <p>Unfortunately, you have to pay extra for all this magic. Each set of three supplementary views constitutes what DeLorme calls Aerial Data Packets, and they cost about $5 per square mile. That's not bad for a typical hiking or camping area, but for larger areas, it adds up quickly. (You get a $50 starter coupon with the software.)</p>
+        <p>All three of these programs provide a fresh look at the world you thought you knew, which is mind-expanding at first. All three offer superb online help (Maptech's is even illustrated), and all three are extremely solid, polished performers, which you might not expect in such a niche market.</p>
+        <p>Note, however, that the Geological Survey quad maps underlying all three products are anywhere from 2 to 20 years old. In most parks and hiking areas, not much will have changed, but there's always the possibility that you'll find a shopping mall right where you intended to pitch your tent.</p>
+        <p>Furthermore, remember the experience of a customer who posted his account at www.backpackgeartest.com: Using the maps in the field ''was a blast, at least at first,'' he said, but ''by the end of Day 2, I was suffering from techno-info overload, and it began to intrude on my enjoyment of the wilderness.''</p>
+        <p>In other words, this is powerful, well-done technology. It's just a matter of deciding how much you want to take along, when the whole point is to get away from it all.</p>
+        <p>STATE OF THE ART E-mail: Pogue@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: Pogue@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

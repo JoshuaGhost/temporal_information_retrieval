@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bronx Series Finale</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="629790"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <org class="indexing_service">BRONX ARTS ENSEMBLE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D91639F933A1575BC0A965958260" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bronx Series Finale</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bronx Arts Ensemble's concert series Summermusic '93 ends on Sunday with two free chamber-music concerts in the Bronx, at 2 P.M. at the Rockwood Drive Circle in Van Cortlandt Park (near Broadway and Mosholu Avenue), and at 4 P.M. at the McGinley Center of Fordham University, Rose Hill Campus, at Southern Boulevard. The pianist Kenneth Cooper and the soprano Josephine Mongiardo are the guest soloists. They will be accompanied by members of the Bronx Arts Ensemble: Gerald Tarack, a violinist; Mitchell Kriegler, a clarinetist, and Leo Grinhauz, a cellist. The ensemble will perform Milhaud's Suite for Violin, Clarinet and Piano, Rimsky-Korsakov's "Hymn to the Sun" from "Le Coq d'Or," Beethoven's Trio in B flat for Clarinet, Cello and Piano, and two mazurkas by Chopin, arranged for voice and piano by Pauline Viardot-Garcia. Information: (718) 601-7399.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bronx Arts Ensemble's concert series Summermusic '93 ends on Sunday with two free chamber-music concerts in the Bronx, at 2 P.M. at the Rockwood Drive Circle in Van Cortlandt Park (near Broadway and Mosholu Avenue), and at 4 P.M. at the McGinley Center of Fordham University, Rose Hill Campus, at Southern Boulevard. The pianist Kenneth Cooper and the soprano Josephine Mongiardo are the guest soloists. They will be accompanied by members of the Bronx Arts Ensemble: Gerald Tarack, a violinist; Mitchell Kriegler, a clarinetist, and Leo Grinhauz, a cellist. The ensemble will perform Milhaud's Suite for Violin, Clarinet and Piano, Rimsky-Korsakov's "Hymn to the Sun" from "Le Coq d'Or," Beethoven's Trio in B flat for Clarinet, Cello and Piano, and two mazurkas by Chopin, arranged for voice and piano by Pauline Viardot-Garcia. Information: (718) 601-7399.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

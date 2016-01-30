@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR024351" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1558801"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Shelters</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Evasion</classifier>
+        <org class="indexing_service">Internal Revenue Service</org>
+        <org class="indexing_service">SEI Private Trust Co</org>
+        <org class="indexing_service">Xelan</org>
+        <person class="indexing_service">Browning, Lynnley</person>
+        <person class="indexing_service">Cohen, David A (Dr)</person>
+        <person class="indexing_service">Cohen, Margaret (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E0D91F3AF937A25751C0A9629C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Federal judge in Philadelphia rejects motion to dismiss Internal Revenue Service summons to SEI Private Trust Co to hand over documents in connection with tax shelter it administers, including list of clients who bought tax shelter; dismissal is sought by xelan, the Economic Association of Health Professionals, which caters to doctors and dentists, and by Drs David A Cohen and wife, Dr Margaret Cohen, who bought shelter and are being audited by IRS (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day yesterday about an effort by the Internal Revenue Service to obtain the names of buyers of tax shelters referred incorrectly to a judge's ruling and an I.R.S. summons concerning an investment program offered by xélan, the Economic Association of Health Professionals Inc. While both the ruling and the summons questioned the tax benefits of the program, neither called it fraudulent or illegal.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day yesterday about an effort by the Internal Revenue Service to obtain the names of buyers of tax shelters referred incorrectly to a judge's ruling and an I.R.S. summons concerning an investment program offered by xélan, the Economic Association of Health Professionals Inc. While both the ruling and the summons questioned the tax benefits of the program, neither called it fraudulent or illegal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

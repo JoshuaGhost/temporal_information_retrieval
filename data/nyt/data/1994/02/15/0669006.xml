@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="669006"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LIVESTOCK</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Livestock</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3D61E38F936A25751C0A962958260" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wild Cattle</p>
+        <p>Q.  In a list of domesticated animals was one I had never heard of: the mithan, believed to be derived from the gaur. What are they?</p>
+      </block>
+      <block class="full_text">
+        <p>Wild Cattle</p>
+        <p>Q.  In a list of domesticated animals was one I had never heard of: the mithan, believed to be derived from the gaur. What are they?</p>
+        <p>A. The mithan, or Bos frontalis, is a large domesticated Asiatic bovine whose more common name is the gayal, said Patrick Thomas, assistant curator of mammals at the Bronx Zoo. It is kept by farmers in places like Assam and Burma and is generally believed to be the domesticated form of the gaur, which rhymes with power, a very large, wild cowlike beast found in dwindling numbers in the upland tropical forests of India and southeast Asia.</p>
+        <p>The mithan has a coat pattern similar to that of the gaur, with a dark body and white lower legs, though some individual mithans are very light, almost white, Mr. Patrick said. The mithan is usually smaller; the gaur male can weigh 1,800 or even 2,000 pounds. There is also some difference in the conformation of the horns, with the gaur having more of an upward turn, while the domestic animal's horns are more horizontal, with a very slight upward curve.</p>
+        <p>In 1981, a gaur was born at the Bronx Zoo after gestation in a Holstein cow, one of the first successful interspecies embryo transfers involving a wild animal. The male calf grew up to enjoy a successful career as a herd bull, fathering offspring at the Buffalo Zoo, Mr. Thomas said. The Bronx Zoo now has five male gaurs and six females.</p>
+        <p>The gaur is in a species survival plan, a cooperative breeding program in which all gaurs at zoos are considered one breeding population, moving from zoo to zoo to prevent inbreeding and maintain strong breed lines, Mr. Thomas said. C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="12CX.$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="943122"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Textiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Milne, Jan</person>
+        <object.title class="indexing_service">Currents (Times Column)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Textiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DE1F39F931A25754C0A961958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction to July 10 Currents column report on textile designer Jan Milne (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Currents column on Thursday about a textile designer, Jan Milne, omitted the name of the architect of Genki Sushi, a restaurant in Manhattan that uses a fabric by Ms. Milne. She is Alison Spear.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Currents column on Thursday about a textile designer, Jan Milne, omitted the name of the architect of Genki Sushi, a restaurant in Manhattan that uses a fabric by Ms. Milne. She is Alison Spear.</p>
+        <p>Because of an editing error, the report also referred incorrectly to a banquette at the restaurant. It is not made of clear Lucite; only the chairs are made of Lucite.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

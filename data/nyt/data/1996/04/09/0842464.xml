@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Foschi Cleared In Drug Case</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="842464"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SWIMMING</classifier>
+        <classifier class="indexing_service" type="descriptor">DRUG ABUSE AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">STEROIDS</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <person class="indexing_service">FOSCHI, JESSICA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Swimming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE0DE1039F93AA35757C0A960958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Foschi Cleared In Drug Case</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jessica Foschi, the Old Brookville, L.I., swimmer who tested positive for steroids last summer in a case that intensified the debate over testing procedures and penalties, has been cleared of all charges by an arbitration panel.</p>
+        <p>The American Arbitration Association decision means that the 15-year-old Foschi can compete with a clean slate and without undergoing periodic drug tests as part of a two-year suspension by United States Swimming. Foschi was put on probation, then suspended, then put back on probation, enabling her to compete in the Olympic trials last month. She did not qualify.</p>
+      </block>
+      <block class="full_text">
+        <p>Jessica Foschi, the Old Brookville, L.I., swimmer who tested positive for steroids last summer in a case that intensified the debate over testing procedures and penalties, has been cleared of all charges by an arbitration panel.</p>
+        <p>The American Arbitration Association decision means that the 15-year-old Foschi can compete with a clean slate and without undergoing periodic drug tests as part of a two-year suspension by United States Swimming. Foschi was put on probation, then suspended, then put back on probation, enabling her to compete in the Olympic trials last month. She did not qualify.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

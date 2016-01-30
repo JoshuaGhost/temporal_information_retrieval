@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="26INSI$12" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="998214"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDC103EF935A15751C0A96E958260" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dylans Dominate Grammys  Bob Dylan won three Grammys last night, including one for album of the year. His son Jakob won two awards in the rock category. Page B9.</p>
+      </block>
+      <block class="full_text">
+        <p>Dylans Dominate Grammys  Bob Dylan won three Grammys last night, including one for album of the year. His son Jakob won two awards in the rock category. Page B9.</p>
+        <p>Court Limits Credit Unions  The Supreme Court ruled in favor of the banking industry in its intensifying battle to stop the expansion of credit unions. Page D1.</p>
+        <p>Religious Leader Indicted  The Rev. Henry Lyons, who leads the nation's largest predominantly black denomination, is charged with misusing funds. Page A12.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

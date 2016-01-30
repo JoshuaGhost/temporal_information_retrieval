@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tandy Corp.(TAN,N) reports earnings for Qtr to Mar 31</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="756910"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2D6153CF932A15757C0A963958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tandy Corp.(TAN,N) reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Tandy Corp.(TAN,N)</p>
+        <p>Qtr to Mar 31</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>1,226,622,000</p>
+        <p>992,135,000</p>
+        <p>Net inc</p>
+        <p>38,935,000</p>
+        <p>41,795,000</p>
+        <p>Share earns</p>
+        <p>.55</p>
+        <p>.53</p>
+        <p>Shares outst</p>
+        <p>68,174,000</p>
+        <p>75,802,000</p>
+        <p>The results for the latest first quarter included $ 1.67 million in dividends for the employee stock ownership plan, compared with $ 1.81 million in the year-ago period.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

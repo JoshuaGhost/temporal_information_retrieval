@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: City Plans Bioscience Center</title>
+    <meta content="MB015356" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1628487"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">East River Science Park (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biotechnology</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Bellevue Hospital Center (NYC)</org>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <person class="indexing_service">Steinhauer, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E2DB113FF93AA25752C1A9629C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: City Plans Bioscience Center</hl1>
+      </hedline>
+      <byline class="print_byline">By Jennifer Steinhauer (NYT); Compiled by George James</byline>
+      <byline class="normalized_byline">Steinhauer, Jennifer</byline>
+      <abstract>
+        <p>Mayor Michael R Bloomberg says city plans to create East River Science Park, bioscience research and development center, on Bellevue Hospital Center campus (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The city plans to create a large bioscience research and development center on the city-owned campus of Bellevue Hospital Center, Mayor Michael R. Bloomberg said yesterday. The city has requested proposals from developers to create the East River Science Park, which would encompass about 4.5 acres, with more than 870,000 square feet of floor space for research and development. The park would be between 28th and 29th Streets, First Avenue and Franklin D. Roosevelt Drive. New York City has tried to lure biotechnology companies but has lost ground to Boston and the Bay Area of California. Henry Kravis and Russell Carson, co-chairmen of the New York City Investment Fund, would give $10 million toward the project.</p>
+        <p>Jennifer Steinhauer (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The city plans to create a large bioscience research and development center on the city-owned campus of Bellevue Hospital Center, Mayor Michael R. Bloomberg said yesterday. The city has requested proposals from developers to create the East River Science Park, which would encompass about 4.5 acres, with more than 870,000 square feet of floor space for research and development. The park would be between 28th and 29th Streets, First Avenue and Franklin D. Roosevelt Drive. New York City has tried to lure biotechnology companies but has lost ground to Boston and the Bay Area of California. Henry Kravis and Russell Carson, co-chairmen of the New York City Investment Fund, would give $10 million toward the project.</p>
+        <p>Jennifer Steinhauer (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

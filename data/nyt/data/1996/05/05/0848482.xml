@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Magliocco, Mr. von Oiste</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="52" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="848482"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="WEDDING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MAGLIOCCO, CHRISTINA GRACE (CHRISTINA GRACE OISTE)</person>
+        <person class="indexing_service">OISTE, DOUGLAS DASILVA VON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EFDB1439F936A35756C0A960958260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Magliocco, Mr. von Oiste</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Christina Grace Magliocco, a daughter of Mr. and Mrs. John T. Magliocco of Rye, N.Y., was married yesterday to Douglas Da Silva von Oiste, a son of James J. von Oiste of Belle Terre, L.I., and the late Gloria von Oiste. The Rev. Martin S. Igoe performed the ceremony at the Roman Catholic Church of St. Mary in Greenwich, Conn.</p>
+        <p>Ms. von Oiste, who is 27 and graduated from the University of Vermont, is a manager of fine wines at Peerless Importers, a wine and spirits distributor in Brooklyn. Her father is the chairman of Peerless and of its parent, Quaker Equities Ltd., a venture capital concern in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>Christina Grace Magliocco, a daughter of Mr. and Mrs. John T. Magliocco of Rye, N.Y., was married yesterday to Douglas Da Silva von Oiste, a son of James J. von Oiste of Belle Terre, L.I., and the late Gloria von Oiste. The Rev. Martin S. Igoe performed the ceremony at the Roman Catholic Church of St. Mary in Greenwich, Conn.</p>
+        <p>Ms. von Oiste, who is 27 and graduated from the University of Vermont, is a manager of fine wines at Peerless Importers, a wine and spirits distributor in Brooklyn. Her father is the chairman of Peerless and of its parent, Quaker Equities Ltd., a venture capital concern in Manhattan.</p>
+        <p>Mr. von Oiste, 29, is an assistant district attorney for Suffolk County in Central Islip. He graduated from George Washington University and received a law degree from Pace University. His father is a lawyer in Port Jefferson, L.I. The  bridegroom is the stepson of Aida von Oiste.</p>
+        <p>WEDDING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

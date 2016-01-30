@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Questions for Ken Ferree</title>
+    <meta content="LTR101922" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1670700"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3DE1630F93BA35756C0A9639C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Questions for Ken Ferree</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Good taste is neither Republican nor Democratic (Deborah Solomon, April 24). It's the injection of a political viewpoint and correctness (even into children's programs) to which fans object. I like ''Masterpiece Theater,'' ''Nova'' and ''NewsHour with Jim Lehrer'' on Fridays, when David Brooks and Mark Shields review the week (on other days, I agree with Ferree that sometimes ''it's slow''). Kathleen Cox should have known that if it ain't broke, don't fix it. I have a feeling Ferree already knows that.</p>
+        <p>Carla Wallach  Greenwich, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>Good taste is neither Republican nor Democratic (Deborah Solomon, April 24). It's the injection of a political viewpoint and correctness (even into children's programs) to which fans object. I like ''Masterpiece Theater,'' ''Nova'' and ''NewsHour with Jim Lehrer'' on Fridays, when David Brooks and Mark Shields review the week (on other days, I agree with Ferree that sometimes ''it's slow''). Kathleen Cox should have known that if it ain't broke, don't fix it. I have a feeling Ferree already knows that.</p>
+        <p>Carla Wallach  Greenwich, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

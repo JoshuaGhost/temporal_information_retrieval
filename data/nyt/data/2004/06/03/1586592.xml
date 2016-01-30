@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN025004" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1586592"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E1D91531F930A35755C0A9629C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ticketmaster Corp., West Hollywood, Calif., the ticketing company, said it had acquired BiljettDirekt Ticnet AB, a Swedish ticket company, for $21 million in cash.</p>
+        <p>Novellus Systems Inc., San Jose, Calif., which makes memory-chip manufacturing tools, said it had agreed to buy Peter Wolters, a German maker of precision-grinding equipment. Terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>Ticketmaster Corp., West Hollywood, Calif., the ticketing company, said it had acquired BiljettDirekt Ticnet AB, a Swedish ticket company, for $21 million in cash.</p>
+        <p>Novellus Systems Inc., San Jose, Calif., which makes memory-chip manufacturing tools, said it had agreed to buy Peter Wolters, a German maker of precision-grinding equipment. Terms were not disclosed.</p>
+        <p>Marathon Oil Corp., Houston, won United States antitrust approval to buy the Ashland Inc. stake in Marathon Ashland Petroleum, the companies' joint refining and marketing venture, for $3.01 billion, according to a list of completed merger reviews published by the government.</p>
+        <p>Hasbro Inc., Pawtucket, R.I., the toymaker, was raised one level in its debt rating, to investment grade, by Standard &amp; Poor's Ratings Service.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

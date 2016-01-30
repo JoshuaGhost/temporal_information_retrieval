@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grant for Homeless Projects</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="774954"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950715T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DA123CF936A25754C0A963958260" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grant for Homeless Projects</hl1>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <dateline>NEWARK</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>About $26.7 million in Federal grants to move the homeless from city streets to decent housing and improve job training and mental health services were announced yesterday at the Federal Department of Housing and Urban Development's offices here. The grants, earmarked for homeless projects of 13 organizations and municipalities, include $7.5 million to the city of Paterson, $6 million to the state's Department of Community Affairs offices in Jersey City, $3.7 million to the Y.M.C.A. of Passaic-Clifton and $3 million to the Douglass-Harrison Housing Corporation in Newark.</p>
+      </block>
+      <block class="full_text">
+        <p>About $26.7 million in Federal grants to move the homeless from city streets to decent housing and improve job training and mental health services were announced yesterday at the Federal Department of Housing and Urban Development's offices here. The grants, earmarked for homeless projects of 13 organizations and municipalities, include $7.5 million to the city of Paterson, $6 million to the state's Department of Community Affairs offices in Jersey City, $3.7 million to the Y.M.C.A. of Passaic-Clifton and $3 million to the Douglass-Harrison Housing Corporation in Newark.  NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

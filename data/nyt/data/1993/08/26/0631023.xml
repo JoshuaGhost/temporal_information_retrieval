@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Infrasonics</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="631023"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS (CORPORATE)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESPIRATION AND RESPIRATORS</classifier>
+        <classifier class="indexing_service" type="descriptor">BABIES</classifier>
+        <org class="indexing_service">INFRASONICS INC</org>
+        <org class="indexing_service">FOOD AND DRUG ADMINISTRATION (FDA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Babies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DA1E3EF935A1575BC0A965958260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Infrasonics</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shares of Infrasonics Inc.  have risen 15.5 percent in the last two days after the company received Food and Drug Administration approval to begin making and selling a new respirator for infants. The medical supplies company, which sells its products in about 40 countries, said it had an order backlog of more than $800,000 for the new product.</p>
+      </block>
+      <block class="full_text">
+        <p>Shares of Infrasonics Inc.  have risen 15.5 percent in the last two days after the company received Food and Drug Administration approval to begin making and selling a new respirator for infants. The medical supplies company, which sells its products in about 40 countries, said it had an order backlog of more than $800,000 for the new product.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

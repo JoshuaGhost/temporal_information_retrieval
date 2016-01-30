@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ketchum May Close Deal for Hicks &amp; Greist</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="35276"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">KETCHUM COMMUNICATIONS CO</org>
+        <org class="indexing_service">HICKS &amp; GREIST INC</org>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D6123DF93AA15757C0A961948260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ketchum May Close Deal for Hicks &amp; Greist</hl1>
+      </hedline>
+      <byline class="print_byline">By Philip H. Dougherty</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Ketchum Communications of Pittsburgh, which has long been trying to build a strong New York office, could sign the papers tomorrow to acquire Hicks &amp; Greist, a New York packaged-goods agency billing about $100 million.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Ketchum Communications of Pittsburgh, which has long been trying to build a strong New York office, could sign the papers tomorrow to acquire Hicks &amp; Greist, a New York packaged-goods agency billing about $100 million.</p>
+        <p>Ketchum Communications of Pittsburgh, which has long been trying to build a strong New York office, could sign the papers tomorrow to acquire Hicks &amp; Greist, a New York packaged-goods agency billing about $100 million.</p>
+        <p>Charles V. Skoog Jr., chairman of Hicks &amp; Greist, would only acknowledge, between chuckles, that such a happening was possible.</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

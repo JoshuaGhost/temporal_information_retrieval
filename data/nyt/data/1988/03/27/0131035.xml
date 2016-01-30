@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Curing What Ails Them</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="131035"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="MIND/BODY/HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">LEVINE, CAROL</person>
+        <person class="indexing_service">INLANDER, CHARLES B</person>
+        <person class="indexing_service">LEVIN, LOWELL S</person>
+        <person class="indexing_service">WEINER, ED</person>
+        <object.title class="indexing_service">MEDICINE ON TRIAL (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DE173FF934A15750C0A96E948260" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Curing What Ails Them</hl1>
+      </hedline>
+      <byline class="print_byline">By CAROL LEVINE; Carol Levine is executive director of the Citizens Commission on AIDS for New York City and northern New Jersey and a specialist in biomedical ethics.</byline>
+      <byline class="normalized_byline">LEVIN, LOWELL S; LEVINE, CAROL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  MEDICINE ON TRIAL  The Appalling Story of Ineptitude,  Malfeasance, Neglect, and Arrogance.  By Charles B. Inlander, Lowell S. Levin  and Ed Weiner.  304 pp. New York:  Prentice Hall Press. $18.95.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  MEDICINE ON TRIAL  The Appalling Story of Ineptitude,  Malfeasance, Neglect, and Arrogance.  By Charles B. Inlander, Lowell S. Levin  and Ed Weiner.  304 pp. New York:  Prentice Hall Press. $18.95.</p>
+        <p>MEDICINE ON TRIAL  The Appalling Story of Ineptitude,  Malfeasance, Neglect, and Arrogance.  By Charles B. Inlander, Lowell S. Levin  and Ed Weiner.  304 pp. New York:  Prentice Hall Press. $18.95.</p>
+        <p>This is not a book to read in a doctor's waiting room. Neither is it a shocking expose. The authors hand down a ''grave indictment of American medicine,'' and sit as judge and jury. Not surprisingly, since the defense is not given a chance to testify, the accused is found guilty. Charles B. Inlander and Ed Weiner are president and senior editor, respectively, of the People's Medical Society, a consumer health organization in Emmaus, Pa. Lowell S. Levin is a professor of public health at the Yale University School of Medicine. They have not drawn their ''evidence and expert testimony'' from independent research but from the pages of medical and public health journals.</p>
+        <p>The result is a detailed catalogue of deficiencies: physicians impaired by drugs and alcohol, excessive reliance on sometimes defective technology, anesthesia accidents, diagnostic errors, hospital-caused infections, unnecessary surgery and others. But the very profession that the authors accuse of a ''conspiracy against the public'' is the one that has put on record these highly self-critical accounts, and the news media increasingly report such studies.</p>
+        <p>Sometimes the authors mislead, as when, claiming they are providing a ''proper perspective,'' they say ''somewhere between 22,600 and 36,600'' American doctors now are ''alcoholics, recovering alcoholics, or soon-to-be alcoholics.'' ''Proper perspective''? In 1986, there were 569,160 licensed physicians in the United States. Those who are threats to their patients are an unacceptable but nonetheless small percentage. The authors also claim that ''about one out of every six known drug addicts in the United States, England, Holland, France, and Germany is a doctor.'' The footnote refers to a 1975 book, which in turn gives no sources. Now, surely one-sixth of America's estimated one million drug addicts are not medical school graduates.</p>
+        <p>This kind of overstatement is unfortunate because the thesis underlying ''Medicine on Trial'' is sound. Medical practice can be improved, and the public can play a part in that reform. Many suggestions here are sensible, such as increased treatment for and discipline of impaired physicians, improved oversight of medical technology and stricter infection control. And the People's Medical Society's ''Model Hospital Disclosure Act'' and its ''Code of Practice'' would broaden the patient's rights movement of the recent past.</p>
+        <p>However, in the view of these authors, people who seek care are not patients but consumers. Some of the authors' more radical prescriptions derive from their total faith in medical consumerism. Thus they insist that every state medical license board be composed only of ''consumers,'' assisted by medical professionals. And they recommend that all patients have a friend or relative in the examining room, never even considering that a third party might make good consultation on sensitive subjects impossible. In many ways, a predominantly consumerist approach fails both providers and receivers of care. Good care requires a partnership based on trust. The prosecutorial stance taken here works against that.</p>
+        <p>This book is written for those who have the financial and social power to negotiate with the medical profession over the conditions of their care. It is not intended to address what many believe to be the real scandal of American medicine: the lack of equitable access to care for poor and minority populations.</p>
+        <p>MIND/BODY/HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

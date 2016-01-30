@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: City Lifts Disputed Co-Op Fee</title>
+    <meta content="MB020337" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1570650"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Cooperatives</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Rich, Motoko</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooperatives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3D71739F932A05750C0A9629C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: City Lifts Disputed Co-Op Fee</hl1>
+      </hedline>
+      <byline class="print_byline">By Motoko Rich (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Rich, Motoko</byline>
+      <abstract>
+        <p>New York City will stop collecting $50 fee on co-op sales and transfers and will refund nondeed transactions recorded after Jan 1, 2003; plantiffs in class-action suit say they will continue suit against city (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A class-action lawsuit has been filed against the city in an effort to overturn a $50 fee on co-op sales and transfers. But the city said yesterday that it would stop collecting the fees. The lawsuit, filed in State Supreme Court last week, claims that the city's Department of Finance illegally charges a $50 fee every time a co-op is sold or transferred. The fee should not apply to co-ops, the suit contends, because co-op sales or transfers involve the exchange of shares in a corporation rather than real estate. Aaron Shmulewitz, a lawyer who is representing the plaintiffs, estimated that the city had collected more than $1 million in such fees. Martha E. Stark, commissioner of the Finance Department, said in a statement that the department had reviewed the fee. ''Accordingly,'' she said, ''Finance will identify those who paid a fee for nondeed transactions after Jan. 1, 2003, and provide refunds where appropriate and will stop collecting fees on these transactions.'' Mr. Shmulewitz said his clients would continue to pursue the suit.</p>
+        <p>Motoko Rich (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A class-action lawsuit has been filed against the city in an effort to overturn a $50 fee on co-op sales and transfers. But the city said yesterday that it would stop collecting the fees. The lawsuit, filed in State Supreme Court last week, claims that the city's Department of Finance illegally charges a $50 fee every time a co-op is sold or transferred. The fee should not apply to co-ops, the suit contends, because co-op sales or transfers involve the exchange of shares in a corporation rather than real estate. Aaron Shmulewitz, a lawyer who is representing the plaintiffs, estimated that the city had collected more than $1 million in such fees. Martha E. Stark, commissioner of the Finance Department, said in a statement that the department had reviewed the fee. ''Accordingly,'' she said, ''Finance will identify those who paid a fee for nondeed transactions after Jan. 1, 2003, and provide refunds where appropriate and will stop collecting fees on these transactions.'' Mr. Shmulewitz said his clients would continue to pursue the suit.</p>
+        <p>Motoko Rich (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

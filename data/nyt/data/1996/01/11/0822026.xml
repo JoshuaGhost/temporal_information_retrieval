@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Henderson Investigation</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="822026"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">INTERNAL REVENUE SERVICE (IRS) INTERNAL REVENUE SERVICE</org>
+        <person class="indexing_service">HENDERSON, RICKEY</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7DD1039F932A25752C0A960958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Henderson Investigation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Internal Revenue Service is apparently investigating RICKEY HENDERSON, baseball's stolen base leader.</p>
+        <p>ESPN and The Associated Press reported on Tuesday that Henderson, 37, is under investigation by the Federal tax agency for possible unreported income from autograph and memorabilia shows. Neither Henderson, who recently signed as  a free agent with the San Diego Padres, nor his agent could be reached for comment yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>The Internal Revenue Service is apparently investigating RICKEY HENDERSON, baseball's stolen base leader.</p>
+        <p>ESPN and The Associated Press reported on Tuesday that Henderson, 37, is under investigation by the Federal tax agency for possible unreported income from autograph and memorabilia shows. Neither Henderson, who recently signed as  a free agent with the San Diego Padres, nor his agent could be reached for comment yesterday.</p>
+        <p>SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

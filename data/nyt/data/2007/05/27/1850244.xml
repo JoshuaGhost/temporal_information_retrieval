@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Closing a Loan Online</title>
+    <meta content="27mort" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1850244"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="MORTGAGES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mortgages</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Lsi Corp</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mortgages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D91630F934A15756C0A9619C8B63" item-length="602" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Closing a Loan Online</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Mortgages column on ClosingStream, Internet-based service from LSI that allows borrowers to fill out documents for refinancing and home-equity loans, and complete closing process, all online (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BORROWERS have used the Internet for years to shop for mortgages. Now a growing number are actually closing their loans online, too.</p>
+        <p>Companies like E-Loan, Wachovia and other big mortgage lenders have in recent months begun offering a service called ClosingStream, which allows borrowers to complete documents online for refinanced and home-equity loans.</p>
+      </block>
+      <block class="full_text">
+        <p>BORROWERS have used the Internet for years to shop for mortgages. Now a growing number are actually closing their loans online, too.</p>
+        <p>Companies like E-Loan, Wachovia and other big mortgage lenders have in recent months begun offering a service called ClosingStream, which allows borrowers to complete documents online for refinanced and home-equity loans.</p>
+        <p>Lenders say the process is more convenient, and less costly, for consumers, reducing closing fees by hundreds of dollars. The only question is whether demand for the service will spread beyond the tech-savvy crowd that has chiefly embraced it.</p>
+        <p>''Our sense is that the main customer for this will be a younger person, although I'll tell you, I'm 54 and I'd be happy to do it this way,'' said Albert Verkuylen, the chief strategy officer of LSI in Santa Ana, Calif., the company that provides the ClosingStream system to lenders.</p>
+        <p>Lenders offer ClosingStream to borrowers after the loan terms have been agreed to. If the borrowers express an interest, a ClosingStream representative will call and explain the four-step process. The first step is for borrowers to log on to the ClosingStream Web site, where they supply personal information and answer security questions to help authenticate their identities.</p>
+        <p>Next, ClosingStream posts a personal identification number and a power-of-attorney document on the Web site for the borrowers to download and sign in front of a notary public. They mail in the document and then schedule a time to close the loan.</p>
+        <p>At the appointed time, the borrowers dial into a conference call set up by ClosingStream and log on to the private page of the company's Web site that is devoted to their loan. If the borrowers are in a state that requires a lawyer to preside over the closing process, as in New York or Connecticut, ClosingStream will provide a lawyer to represent the borrowers.</p>
+        <p>For borrowers in other states, a title specialist from the company presides over the virtual meeting. In both cases, borrowers see live Webcam images of the lawyer or specialist on the computer screen.</p>
+        <p>During the closing process, which typically lasts less than an hour, the borrower's representative posts the relevant pages of the closing document to the Web site, explains each page and then asks the borrower whether he or she understands and agrees to the terms. Each borrower clicks on the Web page indicating agreement. At the end of the process, the borrowers agree to have ClosingStream's representatives sign the loan documents on their behalf.</p>
+        <p>Mr. Verkuylen said that ClosingStream was closing about 1,000 loans a month online, 80 percent of them refinanced mortgages.</p>
+        <p>Tom Medlin, a Wachovia vice president, said that the bank started offering the ClosingStream service last fall, and now 25 to 30 percent of its refinance and home-equity customers choose that option. ''It just continues to pick up momentum,'' Mr. Medlin said.</p>
+        <p>In states where lawyers are required at mortgage closings, Mr. Medlin said, borrowers save $100 to $300 by closing online. ''But more than anything, this is about convenience and the ability to not have to schedule time to meet at the attorney's office or the title company's office,'' he said. ''We've never had one complaint from a consumer about this.''</p>
+        <p>Dan Schatt, an analyst at Celent, a Boston research and consulting firm, said that consumers were quickly migrating to online banking, but that when it came to mortgages, probably the biggest financial transactions in most people's lifetimes, many remained leery. ''Most borrowers would still rather have a face to deal with during this process,'' Mr. Schatt said. ''But that'll gradually change in the mortgage world.''</p>
+        <p>MORTGAGES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hey, It's on the Company!</title>
+    <meta content="822590SGM" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="100" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1000316"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="ENDPAPER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">Finney, Paul Burnham</person>
+        <person class="indexing_service">Finney, Paul Burnham</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EEDB143FF93BA35750C0A96E958260" item-length="762" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hey, It's on the Company!</hl1>
+      </hedline>
+      <byline class="print_byline">By Paul Burnham Finney</byline>
+      <byline class="normalized_byline">Finney, Paul Burnham</byline>
+      <abstract>
+        <p>Paul Burnham Finney article on employees' creative business travel expense claims; photo (M).</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At Sotheby's, the international auction house, annual travel and entertainment expenses during the glitzy 1980's sometimes ran to $200,000 a year -- for a single senior employee. But in these days of downsized management and Scrooge-like budgeting, purse strings everywhere are a lot tighter. Filing an expense report can call for creative gamesmanship. The dollar bill handed to a baggage handler mysteriously becomes $2. The entertainment bill for $78, split down the middle with your lunch partner, goes on the expense report as yours alone. However petty the sum, the cost of travel and entertainment, or T and E, still adds up -- to more than $156 billion annually, according to American Express Travel-Related Services, with almost half going to hotels, meals, entertainment and ''other.'' With an attitude of ''they owe it to me,'' expense-report novelists will try to cover the costs of a hairdresser, golf game, kennel and traffic ticket. The I.R.S. has raised the ceiling for undocumented expenses to $75, but as one corporate travel manager puts it, ''we're still at $25 because the minute we make it higher, we'll get taxi fares for $74.65 -- with no receipts. Even now, when we see $24.97 for a fake taxi, they must think we're really stupid.''</p>
+        <p>Below are examples from two major U.S. companies of how the expense-report game goes, with comments from supervisors. It's their job to render verdicts on claims from thousands of employees -- the mundane to the out of the ordinary, the legitimate to the downright dubious.</p>
+      </block>
+      <block class="full_text">
+        <p>At Sotheby's, the international auction house, annual travel and entertainment expenses during the glitzy 1980's sometimes ran to $200,000 a year -- for a single senior employee. But in these days of downsized management and Scrooge-like budgeting, purse strings everywhere are a lot tighter. Filing an expense report can call for creative gamesmanship. The dollar bill handed to a baggage handler mysteriously becomes $2. The entertainment bill for $78, split down the middle with your lunch partner, goes on the expense report as yours alone. However petty the sum, the cost of travel and entertainment, or T and E, still adds up -- to more than $156 billion annually, according to American Express Travel-Related Services, with almost half going to hotels, meals, entertainment and ''other.'' With an attitude of ''they owe it to me,'' expense-report novelists will try to cover the costs of a hairdresser, golf game, kennel and traffic ticket. The I.R.S. has raised the ceiling for undocumented expenses to $75, but as one corporate travel manager puts it, ''we're still at $25 because the minute we make it higher, we'll get taxi fares for $74.65 -- with no receipts. Even now, when we see $24.97 for a fake taxi, they must think we're really stupid.''</p>
+        <p>Below are examples from two major U.S. companies of how the expense-report game goes, with comments from supervisors. It's their job to render verdicts on claims from thousands of employees -- the mundane to the out of the ordinary, the legitimate to the downright dubious.</p>
+        <p>ENDPAPER Paul Burnham Finney is a regular contributor to The Times's business section.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Paul Burnham Finney is a regular contributor to The Times's business section.</tagline>
+    </body.end>
+  </body>
+</nitf>

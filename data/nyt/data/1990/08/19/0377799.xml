@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Griffey Retires</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="377799"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">CINCINNATI REDS</org>
+        <person class="indexing_service">GRIFFEY, KEN SR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cincinnati Reds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D7173BF93AA2575BC0A966958260" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Griffey Retires</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: He was a significant force on the Cincinnati Reds teams that won the World Series in 1975 and 1976, and now, at the age of 40, Ken Griffey may have provided some crucial help in the team's bid to win in 1990.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: He was a significant force on the Cincinnati Reds teams that won the World Series in 1975 and 1976, and now, at the age of 40, Ken Griffey may have provided some crucial help in the team's bid to win in 1990.</p>
+        <p>He was a significant force on the Cincinnati Reds teams that won the World Series in 1975 and 1976, and now, at the age of 40, Ken Griffey may have provided some crucial help in the team's bid to win in 1990.</p>
+        <p>At the request of the club's manager, Lou Piniella, Griffey agreed yesterday to retire from the team to open a roster slot for Chris Hammond, a pitcher who was called up from the minors to replace the injured Danny Jackson.</p>
+        <p>Griffey, used primarily as a pinch-hitter, was batting .206, far off his .305 average in 1975, his first full season in the major leagues, and his .336 average in 1976.</p>
+        <p>Griffey, who was traded to the Yankees in 1981 and then to the Atlanta Braves during the 1986 season, was re-signed by the Reds as a free agent in August 1988.</p>
+        <p>For all Griffey's graciousness in agreeing to retire, the move was not entirely voluntary. Piniella, who called Griffey into his office while the player was dressing for yesterday's game against the Pittsburgh Pirates, said later that he and Griffey had discussed ''a couple'' of options. ''This is the one he chose,'' the manager said.</p>
+        <p>After speaking briefly with his teammates, Griffey left the clubhouse without comment.</p>
+        <p>Griffey's .310 batting average over his first nine seasons with the Reds was the eighth-highest in club history, but his main legacy is more likely to be his son Ken Griffey Jr., who not only plays for the Seattle Mariners, but was also a starting outfielder for the American League in this year's All-Star Game.</p>
+        <p>''Now they can't get me confused with my dad anymore,'' Ken Griffey Jr. said at Yankee Stadium yesterday when told of his father's action. ''I'll find out what happened, why he did it. It's his decision, though.'' (AP)  SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

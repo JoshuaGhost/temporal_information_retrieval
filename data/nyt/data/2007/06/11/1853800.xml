@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Station Astronauts Examine Shuttle</title>
+    <meta content="11shuttle" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/11/science/space/11shuttle.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1853800"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Station</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EEDE173FF932A25755C0A9619C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Station Astronauts Examine Shuttle</hl1>
+        <hl2 class="online_headline">Station Astronauts Examine Shuttle</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The crew of the International Space Station welcomed the seven astronauts from the shuttle Atlantis aboard on Sunday, the third day of the shuttle's mission.</p>
+        <p>Before docking, the shuttle commander, Col. Frederick W. Sturckow of the Marines, guided the spaceship through a graceful back flip over South America that allowed station astronauts to photograph the ship's belly to detect damage from launching debris. So far, the only area of concern is a pulled-up corner of an insulating blanket covering one of the ship's maneuvering rocket pods, leaving a four-inch-by-six-inch area exposed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The shuttle commander guided the spaceship through a graceful back flip that allowed station astronauts to photograph the ship’s belly for damage.</p>
+      </block>
+      <block class="full_text">
+        <p>The crew of the International Space Station welcomed the seven astronauts from the shuttle Atlantis aboard on Sunday, the third day of the shuttle's mission.</p>
+        <p>Before docking, the shuttle commander, Col. Frederick W. Sturckow of the Marines, guided the spaceship through a graceful back flip over South America that allowed station astronauts to photograph the ship's belly to detect damage from launching debris. So far, the only area of concern is a pulled-up corner of an insulating blanket covering one of the ship's maneuvering rocket pods, leaving a four-inch-by-six-inch area exposed.</p>
+        <p>In a briefing for reporters, John Shannon, the chairman of the mission management team, said the team was discussing a spacewalk to correct the problem -- possibly by simply tucking the blanket back into place -- or leaving it alone, since the upper side of the shuttle suffers far less heat during the return to Earth than the underside.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

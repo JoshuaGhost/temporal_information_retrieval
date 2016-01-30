@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Starbucks Selects Wieden &amp; Kennedy</title>
+    <meta content="MB001927" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1572644"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <org class="indexing_service">Starbucks Coffee Co</org>
+        <org class="indexing_service">Wieden &amp; Kennedy</org>
+        <person class="indexing_service">Ives, Nat</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1D61438F93BA35757C0A9629C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Starbucks Selects Wieden &amp; Kennedy</hl1>
+      </hedline>
+      <byline class="print_byline">By NAT IVES</byline>
+      <byline class="normalized_byline">Ives, Nat</byline>
+      <abstract>
+        <p>Starbucks Coffee Co names Wieden &amp; Kennedy as its ad agency of record; billings estimated at $15 million to $20 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Starbucks Coffee Company in Seattle has named Wieden &amp; Kennedy in Portland, Ore., as its agency of record, handling assignments to help support its retail business in North America.</p>
+        <p>Billings were estimated at $15 million to $20 million.</p>
+      </block>
+      <block class="full_text">
+        <p>The Starbucks Coffee Company in Seattle has named Wieden &amp; Kennedy in Portland, Ore., as its agency of record, handling assignments to help support its retail business in North America.</p>
+        <p>Billings were estimated at $15 million to $20 million.</p>
+        <p>The decision came after a review that had been narrowed to Wieden &amp; Kennedy and the New York office of Bartle Bogle Hegarty.</p>
+        <p>The review was prompted by a conflict created when the previous agency, LB Works in Chicago, was absorbed by a sibling, Leo Burnett Worldwide, part of the Publicis Groupe.</p>
+        <p>Burnett could not work for Starbucks because it creates campaigns for McDonald's, one of the country's largest coffee retailers.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

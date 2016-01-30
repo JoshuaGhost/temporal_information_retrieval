@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>All-Star Coach Clinches</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="501072"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SPORTS PEOPLE: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">NATIONAL BASKETBALL ASSN (NBA)</org>
+        <person class="indexing_service">JACKSON, PHIL</person>
+        <object.title class="indexing_service">ALL-STAR GAMES</object.title>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DA113BF93BA25752C0A964958260" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>All-Star Coach Clinches</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Coach PHIL JACKSON of the Chicago Bulls has clinched the head coaching job for the Eastern Conference All-Star team more than a week before the cutoff date for determining the post. The Bulls have a six-and-a-half-game lead over Cleveland in the race for the best record in the conference, too large a margin for the Cavaliers to make up by Jan. 26. The coaches of the teams with the best records in each conference after games of that date will be the head coaches for the All-Star Game at Orlando, Fla., on Feb. 9. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>Coach PHIL JACKSON of the Chicago Bulls has clinched the head coaching job for the Eastern Conference All-Star team more than a week before the cutoff date for determining the post. The Bulls have a six-and-a-half-game lead over Cleveland in the race for the best record in the conference, too large a margin for the Cavaliers to make up by Jan. 26. The coaches of the teams with the best records in each conference after games of that date will be the head coaches for the All-Star Game at Orlando, Fla., on Feb. 9. (AP)  SPORTS PEOPLE: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

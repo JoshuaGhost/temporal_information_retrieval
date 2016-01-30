@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High Income Welcomes Low Income Into Its Front Yard</title>
+    <meta content="05PROJ$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1244527"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEIGHBORHOOD REPORT: PARK SLOPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Single Persons</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bahrampour, Tara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Single Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1D61639F936A35752C1A9669C8B63" item-length="435" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High Income Welcomes Low Income Into Its Front Yard</hl1>
+      </hedline>
+      <byline class="print_byline">By TARA BAHRAMPOUR</byline>
+      <byline class="normalized_byline">Bahrampour, Tara</byline>
+      <abstract>
+        <p>Article on subsidized apartment building on Warren Street in wealthy enclave of Brooklyn's Park Slope designed to help low-income single people remain in area that had priced them out; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The bedroom, overlooking a treelined street, is spotless. The bathroom sparkles. The brick building, nestled between the upscale enclaves of Park Slope and Boerum Hill, is a five-minute walk from eight subway lines.</p>
+        <p>Efrain Perez can hardly believe his luck.</p>
+      </block>
+      <block class="full_text">
+        <p>The bedroom, overlooking a treelined street, is spotless. The bathroom sparkles. The brick building, nestled between the upscale enclaves of Park Slope and Boerum Hill, is a five-minute walk from eight subway lines.</p>
+        <p>Efrain Perez can hardly believe his luck.</p>
+        <p>''I never thought that a person from my background would be able to qualify for something like this,'' he said, relaxing in an armchair in the subsidized studio apartment for which he pays $370 a month.</p>
+        <p>A year ago, Mr. Perez, 35, was in prison; six months ago, he was living in a shelter. That was where he heard about 551 Warren Street, a soon-to-be completed apartment building designed to help low-income single people stay in an area that in recent years had priced them out.</p>
+        <p>Ibon Muhammad, director of housing for the Fifth Avenue Committee, which helped create the $8.5 million, 67-unit project, said that in a departure from typical not-in-my-backyard sentiments, much of the impetus for the project came from neighborhood residents.</p>
+        <p>''We had done a number of surveys and at every turn people said, 'Look, we really feel sorry, everywhere we look we see people losing their homes,' '' she said. Often, the concern was for homeless people who had grown up in the neighborhood, which includes a mix of public housing and privately owned homes. Ms. Muhammad said another factor in local support was ''an outrage at what's been happening in Park Slope'' in terms of rising housing prices.</p>
+        <p>Still, neighborhood reaction was mixed when the committee, in partnership with Community Access, another nonprofit group, proposed a combination of single-resident studios and low-equity co-ops on seven vacant lots on Warren Street. Some people worried about decreased property values and increased crime, and Community Board 2's social services committee initially rejected the idea. But after residents circulated petitions and testified for the project, the board voted in favor of it.</p>
+        <p>Ms. Muhammad said that people were saying, ''I'd rather see them in their own apartment than on the street.''</p>
+        <p>Shabazz Wilson, who moved in last month, broke into a smile as he unlocked the door of his first home in 18 months. ''It's a good feeling, you know -- your own keys, your own place,'' he said. ''They say this brightens up the block. We've just blended into the community.''</p>
+        <p>TARA BAHRAMPOUR</p>
+        <p>NEIGHBORHOOD REPORT: PARK SLOPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

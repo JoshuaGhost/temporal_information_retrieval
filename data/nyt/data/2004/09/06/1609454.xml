@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treasury Bills Set For This Week</title>
+    <meta content="06BOND$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/09/06/business/06bonds.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1609454"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DE1E31F935A3575AC0A9629C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treasury Bills Set For This Week</hl1>
+        <hl2 class="online_headline">Treasury Bills Set for This Week</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes the regular weekly auction of new three- and six-month bills and a seven-day cash management bill, an auction of four-week bills and a five-year note tomorrow and a 10-year note on Thursday.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 1.64 percent. The rate on the six-month issue was 1.86 percent, and the rate on the four-week issue was 1.48 percent. In when-issued trading, the five-year note was being offered at a price to yield 3.52 percent, while the 10-year issue was offered at a price to yield 4.29 percent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Treasury's schedule of financing this week includes the regular weekly auction of new three- and six-month bills and a seven-day cash management bill, an auction of four-week bills and a five-year note tomorrow and a 10-year note on Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>The Treasury's schedule of financing this week includes the regular weekly auction of new three- and six-month bills and a seven-day cash management bill, an auction of four-week bills and a five-year note tomorrow and a 10-year note on Thursday.</p>
+        <p>At the close of the New York cash market on Friday, the rate on the outstanding three-month bill was 1.64 percent. The rate on the six-month issue was 1.86 percent, and the rate on the four-week issue was 1.48 percent. In when-issued trading, the five-year note was being offered at a price to yield 3.52 percent, while the 10-year issue was offered at a price to yield 4.29 percent.</p>
+        <p>The following tax-exempt fixed-income issues are scheduled for pricing this week:</p>
+        <p>TAX EXEMPT  THURSDAY</p>
+        <p>California, $500 million of general obligation bonds. Competitive.</p>
+        <p>TAX EXEMPT  ONE DAY DURING THE WEEK</p>
+        <p>Highline School District 401, Burien, Wash., $71.5 million of general obligation improvement and refunding bonds. Lehman Brothers.</p>
+        <p>Jacksonville, Fla., Electric Authority, $130 million of debt securities. Citigroup Global Markets.</p>
+        <p>Maine Municipal Bond Bank, $15 million of debt securities. UBS.</p>
+        <p>Massachusetts Housing Finance Agency, $79.5 million of debt securities. Lehman Brothers.</p>
+        <p>Ohio Higher Education, $150 million of general obligation bonds. J.P. Morgan Securities.</p>
+        <p>South Dakota Housing, $60 million of debt securities. Citigroup Global Markets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

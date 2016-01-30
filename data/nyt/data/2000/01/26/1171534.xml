@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Checketts Tempers Optimism</title>
+    <meta content="26CHEC" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1171534"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <org class="indexing_service">New York Rangers</org>
+        <person class="indexing_service">Checketts, Dave</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DA143CF935A15752C0A9669C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Checketts Tempers Optimism</hl1>
+      </hedline>
+      <dateline>PITTSBURGH, Jan. 25</dateline>
+      <abstract>
+        <p>Madison Square Garden's president Dave Checketts, giving his midseason state of Rangers address, expresses optimism amid caution concerning team's future (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Madison Square Garden's president, Dave Checketts, giving his midseason state of the Rangers address before tonight's game against the Pittsburgh Penguins, expressed optimism amid some cautious words.</p>
+        <p>''I believe this is a playoff team,'' he said, adding, ''I'm not sure you can judge this team just yet.''</p>
+      </block>
+      <block class="full_text">
+        <p>Madison Square Garden's president, Dave Checketts, giving his midseason state of the Rangers address before tonight's game against the Pittsburgh Penguins, expressed optimism amid some cautious words.</p>
+        <p>''I believe this is a playoff team,'' he said, adding, ''I'm not sure you can judge this team just yet.''</p>
+        <p>On the suggestions earlier this season that either Coach John Muckler was not the right man for the job or the team's president and general manager, Neil Smith, had concocted the wrong mix with a league-record $60 million payroll, Checketts said: ''No, I didn't buy into either one. I buy into the notion that it's a very long season.''</p>
+        <p>Checketts was asked if Muckler or Smith could lose his job if the Rangers did not make the playoffs. ''That's a theoretical question,'' he said. ''We'll cross that bridge when we come to it. But right now, it's a team that's really coming together.''</p>
+        <p>As for the talk that both Muckler and Smith had been in danger of losing their jobs, Checketts said, ''There's never any panic here.''</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

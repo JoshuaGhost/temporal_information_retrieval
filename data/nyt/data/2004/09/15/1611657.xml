@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GRAHAM, JULIE</title>
+    <meta content="DN091504" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1611657"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">GRAHAM, JULIE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E2DC1E30F936A2575AC0A9629C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GRAHAM, JULIE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GRAHAM--Julie, 56, of Brooklyn, N.Y., died September 12. A passionate artist, graphic designer and devoted teacher, she colored the lives of her family and friends with her wit, strength and friendship. She is survived by her husband Stephen Truslow, her son Eric, and a loving circle of family and friends. Memorial 12 noon, September 26th, 181 Lincoln Pl., Brooklyn. Gifts to The Julie Graham Art Fund, Berkeley Carroll School, 808 Union St., Brooklyn, New York 11217.</p>
+      </block>
+      <block class="full_text">
+        <p>GRAHAM--Julie, 56, of Brooklyn, N.Y., died September 12. A passionate artist, graphic designer and devoted teacher, she colored the lives of her family and friends with her wit, strength and friendship. She is survived by her husband Stephen Truslow, her son Eric, and a loving circle of family and friends. Memorial 12 noon, September 26th, 181 Lincoln Pl., Brooklyn. Gifts to The Julie Graham Art Fund, Berkeley Carroll School, 808 Union St., Brooklyn, New York 11217.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

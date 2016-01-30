@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="764541"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DIVORCE, SEPARATIONS AND ANNULMENTS</classifier>
+        <person class="indexing_service">MERRICK, DAVID</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">SAXE, DAVID B (JUDGE)</person>
+        <person class="indexing_service">MERRICK, ETAN</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Divorce, Separations and Annulments</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D91338F937A15756C0A963958260" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A judge ruled yesterday that ETAN MERRICK, the third and fifth wife of the Broadway producer DAVID MERRICK, is entitled to a divorce on the ground that she was abandoned by her husband -- even though they weren't living together.</p>
+        <p>A State Supreme Court justice, DAVID B. SAXE, found that Mr. Merrick abandoned his wife in November 1988 when he barred her from his apartment on East 57th Street. Mr. Merrick, 83, had moved out of their town house in fall 1985 because he had difficulty climbing the stairs; Mrs. Merrick stayed in the house.</p>
+        <p>In 1988, while living apart, the couple planned to adopt two infants. After Mr. Merrick tried to back out of the agreement, an appeals court ordered him to support the children.</p>
+      </block>
+      <block class="full_text">
+        <p>A judge ruled yesterday that ETAN MERRICK, the third and fifth wife of the Broadway producer DAVID MERRICK, is entitled to a divorce on the ground that she was abandoned by her husband -- even though they weren't living together.</p>
+        <p>A State Supreme Court justice, DAVID B. SAXE, found that Mr. Merrick abandoned his wife in November 1988 when he barred her from his apartment on East 57th Street. Mr. Merrick, 83, had moved out of their town house in fall 1985 because he had difficulty climbing the stairs; Mrs. Merrick stayed in the house.</p>
+        <p>In 1988, while living apart, the couple planned to adopt two infants. After Mr. Merrick tried to back out of the agreement, an appeals court ordered him to support the children.</p>
+        <p>Mr. Merrick's lawyer said he was likely to appeal the divorce ruling. NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

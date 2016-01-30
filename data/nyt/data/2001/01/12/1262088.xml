@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Death-Row Lawyer</title>
+    <meta content="L12DEA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/12/opinion/L12DEA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1262088"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <location class="indexing_service">Louisiana</location>
+        <person class="indexing_service">Burrell, Albert Ronnie</person>
+        <person class="indexing_service">Graham, Michael Ray Jr</person>
+        <person class="indexing_service">Fournet, M Michele</person>
+        <person class="indexing_service">Holdridge, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD1F3AF931A25752C0A9679C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Death-Row Lawyer</hl1>
+      </hedline>
+      <abstract>
+        <p>M Michele Fournet letter says legal work by John Holdridge exonerated Louisiana death-row inmates Michael Ray Graham Jr and Albert Ronnie Burrell</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Two Death-Row Inmates Exonerated in Louisiana'' (news article, Jan. 6):</p>
+        <p>Brilliant legal work in the companion cases of Michael Ray Graham Jr. and Albert Ronnie Burrell by John Holdridge, a New York University Law School graduate, is primarily responsible for the release of both inmates.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Two Death-Row Inmates Exonerated in Louisiana'' (news article, Jan. 6):</p>
+        <p>Brilliant legal work in the companion cases of Michael Ray Graham Jr. and Albert Ronnie Burrell by John Holdridge, a New York University Law School graduate, is primarily responsible for the release of both inmates.</p>
+        <p>Mr. Holdridge, whom I assisted in representing Mr. Graham, left a promising career with a Wall Street law firm to come to Louisiana to work as a capital defense lawyer.</p>
+        <p>Few Americans know that some of the best legal minds in the country are, like Mr. Holdridge, doing this work exclusively and for only a subsistence income. They are the unsung heroes in the fight against the death penalty, the most outrageous human rights violation in the civilized world.</p>
+        <p>M. MICHELE FOURNET  Baton Rouge, La., Jan. 8, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

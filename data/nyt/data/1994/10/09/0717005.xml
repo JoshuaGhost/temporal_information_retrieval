@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Executive Computer; At Last! Software That Can Translate This Into This</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="717005"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">HANDWRITING</classifier>
+        <org class="indexing_service">PALM COMPUTING INC</org>
+        <person class="indexing_service">FLYNN, LAURIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handwriting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2DA103DF93AA35753C1A962958260" item-length="1324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Executive Computer; At Last! Software That Can Translate This Into This</hl1>
+      </hedline>
+      <byline class="print_byline">By Laurie Flynn</byline>
+      <byline class="normalized_byline">FLYNN, LAURIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS conceived, the ability to use a pen instead of a keyboard was to be the reason business executives would rush out to buy the new class of computing equipment known as personal digital assistants, or P.D.A.'s. As practiced, handwriting recognition became the reason not to buy one.</p>
+        <p>After all, who could afford to use a device that might interpret "Back at 11" as "Racket H"? Gibberish like this was a reason that Apple Computer's Newton Message Pad sold a scant 100,000 units in its first year.</p>
+      </block>
+      <block class="full_text">
+        <p>AS conceived, the ability to use a pen instead of a keyboard was to be the reason business executives would rush out to buy the new class of computing equipment known as personal digital assistants, or P.D.A.'s. As practiced, handwriting recognition became the reason not to buy one.</p>
+        <p>After all, who could afford to use a device that might interpret "Back at 11" as "Racket H"? Gibberish like this was a reason that Apple Computer's Newton Message Pad sold a scant 100,000 units in its first year.</p>
+        <p>Little wonder that the latest P.D.A.'s -- Sony Electronics' new Magic Link PIC 1000 and Motorola's coming Envoy -- emphasize electronic messaging and ignore handwriting recognition. The devices rely a selection of preset choices and "electronic ink," which stores handwritten notes as just that -- handwritten notes.</p>
+        <p>Other P.D.A. developers are similarly de-emphasizing the role of handwriting recognition, at least for now. The Microsoft Corporation has two initiatives for developing what Bill Gates has long described as a "wallet PC." Neither device, Mr. Gates recently told an audience of industry executives, will depend too much on handwriting recognition.</p>
+        <p>But pen entry remains an industry goal, if for no other reason than because pens are more portable than keyboards. And at least one company has tackled the handwriting recognition problem anew, coming up with Graffiti, a system that is winning critical praise for its ability to quickly and accurately recognize letters drawn directly on the screen with an electronic stylus.</p>
+        <p>In the coming months, the technology will find its way onto Sony's new Magic Link PIC 1000, the Envoy, the existing LX line of digital assistants from the Hewlett-Packard Company and the Zoomer, produced by an alliance of the Tandy Corporation and Casio. And, notably, there's a version in the works for the Apple Newton and whatever Microsoft eventually comes up with.</p>
+        <p>"Had Newton had Graffiti it certainly would have taken the pain out of the reception," said Larry Sennett, a spokesman for Hewlett-Packard, the market leader in P.D.A.'s.</p>
+        <p>Hewlett-Packard is considering licensing Graffiti for its best-selling line of hand-held computers, known as the LX series, which have not yet offered pen entry. Instead, the LX's rely on tiny keyboards that can make even the most dexterous user feel ham-fisted if entering anything more than snatches of text.</p>
+        <p>But Hewlett-Packard believes it may have found an effective pen-entry system in Graffiti. "It does not appear to force compromises," Mr. Sennett said. "It is extremely accurate."</p>
+        <p>Graffiti is now reaching the market as a $79 software package that users of the various P.D.A.'s will be able to install in their devices. The software is the creation of Palm Computing Inc., a small, privately held company, in Los Altos, Calif., which sells applications software for P.D.A.'s, like its Palm Organizer, a combination personal calendar and phone file for Tandy's Zoomer.</p>
+        <p>The main problem with most handwriting-recognition systems so far has been that they've forced the computer to adapt to the infinite number of human styles of printing. In systems using letter-by-letter translation, the software typically stumbles trying to figure out whether an S is really a 5, or a Z is in fact a 2. A dictionary-based approach, meanwhile, works somewhat like a spell-checker in a word processor, comparing words it cannot recognize to a dictionary for verification and correction. But the software often guesses wrong, as the Newton has demonstrated to comic effect.</p>
+        <p>In the current version of the Newton, the user and machine are supposed to meet halfway: the user has to write exactly the same way every time, and the machine must "learn" the user's style. Even then the system quite often fails.</p>
+        <p>With Graffiti, the onus is on the user to adapt to the machine. The program has revamped the standard alphabet, forcing the user to make slight modifications to each individual character of the alphabet so that each one is distinctly different from the next. An A is written without the crossbar, for example; a T looks like an inverted L.</p>
+        <p>Such an approach eliminates some of the quirks of individual penmanship styles that confuse handwriting recognition systems. Once the user gets the hang of the alphabet, the system can achieve nearly 100 percent accuracy, says Jeff Hawkins. Mr. Hawkins founded Palm in 1991 after working on pen-based computers for Grid Systems, which is now owned by AST Research.</p>
+        <p>Many people will probably find Graffiti's alphabet an easy set of characters to learn. The company says most users are functional with the system in about 20 minutes and proficient after a few hours of practice. As it turns out, only six letters, including the A and the T, are very different from the normal way of printing them.</p>
+        <p>"It's not that we're saying we have fast handwriting recognition," said Ed Colligan, Palm's vice president of marketing. "What we have is text entry that works."</p>
+        <p>But moving beyond the basic 26 letters of the alphabet things get a little trickier in Graffiti. When it comes to upper- and lower-case letters, for instance, the problem is handled the same way it is on a typewriter -- by shifting. Only in this case, the shift "key" is a vertical line drawn from the baseline up. Shifting is also used before writing a punctuation mark.</p>
+        <p>Despite its quirks, Graffiti is finding favor among computer industry analysts and the growing list of manufacturers interested in using it with their products.</p>
+        <p>"If handwriting was your problem this will solve it," said William Lempesis, publisher of the industry newsletter Pen Vision News. "It's going to get some people to take their Zoomers and Newtons out of the closet." Mr. Lempesis has been using Graffiti for several months .</p>
+        <p>A big advantage to Graffiti is that it allows users to write in a window the size of a postage stamp at one side of the screen. Letters are written atop one another, each disappearing to give way to the next, as the characters and words are quickly translated to text that arranges itself line by line upon the larger screen as if typed from a keyboard.</p>
+        <p>This input window could make Graffiti an important development for devices smaller than P.D.A.'s -- like the two-way pagers that are expected to reach the market next year. Although the same size as the roughly 20 million one-way pagers in use today, two-way pagers, with tiny display screens, will allow the recipient of the page to answer with a quick note. The problem today is how to input that answer.</p>
+        <p>Being able to jot a quick message with a system like Graffiti would have obvious advantages over some of the other approaches now being explored by the paging industry. The alternatives now under consideration by Motorola and other companies include offering a menu of possible responses -- like "I'll be 10 minutes late" or "Flight delayed" -- and leaving the user to pick the most appropriate one.</p>
+        <p>"This solves the problem of getting data in through a one-inch screen," said William Frezza, president of Wireless Computing Associates, a consulting firm in Yardley, Penn. "And the smaller you get the more important it is."</p>
+        <p>Still, it may be too much to expect people to adapt their styles to a computer's. If P.D.A.'s are going to flourish, some analysts contend, they'll have to be as easy and natural to use as the telephone. Not every executive is going to be willing to take two hours to learn a new way of writing the alphabet.</p>
+        <p>But Palm officials maintain that if users want small devices, they'll learn to adapt. Many analysts agree, if for no other reason than the lack of clearly superior alternatives to Graffiti right now.</p>
+        <p>"It's very quick, but it's not as quick as a keyboard," said John Fisher, a computer consultant in Berkeley, Calif., who was an early tester of Graffiti. "But if you're using a keyboard you're not using a pocket-sized P.D.A."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Abbe, Jim Taylor</title>
+    <meta content="31ABBE$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/31/fashion/weddings/31ABBE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1515888"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ABBE, SARAH JUNGGREN</person>
+        <person class="indexing_service">TAYLOR, DR. JIM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE2D81F39F932A0575BC0A9659C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Abbe, Jim Taylor</hl1>
+        <hl2 class="online_headline">Sarah Abbe, Jim Taylor</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Junggren Abbe and Dr. Jim Taylor are to be married today at the home of the bride's father in Healdsburg, Calif. Gerald Sindell, who has received permission from Marin County to perform the ceremony, is to officiate.</p>
+        <p>Ms. Abbe, 34, is keeping her name. Until July she was the West Coast fund-raiser for Accion International, a nonprofit organization in Boston that provides financial support and training to small businesses. She graduated from Cornell University and received a master's degree in public affairs from Princeton.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah Junggren Abbe and Dr. Jim Taylor are to be married Sunday at the home of the bride's father in Healdsburg, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Junggren Abbe and Dr. Jim Taylor are to be married today at the home of the bride's father in Healdsburg, Calif. Gerald Sindell, who has received permission from Marin County to perform the ceremony, is to officiate.</p>
+        <p>Ms. Abbe, 34, is keeping her name. Until July she was the West Coast fund-raiser for Accion International, a nonprofit organization in Boston that provides financial support and training to small businesses. She graduated from Cornell University and received a master's degree in public affairs from Princeton.</p>
+        <p>The bride's father, Charles Junggren Abbe, retired as the president and chief operating officer of the J.D.S. Uniphase Corp., an optical technology company in San Jose, Calif. Her mother, Kate Abbe of Woodside, Calif., is an editor and publisher. The bride is the stepdaughter of Kären Dean Abbe.</p>
+        <p>Dr. Taylor, 44, is a psychologist, public speaker and author, whose most recent book, ''Positive Pushing: How to Raise a Successful and Happy Child,'' was published by Hyperion in 2002. He graduated from Middlebury College and received a Ph.D. in psychology from the University of Colorado at Boulder.</p>
+        <p>The bridegroom is the son of Ceci and Shel Taylor of Avon, Conn. His mother retired as a professor of dance at St. Joseph College in West Hartford, Conn. His father is a massage therapist at the University of Connecticut Health Center in Farmington, Conn.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

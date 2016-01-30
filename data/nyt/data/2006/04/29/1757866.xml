@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; A True Survivor</title>
+    <meta content="29arts-3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757866"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <org class="indexing_service">Cbs Broadcasting Inc</org>
+        <person class="indexing_service">Aurthur, Kate</person>
+        <object.title class="indexing_service">Survivor (TV Program)</object.title>
+        <object.title class="indexing_service">Csi (TV Program)</object.title>
+        <object.title class="indexing_service">Without A Trace (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DA103FF93AA15757C0A9609C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; A True Survivor</hl1>
+      </hedline>
+      <byline class="print_byline">By KATE AURTHUR; Compiled by Ben Sisario</byline>
+      <byline class="normalized_byline">Aurthur, Kate</byline>
+      <abstract>
+        <p>CBS wins ratings for Thursday night with shows Survivor, CSI and Without a Trace (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Terry Deitz, an airline pilot, has been unbeatable on this season's ''Survivor'' on CBS, having succeeded in all four individual immunity challenges (competitions that prevent the winner from being voted off during that episode). The streak was a necessity for Mr. Deitz; otherwise, he would surely have been voted off by now. Thursday's episode perked up in the ratings compared with its record in recent weeks, bringing in 17.1 million viewers in the Nielsen estimates. After ''Survivor'' won the 8 p.m. hour, CBS's ''CSI'' (26.9 million) had a ''Rashomon''-like structure, with each detective reconstructing a crime scene that had been robbed of evidence. ''CSI'' crushed its competition in the 9 p.m. hour, most notably ABC's ''American Inventor'' (7.3 million) and NBC's ''My Name Is Earl'' (8.9 million) and ''The Office'' (7.7 million). The ratings of those two NBC comedies among viewers 18 to 49 have gradually declined since they moved to Thursdays in January. At 10 p.m., ''Without a Trace'' (17.9 million) gave CBS another hourly win, and handed the network a big victory on the first night of the May sweeps period.</p>
+        <p>KATE AURTHUR</p>
+      </block>
+      <block class="full_text">
+        <p>Terry Deitz, an airline pilot, has been unbeatable on this season's ''Survivor'' on CBS, having succeeded in all four individual immunity challenges (competitions that prevent the winner from being voted off during that episode). The streak was a necessity for Mr. Deitz; otherwise, he would surely have been voted off by now. Thursday's episode perked up in the ratings compared with its record in recent weeks, bringing in 17.1 million viewers in the Nielsen estimates. After ''Survivor'' won the 8 p.m. hour, CBS's ''CSI'' (26.9 million) had a ''Rashomon''-like structure, with each detective reconstructing a crime scene that had been robbed of evidence. ''CSI'' crushed its competition in the 9 p.m. hour, most notably ABC's ''American Inventor'' (7.3 million) and NBC's ''My Name Is Earl'' (8.9 million) and ''The Office'' (7.7 million). The ratings of those two NBC comedies among viewers 18 to 49 have gradually declined since they moved to Thursdays in January. At 10 p.m., ''Without a Trace'' (17.9 million) gave CBS another hourly win, and handed the network a big victory on the first night of the May sweeps period.</p>
+        <p>KATE AURTHUR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kirshenbaum Bond Awarded Timex</title>
+    <meta content="MB235433" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1449504"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFD8143DF934A25751C1A9649C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kirshenbaum Bond Awarded Timex</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Timex Corporation in Middlebury, Conn., has awarded its account to Kirshenbaum Bond &amp; Partners in New York, part of the Kirshenbaum Bond Creative Network. Billings were estimated at $6 million to $10 million.</p>
+        <p>The decision came after a two-month review that had been narrowed to Kirshenbaum Bond and two others: Modernista in Boston, and the New York office of Bartle Bogle Hegarty, which is 49 percent owned by the Publicis Groupe..</p>
+      </block>
+      <block class="full_text">
+        <p>The Timex Corporation in Middlebury, Conn., has awarded its account to Kirshenbaum Bond &amp; Partners in New York, part of the Kirshenbaum Bond Creative Network. Billings were estimated at $6 million to $10 million.</p>
+        <p>The decision came after a two-month review that had been narrowed to Kirshenbaum Bond and two others: Modernista in Boston, and the New York office of Bartle Bogle Hegarty, which is 49 percent owned by the Publicis Groupe..</p>
+        <p>The review, which was managed by Pile &amp; Company in Boston, began when Timex unexpectedly parted ways with its agency of 16 years, the Minneapolis office of Fallon Worldwide, also part of Publicis.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holliston Hill Wed in South</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="519337"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HILL, HOLLISTON (HOLLISTON HURD)</person>
+        <person class="indexing_service">HURD, CHRISTOPHER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED71431F936A35757C0A964958260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holliston Hill Wed in South</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Holliston Hill, the daughter of Mr. and Mrs. John R. Hill of Hendersonville, N.C., was married there yesterday to Christopher Hurd, a son of Peter K. Hurd of Huntington Bay, L.I., and Imogene Hurd of West Islip, L.I. The Rev. Paul Stricklin performed the Episcopal service at the Chapel of the Transfiguration.</p>
+        <p>Mrs. Hurd manages the New York office of Hill Financial Corporation, a money-management firm with headquarters in Hendersonville of which her father is chairman. She graduated from Simmons College.</p>
+      </block>
+      <block class="full_text">
+        <p>Holliston Hill, the daughter of Mr. and Mrs. John R. Hill of Hendersonville, N.C., was married there yesterday to Christopher Hurd, a son of Peter K. Hurd of Huntington Bay, L.I., and Imogene Hurd of West Islip, L.I. The Rev. Paul Stricklin performed the Episcopal service at the Chapel of the Transfiguration.</p>
+        <p>Mrs. Hurd manages the New York office of Hill Financial Corporation, a money-management firm with headquarters in Hendersonville of which her father is chairman. She graduated from Simmons College.</p>
+        <p>Mr. Hurd is an assistant vice president of Garban Securities, a New York securities brokerage. He graduated from St. Lawrence University. His mother teaches English at West Islip High School. His father is the president of Sunrise Outdoor Advertising in Huntington Bay.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

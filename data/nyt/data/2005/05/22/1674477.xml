@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Decoding Health Insurance</title>
+    <meta content="22COOK" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/05/22/opinion/22cook.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1674477"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Cook, Robin</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4DE1539F931A15756C0A9639C8B63" item-length="1374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Decoding Health Insurance</hl1>
+        <hl2 class="online_headline">Decoding Health Insurance</hl2>
+      </hedline>
+      <byline class="print_byline">By Robin Cook</byline>
+      <byline class="normalized_byline">Cook, Robin</byline>
+      <dateline>Boston</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEARLY five years ago, President Bill Clinton had an all-star gathering at the White House to announce the completion of the first draft of the human genome's approximately 3.2 billion base pairs. Speaking to an audience that included eminent scientists like Dr. James Watson, who helped discover DNA, Mr. Clinton pronounced that ''today we are learning the language in which God created life.'' Prime Minister Tony Blair of Britain chimed in via satellite, ''For most of us, today's developments are too awesome to comprehend.''</p>
+        <p>Turns out that Mr. Blair was right, although not quite in the way that he intended. Despite the high-flying talk and the abundant news media coverage of the announcement, the public greeted the event with vague interest, a touch of bewilderment, varying degrees of ennui -- and then quickly forgot about it. This general indifference to one of science's landmark achievements has persisted even as the science and technology involved have yielded some remarkable discoveries. We now know, for example, that a vast majority of our genome is composed of repetitive nonsense sequences, and that instead of humans having the 100,000-plus genes previously predicted, we have somewhere in the neighborhood of 25,000, many of which we share with all other living things, a fact that anchors us firmly in the process of evolution (whether a creative intelligence was involved or not).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The genomic case for universal health coverage.</p>
+      </block>
+      <block class="full_text">
+        <p>NEARLY five years ago, President Bill Clinton had an all-star gathering at the White House to announce the completion of the first draft of the human genome's approximately 3.2 billion base pairs. Speaking to an audience that included eminent scientists like Dr. James Watson, who helped discover DNA, Mr. Clinton pronounced that ''today we are learning the language in which God created life.'' Prime Minister Tony Blair of Britain chimed in via satellite, ''For most of us, today's developments are too awesome to comprehend.''</p>
+        <p>Turns out that Mr. Blair was right, although not quite in the way that he intended. Despite the high-flying talk and the abundant news media coverage of the announcement, the public greeted the event with vague interest, a touch of bewilderment, varying degrees of ennui -- and then quickly forgot about it. This general indifference to one of science's landmark achievements has persisted even as the science and technology involved have yielded some remarkable discoveries. We now know, for example, that a vast majority of our genome is composed of repetitive nonsense sequences, and that instead of humans having the 100,000-plus genes previously predicted, we have somewhere in the neighborhood of 25,000, many of which we share with all other living things, a fact that anchors us firmly in the process of evolution (whether a creative intelligence was involved or not).</p>
+        <p>Of course, people can perhaps be forgiven for not wanting to recognize that they don't have many more genes than round worms or fruit flies -- a blow to humanity's ego that's about as powerful as Copernicus's discovery that the earth revolved around the sun instead of vice versa.</p>
+        <p>As a doctor schooled to some degree in science, I believed (and still do) that decoding the human genome might be the most important milestone in the history of medical science. To borrow Mr. Clinton's metaphor, the full genome offers researchers the sequence of all the letters of the human book of life, a monumental resource despite our imperfect understanding of the book's overarching, mind-boggling complexity. As decoding gathers speed, it promises to change just about everything we know about medicine in the form of understanding, prediction, prevention, diagnosis and the treatment of disease. And in so doing, it also offers us a remarkable opportunity to solve the huge and nettlesome problem of paying for health care in the United States.</p>
+        <p>Public skepticism of such grandiose statements is understandable. After all, you might say: ''Where are all the touted breakthroughs, the miracle drugs and diagnostic tests, predicted five years ago? Finding out that humans have about the same number and some of the same genes as a worm may be interesting to somebody, but it's hardly a health care revolution, much less worth the more than $3 billion that have so far been spent on decoding.''</p>
+        <p>Well, the drugs are not here yet, although they are on the horizon. But that doesn't diminish the broader fact that the rapidly developing fields of genomics and bioinformatics hold enormous promise. In simple terms, genomics is the study of the flow of information in a cell orchestrated by the genome, while bioinformatics is the application of computers to make sense of the enormous amount of data coming from genomics.</p>
+        <p>Knowledge of the genome has greatly improved our ability to predict an individual's predilection for a host of diseases. Thousands upon thousands of markers have been identified throughout the genome and linked to particular mutated, deleterious genes associated with specific medical problems. The presence of these markers can be determined by placing a single drop of blood onto a particular type of slide called a microarray. Microarrays, in turn, are read automatically by laser scanners and the results, thanks to bioinformatics, can be analyzed instantly by computers armed with appropriate software and statistical data.</p>
+        <p>The importance of a rapid increase in prognostic ability is underlined by the growing understanding that every disease has a greater or lesser genetic component. Patients can now avail themselves of preventive measures or treatment even before symptoms occur. But there is a down side. First of all, we can predict more and more diseases that are associated with progressive disability and death and which have, as of yet, no treatment. Finding a marker linked to such an illness is thus the cruel equivalent of an extended death sentence. Understandably many people would not want such a test and would hardly classify having one as a positive health care breakthrough.</p>
+        <p>Another, and possibly more important, negative consequence of this new ability to predict illness is the potential for discrimination in one form or another if confidential health information is released. Unfortunately the chances of such a breach of privacy occurring, despite lip service by politicians to prevent it legislatively, are probably inevitable. Not only is microarray technology easily accessible, but for-profit private insurance companies have strong incentives to use it to protect their bottom lines by denying service, claims or even coverage.</p>
+        <p>It is precisely this danger, however, that may lead to a great breakthrough: the inevitable movement to universal health care. In this dawning era of genomic medicine, the result may be that the concept of private health insurance, which is based on actuarially pooling risk within specified, fragmented groups, will become obsolete since risk cannot be pooled if it can be determined for individual policyholders. Genetically determined predilection for disease will become the modern equivalent of the ''pre-existing condition'' that private insurers have stringently avoided.</p>
+        <p>As a doctor I have always been against health insurance except for catastrophic care and for the very poor. It has been my experience that the doctor-patient relationship is the most personal and rewarding for both the patient and the doctor when a clear, direct fiduciary relationship exists. In such a circumstance, both individuals value the encounter more, which invariably leads to more time, more attention to potentially important details, and a higher level of patient compliance and satisfaction -- all of which invariably result in a better outcome.</p>
+        <p>But with the end of pooling risk within defined groups, there is only one solution to the problem of paying for health care in the United States: to pool risk for the entire nation. (Under the rubric of health care I mean a comprehensive package that includes preventive care, acute care and catastrophic care.) Although I never thought I'd advocate a government-sponsored, obviously non-profit, tax-supported, universal access, single-payer plan, I've changed my mind: the sooner we move to such a system, the better off we will be. Only with universal health care will we be able to pool risk for the entire country and share what nature has dealt us; only then will there be no motivation for anyone or any organization to ferret out an individual's confidential, genetic makeup.</p>
+        <p>There are plenty of compelling arguments for a national, single-payer, universal access plan -- like every developed industrialized country has one. But those arguments have so far seemed insufficient. And none of them is nearly as cogent and persuasive as the growing impact of genomics and bioinformatics. Of course, far too many wealthy stakeholders in the current system (thanks to 15 percent of our gross domestic product being thrown at health care) are eager to lobby members of Congress to keep things as they are. The basic challenge is to blast the public and their elected representatives out of their shared apathy toward what the decipherment of the human genome has brought.</p>
+        <p>The day after the White House ceremony in 2000, one letter-writer to this newspaper expressed the wish that the United States would devote the same amount of enthusiasm and resources that it had expended on the human genome project toward the goal of ''assuring access to basic medical care for all Americans.'' If the money spent on the genome ends up achieving that health care goal, that wish may yet come true.</p>
+        <p>Op-Ed Contributor Robin Cook is a medical doctor and the author, most recently, of the novel ''Marker.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Robin Cook is a medical doctor and the author, most recently, of the novel ''Marker.''</tagline>
+    </body.end>
+  </body>
+</nitf>

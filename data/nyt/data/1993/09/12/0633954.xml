@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Liberte, Egalite, Sororite</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="633954"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">MANTEL, HILARY</person>
+        <person class="indexing_service">YALOM, MARILYN</person>
+        <object.title class="indexing_service">BLOOD SISTERS: THE FRENCH REVOLUTION IN WOMEN'S MEMORY (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC123AF931A2575AC0A965958260" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Liberte, Egalite, Sororite</hl1>
+      </hedline>
+      <byline class="print_byline">By Hilary Mantel;</byline>
+      <byline class="normalized_byline">MANTEL, HILARY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLOOD SISTERS The French Revolution in Women's Memory. By Marilyn Yalom. Illustrated. 308 pp. New York: Basic Books.</p>
+      </block>
+      <block class="full_text">
+        <p>BLOOD SISTERS The French Revolution in Women's Memory. By Marilyn Yalom. Illustrated. 308 pp. New York: Basic Books.</p>
+        <p>WHEN the bright complexion had faded and the fabled honey-colored hair had turned white, Marie Antoinette in her prison cell borrowed from a servant girl a little hand mirror, which had cost 25 sous. It was through Rosalie Lamorliere's mirror that the Queen of France saw her face for the last time. Rosalie could not read or write, but more than 40 years later she dictated a memoir of Marie Antoinette's last days. Through Rosalie's eyes we see everything: the last cup of bouillon, the blood-stained undergarments, the high-heeled shoes carefully preserved for the journey to the scaffold.</p>
+        <p>This dark account, made darker by its intimacy, is one of the stories of the French Revolution's female chroniclers brought together by Marilyn Yalom in "Blood Sisters: The French Revolution in Women's Memory." The narrators are always conscious of the human face of history's victims. Most of them are aristocrats, a few are peasant women; reactionaries predominate, perhaps because the revolution killed off so many of its supporters.</p>
+        <p>Ms. Yalom, a senior scholar at the Institute for Women and Gender at Stanford University, is right to insist that the women of the era have their own story and that it is not the same as the male version, but she is right only up to a point. It is true that until recently it was the battlefield and not the bread line that commanded our attention. Still, it is odd of her to claim that the memoirs of the women of the period "have never been fully appreciated for their historical, literary and moral worth." For years readers have been entranced by the memoirs of Henriette de la Tour du Pin: by her witty account of life at Versailles, by the resourcefulness and bravery with which she faced exile and a new life in America. Mme. Roland's self-glorifying but astonishingly frank autobiography is well known to the historians. And no biographer of Robespierre can manage without the memoirs of his sister Charlotte.</p>
+        <p>So perhaps the chief interest of this book lies in the less familiar stories: the cross-dressing soldier heroines of the civil war in the Vendee, the strange experience of the Marquise de La Rochejaquelein. On Aug. 10, 1792, the day the monarchy fell, the Marquise -- who was seven months pregnant at the time -- crossed the city disguised as a working woman. Caught up in a mob, she was astonished to hear herself begin to yell with them: to scream for fires to be set and bay for the sound of broken glass. Two centuries later, her astonishment comes fresh off the page.</p>
+        <p>Still, are they blood sisters, the Marquise and her natural enemies? We owe respect to the dead; and it is a harsh fate for these women -- such eloquent, individual women -- to be made the fodder for feminist theory. Would Charlotte Robespierre, who loved her brother, have agreed to become the posthumous "sister" of those who gloated at his sickeningly painful death? Would Marie Antoinette have been polite to Rosalie, outside that prison cell?</p>
+        <p>Hilary Mantel's most recent novel, "A Place of Greater Safety," is about Robespierre, Danton and Camille Desmoulins, and their sisters, lovers and wives.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hilary Mantel's most recent novel, "A Place of Greater Safety," is about Robespierre, Danton and Camille Desmoulins, and their sisters, lovers and wives.</tagline>
+    </body.end>
+  </body>
+</nitf>

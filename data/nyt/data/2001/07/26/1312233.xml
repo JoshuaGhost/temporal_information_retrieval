@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E-Mail on Your Watch, If You've Got the Time</title>
+    <meta content="26GEE1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/07/26/technology/circuits/26GEE1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1312233"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Watches and Clocks</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Paging Systems</classifier>
+        <org class="indexing_service">Timex</org>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Baer, Adam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paging Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Yahoo! Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E7D8163DF935A15754C0A9679C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E-Mail on Your Watch, If You've Got the Time</hl1>
+        <hl2 class="online_headline">E-Mail on Your Watch, If You've Got the Time</hl2>
+      </hedline>
+      <byline class="print_byline">By ADAM BAER</byline>
+      <byline class="normalized_byline">Baer, Adam</byline>
+      <abstract>
+        <p>Timex introduces Internet Messenger watch which enables reception of instant messages, numerical and text pages, Internet e-mail and Yahoo updates on stocks, weather, news and sports; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Back in the 1930's, when Dick Tracy phoned friends with his wristwatch telephone, high-tech dreams flooded the comics. But Dick Tracy couldn't receive an electronic message like ''Hey, Tracy: LOL! Signed, Pruneface.''</p>
+        <p>Timex's new Internet Messenger watch enables the user to receive not only baffling instant messages on his wrist but also numerical and text pages, Internet e-mail, and Yahoo updates on stocks, weather, news and sports. The watch, which costs $119, harnesses technology from Motorola and SkyTel to receive and store up to 16 messages or 1,350 total characters. Messages of up to 100 characters scroll across the bottom of the face.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>E-Mail on Your Watch, If You've Got the Time Back in the 1930's, when Dick Tracy phoned friends with his wristwatch telephone, high-tech dreams flooded the comics. But Dick Tracy couldn't receive an electronic message like "Hey, Tracy: LOL! Signed, Pruneface.</p>
+      </block>
+      <block class="full_text">
+        <p>Back in the 1930's, when Dick Tracy phoned friends with his wristwatch telephone, high-tech dreams flooded the comics. But Dick Tracy couldn't receive an electronic message like ''Hey, Tracy: LOL! Signed, Pruneface.''</p>
+        <p>Timex's new Internet Messenger watch enables the user to receive not only baffling instant messages on his wrist but also numerical and text pages, Internet e-mail, and Yahoo updates on stocks, weather, news and sports. The watch, which costs $119, harnesses technology from Motorola and SkyTel to receive and store up to 16 messages or 1,350 total characters. Messages of up to 100 characters scroll across the bottom of the face.</p>
+        <p>The only catch is that to use the features, the customer must open an account with SkyTel, which costs $9.99 for the first 500 messages and assigns the user an address for Timex e-mail. The watch, which has the styling of Timex's Ironman Triathalon line, includes a nighttime backlight, a stopwatch and five alarm settings. It can also set and maintain the correct time wherever you are.</p>
+        <p>ADAM BAER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

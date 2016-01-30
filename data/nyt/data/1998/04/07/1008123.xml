@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Touch Therapy Wasn't Disproved; Ben Franklin's Example</title>
+    <meta content="LTR035237" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1008123"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <person class="indexing_service">Rosa, Emily</person>
+        <person class="indexing_service">Henderson, Arnold</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1D91E3AF934A35757C0A96E958260" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Touch Therapy Wasn't Disproved; Ben Franklin's Example</hl1>
+      </hedline>
+      <abstract>
+        <p>Arnold Henderson letter comments on April 1 article on paper by 11-year-old Emily Rosa that has raised new questions about effectiveness of therapeutic touch therapy; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Emily Rosa, whose experiments rebuffed the claims of alternative medicine to cure without touching (front page, April 1), follows a distinguished predecessor, Benjamin Franklin. In the late 1770's, Dr. Friedrich Anton Mesmer believed that he had discovered an ability to manipulate the new-found forces of electric and magnetic fields in the body for cures at a distance. His ability to throw Parisian ladies into swoons was a top draw at society soirees.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Emily Rosa, whose experiments rebuffed the claims of alternative medicine to cure without touching (front page, April 1), follows a distinguished predecessor, Benjamin Franklin. In the late 1770's, Dr. Friedrich Anton Mesmer believed that he had discovered an ability to manipulate the new-found forces of electric and magnetic fields in the body for cures at a distance. His ability to throw Parisian ladies into swoons was a top draw at society soirees.</p>
+        <p>Franklin, then in Paris, helped lead a scientific investigative panel. He,  too, used a barrier: a door with Mesmer supposedly behind it.</p>
+        <p>The sensitive ladies had their fits just as well with no Mesmer behind the door -- so long as they believed he was there. Animal magnetism as a long-distance force field went to the scrapheap of science, while Mesmer's face-to-face powers of suggestion helped inspire hypnotism (''mesmerism'').</p>
+        <p>ARNOLD HENDERSON  Highland Park, N.J., April 2, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

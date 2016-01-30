@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Market Place; Chicago Board is developing a system to trade in trash.</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="614608"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">FUTURES TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES</classifier>
+        <classifier class="indexing_service" type="descriptor">RECYCLING OF WASTE MATERIALS</classifier>
+        <org class="indexing_service">CHICAGO BOARD OF TRADE</org>
+        <org class="indexing_service">NATIONAL RECYCLING COALITION</org>
+        <person class="indexing_service">FEDER, BARNABY J</person>
+        <person class="indexing_service">DOUGHERTY, DAVID</person>
+        <object.title class="indexing_service">MARKET PLACE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Place</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recycling of Waste Materials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DB1131F932A25755C0A965958260" item-length="587" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Market Place; Chicago Board is developing a system to trade in trash.</hl1>
+      </hedline>
+      <byline class="print_byline">By Barnaby J. Feder</byline>
+      <byline class="normalized_byline">FEDER, BARNABY J</byline>
+      <dateline>CHICAGO</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE rise of environmentalism changed those who used to be known as junk and scrap dealers into "recyclers," but it did not give them an up-to-date marketplace. Now, a not-for-profit group dedicated to encouraging recycling and the Chicago Board of Trade, the nation's oldest agricultural commodities exchange, are about to attempt to impose some order.</p>
+        <p>The group, the Resource Advisory Council of the National Recycling Coalition, is made up of representatives of industry, environmental and civic organizations and was created under a grant from the Environmental Protection Agency to study barriers to recycling. It has recruited the Board of Trade to develop standardized, electronic methods for trading glass, plastics, paper and other goods. The aim is to give brokers and dealers better prices, fixed rules for settling disputes and more uniform standards than have existed to date.</p>
+      </block>
+      <block class="full_text">
+        <p>THE rise of environmentalism changed those who used to be known as junk and scrap dealers into "recyclers," but it did not give them an up-to-date marketplace. Now, a not-for-profit group dedicated to encouraging recycling and the Chicago Board of Trade, the nation's oldest agricultural commodities exchange, are about to attempt to impose some order.</p>
+        <p>The group, the Resource Advisory Council of the National Recycling Coalition, is made up of representatives of industry, environmental and civic organizations and was created under a grant from the Environmental Protection Agency to study barriers to recycling. It has recruited the Board of Trade to develop standardized, electronic methods for trading glass, plastics, paper and other goods. The aim is to give brokers and dealers better prices, fixed rules for settling disputes and more uniform standards than have existed to date.</p>
+        <p>There are currently well over 5,000 recycling collection programs nationwide, the council estimates. The biggest challenge facing many of them is excess supply, which has driven prices down to the point that many programs are far more expensive than their operators had anticipated. But the unregulated and volatile nature of dealing has also slowed the development of the markets.</p>
+        <p>"What we are doing is making new commodities," said David Dougherty, head of the council's market development committee. "Everyone has underestimated the difficulty."</p>
+        <p>The primary source of pricing information for most recycled goods has been weekly and monthly trade publications, which calculate the prices by polling traders.</p>
+        <p>The data often reflect bids and offers rather than actual deals and the terminology used to describe different grades of, say, waste paper, may mean different things in various parts of the country.</p>
+        <p>"The problems which currently frustrate commerce between collectors, processors and end users of recyclable materials are similar to those which plagued the grain market for which the Chicago Board of Trade was founded in 1848," said Patrick Arbor, the board's chairman.</p>
+        <p>The first materials for which the Board of Trade will attempt to create contracts are glass and PET and HDPE -- two plastics widely used by soft-drink companies and other packagers of consumer products. Newsprint is expected to be another early target. Some optimists predict trading will begin by the end of the year, but Board of Trade economists don't expect all the details to be worked out before next summer.</p>
+        <p>The Board of Trade plans to list the contracts on Project A, its electronic trading network, rather than attempt to trade them in its pits. There are no current plans to introduce related options or futures contracts.</p>
+        <p>Board of Trade officials described the move as a natural extension of their efforts to develop environmental products. The board in March held the first auction of sulfur dioxide emission allowances issued by the Environmental Protection Agency. Utilities that cannot meet stricter air pollution standards scheduled to take effect in stages beginning in 1995 can buy the allowances from others that have reduced emissions below the permitted levels.</p>
+        <p>On Wednesday, the board said that it would indefinitely postpone the second pollution allowance auction, scheduled for this month, because the E.P.A. has been unable get rid of bugs in the computer systems the agency has built for tracking the sales. The Board of Trade plans to begin trading futures contracts on the pollution permits next year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MGM GRAND IN $276 MILLION DEAL FOR PRIMADONNA</title>
+    <meta content="CN001011" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1061062"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Primadonna Resorts Inc</org>
+        <org class="indexing_service">Mgm Grand Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDE1E3EF933A25752C1A96E958260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MGM GRAND IN $276 MILLION DEAL FOR PRIMADONNA</hl1>
+      </hedline>
+      <abstract>
+        <p>MGM Grand Inc to acquire Primadonna Resorts Inc in stock transaction valued around $276 million; will assume about $325 million of Primadonna debt (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a further sign of casino industry consolidation, MGM Grand Inc. said yesterday that it would acquire Primadonna Resorts Inc. in a stock transaction valued around $276 million. MGM Grand will also assume about $325 million of Primadonna debt. MGM Grand, whose 5,000-room flagship hotel and casino is the largest in Las Vegas, Nev., will gain complete ownership of a second property there, the New York-New York Hotel and Casino, which it now owns jointly with Primadonna. Primadonna shareholders will receive 0.33 share of MGM Grand common stock for each of their shares. MGM will issue about 9.5 million shares of stock. MGM rose 93.75 cents today, to $29.0625, while Primadonna fell 25 cents, to $8.75.</p>
+      </block>
+      <block class="full_text">
+        <p>In a further sign of casino industry consolidation, MGM Grand Inc. said yesterday that it would acquire Primadonna Resorts Inc. in a stock transaction valued around $276 million. MGM Grand will also assume about $325 million of Primadonna debt. MGM Grand, whose 5,000-room flagship hotel and casino is the largest in Las Vegas, Nev., will gain complete ownership of a second property there, the New York-New York Hotel and Casino, which it now owns jointly with Primadonna. Primadonna shareholders will receive 0.33 share of MGM Grand common stock for each of their shares. MGM will issue about 9.5 million shares of stock. MGM rose 93.75 cents today, to $29.0625, while Primadonna fell 25 cents, to $8.75.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

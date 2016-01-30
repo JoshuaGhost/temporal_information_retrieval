@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ART IN REVIEW</title>
+    <meta content="RV001320" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1023990"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Johnson, Ken</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6D61E3AF931A25755C0A96E958260" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ART IN REVIEW</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews art show Art Club 2000: 'Night of the Living Dead Author,' at American Fine Arts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Art Club 2000  'Night of the Living Dead Author'  American Fine Arts  22 Wooster Street, SoHo  Through June 17</p>
+        <p>A famous essay by Roland Barthes and a cult horror movie inspired ''Night of the Living Dead Author,'' a sly, spare installation by the young collaborative pranksters known as Art Club 2000. The installation comically dramatizes the plight of the artist who accepts the argument of Barthes's 1967 essay ''The Death of the Author,'' that individual creativity matters far less than do institutional forces in determining the nature and meaning of modern art.</p>
+      </block>
+      <block class="full_text">
+        <p>Art Club 2000  'Night of the Living Dead Author'  American Fine Arts  22 Wooster Street, SoHo  Through June 17</p>
+        <p>A famous essay by Roland Barthes and a cult horror movie inspired ''Night of the Living Dead Author,'' a sly, spare installation by the young collaborative pranksters known as Art Club 2000. The installation comically dramatizes the plight of the artist who accepts the argument of Barthes's 1967 essay ''The Death of the Author,'' that individual creativity matters far less than do institutional forces in determining the nature and meaning of modern art.</p>
+        <p>After the death of the author, the artist, deprived of the life force enjoyed by old-fashioned creative types, lives on as a zombie, parasitically feeding off the fruits of the market-driven art world. In a photograph, group members present themselves as gray-faced ghouls, gnawing on human limbs like extras from ''Night of the Living Dead.''</p>
+        <p>The main installation offers a goofily melodramatic vision of the art world as a police state. In a room dimly lighted by revolving police lights, a phalanx of cardboard policemen, each wearing a sash labeled ''Punishing Enforcers of an Oppressive Regime,'' welcomes viewers into a room occupied by a leather-upholstered bench borrowed from the Leo Castelli Gallery. On the wall, an electric sign emits messages like ''Consumption determines production,'' ''When I hear the word checkbook I take out my culture'' and Art Club's own zombie manifesto.</p>
+        <p>It's hard to tell whether the group means to mock or advance late 1990's possibilities of ideological subversion, but in either case they've produced a funny and smart piece of satirical theater.</p>
+        <p>KEN JOHNSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wheat Soars on Sale to Egypt; Natural Gas Prices in Retreat</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="863568"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="FUTURES MARKETS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FUTURES AND OPTIONS TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES (FARES, FEES AND RATES)</classifier>
+        <classifier class="indexing_service" type="descriptor">GRAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">GAS(FUEL)</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <location class="indexing_service">EGYPT</location>
+        <location class="indexing_service">EGYPT</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Egypt</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Egypt</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5DA1139F933A25754C0A960958260" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wheat Soars on Sale to Egypt; Natural Gas Prices in Retreat</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wheat prices surged on the Chicago Board of Trade yesterday after Egypt bought more than 10 million bushels from the United States, ending a recent lull in export sales.</p>
+        <p>On other markets, natural gas prices fell after Hurricane Bertha turned north away from the Gulf of Mexico and production platforms there. Coffee prices also fell.</p>
+      </block>
+      <block class="full_text">
+        <p>Wheat prices surged on the Chicago Board of Trade yesterday after Egypt bought more than 10 million bushels from the United States, ending a recent lull in export sales.</p>
+        <p>On other markets, natural gas prices fell after Hurricane Bertha turned north away from the Gulf of Mexico and production platforms there. Coffee prices also fell.</p>
+        <p>Egypt, the world's largest wheat importer, bought 300,000 metric tons of American grain for delivery before the end of August, the Egyptian Embassy in Washington said. Traders said Pakistan was seeking 7.4 million bushels of wheat  while Morocco wanted 2.57 million bushels.</p>
+        <p>"Egypt took a little, and we may see more business around," said Joel Karlin, vice president at Everen Securities Inc. in Chicago. "After an abeyance in exports, demand is starting to pick up."</p>
+        <p>September soft red winter wheat on the Chicago Board of Trade rose 13.5 cents, to $4.91 a bushel. Prices fell to a three-month low last week after soaring to a record $7.165 a bushel in April.</p>
+        <p>The new sales come as this year's winter wheat crop is expected to decline 11 percent from a year ago and stockpiles in the United States left over next May are projected by the Agriculture Department at a perilously low 340 million bushels.</p>
+        <p>The natural gas prices fell as Hurricane Bertha turned. High winds from the storm could have forced the closing of platforms in the Gulf of Mexico that produce 25 percent of the gas supply in the United States.</p>
+        <p>In addition, forecasts for below-normal temperatures across much of the Eastern United States in coming days helped drive prices lower. Cooler weather cuts air-conditioner use, easing demand from utilities for gas to generate electricity.</p>
+        <p>August natural gas fell 8.7 cents, to $2.74 for a thousand cubic feet on the  New York Mercantile Exchange, the lowest since June 26.</p>
+        <p>Coffee prices fell as traders shrugged off a frost forecast for Brazil. September coffee fell 4.2 cents, to $1.1425 a pound at the Coffee, Sugar and Cocoa Exchange.</p>
+        <p>FUTURES MARKETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calendar</title>
+    <meta content="02FCAL$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1066495"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D7173BF931A35751C1A96E958260" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calendar</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Polish Food and Drink</p>
+        <p>While an exhibition of Polish circus posters, ''Cyrk,'' is on display at the Consulate General of Poland from Friday through Dec. 12, there will be opportunities to sample Polish food and drink. The tastings will be held from noon to 2 P.M. on Saturday, and again on Dec. 9 and 12.</p>
+      </block>
+      <block class="full_text">
+        <p>Polish Food and Drink</p>
+        <p>While an exhibition of Polish circus posters, ''Cyrk,'' is on display at the Consulate General of Poland from Friday through Dec. 12, there will be opportunities to sample Polish food and drink. The tastings will be held from noon to 2 P.M. on Saturday, and again on Dec. 9 and 12.</p>
+        <p>There will also be tastings on Monday from 7 to 9 P.M., when a panel discussion, ''Polish Influence on the Arts,'' will be held. There is no admission charge. The consulate is at 233 Madison Avenue (37th Street).</p>
+        <p>At the Brooklyn Museum</p>
+        <p>Hungry art lovers may also note that in conjunction with an exhibition of royal Persian paintings at the Brooklyn Museum of Art, there will be a lecture about the food of Iran, accompanied by a buffet on Dec. 10 at 6 P.M. The lecture will be given by Najmieh Batmanglij, a cookbook author. Tickets: $55 for museum members, $65 for nonmembers. Information: (718) 638-5000, ext. 326.</p>
+        <p>Beer Tasting</p>
+        <p>A beer tasting led by Michael Jackson, the beer expert, will be held on Monday starting at 7 P.M. at the Brooklyn Brewery, 79 North 11th Street, Williamsburg. Beers in a dozen styles will be paired with food from Cucina and Mike &amp; Tony's restaurants in Park Slope. Tickets, $30 in advance and $40 at the door, will raise money for a scholarship given by the American Institute of Wine and Food. To reserve: (718) 486-7422.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

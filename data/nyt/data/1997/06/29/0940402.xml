@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW YORKERS &amp; CO.</title>
+    <meta content="29BRIE$04" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="NEW YORKERS &amp; CO." name="column_name"/>
+    <docdata>
+      <doc-id id-string="940402"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="NEW YORKERS &amp; CO."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Da Mario (NYC Restaurant)</org>
+        <person class="indexing_service">Napoli, Mario</person>
+        <person class="indexing_service">Minikis, Anastasios</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6D71331F93AA15755C0A961958260" item-length="315" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW YORKERS &amp; CO.</hl1>
+      </hedline>
+      <abstract>
+        <p>New York restaurant scene update; Mario Napoli opens Da Mario on First Avenue and 49th Street; Anastasios Minikis to open restaurant at site of McDonald's on Second Avenue and 70th Street</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Restaurant to Feature Island Food (From Sicily)</p>
+        <p>After years of working in the restaurant business in every position from maitre d'hotel to executive chef, Mario Napoli decided he wanted to run his own show.</p>
+      </block>
+      <block class="full_text">
+        <p>Restaurant to Feature Island Food (From Sicily)</p>
+        <p>After years of working in the restaurant business in every position from maitre d'hotel to executive chef, Mario Napoli decided he wanted to run his own show.</p>
+        <p>Last week, he opened Da Mario, a 15-table Italian restaurant at 883 First Avenue, between 49th and 50th Streets, where Mr. Napoli, who grew up in Sicily, will be both maitre d'hotel and executive chef. ''Right now everyone knows Neapolitan food and Florentine food,'' said Mr. Napoli, whose experience includes jobs at Da Umberto, which features the food of Tuscany, and Ecco, a northern Italian restaurant. ''But I want them to understand island food from Sicily.''</p>
+        <p>The menu includes such Sicilian specialties as caponata (an eggplant salad with olives, celery and capers), cucuzza (pasta with summer squash) and linguine bottarga, in which the pasta is mixed with sliced dried roe of tuna, butter and pepper. Appetizer prices are $5.95 to $10.95 and entrees are $12.95 to $21.95.</p>
+        <p>New Diner to Open At McDonald's Site</p>
+        <p>Anastasios Minikis has owned diners all over Manhattan, but when a McDonald's on the Upper East Side moved, he decided to open another.</p>
+        <p>Next month, Mr. Minikis plans to open Millennium 2000 at 1325 Second Avenue, at 70th Street, in the space of the original Upper East Side McDonald's. Rather than fast food, he will serve typical diner fare: club sandwiches, omelets, pastas and fish.</p>
+        <p>Mr. Minikis plans to renovate the space, to provide seating for 60 inside and 25 in a sidewalk cafe.</p>
+        <p>NEW YORKERS &amp; CO.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

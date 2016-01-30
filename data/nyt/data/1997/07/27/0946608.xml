@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Computer Tailgaters</title>
+    <meta content="LGRAHA$05" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="946608"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Automation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <person class="indexing_service">Maxtone-Graham, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Machinery and Equipment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E4D9173AF934A15754C0A961958260" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Computer Tailgaters</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Maxtone-Graham letter on July 23 article on automated highways (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In the brave new world of automated highways (news article, July 23), the computers used to program the special cars seem to be just as foolhardy as many drivers. The photo accompanying your article shows two cars zooming along, with the second car dangerously tailgating the first.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In the brave new world of automated highways (news article, July 23), the computers used to program the special cars seem to be just as foolhardy as many drivers. The photo accompanying your article shows two cars zooming along, with the second car dangerously tailgating the first.</p>
+        <p>In spite of the assurances by Jim Rillings of the National Automated Highway System Consortium that once the computer takes over, ''you can just sit back and let your mind wander,'' I suspect that a computerized car traveling at high speed just a car length behind me would concentrate my thoughts most wonderfully.</p>
+        <p>MICHAEL MAXTONE-GRAHAM  New York, July 23, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

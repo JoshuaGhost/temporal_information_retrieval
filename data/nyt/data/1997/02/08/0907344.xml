@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frederick J. Almgren Jr., 63, Math Professor</title>
+    <meta content="08ALMG$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="907344"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Almgren, Frederick J Jr</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E6DF123CF93BA35751C0A961958260" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frederick J. Almgren Jr., 63, Math Professor</hl1>
+      </hedline>
+      <abstract>
+        <p>Frederick J Almgren Jr, mathematics professor at Princeton, dies at age 63 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frederick J. Almgren Jr., a mathematics professor at Princeton University who studied the geometry of surfaces, died on Wednesday at Brigham and Women's Hospital in Boston. He was 63 and lived in Princeton, N.J.</p>
+        <p>The cause was a complication from a bone marrow transplant for the marrow disorder myelodysplasia, the university said.</p>
+      </block>
+      <block class="full_text">
+        <p>Frederick J. Almgren Jr., a mathematics professor at Princeton University who studied the geometry of surfaces, died on Wednesday at Brigham and Women's Hospital in Boston. He was 63 and lived in Princeton, N.J.</p>
+        <p>The cause was a complication from a bone marrow transplant for the marrow disorder myelodysplasia, the university said.</p>
+        <p>Dr. Almgren was an early and influential figure in geometric measure theory, which is concerned with such questions as the least amount of surface area obtainable for a particular shape.</p>
+        <p>He worked, for example, on analyzing the structure of soap-bubble clusters and the growth of snowflakes.</p>
+        <p>He was born in Birmingham, Ala., on July 3, 1933, and received a bachelor's degree in engineering from Princeton and a Ph. D. in mathematics from Brown University. He joined the Princeton faculty in 1962 and became a professor in 1972. At his death, he was the Henry Burchard Fine Professor of mathematics.</p>
+        <p>Dr. Almgren was a founder of the National Science and Technology Research Center for Computation and Visualization of Geometric Structures in Minneapolis.</p>
+        <p>His first marriage, to Beverly S. Almgren, ended in divorce.</p>
+        <p>He is survived by his wife, Jean Taylor; two daughters, Ann S., of Pleasanton, Calif., and Karen T., of Princeton; a son, Robert F., of Chicago; his mother, Sarah W., of Princeton; a brother, David, of Concord, Mass., and a sister, Linda Kime, of Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

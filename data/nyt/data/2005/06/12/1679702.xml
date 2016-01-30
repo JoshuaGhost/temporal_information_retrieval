@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NUCLEAR REACTOR PROBLEM</title>
+    <meta content="MB213750" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1679702"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="BRIEFS: ENERGY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DB1E38F931A25755C0A9639C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NUCLEAR REACTOR PROBLEM</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Hope Creek nuclear reactor, one of three reactors at the Salem nuclear power plant, shut down last Tuesday afternoon after operators in the control room detected a water leak inside the reactor building. The Nuclear Regulatory Commission said that the leak was detected at 2:13 p.m. and that there was no radiation release or danger to the public. It was the fourth time the reactor had shut because of leaks in the last 12 months, a spokesman for the plant operator said. The cause of the leak was under investigation.</p>
+      </block>
+      <block class="full_text">
+        <p>The Hope Creek nuclear reactor, one of three reactors at the Salem nuclear power plant, shut down last Tuesday afternoon after operators in the control room detected a water leak inside the reactor building. The Nuclear Regulatory Commission said that the leak was detected at 2:13 p.m. and that there was no radiation release or danger to the public. It was the fourth time the reactor had shut because of leaks in the last 12 months, a spokesman for the plant operator said. The cause of the leak was under investigation.</p>
+        <p>BRIEFS: ENERGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

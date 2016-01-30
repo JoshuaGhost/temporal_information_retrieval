@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROOM TO IMPROVE</title>
+    <meta content="06room" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/04/06/garden/06room.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1752378"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Room to Improve"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light Bulbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Fluorescent Bulbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Kitchens</classifier>
+        <person class="indexing_service">Baldwin, Deborah</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <person class="online_producer">Forte, Paul</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE4DA1030F935A35757C0A9609C8B63" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROOM TO IMPROVE</hl1>
+        <hl2 class="online_headline">Cooking in a Flattering Light</hl2>
+      </hedline>
+      <byline class="print_byline">By Deborah Baldwin</byline>
+      <byline class="normalized_byline">Baldwin, Deborah</byline>
+      <abstract>
+        <p>Room to Improve column makes suggestions for replacing flourescent tubes in kitchens; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I'd like to replace the obnoxious fluorescent tubes under my kitchen cabinets. Any suggestions?</p>
+        <p>A. Fluorescent tubes are economical, environmentally responsible (hardly use energy) and bright (like, blinding). Many people would much prefer something that knows how to flatter the panna cotta.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Q. I'd like to replace the obnoxious fluorescent tubes under my kitchen cabinets. Any suggestions?</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I'd like to replace the obnoxious fluorescent tubes under my kitchen cabinets. Any suggestions?</p>
+        <p>A. Fluorescent tubes are economical, environmentally responsible (hardly use energy) and bright (like, blinding). Many people would much prefer something that knows how to flatter the panna cotta.</p>
+        <p>For years halogen has been the upscale alternative. The light it casts is warm. Fixtures for cabinets come in various shapes and sizes, including ''light bars'' and ''hockey pucks,'' which you can stick under the cabinets wherever. A halogen fixture, however, will be inches away from your work space, and the bulbs are hot -- a problem if you are, say, rolling out pastry. The bulbs can also be hard to handle. A friend of mine, otherwise pleased by her under-cabinet halogens, says she practically dons surgical gloves before changing a bulb: a direct touch could make it explode.</p>
+        <p>She puts up with this because she is something of a décor victim, and her halogen lights, hard-wired and equipped with a dimmer, reflect off her stainless steel backsplash in a delightful way. Picture a series of tiny cone-shape beams.</p>
+        <p>Paul Forte, an electrical contractor who does a lot of high-end kitchens on Long Island, says most of his clients want to wash the backsplash as well as the counter with even light. He has become a convert to xenon bulbs, which combine the warm tones of incandescent bulbs with a boost from xenon gas, which intensifies the light and helps prolong the bulb's life. Not surprisingly, Mr. Forte recommends hiring an electrician to hard-wire your fixtures and put them on a dimmer. (For his other views from the under-cabinet frontlines: forteelectric.com.)</p>
+        <p>He likes a low-voltage mini-track with small xenon bulbs, closeup above, called Linea, by Halo, a Cooper Lighting brand. It comes in different versions, one for hard-wiring and another in a do-it-yourself kit with a three-foot track (about $100). You can use the fixture inside a cabinet or underneath, as shown above. For dealers: cooperlighting.com.</p>
+        <p>Most under-cabinet fixtures come in various lengths. (Be sure to measure the cavity, not the face of the cabinet, before buying.) Juno makes the Trak 12, which takes low-voltage halogen or xenon bulbs. A two-foot track is about $12 at Lighting by Gregory, 158 Bowery, (212) 226-1276 or lightingbygregory.com.</p>
+        <p>Online shoppers can browse other options at pegasusassociates.com. A Web-based dealer, Pegasus Associates offers every kind of under-cabinet fixture, along with a painstaking analysis of the under-cabinet challenge. Tom Farin, the president of Pegasus, says he generally prefers xenon to halogen because the bulbs are ''longer-life, cooler and easy to handle.'' A hard-wireable fixture eight inches long is $33. You can order at the Web site or by phone: (800) 392-4818.</p>
+        <p>Your easiest solution may be individual plug-in xenon lights, called Triangles ($33.40 from Pegasus), which you can install without having to call an electrician, but do not tell Mr. Forte you heard that from me.</p>
+        <p>Room to Improve</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

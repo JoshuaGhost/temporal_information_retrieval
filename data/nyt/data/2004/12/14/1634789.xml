@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="14CMXBRFS" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1634789"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EEDB1630F937A25751C1A9629C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PFIZER, New York, the drug maker, raised its first-quarter dividend by 2 cents, to 19 cents a share.</p>
+        <p>LUBRIZOL CORP., Cleveland, the maker of additives for lubricants and fuels, said its president and chief executive, James L. Hambrick, would take on the additional title of chairman, succeeding William G. Bares.</p>
+        <p>R.J. REYNOLDS TOBACCO CO., Winston-Salem,N.C., the cigarette maker, said it would raise list prices on some of its brands and reduce retail discounts on others.</p>
+      </block>
+      <block class="full_text">
+        <p>PFIZER, New York, the drug maker, raised its first-quarter dividend by 2 cents, to 19 cents a share.</p>
+        <p>LUBRIZOL CORP., Cleveland, the maker of additives for lubricants and fuels, said its president and chief executive, James L. Hambrick, would take on the additional title of chairman, succeeding William G. Bares.</p>
+        <p>R.J. REYNOLDS TOBACCO CO., Winston-Salem,N.C., the cigarette maker, said it would raise list prices on some of its brands and reduce retail discounts on others.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Information Superhighway and Its Back Roads</title>
+    <meta content="12CIRCSTF" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1016995"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Fiber Optics</classifier>
+        <classifier class="indexing_service" type="descriptor">Internet and World Wide Web</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fiber Optics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0D91230F937A25756C0A96E958260" item-length="598" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Information Superhighway and Its Back Roads</hl1>
+      </hedline>
+      <byline class="print_byline">By KRIS GOODFELLOW</byline>
+      <abstract>
+        <p>Chart depicts backbone metaphor as road in describing fiber-optic cable system that carries huges amount of computer data (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The backbone metaphor is regularly used to describe the huge data pipes that make up the, well, backbone, of the Internet. But the old cliche of the Information Superhighway is probably more accurate.</p>
+        <p>KRIS GOODFELLOW</p>
+        <p>1. When people speak about the backbone of the Internet, they are usually referring to fiber optic cables that carry large amounts of data. Companies like MCI/Worldcom and Sprint, the biggest carriers have a backbone which can handle 155 megabits of data a second on OC-3 lines and are aiming to upgrade to 2.4 gigabits per second on OC-48 lines between places where there are high amounts of Internet traffic. This is the equivalent of building a superhighway between major commercial centers.</p>
+      </block>
+      <block class="full_text">
+        <p>The backbone metaphor is regularly used to describe the huge data pipes that make up the, well, backbone, of the Internet. But the old cliche of the Information Superhighway is probably more accurate.</p>
+        <p>KRIS GOODFELLOW</p>
+        <p>1. When people speak about the backbone of the Internet, they are usually referring to fiber optic cables that carry large amounts of data. Companies like MCI/Worldcom and Sprint, the biggest carriers have a backbone which can handle 155 megabits of data a second on OC-3 lines and are aiming to upgrade to 2.4 gigabits per second on OC-48 lines between places where there are high amounts of Internet traffic. This is the equivalent of building a superhighway between major commercial centers.</p>
+        <p>2. People who do not live on that Internet freeway still benefit from it. Just as suburbanites use smaller highways that feed into the superhighway, businesses use T-1 lines (1.5 megabits per second) and T-3 lines (45 Mbps)  to connect to the Internet freeway.</p>
+        <p>3. Companies that do a lot of business with one another on the Internet can even build their own roads. The companies install high-speed line between their businesses to avoid congestion on the superhighway.</p>
+        <p>4. Home users with a penchant for speed may choose to install a cable modem (100-300 kilobits/second) or an I.S.D.N. (integrated services digital network) line (128 kilobits per second).</p>
+        <p>5. Anyone with a cable modem knows they can to download a large file quickly, unless the data are coming from an out of the way place. Then it will take longer.</p>
+        <p>6. Most people use a 28.8 Kbps (kilobits/second) or 56 Kbps modem to connect to the Internet from home. Getting onto the Web can often feel as though you are living in the country and making a trek to the city. But an empty back road can sometimes be as fast as a highway. A new provider who has built a larger road can also speed things up.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

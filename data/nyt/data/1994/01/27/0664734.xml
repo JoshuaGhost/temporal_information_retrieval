@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executive Changes</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664734"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2DC1F30F934A15752C0A962958260" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executive Changes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMOCO CORP., Chicago, promoted John L. Carl, senior vice president for finance and controller, to executive vice president and chief financial officer, succeeding Frederick S. Addy, who is retiring. CHEVRON SHIPPING CO., San Francisco, a subsidiary of the Chevron Corporation, named Thomas R. Moore president, succeeding Douglas C. Wolcott, who is retiring.</p>
+      </block>
+      <block class="full_text">
+        <p>AMOCO CORP., Chicago, promoted John L. Carl, senior vice president for finance and controller, to executive vice president and chief financial officer, succeeding Frederick S. Addy, who is retiring. CHEVRON SHIPPING CO., San Francisco, a subsidiary of the Chevron Corporation, named Thomas R. Moore president, succeeding Douglas C. Wolcott, who is retiring.</p>
+        <p>LEBENTHAL &amp; CO., New York, appointed James Gammon president of Lebenthal Asset Management Inc., a new asset management unit. WYSE TECHNOLOGY INC., San Jose, Calif., a supplier of microprocessor-based products, promoted Gary Anderson, its vice president of finance, to senior vice president and chief financial officer.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

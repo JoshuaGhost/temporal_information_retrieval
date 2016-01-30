@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="739707"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">SMITH, ROBERTA</person>
+        <person class="indexing_service">HAGGART, BETH</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DA173DF934A15752C0A963958260" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">SMITH, ROBERTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beth Haggart</p>
+        <p>Postmasters Gallery  80 Greene Street  SoHo  Through Feb. 4</p>
+        <p>Beth Haggart, known for making sculpture out of junk in general and old cardboard boxes in particular, is getting personal. The junk that dominates her latest installation piece -- also her first solo show in New York City -- is entirely her own. It fills almost the entire gallery, this big ratty pile of furniture, clothing, shoes, lamps, knickknacks, old photographs, battered luggage and much, much more. Call it scatter-art run amok, or place it in a long line of autobiographical environments that begins with Lucas Samaras's exhibition of the contents of his West New York, N.J., bedroom at the Green Gallery in 1964.</p>
+      </block>
+      <block class="full_text">
+        <p>Beth Haggart</p>
+        <p>Postmasters Gallery  80 Greene Street  SoHo  Through Feb. 4</p>
+        <p>Beth Haggart, known for making sculpture out of junk in general and old cardboard boxes in particular, is getting personal. The junk that dominates her latest installation piece -- also her first solo show in New York City -- is entirely her own. It fills almost the entire gallery, this big ratty pile of furniture, clothing, shoes, lamps, knickknacks, old photographs, battered luggage and much, much more. Call it scatter-art run amok, or place it in a long line of autobiographical environments that begins with Lucas Samaras's exhibition of the contents of his West New York, N.J., bedroom at the Green Gallery in 1964.</p>
+        <p>It's actually not all that interesting in comparison with Ms. Haggart's more deliberately structured efforts, except for its accompaniment. This is a 13-hour videotape in which the artist, proceeding one item at time, gives the provenance of each object in the pile, her attachment to it and the reasons she can now do without it. One needn't watch more than a few minutes of this tape to grasp that Ms. Haggart's relentless show-and-tell is also an exercise in self-revelation and self-analysis, stream-of-consciousness materialized. The tape brings the pile to conceptual life, functioning as an extended caption. Unfortunately, nothing animates it visually. ROBERTA SMITH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

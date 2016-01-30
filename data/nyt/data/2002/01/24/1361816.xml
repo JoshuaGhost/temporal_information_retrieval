@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Essentials: Stoves and Rocks</title>
+    <meta content="24SBOX" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/01/24/garden/24SBOX.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1361816"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Saunas</classifier>
+        <location class="indexing_service">Vermont</location>
+        <person class="indexing_service">Urstadt, Bryant</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Finland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Vermont</classifier>
+        <classifier class="online_producer" type="descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Saunas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <location class="online_producer">Finland</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DC113BF937A15752C0A9649C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Essentials: Stoves and Rocks</hl1>
+        <hl2 class="online_headline">The Sauna Essentials: Stoves and Rocks</hl2>
+      </hedline>
+      <byline class="print_byline">By BRYANT URSTADT</byline>
+      <byline class="normalized_byline">Urstadt, Bryant</byline>
+      <abstract>
+        <p>Article by Bryant Urstadt, who describes building Finnish sauna in rural Vermont; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT'S best to buy a wood stove and other sauna paraphernalia near home. Stoves are heavy, and if you order from Finland you will pay as much for shipping as heating.</p>
+        <p>Nippa Sauna Stoves in Bruce Crossing, Mich., has American-made stoves that start at $575, plus shipping. The smallest weighs 190 pounds. The rocks, weighing at least 75 pounds, are extra; (906) 827-3906 or www.nippa.com.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>IT'S best to buy a wood stove and other sauna paraphernalia near home. Stoves are heavy, and if you order from Finland you will pay as much for shipping as heating.</p>
+      </block>
+      <block class="full_text">
+        <p>IT'S best to buy a wood stove and other sauna paraphernalia near home. Stoves are heavy, and if you order from Finland you will pay as much for shipping as heating.</p>
+        <p>Nippa Sauna Stoves in Bruce Crossing, Mich., has American-made stoves that start at $575, plus shipping. The smallest weighs 190 pounds. The rocks, weighing at least 75 pounds, are extra; (906) 827-3906 or www.nippa.com.</p>
+        <p>Closer to New York is the Saunastore in Cherry Hill, N.J., whose basic wood stove is $826 and weighs 132 pounds, not including rocks; (856) 489-1594 or www.saunastore.com.</p>
+        <p>I salvaged some of the wood for my sauna from an old bar, so I saved myself some expense. Some interior woods, like Western red cedar, are more desirable and also more expensive. For a free-standing family-size sauna, count on at least $5,000 for materials.</p>
+        <p>For those who prefer to hire an expert, Nils Per Shenholm of Solhem Sauna in Duxbury, Vt., designs and builds saunas for customers in New England. Construction and delivery start at $7,000; www.saunavermont.com or (802) 244-6460.</p>
+        <p>BRYANT URSTADT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

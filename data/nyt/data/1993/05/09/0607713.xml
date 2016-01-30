@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Low-Tech Medicine</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="607713"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DE113AF93AA35756C0A965958260" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Low-Tech Medicine</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I concur with Dr. Rahman's criticisms of the limitations of the Health Care Task Force with its current membership. I am puzzled, though, by his omission of nurses from a list of those who should be included on this team. As the largest group of direct providers of health care, nurses must be represented. STEPHANIE SIMPSON, R.N./C.R.R.N. Bridgeport, Conn., April 24</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I concur with Dr. Rahman's criticisms of the limitations of the Health Care Task Force with its current membership. I am puzzled, though, by his omission of nurses from a list of those who should be included on this team. As the largest group of direct providers of health care, nurses must be represented. STEPHANIE SIMPSON, R.N./C.R.R.N. Bridgeport, Conn., April 24</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

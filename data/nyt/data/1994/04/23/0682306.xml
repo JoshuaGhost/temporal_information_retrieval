@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Greater New York Savings Bank (GRTR,NMS) reports earnings for Qtr to Mar 31</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="682306"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE4DE1639F930A15757C0A962958260" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Greater New York Savings Bank (GRTR,NMS) reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Greater New York Savings Bank (GRTR,NMS)</p>
+        <p>Qtr to Mar 31</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Net inc</p>
+        <p>2,557,000</p>
+        <p>b6,893,000</p>
+        <p>Per share</p>
+        <p>.08</p>
+        <p>.49</p>
+        <p>b-After a gain of $ 7,000,000, or 53 cents a share, from cumulative effect of change in accounting.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

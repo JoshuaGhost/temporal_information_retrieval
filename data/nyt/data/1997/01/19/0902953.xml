@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Danger of Limits</title>
+    <meta content="LTR000636" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="No-Fault Divorce Has Damaged the Family" name="column_name"/>
+    <docdata>
+      <doc-id id-string="902953"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="No-Fault Divorce Has Damaged the Family"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Divorce, Separations and Annulments</classifier>
+        <person class="indexing_service">Oldham, J T</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Divorce, Separations and Annulments</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0D9123BF93AA25752C0A961958260" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Danger of Limits</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from J T Oldham says it would be bad idea to place limitations on no-fault divorce (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Americans seem to have a magical faith that change in law can engineer whatever new behavior is desired. The movement to limit divorce is a good example (Op-Ed, Jan. 13).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Americans seem to have a magical faith that change in law can engineer whatever new behavior is desired. The movement to limit divorce is a good example (Op-Ed, Jan. 13).</p>
+        <p>Even before no-fault divorce was accepted, most couples agreed to divorce. In those rare instances when one spouse did not want a divorce, the judgment was made that if one partner had made a decision no longer to try to make the marriage work, reconciliation was not possible. Barring divorce in such instances could lead to higher levels of spousal violence and informal desertion.</p>
+        <p>It would be a bad idea to place limitations on no-fault divorce. Before divorce is permitted, procedures should be created so that spouses do not divorce before they have made a rational decision to do so. Abolishing no-fault divorce would have many costs. Not least would be requiring people to stay married to people they no longer respect or care for.</p>
+        <p>J. T. OLDHAM  Houston, Jan. 15, 1997</p>
+        <p>The writer is a professor of law at the University of Houston.</p>
+        <p>No-Fault Divorce Has Damaged the Family</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

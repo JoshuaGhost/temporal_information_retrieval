@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jamie Tarses' Fall, As Scheduled</title>
+    <meta content="LTR103617" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="947935"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">stephanian, charles</person>
+        <person class="indexing_service">Tarses, Jamie</person>
+        <person class="indexing_service">Hirschberg, Lynn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2DC143AF930A3575BC0A961958260" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jamie Tarses' Fall, As Scheduled</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Charles Stephanian comments on Lynn Hirschberg's July 13 article on Jamie Tarses (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After growing up ''in the industry'' and getting her start because of her name, Tarses says, ''I have never had a mentor.'' What about her father? ''Men have an easier time having mentors. I always felt I had to do it on my own.'' What exactly has Tarses done on her own? As your article clearly shows, she was woefully underqualified and unprepared for her job. Not returning calls and not showing up for meetings has nothing to do with either gender or age. Perhaps if she had spent less time advancing her boyfriend's career and complaining about having to ''defend'' herself, she might have been able to do her job.</p>
+        <p>Charles Stephanian  Pacifica, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>After growing up ''in the industry'' and getting her start because of her name, Tarses says, ''I have never had a mentor.'' What about her father? ''Men have an easier time having mentors. I always felt I had to do it on my own.'' What exactly has Tarses done on her own? As your article clearly shows, she was woefully underqualified and unprepared for her job. Not returning calls and not showing up for meetings has nothing to do with either gender or age. Perhaps if she had spent less time advancing her boyfriend's career and complaining about having to ''defend'' herself, she might have been able to do her job.</p>
+        <p>Charles Stephanian  Pacifica, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carey Voigt, Timothy Dearnley</title>
+    <meta content="20VOIG" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1047821"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">VOIGT, CAREY ELIZABETH (CAREY ELIZABETH DEARNLEY)</person>
+        <person class="indexing_service">DEARNLEY, TIMOTHY KLEVAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DF1630F933A1575AC0A96E958260" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carey Voigt, Timothy Dearnley</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carey Elizabeth Voigt, a daughter of Patricia and Frederick Voigt of Philadelphia, was married yesterday to Timothy Klevan Dearnley, a son of Margaret and Richard Dearnley of Little Rock, Ark. The Rev. John Francis performed the ceremony at St. Paul's Episcopal Church in Philadelphia.</p>
+        <p>Mrs. Dearnley, 26, was until last month the field coordinator for Representative Bill Redmond, Republican of New Mexico. She is working on her thesis to complete a bachelor's degree at the University of Pennsylvania. Her father is the executive director of the Committee of 70, a civic watchdog organization in Philadelphia. Her mother is the director of external affairs at Springside School, a private school in Philadelphia.</p>
+        <p>Mr. Dearnley, 28, is the advertising director for the American Society for Engineering Education, an advocacy group in Washington. He graduated from Wesleyan University. His father is the president of Longport Partners, an investment firm in Little Rock.</p>
+      </block>
+      <block class="full_text">
+        <p>Carey Elizabeth Voigt, a daughter of Patricia and Frederick Voigt of Philadelphia, was married yesterday to Timothy Klevan Dearnley, a son of Margaret and Richard Dearnley of Little Rock, Ark. The Rev. John Francis performed the ceremony at St. Paul's Episcopal Church in Philadelphia.</p>
+        <p>Mrs. Dearnley, 26, was until last month the field coordinator for Representative Bill Redmond, Republican of New Mexico. She is working on her thesis to complete a bachelor's degree at the University of Pennsylvania. Her father is the executive director of the Committee of 70, a civic watchdog organization in Philadelphia. Her mother is the director of external affairs at Springside School, a private school in Philadelphia.</p>
+        <p>Mr. Dearnley, 28, is the advertising director for the American Society for Engineering Education, an advocacy group in Washington. He graduated from Wesleyan University. His father is the president of Longport Partners, an investment firm in Little Rock.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

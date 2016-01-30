@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE BONUS HOLDUP</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="795058"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EXECUTIVES AND MANAGEMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">BONUSES</classifier>
+        <person class="indexing_service">LEWIS, MICHAEL</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFD91239F93BA35753C1A963958260" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE BONUS HOLDUP</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In reading Michael Lewis's "The Bonus Holdup" (The Capitalist, Sept. 10), it  struck me that clients of the individuals in the Wall Street brokerage houses who receive outrageous sums of money ought to share the rewards with their customers. After all, we make possible the profitable commissions that provide the basis for the bonuses.</p>
+      </block>
+      <block class="full_text">
+        <p>In reading Michael Lewis's "The Bonus Holdup" (The Capitalist, Sept. 10), it  struck me that clients of the individuals in the Wall Street brokerage houses who receive outrageous sums of money ought to share the rewards with their customers. After all, we make possible the profitable commissions that provide the basis for the bonuses.</p>
+        <p>Logic dictates that I am entitled to some sort of payback, say, 5 or 10 percent of the commission received from my account.</p>
+        <p>Fair is fair. If my guy gets a hefty $500,000 bonus, I should receive part of the loot.</p>
+        <p>RAY HELSEL New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

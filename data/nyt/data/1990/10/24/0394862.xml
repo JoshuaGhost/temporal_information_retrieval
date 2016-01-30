@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>San Diego Gas &amp; Elec reports earnings for Qtr to Sept 30</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="394862"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7D6123CF937A15753C1A966958260" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>San Diego Gas &amp; Elec reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*San Diego Gas &amp; Elec (NYSE)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Revenue</p>
+        <p>452,127,000</p>
+        <p>423,892,000</p>
+        <p>Net inc</p>
+        <p>54,673,000</p>
+        <p>53,434,000</p>
+        <p>Share earns</p>
+        <p>.93</p>
+        <p>.91</p>
+        <p>Shares outst</p>
+        <p>55,918,000</p>
+        <p>55,893,000</p>
+        <p>9mo rev</p>
+        <p>1,301,161,000</p>
+        <p>1,234,689,000</p>
+        <p>Net inc</p>
+        <p>159,802,000</p>
+        <p>132,587,000</p>
+        <p>Share earns</p>
+        <p>2.71</p>
+        <p>2.22</p>
+        <p>Revenue for all periods has been restated to exclude operations of Mock Resources Inc., which was sold during the second quarter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

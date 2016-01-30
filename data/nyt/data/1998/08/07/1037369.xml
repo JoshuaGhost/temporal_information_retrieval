@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Young &amp; Rubicam Gets Expanded Role</title>
+    <meta content="MB001021" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1037369"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Cadbury Schweppes Plc</org>
+        <org class="indexing_service">Young &amp; Rubicam</org>
+        <person class="indexing_service">Kane, Courtney</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980807T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DE103BF934A3575BC0A96E958260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Young &amp; Rubicam Gets Expanded Role</hl1>
+      </hedline>
+      <byline class="print_byline">By Courtney Kane</byline>
+      <byline class="normalized_byline">Kane, Courtney</byline>
+      <abstract>
+        <p>Cadbury Schweppes PLC will expand its relationship with Young &amp; Rubicam Advertising by naming agency to handle its consolidated worldwide advertising account for its Schweppes brand; account, with billings estimated at $40 million to $50 million, was previously divided among three agencies including Young &amp; Rubicam (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cadbury Schweppes P.L.C. in London said yesterday that it had expanded its relationship with Young &amp; Rubicam Advertising by naming that agency to handle its consolidated worldwide advertising account for its Schweppes brand. The account, with billings estimated at $40 million to $50 million, was previously divided among three agencies including Y.&amp; R.</p>
+        <p>Y.&amp; R., which has handled the Schweppes account in Australia, was awarded the consolidated account after a six-week review that also included the two other Schweppes incumbents: Foote, Cone &amp; Belding, a unit of True North Communications, which had handled the brand in the United States and Latin America, and Saatchi &amp; Saatchi P.L.C., which has handled the brand in Europe and Hong Kong.</p>
+      </block>
+      <block class="full_text">
+        <p>Cadbury Schweppes P.L.C. in London said yesterday that it had expanded its relationship with Young &amp; Rubicam Advertising by naming that agency to handle its consolidated worldwide advertising account for its Schweppes brand. The account, with billings estimated at $40 million to $50 million, was previously divided among three agencies including Y.&amp; R.</p>
+        <p>Y.&amp; R., which has handled the Schweppes account in Australia, was awarded the consolidated account after a six-week review that also included the two other Schweppes incumbents: Foote, Cone &amp; Belding, a unit of True North Communications, which had handled the brand in the United States and Latin America, and Saatchi &amp; Saatchi P.L.C., which has handled the brand in Europe and Hong Kong.</p>
+        <p>Y.&amp; R. Europe in London will serve as the lead agency on the account, which includes advertising for the Schweppes brands including ginger ale, club soda and tonic water, as well as other soft drinks. The assignment is the most recent example of a big account consolidated at Y.&amp; R., coming after consolidations by Groupe Danone, Citicorp and Colgate-Palmolive.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

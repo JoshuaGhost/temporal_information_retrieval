@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trespassing Charge Dropped on Shelter I.</title>
+    <meta content="MB020543" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1580553"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Trespass</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <location class="indexing_service">Shelter Island (NY)</location>
+        <person class="indexing_service">Spota, Thomas (Dist Atty)</person>
+        <person class="indexing_service">Williams, Susan</person>
+        <person class="indexing_service">Lanier, Kenneth</person>
+        <person class="indexing_service">Mead, Julia C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island/Shelter Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1D9153CF93AA35756C0A9629C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trespassing Charge Dropped on Shelter I.</hl1>
+      </hedline>
+      <byline class="print_byline">By Julia C. Mead</byline>
+      <byline class="normalized_byline">Mead, Julia C</byline>
+      <abstract>
+        <p>Suffolk County District Attorney Thomas Spota agrees to dismiss charges against Susan Williams, who photgraphed padded timeout room at Shelter Island school; Williams, charged with trespassing, is suing school district, Shelter Island police, district attorney's office and school superintendent Kenneth Lanier (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Shelter Island school board's offer to drop criminal charges against the woman who photographed the school's padded timeout room if she, in turn, dropped her lawsuit against the board has become a moot point.</p>
+        <p>In a letter sent last month to one of the woman's lawyers, the Suffolk County district attorney, Thomas Spota, agreed to dismiss the charges outright.</p>
+      </block>
+      <block class="full_text">
+        <p>The Shelter Island school board's offer to drop criminal charges against the woman who photographed the school's padded timeout room if she, in turn, dropped her lawsuit against the board has become a moot point.</p>
+        <p>In a letter sent last month to one of the woman's lawyers, the Suffolk County district attorney, Thomas Spota, agreed to dismiss the charges outright.</p>
+        <p>Mr. Spota wrote that he was disturbed that school officials suggested they could affect the outcome of a criminal case in exchange for a favorable outcome in a civil case. Instead, he said he would seek to dismiss the charge against the woman, Susan Williams.</p>
+        <p>Last June, Ms. Williams, whose daughter was then in kindergarten, said she went into the school to document the existence of the padded room.</p>
+        <p>The school superintendent, Kenneth Lanier, asked her to leave, then called the police after she returned. Ms. Williams, who was charged with trespassing, is now suing the school district, the Shelter Island police, the district attorney's office and Mr. Lanier.</p>
+        <p>Kevin Seaman, the school district's lawyer, said he was surprised to hear the district attorney's office was dropping the case because he understood that prosecutors were eager to pursue it.</p>
+        <p>''The district had only good intentions,'' he said. ''We wanted to settle the matter and move forward.''</p>
+        <p>Julia C. Mead</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

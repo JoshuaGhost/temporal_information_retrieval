@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Do You Hear What I Hear?</title>
+    <meta content="19lett-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1688513"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E3DE1F30F93AA25754C0A9639C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Do You Hear What I Hear?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>When Schumann claimed he was taking musical dictation from Schubert, his aural experience was creative and novel (''Brain Becomes an iPod''). When Aunt Sadie hears the Andrews Sisters' tune from her high school prom over and over again, her experience is a simple repetition, more or less accurate, given the quality of her musical ear and memory.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>When Schumann claimed he was taking musical dictation from Schubert, his aural experience was creative and novel (''Brain Becomes an iPod''). When Aunt Sadie hears the Andrews Sisters' tune from her high school prom over and over again, her experience is a simple repetition, more or less accurate, given the quality of her musical ear and memory.</p>
+        <p>Are these experiences not radically different? The difference between minds that are tape loops and creative minds (in the case of Schumann, creative genius) does not seem to have interested any experimenters involved in this phenomenon. What a pity!</p>
+        <p>Frank Feldman  Fair Lawn, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

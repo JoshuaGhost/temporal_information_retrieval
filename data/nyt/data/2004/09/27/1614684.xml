@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="27SYRI$06" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1614684"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDD1638F934A1575AC0A9629C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bomb Kills Hamas Official  Izzideen al-Sheik Khalil, an official of the militant organization Hamas, was killed when a bomb exploded in his sport utility vehicle in Damascus. Syrian and Hamas officials blamed Israel.</p>
+        <p>PAGE A4</p>
+        <p>Suspect Killed in Pakistan  Amjad Hussain Farooqi, who is accused of being the mastermind of two assassination attempts on Gen. Pervez Musharraf, the president of Pakistan, was killed by law enforcement officials.</p>
+        <p>PAGE A12</p>
+      </block>
+      <block class="full_text">
+        <p>Bomb Kills Hamas Official  Izzideen al-Sheik Khalil, an official of the militant organization Hamas, was killed when a bomb exploded in his sport utility vehicle in Damascus. Syrian and Hamas officials blamed Israel.</p>
+        <p>PAGE A4</p>
+        <p>Suspect Killed in Pakistan  Amjad Hussain Farooqi, who is accused of being the mastermind of two assassination attempts on Gen. Pervez Musharraf, the president of Pakistan, was killed by law enforcement officials.</p>
+        <p>PAGE A12</p>
+        <p>Yankees' Brown Is Battered  The Red Sox spoiled Kevin Brown's return, some three weeks after he broke a hand hitting a clubhouse wall, as they routed the Yankees, 11-4.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>Bit by Bit, City Fights a Resilient X-Rated Industry  Almost a decade after Mayor Rudolph W. Giuliani proclaimed war on the sex shop business, it is alive and well and, at least in Greenwich Village, growing, as pornography merchants have found a way to dodge nearly every regulation imposed upon them.</p>
+        <p>The Village, which prides itself on being a national symbol of tolerance, has become an example of how loopholes can undermine a once-celebrated law. And the Bloomberg administration is fighting back by citing sex shops for every imaginable infraction.</p>
+        <p>PAGE B1</p>
+        <p>CBS News Weighs the Future  The recent controversy surrounding Dan Rather has complicated two delicate questions in television news: when will Mr. Rather relinquish the anchor chair of ''The CBS Evening News,'' and to whom?</p>
+        <p>PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

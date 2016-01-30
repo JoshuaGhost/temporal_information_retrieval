@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Industries Offer Top Awards</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="614350"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIO</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <classifier class="indexing_service" type="descriptor">PUBLIC RELATIONS AND PUBLICITY</classifier>
+        <person class="indexing_service">ELLIOTT, STUART</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Relations and Publicity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDB103DF933A25755C0A965958260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Industries Offer Top Awards</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">ELLIOTT, STUART</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The radio industry and the public relations industry presented top awards last night in New York.</p>
+        <p>Wieden &amp; Kennedy of Portland, Ore., won the $100,000 Radio Mercury Gold Award from the Radio Creative Fund at its second annual awards presentation. Bob Moore, a copywriter at the agency, accepted the prize for "Hubble Telescope," a radio commercial for its client Nike Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>The radio industry and the public relations industry presented top awards last night in New York.</p>
+        <p>Wieden &amp; Kennedy of Portland, Ore., won the $100,000 Radio Mercury Gold Award from the Radio Creative Fund at its second annual awards presentation. Bob Moore, a copywriter at the agency, accepted the prize for "Hubble Telescope," a radio commercial for its client Nike Inc.</p>
+        <p>Four other agencies won $20,000 Mercury Gold awards: Moving and Talking Picture Company of Philadelphia, for Molson Breweries U.S.A.; D'Arcy Masius Benton &amp; Bowles of St. Louis, for the St. Louis Symphony Orchestra; Manhattan Marketing Ensemble of New York, for Maxell audio tape, and KSSK, a radio station in Honolulu, for Subaru.</p>
+        <p>And the Florida Power and Light Company of Miami received the Best of Silver Anvil Award from the Public Relations Society of America. The utility was selected from among 45 winners of Silver Anvils announced in April. Florida Power and Light was honored for its crisis communications program in the wake of Hurricane Andrew last year.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DDB Needham Gets Pep Boys Account</title>
+    <meta content="NEEDHAM" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1013787"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Pep Boys</org>
+        <org class="indexing_service">Ddb Needham</org>
+        <person class="indexing_service">Hays, Constance L</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5DF133EF932A35756C0A96E958260" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DDB Needham Gets Pep Boys Account</hl1>
+      </hedline>
+      <byline class="print_byline">By Constance L. Hays</byline>
+      <byline class="normalized_byline">Hays, Constance L</byline>
+      <abstract>
+        <p>Pep Boys assigns national advertising account to DDB Needham, unit of Omnicom Group (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Pep Boys -- Manny, Moe &amp; Jack, the automotive retailer in Philadelphia, assigned its national advertising account yesterday to the DDB Needham Chicago unit of Omnicom Group.</p>
+        <p>DDB Needham Chicago will handle all aspects of the account, including creative development, strategic planning and media planning and buying.</p>
+      </block>
+      <block class="full_text">
+        <p>The Pep Boys -- Manny, Moe &amp; Jack, the automotive retailer in Philadelphia, assigned its national advertising account yesterday to the DDB Needham Chicago unit of Omnicom Group.</p>
+        <p>DDB Needham Chicago will handle all aspects of the account, including creative development, strategic planning and media planning and buying.</p>
+        <p>The previous agency, the Cliff Freeman &amp; Partners unit of Saatchi &amp; Saatchi P.L.C. in New York, had handled only the creative duties. Freeman resigned from those duties in January when Pep Boys placed the account in review. At that time, billings were estimated at $25 million; Pep Boys estimated them yesterday, however, at more than $40 million.</p>
+        <p>The other finalists in the review besides DDB Needham Chicago were Bates USA in New York, a unit of Cordiant Communications Group P.L.C., and Goodby, Silverstein &amp; Partners in San Francisco, also owned by Omnicom.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

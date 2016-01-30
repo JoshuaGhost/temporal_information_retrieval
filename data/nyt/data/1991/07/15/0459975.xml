@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="459975"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">ADVISORY COMMISSION FOR CULTURAL AFFAIRS (NYC)</org>
+        <person class="indexing_service">LIMAN, ELLEN</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910715T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDB1F3BF936A25754C0A967958260" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN HELLER ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ELLEN LIMAN is to be named chairwoman of New York City's Advisory Commission for Cultural Affairs, City Hall officials say. The commission, which advises the Department of Cultural Affairs and Mayor DAVID N. DINKINS, has 15 to 21 members, of whom Mrs. Liman is one.</p>
+        <p>Mrs. Liman's restless energy as a painter and sometime writer has resulted in two books on interior design, "The Collecting Book" (Penguin, 1980), and "Babyspace" (Perigee Books, 1984).</p>
+      </block>
+      <block class="full_text">
+        <p>ELLEN LIMAN is to be named chairwoman of New York City's Advisory Commission for Cultural Affairs, City Hall officials say. The commission, which advises the Department of Cultural Affairs and Mayor DAVID N. DINKINS, has 15 to 21 members, of whom Mrs. Liman is one.</p>
+        <p>Mrs. Liman's restless energy as a painter and sometime writer has resulted in two books on interior design, "The Collecting Book" (Penguin, 1980), and "Babyspace" (Perigee Books, 1984).</p>
+        <p>She would not comment on the appointment, which has not been officially announced. It does not have to be approved by the Mayor's Advisory Committee on Appointments, which is headed by ARTHUR L. LIMAN, a lawyer who is Mrs. Liman's husband.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

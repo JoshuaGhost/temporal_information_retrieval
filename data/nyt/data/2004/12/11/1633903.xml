@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   PALMER, ARNOLD J.</title>
+    <meta content="DN121104" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1633903"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">PALMER, ARNOLD J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E3DD1E31F932A25751C1A9629C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   PALMER, ARNOLD J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PALMER--Arnold J., of Montville, NJ. Beloved husband of Barbara. Devoted father of Geoffrey and his wife Nina, Jane Newton and her husband Mark, and Nancy Kornbluh and her husband Lee. Adored grandfather of Max and Freddie, Scott and David, Adam and Sarah. Funeral services at Temple B'nai Jeshurun, 1025 So. Orange Ave., Short Hills, NJ on Sunday December 12th 2 PM. Please call for info Bernheim-ApterKreitzman, 973-422-0600.</p>
+      </block>
+      <block class="full_text">
+        <p>PALMER--Arnold J., of Montville, NJ. Beloved husband of Barbara. Devoted father of Geoffrey and his wife Nina, Jane Newton and her husband Mark, and Nancy Kornbluh and her husband Lee. Adored grandfather of Max and Freddie, Scott and David, Adam and Sarah. Funeral services at Temple B'nai Jeshurun, 1025 So. Orange Ave., Short Hills, NJ on Sunday December 12th 2 PM. Please call for info Bernheim-ApterKreitzman, 973-422-0600.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

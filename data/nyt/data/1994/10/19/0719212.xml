@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Cup Gives Rothenberg $3 Million</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="719212"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="SPORTS PEOPLE: SOCCER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCCER</classifier>
+        <classifier class="indexing_service" type="descriptor">WORLD CUP (SOCCER)</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BONUSES</classifier>
+        <person class="indexing_service">ROTHENBERG, ALAN</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Cup (Soccer)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DA113CF93AA25753C1A962958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Cup Gives Rothenberg $3 Million</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 1994 World Cup finished with a profit of about $50 million and the chief United States organizer, ALAN ROTHENBERG, will get a $3 million bonus, the organizers said yesterday.</p>
+        <p>At the start of 1994, Rothenberg estimated a profit of $20 million. It increased because security costs were lower than forecast.</p>
+      </block>
+      <block class="full_text">
+        <p>The 1994 World Cup finished with a profit of about $50 million and the chief United States organizer, ALAN ROTHENBERG, will get a $3 million bonus, the organizers said yesterday.</p>
+        <p>At the start of 1994, Rothenberg estimated a profit of $20 million. It increased because security costs were lower than forecast.</p>
+        <p>"We had a lot of contingencies, and thank God we did not have to spend them," Rothenberg said.</p>
+        <p>Rothenberg was covered for expenses in his soccer work, but did not get a salary. He said part of the reason for the bonus was to compensate him for money he lost because of the time he spent away from his Los Angeles law practice. The board of directors of World Cup USA 1994 decided on the bonus last week in Los Angeles. (AP)  SPORTS PEOPLE: SOCCER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

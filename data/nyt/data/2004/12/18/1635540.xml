@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drugs in Baseball</title>
+    <meta content="L18DRU$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1635540"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Steroids</classifier>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <person class="indexing_service">Schildknecht, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D81530F93BA25751C1A9629C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drugs in Baseball</hl1>
+      </hedline>
+      <abstract>
+        <p>David Schildknecht letter holds that performance-enhancing steroid use by some major league baseball players makes it impossible to determine who is best player</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Will Carroll (''Swinging for the Fences,'' Op-Ed, Dec. 14) and Carl Elliott (''This Is Your Country on Drugs,'' Op-Ed, Dec. 14) insightfully track the common roots of chemical performance enhancement in baseball and the rest of life. But a critical difference has slid past them.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Will Carroll (''Swinging for the Fences,'' Op-Ed, Dec. 14) and Carl Elliott (''This Is Your Country on Drugs,'' Op-Ed, Dec. 14) insightfully track the common roots of chemical performance enhancement in baseball and the rest of life. But a critical difference has slid past them.</p>
+        <p>Baseball is a game that measures scores and records, chalking up wins and losses.</p>
+        <p>What renders the latest revelations scandalous to the public is not, I fear, sobering social insights of the sort mustered by Professor Elliott. What irks Americans is that drug use wreaks havoc with the rules, rendering impossible a satisfying answer to ''Who's best?'' or ''Who won?''</p>
+        <p>And compulsive concern with those two questions is at least as pervasive in our society as performance insecurity.</p>
+        <p>David Schildknecht  Cincinnati, Dec. 14, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

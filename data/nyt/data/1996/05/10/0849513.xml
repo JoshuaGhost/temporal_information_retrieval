@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Foreign Securities Report</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="849513"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">FOREIGN INVESTMENTS</classifier>
+        <org class="indexing_service">SECURITIES INDUSTRY ASSN</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Investments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DA1539F933A25756C0A960958260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Foreign Securities Report</hl1>
+      </hedline>
+      <byline class="print_byline">By Dow Jones</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>United States investors acquired $98 billion worth of foreign securities in 1995, according to the Securities Industry Association. The association's Foreign Activity Report, released on Wednesday, said last year's amount was the  second largest in history, surpassed only in 1993, when nearly $143 billion was  invested abroad.</p>
+      </block>
+      <block class="full_text">
+        <p>United States investors acquired $98 billion worth of foreign securities in 1995, according to the Securities Industry Association. The association's Foreign Activity Report, released on Wednesday, said last year's amount was the  second largest in history, surpassed only in 1993, when nearly $143 billion was  invested abroad.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

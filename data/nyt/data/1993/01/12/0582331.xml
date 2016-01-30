@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RehabCare Corp. reports earnings for Qtr to Nov 30</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="582331"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4D61E3DF931A25752C0A965958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RehabCare Corp. reports earnings for Qtr to Nov 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*RehabCare Corp.</p>
+        <p>Qtr to Nov 30</p>
+        <p>1992</p>
+        <p>1991</p>
+        <p>Revenue</p>
+        <p>12,317,000</p>
+        <p>11,405,000</p>
+        <p>Net inc</p>
+        <p>723,000</p>
+        <p>613,000</p>
+        <p>Share earns</p>
+        <p>.20</p>
+        <p>.13</p>
+        <p>Shares outst</p>
+        <p>3,440,000</p>
+        <p>4,821,000</p>
+        <p>9mo rev</p>
+        <p>35,991,000</p>
+        <p>33,530,000</p>
+        <p>Net inc</p>
+        <p>2,278,000</p>
+        <p>2,000,000</p>
+        <p>Share earns</p>
+        <p>.52</p>
+        <p>.45</p>
+        <p>Shares outst</p>
+        <p>4,362,000</p>
+        <p>4,466,000</p>
+        <p>The company is listed on the Nasdaq National Market System.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MELLEN, CONSTANCE L.</title>
+    <meta content="DN111997" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="974085"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <person class="indexing_service">MELLEN, CONSTANCE L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0D81E38F93AA25752C1A961958260" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MELLEN, CONSTANCE L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MELLEN-Constance L. On Saturday November 15, 1997 in Washington D.C. Beloved daughter of Frederic W. and Sophie Ross Loudon. Beloved sister of Barbara. Memorial service December 6 at Christ Church, Georgetown, Washington D.C. 1:30PM. In lieu of flowers, memorial donations should be sent to Martha's Table, 2114 14th St NW, Washington D.C. 20009.</p>
+      </block>
+      <block class="full_text">
+        <p>MELLEN-Constance L. On Saturday November 15, 1997 in Washington D.C. Beloved daughter of Frederic W. and Sophie Ross Loudon. Beloved sister of Barbara. Memorial service December 6 at Christ Church, Georgetown, Washington D.C. 1:30PM. In lieu of flowers, memorial donations should be sent to Martha's Table, 2114 14th St NW, Washington D.C. 20009.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

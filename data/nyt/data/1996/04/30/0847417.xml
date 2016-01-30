@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="847417"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <person class="indexing_service">BILL GATES</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFDC1739F933A05757C0A960958260" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last year, it was Windows 95 for BILL GATES; this year it's Baby 96. MELINDA  FRENCH GATES, 31, the wife of the founder and chairman of the Microsoft Corporation and a Microsoft executive herself, gave birth to an 8-pound, 6-ounce girl on Friday at Overlake Hospital in Bellevue, Wash., The Associated Press reported. The baby has been named Jennifer Katherine.</p>
+        <p>"They're home," Dean Katz, a Microsoft spokesman, said yesterday. "Everybody's fine."</p>
+      </block>
+      <block class="full_text">
+        <p>Last year, it was Windows 95 for BILL GATES; this year it's Baby 96. MELINDA  FRENCH GATES, 31, the wife of the founder and chairman of the Microsoft Corporation and a Microsoft executive herself, gave birth to an 8-pound, 6-ounce girl on Friday at Overlake Hospital in Bellevue, Wash., The Associated Press reported. The baby has been named Jennifer Katherine.</p>
+        <p>"They're home," Dean Katz, a Microsoft spokesman, said yesterday. "Everybody's fine."</p>
+        <p>It's the first child for the couple, who were married in 1994. Mr. Gates, 40, is reported to be worth an estimated $14.8 billion. But he has said that he  doesn't want his children to be raised with enormous wealth and has announced his intention to give away 95 percent of his money rather than pass it on to his heirs.</p>
+        <p>NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

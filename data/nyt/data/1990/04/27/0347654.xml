@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Franklin's Gift, Compounded</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="347654"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PUBLIC WORKS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <person class="indexing_service">FRANKLIN, BENJAMIN (1706-90)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Works</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DD1538F934A15757C0A966958260" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Franklin's Gift, Compounded</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Benjamin Franklin left $:2,000 in his will for loans to young apprentices in Boston and Philadelphia, providing also that part of the principal be given away for ''public works'' after 100 years, and the rest after 200 - which is now. The 1890 distribution took 14 years to settle. Now starts the scrapping over the $6.5 million that remains today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Benjamin Franklin left $:2,000 in his will for loans to young apprentices in Boston and Philadelphia, providing also that part of the principal be given away for ''public works'' after 100 years, and the rest after 200 - which is now. The 1890 distribution took 14 years to settle. Now starts the scrapping over the $6.5 million that remains today.</p>
+        <p>Benjamin Franklin left $:2,000 in his will for loans to young apprentices in Boston and Philadelphia, providing also that part of the principal be given away for ''public works'' after 100 years, and the rest after 200 - which is now. The 1890 distribution took 14 years to settle. Now starts the scrapping over the $6.5 million that remains today.</p>
+        <p>The will doesn't give detailed guidance, but a letter Franklin wrote in 1772 may help. Responding to a request for advice, he said:</p>
+        <p>''My way is to divide half a sheet of paper into two columns, writing over the one Pro and over the other Con.'' After listing pro's and con's, he says: ''Where I find two, one on each side, that seem equal, I strike both. . . . If I judge some two reasons con equal to some three pro, I strike the five; and thus I find at length where the balance lies. . . . Though the weight of reasons cannot be taken with the precision of algebraic quantities, when each is thus considered . . . I am less liable to make a rash step.''</p>
+        <p>If Franklin's algebra is too much for Boston and Philadelphia, here's an idea: ''The wise man will be governed by the stars.'' Different counsel. Same counselor.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

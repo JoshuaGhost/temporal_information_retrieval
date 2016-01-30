@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miss Brown Wed To Mark Siceloff</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="45" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="373854"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BROWN, SUZANNE (SUZANNE SICELOFF)</person>
+        <person class="indexing_service">SICELOFF, MARK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DE113CF936A3575BC0A966958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miss Brown Wed To Mark Siceloff</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Suzanne Brown, a daughter of Mr. and Mrs. Philip J. Brown Jr. of London, was married yesterday in Basking Ridge, N.J., to Mark Jeffrey Siceloff, a son of Mr. and Mrs. Warren J. Siceloff of Basking Ridge. Msgr. William J. Capik officiated at the Roman Catholic Church of St. James.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Suzanne Brown, a daughter of Mr. and Mrs. Philip J. Brown Jr. of London, was married yesterday in Basking Ridge, N.J., to Mark Jeffrey Siceloff, a son of Mr. and Mrs. Warren J. Siceloff of Basking Ridge. Msgr. William J. Capik officiated at the Roman Catholic Church of St. James.</p>
+        <p>Suzanne Brown, a daughter of Mr. and Mrs. Philip J. Brown Jr. of London, was married yesterday in Basking Ridge, N.J., to Mark Jeffrey Siceloff, a son of Mr. and Mrs. Warren J. Siceloff of Basking Ridge. Msgr. William J. Capik officiated at the Roman Catholic Church of St. James.</p>
+        <p>Mrs. Siceloff, 29 years old, graduated from Trinity College in Washington. She and her husband, 27, a graduate of the Virginia Polytechnic Institute, are senior account representatives at the Marsh &amp; McLennan insurance brokerage in Morristown, N.J.</p>
+        <p>The bride's father is the executive vice president in the London office of Marsh &amp; McLennan. The bridegroom's mother, Mary Siceloff, is a nurse at Morristown Memorial Hospital. His father is the staff manager of operations at Bell Communications Research in Morristown.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

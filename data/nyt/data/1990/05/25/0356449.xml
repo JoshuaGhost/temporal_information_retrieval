@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Resorts Plan Gets Backing</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="356449"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REFORM AND REORGANIZATION</classifier>
+        <org class="indexing_service">RESORTS INTERNATIONAL INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reform and Reorganization</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D8103AF936A15756C0A966958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Resorts Plan Gets Backing</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>ATLANTIC CITY, May 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The financial restructuring proposed by Resorts International Inc. to shed most of its $927 million debt has been approved by committees representing its two groups of bondholders, the casino company said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The financial restructuring proposed by Resorts International Inc. to shed most of its $927 million debt has been approved by committees representing its two groups of bondholders, the casino company said today.</p>
+        <p>The financial restructuring proposed by Resorts International Inc. to shed most of its $927 million debt has been approved by committees representing its two groups of bondholders, the casino company said today.</p>
+        <p>The plan must still be approved by two-thirds of the bondholders, the Federal Bankruptcy Court in Camden, N.J., the New Jersey Casino Control Commission and the Government of the Bahamas. Besides Merv Griffin's Resorts Casino Hotel in Atlantic City, Resorts owns casinos in the Bahamas.</p>
+        <p>The endorsement of the recapitalization plan comes just before a bankruptcy court hearing on the plan scheduled for next Thursday.</p>
+        <p>''I am pleased that the bondholder committees have endorsed our plan,'' said the Merv Griffin, the entertainer who is Resorts's chairman.</p>
+        <p>''Now, we will focus our attention on making Resorts the world-class resort it can be.''</p>
+        <p>The plan, filed under Chapter 11 of the Federal Bankruptcy Code, would give bondholders 78 percent of the company, dropping Mr. Griffin's holdings to 22 percent, from 100 percent.</p>
+        <p>Resorts would then exchange the $927 million in debt held by those bondholders for a reduced debt service.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports News Briefs; Steelers' Webster Changes His Mind</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="121305"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">PITTSBURGH STEELERS</org>
+        <person class="indexing_service">WEBSTER, MIKE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Pittsburgh Steelers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D61130F931A15751C0A96E948260" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports News Briefs; Steelers' Webster Changes His Mind</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PITTSBURGH, Feb. 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Mike Webster, the center who surprised the Pittsburgh Steelers on Friday by announcing his retirement, surprised them again today by saying he would return next season.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Mike Webster, the center who surprised the Pittsburgh Steelers on Friday by announcing his retirement, surprised them again today by saying he would return next season.</p>
+        <p>Mike Webster, the center who surprised the Pittsburgh Steelers on Friday by announcing his retirement, surprised them again today by saying he would return next season.</p>
+        <p>''I hadn't really planned to retire in the first place,'' he said. ''If I was really going to retire I would have done it after the season and gotten on with my life's work.'' Webster, a 14-year veteran, is the last active Steeler with four Super Bowl rings.</p>
+        <p>Webster said he came to an ''understanding'' with Dan Rooney, the Steelers president, over the weekend.</p>
+        <p>''We might not be able to agree on it, but friends can disagree I think and still be friends,'' said Webster, who has a contract for 1988 worth an estimated $330,000, and an option for 1989.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

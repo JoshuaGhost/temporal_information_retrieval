@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Melissa L. Strock, John C. Canoni</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="63" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="716871"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">STROCK, MELISSA LYNNE (MELISSA LYNNE CANONI)</person>
+        <person class="indexing_service">CANONI, JOHN CHARLES</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DE133DF93AA35753C1A962958260" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Melissa L. Strock, John C. Canoni</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Melissa Lynne Strock, a manager of development at the New York Botanical Garden in the Bronx, was married yesterday to John Charles Canoni, an associate at the New York law firm of Whitman Breed Abbott &amp; Morgan. The Rev. Dr. Douglas W. Caldwell, a Moravian pastor, performed the ceremony at the Old Moravian Chapel in Bethlehem, Pa.</p>
+        <p>Mrs. Canoni graduated from Mount Holyoke College. She is the daughter of Mr. and Mrs. John D. Strock of Hellertown, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>Melissa Lynne Strock, a manager of development at the New York Botanical Garden in the Bronx, was married yesterday to John Charles Canoni, an associate at the New York law firm of Whitman Breed Abbott &amp; Morgan. The Rev. Dr. Douglas W. Caldwell, a Moravian pastor, performed the ceremony at the Old Moravian Chapel in Bethlehem, Pa.</p>
+        <p>Mrs. Canoni graduated from Mount Holyoke College. She is the daughter of Mr. and Mrs. John D. Strock of Hellertown, Pa.</p>
+        <p>Mr. Canoni graduated from Amherst College and received his law degree from Fordham University. He is a son of Mr. and Mrs. John D. Canoni of Chappaqua, N.Y.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FINANCE BRIEFS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="650290"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DD1238F935A25752C1A965958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FINANCE BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Debt  * Bank of Boston Corp. is selling $350 million 6.625 percent subordinated notes due in 2005 priced at 99.63 to yield 6.67 percent through underwriters led by Merrill Lynch. The noncallable notes are rated Baa-2 by Moody's Investors Service and triple-B by Standard &amp; Poor's and Duff Phelps.</p>
+      </block>
+      <block class="full_text">
+        <p>Debt  * Bank of Boston Corp. is selling $350 million 6.625 percent subordinated notes due in 2005 priced at 99.63 to yield 6.67 percent through underwriters led by Merrill Lynch. The noncallable notes are rated Baa-2 by Moody's Investors Service and triple-B by Standard &amp; Poor's and Duff Phelps.</p>
+        <p>* Federal Home Loan Bank is selling $450 million of notes divided into two parts: $250 million of notes due in 1994 priced at 100 to yield 3.58 percent and $200 million notes due in 1995 priced at 100 to yield 4.08 percent, both through Merrill Lynch. The notes are noncallable.</p>
+        <p>Preferred Stock  * San Diego Gas and Electric Co. is selling 640,000 of cumulative preferred stock priced at $26 a share to yield 7 percent through Merrill Lynch. The noncallable five-year shares are rated A-1 by Moody's and A by S.&amp; P. and Duff &amp; Phelps.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>They Love a Parade</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="7102"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW JERSEY</location>
+        <org class="indexing_service">NEW YORK GIANTS</org>
+        <person class="indexing_service">ROSENBAUM, BOB</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DB1F3FF936A15752C0A961948260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>They Love a Parade</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: I address this to Mayor Koch: Dear Mayor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: I address this to Mayor Koch: Dear Mayor:</p>
+        <p>I address this to Mayor Koch: Dear Mayor:</p>
+        <p>My dog, Mosholu, has been upset about your ambivalent feelings towards the Giants. Our family has lived in both New York and New Jersey, as have you, and we think that you should be more open-minded about things.</p>
+        <p>Come on, Ed! Wellington Mara is not Walter O'Malley! (Whatever happened to the Dodgers?) We all live in the same place together. If it helps, think of the team as the ''Hudson Giants.'' It sounds better, and it's the truth.</p>
+        <p>By the way, if the IRT No. 7 Flushing line is ever extended to the Javits Convention Center, just keep going one additional stop, under the Hudson River, to Giants Stadium. That way, I can conveniently take the subway into midtown from New Jersey, and you can make the commute in the opposite direction, to watch the best metropolitan area football in years.  BOB ROSENBAUM  Summit, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

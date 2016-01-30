@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pact for Westminster</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="458562"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: DOG SHOWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DOG SHOWS</classifier>
+        <classifier class="indexing_service" type="descriptor">MADISON SQUARE GARDEN (NYC)</classifier>
+        <org class="indexing_service">WESTMINSTER KENNEL CLUB</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DA173FF93AA35754C0A967958260" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pact for Westminster</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Westminster Kennel Club, which has been holding dog shows in New York every year since 1877, has renewed its contract with Madison Square Garden for the next five years, according to an announcement by CHESTER COLLIER, the club's president. There were reports that Westminster would follow the lead of the National Horse Show and move to the Meadowlands.</p>
+      </block>
+      <block class="full_text">
+        <p>The Westminster Kennel Club, which has been holding dog shows in New York every year since 1877, has renewed its contract with Madison Square Garden for the next five years, according to an announcement by CHESTER COLLIER, the club's president. There were reports that Westminster would follow the lead of the National Horse Show and move to the Meadowlands.</p>
+        <p>SPORTS PEOPLE: DOG SHOWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

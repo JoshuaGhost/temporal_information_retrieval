@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software Offer From Xerox</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="385368"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <org class="indexing_service">XEROX CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DD103CF933A1575AC0A966958260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software Offer From Xerox</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>PALO ALTO, Calif. Sept. 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Xerox Corporation said today that it would offer its office automation computer software for use on computers made by other manufacturers.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Xerox Corporation said today that it would offer its office automation computer software for use on computers made by other manufacturers.</p>
+        <p>The Xerox Corporation said today that it would offer its office automation computer software for use on computers made by other manufacturers.</p>
+        <p>Xerox is staking a claim to software that allows workers to collaborate on tasks, like writing a report. The software does this by exchanging information on desktop computers linked by networks. Xerox's software, once called Viewpoint and now renamed Globalview, competes with such products as New Wave Office from the Hewlett-Packard Company and Officevision from the International Business Machines Corporation.</p>
+        <p>By allowing its software to run on industry-standard computers, rather than just its own machines, Xerox hopes to broaden its appeal and become a leading supplier of networking software to corporations.</p>
+        <p>At a news conference at its research center here, Xerox said it would begin selling, under its own name, a $10,000 computer work station made by Sun Microsystems Inc. that would run the Globalview software. It also announced a $4,000 kit consisting of a circuit board and a computer screen, that would turn an I.B.M. or compatible personal computer into a work station that can hook into a Xerox network and run the Xerox software.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

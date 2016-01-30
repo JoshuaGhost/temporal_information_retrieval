@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17INSI$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1039802"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DE163DF934A2575BC0A96E958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Battle Nears in Congo  Congo Government and rebel forces have begun furious preparations for what each side expects to be the critical fight for control of the capital city, Kinshasa. Page A6.</p>
+        <p>Medicaid Rolls Decline  In a trend that has alarmed health care providers, the number of poor people enrolled in Medicaid in New York State has been declining for the last three years. Page B1.</p>
+        <p>Kosovo Refugees in Peril  Even as NATO tries to make the Yugoslav Government stop its attacks on civilians in Kosovo, shelling and burning continues. Page A3.</p>
+        <p>Singh Wins First Major  Vijay Singh won golf's P.G.A. Championship, ending Mark O'Meara's bid to win three major tournaments in a year. SportsMonday, page C1.</p>
+        <p>Battle in Bluegrass Country  The fate of the more than 500 trophies won by the fabled Calumet Farm has become a cause celebre in Kentucky. SportsMonday, page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>Battle Nears in Congo  Congo Government and rebel forces have begun furious preparations for what each side expects to be the critical fight for control of the capital city, Kinshasa. Page A6.</p>
+        <p>Medicaid Rolls Decline  In a trend that has alarmed health care providers, the number of poor people enrolled in Medicaid in New York State has been declining for the last three years. Page B1.</p>
+        <p>Kosovo Refugees in Peril  Even as NATO tries to make the Yugoslav Government stop its attacks on civilians in Kosovo, shelling and burning continues. Page A3.</p>
+        <p>Singh Wins First Major  Vijay Singh won golf's P.G.A. Championship, ending Mark O'Meara's bid to win three major tournaments in a year. SportsMonday, page C1.</p>
+        <p>Battle in Bluegrass Country  The fate of the more than 500 trophies won by the fabled Calumet Farm has become a cause celebre in Kentucky. SportsMonday, page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

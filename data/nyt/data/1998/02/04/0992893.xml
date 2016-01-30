@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vitamins May Lower Risk of Heart Attack</title>
+    <meta content="04X2VI$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="992893"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E6D6163DF937A35751C0A96E958260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vitamins May Lower Risk of Heart Attack</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A high intake of two B vitamins found in fruits, vegetables and other common foods appears to reduce by nearly half women's risk of heart attacks, a study has shown. The study also confirmed a protective effect on women's hearts of drinking moderate amounts of alcohol.</p>
+      </block>
+      <block class="full_text">
+        <p>A high intake of two B vitamins found in fruits, vegetables and other common foods appears to reduce by nearly half women's risk of heart attacks, a study has shown. The study also confirmed a protective effect on women's hearts of drinking moderate amounts of alcohol.</p>
+        <p>The study, conducted among more than 80,000 women who are nurses, is the first to show a direct link between these B vitamins, folate and B-6, and protection against coronary disease. It suggests that eating more fruits, vegetables and whole grains or getting these B vitamins from supplements is as important as quitting smoking, lowering cholesterol and controlling blood pressure in preventing premature death from the nation's leading killer.</p>
+        <p>Article, page A10.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

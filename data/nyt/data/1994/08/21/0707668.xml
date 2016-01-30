@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Mexico</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="707668"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <location class="indexing_service">NEW MEXICO</location>
+        <location class="indexing_service">ACOMA (NM)</location>
+        <person class="indexing_service">MURRAY, MARTHA</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Mexico</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D81130F932A1575BC0A962958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Mexico</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Judith Anderson's article ("Leaving Their Mark in New Mexico," June 5) on Acoma and El Morro was wonderful. It is a trip my husband and I took in a recreational van three years ago. The camp ground at El Morro is beautiful, quiet and almost empty.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Judith Anderson's article ("Leaving Their Mark in New Mexico," June 5) on Acoma and El Morro was wonderful. It is a trip my husband and I took in a recreational van three years ago. The camp ground at El Morro is beautiful, quiet and almost empty.</p>
+        <p>I must, however, disagree with how to approach Acoma. It must be approached from the west. The first sight of Acoma from Tribal Route 32 is as stirring as one's first sight of Mont-Saint-Michel. Visitors should be urged to to take that route. MARTHA MURRAY  East Hampton, L.I. Judith Anderson responds: I find both roads to Acoma beautiful, but, like Ms. Murray, I am partial to the western approach on Tribal Route 32. However, for the story, we were moving from Acoma to El Morro, so it made sense to approach from the east.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

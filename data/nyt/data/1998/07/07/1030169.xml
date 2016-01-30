@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World News Briefs; 5 Indonesians Are Killed By Police Fire at Protest</title>
+    <meta content="WB002650" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1030169"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Independence Movements and Secession</classifier>
+        <location class="indexing_service">Indonesia</location>
+        <location class="indexing_service">Irian Jaya (Indonesia)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Indonesia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Indonesia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E4DD103EF934A35754C0A96E958260" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World News Briefs; 5 Indonesians Are Killed By Police Fire at Protest</hl1>
+      </hedline>
+      <dateline>JAKARTA, Indonesia, Tuesday, July 7</dateline>
+      <abstract>
+        <p>Five people die after security forces fire on crowd demonstrating in Jakarta for independence for Irian Jaya (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Five people died in a hospital on Monday night after security forces fired on a crowd demonstrating for independence in the remote Indonesian province of Irian Jaya, legal aid sources there said today.</p>
+        <p>A member of the Indonesian Legal Aid Office in the provincial capital of Jayapura said five others remained in critical condition on the island of Biak, off the coast of Irian Jaya, while 14 were being treated for less serious wounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Five people died in a hospital on Monday night after security forces fired on a crowd demonstrating for independence in the remote Indonesian province of Irian Jaya, legal aid sources there said today.</p>
+        <p>A member of the Indonesian Legal Aid Office in the provincial capital of Jayapura said five others remained in critical condition on the island of Biak, off the coast of Irian Jaya, while 14 were being treated for less serious wounds.</p>
+        <p>Paul Baut, the legal aid official, said the situation in Biak remained tense this morning, with dozens of soldiers still patrolling the streets.</p>
+        <p>At least 24 people were wounded on Monday when security forces shot into a crowd of several hundred raising a separatist flag in the province, where rebels have been waging a low-level campaign since the 1960's.</p>
+        <p>Irian Jaya, bordering Papua New Guinea, was taken over from the Dutch in 1963.</p>
+        <p>Two students were wounded on Friday as security forces fired live ammunition to break up an independence rally at Cendrawasih University in Jayapura.</p>
+        <p>Separatist campaigns have been gaining ground since the resignation in May of President Suharto, who maintained an iron-fisted grip on the country's 217 provinces.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

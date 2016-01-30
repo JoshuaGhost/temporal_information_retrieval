@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN002915" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="COMPANY BRIEFS" name="column_name"/>
+    <docdata>
+      <doc-id id-string="896148"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="COMPANY BRIEFS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Mortgage America Inc</org>
+        <org class="indexing_service">IMC Mortgage Inc</org>
+        <org class="indexing_service">Service Corp International</org>
+        <org class="indexing_service">Equity Corp International</org>
+        <org class="indexing_service">Reynolds Metals Co</org>
+        <org class="indexing_service">amerimark inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D6113EF934A25751C1A960958260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+      <abstract>
+        <p>IMC Mortgage Inc, Tampa, Fla, to buy Mortgage America Inc, Bay City, Mich, for an initial payment of about $26.6 million in stock; Service International, Lufkin, Tex, says it will sell its 41.6 percent stake in Equity Corp International; Reynolds Metals Co, Richmond, to sell its North American home building operations to Amerimark Inc, Raleigh, NC, for undisclosed terms (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IMC MORTGAGE INC., Tampa, Fla., will buy Mortgage America Inc., Bay City, Mich., for an initial payment of about $26.6 million in stock.</p>
+        <p>SERVICE CORP. INTERNATIONAL, Lufkin, Tex., a funeral home operator, said it planned to sell its 41.6 percent stake in Equity Corp. International, Lufkin, a provider of death care services.</p>
+        <p>REYNOLDS METALS CO., Richmond, agreed to sell its North American  home building operations to Amerimark Inc., Raleigh, N.C., for an undis closed amount.</p>
+      </block>
+      <block class="full_text">
+        <p>IMC MORTGAGE INC., Tampa, Fla., will buy Mortgage America Inc., Bay City, Mich., for an initial payment of about $26.6 million in stock.</p>
+        <p>SERVICE CORP. INTERNATIONAL, Lufkin, Tex., a funeral home operator, said it planned to sell its 41.6 percent stake in Equity Corp. International, Lufkin, a provider of death care services.</p>
+        <p>REYNOLDS METALS CO., Richmond, agreed to sell its North American  home building operations to Amerimark Inc., Raleigh, N.C., for an undis closed amount.</p>
+        <p>COMPANY BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FELDMAN, SEYMOUR</title>
+    <meta content="DN032403" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1475091"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">FELDMAN, SEYMOUR</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030324T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EFDF1530F937A15750C0A9659C8B63" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FELDMAN, SEYMOUR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FELDMAN-Seymour, 87. Of Rancho Mirage, CA, formerly of NYC, passed away March 21, 2003. Loving brother of Florence Lubotta. Loving uncle of Leslie, Jeffrey, Jill &amp; Larraine. Funeral service will be held Monday, March 24, 11:30 AM, at The Riverside Chapel, 76th Street and Amsterdam Avenue, NYC.</p>
+      </block>
+      <block class="full_text">
+        <p>FELDMAN-Seymour, 87. Of Rancho Mirage, CA, formerly of NYC, passed away March 21, 2003. Loving brother of Florence Lubotta. Loving uncle of Leslie, Jeffrey, Jill &amp; Larraine. Funeral service will be held Monday, March 24, 11:30 AM, at The Riverside Chapel, 76th Street and Amsterdam Avenue, NYC.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

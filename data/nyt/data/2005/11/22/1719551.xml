@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life Stories, by McCourt</title>
+    <meta content="l22mccourt" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1719551"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6D91F3EF931A15752C1A9639C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life Stories, by McCourt</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Before Memoirs, He Wrote A's, B's, C's, D's and F's'' (news article, Nov. 16):</p>
+        <p>Frank McCourt's stories about his life made him an unforgettable teacher. Now he has written about them in his new memoir, ''Teacher Man.''</p>
+        <p>Growing up as the daughter of uneducated Eastern European immigrants, I was no stranger to hopelessness, poverty and shame. While at Stuyvesant High School in New York City (class of 1983), I learned from Mr. McCourt that every life story is worth telling long before I learned from feminism that the personal is political.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Before Memoirs, He Wrote A's, B's, C's, D's and F's'' (news article, Nov. 16):</p>
+        <p>Frank McCourt's stories about his life made him an unforgettable teacher. Now he has written about them in his new memoir, ''Teacher Man.''</p>
+        <p>Growing up as the daughter of uneducated Eastern European immigrants, I was no stranger to hopelessness, poverty and shame. While at Stuyvesant High School in New York City (class of 1983), I learned from Mr. McCourt that every life story is worth telling long before I learned from feminism that the personal is political.</p>
+        <p>I later aspired to become a teacher because of Mr. McCourt's unorthodox pedagogical style, and I remain one today because of his books.</p>
+        <p>I first heard about ''Angela's Ashes'' in a hospital bed while recovering from cancer. Since then, I have taught many college students how to write and perform personal narratives. I cannot think of better ways to learn self-affirmation.</p>
+        <p>I owe a great deal both personally and professionally to my former teacher, Mr. Frank McCourt.</p>
+        <p>Tanya Augsburg  Tempe, Ariz., Nov. 16, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

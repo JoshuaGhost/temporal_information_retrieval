@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="03FRAN$04" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1608707"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E2D71331F930A3575AC0A9629C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Islamic Head Scarf Ban Takes Effect in France  A law banning Islamic head scarves and other religious symbols from French public schools went into effect, transforming the first day of school into a nationwide show of defiance of a demand by the captors of two French journalists in Iraq that the law be rescinded.</p>
+        <p>PAGE A9</p>
+        <p>Malaysian Ex-Official Freed  A Malaysian court overturned the sodomy conviction of former Deputy Prime Minister Anwar Ibrahim. He had been jailed since 1998.</p>
+        <p>PAGE A3</p>
+      </block>
+      <block class="full_text">
+        <p>Islamic Head Scarf Ban Takes Effect in France  A law banning Islamic head scarves and other religious symbols from French public schools went into effect, transforming the first day of school into a nationwide show of defiance of a demand by the captors of two French journalists in Iraq that the law be rescinded.</p>
+        <p>PAGE A9</p>
+        <p>Malaysian Ex-Official Freed  A Malaysian court overturned the sodomy conviction of former Deputy Prime Minister Anwar Ibrahim. He had been jailed since 1998.</p>
+        <p>PAGE A3</p>
+        <p>Feast for the Eyes  Mimi Sheraton makes a meal of still-life paintings at the Metropolitan Museum of Art, linking palate and palette.</p>
+        <p>WEEKEND, PAGE E23</p>
+        <p>Avian Flu Among Cats  The avian influenza virus that has spread among birds and some people in Asia has crossed another barrier to infect cats and can pass among them, scientists said, calling the finding ''extraordinary.''</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

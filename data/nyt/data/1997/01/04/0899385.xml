@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  PELLMAN, EDWIN</title>
+    <meta content="PELLM" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="899385"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PELLMAN, EDWIN</classifier>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1D91331F937A35752C0A961958260" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  PELLMAN, EDWIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PELLMAN - Edwin, on January 2, 1997. Former Assistant Principal of Ettinger J.H.S. 13 and Wagner J.H.S. 167. Beloved husband of Miriam. Memorial services on Sunday at 4 P.M. at ''The Riverside'', 76 Street and Amsterdam Avenue. Contributions may be made to the New York City Ballet, School of American Ballet or the Parkinson's Disease Foundation.</p>
+      </block>
+      <block class="full_text">
+        <p>PELLMAN - Edwin, on January 2, 1997. Former Assistant Principal of Ettinger J.H.S. 13 and Wagner J.H.S. 167. Beloved husband of Miriam. Memorial services on Sunday at 4 P.M. at ''The Riverside'', 76 Street and Amsterdam Avenue. Contributions may be made to the New York City Ballet, School of American Ballet or the Parkinson's Disease Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

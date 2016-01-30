@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hey, Buddy, Need Tickets?</title>
+    <meta content="04empire-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1852208"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="THE EMPIRE ZONE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3DD1130F937A35755C0A9619C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hey, Buddy, Need Tickets?</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS CONFESSORE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The governor signed a law late last week that legalized ticket scalping.</p>
+        <p>''Scalping laws did not make sense,'' he said on Friday, adding, ''This will be good for the venues, good for consumers and good for the artists.''</p>
+      </block>
+      <block class="full_text">
+        <p>The governor signed a law late last week that legalized ticket scalping.</p>
+        <p>''Scalping laws did not make sense,'' he said on Friday, adding, ''This will be good for the venues, good for consumers and good for the artists.''</p>
+        <p>Proponents of the legislation say it will bring the black market for tickets into the open and, thus, bring down prices. Opponents say that lifting the price caps currently set by law will bring prices up sharply. We'll know which side is right soon enough.</p>
+        <p>But in the meantime, let's take a look at the fine print.</p>
+        <p>Buried in the existing law against scalping were legislative findings that ticket prices were ''a matter of public interest'' and that regulations were necessary ''for the purpose of safeguarding the public against fraud, extortion, exorbitant rates and similar abuses.''</p>
+        <p>But drafters of the new legislation apparently feel differently. They amended those findings by striking ''exorbitant rates'' from the list of problems the Legislature is officially concerned about.</p>
+        <p>Those nosebleed seats to ''Altar Boyz'' are looking better already.</p>
+        <p>NICHOLAS CONFESSORE</p>
+        <p>THE EMPIRE ZONE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

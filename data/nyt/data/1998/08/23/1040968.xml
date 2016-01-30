@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unpeopled Parks</title>
+    <meta content="LTR043213" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1040968"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">National Parks, Monuments and Seashores</classifier>
+        <location class="indexing_service">South Dakota</location>
+        <person class="indexing_service">Schwartz, Irene Z</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/National Parks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/South Dakota</classifier>
+        <classifier class="online_producer" type="general_descriptor">National Parks, Monuments and Seashores</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DB153DF930A1575BC0A96E958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unpeopled Parks</hl1>
+      </hedline>
+      <abstract>
+        <p>Irene Z Schwartz letter on July 26 article on Badlands National Park in South Dakota recalls memories of trips to other national parks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The July 26 article ''Alone in the Badlands,'' about the South Dakota National Park, brought back memories of our visit. My husband and I are national park ''collectors'' and have visited almost all, from A for Acadia to Z for Zion.</p>
+        <p>Badlands is only one of many ''lonely places.'' The two parks in Texas, Big Bend and Guadalupe Mountains, remain undiscovered. Route 62 runs through a small corner of Guadalupe and is its only paved road. A very small part is accessible by four-wheel-drive vehicles and the rest by foot. Big Bend has paved roads but apparently its location and desertlike heat keep crowds away.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The July 26 article ''Alone in the Badlands,'' about the South Dakota National Park, brought back memories of our visit. My husband and I are national park ''collectors'' and have visited almost all, from A for Acadia to Z for Zion.</p>
+        <p>Badlands is only one of many ''lonely places.'' The two parks in Texas, Big Bend and Guadalupe Mountains, remain undiscovered. Route 62 runs through a small corner of Guadalupe and is its only paved road. A very small part is accessible by four-wheel-drive vehicles and the rest by foot. Big Bend has paved roads but apparently its location and desertlike heat keep crowds away.</p>
+        <p>Perhaps the most unpeopled park we have visited is Channel Isles, about 25 miles off Ventura, Calif.</p>
+        <p>IRENE Z. SCHWARTZ  East Meadow, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

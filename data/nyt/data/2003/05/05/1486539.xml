@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NOTRE DAME AND MIAMI VICTORIOUS IN BIG EAST MEET</title>
+    <meta content="PL022109" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1486539"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="PLUS: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <org class="indexing_service">University of Notre Dame</org>
+        <person class="indexing_service">Denman, Elliott</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDF103CF936A35756C0A9659C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NOTRE DAME AND MIAMI VICTORIOUS IN BIG EAST MEET</hl1>
+      </hedline>
+      <byline class="print_byline">By Elliott Denman</byline>
+      <byline class="normalized_byline">Denman, Elliott</byline>
+      <abstract>
+        <p>Notre Dame University wins men's title at Big East track and field championships (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Notre Dame's Luke Watson, a senior from Stillwater, Minn., won the 5,000-meter run yesterday in 14:14:14 after taking the 3,000-meter steeplechase Saturday, leading the Fighting Irish to the men's team triumph in the Big East championships at Storrs, Conn.</p>
+        <p>The high hurdler Selim Nurudeen (13.95) and the triple jumper Godwin Mbagwu (50) were other gold medalists for Notre Dame, which edged defending champion Connecticut, 139 points to 136.</p>
+      </block>
+      <block class="full_text">
+        <p>Notre Dame's Luke Watson, a senior from Stillwater, Minn., won the 5,000-meter run yesterday in 14:14:14 after taking the 3,000-meter steeplechase Saturday, leading the Fighting Irish to the men's team triumph in the Big East championships at Storrs, Conn.</p>
+        <p>The high hurdler Selim Nurudeen (13.95) and the triple jumper Godwin Mbagwu (50) were other gold medalists for Notre Dame, which edged defending champion Connecticut, 139 points to 136.</p>
+        <p>Miami took the women's title for the third straight season, totaling 166 points, with Notre Dame (126) a distant second. The Hurricanes' Charlette Griggs doubled in the 200 (in a meet-record 23.18) and 400 (52.17.)</p>
+        <p>Elliott Denman</p>
+        <p>PLUS: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

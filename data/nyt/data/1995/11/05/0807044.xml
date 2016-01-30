@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agent Solution</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="807044"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">COLLEGE ATHLETICS</classifier>
+        <person class="indexing_service">TRIFARI, RAY</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6D91739F936A35752C1A963958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agent Solution</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Scott Edelman's article "Colleges Can Take Action Against Agents" (The Times, Oct. 15) raises some important issues concerning unscrupulous agents who solicit and tender gifts to student-athletes and the effect of such conduct on their eligibility. In focusing on the remedies available under various state statutes  to deter such conduct, he does not point out that already in place in the National Football League is a very effective mechanism.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Scott Edelman's article "Colleges Can Take Action Against Agents" (The Times, Oct. 15) raises some important issues concerning unscrupulous agents who solicit and tender gifts to student-athletes and the effect of such conduct on their eligibility. In focusing on the remedies available under various state statutes  to deter such conduct, he does not point out that already in place in the National Football League is a very effective mechanism.</p>
+        <p>Under the Collective Bargaining Agreement between the N.F.L. Players Association and the N.F.L., the N.F.L.P.A. has the power to certify all agents who represent players in individual contract negotiations with N.F.L. clubs. The N.F.L.P.A. would certainly have the power to deny certification to any agent who was found to have imperiled the eligibility of any student-athlete in the manner described in Edlelman's article.</p>
+        <p>RAY TRIFARI Arlington, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

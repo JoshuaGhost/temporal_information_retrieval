@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cocaine Use Is Found By Motorman in Crash</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="333971"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RAILROADS</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">COCAINE</classifier>
+        <classifier class="indexing_service" type="descriptor">DRUG ABUSE AND TRAFFIC</classifier>
+        <location class="indexing_service">PHILADELPHIA (PA)</location>
+        <org class="indexing_service">NATIONAL TRANSPORTATION SAFETY BOARD</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Pennsylvania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cocaine and Crack Cocaine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DA1F3EF932A25750C0A966958260" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cocaine Use Is Found By Motorman in Crash</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>PHILADELPHIA, March 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A motorman on the Philadelphia subway train that crashed Wednesday, killing 3 people and injuring 94, has been suspended because he had used cocaine the day of the accident, a transit agency spokesman said today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A motorman on the Philadelphia subway train that crashed Wednesday, killing 3 people and injuring 94, has been suspended because he had used cocaine the day of the accident, a transit agency spokesman said today.</p>
+        <p>A motorman on the Philadelphia subway train that crashed Wednesday, killing 3 people and injuring 94, has been suspended because he had used cocaine the day of the accident, a transit agency spokesman said today.</p>
+        <p>But investigators with the National Transportation Safety Board said late Friday that the worker's use of the drug had not contributed to the crash. Investigators are focusing on the failure of a motor assembly on an axle as the cause of the crash.</p>
+        <p>A spokesman for the Southeast Pennsylvania Transportation Authority, which runs Philadelphia's subways, said a urine sample showed that the motorman had taken cocaine five to eight hours before the crash. The motorman has not been identified.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

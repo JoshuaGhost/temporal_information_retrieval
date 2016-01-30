@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Follow the Arrows</title>
+    <meta content="04BOXB" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="July 28-August 3" name="column_name"/>
+    <docdata>
+      <doc-id id-string="869549"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="July 28-August 3"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Archeology and Anthropology</classifier>
+        <location class="indexing_service">Siberia</location>
+        <person class="indexing_service">Wilford, John Noble</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Archeology and Anthropology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Siberia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2D7133FF937A3575BC0A960958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Follow the Arrows</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">Wilford, John Noble</byline>
+      <abstract>
+        <p>Finding of Clovis-style spear points in Siberia noted; photo; spear points have been believed to be distinctly American invention (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not so long ago, scholars seemed close to agreement on when and how ancient people first colonized America. About 12,000 years ago, hunters followed their mammoth and mastodon prey across the Bering land bridge from Siberia into Alaska, then southward throughout the Americas. The clearest pieces of evidence were their gracefully fluted stone spear points, thought to be a distinctly American invention.</p>
+        <p>The scholars are no longer so sure. Recent discoveries show humans in the New World much earlier, and last week American and Russian archeologists reported finding for the first time one of the Clovis-style spear points in Siberia, near the city of Magadan. The Siberian point appears to be only 8,300 years old and not exactly like the American weapons, but close enough to force reconsideration of where the technology was developed first -- in Asia or America.</p>
+        <p>JOHN NOBLE WILFORD</p>
+      </block>
+      <block class="full_text">
+        <p>Not so long ago, scholars seemed close to agreement on when and how ancient people first colonized America. About 12,000 years ago, hunters followed their mammoth and mastodon prey across the Bering land bridge from Siberia into Alaska, then southward throughout the Americas. The clearest pieces of evidence were their gracefully fluted stone spear points, thought to be a distinctly American invention.</p>
+        <p>The scholars are no longer so sure. Recent discoveries show humans in the New World much earlier, and last week American and Russian archeologists reported finding for the first time one of the Clovis-style spear points in Siberia, near the city of Magadan. The Siberian point appears to be only 8,300 years old and not exactly like the American weapons, but close enough to force reconsideration of where the technology was developed first -- in Asia or America.</p>
+        <p>JOHN NOBLE WILFORD</p>
+        <p>July 28-August 3</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

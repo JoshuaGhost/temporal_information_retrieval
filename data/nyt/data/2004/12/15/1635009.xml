@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Skeletal Remains Found</title>
+    <meta content="MB022126" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1635009"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Skeletons</classifier>
+        <classifier class="indexing_service" type="descriptor">Bridges and Tunnels</classifier>
+        <person class="indexing_service">Wilson, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEEDD1730F936A25751C1A9629C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Skeletal Remains Found</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Wilson (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Wilson, Michael</byline>
+      <abstract>
+        <p>Human skeletal remains are found by worker cleaning highway overpass in Brooklyn where homeless people sleep; there are no obvious signs of foul play (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Human skeletal remains were found by a worker cleaning a remote corner of a highway overpass in Brooklyn yesterday, the police said. The remains were in a seated position in a wooded area against the wall of the Highland Boulevard overpass crossing the Jackie Robinson Parkway, where homeless people sometimes sleep. The medical examiner's office will examine the remains today, a spokeswoman said. An investigator said that there was no obvious sign of foul play.</p>
+        <p>Michael Wilson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Human skeletal remains were found by a worker cleaning a remote corner of a highway overpass in Brooklyn yesterday, the police said. The remains were in a seated position in a wooded area against the wall of the Highland Boulevard overpass crossing the Jackie Robinson Parkway, where homeless people sometimes sleep. The medical examiner's office will examine the remains today, a spokeswoman said. An investigator said that there was no obvious sign of foul play.</p>
+        <p>Michael Wilson (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

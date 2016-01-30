@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AFFILIATED COMPUTER SERVICES TO ACQUIRE GENIX GROUP</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="855775"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">GENIX GROUP</org>
+        <org class="indexing_service">AFFILIATED COMPUTER SERVICES INC</org>
+        <org class="indexing_service">MCN CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1D61F39F935A35755C0A960958260" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AFFILIATED COMPUTER SERVICES TO ACQUIRE GENIX GROUP</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Affiliated Computer Services Inc., which provides information technology services, signed a definitive agreement yesterday to acquire Genix Group, a unit of the MCN Corporation, for $135 million in cash. The merger would create the nation's fourth-largest outside provider of data-processing services, with annual revenues of more than $500 million, Affiliated said. Genix mainly serves  the manufacturing, insurance and utility industries, complementing Dallas-based Affiliated's strengths in the health care, financial services, transportation and telecommunications segments. Genix, based in Dearborn, Mich., had revenues of $105.2 million in 1995.</p>
+      </block>
+      <block class="full_text">
+        <p>Affiliated Computer Services Inc., which provides information technology services, signed a definitive agreement yesterday to acquire Genix Group, a unit of the MCN Corporation, for $135 million in cash. The merger would create the nation's fourth-largest outside provider of data-processing services, with annual revenues of more than $500 million, Affiliated said. Genix mainly serves  the manufacturing, insurance and utility industries, complementing Dallas-based Affiliated's strengths in the health care, financial services, transportation and telecommunications segments. Genix, based in Dearborn, Mich., had revenues of $105.2 million in 1995.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

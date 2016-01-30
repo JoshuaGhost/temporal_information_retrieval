@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="791237"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DC173DF934A1575AC0A963958260" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPRECKELS INDUSTRIES, Pleasanton, Calif., a sugar and industrial manufacturer, has hired the investment banking firm Schroder Wertheim &amp; Co., New York, to help identify possible options, including a sale or merger. FEDERAL REALTY INVESTMENT TRUST, Bethesda, Md., said it had purchased the Bristol Shopping Plaza in Bristol, Conn., for about $19 million. CASINO RESOURCE CORP., Elkhorn, Wis., said it had agreed to buy the Palace Casino in Biloxi, Miss., from Maritime Group Ltd. for $12 million.</p>
+      </block>
+      <block class="full_text">
+        <p>SPRECKELS INDUSTRIES, Pleasanton, Calif., a sugar and industrial manufacturer, has hired the investment banking firm Schroder Wertheim &amp; Co., New York, to help identify possible options, including a sale or merger. FEDERAL REALTY INVESTMENT TRUST, Bethesda, Md., said it had purchased the Bristol Shopping Plaza in Bristol, Conn., for about $19 million. CASINO RESOURCE CORP., Elkhorn, Wis., said it had agreed to buy the Palace Casino in Biloxi, Miss., from Maritime Group Ltd. for $12 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

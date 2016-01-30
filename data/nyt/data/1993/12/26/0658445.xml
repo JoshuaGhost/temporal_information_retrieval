@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cigar Smoker's Guide</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="658445"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="TRAVEL ADVISORY: DINING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GUIDEBOOKS</classifier>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <classifier class="indexing_service" type="descriptor">CIGARS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GUIDEBOOKS</classifier>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <classifier class="indexing_service" type="descriptor">CIGARS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cigars</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DA1431F935A15751C1A965958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cigar Smoker's Guide</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cigar smoking may be officially banned at the White House. But Washington has at least 17 restaurants, including Aux Beaux Champs and I Ricchi, where cigar enthusiasts like the Commander in Chief can puff away with impunity. Those, and some 350 other dining spots in North America, are listed in "The Cigar Smoker's Guide to Restaurants," a 79-page booklet produced, not entirely without self-interest, by Davidoff of Geneva, the cigar purveyors.</p>
+      </block>
+      <block class="full_text">
+        <p>Cigar smoking may be officially banned at the White House. But Washington has at least 17 restaurants, including Aux Beaux Champs and I Ricchi, where cigar enthusiasts like the Commander in Chief can puff away with impunity. Those, and some 350 other dining spots in North America, are listed in "The Cigar Smoker's Guide to Restaurants," a 79-page booklet produced, not entirely without self-interest, by Davidoff of Geneva, the cigar purveyors.</p>
+        <p>All restaurants mentioned allow cigar smoking in bar areas; those specially noted also permit smoking in dining areas. Booklets cost $8.50, plus $1.50 shipping. Contact Davidoff of Geneva at (800) 232-8436.</p>
+        <p>TRAVEL ADVISORY: DINING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

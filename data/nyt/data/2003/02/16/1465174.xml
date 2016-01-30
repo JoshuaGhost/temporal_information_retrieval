@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Whitewater Revisited</title>
+    <meta content="LTR104944" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1465174"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Harris, Pat</person>
+        <person class="indexing_service">Lowry, Beverly</person>
+        <person class="indexing_service">Mcdougal, Susan</person>
+        <object.title class="indexing_service">Woman Who Wouldn't Talk, the (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DC153BF935A25751C0A9659C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Whitewater Revisited</hl1>
+      </hedline>
+      <abstract>
+        <p>Susan McDougal letter on Beverly Lowry Jan 19 review and February 2 correction of her book The Woman Who Wouldn't Talk (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I appreciated the correction that appeared in The Times on Feb. 2 regarding Beverly Lowry's review of my book, ''The Woman Who Wouldn't Talk'' (Jan. 26), in which she had said that Kenneth Starr convicted me ''on charges of obstruction of justice and criminal contempt.'' In fact, the jury refused to convict me on any of these charges, and this outcome was a clear rebuke to Starr. But I would like to respond to several other statements in the review.</p>
+        <p>Lowry wrote of Bill Clinton that ''the future president was governor and the McDougals owned a bank and a savings and loan'' at the time of the investment in Whitewater. Actually, Bill Clinton was not then governor, and Jim McDougal and I were not then in the banking business. The latter point might have passed without comment had she not gone on to state that ''the Clintons took part in Whitewater and irrefutably they and the McDougals trampled on some rights.'' I am baffled by the reference to ''trampled on some rights,'' and wonder if Lowry has discovered something that Ken Starr, backed by tens of millions of dollars of prosecutorial power, could not.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I appreciated the correction that appeared in The Times on Feb. 2 regarding Beverly Lowry's review of my book, ''The Woman Who Wouldn't Talk'' (Jan. 26), in which she had said that Kenneth Starr convicted me ''on charges of obstruction of justice and criminal contempt.'' In fact, the jury refused to convict me on any of these charges, and this outcome was a clear rebuke to Starr. But I would like to respond to several other statements in the review.</p>
+        <p>Lowry wrote of Bill Clinton that ''the future president was governor and the McDougals owned a bank and a savings and loan'' at the time of the investment in Whitewater. Actually, Bill Clinton was not then governor, and Jim McDougal and I were not then in the banking business. The latter point might have passed without comment had she not gone on to state that ''the Clintons took part in Whitewater and irrefutably they and the McDougals trampled on some rights.'' I am baffled by the reference to ''trampled on some rights,'' and wonder if Lowry has discovered something that Ken Starr, backed by tens of millions of dollars of prosecutorial power, could not.</p>
+        <p>Finally, Lowry described the embezzlement charges brought against me in California by Nancy and Zubin Mehta. However, she neglected to mention that I was found not guilty on all counts. Indeed, after the trial, jurors expressed outrage that the case had even come to court.</p>
+        <p>I wrote my book in hopes of showing the public what really went on during the Whitewater investigation, and to give voice to the often voiceless women I met in prison. It is in the same vein that I appreciate the opportunity to set the record straight.</p>
+        <p>Susan McDougal  Camden, Ark.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

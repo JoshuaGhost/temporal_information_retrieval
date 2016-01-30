@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  STONE, MARTIN</title>
+    <meta content="DN061598" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1024752"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">STONE, MARTIN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDC1F3AF936A25755C0A96E958260" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  STONE, MARTIN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STONE-Martin. Communications visionary. He excelled at television, cable, the law and public service. But radio was his most enduring passion. He taught generations of broadcasters that a radio station could be more than a juke box and achieve a higher calling when it resembles a forum for the expression of many different viewpoints. We mourn the loss of the founding father of community radio. But we will never forget the lessons of our friend and mentor. Whitney Radio WVOX &amp; WRTN Nancy &amp; William O'Shaughnessy</p>
+      </block>
+      <block class="full_text">
+        <p>STONE-Martin. Communications visionary. He excelled at television, cable, the law and public service. But radio was his most enduring passion. He taught generations of broadcasters that a radio station could be more than a juke box and achieve a higher calling when it resembles a forum for the expression of many different viewpoints. We mourn the loss of the founding father of community radio. But we will never forget the lessons of our friend and mentor. Whitney Radio WVOX &amp; WRTN Nancy &amp; William O'Shaughnessy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

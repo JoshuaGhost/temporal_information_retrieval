@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Man Killed When Car Hits House</title>
+    <meta content="12mbrfs-5" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1754030"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Baker, Al</person>
+        <person class="indexing_service">Adams, Michael A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E4DB1F30F931A25757C0A9609C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Man Killed When Car Hits House</hl1>
+      </hedline>
+      <byline class="print_byline">By AL BAKER (NYT); Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Baker, Al</byline>
+      <abstract>
+        <p>Michael A Adams of Brooklyn is killed when he loses control of his car and runs into house near Holy Cross Cemetery (NYC) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A speeding driver was killed about 3 a.m. yesterday after he lost control of his BMW sedan and the car mounted a curb, ricocheted off a house and burst into flames, the police said. The man, Michael A. Adams, 22, of Winthrop Street in Brooklyn, was pronounced dead at the scene shortly after the crash on Clarendon Road, near Holy Cross Cemetery, the police said. Investigators were trying to determine why Mr. Adams was speeding.</p>
+        <p>AL BAKER (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A speeding driver was killed about 3 a.m. yesterday after he lost control of his BMW sedan and the car mounted a curb, ricocheted off a house and burst into flames, the police said. The man, Michael A. Adams, 22, of Winthrop Street in Brooklyn, was pronounced dead at the scene shortly after the crash on Clarendon Road, near Holy Cross Cemetery, the police said. Investigators were trying to determine why Mr. Adams was speeding.</p>
+        <p>AL BAKER (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

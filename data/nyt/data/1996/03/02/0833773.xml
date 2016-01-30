@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Survey Finds Sluggish Industrial Activity</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="833773"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <org class="indexing_service">NATIONAL ASSN OF PURCHASING MANAGEMENT NATIONAL ASSOCIATION OFPURCHASING MANAGEMENT</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1DF1439F931A35750C0A960958260" item-length="399" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Survey Finds Sluggish Industrial Activity</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The nation's manufacturing sector slowed for the seventh consecutive month in February, the National Association of Purchasing Management said yesterday, although the rate of decline was down slightly from January.</p>
+        <p>The survey of purchasing managers at major manufacturing companies showed slight growth in the overall economy last month, the association said, reversing the contraction in January.</p>
+      </block>
+      <block class="full_text">
+        <p>The nation's manufacturing sector slowed for the seventh consecutive month in February, the National Association of Purchasing Management said yesterday, although the rate of decline was down slightly from January.</p>
+        <p>The survey of purchasing managers at major manufacturing companies showed slight growth in the overall economy last month, the association said, reversing the contraction in January.</p>
+        <p>Purchasing executives' comments in February on current business conditions  continued the pattern of recent months by being more negative than positive," said Ralph G. Kauffman, head of the association's Business Survey Committee.</p>
+        <p>The association's index of manufacturing activity rose to 45.2 in February from 44.2 in January. Even with that rise, the index remained below 50, which is considered an indication of contraction in the overall economy. A reading above  50 is taken as an indication of expansion.</p>
+        <p>"This report suggests that the rebound from the blizzards in January is tepid," said Alan Levenson, money market economist at UBS Securities.</p>
+        <p>The manufacturing sector contracted for the seventh consecutive month in February, with production, new orders, order backlogs and employment all indicating decreased activity. But new orders and order backlogs decreased at slower rates than in January.</p>
+        <p>"I think basically the purchasing managers are telling us that the factory sector is experiencing what the Fed called very uneven business conditions," said David Munro, chief United States economist at High Frequency Economics.</p>
+        <p>In February, 27 percent of the companies polled reported lower levels of new  orders, compared with 32 percent in January. At the same time, fewer members reported diminished order backlogs in February, with the association's index of  backlog orders rising to 43.5 percent, the highest level since September 1995, when it was also at 43.5 percent.</p>
+        <p>In a sign that inflationary pressures remain moderate, the association said only 9 percent of purchasing executives reported paying higher prices, the lowest percentage since an identical number was recorded in November 1992.</p>
+        <p>And the inventories index fell to 43.9 percent in February from 47.7 percent  in January, indicating that inventory reduction is being pursued more vigorously.</p>
+        <p>The report is based on data compiled from monthly replies to questions asked  of purchasing executives in more than 300 companies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

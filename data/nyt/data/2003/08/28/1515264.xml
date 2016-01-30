@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fine-Tuning the Sound in Your Own Cinema</title>
+    <meta content="28BASI" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20030901T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1515264"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="BASICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Acoustics</classifier>
+        <person class="indexing_service">Rothman, Wilson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Basics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acoustics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DE1E39F93BA1575BC0A9659C8B63" item-length="1606" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fine-Tuning the Sound in Your Own Cinema</hl1>
+      </hedline>
+      <byline class="print_byline">By WILSON ROTHMAN</byline>
+      <byline class="normalized_byline">Rothman, Wilson</byline>
+      <abstract>
+        <p>Setting up speaker system for home theater can be fraught with problems; new products and technologies can help achieve cinematic sound regardless of how acoustically imperfect room may be; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE DVD may herald a new era in entertainment, but it has also brought home audio to a complicated new level.</p>
+        <p>Taking a page from the film industry, HBO, Showtime, ABC and others are now encoding shows in the Dolby Digital and DTS 5.1 soundtracks used by DVD's. Most digital cable boxes even have a digital audio output identical to the one on the back of DVD players.</p>
+      </block>
+      <block class="full_text">
+        <p>THE DVD may herald a new era in entertainment, but it has also brought home audio to a complicated new level.</p>
+        <p>Taking a page from the film industry, HBO, Showtime, ABC and others are now encoding shows in the Dolby Digital and DTS 5.1 soundtracks used by DVD's. Most digital cable boxes even have a digital audio output identical to the one on the back of DVD players.</p>
+        <p>Video games are also in true surround sound, and Microsoft's Xbox even uses Dolby Digital Interactive Content Encoder, which creates a 5.1 soundtrack that changes based not only on a character's location but also on the direction the character is facing. Big-budget DVD's like the ''Fellowship of the Ring Extended Edition'' (New Line) go an extra speaker, offering DTS ES and Dolby Digital EX 6.1 audio. (The shorthand for surround sound is 5.1, 6.1 or 7.1, for five, six or seven speakers plus a subwoofer. Its predecessor, stereo, is sometimes referred to as 2.0 audio.)</p>
+        <p>You will need a surround-sound receiver or home theater in a box to decode these discrete audio tracks and route them to the appropriate speakers; just adding more speakers to an older stereo receiver won't do. But setting up such a system can be art, science and headache.</p>
+        <p>Your family room probably is not, like the diagrams in the manuals, a perfect rectangle, with the couch centered in front of the TV and no archways or openings. There is a possibility you own an L-shaped couch or a La-Z-Boy or two, and the thought of mounting electronics on walls or running wires halfway around a room may give you chills.</p>
+        <p>New products and technologies can help you achieve cinematic sound, regardless of how acoustically imperfect the family room is.</p>
+        <p>Before you spend any money, it is important to know what you want. Go to a movie theater or a store with a listening room. Try to hear where sounds come from. ''Half the time, when people come to me, they ask, 'Why do I have to have a speaker on top of my TV?' or 'Why are there speakers behind me?,''' said Rico Trujillo, a home theater consultant at Samm Sound in Englewood, N.J.</p>
+        <p>Mr. Trujillo sometimes impresses customers by playing films like ''Star Wars: Episode I -- The Phantom Menace'' or ''Ice Age,'' but his favorite demonstration is the World War II submarine thriller ''Das Boot.''</p>
+        <p>''When the rivets start coming loose and the sub starts breaking apart all around, that's when people really understand the importance of all of those speakers,'' he said.</p>
+        <p>There is a good chance that any setup will put some of the speakers closer to you and some farther away than was intended, so the speakers need to be calibrated. Most systems enable you to change volume levels, and many allow you to delay the sound from closer speakers so that all will sound as if they are the same distance away.</p>
+        <p>This degree of manual control is great for audiophiles who use instruments to make exact settings, or people who have $500 to spend on a professional installer. But it is a safe assumption that most people who want to enjoy DVD movies do not want to pay a lot of money for setup, or figure out what a ''sound pressure level'' meter is.</p>
+        <p>''We recognize that customers are not getting the full performance of their systems,'' said Tom McLoughlin, president of Harman Kardon. ''We need to make setup less customer-centric and more automatic.''</p>
+        <p>Several years ago, Harman Kardon introduced the Ez Set system as a step toward a self-configuring receiver. A microphone inside the remote control ''listens'' to all of the speakers in the room and sets speaker levels. If you are sitting nearest the back left speaker, it will probably be turned down, while the front right speaker may be brought up. By this fall, most Harmon Kardon receivers, starting at $499, will have the feature.</p>
+        <p>Pioneer Electronics also recently introduced a moderately priced self-configuring receiver. The VSX-D912 ($475) uses a microphone as well, which listens not just for volume levels but also timing, gauging the distance to each speaker with sonar-like pings. (All of the company's Elite receivers also have this technology.)</p>
+        <p>You may be concerned that smart technology is just a way for manufacturers to squeeze customers for an extra $100 to $200, but Steve Guttenberg, who reviews audio hardware for CNet, says that auto-configuring can make a real difference. ''Pioneer's automated setup is excellent,'' he said. ''Harman Kardon's Ez Set isn't all that accurate, but it's better than nothing.''</p>
+        <p>Yamaha will soon be jumping in with its own line of self-configuring receivers, starting at $799 for the RX-V1400. Its ''acoustic optimizer'' sets levels and delays and promises to equalize each speaker separately to account for so-called dead areas that can absorb sound: paintings, rugs and doorways. In a lower price bracket, Samsung has just shipped the first home theater in a box with automatic sound calibration, the $449 HT-DB650.</p>
+        <p>Because such systems, by definition, are connected to the TV, other manufacturers have created helpful (though less sophisticated) graphical interfaces. Most Philips systems have an on-screen wizard that allows you to designate the size and shape of the room and then use the remote's joystick to indicate the position of your couch. Although the settings that result are little more than educated guesses, the odds are that they will make the system sound better than the default settings did.</p>
+        <p>Auto-configuration works best when all of the speakers are more or less in the right spots; many times if a surround-sound system doesn't sound good, it's because the speakers are misplaced or missing entirely. Because of wiring problems and general aesthetic concerns, the right and left rear speakers in a surround-sound system suffer from what those in the home-electronics business call low spousal acceptance, which means that at least one household decision-maker vetoes their installation.</p>
+        <p>Philips and Pioneer will be introducing wireless rear speakers this fall with, respectively, the $499 LX3750W and the $800 HTD-630DV home theater systems. Although wireless speakers must be plugged into an outlet, they eliminate unsightly wires crossing a room. Of course, wires don't have to be unsightly: Monster Cable's SuperFlat paintable speaker wires are designed to blend better with home décor.</p>
+        <p>The biggest winners of spousal acceptance tend to be systems that require fewer speakers. This fall Samsung will introduce the $799 HT-DB660, which needs only a subwoofer and three front speaker units; the two rear channels are projected from the front speakers.</p>
+        <p>Until that system arrives, options are even costlier. The Niro Two6.1 system, which uses just two speakers plus a subwoofer to deliver 6.1 sound, has a list price of $1,999 (receiver not included). Pioneer's PDSP-1 Sound Projector has one panel made up of 254 tiny speakers that project five speaker's worth of surround sound. It's as elegant a solution as you can find, but it's no match for a good set of well-placed speakers.</p>
+        <p>And with a $40,000 price tag, there is a completely different reason that it may fail to win spousal acceptance.</p>
+        <p>The Experts  A Bit to the Left. No, Right a Little.</p>
+        <p>Even audio experts and sound-system makers acknowledge that configuring a surround sound system at home can be daunting, but they offer some ways to survive the ordeal.</p>
+        <p>Go to more than one retailer and get a variety of in-store experiences. Try to get a sense of how different people have enjoyed their own set-ups.</p>
+        <p>Brian Caldwell,director of marketing, DTS</p>
+        <p>Read the manual. Hopefully it is well written enough to be readable. Usually in the manual, there's some sort of diagram of where the speakers should be placed. Duplicate the diagram as well as possible.</p>
+        <p>Steve Guttenberg, audio hardware reviewer, CNet</p>
+        <p>If the left and right front speakers are too close together, it just sounds like you're just listening to TV speakers. Keep them separated, but not too far apart either. If you have an L-shaped couch, position the TV catty-corner to it. Then focus your speakers around the L of the couch.</p>
+        <p>Rico Trujillo, consultant, Samm Sound, Englewood, N.J.</p>
+        <p>Nobody ever said you have to keep speakers in place forever. Leave enough cabling and store them with front speakers and move them around to the back when you're ready to enjoy surround sound. Nobody's going to chastise you for putting speakers in an unobtrusive space.</p>
+        <p>Craig Eggers, director, consumer electronics technology marketing, Dolby Laboratories</p>
+        <p>Since the woman is most often in control of the aesthetic of the house, a husband and wife should coordinate in the speaker-buying process. There are enough speaker manufacturers out there to let couples choose speakers that are both visually and audibly pleasing.</p>
+        <p>Elliot Mazer,record producer</p>
+        <p>BASICS  Correction:  September 1, 2003, Monday  An article in Circuits on Thursday about setting up home-theater components for surround sound referred incorrectly to audio formats used by HBO, Showtime and ABC. While they are making some television programming available in Dolby Digital 5.1, they are not using the multichannel format known as DTS 5.1.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: September 1, 2003, Monday</p>
+        <p>An article in Circuits on Thursday about setting up home-theater components for surround sound referred incorrectly to audio formats used by HBO, Showtime and ABC. While they are making some television programming available in Dolby Digital 5.1, they are not using the multichannel format known as DTS 5.1.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

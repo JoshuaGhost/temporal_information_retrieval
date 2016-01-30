@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTE OF THE DAY</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="28970"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">TRAVEL, PERSONAL</classifier>
+        <location class="indexing_service">CZECHOSLOVAKIA</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <person class="indexing_service">HAJEK, JIRI</person>
+        <person class="indexing_service">GORBACHEV, MIKHAIL S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D9103AF933A25757C0A961948260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTE OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  ''There are certain times in history when the creative forces in a society try to break through the contradictions. This is such a time in Moscow and 1968 was such a time here.''  Jiri Hajek, former foreign  minister of Czechoslovakia,  on the visit of Mikhail S.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  ''There are certain times in history when the creative forces in a society try to break through the contradictions. This is such a time in Moscow and 1968 was such a time here.''  Jiri Hajek, former foreign  minister of Czechoslovakia,  on the visit of Mikhail S.</p>
+        <p>''There are certain times in history when the creative forces in a society try to break through the contradictions. This is such a time in Moscow and 1968 was such a time here.''  Jiri Hajek, former foreign  minister of Czechoslovakia,  on the visit of Mikhail S.  Gorbechev to Prague.  (A8:3.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

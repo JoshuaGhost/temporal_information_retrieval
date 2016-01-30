@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR235943" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1050461"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Palestinians</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">Israel</location>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Arafat, Yasir</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E4D71F39F933A0575AC0A96E958260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Sept 29 article about Yasir Arafat's speech at United Nations omitted passage in quotation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article yesterday about Yasir Arafat's speech at the United Nations omitted a passage in a quotation. The  quotation should have said: ''I would like to call upon all of you, from this place, the source of international legitimacy and peacemaking, the guardian of freedom, security and stability, and the source for the achievement of justice and prosperity for humankind, to stand by our people, especially as the five-year transitional period provided for in the Palestinian-Israeli agreements will end on 4 May 1999 and our people demand of us to shoulder our responsibilities, and they wait the establishment of their independent state.''</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article yesterday about Yasir Arafat's speech at the United Nations omitted a passage in a quotation. The  quotation should have said: ''I would like to call upon all of you, from this place, the source of international legitimacy and peacemaking, the guardian of freedom, security and stability, and the source for the achievement of justice and prosperity for humankind, to stand by our people, especially as the five-year transitional period provided for in the Palestinian-Israeli agreements will end on 4 May 1999 and our people demand of us to shoulder our responsibilities, and they wait the establishment of their independent state.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

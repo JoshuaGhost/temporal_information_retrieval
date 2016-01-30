@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Relational Databases Get Easier To Handle</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="744612"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="PERIPHERALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <org class="indexing_service">LOTUS DEVELOPMENT CORP</org>
+        <org class="indexing_service">O'SOFT CORP</org>
+        <person class="indexing_service">SHANNON, L R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DE1F3DF932A15751C0A963958260" item-length="744" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Relational Databases Get Easier To Handle</hl1>
+      </hedline>
+      <byline class="print_byline">By L. R. SHANNON</byline>
+      <byline class="normalized_byline">SHANNON, L R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A DATABASE is a collection of information, like a telephone book or a catalogue of the products a company sells. An electronic database is far easier to use than a printed one, however.</p>
+        <p>For one thing, information can be looked for in fractions of a second rather than at the speeds at which pages can be turned. For another, information can be looked for in a variety of categories. With an ordinary telephone book, you must know the name of a person to find his address and phone number. With an electronic database, you can look up the address to find the name and phone number, or the phone number to get the name and address.</p>
+      </block>
+      <block class="full_text">
+        <p>A DATABASE is a collection of information, like a telephone book or a catalogue of the products a company sells. An electronic database is far easier to use than a printed one, however.</p>
+        <p>For one thing, information can be looked for in fractions of a second rather than at the speeds at which pages can be turned. For another, information can be looked for in a variety of categories. With an ordinary telephone book, you must know the name of a person to find his address and phone number. With an electronic database, you can look up the address to find the name and phone number, or the phone number to get the name and address.</p>
+        <p>There are two major types of database managers. Flat-file database managers store the information -- say the name, address and phone number of a client -- in the blanks, called fields, of one record. Relational databases store the small categories in different tables, and are better at doing sophisticated searches. You might search for all customers in a particular zip code with orders exceeding $50 since Jan. 1.</p>
+        <p>Flat-file databases are much easier to handle, which is why they have been favored by home, home-office and small-business people. Setting up a relational database requires programming skills, which most such users do not have and do not want to, or have time to, acquire. That situation is changing.</p>
+        <p>Lotus Approach Release 3.0, a product of the Lotus Development Corporation of Cambridge, Mass., is a relational database that approaches, though it does not match, the ease of a flat-file program. In just a few minutes, I loaded a template for a standard form (there are 52 templates) and, with clicks and drags of the mouse, put a new field into it. In a few more minutes, I loaded a sample file of 40 names and addresses, created a form with the help of an On-line Assistant and moved things around until they looked just right.</p>
+        <p>It must be quickly noted that Lotus, like many other software companies, provides reviewers with a "Database Product Evaluator's Guide" to help reviewers form a favorable early impression of a product. But for real users, there is an extensive Help file and a tutorial -- with nine sections that can be worked through, according to Lotus, in 49 minutes -- and a thick manual.</p>
+        <p>Although Approach is simpler than the earliest relational databases, it is definitely not childish. After all, fully installed it occupies 20 megabytes of disk space. There are eight Windows menus across the top of the screen and 23 icons (sometimes more) under them for instantly accomplishing tasks like saving and printing files.</p>
+        <p>When you open a form in Approach, it is a kind of window into the database files. The files remain where they are and in their original format, whether it is dBase, Paradox, Foxpro, Lotus Notes or 1-2-3, Oracle SQL, SQL Server or Access. That level of compatibility makes switching to Approach tempting.</p>
+        <p>Approach has been around since early 1992. Version 3.0 adds 200 new features, according to Lotus, including field names of up to 32 characters; resizing columns and rows by dragging them with the cursor, and context-sensitive help, meaning it knows what you were working on when you sent an S.O.S.</p>
+        <p>Lotus Approach 3.0 works on most computers likely to be running Microsoft Windows 3.1, the hotter the machine the better. It sells for around $90. The number for Information is (800) 343-5414.  Note Well</p>
+        <p>A few weeks ago, discussing System 7.5 for the Macintosh, I mentioned how much I liked Stickies, little Post-It-style notes you can paste electronically on the screen for reminders, to-do lists or anything else you might use the actual scraps of paper for.</p>
+        <p>Well, Daniel P. Oran of the O'Soft Corporation of Cambridge, Mass., sent an E-letter saying that he had a version of sticky notes for Windows computers. The product is called Stickaround Notes, and it will stay on this home-office 486.</p>
+        <p>The program puts the image of a little dispenser on the opening screen, and clicking on the New button puts a note in the middle of the screen on which you can type. The note can be moved, hidden or thrown away entirely, as can the dispenser. There are a fair number of other options, including alarms, but how fussy do you want to be with such a simple and handy utility?</p>
+        <p>Stickaround Notes is around $25 from several mail-order dealers. If it is not in the latest circular that landed in the mailbox, you can call Mr. Oran at (617) 225-2010.  PERIPHERALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

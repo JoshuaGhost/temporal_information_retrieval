@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dreyfus Chooses Grace &amp; Rothschild</title>
+    <meta content="MB233050" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1046723"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Dreyfus Corp</org>
+        <org class="indexing_service">Mellon Bank Corp</org>
+        <org class="indexing_service">Grace &amp; Rothschild</org>
+        <org class="indexing_service">Cirton Haligman Bedecarre</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E3DE1031F936A2575AC0A96E958260" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dreyfus Chooses Grace &amp; Rothschild</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Dreyfus Corp unit of Mellon Bank Corp names Grace &amp; Rothschild to handle its advertising account, with billings estimated at $12 million to $15 million; account had been handled by Citron Haligman Bedecarre (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Dreyfus Corporation unit of the Mellon Bank Corporation said yesterday that it had named Grace &amp; Rothschild in New York to handle its account, with billings estimated at $12 million to $15 million. The account had been handled for three years by Citron Haligman Bedecarre in San Francisco, which parted ways with Dreyfus in April.</p>
+      </block>
+      <block class="full_text">
+        <p>The Dreyfus Corporation unit of the Mellon Bank Corporation said yesterday that it had named Grace &amp; Rothschild in New York to handle its account, with billings estimated at $12 million to $15 million. The account had been handled for three years by Citron Haligman Bedecarre in San Francisco, which parted ways with Dreyfus in April.</p>
+        <p>Richard Roth, president at Richard Roth Associates in Chappaqua, N.Y., who helped manage a three-month review to select a new agency, said that the competition had been narrowed to Grace &amp; Rothschild and two other finalists in New York: Angotti, Thomas, Hedge, a unit of the Interpublic Group of Companies, and Partners &amp; Shevack, part of Wolf Group. Grace &amp; Rothschild was a dark horse in the review because it  had replaced a finalist -- Ammirati Puris Lintas in New York, also owned by Interpublic -- that withdrew because of a conflict.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

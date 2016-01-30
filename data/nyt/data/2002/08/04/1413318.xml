@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Old Scents and New Sensibilities</title>
+    <meta content="04FRAG" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1413318"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Perfumes</classifier>
+        <person class="indexing_service">Laing, Jennifer</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perfumes and Fragrances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DE173BF937A3575BC0A9649C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Old Scents and New Sensibilities</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER LAING</byline>
+      <byline class="normalized_byline">Laing, Jennifer</byline>
+      <abstract>
+        <p>Fragrance designers are recreating or reissuing old-fashioned fragrances for summer and fall; photo (Pulse column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Like clothing designers who raid old fashion magazines for new ideas, fragrance makers are dipping into their archives to create reborn hits. This summer, Cacharel Paris reissued Anaïs Anaïs ($39.50 at Barneys New York), the ubiquitous 1978 eau de toilette; Prescriptives created Calyx Shimmering Mist ($45 at Bloomingdale's), a lighter version of its mid-80's favorite; and Love's Baby Soft cologne, the 70's teenage scent, is having a revival ($15 at CVS).</p>
+        <p>For fall, Christian Dior will import two European successes of the 40's and 50's, Miss Dior and Diorissimo ($49.50 to $52 at Saks Fifth Avenue). Femme by Rochas, the French perfume worn by Katharine Hepburn in the 1940's, will return to America ($60 at Bergdorf Goodman), and Givenchy will celebrate its 50th anniversary by reviving L'Interdit ($55 for 1.7 ounces, at Sephora), a perfume created for Audrey Hepburn in 1957.</p>
+      </block>
+      <block class="full_text">
+        <p>Like clothing designers who raid old fashion magazines for new ideas, fragrance makers are dipping into their archives to create reborn hits. This summer, Cacharel Paris reissued Anaïs Anaïs ($39.50 at Barneys New York), the ubiquitous 1978 eau de toilette; Prescriptives created Calyx Shimmering Mist ($45 at Bloomingdale's), a lighter version of its mid-80's favorite; and Love's Baby Soft cologne, the 70's teenage scent, is having a revival ($15 at CVS).</p>
+        <p>For fall, Christian Dior will import two European successes of the 40's and 50's, Miss Dior and Diorissimo ($49.50 to $52 at Saks Fifth Avenue). Femme by Rochas, the French perfume worn by Katharine Hepburn in the 1940's, will return to America ($60 at Bergdorf Goodman), and Givenchy will celebrate its 50th anniversary by reviving L'Interdit ($55 for 1.7 ounces, at Sephora), a perfume created for Audrey Hepburn in 1957.</p>
+        <p>Ann Gottlieb, owner of Ann Gottlieb Associates, a fragrance consulting firm, says, ''Consumers are attracted to scents associated with a more stable and tranquil time.'' Or maybe they just want to smell like a Hepburn.</p>
+        <p>JENNIFER LAING</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

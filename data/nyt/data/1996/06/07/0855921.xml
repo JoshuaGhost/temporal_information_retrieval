@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Test Hints at New Risk in Mixing of Environmental Pesticides</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="855921"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PESTICIDES AND PESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ESTROGEN</classifier>
+        <classifier class="indexing_service" type="descriptor">HORMONES</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">REPRODUCTION(BIOLOGICAL)</classifier>
+        <org class="indexing_service">TULANE-XAVIER CENTER FOR BIOENVIRONMENTAL RESEARCH</org>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hormones</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Estrogen</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Estrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hormones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reproduction (Biological)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DE1639F934A35755C0A960958260" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Test Hints at New Risk in Mixing of Environmental Pesticides</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>WASHINGTON, June 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Certain pesticides and other chemicals like PCB's persist in the environment  for many years. Though their concentrations are minute, some biologists have long been concerned that the substances' chemical similarity to hormones like estrogen may enable them to wreak havoc with the fertility of various wildlife populations and even of humans.</p>
+        <p>Others regard the hypothesis as unlikely because there is a much greater profusion of estrogen-like substances that are made by plants, and that animals  have long learned to defuse.</p>
+      </block>
+      <block class="full_text">
+        <p>Certain pesticides and other chemicals like PCB's persist in the environment  for many years. Though their concentrations are minute, some biologists have long been concerned that the substances' chemical similarity to hormones like estrogen may enable them to wreak havoc with the fertility of various wildlife populations and even of humans.</p>
+        <p>Others regard the hypothesis as unlikely because there is a much greater profusion of estrogen-like substances that are made by plants, and that animals  have long learned to defuse.</p>
+        <p>An ingenious laboratory experiment that bears on this debate has now been performed by researchers at the Tulane-Xavier Center for Bioenvironmental Research in New Orleans. They report in Friday's issue of Science that some estrogen-like chemicals have a much more potent effect, at least on laboratory-grown cells, when different chemicals are applied together than when  either is applied alone.</p>
+        <p>The relevance of this finding remains to be determined. But the experiment sheds new light on how cells respond to estrogen and may lead to development of  a useful test for determining whether pollutants are a peril to wildlife.</p>
+        <p>"You can't take the results of these tests and directly imply an affect on humans or determine human risk," Dr. John A. McLachlan, director of the center and a senior researcher on the study, said in an interview. "But the work is important because it shows that the environmental impact of some chemicals cannot be considered alone and we have to look at combined effects."</p>
+        <p>The test system was developed by Dr. McLachlan, Dr. Steven F. Arnold and colleagues at the New Orleans laboratory and consists of yeast cells genetically altered to contain in their membranes the human receptor proteins that respond to estrogen.</p>
+        <p>Individual tests on four pesticides believed to be very weakly estrogenic --  dieldrin, endosulfan, toxaphene and chlordane -- showed little or no response.</p>
+        <p>But, the researchers reported, when the chemicals were paired, the estrogen-like activity on the yeast cells was 160 to 1,600 times as much as when the chemicals were applied singly.</p>
+        <p>"If you test them individually, you could almost conclude that they were nonestrogenic, almost inconsequential," Dr. McLachlan said, "But when we put them in combination, their potency jumped up as much as 1,000-fold."</p>
+        <p>Noting that the Environmental Protection Agency was now trying to develop tests to screen for environmental estrogens and determine their potential threat, Dr. McLachlan said the yeast test was potentially one of a battery of such tests.</p>
+        <p>"I certainly wouldn't propose this as the only test because it says nothing about human risk," he said, "but it could have utility as an early screen to identify chemicals that you would subject to additional studies."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

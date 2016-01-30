@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Standing Up For Republicanism</title>
+    <meta content="15LEAC$05" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1168635"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Watergate Affair</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Leach, James A (Repr)</person>
+        <person class="indexing_service">Richardson, Elliot L</person>
+        <person class="indexing_service">Nixon, Richard Milhous (1913-94)</person>
+        <person class="indexing_service">Cox, Archibald (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watergate Affair</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EED8133AF936A25752C0A9669C8B63" item-length="522" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Standing Up For Republicanism</hl1>
+      </hedline>
+      <byline class="print_byline">By James A. Leach</byline>
+      <byline class="normalized_byline">Leach, James A (Repr)</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Repr James A Le</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This morning there will be a memorial service for the Republican Party's man for all seasons: Elliot Richardson. In a pantheon of distinguished public servants of the century, Richardson holds a special niche for his role in upholding the rule of law. He understood that allegiance to the Constitution supersedes loyalty to party or person.</p>
+        <p>As attorney general -- one of four cabinet posts Richardson held -- he brought about the orderly removal of a vice president, Spiro Agnew, who had pled no contest to bribe-taking.</p>
+      </block>
+      <block class="full_text">
+        <p>This morning there will be a memorial service for the Republican Party's man for all seasons: Elliot Richardson. In a pantheon of distinguished public servants of the century, Richardson holds a special niche for his role in upholding the rule of law. He understood that allegiance to the Constitution supersedes loyalty to party or person.</p>
+        <p>As attorney general -- one of four cabinet posts Richardson held -- he brought about the orderly removal of a vice president, Spiro Agnew, who had pled no contest to bribe-taking.</p>
+        <p>But the defining moment of Richardson's life was the instant he quit.  On Saturday, Oct. 20, 1973, he resigned rather than follow President Nixon's command to fire Archibald Cox, the Watergate special prosecutor.</p>
+        <p>In what he considered one of the easiest decisions of his life, Richardson concluded he could not serve a president who would put himself above the law. William Ruckelshaus, the deputy attorney general, followed suit the same day, as did I, then a  midlevel foreign service officer.</p>
+        <p>Richardson's resignation removed the mantle of legitimacy from an American president and had the effect of making him more a martyr than an actor his party could support on the political stage. His principal role after his resignation was serving Democratic and Republican administrations as the American representative to the Law of the Sea negotiations. Richardson viewed his leadership of the international effort to expand the rule of law to two-thirds of the earth's surface as historically more significant than heading a cabinet department.</p>
+        <p>Labels are the most exasperating aspect of public life. By background and temperament, Richardson was the quintessential Republican moderate: a committed internationalist, out of step with movement politics. But Republicans today would be advised to heed his example. After all, the party of conservatism is rooted in two philosophical streams: a Burkean respect for institutions and gradualist change, and a Lockean emphasis on law rooted in individual rights. The ultimate Burkean, Richardson believed in making institutions of government work; he also unhesitatingly accepted the Lockean obligation to defend individual and societal rights -- wading ashore at Omaha Beach on June 6, 1944, as part of democracy's greatest army.</p>
+        <p>Process is America's most important product. Richardson, the Boston Brahmin, enjoyed rather than disdained the hurly-burly of politics. He was dismayed by ideological posturing. Few were more disappointed than he was with the undercutting of American leadership that resulted from rejection by the Reagan White House of the Law of the Sea. He believed that the Reagan staff's disorderly chain of command on the issue foreshadowed a decision-making process in the Iran-contra episode that undercut rather than expanded law and order.</p>
+        <p>Fortunately, the Law of the Sea Treaty has finally been signed by the United States and, despite Senate intransigence, has largely come into force. Elliot Richardson, a statesman who wouldn't tolerate any American being above the law, left as his legacy the expansion of law's domain to the furthest depths and reaches of the planet.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info"></tagline>
+    </body.end>
+  </body>
+</nitf>

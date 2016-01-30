@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Exhausted Businessman And Lots of Overachievers</title>
+    <meta content="26THAN" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/26/arts/26THAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1426680"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Thang Dao Dance Company</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <org class="online_producer">Thang Dao Dance Company</org>
+        <person class="online_producer">Dao, Thang</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DE1039F935A1575AC0A9649C8B63" item-length="421" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Exhausted Businessman And Lots of Overachievers</hl1>
+        <hl2 class="online_headline">An Exhausted Businessman and Lots of Overachievers</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews performance by Thang Dao Dance Company at Merce Cunningham Studio Theater (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The crafty wisdom of old age has been said to trump the energy of youth. But the young overachievers of the Thang Dao Dance Company nearly disproved that maxim in an impressive performance on Saturday night at the Merce Cunningham Studio Theater.</p>
+        <p>Mr. Dao, a young dancer who appears to have begun choreographing only in the past few years, already knows how to put movement together so that it flows logically. His dancers are well schooled, mostly at the Boston Conservatory and Juilliard School, but they have retained or developed a spark of originality. And he is wise enough to accept that there are riches still to be mined in traditional dance styles.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The young dancers of the Thang Dao Dance Company are well schooled, but they have also retained or developed a spark of originality.</p>
+      </block>
+      <block class="full_text">
+        <p>The crafty wisdom of old age has been said to trump the energy of youth. But the young overachievers of the Thang Dao Dance Company nearly disproved that maxim in an impressive performance on Saturday night at the Merce Cunningham Studio Theater.</p>
+        <p>Mr. Dao, a young dancer who appears to have begun choreographing only in the past few years, already knows how to put movement together so that it flows logically. His dancers are well schooled, mostly at the Boston Conservatory and Juilliard School, but they have retained or developed a spark of originality. And he is wise enough to accept that there are riches still to be mined in traditional dance styles.</p>
+        <p>Mr. Dao's new ''Concerto for the Lost'' could probably use a little editing. But it would be hard to say where. This ambitious group work builds at its own inexorable pace. So does an intensely emotional subtext that pushes through the dance's cool formal values and patterning, enhanced by strong performing and, even more, by a startlingly beautiful, atmospheric score by Sam Bird.</p>
+        <p>''Concerto'' opens with a solo called ''9-9'' for Mr. Dao as an exhausted corporate businessman, then moves on to two group sections that begin and end with rows of dancers facing away from the audience, bathed in brooding light by the designer Li Chuan Lin. Dancers unhesitantly melt into and pull away from the ordered fray that follows, often in ensemble dancing like a heroic solo for Kristen Foote and a male trio for Kurt Douglas and Pablo Francisco Tovar, guests from the Limón Dance Company, and Jesse Zaritt.</p>
+        <p>The cast also included Courtney Blackwell, Nora Brickman, Po Chieh Chen, Brenna Monroe-Cook, Mr. Dao, Ryoko Kudo and Adrienne Linder. Angelina Davydov designed the dancers' somber street clothes.</p>
+        <p>Mr. Dao's interest in formal patterning was also evident in the slightly unfinished-looking ''Requiem.'' His gift for delicate evocation of mood could be seen in ''For Two.'' Mr. Dao seems to have found his perfect interpreter in Mr. Douglas, a performer who seems to dance with every fiber of his body.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

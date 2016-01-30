@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York, a Nice Place to Visit; More Exciting Skyline</title>
+    <meta content="LTR004656" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055826"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Trump World Tower (NYC)</classifier>
+        <person class="indexing_service">Trump, Donald</person>
+        <person class="indexing_service">Hunter, David L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DB123DF932A15753C1A96E958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York, a Nice Place to Visit; More Exciting Skyline</hl1>
+      </hedline>
+      <abstract>
+        <p>David L Hunter letter, commenting on October 16 article, suggests design of Trump World Tower, mammoth residential skyscraper proposed for midtown Manhattan is boring</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The proposed Trump World Tower (front page, Oct. 16) will be the fourth-tallest building in midtown. Why does it have to be so boring? Donald J. Trump is wasting his best opportunity yet for making a statement on the New York skyline. Why can't the proposed monolith have an interesting top similar to its neighbor in the drawing, or to other residential towers like Cityspire or even Trump Palace?</p>
+        <p>DAVID L. HUNTER  New York, Oct. 16, 1998</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The proposed Trump World Tower (front page, Oct. 16) will be the fourth-tallest building in midtown. Why does it have to be so boring? Donald J. Trump is wasting his best opportunity yet for making a statement on the New York skyline. Why can't the proposed monolith have an interesting top similar to its neighbor in the drawing, or to other residential towers like Cityspire or even Trump Palace?</p>
+        <p>DAVID L. HUNTER  New York, Oct. 16, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

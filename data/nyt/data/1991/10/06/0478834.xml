@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clark Kellogg, Catalogue Designer</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19911020T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="478834"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="STYLE MAKERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADOPTIONS</classifier>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <person class="indexing_service">LOUIE, ELAINE</person>
+        <person class="indexing_service">KELLOGG, CLARK</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Adoptions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDF1E26E033BC4852DFB76F958A" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clark Kellogg, Catalogue Designer</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">LOUIE, ELAINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1990, when Clark Kellogg, president of Kellogg Communications in Manhattan, was asked to design New York's Family Album, New York State's quarterly picture catalogue of children who need to be adopted, he let the children speak for themselves. It is first the photographs, and then the words, that make the children, many of whom have been abandoned and have emotional problems, appealing. The first album was published in January, the third this month.</p>
+        <p>"The children are all so frail, so humanly vulnerable and shy," said Mr. Kellogg, 40 years old. Joseph Berger, who lives in Manhattan, photographed the children so that they looked relaxed, trusting, sweet; words that might mean adoptable. The text revealed more of the child's personality, from what he wanted to be (a police officer, for example) to what he was afraid of (fightingwas one child's terror).</p>
+      </block>
+      <block class="full_text">
+        <p>In 1990, when Clark Kellogg, president of Kellogg Communications in Manhattan, was asked to design New York's Family Album, New York State's quarterly picture catalogue of children who need to be adopted, he let the children speak for themselves. It is first the photographs, and then the words, that make the children, many of whom have been abandoned and have emotional problems, appealing. The first album was published in January, the third this month.</p>
+        <p>"The children are all so frail, so humanly vulnerable and shy," said Mr. Kellogg, 40 years old. Joseph Berger, who lives in Manhattan, photographed the children so that they looked relaxed, trusting, sweet; words that might mean adoptable. The text revealed more of the child's personality, from what he wanted to be (a police officer, for example) to what he was afraid of (fightingwas one child's terror).</p>
+        <p>Of the 31 children whose pictures were featured in the first two catalogues, 11 have been placed with potential adoptive parents.  This month, the New York State Department of Social Services mailed 7,500 copies of the third catalogue to social service agencies, churches, synagogues, public and private adoption agencies. The children are only a fraction of what Mr. Kellogg estimates to be the 1,000 children available for adoption in New York State.</p>
+        <p>"We're taking the technique of direct marketing and applying it to a pressing social situation," Mr. Kellogg said. By letting the public know about 70 children a year, Mr. Kellogg, the State of New York, and the Institute for Families and Children, a nonprofit organization in Manhattan, hope to focus attention on the children who have not yet appeared in the albums.</p>
+        <p>STYLE MAKERS  Correction:  October 20, 1991, Sunday</p>
+        <p>An article in the Style Makers column on Oct. 6 about a picture catalogue of children available for adoption described its origin incompletely. While the book, "New York's Family Album," was designed by Clark Kellogg, the original idea for the project came from MLR Marketing Communications.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: October 20, 1991, Sunday</p>
+        <p>An article in the Style Makers column on Oct. 6 about a picture catalogue of children available for adoption described its origin incompletely. While the book, "New York's Family Album," was designed by Clark Kellogg, the original idea for the project came from MLR Marketing Communications.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Web Isn't Always Up to the Minute</title>
+    <meta content="MB010605" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1533938"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="PERSONAL BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Marino, Vivian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6DA1339F93AA35752C1A9659C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Web Isn't Always Up to the Minute</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Vivian Marino</byline>
+      <byline class="normalized_byline">Marino, Vivian</byline>
+      <abstract>
+        <p>Study of 3,634 Web journals, known as blogs, finds that two-thirds had not been updated for at least two months and that a quarter had not been updated since their creation (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Internet provides loads of information for consumers and businesses, quickly and often, but it is also littered with Web sites that are woefully out of date.</p>
+        <p>For example, a recent study of 3,634 Web journals, known as blogs, found that two-thirds had not been updated for at least two months, and that a quarter had not been updated since their creation.</p>
+      </block>
+      <block class="full_text">
+        <p>The Internet provides loads of information for consumers and businesses, quickly and often, but it is also littered with Web sites that are woefully out of date.</p>
+        <p>For example, a recent study of 3,634 Web journals, known as blogs, found that two-thirds had not been updated for at least two months, and that a quarter had not been updated since their creation.</p>
+        <p>Jeffrey Henning, chief technology officer at the Perseus Development Corporation, a research firm that conducted the study and released its results last month, says that many people simply grow tired of maintaining their sites.</p>
+        <p>Others abandon them because an anticipated event that prompted their creation has come and gone.</p>
+        <p>Clifford R. Kurtzman of Houston kept his Year2000.com site up and running, without updates, for two years after the turn of the century. He acknowledged that ''there was so much on it that was out of date, and links that didn't work.''</p>
+        <p>Today, he uses the site to promote a newsletter on business and innovation. ''Having extra junk out there just makes the process of searching for good stuff even harder,'' he said.</p>
+        <p>It also costs money. Unless they use a free service like GeoCities, developers of Web sites must pay fees for Web hosting and domain names.</p>
+        <p>PERSONAL BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

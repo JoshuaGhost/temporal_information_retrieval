@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Plotting a Mission to Retrieve Rocks From Mars</title>
+    <meta content="10MARS$04" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="876395"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars (Planet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Rock and Stone</classifier>
+        <classifier class="indexing_service" type="descriptor">Life, Extraterrestrial</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration (NASA)</org>
+        <person class="indexing_service">Wilford, John Noble</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mars (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rock and Stone</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E7D9133BF933A2575AC0A960958260" item-length="2206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Plotting a Mission to Retrieve Rocks From Mars</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">Wilford, John Noble</byline>
+      <dateline>PASADENA, Calif.</dateline>
+      <abstract>
+        <p>NASA officials are weighing wide assortment of ideas for revamping and accelerating current plans for exploring Mars; focus is on how and when to secure what scientists covet most: a sample of Martian rock and soil, preferably from relatively warm, wet place where microbes might have arisen long ago; drawings illustrate one proposal for landing a solar-powered wheeled, roving vehicle on Mars that would pick up rock samples, and then return to Earth (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHILE scientists at several laboratories examine a dark piece of rock to see if it indeed holds evidence of early life on Mars, NASA officials are weighing a wide assortment of ideas for revamping and accelerating current plans for exploring the red planet. The focus is on how and when to secure what scientists covet most: an indisputable sample of Martian rock and soil, preferably from a relatively warm, wet place where microbes might have arisen long ago.</p>
+        <p>Mission planners and scientists are expected to offer recommendations to the National Aeronautics and Space Administration this month. They want to take advantage of public and political enthusiasms touched off by the announcement last month that a meteorite that apparently fell from Mars contained mineral and fossil traces of possible life. They also need to have mission options ready for NASA budget planning, negotiations with potential international partners and a conference on space at the White House in December.</p>
+      </block>
+      <block class="full_text">
+        <p>WHILE scientists at several laboratories examine a dark piece of rock to see if it indeed holds evidence of early life on Mars, NASA officials are weighing a wide assortment of ideas for revamping and accelerating current plans for exploring the red planet. The focus is on how and when to secure what scientists covet most: an indisputable sample of Martian rock and soil, preferably from a relatively warm, wet place where microbes might have arisen long ago.</p>
+        <p>Mission planners and scientists are expected to offer recommendations to the National Aeronautics and Space Administration this month. They want to take advantage of public and political enthusiasms touched off by the announcement last month that a meteorite that apparently fell from Mars contained mineral and fossil traces of possible life. They also need to have mission options ready for NASA budget planning, negotiations with potential international partners and a conference on space at the White House in December.</p>
+        <p>But developing a proposal for a mission to obtain samples from Mars is more than dreaming up an elaborate wish list. Nowhere are the practical cost-conscious aspects of such planning quite so evident as in a large windowless room of the Project Design Center here at the Jet Propulsion Laboratory.</p>
+        <p>On a recent afternoon, some two dozen engineers and scientists sat at long tables, each an  expert in a specific spacecraft component or mission function and each with a computer terminal at the ready. Placards atop their computers identified many of their specialties: propulsion, telecommunications, ground control and tracking systems, mission design and costs. The cost manager acted as a strict policeman, keeping the others in line.</p>
+        <p>This was Team X, and it was brainstorming a mission, to be launched in 2003, to land a small craft on Mars within a mile or so of a roving vehicle that is to arrive two years earlier and collect and sort rock samples. After it receives a sample from the rover, the upper part of the landing craft must rocket off the surface and rendezvous with the main spacecraft waiting in Mars orbit. A sealed container with the sample would be transferred from the lander to the main craft for the return to Earth in 2006.</p>
+        <p>An expedition along these lines, though complex and risky, is considered one of the most promising ways to retrieve a sample for the study of life on Mars in a reasonable time and within a modest budget. A direct flight to the Martian surface and back to Earth might be simpler and more straightforward, but could be more expensive.</p>
+        <p>''We are seriously looking at a 2003 sample return,'' said Dr. Daniel J. McCleese, manager of space sciences at the Jet Propulsion Laboratory and leader of NASA's Mars science program. ''We don't think it is wise to go more quickly, and no one in NASA is pressuring us in that direction.''</p>
+        <p>The amount of money available for exploring Mars is a big question. Current plans call for spending $1 billion over the next decade on several missions to orbit and land on the planet to study its climate and geology and look for sites where life might have arisen or might still exist. Opting for a sample-return mission in 2003 would require an increase in spending.</p>
+        <p>Dr. Donna L. Shirley, manager of the Mars exploration program at the laboratory, said mission planners would need a decision this winter if they were to gear up for a sample-return mission in 2003, which would be at least two years earlier than previously considered. ''We're working like mad to be ready,'' she said, ''but we're anxiously awaiting direction.''</p>
+        <p>The work of Team X on such a mission is part of these preparations. Its previous design analysis showed that a more direct return mission would be simpler, but would require that the entire spacecraft be flown to the surface of Mars and then off again. This would mean hauling much more propellant, which in turn means having to use a large, more expensive rocket to launch the flight from Earth. In all, at launching, the spacecraft weight would surpass 10,000 pounds, half of which would be nothing but fuel. Only a Titan 4 or Russian Proton rocket would be capable of lifting that weight, but at a cost now viewed as prohibitive.</p>
+        <p>The attraction of the rendezvous mission under study is that all the propellants for the return to Earth would remain in the Mars orbiter; extra energy would not have to be expended lifting off Mars, and a Delta-class rocket could launch the total mission load, at a third of the cost of more powerful boosters. Similar thinking in the Apollo Project in the 1960's led to the decision to send astronauts to the lunar surface in a small module, which then returned to link up with the command module in lunar orbit for the return trip to Earth.</p>
+        <p>In studies so far, Dr. Shirley said, neither the direct or rendezvous mission has emerged as the favored approach for returning a rock sample.</p>
+        <p>As Team X began its deliberations, Dr. Mark Adler said, ''These are exercises in trade-offs.'' He is an engineer with the laboratory's Mars exploration program who functions as what is known as a mission architect. ''Right now, we are pursuing all options,'' he said.</p>
+        <p>And that was how the afternoon session went, as Team X tried to design a small ascent craft, stripped to bare necessities, that could lift off the Martian surface and accomplish a rendezvous with its orbiting companion craft. Projected on a large screen was a table showing estimated weights allowed for each component on the ascent vehicle. What could the engineers do under such constraints?</p>
+        <p>Sometimes the proceedings resembled a family agonizing over its budget to see how, after the mortgage, car payments, tuition, food and clothing are taken into account, to squeeze out a little something for a special treat. In this case, the challenge was to build a spacecraft weighing no more than 6,000 pounds, fuel included, to bring back from Mars a precious sample weighing a single pound.</p>
+        <p>One of the first questions for Team X was: could the craft stay on the surface as long as eight days, giving the roving vehicle ample time to deliver its samples to the lander? No, the propulsion experts said. Four or five days at most. Any longer in the Martian cold, without a heater (which would add too much weight), and the fuel would freeze.</p>
+        <p>Someone, it was pointed out, would have to determine if a spacecraft could be guided with enough precision to land within a mile or so of the waiting rover, or if the rover's range and speed could be improved. Present estimates are that these automated, solar-powered rovers could travel only 1,200 feet a day.</p>
+        <p>What, also, would be the minimum navigation equipment required on the ascent vehicle to accomplish its rendezvous with the orbiter? The main controls would be concentrated on the orbiter, to which commands from flight controllers would be sent. But the ascent craft would need at least a radio beacon, so that the orbiter could find it for the rendezvous and docking. Lightweight solar panels would provide the beacon power.</p>
+        <p>A representative of the ground tracking network suggested that it would be helpful in calculating the ascent vehicle's trajectory, for plotting the full rendezvous maneuver, if the radio beacon could be strong enough to be detected from Earth. How much more power would be required? Perhaps a tunable beacon could be designed to send a brief strong signal after liftoff followed by weaker signals to conserve power the rest of the way to rendezvous.</p>
+        <p>''A transmitter with this wattage would have to be built special,'' someone pointed out, to which Dr. Adler responded, ''This whole thing is going to be special.'' There was a moment of nervous laughter.</p>
+        <p>At another point, Dr. Adler seemed to sum up the whole exercise. ''We're looking to save a few kilograms here and there,'' he said, admonishing Team X to practice even greater thrift. But each little savings raised troubling questions about the possibility that reliability and flexibility would be sacrificed. Were there adequate backup systems, if critical parts faltered?</p>
+        <p>In the same week the Martian rock findings were reported, the National Research Council issued the results of a study criticizing current Mars exploration plans as being underfinanced. And that was before the sample-return mission was elevated to priority status. In particular, the council complained of insufficient financial support for new technologies to meet the ambitious objectives of surveying Mars from orbit and developing landing systems and roving vehicles for extensive surface exploration.</p>
+        <p>''If the sample return does become central,'' Dr. McCleese of Jet Propulsion said, ''then the present program is too highly constrained.''</p>
+        <p>As it is, financing to explore Mars is restricted to about $150 million a year, just enough to pay for two low-cost flights to the planet at each opportunity. Travel to Mars is feasible for a few weeks every 26 months, when Earth and Mars come closer together. The first two of these spacecraft are at Cape Canaveral, Fla., being prepared for launchings this November and December. One is the Mars Global Surveyor, to study the planet's atmosphere and climate from orbit, and the other is Mars Pathfinder, a small lander that is to deliver a 22-pound roving vehicle to the surface for mineralogical studies. Pathfinder is also to test techniques for maneuvering a craft plunging through the thin Martian atmosphere, which could give planners an idea of how much they can count on pinpoint landings on future missions.</p>
+        <p>Another American orbiter and lander are scheduled to fly to Mars at the next opportunity at the end of 1998. There is no time to make significant changes in those missions, so the emphasis of planning has been on missions in 2001 and beyond. Discussions are under way for a joint Russian-American mission in 2001, which would include a Russian rover. American engineers see potential benefits in tapping Russian experience in automated rovers, gained in sample-return missions from the Moon, and in automated rendezvous and docking procedures developed for servicing the Mir space station.</p>
+        <p>Although a 2001 sample-return flight might just be possible, NASA officials assured scientists at a meeting in Washington three weeks ago that there was no pressure to make a mad dash for Mars. ''Grab sample'' missions, the officials said, are not scientifically justifiable, since there is too great a risk of picking up unrevealing rocks. Instead, the flights already being planned should be revised, if necessary, to make a thorough search for sites where water is most likely to exist, as the places to go looking for samples that might resolve the life question.</p>
+        <p>The committee of 30 government and university scientists and engineers, led by Dr. McCleese, was asked to recommend to the space agency by the end of this month a rationale and strategy for precursor flights and the sample-return missions.</p>
+        <p>A fairly conservative strategy, Dr. McCleese said, would be to launch a sample-return flight in 2003 as the first of at least three such missions through 2011. This would permit sampling visits to a variety of Martian landscapes, from the ancient highlands (where the meteorite may have originated) to basins where water once flowed or regions suspected of holding subsurface reservoirs of water.</p>
+        <p>If the decision is to launch a sample-return flight in 2003, the United States alone or with international partners would need to use the 2001 opportunity to place one or two rovers on the surface, to scoot about gathering rocks in caches for retrieval by the 2003 sample-return mission.</p>
+        <p>A more aggressive strategy might open with two missions in 2003 and multiple flights at each subsequent opportunity for a decade, Dr. McCleese said, or at least send two rovers to collect rocks at widely diverse sites at each opportunity. The rover that picked up the most intriguing samples would be paid the visit by the next return craft. And if one rover should fail, another would be left to prospect the surface.</p>
+        <p>Although an aggressive approach might be more stimulating, promising swifter results in the quest for possible Martian life, NASA officials and many scientists are not sure how much it would cost. But they suspect it would be more than the White House or Congress would sit still for. They are also troubled by the shadow of the two Viking spacecraft that went to Mars in 1976 with elaborate biology experiments, at a cost of $2.5 billion in 1996 dollars, and failed to find unambiguous signs of life.</p>
+        <p>''We must be careful of walking into the Viking trap,'' Dr. McCleese mused. ''That mission cost a lot, expectations ran high and everybody was let down by its failure to find definite signs of life. It led to the shutting down of our Mars program for 20 years. If we try to go too fast now and promise too much, we could repeat the Viking experience.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

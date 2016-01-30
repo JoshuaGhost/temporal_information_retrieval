@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dance in Review</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="833046"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">ANDERSON, JACK</person>
+        <person class="indexing_service">LORD, CAROLYN</person>
+        <person class="indexing_service">HAYES, BRYAN</person>
+        <person class="indexing_service">GROSS, SALLY</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E4DA1139F934A15751C0A960958260" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dance in Review</hl1>
+      </hedline>
+      <byline class="print_byline">JACK ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When in Choreographic Doubt, Strike a Pose, or Several Poses Sally Gross, Bryan Hayes and Carolyn Lord University Settlement</p>
+      </block>
+      <block class="full_text">
+        <p>When in Choreographic Doubt, Strike a Pose, or Several Poses Sally Gross, Bryan Hayes and Carolyn Lord University Settlement</p>
+        <p>The new dances Sally Gross, Bryan Hayes and Carolyn Lord presented on Friday  night had strong beginnings. What most lacked were equally effective middles and ends.</p>
+        <p>One work that held attention from start to finish was "Bangles and Seeds," a suite of solos that Ms. Lord choreographed in collaboration with the performers, Rebekah Windmiller, Linda Seifert and Kari Richardson. The dancers created their own music as they moved by shaking sleigh bells and rattles that produced soft rustling and loud clacking noises. As a result, actions and sounds were always in harmony.</p>
+        <p>Ms. Lord's "Off the Wall," for the same cast, was less satisfying. The dancers began by striking poses that were followed by blackouts. When the lights brightened again, they struck new poses. And as the lights stayed on, they kept  shifting positions so that they could strike even more poses. The dance looked static, but for no apparent dramatic or emotional reason.</p>
+        <p>That could also be said of Mr. Hayes's "Drastic Measures," in which Cristina  Ottolini, Elke Rindfleisch and Mei-Yin Ng struck poses of their own, often with  backbends and outstretched arms.</p>
+        <p>The beginning was the best part of Ms. Gross's "Divided in Thirds." Moving on and around a stool, Ms. Gross not only looked lost in thought but also appeared  to be savoring fond memories, to music for wind and percussion instruments composed and played by Michael De Lia. When Ms. Gross joined Jamie Di Mare and Ms. Ng, she appeared to be someone venturing into the past to relive old times.  Yet her choreographic retrospections remained vague.</p>
+        <p>JACK ANDERSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

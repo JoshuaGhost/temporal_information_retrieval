@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>William Maxwell's Voice</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="744292"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">BUCHER, DORIS</person>
+        <person class="indexing_service">MAXWELL, WILLIAM</person>
+        <person class="indexing_service">GINSBERG, HARVEY</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DF113FF93AA25751C0A963958260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>William Maxwell's Voice</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I had to meditate a little on the fact that William Maxwell's books have not made the best-seller lists.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I had to meditate a little on the fact that William Maxwell's books have not made the best-seller lists.</p>
+        <p>I don't suppose there's a list of the works that seldom if ever make it to the used-book sale tables, because their owners don't want to let go of them. I think Mr. Maxwell's books would make it to that list. I'm not selling my copies.</p>
+        <p>Another list I think his works would lead would be a list of the books whose images stay with you, haunting you the rest of your life. I find I can hardly think of things French without images from "The Chateau" drifting by; those images always make me feel tender toward France and its people, and grateful to William Maxwell. DORIS BUCHER  Atlanta</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

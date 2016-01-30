@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Chip: Less Cost For Power</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="155515"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="PERSONAL COMPUTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <org class="indexing_service">INTEL CORP</org>
+        <org class="indexing_service">COMPAQ COMPUTER CORP</org>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DF143AF932A15755C0A96E948260" item-length="922" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Chip: Less Cost For Power</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE introduction last week of Intel's new 80386SX microprocessor, along with the introduction yesterday of the Compaq Deskpro 386s computer that uses it, marks a significant advance in affordable power for PC users.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE introduction last week of Intel's new 80386SX microprocessor, along with the introduction yesterday of the Compaq Deskpro 386s computer that uses it, marks a significant advance in affordable power for PC users.</p>
+        <p>THE introduction last week of Intel's new 80386SX microprocessor, along with the introduction yesterday of the Compaq Deskpro 386s computer that uses it, marks a significant advance in affordable power for PC users.</p>
+        <p>Both the Compaq machine and the Intel chip, which is expected to find a home in computers from other makers as well, are certain to lure away many buyers who might otherwise be considering a high-end 80286-based computer. They are also certain to trigger price cuts for 80286 machines, and in fact Compaq started the trend yesterday by cutting the price of its best Deskpro 286.</p>
+        <p>Think of the SX as a ''386 Lite,'' a diet version of the full-scale, 32-bit 80386 processor and machines that Intel and Compaq collaborated on in 1987. The new chip can run all the software written for the classic 80386, taking advantage of the latest programs and operating systems, as well as advances expected in the near future, but it costs less. Intel achieved this by stripping out a lot of the complex wires and circuits that went into the original 80386 chip, features used only in highly specialized applications. That makes it smaller, easier to produce and cheaper.</p>
+        <p>According to Intel, computer makers who buy the chip in large volume can get it for $219, which is at least $100 less expensive than the fully rigged 80386 chip.</p>
+        <p>Because it has only 16 wires coming out of it instead of the 32 that radiate from the high-calorie chip, the 80386SX chip cannot be used as a plug-in replacement for the older-generation 80286 chip. Intel will probably sell an adapter board that will plug into existing AT-class computers, giving owners of those machines the ability to upgrade to 386 power.</p>
+        <p>It would seem that cutting the data path in half, to 16 bits of information from 32, would cut the power of the chip in half. The performance loss is actually less dramatic, because much of the jettisoned circuitry was never fully exploited by 386 users.</p>
+        <p>What's the catch? The SX has about 85 percent of the power of a comparable classic 386 chip. For software developers and rocket scientists who demand the fastest machines on the market, the power reduction from a 25-megahertz 386 chip might be unacceptable. But for most users, especially those using older PC, XT or AT-compatible technology, the new chip and the new Compaq machine that incorporates it offer a less painful way to move up to the next generation of PC power.</p>
+        <p>Many people have longed to take advantage of all of the power of the original Intel 80386 chip, which is currently the most powerful processor in the I.B.M. PC-compatible world. (Apple's Macintosh II uses a similarly powerful processor made by Motorola, but Macs make up a far smaller part of the personal computer universe.) But 386 power comes at a substantial price premium. Top-of-the-line versions from I.B.M. and Compaq can cost more than $10,000, and an entry-level 386 has been more than $5,000.</p>
+        <p>The new Compaq 386s costs $3,799 in a stripped-down version with one megabyte of random access memory (ram), a single floppy disk that can store 1.2MB of data, but no hard disk. A 386 machine without a hard disk is like an F-15 without wings, so most buyers will probably opt for the Model 20 (with a 20MB hard drive) for $4,499, or, better still, the Model 40 (40MB hard drive) for $5,199.</p>
+        <p>Compare the Deskpro 386s Model 40 against the Deskpro 286 Model 40, and there's a $1,000 price difference. If money is somewhat flexible, though, there is no contest. The 386s will be a strong machine several years from now; it won't be obsolete soon. Neither will the 286, but while it can satisfy current needs of most personal computer users, it probably won't be able to keep up with new generations of software being developed for the 386 platform.</p>
+        <p>In short, the future of the PC compatible market belongs to the 80386 chip, and the Deskpro 386s is the first relatively affordable box for the personal computer buyer. Compaq also introduced a 25-megahertz version of its high-end Deskpro 80386 series yesterday, matching the speed of the new I.B.M. PS/2 Model 70 introduced by I.B.M. earlier this month.) The Deskpro 386/25, which costs from $10,299 to $13,299 depending on configuration, becomes the machine of choice for people who demand the ultimate in desktop power. I.B.M. claims that its newly announced Model 70 PS/2 computer is the fastest PC anywhere, but since the I.B.M. hasn't shipped yet no comparison is possible with the Deskpro 386/25, which is available immediately.</p>
+        <p>But the big boxes are hardly practical for most PC users. They are better suited, instead, for rocket scientists and corporate file-server applications. That's why the 386s, which brings the power down to a human scale, is so intriguing.</p>
+        <p>The 386s computer is smaller than other 386's, and it doesn't even look as if it is from Compaq. The Houston-based company is known for its heavy, bulky boxes, but the new machine is more streamlined.</p>
+        <p>The 386s will fit neatly on a credenza, making it ideal for people in apartments or cramped offices. Some power users like the macho image of a machine that takes up an entire desktop, but the 386s is more practical.</p>
+        <p>The 386s, Compaq says, operates 60 percent faster than the standard AT-machine based on the 80286 chip. It comes with one megabyte of high-speed memory. It has a high-resolution VGA graphics system that reportedly operates 50 percent faster than the VGA standard introduced by I.B.M. Its hard disk drives are also faster than I.B.M. counterparts.</p>
+        <p>PERSONAL COMPUTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

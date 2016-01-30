@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museum Director Resigns</title>
+    <meta content="30MUSE$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="947155"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">O'Keeffe, Georgia, Museum (Santa Fe, Nm)</org>
+        <person class="indexing_service">Hassrick, Peter</person>
+        <person class="indexing_service">Cantor, Jay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E0D6103AF933A05754C0A961958260" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museum Director Resigns</hl1>
+      </hedline>
+      <abstract>
+        <p>Peter Hassrick resigns as director of Georgia O'Keeffe Museum in Santa Fe, just eleven days after museum's opening; Jay Cantor has been named museum president (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Only 11 days after the opening of the Georgia O'Keeffe Museum in Santa Fe, N.M., an event that refocused national attention on the artist and her adopted region, the museum's director has resigned.</p>
+        <p>''The accelerator had been pushed to the floor as we moved forward, but my wife asked me about a month ago where we want to end up, and our thought was that this was the time to move on,'' Peter Hassrick said after making his announcement yesterday. ''I did what I came here to do.''</p>
+      </block>
+      <block class="full_text">
+        <p>Only 11 days after the opening of the Georgia O'Keeffe Museum in Santa Fe, N.M., an event that refocused national attention on the artist and her adopted region, the museum's director has resigned.</p>
+        <p>''The accelerator had been pushed to the floor as we moved forward, but my wife asked me about a month ago where we want to end up, and our thought was that this was the time to move on,'' Peter Hassrick said after making his announcement yesterday. ''I did what I came here to do.''</p>
+        <p>Mr. Hassrick said he would leave the museum on Aug. 15.</p>
+        <p>The museum, one of the few in America dedicated to a single artist, has drawn capacity crowds and critical praise since its official opening on July 17. Containing the largest public collection of O'Keeffe's works, the museum is near the section of New Mexico where the artist lived for nearly four decades and where she died in 1986.</p>
+        <p>Jay Cantor, who ran the American painting department and museum services at Christie's auction house,  was hired a month ago to become the museum's president.</p>
+        <p>Mr. Hassrick said yesterday that that the hiring of Mr. Cantor had had nothing to do with his decision.</p>
+        <p>John Marion, who was instrumental in creating the museum, said the search for a new director would begin immediately.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Test of Pilots Shows Age May Be Advantageous</title>
+    <meta content="agingvital" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/06/health/06agingvital.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1830912"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="VITAL SIGNS: PERFORMANCE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="descriptor">Pilots</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Age, Chronological</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pilots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED91431F935A35750C0A9619C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Test of Pilots Shows Age May Be Advantageous</hl1>
+        <hl2 class="online_headline">Performance: Test of Pilots Shows Age May Be Advantageous</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Airline passengers who feel reassured when they glimpse a shock of white hair in the cockpit may be on to something.</p>
+        <p>A new study finds that in pilots, the declines in physical and thinking skills that come with age may be outweighed by their years of experience.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Airline passengers who feel reassured when they glimpse a shock of white hair in the cockpit may be on to something.</p>
+      </block>
+      <block class="full_text">
+        <p>Airline passengers who feel reassured when they glimpse a shock of white hair in the cockpit may be on to something.</p>
+        <p>A new study finds that in pilots, the declines in physical and thinking skills that come with age may be outweighed by their years of experience.</p>
+        <p>Writing in the February issue of Neurology, researchers described the results of a study in which 118 pilots, ages 40 to 69, were repeatedly tested in a flight simulator over three years. The study was led by Joy L. Taylor of the Stanford/VA Aging Clinical Research Center.</p>
+        <p>In general, the researchers found, older pilots did not do as well the first time they used the simulators, which tested skills in communicating with air traffic controllers, avoiding traffic, keeping track of cockpit instruments and landing. The tests involved piloting a single-engine aircraft over flat terrain near mountains.</p>
+        <p>But as the tests were repeated over the period of the study, the older pilots' skills declined less than the younger ones' did. In traffic avoidance, all the pilots' skills improved over time, but the older pilots improved more than the younger ones. The study also found that pilots with more training scored better on the tests at the beginning, and showed less decline over time.</p>
+        <p>Under current regulations, commercial airline pilots must retire at age 60, but some pilots are pushing to work longer, and the results of this study may add to the debate. The researchers suggest that it may not be enough to assess pilots' ability to stay in the job by using just the ordinary array of generalized skills tests.</p>
+        <p>The issue, they say, is that these tests do not measure the specific skills pilots have attained over the years. Studies have shown that in many fields requiring expertise, from typing to music, those skills remain even after others fade.</p>
+        <p>VITAL SIGNS: PERFORMANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

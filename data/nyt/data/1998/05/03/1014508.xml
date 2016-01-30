@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Gold Rush Becomes a Walk in San Francisco</title>
+    <meta content="03ADVB$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1014508"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Walking</classifier>
+        <location class="indexing_service">San Francisco (Calif)</location>
+        <person class="indexing_service">Hall, Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Hiking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/San Francisco</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Walking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4D61731F930A35756C0A96E958260" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Gold Rush Becomes a Walk in San Francisco</hl1>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER HALL</byline>
+      <byline class="normalized_byline">Hall, Christopher</byline>
+      <abstract>
+        <p>Barbary Coast Trail, new self-guided tour of San Francisco, will be inaugurated with celebration on May 9 at Union Square downtown; trail focuses on early boom years between Gold Rush and 1906 earthquake and fire; map; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Barbary Coast Trail, a new self-guided walking tour of San Francisco, will be inaugurated with a celebration this Saturday at Union Square downtown. The two-hour festivities begin at 11 A.M. and include Chinese lion dancers and a Gold Rush musical revue.</p>
+        <p>A project of the San Francisco Historical Society, the Barbary Coast Trail meanders 3.8 miles -- all of them flat or gently sloping -- through the heart of the city. The trail focuses on the early boom years between the Gold Rush and the 1906 earthquake and fire, but it also highlights more recent San Francisco history, like the 1950's beatnik movement in North Beach.</p>
+      </block>
+      <block class="full_text">
+        <p>The Barbary Coast Trail, a new self-guided walking tour of San Francisco, will be inaugurated with a celebration this Saturday at Union Square downtown. The two-hour festivities begin at 11 A.M. and include Chinese lion dancers and a Gold Rush musical revue.</p>
+        <p>A project of the San Francisco Historical Society, the Barbary Coast Trail meanders 3.8 miles -- all of them flat or gently sloping -- through the heart of the city. The trail focuses on the early boom years between the Gold Rush and the 1906 earthquake and fire, but it also highlights more recent San Francisco history, like the 1950's beatnik movement in North Beach.</p>
+        <p>Beginning at the Old Mint at Fifth and Mission Streets -- which was built in 1874 to handle gold and silver from the Comstock Lode -- and ending near the historic sailing ships at Hyde Street Pier, the trail includes Tin Hau, the oldest Asian temple in North America; a mansion built for the silver king James C. Flood; the western terminus of the Pony Express, and the sites of bordellos and saloons in the notorious 19th-century Barbary Coast district. At the end of the trail, walkers can hop a cable car ($2 a ride without a transit pass) to take them over Russian and Nob Hills and back to the intersection of Powell and Market Streets, a block from where they started.</p>
+        <p>The trail's route is to be marked by 150 directional plaques embedded in the sidewalk. A 275-page companion book, ''Walking San Francisco on the Barbary Coast Trail,'' ($13.95), by the historian Daniel Bacon, provides a lively narrative of sights along the way. Mr. Bacon has also written a more concise full-color pocket guide of 32 pages ($8.95). They can be bought at most Bay Area bookstores or from the author, (415) 641-5058.</p>
+        <p>For information about the trail or the inaugural ceremonies, call the San Francisco Historical Society, (415) 775-1111.</p>
+        <p>CHRISTOPHER HALL</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

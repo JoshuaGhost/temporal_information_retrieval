@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jenna Davenport, Fernando Checo</title>
+    <meta content="03DAVE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/07/03/fashion/weddings/03dave.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1684569"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DAVENPORT, JENNA ILAYNE (JENNA ILAYNE CHECO)</person>
+        <person class="indexing_service">CHECO, FERNANDO JOSE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5DB103AF930A35754C0A9639C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jenna Davenport, Fernando Checo</hl1>
+        <hl2 class="online_headline">Jenna Davenport and Fernando Checo</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jenna Ilayne Davenport, the daughter of Gail Davenport of White Plains and the late Jack Davenport, is to be married this evening to Fernando Jose Checo, a son of Joselina and Jose Checo of Ozone Park, Queens. Rabbi Thomas K. Weiner is to officiate at the New York Botanical Garden in the Bronx.</p>
+        <p>The bride, 28, is a speech-language pathologist at Public School 105 in the Bronx and at the Northern Westchester Center for Speech Disorders in Mount Kisco, N.Y. She graduated from the State University at New Paltz, N.Y., and received a master's degree in speech-language pathology from New York University. Her mother is an assistant director, specializing in student internships, at the Fordham University Graduate School of Social Service. The bride's father was a cabdriver.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Jenna Davenport and Fernando Checo were married on Sunday in the Bronx.</p>
+      </block>
+      <block class="full_text">
+        <p>Jenna Ilayne Davenport, the daughter of Gail Davenport of White Plains and the late Jack Davenport, is to be married this evening to Fernando Jose Checo, a son of Joselina and Jose Checo of Ozone Park, Queens. Rabbi Thomas K. Weiner is to officiate at the New York Botanical Garden in the Bronx.</p>
+        <p>The bride, 28, is a speech-language pathologist at Public School 105 in the Bronx and at the Northern Westchester Center for Speech Disorders in Mount Kisco, N.Y. She graduated from the State University at New Paltz, N.Y., and received a master's degree in speech-language pathology from New York University. Her mother is an assistant director, specializing in student internships, at the Fordham University Graduate School of Social Service. The bride's father was a cabdriver.</p>
+        <p>The bridegroom, 29, is a fourth-year student at Meharry Medical College in Nashville. He graduated from SUNY Binghamton. His mother is a bridal alterations manager for Carolina Herrera, the fashion designer in Manhattan. His father is a limousine driver.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Christianity, the Brand</title>
+    <meta content="30letters.1-11" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1758061"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Public Relations and Publicity</classifier>
+        <classifier class="indexing_service" type="descriptor">Christians and Christianity</classifier>
+        <person class="indexing_service">Ludsin, Steven A</person>
+        <person class="indexing_service">Ross, Larry (Publicist)</person>
+        <person class="indexing_service">Saroyan, Strawberry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Relations and Publicity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060430T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D8123FF933A05757C0A9609C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Christianity, the Brand</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven A Ludsin letter comments on April 16 article on Larry Ross, Christian public relations specialist</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Given Rick Warren's success with ''The Purpose Driven Life,'' it doesn't sound as if he needs a public-relations man (Strawberry Saroyan, April 16). The increased attention to Christianity in the wider culture is understandable, but the blurring of faith, values and entertainment along with politics may create some discomfort for non-Christians. Our society is strong because of freedom of religion, but also because of the separation of church and state.</p>
+        <p>Steven A. Ludsin</p>
+        <p>East Hampton, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Given Rick Warren's success with ''The Purpose Driven Life,'' it doesn't sound as if he needs a public-relations man (Strawberry Saroyan, April 16). The increased attention to Christianity in the wider culture is understandable, but the blurring of faith, values and entertainment along with politics may create some discomfort for non-Christians. Our society is strong because of freedom of religion, but also because of the separation of church and state.</p>
+        <p>Steven A. Ludsin</p>
+        <p>East Hampton, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

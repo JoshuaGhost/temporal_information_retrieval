@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How to Educate Young Scientists</title>
+    <meta content="03mon3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/03/opinion/03mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1773543"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <org class="online_producer">Hughes, Howard Medical Institute</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3D71530F930A35754C0A9609C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How to Educate Young Scientists</hl1>
+        <hl2 class="online_headline">How to Educate Young Scientists</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States could easily fall from its privileged perch in the global economy unless it does something about the horrendous state of science education at both the public school and university levels. That means finding ways to enliven a dry and dispiriting style of science instruction that leads as many as half of the country's aspiring scientists to quit the field before they leave college.</p>
+        <p>The emerging consensus among educators is that students need early, engaging experiences in the lab -- and much more mentoring than most of them receive now -- to maintain their interest and inspire them to take up careers in the sciences.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The United States could easily fall from its perch in the global economy unless it does something about the horrendous state of science education at both the public school and university levels.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States could easily fall from its privileged perch in the global economy unless it does something about the horrendous state of science education at both the public school and university levels. That means finding ways to enliven a dry and dispiriting style of science instruction that leads as many as half of the country's aspiring scientists to quit the field before they leave college.</p>
+        <p>The emerging consensus among educators is that students need early, engaging experiences in the lab -- and much more mentoring than most of them receive now -- to maintain their interest and inspire them to take up careers in the sciences.</p>
+        <p>Some universities have already realized the need for better ways of teaching. But this means revising an incentive system that has historically rewarded scientists for making discoveries and publishing academic papers, not for nurturing the next generation of great minds.</p>
+        <p>The Howard Hughes Medical Institute, the country's largest private supporter of science education, is well ahead of the curve, and has been pushing universities in this direction for several years under the leadership of Thomas Cech, a Nobel laureate. The institute recently announced its latest batch of 20 ''million dollar professors,'' who will use their grant money to explore and expand innovative approaches to teaching science.</p>
+        <p>The institute has also awarded grants to 50 universities aimed at providing richer undergraduate science education as well as mentoring and early research experiences with working scientists. Many of the grants will be used partly to advertise the virtues of scientific study not just at universities but also in high schools and middle schools.</p>
+        <p>These programs send a powerful message at a time when the country needs to be paying attention to remaking science education. Congress, which has been casting for ways to address this problem, would do well to emulate them.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

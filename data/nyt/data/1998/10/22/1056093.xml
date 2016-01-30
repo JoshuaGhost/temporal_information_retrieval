@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Network Defends Islanders Blackouts</title>
+    <meta content="PL063052" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1056093"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: TV SPORTS -- FOX SPORTS NEW YORK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Fox Sports New York</org>
+        <org class="indexing_service">New York Islanders</org>
+        <org class="indexing_service">New Jersey Devils</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Islanders</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DA103DF931A15753C1A96E958260" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Network Defends Islanders Blackouts</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>Fox Sports New York defends its refusal to carry three New York Islanders telecasts because they conflicted with New Jersey Devils games (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Although Fox Sports New York has refused to carry three Islanders telecasts because they conflicted with Devils' games, the executive who runs the cable channel said yesterday that he was not punishing the team.</p>
+        <p>The Islanders are not being singled out, said Joseph M. Cohen, the executive vice president of Madison Square Garden who oversees FSNY and the MSG Network. This issue goes beyond any particular team.</p>
+      </block>
+      <block class="full_text">
+        <p>Although Fox Sports New York has refused to carry three Islanders telecasts because they conflicted with Devils' games, the executive who runs the cable channel said yesterday that he was not punishing the team.</p>
+        <p>The Islanders are not being singled out, said Joseph M. Cohen, the executive vice president of Madison Square Garden who oversees FSNY and the MSG Network. This issue goes beyond any particular team.</p>
+        <p>To underscore his point, Cohen said that not carrying a Knicks game -- whenever the National Basketball Association lockout ends -- is a possibility if it conflicted with a Rangers game being played at the same time on MSG.</p>
+        <p>The Rangers, Knicks, MSG and FSNY are all parts of Madison Square Garden, which is run by Cablevision Systems. Last season, the first since MSG and FSNY merged, both channels usually created conflict channels, like MSG2 or FSNY2, when two teams played at the same time.</p>
+        <p>But Cohen said that the overflow channels have been carried inconsistently on some cable systems, making them difficult for viewers to find, to promote or to enlist advertisers for.</p>
+        <p>We've been trying to figure this out, said Cohen, when asked why he chose not to carry the Islanders without public explanation. We didn't get it solved and ran out of time. We're working hard so fans won't be inconvenienced.</p>
+        <p>But until a solution is found, fans will be inconvenienced. Cohen said MSG and FSNY schdules for the rest of October and November will show that no single team is being targeted. But barring an end to the N.B.A. lockout, the schedules may not fully reflect which games will not be televised when the Knicks and Nets play.</p>
+        <p>Cohen tried to ameliorate the ire of Islanders fans by announcing yesterday that MSG's telecast of tonight's Islanders-Rangers game will be made available to several hundred thousand customers on Cablevision's Long Island cable system, who don't otherwise subscribe to the expanded basic tier.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>PLUS: TV SPORTS -- FOX SPORTS NEW YORK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

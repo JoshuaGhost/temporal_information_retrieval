@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fratello Hires Former Coaches</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="621180"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">COACHES AND MANAGERS</classifier>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">CLEVELAND CAVALIERS</org>
+        <person class="indexing_service">ADUBATO, RICHIE</person>
+        <person class="indexing_service">ROTHSTEIN, RON</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Cleveland Cavaliers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DB1139F930A25754C0A965958260" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fratello Hires Former Coaches</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RICHIE ADUBATO and RON ROTHSTEIN, both of whom had National Basketball Association head-coaching jobs of their own at the start of last season, were hired yesterday to be MIKE FRATELLO's assistants with the Cleveland Cavaliers.</p>
+      </block>
+      <block class="full_text">
+        <p>RICHIE ADUBATO and RON ROTHSTEIN, both of whom had National Basketball Association head-coaching jobs of their own at the start of last season, were hired yesterday to be MIKE FRATELLO's assistants with the Cleveland Cavaliers.</p>
+        <p>Adubato was fired by the Dallas Mavericks on Jan. 13. Rothstein was fired at the end of last season after coaching the Detroit Pistons. (AP)  SPORTS PEOPLE: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

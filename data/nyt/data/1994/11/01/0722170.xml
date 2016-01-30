@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Foundation Head Resigns</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="722170"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">CUNNINGHAM, MERCE, DANCE FOUNDATION</org>
+        <person class="indexing_service">BECOFSKY, ART</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4D71E3FF932A35752C1A962958260" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Foundation Head Resigns</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Art Becofsky has resigned as executive director of the Merce Cunningham Dance Foundation, the organization has announced. Mr. Becofsky was with the foundation for more than two decades. Michael Bloom, the company's director of education and media, is to serve as interim general manager until a new director is found.</p>
+      </block>
+      <block class="full_text">
+        <p>Art Becofsky has resigned as executive director of the Merce Cunningham Dance Foundation, the organization has announced. Mr. Becofsky was with the foundation for more than two decades. Michael Bloom, the company's director of education and media, is to serve as interim general manager until a new director is found.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

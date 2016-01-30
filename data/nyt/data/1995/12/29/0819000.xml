@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 British Banks Finish Merger</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="819000"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NAMES, ORGANIZATIONAL</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">LLOYDS TSB GROUP PLC</org>
+        <org class="indexing_service">LLOYDS BANK PLC</org>
+        <org class="indexing_service">TSB GROUP PLC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DC1239F93AA15751C1A963958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 British Banks Finish Merger</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>LONDON, Dec. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shares of Lloyds TSB Group P.L.C. began trading as the merger of Lloyds Bank  P.L.C. and TSB Group P.L.C. bank, a deal valued at L13 billion, or $20.1 billion, became effective.</p>
+        <p>The marriage of Lloyds and TSB to form the largest retail bank in Britain, with L150 billion in assets, was the largest of several mergers and takeovers among British financial institutions this year.</p>
+      </block>
+      <block class="full_text">
+        <p>Shares of Lloyds TSB Group P.L.C. began trading as the merger of Lloyds Bank  P.L.C. and TSB Group P.L.C. bank, a deal valued at L13 billion, or $20.1 billion, became effective.</p>
+        <p>The marriage of Lloyds and TSB to form the largest retail bank in Britain, with L150 billion in assets, was the largest of several mergers and takeovers among British financial institutions this year.</p>
+        <p>Lloyds TSB said that Kent Atkinson, the chief financial officer of Lloyds Bank, had been namd chief financial officer of the group.</p>
+        <p>Lloyds TSB said two other officials with Lloyds Bank would be appointed to positions with the group: Alastair Michie as company secretary and John Robson as head of corporate communications.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth O'Hara, T. R. Lazo</title>
+    <meta content="19OHAR" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/19/fashion/weddings/19OHAR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1457697"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">O'HARA, ELIZABETH BENOIT</person>
+        <person class="indexing_service">LAZO, THEODORE RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFDA1E31F93AA25752C0A9659C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth O'Hara, T. R. Lazo</hl1>
+        <hl2 class="online_headline">Elizabeth O'Hara and T. R. Lazo</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Benoit O'Hara, a daughter of Mr. and Mrs. Bartley M. O'Hara of Washington, was married yesterday to Theodore Richard Lazo, the son of Mr. and Mrs. Theodore D. Lazo of Ponte Vedra Beach, Fla. Msgr. Thomas Duffy performed the ceremony at the Shrine of the Most Blessed Sacrament in Washington.</p>
+        <p>The bride, 31, will continue to use her name professionally. She is a legislative assistant to Representative Richard A. Gephardt, Democrat of Missouri. She graduated from Washington College in Chestertown, Md. Her father and her mother, Judith Mannion O'Hara, are lawyers in Washington.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Elizabeth Benoit O'Hara was married on Saturday to Theodore Richard Lazo at the Shrine of the Most Blessed Sacrament in Washington.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Benoit O'Hara, a daughter of Mr. and Mrs. Bartley M. O'Hara of Washington, was married yesterday to Theodore Richard Lazo, the son of Mr. and Mrs. Theodore D. Lazo of Ponte Vedra Beach, Fla. Msgr. Thomas Duffy performed the ceremony at the Shrine of the Most Blessed Sacrament in Washington.</p>
+        <p>The bride, 31, will continue to use her name professionally. She is a legislative assistant to Representative Richard A. Gephardt, Democrat of Missouri. She graduated from Washington College in Chestertown, Md. Her father and her mother, Judith Mannion O'Hara, are lawyers in Washington.</p>
+        <p>The bridegroom, 35, is known as T. R. He is a staff lawyer at the Securities and Exchange Commission in Washington. He graduated from Middlebury College and received a law degree from Catholic University of America. His father, who is retired, was the senior vice president of the Drackett Company in Cincinnati, which was a consumer products subsidiary of Bristol-Myers.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

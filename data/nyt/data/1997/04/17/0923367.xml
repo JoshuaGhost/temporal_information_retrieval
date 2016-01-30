@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muppets a la Chippendale</title>
+    <meta content="17MUP" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="923367"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Desks</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Henson, Jim, Productions Inc</org>
+        <person class="indexing_service">Martin, Antoinette</person>
+        <person class="indexing_service">Pollaro, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3DE123FF934A25757C0A961958260" item-length="370" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muppets a la Chippendale</hl1>
+      </hedline>
+      <byline class="print_byline">By ANTOINETTE MARTIN</byline>
+      <byline class="normalized_byline">Martin, Antoinette</byline>
+      <abstract>
+        <p>New reception desk created by Frank Pollaro for Jim Henson Productions Inc depicts Muppets in Chippendale-style marquetry; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE new reception desk created for the headquarters of Jim Henson Productions Inc., on East 69th Street, inventors of the Muppets, provokes instantaneous delight and cognitive dissonance.</p>
+        <p>There, in all their Muppetness, are Kermit, Gonzo, Camilla, Fozzi Bear, Scooter and Janice -- depicted in Chippendale-style marquetry. Gilt Miss Piggys support the top like porcine caryatids.</p>
+      </block>
+      <block class="full_text">
+        <p>THE new reception desk created for the headquarters of Jim Henson Productions Inc., on East 69th Street, inventors of the Muppets, provokes instantaneous delight and cognitive dissonance.</p>
+        <p>There, in all their Muppetness, are Kermit, Gonzo, Camilla, Fozzi Bear, Scooter and Janice -- depicted in Chippendale-style marquetry. Gilt Miss Piggys support the top like porcine caryatids.</p>
+        <p>The master furniture maker Frank Pollaro (though just 30, he has been in business for nine years) worked on the project for three years. It was commission by Michael Frith, an early collaborator of Jim Henson's and until recently an executive vice president at Henson Productions, who left to set up his own production company.</p>
+        <p>When it comes to materials, nothing is too good for the Muppets. Dozens of woods were used, including satinwood, black walnut and a tiny piece of red African padauk.</p>
+        <p>Mr. Pollaro is well known for his re-creations of pieces by the French Art Deco master Jacques-Emile Ruhlmann. But for this project, Michael Frith's drawings called for something more classical.</p>
+        <p>Mr. Frith drew delicate friezes for the narrow top panels on the three-sided desk, with tiny birds, animals, flowers, horseflies and stars. Allegorical scenes on its large face panels feature Muppets representing drama (Kermit holds Yorick's skull), arts and letters, and music.</p>
+        <p>''The idea that Michael gave from the start is that they didn't want these characters to be actual colors,'' Mr. Pollaro said. ''Kermit wasn't supposed to be green. He was supposed to appear in classical colors, those you see in classical Chippendale marquetry. For that, you need a toned-down palette, and you have to find colors that occur naturally.''</p>
+        <p>When the desk was installed in the lobby of the Henson headquarters last Friday, it was the end of an era for Mr. Pollaro and his staff. ''We're really going to miss it,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

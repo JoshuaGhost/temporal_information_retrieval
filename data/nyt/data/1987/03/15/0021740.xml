@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stevenson Gains Final</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="21740"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="SCHOOL SPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERSCHOLASTIC ATHLETICS</classifier>
+        <org class="indexing_service">ATHLETIC LEAGUE, PUBLIC SCHOOLS (PSAL)</org>
+        <org class="indexing_service">STEVENSON HIGH SCHOOL (NYC)</org>
+        <org class="indexing_service">SPRINGFIELD GARDENS HIGH SCHOOL (NYC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interscholastic Athletics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED9163DF936A25750C0A961948260" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stevenson Gains Final</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Stevenson of the Bronx beat Lincoln of Brooklyn, 65-61, in overtime yesterday to advance to the Public Schools Athletic League championship game against Springfield Gardens of Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Stevenson of the Bronx beat Lincoln of Brooklyn, 65-61, in overtime yesterday to advance to the Public Schools Athletic League championship game against Springfield Gardens of Queens.</p>
+        <p>Stevenson of the Bronx beat Lincoln of Brooklyn, 65-61, in overtime yesterday to advance to the Public Schools Athletic League championship game against Springfield Gardens of Queens.</p>
+        <p>Springfield Gardens defeated Far Rockaway, 76-66, in the opening game of a semifinal doubleheader in Alumni Hall at St. John's. The championship game will be played at 3 P.M. next Saturday, also at Alumni Hall.</p>
+        <p>Stevenson (25-1) led comfortably until Lincoln drew to 54-51 with 1 minute 4 seconds to play in regulation. Darryl Williams then hit a 20-footer to bring the Railsplitters to 54-53.</p>
+        <p>After a timeout, Stevenson went into a delay offense. Chris Tate, the Stevenson point guard, was fouled with 20 seconds left and made one of two free throws to put Stevenson up by 55-53. But Williams hit another 20-footer to tie the score.</p>
+        <p>The Ambassadors pulled away in the 3-minute overtime period, paced by Singleton, who led them in scoring with 26 points.</p>
+        <p>SCHOOL SPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

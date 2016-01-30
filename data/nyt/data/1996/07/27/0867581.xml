@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>STEWART &amp; STEVENSON MAY TAKE AN EARNINGS CHARGE</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="867581"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <org class="indexing_service">STEWART &amp; STEVENSON SERVICES INC</org>
+        <org class="indexing_service">SERV-TECH INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E0DA1739F934A15754C0A960958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>STEWART &amp; STEVENSON MAY TAKE AN EARNINGS CHARGE</hl1>
+      </hedline>
+      <byline class="print_byline">Bloomberg Business News</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stewart &amp; Stevenson Services Inc. said yesterday that it might take a charge  of $13.4 million if a judge did not throw out a jury verdict that awarded Serv-Tech Inc. $30 million in connection with a manufacturing agreement. The charge would amount to 40 cents a share and would be taken in the quarter ending next Wednesday. In a retrial, the jury found that Stewart &amp; Stevenson had breached an agreement about making certain equipment for cleaning heat exchangers. The jury awarded damages against Stewart &amp; Stevenson of $30 million, plus 40 percent for attorneys' fees. Stewart &amp; Stevenson makes diesel and gas turbine- powered equipment.</p>
+      </block>
+      <block class="full_text">
+        <p>Stewart &amp; Stevenson Services Inc. said yesterday that it might take a charge  of $13.4 million if a judge did not throw out a jury verdict that awarded Serv-Tech Inc. $30 million in connection with a manufacturing agreement. The charge would amount to 40 cents a share and would be taken in the quarter ending next Wednesday. In a retrial, the jury found that Stewart &amp; Stevenson had breached an agreement about making certain equipment for cleaning heat exchangers. The jury awarded damages against Stewart &amp; Stevenson of $30 million, plus 40 percent for attorneys' fees. Stewart &amp; Stevenson makes diesel and gas turbine- powered equipment.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

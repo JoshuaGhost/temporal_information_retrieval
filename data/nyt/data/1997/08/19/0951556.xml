@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Male Accomplishments</title>
+    <meta content="LHALWE$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="951556"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Men</classifier>
+        <person class="indexing_service">Halweil, Ronald</person>
+        <person class="indexing_service">Dill, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6DD1E3FF93AA2575BC0A961958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Male Accomplishments</hl1>
+      </hedline>
+      <abstract>
+        <p>Ronald Halweil letter comments on David Dill's August 16 letter on male intellectual accomplishments (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>To David Dill's short list of male accomplishments (''Those Extra Male Neurons Have Accomplished Quite a Lot,'' letter, Aug. 16), I would add nuclear weapons, total warfare and genocide. Whenever women have had the same opportunities as men, they have excelled in all endeavors.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>To David Dill's short list of male accomplishments (''Those Extra Male Neurons Have Accomplished Quite a Lot,'' letter, Aug. 16), I would add nuclear weapons, total warfare and genocide. Whenever women have had the same opportunities as men, they have excelled in all endeavors.</p>
+        <p>By the way, who raises, nurtures and encourages all the accomplished men?</p>
+        <p>RONALD HALWEIL  Bayonne, N.J., Aug. 16, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

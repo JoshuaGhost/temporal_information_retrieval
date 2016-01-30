@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Primary, as in First</title>
+    <meta content="l11primaries" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1832305"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Primaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2008</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDA1331F932A25750C0A9619C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Primary, as in First</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Super-Sized Tuesday'' (editorial, March 8) seems to imply that it is more fair to the country to have a national candidate anointed by a few hundred thousand people in Iowa and New Hampshire than to allow the people in populous states like New York and California to have a real say in selecting the nominee. And for what reason? Because New Yorkers and Californians have the misfortune to live in an expensive media market?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Super-Sized Tuesday'' (editorial, March 8) seems to imply that it is more fair to the country to have a national candidate anointed by a few hundred thousand people in Iowa and New Hampshire than to allow the people in populous states like New York and California to have a real say in selecting the nominee. And for what reason? Because New Yorkers and Californians have the misfortune to live in an expensive media market?</p>
+        <p>We have a national election. Why not have a national primary?</p>
+        <p>Matthew Josefowicz  Providence, R.I., March 8, 2007</p>
+        <p>To the Editor:</p>
+        <p>Re ''Super-Sized Tuesday'' (editorial, March 8):</p>
+        <p>The influence of Iowa and New Hampshire in determining a presidential nominee doesn't reflect a problem with our primary system; it reflects a problem with the electorate.</p>
+        <p>With only a small fraction of delegates coming from these two states, it should be easy for voters elsewhere to have an impact on the election. Instead, they rubber-stamp the decisions made by the residents of Iowa and New Hampshire.</p>
+        <p>As long as primary voters gravitate toward the winners of earlier contests instead of taking the time to analyze the merits of the candidates for themselves, their laziness shouldn't be rewarded with an earlier primary date.</p>
+        <p>Matthew Horowitz  Ithaca, N.Y., March 8, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

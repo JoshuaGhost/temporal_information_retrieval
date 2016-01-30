@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Price Co. reports earnings for Qtr to Aug 30</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="559800"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5D6143BF933A0575AC0A964958260" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Price Co. reports earnings for Qtr to Aug 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Price Co.</p>
+        <p>Qtr to Aug 30</p>
+        <p>1992</p>
+        <p>1991</p>
+        <p>Revenue</p>
+        <p>1,688,967,000</p>
+        <p>1,569,677,000</p>
+        <p>Net inc</p>
+        <p>29,656,000</p>
+        <p>34,047,000</p>
+        <p>Share earns</p>
+        <p>.62</p>
+        <p>.67</p>
+        <p>Shares outst</p>
+        <p>50,010,000</p>
+        <p>52,593,000</p>
+        <p>Yr rev</p>
+        <p>7,320,187,000</p>
+        <p>6,598,053,000</p>
+        <p>Net inc</p>
+        <p>129,112,000</p>
+        <p>134,071,000</p>
+        <p>Share earns</p>
+        <p>2.61</p>
+        <p>2.68</p>
+        <p>Shares outst</p>
+        <p>51,691,000</p>
+        <p>52,197,000</p>
+        <p>The company is listed on the Nasdaq National Market System.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

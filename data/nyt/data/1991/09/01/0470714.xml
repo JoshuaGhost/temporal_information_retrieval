@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RETOOLING</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="470714"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="DESIGN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DF133EF932A3575AC0A967958260" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RETOOLING</hl1>
+      </hedline>
+      <byline class="print_byline">By Carol Vogel</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When she bought her first house, Helen Bransford, a jewelry designer, began looking for elegant hardware -- hinges and finials, drawer pulls and picture hooks. "When I couldn't find anything I liked," Bransford says, "I began to make it myself."</p>
+        <p>Now, like a growing number of artists and designers, Bransford is producing her own line of hardware. "There's far more fashion in this business now," says Walter Ress, general manager of Simon's Hardware in Manhattan. As you can see from the pieces shown here, modern hardware is more than simply nuts and bolts.</p>
+      </block>
+      <block class="full_text">
+        <p>When she bought her first house, Helen Bransford, a jewelry designer, began looking for elegant hardware -- hinges and finials, drawer pulls and picture hooks. "When I couldn't find anything I liked," Bransford says, "I began to make it myself."</p>
+        <p>Now, like a growing number of artists and designers, Bransford is producing her own line of hardware. "There's far more fashion in this business now," says Walter Ress, general manager of Simon's Hardware in Manhattan. As you can see from the pieces shown here, modern hardware is more than simply nuts and bolts.</p>
+        <p>DESIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

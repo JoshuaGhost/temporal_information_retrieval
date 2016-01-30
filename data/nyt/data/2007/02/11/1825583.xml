@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lincoln's Birthday</title>
+    <meta content="11parking" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/11/nyregion/11parking.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1825583"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFD71E3FF932A25751C0A9619C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lincoln's Birthday</hl1>
+        <hl2 class="online_headline">Lincoln’s Birthday</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alternate-side parking regulations in New York City will be suspended tomorrow in observance of Lincoln's Birthday. Other regulations remain in effect. All government offices will be open, but most courts will be closed. No trash or recyclables will be collected, but trash may be placed outside after 5 p.m. In New Jersey and Connecticut, courts and state offices will be closed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alternate-side parking regulations in New York City will be suspended tomorrow in observance of Lincoln’s Birthday. Other regulations remain in effect. All government offices will be open, but most courts will be closed. No trash or recyclables will be collected, but trash may be placed outside after 5 p.m. In New Jersey and Connecticut, courts and state offices will be closed.</p>
+      </block>
+      <block class="full_text">
+        <p>Alternate-side parking regulations in New York City will be suspended tomorrow in observance of Lincoln's Birthday. Other regulations remain in effect. All government offices will be open, but most courts will be closed. No trash or recyclables will be collected, but trash may be placed outside after 5 p.m. In New Jersey and Connecticut, courts and state offices will be closed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

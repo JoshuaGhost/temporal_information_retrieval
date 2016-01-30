@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nike Names Executive As President</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="668934"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">NIKE INC</org>
+        <person class="indexing_service">CLARKE, THOMAS E</person>
+        <person class="indexing_service">DONAHUE, RICHARD K</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E5DA1E38F936A25751C0A962958260" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nike Names Executive As President</hl1>
+      </hedline>
+      <dateline>PORTLAND, Ore., Feb. 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nike, the athletic-shoe giant, today named Thomas E. Clarke president.</p>
+        <p>Mr. Clarke, 42, replaces Richard K. Donahue, 67, who had been president for four years. Mr. Donahue was named to the newly created post of vice chairman.</p>
+      </block>
+      <block class="full_text">
+        <p>Nike, the athletic-shoe giant, today named Thomas E. Clarke president.</p>
+        <p>Mr. Clarke, 42, replaces Richard K. Donahue, 67, who had been president for four years. Mr. Donahue was named to the newly created post of vice chairman.</p>
+        <p>Mr. Clarke had been corporate vice president of marketing since 1989. The "Just Do It" and other marketing campaigns were products of his reign in marketing. He is also responsible for defining new categories of sport products, such as Cross-Training and Outdoor Cross-Training.</p>
+        <p>Mr. Clarke has been general manager of the Nike brand of the company since 1991, which means he had been responsible for the day-to-day operations of the largest portion of the company's business.</p>
+        <p>The position of president had been vacant for about five years before Mr. Donahue filled it. The position of vice chairman of the board was created so Mr. Donahue can continue to have his hand in operations of the company once Mr. Clarke takes over, according to Keith Peters, public relations director. Mr. Clarke will take over as president on June 1, until then he has the title of president-elect.</p>
+        <p>Mr. Clarke, a native of Binghamton, N.Y., joined Nike in 1980. He received a doctorate in biomechanics at Penn State University in the same year. In 1977, Mr. Clarke earned a master's degree at the University of Florida. His first job at Nike was as researcher at the Nike Sports and Research Laboratory in Exeter, N.H.. In 1983, he was promoted to director of product development and in 1984 was relocated to Nike's headquarters in Beaverton, Ore., to assume the new position of director of Nike's Sports Research and Development Center.</p>
+        <p>He became director of marketing for the running division in 1985, and the next year became director of footwear research and product marketing. In 1987, he was named director of marketing for the footwear division and was also named a divisional vice president, before he became corporate vice president of marketing in 1989 and general manager of the Nike brand in 1991.</p>
+        <p>Mr. Clarke said company revenues increased from $2 billion to $4 billion in the four years Mr. Donahue was president.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

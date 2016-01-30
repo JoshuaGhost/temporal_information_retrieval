@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CONSUMER RATES</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="36743"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <classifier class="indexing_service" type="descriptor">RATES</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDB123FF930A35756C0A961948260" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CONSUMER RATES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: In percent</p>
+        <p>Tax-Exempt Bonds</p>
+        <p>7.85</p>
+        <p>Bond Buyer 20-Bond Index</p>
+        <p>Money Market Funds</p>
+        <p>5.66</p>
+        <p>Donoghue's Money Fund 7-Day Compound Yield</p>
+        <p>Bank Money Market Accounts</p>
+        <p>5.45</p>
+        <p>Bank Rate Monitor</p>
+        <p>Home Mortgage</p>
+        <p>9.48</p>
+        <p>Federal Home Loan Bank, national average</p>
+        <p>Unsecured Personal Loans</p>
+        <p>Minimum fixed rate, 3-year maturity</p>
+        <p>Chase Manhattan, New York</p>
+        <p>14.50</p>
+        <p>Continental Illinois, Chicago</p>
+        <p>14.00</p>
+        <p>Bank of America, SanMFrancisco</p>
+        <p>18.25</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: In percent</p>
+        <p>Tax-Exempt Bonds</p>
+        <p>7.85</p>
+        <p>Bond Buyer 20-Bond Index</p>
+        <p>Money Market Funds</p>
+        <p>5.66</p>
+        <p>Donoghue's Money Fund 7-Day Compound Yield</p>
+        <p>Bank Money Market Accounts</p>
+        <p>5.45</p>
+        <p>Bank Rate Monitor</p>
+        <p>Home Mortgage</p>
+        <p>9.48</p>
+        <p>Federal Home Loan Bank, national average</p>
+        <p>Unsecured Personal Loans</p>
+        <p>Minimum fixed rate, 3-year maturity</p>
+        <p>Chase Manhattan, New York</p>
+        <p>14.50</p>
+        <p>Continental Illinois, Chicago</p>
+        <p>14.00</p>
+        <p>Bank of America, SanMFrancisco</p>
+        <p>18.25</p>
+        <p>In percent</p>
+        <p>Tax-Exempt Bonds</p>
+        <p>7.85</p>
+        <p>Bond Buyer 20-Bond Index</p>
+        <p>Money Market Funds</p>
+        <p>5.66</p>
+        <p>Donoghue's Money Fund 7-Day Compound Yield</p>
+        <p>Bank Money Market Accounts</p>
+        <p>5.45</p>
+        <p>Bank Rate Monitor</p>
+        <p>Home Mortgage</p>
+        <p>9.48</p>
+        <p>Federal Home Loan Bank, national average</p>
+        <p>Unsecured Personal Loans</p>
+        <p>Minimum fixed rate, 3-year maturity</p>
+        <p>Chase Manhattan, New York</p>
+        <p>14.50</p>
+        <p>Continental Illinois, Chicago</p>
+        <p>14.00</p>
+        <p>Bank of America, SanMFrancisco</p>
+        <p>18.25</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

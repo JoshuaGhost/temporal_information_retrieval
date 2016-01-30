@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="NIC003842" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="CHRONICLE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="898547"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="CHRONICLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <org class="indexing_service">WEVD-AM (NYC Radio Station)</org>
+        <person class="indexing_service">Brozan, Nadine</person>
+        <person class="indexing_service">Syms, Sy</person>
+        <person class="indexing_service">Syms, Lynn</person>
+        <object.title class="indexing_service">Chronicle (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961230T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2D81330F933A05751C1A960958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">Brozan, Nadine</byline>
+      <abstract>
+        <p>Retailer Sy Syms and his wife, Lynn, will host talk show on WEVD AM (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SY SYMS, whose name is associated with discount shopping -- he is the founder and chief executive of the Syms chain of stores -- has always had a yen for radio broadcasting.</p>
+        <p>On Thursday he and his wife, LYNN SYMS, a sculptor, will inaugurate a new talk show on WEVD-AM (1050), on which they will interview New Yorkers.</p>
+      </block>
+      <block class="full_text">
+        <p>SY SYMS, whose name is associated with discount shopping -- he is the founder and chief executive of the Syms chain of stores -- has always had a yen for radio broadcasting.</p>
+        <p>On Thursday he and his wife, LYNN SYMS, a sculptor, will inaugurate a new talk show on WEVD-AM (1050), on which they will interview New Yorkers.</p>
+        <p>''We want to create an aura of noninvasive radio, talking about New York and the metropolitan area and having on guests from the famous to the unheralded who pertain to New York,'' Mr. Syms said.</p>
+        <p>This will not be his first foray into radio. As a student at New York University in the 1940's, he majored in radio production and broadcasting.</p>
+        <p>''I studied and practiced hard to give rid of my Brooklyn accent and my liquid L's,'' he said. ''I did play-by-play sports events for two years after college in Maryland and West Virginia, but then I gave it up for clothing, and joined Merns, my family business.''</p>
+        <p>What does he hope to bring to the airwaves? ''Something for people who just want to relax for a half hour,'' he said.</p>
+        <p>CHRONICLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

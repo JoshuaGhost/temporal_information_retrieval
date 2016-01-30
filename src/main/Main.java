@@ -16,34 +16,37 @@ import controler.LuceneRetriever;
 
 public class Main {
 	public static void main(String[] args) throws Exception {
-		final String root = "E:\\Users\\Assassin\\workspace\\temporal_information_retrieval\\";
-		final String indexPath = root+"indexes";
-		final String queryPath = root+"\\data\\queries.xml";
-		final controler.LuceneRetriever hl = new controler.LuceneRetriever();
+		final String root = ".";
+		final String indexPath = root+"/indexes";
+		final String queryPath = root+"/data/queries.xml";
+		//final String dataPath = root+"/data/nyt/data";
+		final String dataPath = root+"/data/sample";
 		//String query = "China air pollution";
 		final String startTime = "2011-06";
 		final String endTime = "2012-18";
 
-		//		final String [] argvs1  = {"HalloLucene", "build", root+"data\\sample"};
-		//		hl.excute(argvs1);
+		final controler.LuceneRetriever luceneRetriever = new controler.LuceneRetriever();
+		//final String [] argvs1  = {"HalloLucene", "build", root+"data\\sample"};
+		luceneRetriever.build(indexPath, dataPath);
 		//		final String[] argvs2 = {"HalloLucene", "search", "Earthquake", "100"};
-		//		hl.excute(argvs2);
+		//		luceneRetriever.excute(argvs2);
 		//		final String[] argvs3 = {"HalloLucene", "tend", "Earthquake", "100"};
 		
-
+	/*
 		File queryFile = new File(queryPath);
 		model.XmlDoc queryXmlDoc = new model.XmlDoc(queryFile);
 		NodeList queries = queryXmlDoc.getElementsByTagName("title");
-
-		final LineCharts lineCharts = new LineCharts("Historical distribution");
 		
+		final LineCharts lineCharts = new LineCharts("Historical distribution");
+
 		for (int queryNum = 0; queryNum<queries.getLength(); queryNum++) {
-			Node queryNode = (Element)queries.item(queryNum);
+			Element queryNode = (Element) queries.item(queryNum);
 			String query = queryNode.getFirstChild().getNodeValue();
 
-			Hashtable<String, Integer> trend = hl.temporalTrend(query, indexPath, startTime, endTime);
+			Hashtable<String, Integer> trend = luceneRetriever.temporalTrend(query, indexPath, startTime, endTime);
 			String[] currentTime = startTime.split("-");
 			String currentMonth = currentTime[0]+"-"+currentTime[1];
+
 
 			while (currentMonth.compareTo(endTime)<=0) {
 				lineCharts.insertData(trend.get(currentMonth)==null?0:trend.get(currentMonth),
@@ -58,9 +61,11 @@ public class Main {
 				currentMonth = currentTime[0]+"-"+currentTime[1];
 			}
 		}
+		
 		lineCharts.drawChart();
 		lineCharts.pack();
 		RefineryUtilities.centerFrameOnScreen(lineCharts);
 		lineCharts.setVisible(true);
+		*/
 	} 
 }

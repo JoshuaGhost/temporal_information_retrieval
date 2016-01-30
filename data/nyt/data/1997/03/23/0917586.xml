@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW YORKERS &amp; CO.</title>
+    <meta content="23BRIE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <meta content="NEW YORKERS &amp; CO." name="column_name"/>
+    <docdata>
+      <doc-id id-string="917586"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="NEW YORKERS &amp; CO."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Lingerie</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Bars</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">new horizons computer learning center</org>
+        <org class="indexing_service">vain (bar)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bars</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE1DA163BF930A15750C0A961958260" item-length="442" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW YORKERS &amp; CO.</hl1>
+      </hedline>
+      <abstract>
+        <p>New Horizons Computer Learning Center has opened 13 classrooms in lower Manhattan; Inside Out, lingerie boutique for larger women, opens in Harlem; new bar-lounge called Vain will open on 9 Avenue A(S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Computer School Programs: Mouse 101 to Advanced Net</p>
+        <p>Catering to people who think a mouse is only something that runs around the floor, New Horizons Computer Learning Center opened 13 classrooms three weeks ago on 40 Broad Street, between Beaver Street and Exchange Place. ''We look into the classroom and never know who we're going to find,'' said Ken Hagerstrom, general manager of the New York office of the California computer company, which he said has taught Bianca Jagger and groups of nuns.</p>
+      </block>
+      <block class="full_text">
+        <p>Computer School Programs: Mouse 101 to Advanced Net</p>
+        <p>Catering to people who think a mouse is only something that runs around the floor, New Horizons Computer Learning Center opened 13 classrooms three weeks ago on 40 Broad Street, between Beaver Street and Exchange Place. ''We look into the classroom and never know who we're going to find,'' said Ken Hagerstrom, general manager of the New York office of the California computer company, which he said has taught Bianca Jagger and groups of nuns.</p>
+        <p>Classes are held in single eight-hour sessions or over two nights (cost: $225). Subjects range from ''Computers Made Easy'' (the components of the computer, how to use it and what to look for when buying one) to ''Advanced Internet.''</p>
+        <p>A Business Niche Selling Lingerie in Larger Sizes</p>
+        <p>Rosemary Robinson and Delena Glenn live in Harlem and wanted to go into business together in the neighborhood.</p>
+        <p>But they did not know what business. Ms. Robinson, a former production manager at an advertising agency, and Ms. Glenn, a training manager at Metro-North Commuter Railroad, looked around to see where there might be a niche.</p>
+        <p>On March 8, they opened up Inside Out, a lingerie boutique for larger women, in 600 square feet of space on 2531 Frederick Douglass Boulevard, between 135th and 136th Streets. Inventory includes pantyhose, nightgowns, pajamas, slips and camisoles -- all for sizes 14 to 54.</p>
+        <p>Why the name? Ms. Robinson said:  ''You were always told as a woman to dress from the inside out. Your undergarments make you feel sexy, even if you're size 54.''</p>
+        <p>A Lounge That Carly Simon Should Not Be Told About</p>
+        <p>Joseph Arongino, 27, has been in the bar and club business  since high school.</p>
+        <p>But now with places like Handle-Bar, Big Sur, Ahnell and Arca behind him, he hopes to open his latest venture, Vain,  in the next few weeks.</p>
+        <p>As for the name, he said only, ''We want people to feel like vain people would feel.'' He is putting in 6-foot-4 leather armchairs and curvy mirrors all around.</p>
+        <p>The bar-lounge will be on 9 Avenue A, at Houston Street, which was the site of Arca until it closed in February. It will serve up what Mr. Arongino calls ''a light munch menu'' as well as personalized liquor bottles, where customers can buy a bottle and keep it behind the bar for several nights' consumption.</p>
+        <p>NEW YORKERS &amp; CO.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woolworth Holding a Sale</title>
+    <meta content="BBR252" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Metro Business" name="column_name"/>
+    <docdata>
+      <doc-id id-string="946116"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Metro Business"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Woolworth Corp</org>
+        <person class="indexing_service">Foderaro, Lisa W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DC163AF936A15754C0A961958260" item-length="226" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woolworth Holding a Sale</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA W. FODERARO</byline>
+      <byline class="normalized_byline">Foderaro, Lisa W</byline>
+      <abstract>
+        <p>Woolworth Corp begins liquidation sales in its 61 stores in New York City, with discounts of 10 to 30 percent on merchandise; store closings are to occur in stages over next six months (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Now that the Woolworth Corporation has announced that it will close all of its five-and-dime stores, bargain hunters have started circling over the odd mix that made the chain an American fixture: humidifiers and folding chairs, fly swatters and party hats.</p>
+        <p>The 61 Woolworth stores in New York City began liquidation sales on Wednesday, with discounts of 10 to 30 percent on its merchandise. The store closings are to occur in stages over the next six months, and as the end draws nigh, the discounts should become steeper, the company said.</p>
+      </block>
+      <block class="full_text">
+        <p>Now that the Woolworth Corporation has announced that it will close all of its five-and-dime stores, bargain hunters have started circling over the odd mix that made the chain an American fixture: humidifiers and folding chairs, fly swatters and party hats.</p>
+        <p>The 61 Woolworth stores in New York City began liquidation sales on Wednesday, with discounts of 10 to 30 percent on its merchandise. The store closings are to occur in stages over the next six months, and as the end draws nigh, the discounts should become steeper, the company said.</p>
+        <p>For now, luggage, artificial flowers and greeting cards have been marked down 30 percent, while all the rest is 10 to 20 percent off. Eventually, parts of the stores' infrastructure will also go on sale, items like display cases, soda fountains and signs. ''The store was jam packed the first day of the sale,'' said the manager of a Woolworth store on the Upper West Side, who spoke on the condition of anonymity.</p>
+        <p>The company announced the store closings last week. In New York City, 35 sites are to be converted to Champs Sports stores and Foot Lockers, chains owned by the Woolworth Corporation, said Juris Pagrabs, a company spokesman.</p>
+        <p>LISA W. FODERARO</p>
+        <p>Metro Business</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

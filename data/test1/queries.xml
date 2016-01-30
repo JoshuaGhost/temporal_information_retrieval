@@ -1,0 +1,129 @@
+﻿<topics> 
+<topic>
+        <id>001</id>
+        <title>Earthquakes</title>
+        <description>I suspect that these days the intensity of harsh weather conditions such as earthquakes is increased when compared to the past. In order to make sure I need to collect information on earthquake, their past occurrences, and future forecasts, etc.</description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="001a" type="atemporal">What is an earthquake and how severe it can be?</subtopic>
+                <subtopic id="001p" type="past">What past earthquakes were most deadly?</subtopic>
+                <subtopic id="001r" type="recency">What was the latest earthquake in Asia?</subtopic>
+                <subtopic id="001f" type="future">What are predictions regarding the occurrence of earthquakes in the near future?</subtopic>
+        </subtopics>
+</topic>
+<topic> 
+	<id>002</id>
+        <title>Junk food health effect</title>
+        <description>I am concerned about the health effects of junk food in general. I need to know more about their ingredients, impact on health, history, current scientific discoveries and any prognoses.</description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="002a" type="atemporal">How junk foods are defined?</subtopic>
+                <subtopic id="002p" type="past">When did junk foods become popular?</subtopic>
+                <subtopic id="002r" type="recency">What are the latest studies on the effect of junk foods on our health?</subtopic>
+                <subtopic id="002f" type="future">Will junk food continue to be popular in the future?</subtopic>
+        </subtopics>
+</topic>
+<topic> 
+	<id>003</id>
+        <title>Stock exchange investment</title>
+        <description>I am thinking to allocate part of my saving in shares of several well-known companies. However, I do not know much about these kind of investments and I am afraid that it may be too risky. I want to know more on how to invest, what are dangers of such investments and what is the currently the most promising company to invest into.</description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="003a" type="atemporal">How can we earn money by investing in publicly traded companies on the stock exchange?</subtopic>
+                <subtopic id="003p" type="past">What were the biggest crashes on common stock exchanges in the near past?</subtopic>
+                <subtopic id="003r" type="recency">What is the current economical climate for the investment?</subtopic>
+                    <subtopic id="003f" type="future">Which companies are most promising to invest into?</subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>004</id>
+        <title>Asian Football</title>
+        <description> I would like to understand the full picture and current status of Asian football. For example, the Asian football clubs, the recent matches, and people's comments about the future of Asian football.</description>
+        <query_issue_time> Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="004a" type="atemporal"> What are the famous football clubs in Asia?</subtopic>
+                <subtopic id="004p" type="past"> What impressive achievements have been made in the history of Asian football? </subtopic>
+                <subtopic id="004r" type="recency"> What are the recent football matches and events in Asia? </subtopic>
+                <subtopic id="004f" type="future"> What do experts think about the future level of Asian football? </subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>005</id>
+        <title>iPhone 5</title>
+        <description> iPhone is one of the most popular mobile phones in the world today. I would like to make a decision of whether to buy an iPhone 5 or wait for the next-generation iPhone. I wonder the users' comments about iPhone 5 and the next-generation iPhone. </description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="005a" type="atemporal"> What are the specs and features of iPhone 5? </subtopic>
+                <subtopic id="005p" type="past"> What were Apple company's business strategies behind the development of iPhone 5? </subtopic>
+                <subtopic id="005r" type="recency"> What are the current comments and reviews about iPhone 5? </subtopic>
+                <subtopic id="005f" type="future"> What are the expected features of the next-generation iPhone? </subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>006</id>
+        <title>Terrorist attack</title>
+        <description> Terrorist attack greatly affects people's daily life. I want to know the previous efforts people made against terrorist attack, and the present challenges that people face to the fight against terrorist attack. </description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="006a" type="atemporal"> How does the terrorist attack affect people's daily life? </subtopic>
+                <subtopic id="006p" type="past"> What are the previous efforts for fighting against terrorist attack? </subtopic>
+                <subtopic id="006r" type="recency"> What are the present challenges to the fight against terrorist attack? </subtopic>
+                <subtopic id="006f" type="future"> What is the future outlook of the fight against terrorist attack? </subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>007</id>
+        <title>China air pollution</title>
+        <description> Most Chinese cities are facing air pollution problems. I am interested in the impacts of air pollution on people's daily life. I want to know the previous efforts made by the Chinese government, and the present state of air pollution in China. What are the challenges to addressing the air pollution problems in China. </description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="007a" type="atemporal"> What are the primary causes of air pollution in China? </subtopic>
+                <subtopic id="007p" type="past"> What are the past reflections and actions taken by the Chinese government on improving air quality? </subtopic>
+                <subtopic id="007r" type="recency"> What is the current state of air pollution in China? </subtopic>
+                <subtopic id="007f" type="future"> What is the future outlook of the environmental issues in China? </subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>008</id>
+        <title>European crisis</title>
+        <description>I would like to understand the full picture and current status of the economical crisis that has hit Europe. What are the common causes of crisis of this kind, what is the current status of  the European crisis. What events have led to the current situation and what is the economical forecast</description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="008a" type="atemporal">What are the common causes of economic crisis?</subtopic>
+                <subtopic id="008p" type="past">What events have led to the current european econonical situation?</subtopic>
+                <subtopic id="008r" type="recency">What are the countries less and more affected by the crisis in europe, and why?</subtopic>
+                <subtopic id="008f" type="future">What are the predictions for the next years regarding european economy?</subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>009</id>
+        <title>Music festival in asia</title>
+        <description>I am interested in knowing about music festivals in asia, which festivals have been successfully established in asia, interesting facts about them, what festivals are upcoming in the next months and to which festivals I could attend next or the upcoming years. </description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="009a" type="atemporal">What are the well established music festivals in asia?</subtopic>
+                <subtopic id="009p" type="past">Which has been the most successful music festivals in asia?</subtopic>
+                <subtopic id="009r" type="recency">Which festivals are upcoming?</subtopic>
+                <subtopic id="009f" type="future">What are festivals and artists scheduled for next year or later?</subtopic>
+        </subtopics>
+</topic>
+ 
+<topic>
+        <id>010</id>
+        <title>Syria war</title>
+        <description>I am interested in knowing about the ongoing war in Syria, what had caused it and what will be its consequences for its people and the world in general. What is the recent story in Syria that has led to the current state of affairs in the region, what is the current situation and what do experts think that will happen to Syria and its people in the future.</description>
+        <query_issue_time>Mar 29, 2013 GMT+0:00</query_issue_time>
+        <subtopics>
+                <subtopic id="010a" type="atemporal">None</subtopic>
+                <subtopic id="010p" type="past">What is the story in Syria that has led to the current state of war affairs?</subtopic>
+                <subtopic id="010r" type="recency">What is the current situation in Syria?</subtopic>
+                <subtopic id="010f" type="future">What will happen to Syria and its people in the future?</subtopic>
+        </subtopics>
+</topic>
+</topics>

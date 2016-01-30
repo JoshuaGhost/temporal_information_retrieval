@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Yorker Grammarian</title>
+    <meta content="LTR004223" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="994213"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">New Yorker (Magazine)</org>
+        <person class="indexing_service">Packard, Eleanor Gould</person>
+        <person class="indexing_service">Bernstein, Jeremy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2D61E3DF93AA35751C0A96E958260" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Yorker Grammarian</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeremy Bernstein letter comments on February 4 article on Eleanor Gould Packard, grammarian for The New Yorker magazine (A)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was pleased to see your Feb. 4 Arts pages tribute to Eleanor Gould Packard, the grammarian for The New Yorker. Paradoxically, the article was in the same issue as a  news item reporting that The New Yorker is now going to be folded into the rest of the Conde Nast conglomerate, losing whatever independence it had.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was pleased to see your Feb. 4 Arts pages tribute to Eleanor Gould Packard, the grammarian for The New Yorker. Paradoxically, the article was in the same issue as a  news item reporting that The New Yorker is now going to be folded into the rest of the Conde Nast conglomerate, losing whatever independence it had.</p>
+        <p>My first encounter with Miss Gould occurred in the early 1960's when I wrote a dual profile of  the physicists T. D. Lee and C. N. Yang. It was the first technically complicated piece of scientific writing to appear in the magazine.  Mr. Lee and Mr. Yang had made monumental contributions to the theory of the so-called weak interactions.</p>
+        <p>I wrote, ''The neutrino interacts only weakly.'' Miss Gould suggested changing ''weakly'' to ''weekly.'' When William Shawn, the editor of the magazine, showed me the change, I suggested ''every other weekly.'' Alas and of course, that did not get into the magazine. Nonetheless, Miss Gould saved me, and countless other writers, from all sorts of folly.</p>
+        <p>JEREMY BERNSTEIN  New York, Feb. 4, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

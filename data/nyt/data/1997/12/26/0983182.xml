@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>1. Ring Up the Club. 2. Ring Out the Old. 3. Ring In the New.; Rock and Pop</title>
+    <meta content="RV054118" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="983182"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">New Year</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Chavez (Music Group)</org>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EFD71E3EF935A15751C1A961958260" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>1. Ring Up the Club. 2. Ring Out the Old. 3. Ring In the New.; Rock and Pop</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles recommends music group Chavez at Brownies on New Year's Eve (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For club owners, Christmas really comes on New Year's Eve. That's when bars are packed, seats are full and would-be revelers still clamor at the door. All of those clubgoers are intent on starting the year with music they love in a crowd of fellow fans. Whether they're fond of rockabilly or hip-hop, swing or salsa or electronica, they can find what they're looking for in Manhattan on New Year's Eve. Places that regularly present live music call on their favorite acts, and many places that don't still find room to set up musicians and sound systems. Obeying the law of supply and demand, prices go up -- way up -- on New Year's Eve, though most clubs offer little extras like party hats or a glass of champagne at midnight. For New Year's Eve, it's smart to make reservations or buy advance tickets; clubs do fill up, and some events (like Phish's annual show at Madison Square Garden) are already sold out. Below, the pop and jazz critics of The New York Times preview the live music taking place on New Year's Eve. * denotes a highly recommended show.</p>
+      </block>
+      <block class="full_text">
+        <p>For club owners, Christmas really comes on New Year's Eve. That's when bars are packed, seats are full and would-be revelers still clamor at the door. All of those clubgoers are intent on starting the year with music they love in a crowd of fellow fans. Whether they're fond of rockabilly or hip-hop, swing or salsa or electronica, they can find what they're looking for in Manhattan on New Year's Eve. Places that regularly present live music call on their favorite acts, and many places that don't still find room to set up musicians and sound systems. Obeying the law of supply and demand, prices go up -- way up -- on New Year's Eve, though most clubs offer little extras like party hats or a glass of champagne at midnight. For New Year's Eve, it's smart to make reservations or buy advance tickets; clubs do fill up, and some events (like Phish's annual show at Madison Square Garden) are already sold out. Below, the pop and jazz critics of The New York Times preview the live music taking place on New Year's Eve. * denotes a highly recommended show.</p>
+        <p>CHAVEZ,  Brownies, 169 Avenue A, between 10th Street and 11th Street, East Village, (212) 420-8392. Big, brawny guitar chords blare and wrangle and collide in Chavez's songs. Sometimes the group settles into a proud arena-rock riff, sometimes it circles in perpetual suspension; meanwhile, Matt Sweeney sings oblique, unsettled lyrics with pained determination. The songs spiral in on themselves, squalling all the way. The Prissteens share the bill. Doors open at 9 P.M.; admission is $15.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

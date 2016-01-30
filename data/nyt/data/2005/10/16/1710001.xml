@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cynthia Harris, Eric Korman</title>
+    <meta content="16harr" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/16/fashion/weddings/16harr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1710001"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Harris, Cynthia Gray (Cynthia Gray Korman)</person>
+        <person class="indexing_service">Korman, Eric Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DE143FF935A25753C1A9639C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cynthia Harris, Eric Korman</hl1>
+        <hl2 class="online_headline">Cynthia Harris and Eric Korman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cynthia Gray Harris and Eric Andrew Korman were married yesterday in New York. The Rev. Deborah Steen Ross, an interfaith minister, officiated at the Metropolitan Club.</p>
+        <p>Mrs. Korman, 33, is the art director at Glamour magazine in New York. She graduated from Princeton. She is the daughter of Alice and James D. Harris of Killington, Vt. Her father retired as an account service director at McCann Erickson, the New York advertising agency. Her mother, who is also retired, was a French instructor at Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Cynthia Gray Harris and Eric Andrew Korman were married yesterday in New York. The Rev. Deborah Steen Ross, an interfaith minister, officiated at the Metropolitan Club.</p>
+      </block>
+      <block class="full_text">
+        <p>Cynthia Gray Harris and Eric Andrew Korman were married yesterday in New York. The Rev. Deborah Steen Ross, an interfaith minister, officiated at the Metropolitan Club.</p>
+        <p>Mrs. Korman, 33, is the art director at Glamour magazine in New York. She graduated from Princeton. She is the daughter of Alice and James D. Harris of Killington, Vt. Her father retired as an account service director at McCann Erickson, the New York advertising agency. Her mother, who is also retired, was a French instructor at Columbia.</p>
+        <p>Mr. Korman, 34, is the senior vice president of mergers and acquisitions at the InterActive Corporation, an online media and commerce company. He graduated from Emory University and received an M.B.A. from Northwestern University. He is the son of Sharon and Lewis J. Korman of New York. The bridegroom's mother is an oil painter represented by the Works Gallery in New York.</p>
+        <p>His father is the vice chairman of RAB Holdings, a manufacturer and distributor of food products in New York.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

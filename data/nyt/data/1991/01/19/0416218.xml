@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Documents Case Plea</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="416218"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SENTENCES (CRIMINAL)</classifier>
+        <org class="indexing_service">GENERAL ELECTRIC CO</org>
+        <person class="indexing_service">SUNG, CHIEN-MIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DA1238F93AA25752C0A967958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Documents Case Plea</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>BOSTON, Jan. 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A consultant was sentenced on Wednesday to six months of house detention after pleading guilty to interstate transportation of technical documents stolen from the General Electric Company.</p>
+        <p>United States District Judge David S. Nelson also fined Chien-Min Sung $200,000 and ordered him to make restitution of $120,000 to G.E.</p>
+        <p>Mr. Sung, 43 years old, admitted he had failed to return about 80 documents containing technical information owned by G.E. when he left the company in 1987 to take a job with the Norton Company in Worcester, Mass. He is now a private consultant.</p>
+      </block>
+      <block class="full_text">
+        <p>A consultant was sentenced on Wednesday to six months of house detention after pleading guilty to interstate transportation of technical documents stolen from the General Electric Company.</p>
+        <p>United States District Judge David S. Nelson also fined Chien-Min Sung $200,000 and ordered him to make restitution of $120,000 to G.E.</p>
+        <p>Mr. Sung, 43 years old, admitted he had failed to return about 80 documents containing technical information owned by G.E. when he left the company in 1987 to take a job with the Norton Company in Worcester, Mass. He is now a private consultant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

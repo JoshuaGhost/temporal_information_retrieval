@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>System Software reports earnings for Qtr to Oct 31</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="488899"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6D6133BF930A15752C1A967958260" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>System Software reports earnings for Qtr to Oct 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*System Software (OTC)</p>
+        <p>Qtr to Oct 31</p>
+        <p>1991</p>
+        <p>1990</p>
+        <p>Revenue</p>
+        <p>50,598,000</p>
+        <p>42,097,000</p>
+        <p>Net inc</p>
+        <p>7,616,000</p>
+        <p>5,108,000</p>
+        <p>Share earns</p>
+        <p>.65</p>
+        <p>.43</p>
+        <p>Yr rev</p>
+        <p>149,080,000</p>
+        <p>124,153,000</p>
+        <p>Net inc</p>
+        <p>16,705,000</p>
+        <p>16,370,000</p>
+        <p>Share earns</p>
+        <p>1.42</p>
+        <p>1.38</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

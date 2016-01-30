@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Honoring A Savior</title>
+    <meta content="29HOLO$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1028377"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Other Minorities</classifier>
+        <person class="indexing_service">Sugihara, Chiune</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7DC123FF93AA15755C0A96E958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Honoring A Savior</hl1>
+      </hedline>
+      <abstract>
+        <p>About 400 people attend 14th annual gathering and exhibition at Holocaust Memorial Park in Sheepshead Bay, Brooklyn; Chiune Sugihara, Japanese consul in Kovno, Lithuania, in 1940, is honored for his issuing visas that allowed 6,000 jews to escape Nazis; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

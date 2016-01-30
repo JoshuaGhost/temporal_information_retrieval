@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What's in a Name? Maybe a Stock Price</title>
+    <meta content="10NAME" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/09/10/technology/10NAME.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1323995"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="Compressed Data"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <person class="indexing_service">Norris, Floyd</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Level 3 Communications Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1D91638F933A2575AC0A9679C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What's in a Name? Maybe a Stock Price</hl1>
+        <hl2 class="online_headline">What's in a Name? Maybe a Stock Price</hl2>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">Norris, Floyd</byline>
+      <abstract>
+        <p>Shares of companies with numbers in their names are among those that have fallen sharply, sometimes to near or below that number (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What's in a name? Maybe a stock price forecast.</p>
+        <p>There was a time when getting a number into a company name seemed like a clever way to differentiate a company from the crowd.  Level 3 Communications, for example, traded as high as $132 a share. Now the telecommunications company is about, true to its name, $3.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What's in a name? Maybe a stock price forecast.</p>
+      </block>
+      <block class="full_text">
+        <p>What's in a name? Maybe a stock price forecast.</p>
+        <p>There was a time when getting a number into a company name seemed like a clever way to differentiate a company from the crowd.  Level 3 Communications, for example, traded as high as $132 a share. Now the telecommunications company is about, true to its name, $3.</p>
+        <p>At that price, it is close to the value of 3Com, the once high-flying technology company that now trades for $3 and change.</p>
+        <p>Then there is NetZero, an Internet access company. Rounded to the nearest dollar, its shares, once at $40, now are worth, namely, zero.</p>
+        <p>Sometimes, alas, a name can turn out to be too optimistic. Level 8 Systems, a software company that fetched nearly $50 at its peak, had fallen to $8 by late last year. But that did not prove to be the bottom. Now it trades for about $2. No plans have been announced for a name change.</p>
+        <p>Then there is Take Two Interactive Software , a video game company. Its shares, which soared as high as $24.50 this summer on hopes for its new Max Payne game, have since fallen back to about $13. But the Take Two shares still have room to fall before truly justifying the name.</p>
+        <p>FLOYD NORRIS</p>
+        <p>Compressed Data</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

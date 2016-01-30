@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN QUOTES</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="192996"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TOBACCO</classifier>
+        <person class="indexing_service">TEMPLE, DIANA K</person>
+        <classifier class="online_producer" type="types_of_material">Quote</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDF1F3FF933A05753C1A96E948260" item-length="46" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN QUOTES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''It's an amazingly resilient business. How many products can you buy for $1.20 that is an appetite suppressant, a stimulant or a relaxant, depending on the conditions - and is a legal product?''  Diana K. Temple, analyst at Salomon Brothers, on the tobacco business.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''It's an amazingly resilient business. How many products can you buy for $1.20 that is an appetite suppressant, a stimulant or a relaxant, depending on the conditions - and is a legal product?''  Diana K. Temple, analyst at Salomon Brothers, on the tobacco business.</p>
+        <p>''It's an amazingly resilient business. How many products can you buy for $1.20 that is an appetite suppressant, a stimulant or a relaxant, depending on the conditions - and is a legal product?''  Diana K. Temple, analyst at Salomon Brothers, on the tobacco business.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

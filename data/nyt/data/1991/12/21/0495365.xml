@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Russell O'Neil; Novelist and Playwright</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="495365"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">O'NEIL, RUSSELL</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED71F3DF932A15751C1A967958260" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Russell O'Neil; Novelist and Playwright</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Russell O'Neil, a novelist and playwright, died on Wednesday at the Veteran's Hospital in Manhattan. He was 64 years old.</p>
+        <p>He died of respiratory failure, said his brother, John O'Neil, of Norristown, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>Russell O'Neil, a novelist and playwright, died on Wednesday at the Veteran's Hospital in Manhattan. He was 64 years old.</p>
+        <p>He died of respiratory failure, said his brother, John O'Neil, of Norristown, Pa.</p>
+        <p>Among Mr. O'Neil's novels were "A Climate of Violence" (1961), "The Devil's Profession" (1964), "The Most Beautiful Girls in the World" (1970) and "The Alcatraz Incident" (1971). A play by him, "Don't Call Back," was produced on Broadway in 1975 and starred Arlene Francis.</p>
+        <p>Mr. O'Neil was born in Conshohocken, Pa., on March 6, 1927, and grew up in New Jersey. He was a paratrooper late in World War II.</p>
+        <p>He is survived by his brother.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

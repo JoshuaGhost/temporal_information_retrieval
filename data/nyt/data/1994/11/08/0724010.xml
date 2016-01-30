@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>By Design; Spring Forecast: Snaky</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk;" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="Fashion Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="724010"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <person class="indexing_service">SCHIRO, ANNE-MARIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DE103EF93BA35752C1A962958260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>By Design; Spring Forecast: Snaky</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE-MARIE SCHIRO</byline>
+      <byline class="normalized_byline">SCHIRO, ANNE-MARIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There's no doubt about it. The accessories to have for spring 1995 are high-heeled ankle-strap sandals and skinny belts. After appearing in every European show last month, they turned up again in last week's Seventh Avenue collections.</p>
+        <p>Patent leather is the choice of most designers, chiefly in black, white or red, but the real news is the return of snakeskin. Gray-and-white snakeskin is the perfect complement to all the spring pastels, and the natural texture and pattern of the reptile contrast well with the plain fabrics and monotone colors of the clothes. There were also some flesh-toned sandals at Calvin Klein, which may be prophetic, considering the popularity of bare legs and sheer hosiery.</p>
+      </block>
+      <block class="full_text">
+        <p>There's no doubt about it. The accessories to have for spring 1995 are high-heeled ankle-strap sandals and skinny belts. After appearing in every European show last month, they turned up again in last week's Seventh Avenue collections.</p>
+        <p>Patent leather is the choice of most designers, chiefly in black, white or red, but the real news is the return of snakeskin. Gray-and-white snakeskin is the perfect complement to all the spring pastels, and the natural texture and pattern of the reptile contrast well with the plain fabrics and monotone colors of the clothes. There were also some flesh-toned sandals at Calvin Klein, which may be prophetic, considering the popularity of bare legs and sheer hosiery.</p>
+        <p>Otherwise, there were not a lot of accessories other than matching handbags, big black Jackie O sunglasses, scarf-tied heads a la Grace Kelly and ladylike short white gloves. There was almost no jewelry seen on the runways. It was minimalism to the max.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

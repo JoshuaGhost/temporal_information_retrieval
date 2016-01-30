@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>War Decoding Helped U.S. To Shape U.N.</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="757315"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CRYPTOLOGY</classifier>
+        <org class="indexing_service">UNITED NATIONS (UN)</org>
+        <org class="indexing_service">CRYPTOLOGIA (PUB)</org>
+        <person class="indexing_service">HONAN, WILLIAM H</person>
+        <person class="indexing_service">SCHLESINGER, STEPHEN</person>
+        <person class="indexing_service">KAHN, DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DA123BF930A15757C0A963958260" item-length="660" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>War Decoding Helped U.S. To Shape U.N.</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM H. HONAN</byline>
+      <byline class="normalized_byline">HONAN, WILLIAM H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>American officials read coded messages sent by the Allies in the final months of World War II, and this helped the United States dominate the United Nations charter conference that opened in San Francisco 50 years ago this Tuesday, a historian reports.</p>
+        <p>Some 635 pages of diplomatic messages were intercepted and decoded by the United States Army Signal Security Agency, and delivered to high-ranking American officials like Secretary of State Edward R. Stettinius Jr. and Secretary of War Henry L. Stimson.</p>
+      </block>
+      <block class="full_text">
+        <p>American officials read coded messages sent by the Allies in the final months of World War II, and this helped the United States dominate the United Nations charter conference that opened in San Francisco 50 years ago this Tuesday, a historian reports.</p>
+        <p>Some 635 pages of diplomatic messages were intercepted and decoded by the United States Army Signal Security Agency, and delivered to high-ranking American officials like Secretary of State Edward R. Stettinius Jr. and Secretary of War Henry L. Stimson.</p>
+        <p>The intercepts "played a major role in enabling America to fashion the United Nations into the organization it wished," the historian, Stephen Schlesinger of New York University, writes in the July issue of Cryptologia, a scholarly quarterly dealing with the science of making and breaking secret codes.</p>
+        <p>Mr. Schlesinger said references to the secret messages in the diary of Mr. Stettinius, who later became Washington's first representative to the United Nations, make it clear that he was greatly assisted by the intercepts.</p>
+        <p>Mr. Schlesinger said he had been analyzing them since discovering the documents two years ago in the National Archives in Washington. He decided to release his findings today, he said, because of the approach of the 50th anniversary of the opening of the charter conference.</p>
+        <p>David Kahn, a leading historian of secret codes and author of "The Codebreakers," said Mr. Schlesinger's report was "one of the most important articles in the history of cryptology" because it brought to light one of only two known cases in which "cryptanalysis has significantly affected world events in peacetime."</p>
+        <p>The other case was in 1921, when American experts cracked the Japanese diplomatic code and learned Japan's fall-back position on naval construction for a treaty. This information helped the United States at the Washington Conference on Naval Limitation to force the Japanese to accept a greater limit on their warship construction than they wanted.</p>
+        <p>Today, virtually all nations able to record and decipher one other's diplomatic and military traffic do so with impunity. The effect, however, is uncertain because computerized coding has vastly complicated the science.</p>
+        <p>In his article, Mr. Schlesinger reports that because of the intercepts, American officials knew the negotiating positions of almost all of the 50 nations that gathered in San Francisco, and that this information permitted the United States "to control the debate, to pressure nations to agree to its positions and to write the U.N. Charter mostly according to its own blueprint."</p>
+        <p>For instance, a number of the intercepts revealed the strong opposition to the Security Council veto by Georges Bidault, the French Foreign Minister. American officials learned that both Bidault and de Gaulle imagined that France, unhindered by an all-powerful Security Council, could become the leader of the small nations in the General Assembly.</p>
+        <p>But knowing their thinking, Mr. Schlesinger says, "the United States was able to develop its arguments on behalf of the veto well in advance and thus disable the opposition."</p>
+        <p>Mr. Schlesinger questions both the morality and legality of the United States' spying on its allies, but says President Roosevelt was determined to avoid "another League of Nations disaster" in which the United States Senate, led by Senator Henry Cabot Lodge, would not allow President Wilson to bring the United States into the international body.</p>
+        <p>Roosevelt, Mr. Schlesinger says, believed that the Senate would never permit the United States to join the United Nations unless given the power of a veto as a member of the Security Council.</p>
+        <p>He and his Cabinet believed that they "would probably have to twist some arms" to convince the small nations to grant this sweeping authority to the so-called Big Five permanent members of the Security Council.</p>
+        <p>The intercepts, Mr. Schlesinger writes, gave them the power to accomplish that goal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

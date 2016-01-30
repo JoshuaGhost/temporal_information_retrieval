@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="14TRAN$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1069797"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E3D7173DF937A25751C1A96E958260" item-length="505" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS -- Announced the retirement of free-agent 3B Terry Pendleton.  TORONTO BLUE JAYS -- Acquired RHP Joey Hamilton from the San Diego Padres for RHP Woody Williams, RHP Carlos Almanzar and OF Peter Tucci.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  KANSAS CITY ROYALS -- Announced the retirement of free-agent 3B Terry Pendleton.  TORONTO BLUE JAYS -- Acquired RHP Joey Hamilton from the San Diego Padres for RHP Woody Williams, RHP Carlos Almanzar and OF Peter Tucci.</p>
+        <p>National League  CINCINNATI REDS -- Agreed to terms with INF Mark Lewis on a one-year contract. Released 1B Eduardo Perez.  LOS ANGELES DODGERS -- Agreed to terms with RHP Kevin Brown on a seven-year contract.  METS -- Agreed to terms with OF Rickey Henderson on a one-year contract.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  CALGARY FLAMES -- Recalled G Tyrone Garner from Oshawa of the Ontario Hockey League.  LOS ANGELES KINGS -- Activated D Rob Blake from the injured reserve list. Placed LW Steve McKenna on the injured reserve list.  PHILADELPHIA FLYERS -- Acquired RW Mikael Renberg and C Daymond Langkow from the Tampa Bay Lightning for C Chris Gratton and C Mike Sillinger.</p>
+        <p>East Coast Hockey League  COLUMBUS CHILL -- Waived F John Gurskis. Activated F Jason Christie from the injured list.  NEW ORLEANS BRASS -- Transferred RW Russ Guzior from the 10-day to the 14-day injured list. Placed RW Olivier Morin on the 10-day injured list.  ROANOKE EXPRESS -- Traded C Chris Lipsett to Pee Dee for C Mark Cadotte and D Calvin Elfring.</p>
+        <p>COLLEGE</p>
+        <p>CLEMSON -- Announced that basketball C Mohamed Woni has decided to transfer.  SOUTHERN COLORADO -- Named Stanley Perchan director of athletics.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

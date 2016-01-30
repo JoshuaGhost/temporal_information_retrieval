@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stripes As Stars</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Styles of The Times" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="612000"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <person class="indexing_service">LAGERFELD, KARL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D8153BF933A05756C0A965958260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stripes As Stars</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The sawtooth-edge-stripe skirt from Karl Lagerfeld is fashion's spring success. The novelty print, in a synthetic stretch fabric, seems to be the introduction many women need to experiment with a longer skirt that can be dressed up for evening with a blazer piped in white or worn in the daytime with a variety of tailored jackets. The slim skirt, in black or navy on white, is always worn long, as it was shown in Paris, and always with black stockings, shoes or ankle boots -- just as the designer presented it in October. One woman even adopted the lace-up white boots, as Mr. Lagerfeld showed them. The distinctive pattern is a relief to the monotone of the familiar matching suit. It is also the uptown woman's alternative to the downtown crowd's boldly striped pants.</p>
+      </block>
+      <block class="full_text">
+        <p>The sawtooth-edge-stripe skirt from Karl Lagerfeld is fashion's spring success. The novelty print, in a synthetic stretch fabric, seems to be the introduction many women need to experiment with a longer skirt that can be dressed up for evening with a blazer piped in white or worn in the daytime with a variety of tailored jackets. The slim skirt, in black or navy on white, is always worn long, as it was shown in Paris, and always with black stockings, shoes or ankle boots -- just as the designer presented it in October. One woman even adopted the lace-up white boots, as Mr. Lagerfeld showed them. The distinctive pattern is a relief to the monotone of the familiar matching suit. It is also the uptown woman's alternative to the downtown crowd's boldly striped pants.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

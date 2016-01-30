@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PC as Power Plant</title>
+    <meta content="10USBB$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/10/technology/circuits/10usbb.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1588243"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Heingartner, Douglas</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Blackouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6DA1730F933A25755C0A9629C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PC as Power Plant</hl1>
+        <hl2 class="online_headline">PC as Power Plant</hl2>
+      </hedline>
+      <byline class="print_byline">By DOUGLAS HEINGARTNER</byline>
+      <byline class="normalized_byline">Heingartner, Douglas</byline>
+      <abstract>
+        <p>Universal serial bus connectors on computers have spawned devices that draw power from connection, but are not computer peripherals; result is fewer international adapters to be toted; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT began as a simple way of getting computers and other devices to play nicely together. But it has given rise to a stream of gadgets far more exotic than the printers and mouses it was designed to accommodate.</p>
+        <p>Its initials have also become increasingly familiar in the digital lexicon: U.S.B., for universal serial bus.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A panoply of gadgets, from lamps to lap warmers, now connect to computers not only for data butfor their power as well.</p>
+      </block>
+      <block class="full_text">
+        <p>IT began as a simple way of getting computers and other devices to play nicely together. But it has given rise to a stream of gadgets far more exotic than the printers and mouses it was designed to accommodate.</p>
+        <p>Its initials have also become increasingly familiar in the digital lexicon: U.S.B., for universal serial bus.</p>
+        <p>U.S.B. ports, and the plugs that fit them, make it easier to connect devices to a computer, eliminating screwdriver-heavy tasks and the need to reboot the computer every time a new piece of equipment is plugged in.</p>
+        <p>But perhaps most important, two of a U.S.B. cable's four wires carry not data but juice: enough current to run small to midsize gadgets with no need for batteries or AC adapters.</p>
+        <p>Eight years ago, when the technology first appeared, U.S.B. meant keyboards, joysticks and the like. But manufacturers began cottoning to U.S.B.'s ability to provide a power source, leading to a host of gizmos that have nothing to do with computers: radios, reading lights, even massage balls and air purifiers.</p>
+        <p>And as Scott Smith of the online retailer ThinkGeek (www.thinkgeek.com) points out, the universality of U.S.B. (that's what the U stands for, after all) means fewer international adapters for globetrotters to lug around.</p>
+        <p>Though many of the latest arrivals fall at the absurd end of the gadget continuum -- like a U.S.B. flash drive shaped like a rubber duck -- many are innovative, even ingenious: a U.S.B. cellphone charger, for example, lets you use your laptop for on-the-road SOS.</p>
+        <p>So the next time a blackout hits, your laptop's robust battery might find itself powering more than just your palmtop.</p>
+        <p>DOUGLAS HEINGARTNER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

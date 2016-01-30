@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EXECUTIVE CHANGES</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="169067"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DE113BF93BA3575BC0A96E948260" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EXECUTIVE CHANGES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Aetna Life and Casualty Co., Hartford, an insurer, promoted Stephen B. Middlebrook to senior vice president and general counsel.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Aetna Life and Casualty Co., Hartford, an insurer, promoted Stephen B. Middlebrook to senior vice president and general counsel.</p>
+        <p>Aetna Life and Casualty Co., Hartford, an insurer, promoted Stephen B. Middlebrook to senior vice president and general counsel.</p>
+        <p>* Copelco Financial Services Group, Pennsauken, N.J., named Burton J. Feidler senior vice president and chief financial officer, succeeding Lionel Felzer, who will continue as a director.</p>
+        <p>* Greater New York Savings Bank elected Allan E. Matson executive vice president and chief lending officer for all mortgage operations and Michael J. Henchy executive vice president for retail banking.</p>
+        <p>* Kidder, Peabody &amp; Co., a securities firm in which the General Electric Co. holds an 80 percent interest, named Roy D. Henriksson senior vice president and head of futures and options research and product development in the firm's financial futures department.</p>
+        <p>* Oppenheimer &amp; Co. announced that Joel H. Reader has joined the securities firm as a managing director.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

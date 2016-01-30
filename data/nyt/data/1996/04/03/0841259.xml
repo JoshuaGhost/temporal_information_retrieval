@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SCITEX REJECTS $856 MILLION BID BY INVESTOR</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="841259"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">SCITEX CORP</org>
+        <org class="indexing_service">BROWN, ALEX, &amp; SONS</org>
+        <person class="indexing_service">GILO, DAVIDI</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E3D61239F930A35757C0A960958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SCITEX REJECTS $856 MILLION BID BY INVESTOR</hl1>
+      </hedline>
+      <byline class="print_byline">Bloomberg Business News</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Scitex Corporation has rejected a bid of $20 a share in cash from the investor Davidi Gilo, who expressed his disappointment yesterday. The proposal by Mr. Gilo, who owns 3 percent of Scitex, valued the company at $856 million. Shares of Scitex, the maker of computer imaging systems used in printing and graphic arts, fell 25 cents, to $17.625, in Nasdaq trading. The Scitex board said it would seek to increase the value of the company's stock by working with its financial adviser, Alex. Brown &amp; Sons. Mr. Gilo said that he and his advisers would "examine all alternatives." Mr. Gilo is chairman of DSP Communications Inc., a chip maker, but the company has said it has no connection with the bid.</p>
+      </block>
+      <block class="full_text">
+        <p>The Scitex Corporation has rejected a bid of $20 a share in cash from the investor Davidi Gilo, who expressed his disappointment yesterday. The proposal by Mr. Gilo, who owns 3 percent of Scitex, valued the company at $856 million. Shares of Scitex, the maker of computer imaging systems used in printing and graphic arts, fell 25 cents, to $17.625, in Nasdaq trading. The Scitex board said it would seek to increase the value of the company's stock by working with its financial adviser, Alex. Brown &amp; Sons. Mr. Gilo said that he and his advisers would "examine all alternatives." Mr. Gilo is chairman of DSP Communications Inc., a chip maker, but the company has said it has no connection with the bid.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

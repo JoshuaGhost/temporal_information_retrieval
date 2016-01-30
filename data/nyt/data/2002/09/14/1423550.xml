@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keeping Clean, Italian Style</title>
+    <meta content="Y14DAV$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/14/international/europe/14DAVI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1423550"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <org class="indexing_service">Galleria dell'Accademia (Florence)</org>
+        <person class="indexing_service">Michelangelo Buonarroti (1475-1564)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy/Tuscany and Umbria/Florence</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="descriptor">Sculpture</classifier>
+        <classifier class="online_producer" type="descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sculpture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <location class="online_producer">Florence (Italy)</location>
+        <person class="online_producer">Michelangelo Buonarroti</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D71E31F937A2575AC0A9649C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keeping Clean, Italian Style</hl1>
+        <hl2 class="online_headline">Keeping Clean, Italian Style</hl2>
+      </hedline>
+      <dateline>ROME, Sept. 13</dateline>
+      <abstract>
+        <p>keeping clean, italian styl</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seven months is an awfully long bath, but then David went more than a century without one. So on Monday, Michelangelo's famous sculpture is scheduled for an especially thorough scrubbing at the Galleria dell'Accademia in Florence that will probably last until the end of March.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On Monday, Michelangelo's David is scheduled for an especially thorough scrubbing at the Galleria dell'Accademia in Florence.</p>
+      </block>
+      <block class="full_text">
+        <p>Seven months is an awfully long bath, but then David went more than a century without one. So on Monday, Michelangelo's famous sculpture is scheduled for an especially thorough scrubbing at the Galleria dell'Accademia in Florence that will probably last until the end of March.</p>
+        <p>It will be the first hygienic renaissance for the Renaissance masterpiece since 1873, and will cost considerably more than an afternoon at Elizabeth Arden. Restorers have put the price at about $150,000. They have also decided not to give the nude statue any privacy for its ablutions. Visitors to the gallery can watch the process.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Currents; Secret Friends: Just Fold To Mail</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="785841"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GREETING CARDS</classifier>
+        <org class="indexing_service">PAPER HOUSE PRODUCTIONS</org>
+        <person class="indexing_service">MOONAN, WENDY</person>
+        <object.title class="indexing_service">CURRENTS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paper and Pulp</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D9153CF932A0575BC0A963958260" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Currents; Secret Friends: Just Fold To Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By Wendy Moonan</byline>
+      <byline class="normalized_byline">MOONAN, WENDY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JEFFREY MILSTEIN, owner of Paper House Productions in Woodstock, N.Y., is putting his training as an architect to work in his new designs for greeting cards (above right).</p>
+        <p>They come in crisp geometric shapes and are printed with bold stripes and primary colors. The cards, called Fun Houses, come flat to fit into envelopes. Each folds into a four-inch-high, boxlike paper house with a peaked roof. Children especially should enjoy the peekaboo window on one side that reveals photographs of people and dogs inside.</p>
+      </block>
+      <block class="full_text">
+        <p>JEFFREY MILSTEIN, owner of Paper House Productions in Woodstock, N.Y., is putting his training as an architect to work in his new designs for greeting cards (above right).</p>
+        <p>They come in crisp geometric shapes and are printed with bold stripes and primary colors. The cards, called Fun Houses, come flat to fit into envelopes. Each folds into a four-inch-high, boxlike paper house with a peaked roof. Children especially should enjoy the peekaboo window on one side that reveals photographs of people and dogs inside.</p>
+        <p>They cost $2.25 each at the Museum of Modern Art Bookstore, 11 West 53d Street, (212) 708-9704.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

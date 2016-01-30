@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>George Duning, 92, Composer for Films</title>
+    <meta content="Y02DUN$05" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1180700"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Duning, George</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EFD91139F931A35750C0A9669C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>George Duning, 92, Composer for Films</hl1>
+      </hedline>
+      <abstract>
+        <p>George Duning, Oscar-nominated composer who wrote music for films and television, dies at age 92 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>George Duning, an Oscar-nominated composer who wrote music for films and television, died on Sunday at Alavarado Hospital in Los Angeles. He was 92.</p>
+        <p>Mr. Duning received Academy Award nominations for five film scores he wrote for Columbia Pictures, where he worked from 1947 to 1962: ''Jolson Sings Again'' (1949), ''No Sad Songs for Me'' (1950), ''From Here to Eternity'' (1953), ''Picnic'' (1955) and ''The Eddy Duchin Story'' (1956).</p>
+      </block>
+      <block class="full_text">
+        <p>George Duning, an Oscar-nominated composer who wrote music for films and television, died on Sunday at Alavarado Hospital in Los Angeles. He was 92.</p>
+        <p>Mr. Duning received Academy Award nominations for five film scores he wrote for Columbia Pictures, where he worked from 1947 to 1962: ''Jolson Sings Again'' (1949), ''No Sad Songs for Me'' (1950), ''From Here to Eternity'' (1953), ''Picnic'' (1955) and ''The Eddy Duchin Story'' (1956).</p>
+        <p>Born in Richmond, Ind., on Feb. 25, 1908, Mr. Duning studied theory at the Cincinnati Conservatory of Music and composition with Mario Castelnuovo-Tedesco. He began his career playing trumpet in various bands and then became musical director and supervisor of the NBC radio show ''Kay Kyser's Kollege of Musical Knowledge.'' During World War II he served as conductor and arranger for the Armed Forces Radio Network, after which he joined Columbia. His scores for the studio also included ''My Sister Eileen,'' ''That Touch of Mink'' and ''Bell, Book and Candle.''</p>
+        <p>His television credits included ''The Big Valley'' and ''Naked City.''</p>
+        <p>He is survived by his wife, Lois, of Barrego Springs and San Diego, Calif.; two daughters, Kathleen Frankeberger and Patricia Brayton, both of Port Townsend, Wash.; a brother, LeRoy, of Lebanon, Ohio; two stepchildren; and five grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

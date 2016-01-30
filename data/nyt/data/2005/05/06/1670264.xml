@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Large Drug Wholesaler to Close Its Secondary Trading Operation</title>
+    <meta content="06HEAL$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/05/06/business/06health.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1670264"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DE1430F935A35756C0A9639C8B63" item-length="541" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Large Drug Wholesaler to Close Its Secondary Trading Operation</hl1>
+        <hl2 class="online_headline">Large Drug Wholesaler to Close Its Secondary Trading Operation</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE SAUL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One of the nation's largest pharmaceutical wholesalers, Cardinal Health, is shutting a unit that trades in the secondary drug marketplace, a behind-the-scenes bazaar in which drugs are purchased and resold before finding their way to consumers.</p>
+        <p>The company's decision follows last month's disclosure that the New York attorney general, Eliot Spitzer, is investigating the secondary wholesale market. But a spokesman for Cardinal, one of the companies that received a Spitzer subpoena, said the decision to end its secondary trading operation was based on poor financial results, not the investigation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One of the nation's largest pharmaceutical wholesalers, Cardinal Health, is shutting a unit that trades in the secondary drug marketplace, a behind-the-scenes bazaar in which drugs are purchased and resold before finding their way to consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>One of the nation's largest pharmaceutical wholesalers, Cardinal Health, is shutting a unit that trades in the secondary drug marketplace, a behind-the-scenes bazaar in which drugs are purchased and resold before finding their way to consumers.</p>
+        <p>The company's decision follows last month's disclosure that the New York attorney general, Eliot Spitzer, is investigating the secondary wholesale market. But a spokesman for Cardinal, one of the companies that received a Spitzer subpoena, said the decision to end its secondary trading operation was based on poor financial results, not the investigation.</p>
+        <p>Both revenues and profits in the secondary market have been declining in recent years after drug makers cracked down on inventory control, partly as an attempt to prevent counterfeit drugs from entering the supply chain and partly as an effort to stop the wholesale stockpiling of pharmaceuticals.</p>
+        <p>''It's a business decision based on changes in the industry over the past two years, plus the agreements we have with manufacturers that have led to revenues in this business declining substantially,'' said James S. Mazzola, a spokesman for the company, which is based in Dublin, Ohio. Those agreements limit the amount of inventory wholesalers may keep.</p>
+        <p>Mr. Spitzer's office has subpoenaed documents about secondary trading from Cardinal as well as the two other big industry players, McKesson and AmerisourceBergen. The three companies control about three-fourths of the pharmaceuticals sold in this country. A spokesman for Mr. Spitzer's office, Darren Dopp, said yesterday that the office applauded Cardinal's decision.</p>
+        <p>''Cardinal appears to have decided that this market is not adequately regulated and that the risks of such purchases outweigh the benefits,'' Mr. Dopp said.</p>
+        <p>Cardinal's secondary trading unit generates less than 1 percent of the company's revenue, Mr. Mazzola said. In the first three quarters of the fiscal year that will end on June 30, the unit's revenue was $198 million -- a decline of 40 percent from the year-earlier period. And its profitability was down about 80 percent from the previous year, he said.</p>
+        <p>The company's year-to-date revenue is about $56 billion, with about $36 billion from drug distribution.</p>
+        <p>Until recently, Cardinal, McKesson and AmerisourceBergen had vibrant secondary trading operations. But all three have reduced their purchases in the secondary market.</p>
+        <p>In the main drug supply chain, wholesalers purchase drugs from manufacturers, then distribute them to retailers. In secondary trading, wholesalers buy drugs from other wholesalers, often at deep discounts.</p>
+        <p>Sources of these drugs can include the excess inventories of other wholesalers, overstocked hospital pharmacies and mail-order companies that get preferential pricing.</p>
+        <p>Critics of secondary trading say it clouds the pedigree of drugs, creating entry points for counterfeits. The secondary market also helped foster a system in which companies held products and resold them at larger profits, often after manufacturers announced price increases or during shortages of certain drugs.</p>
+        <p>Mr. Mazzola said the company would lay off about 20 employees at its Groveport, Ohio, operation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

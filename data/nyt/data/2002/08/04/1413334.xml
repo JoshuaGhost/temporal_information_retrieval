@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hoang-Yen Haduong, Richard Tesler</title>
+    <meta content="04HADU$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/08/04/fashion/weddings/04HADU.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1413334"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HADUONG, HOANG-YEN T.</person>
+        <person class="indexing_service">TESLER, RICHARD JON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0DC143BF937A3575BC0A9649C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hoang-Yen Haduong, Richard Tesler</hl1>
+        <hl2 class="online_headline">Hoang-Yen Haduong and Richard Tesler</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hoang-Yen T. Haduong, a daughter of Nhan T. Ha and Dr. Cu D. Ha of Morganville, N.J., was married last evening to Richard Jon Tesler, a son of Ellen and Marc S. Tesler of Ship Bottom, N.J. Rabbi Stewart Berman officiated at Pier 60 at Chelsea Piers in New York. A Vietnamese Buddhist ceremony was held earlier at the home of the bride's parents.</p>
+        <p>Ms. Haduong, 28, is keeping her name. She is an architect and a partner in Front Studio, an architecture firm in New York. She graduated from Carnegie Mellon University and received a master's degree in the urbanism of Asian metropolises from the École d'Architecture in Paris. Her father retired as a network design engineer for AT&amp;T Laboratories in Middletown, N.J., where her mother does network management planning.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hoang-Yen Haduong, Richard Tesler Hoang-Yen T. Haduong, a daughter of Nhan T. Ha and Dr. Cu D. Ha of Morganville, N.J., was married last evening to Richard Jon Tesler, a son of Ellen and Marc S. Tesler of Ship Bottom,N.J. Rabbi Stewart Berman officiated at Pier 60 at Chelsea Piers in New York. A Vietnamese Buddhist ceremony was held earlier at the home of the bride's parents.</p>
+      </block>
+      <block class="full_text">
+        <p>Hoang-Yen T. Haduong, a daughter of Nhan T. Ha and Dr. Cu D. Ha of Morganville, N.J., was married last evening to Richard Jon Tesler, a son of Ellen and Marc S. Tesler of Ship Bottom, N.J. Rabbi Stewart Berman officiated at Pier 60 at Chelsea Piers in New York. A Vietnamese Buddhist ceremony was held earlier at the home of the bride's parents.</p>
+        <p>Ms. Haduong, 28, is keeping her name. She is an architect and a partner in Front Studio, an architecture firm in New York. She graduated from Carnegie Mellon University and received a master's degree in the urbanism of Asian metropolises from the École d'Architecture in Paris. Her father retired as a network design engineer for AT&amp;T Laboratories in Middletown, N.J., where her mother does network management planning.</p>
+        <p>Mr. Tesler, 31, is the managing director and a fund manager at FK Capital Partners, a hedge fund firm in Westport, Conn. He graduated from Carnegie Mellon and received an M.B.A. from California State University at Sacramento. His mother retired as a commercial real estate broker in Stamford, Conn., for Coldwell Banker. His father, who is also retired, was the New York partner in Technology Crossover Ventures, a venture capital concern.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

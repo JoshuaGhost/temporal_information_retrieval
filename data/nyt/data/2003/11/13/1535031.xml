@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011416" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1535031"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Healthsouth Corp</org>
+        <person class="indexing_service">Scrushy, Richard M</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E3DE1438F930A25752C1A9659C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction: picture within Sept 26 chart about personal finances of Richard M Scrushy, former chief executive of HealthSouth, was published in error</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture in Business Day on Sept. 26 within a chart about the personal finances of Richard M. Scrushy, former chief executive of HealthSouth, was published in error. It showed a condominium on Ono Island in Orange Beach, Ala., that is owned by someone else, not one that the government hoped to seize from Mr. Scrushy. The error was brought to the attention of The Times on Oct. 29 by a Web site set up to defend Mr. Scrushy, who faces fraud charges, and was confirmed by the government this week.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture in Business Day on Sept. 26 within a chart about the personal finances of Richard M. Scrushy, former chief executive of HealthSouth, was published in error. It showed a condominium on Ono Island in Orange Beach, Ala., that is owned by someone else, not one that the government hoped to seize from Mr. Scrushy. The error was brought to the attention of The Times on Oct. 29 by a Web site set up to defend Mr. Scrushy, who faces fraud charges, and was confirmed by the government this week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

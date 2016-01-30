@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chess</title>
+    <meta content="10CHES$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="Chess" name="column_name"/>
+    <docdata>
+      <doc-id id-string="936019"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Chess"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Byrne, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E6DE133CF933A25755C0A961958260" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chess</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+      <byline class="normalized_byline">Byrne, Robert</byline>
+      <abstract>
+        <p>Robert Byrne Chess column on this year's Amber Tournament in Monaco, where speed chess and blindfold chess skills are tested (M))</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Speed chess is an old tradition, as is blindfold chess, which is played without sight of a board. The two traditions are brought together in the current series of Amber Tournaments in Monaco, where regular sighted games and blindfold games are played at the quickplay time limit of 25 minutes.</p>
+        <p>This year's sixth running of the competition, from April 18 to May 1, was a triumph for the Indian grandmaster Viswanathan Anand, who scored 7 1/2-3 1/2 in the regular quickplay version and 8-3 in the blindfold version. His grand total of 15 1/2 points got him the $25,000 first prize.</p>
+      </block>
+      <block class="full_text">
+        <p>Speed chess is an old tradition, as is blindfold chess, which is played without sight of a board. The two traditions are brought together in the current series of Amber Tournaments in Monaco, where regular sighted games and blindfold games are played at the quickplay time limit of 25 minutes.</p>
+        <p>This year's sixth running of the competition, from April 18 to May 1, was a triumph for the Indian grandmaster Viswanathan Anand, who scored 7 1/2-3 1/2 in the regular quickplay version and 8-3 in the blindfold version. His grand total of 15 1/2 points got him the $25,000 first prize.</p>
+        <p>Having won the 1994 Amber, Anand thus became the first player to win the event twice. And he is the first player to win both the regular  and blindfold sections.</p>
+        <p>Anand's regular quickplay game in the eighth round against the Ukrainian grandmaster Vasily Ivanchuk showed how wonderfully well he can calculate in rapid play.</p>
+        <p>The Kan Variation of the Sicilian Defense, arising after 4 . . . a6, lays claim to a minority of terrain but intends to defend it like a porcupine.</p>
+        <p>After 9 . . . Be7, it remains an open question where White should develop the queen bishop, at d2, e3 or g5. This game makes a good case for the fianchetto with 10 b3 and 11 Bb2.</p>
+        <p>The exchange of knights with 12 Nc6 Bc6 is more efficient than trying to avoid it by losing time with the retreat 12 Nf3.</p>
+        <p>After 14 . . . Rab8, Black cannot be permitted to advance with 15 . . . b5, which would free his game and give him easy counterplay. So Anand clamped down with 15 a4.</p>
+        <p>Maybe Ivanchuk should have played 15 . . . Qb7, with the idea that after 16 Bd3, the d3 square would be appropriated so that Anand could not marshal his forces with 16 Rd3 for a mating attack.</p>
+        <p>After 17 Rd3, Ivanchuk could not play 17 . . . Nc5 18 Rg3 Nb3? because 19 Rg7! Kg7 20 Nd5 wins a queen for Anand.</p>
+        <p>In place of 18 . . . g6, Ivanchuk could have played 18 . . . h6, but then 19 f4! would have started an attack to be pursued by 20 Qd2, 21 g4 and 22 g5.</p>
+        <p>On 19 Qd2!, Ivanchuk was hard pressed to defend against the threat of 20 Qh6 Nf8 21 Nd5! ed 22 Bf6, with mate to follow. He could not well play 19 . . . Bc3 20 Bc3 Nf8 21 Qh6 e5 (or 21  . . . f5 22 ef ef 23 Bf5! gf 24 Rg3 Ng6 25 Rg6! hg 26 Qh8 Kf7 27 Qg7 Ke6 28 Qc7) 22 f4 f6 23 fe fe 24 Rhf3 because White would be in position for a decisive attack.</p>
+        <p>Thus, with 19 . . . Qb7 20 Qd6, Ivanchuk shed a pawn.</p>
+        <p>After 21 . . . Bg7, Anand struck with the intricate 22 Nb5! Ivanchuk could not accept the gift of a bishop with 22  . . . Bb2 because of 23 Nd6 Qb8 24 Qf7 Kh8 25 Qh7 mate. Perhaps Black could hold out longest with 22 . . . e5 23 Qh4 ab 24 cb Nf6 25 bc Qc6, but Ivanchuk would still have been a pawn down facing the bishop pair.</p>
+        <p>On 22 . . . ab 23 Bg7 Kg7 24 Qh6, the consequence of 24 . . . Kf6 could have been 25 Qh4 Ke5 26 Rd1 Be4 27 f4 Kf5 28 Qg5 mate.</p>
+        <p>On 31 cb, there could have followed 31 . . . Be4 32 Qf4 e5 33 Qe4 Qe4 34 Be4 and Black is three pawns behind. Ivanchuk gave up.</p>
+        <p>Chess</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

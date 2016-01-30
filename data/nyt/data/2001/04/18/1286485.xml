@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reckonings; Chip of Fools</title>
+    <meta content="18KRUG$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/04/18/opinion/18KRUG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1286485"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <org class="indexing_service">Cisco Systems</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Intel Corporation</org>
+        <org class="online_producer">Cisco Systems Incorporated</org>
+        <org class="online_producer">New technologies</org>
+        <person class="online_producer">Greenspan, Alan</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DE1730F93BA25757C0A9679C8B63" item-length="770" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reckonings; Chip of Fools</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column on economics of information technology holds industry has disappointed optimists who predicted new economy would be not only faster growing but more stable than old economy; cites Cisco Systems as classic example of company that failed to adjust in face of declining demand (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At the level of bits and bytes, the most surprising thing about the advance of information technology has been the absence of surprises. Back in 1965 Gordon Moore, co-founder of Intel, predicted that the number of transistors on a chip would henceforth double every 18 to 24 months -- and Moore's Law has worked like digital clockwork ever since. But the translation of bits and bytes into dollars and cents is far harder to predict. And so it is no wonder, or cause for shame, when smart people get the economic impact of technology wrong.</p>
+        <p>For the last few years, the joke has been on those -- including me -- who were skeptical about the economic payoff to information processing. Now, alas, it is the optimists who look foolish. They thought the ''new economy'' would be not only faster-growing but more stable than the old economy. What we've learned in the last few months -- most recently in Monday's grim news from Cisco Systems -- is that they were wrong.</p>
+      </block>
+      <block class="full_text">
+        <p>At the level of bits and bytes, the most surprising thing about the advance of information technology has been the absence of surprises. Back in 1965 Gordon Moore, co-founder of Intel, predicted that the number of transistors on a chip would henceforth double every 18 to 24 months -- and Moore's Law has worked like digital clockwork ever since. But the translation of bits and bytes into dollars and cents is far harder to predict. And so it is no wonder, or cause for shame, when smart people get the economic impact of technology wrong.</p>
+        <p>For the last few years, the joke has been on those -- including me -- who were skeptical about the economic payoff to information processing. Now, alas, it is the optimists who look foolish. They thought the ''new economy'' would be not only faster-growing but more stable than the old economy. What we've learned in the last few months -- most recently in Monday's grim news from Cisco Systems -- is that they were wrong.</p>
+        <p>A brief history of the economics of information technology would go like this: From the early 1970's until the middle of the 1990's technology was a big disappointment. Nifty gadgets like the fax machine became widely available, yet seemed to do little or nothing for the overall productivity of the economy. Many of us glumly concluded that the U.S. economy was stuck with a disappointing long-run growth rate of around 2.5 percent.</p>
+        <p>And then, around 1995, everything changed. For reasons that are still unclear, suddenly all that investment in information technology started to pay off. Those who had called the turn correctly -- like Alan Greenspan -- looked brilliant, while those of us who had been reluctant to change our views began to feel silly.</p>
+        <p>Meanwhile the optimists began to hail the new economy not just for its growth but for its stability. Articles with titles like ''The End of the Business Cycle'' started to receive favorable attention. Even sober analysts began to question the classic script for a slump, in which a slowdown in consumer spending and investment leads to a buildup of business inventories, and businesses are then forced into severe production cutbacks to work off those inventories.</p>
+        <p>No more, said the optimists. Here's how one starry-eyed observer put it: ''The same forces that have been boosting growth in structural productivity seem also to have accelerated the process of cyclical adjustment. . . . New technologies for supply-chain management and flexible manufacturing imply that businesses can perceive imbalances in inventories at a very early stage -- virtually in real time -- and can cut production promptly in response to the developing signs of unintended inventory building.''</p>
+        <p>Whoops. In fact, as demand from consumers leveled off last year, American businesses were slow to cut production, and ended up with huge excess inventories. And some of the worst stories of excess inventory accumulation involve companies selling the very information systems that were supposed to make that ''real time'' management possible.</p>
+        <p>Cisco, whose equipment plays a key role in the Internet -- and which has presented itself as the very model of a modern e-business -- is the case in point. The company's woes aren't simply a matter of declining demand; it also failed to adjust, ramping up inventories just as the bottom fell out of sales. Now it has taken a $2.5 billion write-down on inventory that it expects to sell only at reduced prices.</p>
+        <p>It may take some time to figure out what went wrong. Perhaps it was business strategy: Cisco used the Internet to become a ''virtual company,'' with most of its products manufactured by others, reducing costs but perhaps also reducing control. And perhaps some of it was sheer hubris: technology may have given managers the illusion that they knew more than they did. One friend points out that high-tech managers insisting that they had everything under control sounded a bit like old-fashioned Soviet central planners.</p>
+        <p>What's important is that policy makers realize that some of the happier tales of the new economy were only myths. We must hope that comforting stories that we now know to be untrue haven't bred a sense of complacency. And that's where I get a bit nervous. For that romantic fantasy about ''real time'' adjustment was a quotation from Alan Greenspan's testimony on monetary policy, less than two months ago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

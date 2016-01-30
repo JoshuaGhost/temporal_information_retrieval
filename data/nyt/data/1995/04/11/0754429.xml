@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="754429"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">AMELING, ELLY</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DA1738F932A25757C0A963958260" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The audience at ELLY AMELING 's New York farewell concert in Alice Tully Hall on Sunday afternoon simply refused to let her go. For encore after encore, her admirers in the sold-out house leaped to their feet demanding more from the Dutch soprano, who is retiring from the concert stage. Only when the doors at the side of the stage were locked did they give up.</p>
+        <p>"I felt very moved at the beginning of the concert, when I got a very warm and prolonged welcome, as well as at the end," Ms. Ameling said yesterday. "I remember vividly that this also happened when I did my first recital at Alice Tully Hall in 1970 and I didn't understand at all what was happening. I thought maybe they liked my dress."</p>
+      </block>
+      <block class="full_text">
+        <p>The audience at ELLY AMELING 's New York farewell concert in Alice Tully Hall on Sunday afternoon simply refused to let her go. For encore after encore, her admirers in the sold-out house leaped to their feet demanding more from the Dutch soprano, who is retiring from the concert stage. Only when the doors at the side of the stage were locked did they give up.</p>
+        <p>"I felt very moved at the beginning of the concert, when I got a very warm and prolonged welcome, as well as at the end," Ms. Ameling said yesterday. "I remember vividly that this also happened when I did my first recital at Alice Tully Hall in 1970 and I didn't understand at all what was happening. I thought maybe they liked my dress."</p>
+        <p>"I feel that in this loud and busy city, there is a crowd for the intimate refined art of the song," the singer said as she looked back. "It is very well, alive in the middle of all the loudness. My best reward is to believe that I prolonged and continued the line leading from Lotte Lehmann, Elisabeth Schwarzkopf and Fischer-Dieskau."</p>
+        <p>Now, though she is giving up the stage ("I think 63 is old enough," she said), she will continue that line as a guest teacher.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

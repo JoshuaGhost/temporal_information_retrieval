@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Britain: Bank's Profit Falls</title>
+    <meta content="MB000037" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1465104"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Lloyds Tsb Group Plc</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFD6133AF936A25751C0A9659C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Britain: Bank's Profit Falls</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner (NYT)</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>British bank Lloyds TSB Group reports 40 percent decline in profit for second half of 2002, citing provisions for bad loans and lingering bear market for stocks; net income for period put at $1.1 billion; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The British bank Lloyds TSB Group reported a 40 percent decline in profit for the second half of 2002, blaming rising provisions for bad loans and a lingering bear market for stocks. Net income for the period was £668 million ($1.1 billion), compared with £1.1 billion ($1.8 billion) a year earlier. The bank froze its dividend and said it would need to invest money in its pension fund to compensate for falling stock prices. Rising provisions for bad loans and falling stock prices have also hit other British banks, including Barclays and Abbey National.</p>
+        <p>Suzanne Kapner (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The British bank Lloyds TSB Group reported a 40 percent decline in profit for the second half of 2002, blaming rising provisions for bad loans and a lingering bear market for stocks. Net income for the period was £668 million ($1.1 billion), compared with £1.1 billion ($1.8 billion) a year earlier. The bank froze its dividend and said it would need to invest money in its pension fund to compensate for falling stock prices. Rising provisions for bad loans and falling stock prices have also hit other British banks, including Barclays and Abbey National.</p>
+        <p>Suzanne Kapner (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

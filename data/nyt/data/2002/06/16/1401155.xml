@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drought Concerns Shouldn't Stop Now</title>
+    <meta content="LTR003218" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1401155"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Drought</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Urban-Mead, Russell</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drought</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D6103CF935A25755C0A9649C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drought Concerns Shouldn't Stop Now</hl1>
+      </hedline>
+      <abstract>
+        <p>Chazen Cos hydrogeologist Russell Urban-Mead letter on May 12 article holds Westchester County homeowners and municipal leaders should not ignore possibility that drought could worsen</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''When the Well Runs Dry'' (May 12) nicely summarized what happens to groundwater supplies during droughts. Since last year's drought, recent rains have filled many lakes and reservoirs. But not all groundwater wells have recovered as fully.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''When the Well Runs Dry'' (May 12) nicely summarized what happens to groundwater supplies during droughts. Since last year's drought, recent rains have filled many lakes and reservoirs. But not all groundwater wells have recovered as fully.</p>
+        <p>During the past six rainy weeks, the groundwater level in a monitored well at Hyde Park's Vanderbilt Mansion rose only six inches and remains below long-term average levels.</p>
+        <p>Such modest recovery provides an instructive example of how only a fraction of precipitation ever reaches aquifers, and how the arrival of spring hinders aquifer recharge since plants use a significant fraction of rainfall.</p>
+        <p>For fuller recovery this year, many aquifers in our region needed more rain, especially during leafless periods in late autumn and early spring.</p>
+        <p>There is a continuing risk that wells will run dry this summer, which homeowners and municipal leaders should not ignore.</p>
+        <p>RUSSELL URBAN-MEAD  Hydrogeologist  The Chazen Companies  Hyde Park</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

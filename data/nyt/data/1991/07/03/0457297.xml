@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Public &amp; Private; Weighing the Victim</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="457297"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">CAPITAL PUNISHMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">SENTENCES (CRIMINAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">STANDARDS AND STANDARDIZATION</classifier>
+        <org class="indexing_service">SUPREME COURT (US)</org>
+        <person class="indexing_service">QUINDLEN, ANNA</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DD1531F930A35754C0A967958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Public &amp; Private; Weighing the Victim</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNA QUINDLEN</byline>
+      <byline class="normalized_byline">QUINDLEN, ANNA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Of all the questions we get asked in the newspaper business, perhaps the most slippery is the definition of news. The wise-guy answer -- "I know it when I see it" -- does not suffice. But in fact it is the closest thing to truth.</p>
+        <p>Readers know it when they see it, too. They may ask why it is of particular interest when a female violinist is murdered on the roof of the Metropolitan Opera House, and why it is not when a decomposing body is found in an abandoned building, but intuitively most know the answer. In a city in which there are, on average, six homicides each day, the ones that get more than a paragraph tend to be the killings in which the event is unusual or the victim compelling. In the measure of column inches, their deaths are given more weight.</p>
+      </block>
+      <block class="full_text">
+        <p>Of all the questions we get asked in the newspaper business, perhaps the most slippery is the definition of news. The wise-guy answer -- "I know it when I see it" -- does not suffice. But in fact it is the closest thing to truth.</p>
+        <p>Readers know it when they see it, too. They may ask why it is of particular interest when a female violinist is murdered on the roof of the Metropolitan Opera House, and why it is not when a decomposing body is found in an abandoned building, but intuitively most know the answer. In a city in which there are, on average, six homicides each day, the ones that get more than a paragraph tend to be the killings in which the event is unusual or the victim compelling. In the measure of column inches, their deaths are given more weight.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Junked Car's Owner Found at Last</title>
+    <meta content="18TRUN" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1003045"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Reyes, Mejia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2D71039F93BA25750C0A96E958260" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Junked Car's Owner Found at Last</hl1>
+      </hedline>
+      <abstract>
+        <p>NYC police say that Mejia Reyes, owner of junked and abandoned car in which body was discovered after car was sold at sheriff's auction in Brooklyn, was man in trunk (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The police are no longer looking for the owner of a junked and abandoned car in which a body was discovered on Tuesday after the car was sold at a sheriff's auction in Brooklyn. He was the man in the trunk, investigators said.</p>
+        <p>The body of Mejia Reyes, 26, was discovered in the trunk of a 1986 Chevy Celebrity after it had been purchased last Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>The police are no longer looking for the owner of a junked and abandoned car in which a body was discovered on Tuesday after the car was sold at a sheriff's auction in Brooklyn. He was the man in the trunk, investigators said.</p>
+        <p>The body of Mejia Reyes, 26, was discovered in the trunk of a 1986 Chevy Celebrity after it had been purchased last Thursday.</p>
+        <p>The new owner returned on Tuesday to inspect the car, when he smelled a rank odor coming from the back. When the owner opened the trunk at the sheriff's junkyard at 685 Columbia Street, he found a body wrapped in dark-green plastic garbage bags and a black blanket. The corpse was tied with rope and was handcuffed, said Officer Valerie St. Rose, a police spokeswoman.</p>
+        <p>The cause of death was smothering, said Ellen Borakove, a spokeswoman for the Chief Medical Examiner. The body may have been in the trunk for months, the police said, and it was so badly decomposed that the authorities first thought it was the remains of a woman.</p>
+        <p>The car was sent to the junkyard after it was towed from Bushwick Street on Jan. 15. The police had considered it an abandoned vehicle and put it up for auction. Police had been seeking Mr. Reyes for questioning.</p>
+        <p>''The fingerprints pretty much tell the tale,'' said an investigator speaking on the condition of anonymity. ''It's him.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

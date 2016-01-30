@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Instructions on Instructions</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="689752"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E4DC173BF935A15756C0A962958260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Instructions on Instructions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Home Section:</p>
+        <p>Your article on instruction manuals gave me reason to feel that someone out there is trying to help those of us who are considered hopeless by most of the thirtysomething generation.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Home Section:</p>
+        <p>Your article on instruction manuals gave me reason to feel that someone out there is trying to help those of us who are considered hopeless by most of the thirtysomething generation.</p>
+        <p>I have been trying to learn how to operate a five- or six-year-old PC that my son has outgrown. I read the directions and become helplessly confused in a matter of minutes.</p>
+        <p>Therefore, I would like to pass along some suggestions from a 67-year-old newcomer.</p>
+        <p>First, the manual should dispense with the history and theory sections.  Then it should be written in a question and answer format. And the questions should begin with how to plug the gizmo in, and then how to turn it on. Sentences and paragraphs should be short, and technical terms, if they must be used, must be carefully explained.</p>
+        <p>Just remember that old geezers like myself buy lots more gadgets then fourth- or fifth-grade computer experts. SY HOROWITZ  East Northport, L.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

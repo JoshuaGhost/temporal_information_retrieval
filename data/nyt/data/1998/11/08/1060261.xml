@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction; Before He Was Elvis</title>
+    <meta content="RV104927" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1060261"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Presley, Elvis (1935-77)</person>
+        <person class="indexing_service">Nash, Eric P</person>
+        <object.title class="indexing_service">Elvis Presley 1956 (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DA173FF93BA35752C1A96E958260" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction; Before He Was Elvis</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric P. Nash</byline>
+      <byline class="normalized_byline">Nash, Eric P</byline>
+      <abstract>
+        <p>Eric P Nash reviews Elvis Presley 1956, compilation of previously unpublished black-and-white photographs of Elvis Presley; photos (S)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two months after Elvis Presley released his first album in March 1956, a photographer for Seventeen magazine named Marvin Israel caught him on tour at the University of Dayton. ELVIS PRESLEY 1956 (Abrams, $17.95), a gritty compilation of dozens of previously unpublished black-and-white photos, was the result. Seventeen probably passed because the photos of the rising teen idol were too raw: the black-rimmed, raccoon-like eyes, the pitted skin and the electric current that seemed to ripple through Presley's spine. We also see his natural charm: a picture of a smiling Elvis, en pointe, knees splayed, cradling his leather-embossed guitar; a gauzy picture of his Pharaonic features that makes him look like a god from ancient Memphis. Portraits of the fans capture an era: girls in their Junior League best with polka-dot bows, and their gape-mouthed, sullen dates; a leather-jacketed Natalie Wood look-alike scowls in front of a 30-foot-tall cutout of Presley at the premiere of ''Love Me Tender,'' his first film, at the Paramount in Times Square. Israel, who went on to become one of the most influential photo editors of the 1960's, commissioning work by Diane Arbus, Robert Frank and Lee Friedlander, had an intimate access to Presley before he became a superstar that comes across in the photos. The text is perfunctory (''in 1956 Elvis was a rocket'') and identifying captions would help, but the images speak for themselves.</p>
+        <p>Eric P. Nash</p>
+      </block>
+      <block class="full_text">
+        <p>Two months after Elvis Presley released his first album in March 1956, a photographer for Seventeen magazine named Marvin Israel caught him on tour at the University of Dayton. ELVIS PRESLEY 1956 (Abrams, $17.95), a gritty compilation of dozens of previously unpublished black-and-white photos, was the result. Seventeen probably passed because the photos of the rising teen idol were too raw: the black-rimmed, raccoon-like eyes, the pitted skin and the electric current that seemed to ripple through Presley's spine. We also see his natural charm: a picture of a smiling Elvis, en pointe, knees splayed, cradling his leather-embossed guitar; a gauzy picture of his Pharaonic features that makes him look like a god from ancient Memphis. Portraits of the fans capture an era: girls in their Junior League best with polka-dot bows, and their gape-mouthed, sullen dates; a leather-jacketed Natalie Wood look-alike scowls in front of a 30-foot-tall cutout of Presley at the premiere of ''Love Me Tender,'' his first film, at the Paramount in Times Square. Israel, who went on to become one of the most influential photo editors of the 1960's, commissioning work by Diane Arbus, Robert Frank and Lee Friedlander, had an intimate access to Presley before he became a superstar that comes across in the photos. The text is perfunctory (''in 1956 Elvis was a rocket'') and identifying captions would help, but the images speak for themselves.</p>
+        <p>Eric P. Nash</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

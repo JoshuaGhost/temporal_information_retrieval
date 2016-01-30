@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Names on the Memorial</title>
+    <meta content="23sat5" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/09/23/opinion/23sat5.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1791998"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <person class="online_producer">Arad, Michael</person>
+        <person class="online_producer">Bloomberg, Michael R</person>
+        <person class="online_producer">Pataki, George E</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1DC1E31F930A1575AC0A9609C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Names on the Memorial</hl1>
+        <hl2 class="online_headline">Names on the Memorial</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. George Pataki will have to bear the responsibility for the delays in redevelopment at ground zero over the last five years. But if he wants to improve the record of his stewardship before leaving office, one way would be to act now to help solve the emotional question of how to list the names at the planned memorial for the 2,979 victims of terrorism.</p>
+        <p>This listing of victims around the pools marking the site of the twin towers has turned into an intensely emotional impasse that threatens the entire memorial project. Michael Arad, the memorial's designer, planned to list the names randomly, with victims' stories told in detail at the museum and visitors center. Some victims' family members and former co-workers have demanded that they be grouped by job or family, or in some other way that would better define who they were and where they died.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The listing of victims’ names around the pools marking the site of the twin towers has reached an intensely emotional impasse.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. George Pataki will have to bear the responsibility for the delays in redevelopment at ground zero over the last five years. But if he wants to improve the record of his stewardship before leaving office, one way would be to act now to help solve the emotional question of how to list the names at the planned memorial for the 2,979 victims of terrorism.</p>
+        <p>This listing of victims around the pools marking the site of the twin towers has turned into an intensely emotional impasse that threatens the entire memorial project. Michael Arad, the memorial's designer, planned to list the names randomly, with victims' stories told in detail at the museum and visitors center. Some victims' family members and former co-workers have demanded that they be grouped by job or family, or in some other way that would better define who they were and where they died.</p>
+        <p>We continue to believe that the best and fairest solution for all the victims is Mr. Arad's. But because this issue is delaying the fund-raising and building of the memorial -- that centerpiece of the restoration at the site -- it is time to figure out another way to move forward, and search for a compromise. Grouping the victims could easily leave people out or make one group of victims appear more important than others. A better idea might be for the names alone to be listed alphabetically -- the same way that they have been read aloud so movingly at the site each Sept. 11 morning since 2001.</p>
+        <p>The governor should work with Mayor Michael Bloomberg to establish a small but representative committee, including Mr. Arad and a representative of the families and co-workers. Their task should be to quickly come up with a suitable compromise that eases family concerns and still maintains the highest design standards for this memorial.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

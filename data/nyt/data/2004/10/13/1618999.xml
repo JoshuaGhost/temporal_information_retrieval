@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MORGAN, ROGERS</title>
+    <meta content="DN101304" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1618999"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">MORGAN, ROGERS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EED71E3BF930A25753C1A9629C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MORGAN, ROGERS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MORGAN -- Rogers. Noted Queens Democratic political leader and former Director of Minority Business Enterprise Corp., Economic Development, City of New York passed away on October 10, 2004. Beloved father of Dawn Hammer and Fern Mills. Loving grandfather of Christian Hammer, Eric Mills, Finn Hammer, Scott Mills, Souter Hammer, Mark Mills and India Dunlap. Visiting hours Thursday, October 14, 4-8PM at J. Foster Phillips Funeral Home, Inc. Funeral Services Friday, October 15, 11AM at St. Albans Congregational Church, St. Albans, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>MORGAN -- Rogers. Noted Queens Democratic political leader and former Director of Minority Business Enterprise Corp., Economic Development, City of New York passed away on October 10, 2004. Beloved father of Dawn Hammer and Fern Mills. Loving grandfather of Christian Hammer, Eric Mills, Finn Hammer, Scott Mills, Souter Hammer, Mark Mills and India Dunlap. Visiting hours Thursday, October 14, 4-8PM at J. Foster Phillips Funeral Home, Inc. Funeral Services Friday, October 15, 11AM at St. Albans Congregational Church, St. Albans, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

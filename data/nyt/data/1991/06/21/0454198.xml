@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chavez Bout Canceled</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="454198"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: BOXING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOXING</classifier>
+        <person class="indexing_service">CHAVEZ, JULIO CESAR</person>
+        <person class="indexing_service">BRAZIER, HAROLD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D8153DF932A15755C0A967958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chavez Bout Canceled</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JULIO CESAR CHAVEZ suffered a cut on the bridge of his nose during sparring yesterday, forcing the cancellation of his superlightweight title fight next week against HAROLD BRAZIER in Las Vegas, Nev., fight officials said. Chavez took nine stitches to sew up the cut and will not be able to fight until it heals, said JOE SAFETY, a spokesman for Don King Productions.</p>
+        <p>The World Boxing Council 140-pound title fight was on the undercard of the heavyweight fight between former champion MIKE TYSON and DONOVAN (RAZOR) RUDDOCK at the Mirage hotel-casino.</p>
+      </block>
+      <block class="full_text">
+        <p>JULIO CESAR CHAVEZ suffered a cut on the bridge of his nose during sparring yesterday, forcing the cancellation of his superlightweight title fight next week against HAROLD BRAZIER in Las Vegas, Nev., fight officials said. Chavez took nine stitches to sew up the cut and will not be able to fight until it heals, said JOE SAFETY, a spokesman for Don King Productions.</p>
+        <p>The World Boxing Council 140-pound title fight was on the undercard of the heavyweight fight between former champion MIKE TYSON and DONOVAN (RAZOR) RUDDOCK at the Mirage hotel-casino.</p>
+        <p>Chavez, 75-0, of Culiacan, Mexico, is a three-time champion who won the W.B.C. title in March 1990 by stopping MELDRICK TAYLOR. Brazier, 75-10-1, of South Bend, Ind., is the W.B.C.'s No. 5 contender. Safety said he did not know if the fight would be rescheduled. (AP)  SPORTS PEOPLE: BOXING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

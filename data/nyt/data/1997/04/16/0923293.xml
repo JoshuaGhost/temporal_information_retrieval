@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CBZZ17777" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="923293"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDA153FF935A25757C0A961958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CARRAMERICA REALTY CORP., Washington, a real estate developer, bought three office properties and land in suburban Atlanta for $58.6 million. It did not disclose the sellers.</p>
+        <p>MELLON BANK CORP., Pittsburgh, said it planned to split its stock 2 for 1 and increase its quarterly dividend by 10 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>CARRAMERICA REALTY CORP., Washington, a real estate developer, bought three office properties and land in suburban Atlanta for $58.6 million. It did not disclose the sellers.</p>
+        <p>MELLON BANK CORP., Pittsburgh, said it planned to split its stock 2 for 1 and increase its quarterly dividend by 10 percent.</p>
+        <p>WEIRTON STEEL CORP., Weirton, W.Va., an integrated steelmaker, reached a tentative agreement with the salary nonexempt unit of the Independent Steelworkers Union.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

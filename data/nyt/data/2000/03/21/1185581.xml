@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Devils' Defense Grows Thin</title>
+    <meta content="21DEVI" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1185581"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">New Jersey Devils</org>
+        <person class="indexing_service">Niedermayer, Scott</person>
+        <person class="indexing_service">Malakhov, Vladimir</person>
+        <person class="indexing_service">Rafalski, Brian</person>
+        <person class="indexing_service">Daneyko, Ken</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DD113AF932A15750C0A9669C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Devils' Defense Grows Thin</hl1>
+      </hedline>
+      <dateline>EAST RUTHERFORD, N.J., March 20</dateline>
+      <abstract>
+        <p>Likely suspension of Scott Niedermayer by National Hockey League would leave New Jersey Devils very thin on defense because of injuries to Vladimir Malakhov and Brian Rafalski and Ken Daneyko's illness (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The likely suspension of Scott Niedermayer by the National Hockey League would leave the Devils very thin on defense because of injuries to Vladimir Malakhov and Brian Rafalski and Ken Daneyko's illness. It is uncertain whether they will be able to play when Carolina visits on Tuesday night.</p>
+        <p>It is all but certain that Niedermayer will be suspended after a hearing Tuesday with Colin Campbell, the league's chief disciplinarian. Niedermayer hit Florida's Peter Worrell on the helmet with his stick in the Devils' 5-2 victory over the Panthers here Sunday night and was assessed a match penalty with intent to injure. ''I deserve something because it was a stupid play,'' Niedermayer said when asked if he expected to be suspended. ''It's obvious that I hit him and I can't take it back. But I don't think I hit him hard enough to hurt him.''</p>
+      </block>
+      <block class="full_text">
+        <p>The likely suspension of Scott Niedermayer by the National Hockey League would leave the Devils very thin on defense because of injuries to Vladimir Malakhov and Brian Rafalski and Ken Daneyko's illness. It is uncertain whether they will be able to play when Carolina visits on Tuesday night.</p>
+        <p>It is all but certain that Niedermayer will be suspended after a hearing Tuesday with Colin Campbell, the league's chief disciplinarian. Niedermayer hit Florida's Peter Worrell on the helmet with his stick in the Devils' 5-2 victory over the Panthers here Sunday night and was assessed a match penalty with intent to injure. ''I deserve something because it was a stupid play,'' Niedermayer said when asked if he expected to be suspended. ''It's obvious that I hit him and I can't take it back. But I don't think I hit him hard enough to hurt him.''</p>
+        <p>Niedermayer might get a light sentence from Campbell because he is a first-time offender. Worrell made repeated slashing motions across his throat as he left the ice after the incident, which came with 1:45 left in the game.</p>
+        <p>''I guess he'd get fined in the N.F.L.,'' Niedermayer said of Worrell's slashing motions, ''but not in the N.H.L. We like that stuff.''</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge; Summer Nationals Will Test The Skills of Some Software</title>
+    <meta content="13CARD$02" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1031536"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <person class="indexing_service">Mahmood, Zia</person>
+        <person class="indexing_service">Rosenberg, Michael</person>
+        <person class="indexing_service">Ginsberg, Matt</person>
+        <object.title class="indexing_service">Bridge (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEEDC1231F930A25754C0A96E958260" item-length="506" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge; Summer Nationals Will Test The Skills of Some Software</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Bridge column on upcoming match between player and computer during Summer National Championships in Chicago; Zia Mahmood and his regular partner, Michael Rosenberg, will play against pair of software programs created by Matt Ginsberg; diagrammed deal (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few years ago the ebullient Zia Mahmood announced that he was willing to play a match against a computer for a stake of $1 million. He withdrew this offer hurriedly when Matt Ginsberg, creator of the software program GIB, showed interest in accepting.</p>
+        <p>But there will be a match, for no stake, during the Summer National Championships in Chicago this month. Zia will play with his regular partner, Michael Rosenberg, against a pair of GIB's. They will handle deals that have been played on OKbridge, and the scoring will be based on the average of the earlier scores.</p>
+      </block>
+      <block class="full_text">
+        <p>A few years ago the ebullient Zia Mahmood announced that he was willing to play a match against a computer for a stake of $1 million. He withdrew this offer hurriedly when Matt Ginsberg, creator of the software program GIB, showed interest in accepting.</p>
+        <p>But there will be a match, for no stake, during the Summer National Championships in Chicago this month. Zia will play with his regular partner, Michael Rosenberg, against a pair of GIB's. They will handle deals that have been played on OKbridge, and the scoring will be based on the average of the earlier scores.</p>
+        <p>GIB (an acronym for Goren in a Box) has not been tested against other computer programs but will compete in a long contest in Chicago. Two of the other competitors will also be from the United States: the Bridge Baron, from Bethesda, Md., which won a similar event a year ago, and Meadowlark, from Fargo, N.D. The others will be Qplus, from Germany, and Micro-Bridge, from Japan.</p>
+        <p>The evidence to date suggests that GIB's bidding is slightly eccentric and needs improvement while its card play is excellent. Both aspects are illustrated by the diagramed deal, played on the OKbridge network. The normal opening with the South hand is, of course, one diamond, which might end the bidding with advantage to the opponents. But GIB as South bid a strange one no-trump and faced the lead of the club queen.</p>
+        <p>After winning with the ace, the program led the diamond 10. West won with the queen and the human East dropped the eight, a foolish signal intended to show strength in the suit.</p>
+        <p>West continued with the club jack, and South won with dummy's king, throwing a heart from his hand. It then finessed the spade queen successfully and led the diamond king, taken by the ace. East shifted to the heart jack, which was covered by the king and ace. West returned the spade nine and East played the king, an odd choice but unimportant.</p>
+        <p>South won with the ace and led the heart eight, which West wisely permitted to win. The position was now this:</p>
+        <p>[Diagram]</p>
+        <p>South had five tricks, and now led the diamond nine. East wished he had not squandered the diamond eight, although that would not have been enough to defeat the contract.</p>
+        <p>Ducking would not have helped, for South would have played the spade jack followed by the deuce. East won and led a spade, and South won and exited with his last spade. Now GIB made an overtrick with the deepest finesse in the history of computer bridge: At the 12th trick, with 6-3 of diamonds sitting over the 4-2, it finessed the three when the two was led.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

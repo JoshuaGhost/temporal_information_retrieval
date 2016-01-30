@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holiday on Monday</title>
+    <meta content="08HOLI$06" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="888438"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E7DA163BF93BA35752C1A960958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holiday on Monday</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Veterans Day</p>
+        <p>NEW YORK</p>
+        <p>PARADE  Starts at 11 A.M. and runs south on Fifth Avenue from 41st Street to 23d Street.</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices are closed.</p>
+        <p>POST OFFICE  Express Mail only; main post office, at 33d Street and Eighth Avenue, is open.</p>
+        <p>BANKS  Option to close.</p>
+        <p>PARKING  Alternate side of the street parking rules suspended.</p>
+        <p>SANITATION  No pickups or street cleanings.</p>
+        <p>SCHOOLS  Closed.</p>
+        <p>FINANCIAL MARKETS  Stock markets open; bond markets closed.</p>
+        <p>TRANSPORTATION  Subways, buses, Long Island Rail Road and Metro-North Railroad on normal weekday schedules.</p>
+        <p>NEW JERSEY</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices closed.</p>
+        <p>POST OFFICES  Express mail only.</p>
+        <p>BANKS  Option to close.</p>
+        <p>SCHOOLS  Local option.</p>
+        <p>TRANSPORTATION New Jersey Transit on a regular weekday schedule.</p>
+        <p>CONNECTICUT</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices closed.</p>
+        <p>POST OFFICES  Express mail only.</p>
+        <p>BANKS  Option to close.</p>
+        <p>SCHOOLS  Closed.</p>
+        <p>TRANSPORTATION  Metro-North Railroad on a regular weekday schedule.</p>
+      </block>
+      <block class="full_text">
+        <p>Veterans Day</p>
+        <p>NEW YORK</p>
+        <p>PARADE  Starts at 11 A.M. and runs south on Fifth Avenue from 41st Street to 23d Street.</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices are closed.</p>
+        <p>POST OFFICE  Express Mail only; main post office, at 33d Street and Eighth Avenue, is open.</p>
+        <p>BANKS  Option to close.</p>
+        <p>PARKING  Alternate side of the street parking rules suspended.</p>
+        <p>SANITATION  No pickups or street cleanings.</p>
+        <p>SCHOOLS  Closed.</p>
+        <p>FINANCIAL MARKETS  Stock markets open; bond markets closed.</p>
+        <p>TRANSPORTATION  Subways, buses, Long Island Rail Road and Metro-North Railroad on normal weekday schedules.</p>
+        <p>NEW JERSEY</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices closed.</p>
+        <p>POST OFFICES  Express mail only.</p>
+        <p>BANKS  Option to close.</p>
+        <p>SCHOOLS  Local option.</p>
+        <p>TRANSPORTATION New Jersey Transit on a regular weekday schedule.</p>
+        <p>CONNECTICUT</p>
+        <p>GOVERNMENT OFFICES  Federal, state and municipal offices closed.</p>
+        <p>POST OFFICES  Express mail only.</p>
+        <p>BANKS  Option to close.</p>
+        <p>SCHOOLS  Closed.</p>
+        <p>TRANSPORTATION  Metro-North Railroad on a regular weekday schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FRIEDMANN, ROBERT JESSE SPENCE</title>
+    <meta content="DN031702" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="45" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1376733"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">FRIEDMANN, ROBERT JESSE SPENCE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EFDA1130F934A25750C0A9649C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FRIEDMANN, ROBERT JESSE SPENCE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FRIEDMANN-Robert Jesse Spence. On March 15, 2002. Beloved husband of Mary Felter Friedmann. Dear father of Beverly and Jacki Friedmann. Dear brother of Peter Friedmann and Toni Gales. Services Tuesday March 19th, 11:30AM at ''The Riverside,'' 76th St. and Amsterdam Ave. Donations can be made in Robert's name to the American Stroke Association, 2550 Route 1, North Brunswick, NJ 08902, 1-800634-1242 or strokeassociation.org</p>
+      </block>
+      <block class="full_text">
+        <p>FRIEDMANN-Robert Jesse Spence. On March 15, 2002. Beloved husband of Mary Felter Friedmann. Dear father of Beverly and Jacki Friedmann. Dear brother of Peter Friedmann and Toni Gales. Services Tuesday March 19th, 11:30AM at ''The Riverside,'' 76th St. and Amsterdam Ave. Donations can be made in Robert's name to the American Stroke Association, 2550 Route 1, North Brunswick, NJ 08902, 1-800634-1242 or strokeassociation.org</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

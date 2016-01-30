@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="26DIVE" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="990584"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DB133BF935A15752C0A96E958260" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY</p>
+        <p>Comm Intertech</p>
+        <p>Howell</p>
+        <p>Kennametal</p>
+        <p>Oasis Resid</p>
+        <p>South Calif Wtr</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY</p>
+        <p>Comm Intertech</p>
+        <p>Howell</p>
+        <p>Kennametal</p>
+        <p>Oasis Resid</p>
+        <p>South Calif Wtr</p>
+        <p>TUESDAY</p>
+        <p>C &amp; D Tech</p>
+        <p>Cilcorp</p>
+        <p>Eaton</p>
+        <p>Hlthcare Rlty Tr</p>
+        <p>Highwds Ppty</p>
+        <p>Knight Ridder</p>
+        <p>Mid-Amer Rlty</p>
+        <p>Millennium Chm</p>
+        <p>Pogo Producing</p>
+        <p>Rollins</p>
+        <p>USX-Marathon</p>
+        <p>USX-U S Stl</p>
+        <p>Wicor</p>
+        <p>WEDNESDAY</p>
+        <p>Amer Elec Pwr</p>
+        <p>AMP</p>
+        <p>Baker Hughes</p>
+        <p>Conn Energy</p>
+        <p>Downey Finl</p>
+        <p>Energen</p>
+        <p>Glenbor Rlty Tr</p>
+        <p>Grainger W W</p>
+        <p>Newmont Gold</p>
+        <p>Penn Enter</p>
+        <p>Ryland Grp</p>
+        <p>Standex Intl</p>
+        <p>Unisource World</p>
+        <p>THURSDAY</p>
+        <p>Avery Dennison</p>
+        <p>Coachmen Inds</p>
+        <p>Equitable Iowa</p>
+        <p>Fingerhut</p>
+        <p>Sara Lee</p>
+        <p>Shaw Inds</p>
+        <p>Technitrol</p>
+        <p>Wis Energy</p>
+        <p>FRIDAY</p>
+        <p>Agco</p>
+        <p>Deluxe</p>
+        <p>Dover Downs</p>
+        <p>Mobil</p>
+        <p>Yankee Energy</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

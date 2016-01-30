@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ramirez Hits 2 More Home Runs</title>
+    <meta content="20ALX" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1048193"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="AMERICAN LEAGUE: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Kansas City Royals</org>
+        <org class="indexing_service">Cleveland Indians</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Plains</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Chicago White Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cleveland Indians</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Kansas City Royals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D81330F933A1575AC0A96E958260" item-length="415" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ramirez Hits 2 More Home Runs</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+      <abstract>
+        <p>Kansas City Royals defeat Cleveland Indians, 7-6; other American League scores noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROYALS 7, INDIANS 6</p>
+        <p>Manny Ramirez hit two more home runs yesterday, but the Cleveland bullpen failed to hold a 6-1 lead and the host Indians lost to the Kansas City Royals, 7-6.</p>
+        <p>Ramirez's two homers gave him eight in his last five games, tying the major league record reached twice by Washington's Frank Howard in 1968.</p>
+      </block>
+      <block class="full_text">
+        <p>ROYALS 7, INDIANS 6</p>
+        <p>Manny Ramirez hit two more home runs yesterday, but the Cleveland bullpen failed to hold a 6-1 lead and the host Indians lost to the Kansas City Royals, 7-6.</p>
+        <p>Ramirez's two homers gave him eight in his last five games, tying the major league record reached twice by Washington's Frank Howard in 1968.</p>
+        <p>The loss may have been costly to Cleveland's post-season hopes, however, as the starting pitcher Dwight Gooden and center fielder Kenny Lofton left with injuries.</p>
+        <p>Lofton strained his left hamstring in the fifth inning.</p>
+        <p>I could go out there tomorrow if I needed to, Lofton said. It tightens up. Once I get loose, I'm fine. But I want to be at 100 percent for the post-season.</p>
+        <p>Gooden left with stiffness in his back with one out in the seventh and the Indians ahead by 6-1. I'm not very concerned, Gooden said. If it was April or May, I would have kept pitching.</p>
+        <p>WHITE SOX 5, RED SOX 2</p>
+        <p>Mike Cameron hit a three-run homer and the White Sox beat Boston in Chicago despite getting only five hits.</p>
+        <p>The loss kept Boston's number for clinching the American League wild-card at five.</p>
+        <p>John Snyder (7-2) won his third straight decision, allowing six hits over six innings with one walk and three strikeouts.</p>
+        <p>With one out in the second inning, Robin Ventura was safe on first baseman Mo Vaughn's fielding error and Greg Norton followed with an infield single. After the second out, Cameron hit his eighth home run into the left-field stands to give Chicago a 3-0 lead.</p>
+        <p>ATHLETICS 8, RANGERS 4</p>
+        <p>Well, maybe it won't be so easy for Texas, after all.</p>
+        <p>Oakland stopped the Rangers' four-game winning streak, overcoming Juan Gonzalez's 300th career homer to beat host Texas.</p>
+        <p>Texas, which had won 8 of 11 coming in, began the night two games ahead of second-place Anaheim in the American League West.</p>
+        <p>The Angels, who played a late game against Seattle, start a three-game series against Texas tomorrow in California.</p>
+        <p>DEVIL RAYS 7, BLUE JAYS 5</p>
+        <p>Bubba Trammell hit a pinch three-run homer during a four-run eighth inning as host Tampa Bay beat slumping Toronto.</p>
+        <p>The Blue Jays remained five games behind Boston, which lost to the Chicago White Sox yesterday.</p>
+        <p>AMERICAN LEAGUE: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

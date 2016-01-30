@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cabaret Nights at Carnegie</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="65" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="178328"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <person class="indexing_service">HALL, ADELAIDE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DB163BF932A2575AC0A96E948260" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cabaret Nights at Carnegie</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The singer Adelaide Hall will open a four-night cabaret series at Weill Recital Hall on Oct. 12 at 8 P.M. Karen Mason will appear on Oct. 13; Steve Ross will offer songs by Coward and Porter on Oct. 14, and Andrea Marcovicci will sing love songs from the theater on Oct. 15. Tickets -which go on sale at the box office on Wednesday - are $15, or $52 for all four nights.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The singer Adelaide Hall will open a four-night cabaret series at Weill Recital Hall on Oct. 12 at 8 P.M. Karen Mason will appear on Oct. 13; Steve Ross will offer songs by Coward and Porter on Oct. 14, and Andrea Marcovicci will sing love songs from the theater on Oct. 15. Tickets -which go on sale at the box office on Wednesday - are $15, or $52 for all four nights.</p>
+        <p>The singer Adelaide Hall will open a four-night cabaret series at Weill Recital Hall on Oct. 12 at 8 P.M. Karen Mason will appear on Oct. 13; Steve Ross will offer songs by Coward and Porter on Oct. 14, and Andrea Marcovicci will sing love songs from the theater on Oct. 15. Tickets -which go on sale at the box office on Wednesday - are $15, or $52 for all four nights. Information: 247-7800.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

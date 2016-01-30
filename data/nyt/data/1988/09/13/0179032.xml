@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About Chess Moves</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="179032"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DC1E3CF930A2575AC0A96E948260" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About Chess Moves</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The New York Times has converted its method of chessboard notation to the algebraic system, in which each square is unambiguously identified by file letter and rank number. Explanations of the system are available from the Chess Column, The New York Times, 229 West 43d Street, New York, N.Y. 10036.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The New York Times has converted its method of chessboard notation to the algebraic system, in which each square is unambiguously identified by file letter and rank number. Explanations of the system are available from the Chess Column, The New York Times, 229 West 43d Street, New York, N.Y. 10036.</p>
+        <p>The New York Times has converted its method of chessboard notation to the algebraic system, in which each square is unambiguously identified by file letter and rank number. Explanations of the system are available from the Chess Column, The New York Times, 229 West 43d Street, New York, N.Y. 10036.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

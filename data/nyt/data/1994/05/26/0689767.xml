@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surgery for Andre Dawson</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="689767"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <org class="indexing_service">BOSTON RED SOX</org>
+        <person class="indexing_service">DAWSON, ANDRE</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1DC173BF935A15756C0A962958260" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surgery for Andre Dawson</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANDRE DAWSON of the Boston Red Sox, who has had nine knee operations, is scheduled to undergo arthroscopic surgery on his left knee, which "locked up" while while he was running out a grounder on Tuesday night.</p>
+      </block>
+      <block class="full_text">
+        <p>ANDRE DAWSON of the Boston Red Sox, who has had nine knee operations, is scheduled to undergo arthroscopic surgery on his left knee, which "locked up" while while he was running out a grounder on Tuesday night.</p>
+        <p>The 39-year-old outfielder will undergo the procedure by Dr. ARTHUR PAPPAS, the team physician, today at the University of Massachusetts Medical Center in Worcester. Pappas said it was not clear when Dawson would return. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

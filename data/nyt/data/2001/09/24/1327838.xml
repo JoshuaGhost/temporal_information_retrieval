@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Hard Hit On Bledsoe</title>
+    <meta content="Y24GRE$02" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1327838"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="PRO FOOTBALL: EXTRA POINTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">New York Jets</org>
+        <org class="indexing_service">New England Patriots</org>
+        <person class="indexing_service">Hermoso, Rafael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New England Patriots</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Jets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0DC143AF937A1575AC0A9679C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Hard Hit On Bledsoe</hl1>
+      </hedline>
+      <byline class="print_byline">By RAFAEL HERMOSO</byline>
+      <byline class="normalized_byline">Hermoso, Rafael</byline>
+      <dateline>FOXBORO, Mass., Sept. 23</dateline>
+      <abstract>
+        <p>Extra Points column discusses New York Jets victory over New England Patriots (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Quarterback Drew Bledsoe was not on the field for the New England Patriots' final drive yesterday after being hit in the fourth quarter. Later, he was carried while sitting on a stretcher from the locker room to an ambulance. He was taken to a hospital for observation.</p>
+        <p>Patriots Coach Bill Belichick said that Bledsoe had his ''bell rung'' when hit by Jets linebacker Mo Lewis and defensive end Shaun Ellis while carrying the ball.</p>
+      </block>
+      <block class="full_text">
+        <p>Quarterback Drew Bledsoe was not on the field for the New England Patriots' final drive yesterday after being hit in the fourth quarter. Later, he was carried while sitting on a stretcher from the locker room to an ambulance. He was taken to a hospital for observation.</p>
+        <p>Patriots Coach Bill Belichick said that Bledsoe had his ''bell rung'' when hit by Jets linebacker Mo Lewis and defensive end Shaun Ellis while carrying the ball.</p>
+        <p>Bledsoe returned for the next series, and the only pass he attempted was a shovel pass. Belichick said Bledsoe's handling of that drive led him to switch to Tom Brady. ''I just don't think he was himself,'' Belichick said.</p>
+        <p>Martin Keeps Grinding Away</p>
+        <p>Jets Coach Herman Edwards said in training camp that he planned to get the rookie running back LaMont Jordan, the second-round draft pick, more involved in the offense and ease the load on Curtis Martin. That has yet to happen.</p>
+        <p>Martin, a former Patriot, was on the field for nearly every offensive play today and Jordan did not get a carry. Martin finished with 106 yards on 24 carries -- the 31st 100-yard game of his career and 20th as a Jet -- including an 8-yard touchdown. The Patriots rushed for 107 yards.</p>
+        <p>Tupa Has an Off Day</p>
+        <p>Punter Tom Tupa played for the first time this season after missing the season opener with a hip flexor, which he sustained in training camp while coming back from a hernia. Tupa's most recent injury still appeared to bother him.</p>
+        <p>Tupa averaged 35.4 yards on nine punts, and he sent one only 14 yards in the fourth quarter. New England had consistently good field position.</p>
+        <p>Assorted Injuries</p>
+        <p>Chad Morton, a running back and kick returner, sustained an ankle injury and missed most of the second half. Safety Victor Green left late in the game after being hit in the thigh. Defensive end John Abraham left briefly when he had the wind knocked out of him.</p>
+        <p>Referees Honor Victims</p>
+        <p>After agreeing to a new contract last week, the regular referees returned to work. They also honored the victims of the Sept. 11 terrorist attacks. Officials wore caps of the New York City Police and Fire Departments and the Port Authority Police during the coin toss.</p>
+        <p>Just About Full</p>
+        <p>The Patriots, who employed extra security measures, drew 59,007 fans, just short of the 60,292 capacity.</p>
+        <p>RAFAEL HERMOSO</p>
+        <p>PRO FOOTBALL: EXTRA POINTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

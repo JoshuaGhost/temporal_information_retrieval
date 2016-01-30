@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Album of the Week</title>
+    <meta content="05RECO$03" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/05/arts/05RECO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1260301"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <org class="indexing_service">Pharcyde (Music Group)</org>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4D71E3BF936A35752C0A9679C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Album of the Week</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews Pharcyde recording Plain Rap (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PHARCYDE: ''Plain Rap'' (Edel America/Delicious Vinyl). Sometimes it takes more bravado to speak quietly than to bark. The Pharcyde, from Los Angeles, was part of the early-1990's wave of hip-hop that eased along on jazzy riffs and conversational rhymes before gangsta rap consolidated its commercial dominance.</p>
+        <p>Now that the style has returned as alternative rap, the Pharcyde can call itself a pioneering group. After a sour second album in 1995, it has shrunk from four rappers to a trio -- Tre Hardson (Slimkid), Imani Wilcox and Romye Robinson (Bootie Brown) -- and regained its focus and its sense of humor for ''Plain.'' Its raps leap from genial boasts to aspersions about the music business to praise of ganja to reflections on history and karma; the musicians call themselves ''verbal rhyme visionaries equipped with stacks of facts.''</p>
+      </block>
+      <block class="full_text">
+        <p>PHARCYDE: ''Plain Rap'' (Edel America/Delicious Vinyl). Sometimes it takes more bravado to speak quietly than to bark. The Pharcyde, from Los Angeles, was part of the early-1990's wave of hip-hop that eased along on jazzy riffs and conversational rhymes before gangsta rap consolidated its commercial dominance.</p>
+        <p>Now that the style has returned as alternative rap, the Pharcyde can call itself a pioneering group. After a sour second album in 1995, it has shrunk from four rappers to a trio -- Tre Hardson (Slimkid), Imani Wilcox and Romye Robinson (Bootie Brown) -- and regained its focus and its sense of humor for ''Plain.'' Its raps leap from genial boasts to aspersions about the music business to praise of ganja to reflections on history and karma; the musicians call themselves ''verbal rhyme visionaries equipped with stacks of facts.''</p>
+        <p>And their backup tracks, produced by the rappers themselves and their longtime producer, J-Slick, are as springy as a case of rubber bands. Hovering keyboards touch down in funk, reggae and acid-jazz, topped by unexpected instruments like slide guitar or marimba.</p>
+        <p>A few songs, like ''Misery'' and ''Evolution,'' glide into lushly harmonized choruses.</p>
+        <p>No longer defensive, the Pharcyde has rediscovered how to make innovation sound casual.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="28askk" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/07/28/technology/circuits/28askk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1690522"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Apple Computer Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D6133FF93BA15754C0A9639C8B63" item-length="705" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+        <hl2 class="online_headline">Solving the Mystery of a Mac's Sounds</hl2>
+      </hedline>
+      <byline class="print_byline">By J.D. Biersdorfer</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Solving the Mystery Of a Mac's Sounds</p>
+        <p>Q. I hear the sound of a creaking or slamming door on my Mac OS X computer. Does that mean something or someone has just entered and left my computer? What is happening?</p>
+        <p>A. The Macintosh operating system can play all sorts of system alert sounds, from warning beeps to audio cues that new messages have arrived in your e-mail in-box.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>I hear the sound of a creaking or slamming door on my Mac OS X computer. Does that mean something?</p>
+      </block>
+      <block class="full_text">
+        <p>Solving the Mystery Of a Mac's Sounds</p>
+        <p>Q. I hear the sound of a creaking or slamming door on my Mac OS X computer. Does that mean something or someone has just entered and left my computer? What is happening?</p>
+        <p>A. The Macintosh operating system can play all sorts of system alert sounds, from warning beeps to audio cues that new messages have arrived in your e-mail in-box.</p>
+        <p>Certain software programs have their own sounds as well, like AOL Instant Messenger, which uses the sound of opening and closing doors when people on your buddy list sign in and out of the messenger system.</p>
+        <p>Odds are the sounds are coming from a program you have running on the Mac. Apple's Mail software, for example, can be set to make a whooshing noise when you send off a message.</p>
+        <p>You can see what systemwide alert sounds are used on your Mac by going to the Apple Menu and opening System Preferences. Click on the Sound icon to see what sounds are assigned for which alerts.</p>
+        <p>If you use an instant messenger program or other software that makes its own noises, check the program's preferences or settings area for any sounds that are assigned to play when you perform a certain action. In most cases, you can change these or turn them off entirely.</p>
+        <p>If you're worried about security for your Mac, click the Sharing icon when you're in the System Preferences area, then click on the Firewall tab and make sure the built-in Mac OS X firewall program is turned on.</p>
+        <p>Safely Removing Sinister Spyware</p>
+        <p>Q. Can you damage other programs on your PC when removing spyware? Is there a safe way to do it?</p>
+        <p>A. Because Windows programs can share certain types of software like Dynamic Link Library files, it is possible to impair other programs installed on your computer when trying to get rid of an unwanted application like spyware.</p>
+        <p>Spyware programs range in complexity and overall threat to your computer, as they can do everything from peppering your screen with pop-up advertisements to more sinister acts like tracking and reporting your online movements without your knowledge.</p>
+        <p>Many spyware programs find their way onto your PC along with software you may actually want, like a free game.</p>
+        <p>Instructions for safely removing many common spyware programs are posted at www.pchell.com/support/spyware.shtml. Advice and reviews of antispyware software can be found at www.firewallguide.com/spyware.htm.</p>
+        <p>Most companies making antivirus software now offer antispyware products that can safely remove most spyware and prevent new spyware programs from installing themselves on your computer.</p>
+        <p>But beware of programs that claim to counter spyware but do more harm than good; some even spy on you themselves.</p>
+        <p>There is a list of such deceptive software at www.spywarewarrior.com/rogue--anti-spyware.htm.</p>
+        <p>Mousing Around Without Wires</p>
+        <p>Q. Do you have to have a Bluetooth-enabled computer to use a wireless mouse?</p>
+        <p>A. Bluetooth is short-range wireless technology often used in lieu of the cable connection between computer components. Although Bluetooth is used by a number of wireless keyboard and mouse makers to reduce the clutter and tangle of cords, you can find cordless mice that don't require Bluetooth and cost as little as $20.</p>
+        <p>Companies like Logitech and Kensington make cordless mice that use radio signals instead of Bluetooth to communicate with the computer. Unlike a Bluetooth mouse, which exchanges data with the Bluetooth chip inside the computer, a cordless radio mouse typically comes with a small external receiver that plugs into the computer's U.S.B. port.</p>
+        <p>Once the U.S.B. receiver is plugged in, just put batteries in the mouse, turn it on and the receiver will communicate your mouse clicks to your machine.</p>
+        <p>If your computer does not have Bluetooth but you would like to add the technology to your arsenal, you can find Bluetooth adapters for less than $40 that also plug into a U.S.B. port.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

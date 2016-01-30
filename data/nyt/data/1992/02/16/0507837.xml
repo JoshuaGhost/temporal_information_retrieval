@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="507837"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF163BF935A25751C0A964958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Turmoil at the N.A.A.C.P.</p>
+        <p>Benjamin L. Hooks Jr. said he would step down as head of the civil rights organization, and the president was ousted from its board. Page 24. Poker in the Woods</p>
+        <p>Thousands swarmed toward the blackjack, roulette, craps and poker tables as Connecticut's first casino opened, on Indian land. Page 36. William Schuman, 81, Dies</p>
+        <p>The composer's distinctly American style won two Pulitzer Prizes and guided him as the founding president of Lincoln Center and the president of the Juilliard School. Page 48.</p>
+      </block>
+      <block class="full_text">
+        <p>Turmoil at the N.A.A.C.P.</p>
+        <p>Benjamin L. Hooks Jr. said he would step down as head of the civil rights organization, and the president was ousted from its board. Page 24. Poker in the Woods</p>
+        <p>Thousands swarmed toward the blackjack, roulette, craps and poker tables as Connecticut's first casino opened, on Indian land. Page 36. William Schuman, 81, Dies</p>
+        <p>The composer's distinctly American style won two Pulitzer Prizes and guided him as the founding president of Lincoln Center and the president of the Juilliard School. Page 48.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

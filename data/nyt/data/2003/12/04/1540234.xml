@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tricky Lead That Sank Leaders</title>
+    <meta content="04CARD" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/12/04/crosswords/bridge/04CARD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1540234"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="BRIDGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6DD163DF937A35751C1A9659C8B63" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tricky Lead That Sank Leaders</hl1>
+        <hl2 class="online_headline">Tricky Lead That Sank Leaders</hl2>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Alan Truscott Bridge column on deal played during final of Reisinger Board-a-Match Teams in New Orleans; diagrams (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The final of the Reisinger Board-a-Match Teams in New Orleans Sunday, concluding the American Contract Bridge League's Fall Nationals, was unusual in two respects. It was perhaps the strongest ever played, with 34 of the 54 players owning world titles and many of the others having medals for second and third positions. It was also the most cosmopolitan ever, with 18 contestants from Europe.</p>
+        <p>A team captained by George Jacobs and including four Italian world champions was in the lead throughout, and Roy Welland's group, with three Europeans, was in hot pursuit. But with three deals remaining there were four teams with a chance to take the title. The leading teams each won only one board out of three, and were overtaken. Malcolm Brachman, Eddie Wold, Mike Passell, Eric Greco and Geoff Hampson, all North Americans, won 2.5 out of 3 and snatched a victory. Some 300 spectators watched intently in the Vugraph theater.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The final of the Reisinger Board-a-Match Teams in New Orleans Sunday was perhaps the strongest ever played and also the most cosmopolitan.</p>
+      </block>
+      <block class="full_text">
+        <p>The final of the Reisinger Board-a-Match Teams in New Orleans Sunday, concluding the American Contract Bridge League's Fall Nationals, was unusual in two respects. It was perhaps the strongest ever played, with 34 of the 54 players owning world titles and many of the others having medals for second and third positions. It was also the most cosmopolitan ever, with 18 contestants from Europe.</p>
+        <p>A team captained by George Jacobs and including four Italian world champions was in the lead throughout, and Roy Welland's group, with three Europeans, was in hot pursuit. But with three deals remaining there were four teams with a chance to take the title. The leading teams each won only one board out of three, and were overtaken. Malcolm Brachman, Eddie Wold, Mike Passell, Eric Greco and Geoff Hampson, all North Americans, won 2.5 out of 3 and snatched a victory. Some 300 spectators watched intently in the Vugraph theater.</p>
+        <p>Wold struck a significant blow for his team on the diagramed deal, and it proved decisive. He sat West, playing with Passell, and North and South were Alfredo Versace and Lorenzo Lauria for the Jacobs team. At other tables, a game contract was reached, but the Italians climbed as shown to an optimistic six spades. They were encouraged by West's double of three diamonds, which indicated that a diamond finesse would succeed. The esoteric bidding sequence featured an artificial bid of two no-trump that required South to describe his hand in a specialized fashion.</p>
+        <p>The normal opening lead was the club jack, after which the slam would no doubt have succeeded. But Wold chose a tricky club 10, suggesting that his partner held the jack. Lauria believed that this was a normal lead, to his ultimate downfall. He won with dummy's king, preserving the possibility of subsequently finessing the nine, and led to his spade king. He finessed dummy's jack, losing to East's queen, and a diamond was returned.</p>
+        <p>After winning with dummy's queen, the declarer finessed the heart queen successfully. He crossed to the spade ace and reached his moment of truth in this position.</p>
+        <p>South, still influenced by the opening lead, finessed the club nine. When Wold produced the unexpected jack and led a diamond, the slam failed by two tricks: since the clubs were blocked and dummy had no further entry, a diamond had to be lost.</p>
+        <p>If South had made his slam, as he could have done in various ways, his team would have won the Reisinger title and the Brachman team would have been third.</p>
+        <p>BRIDGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="676859"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">COOPER, GEORGE</person>
+        <person class="indexing_service">BOYER, ALLEN</person>
+        <object.title class="indexing_service">LOST LOVE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DA103CF934A15750C0A962958260" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLEN BOYER</byline>
+      <byline class="normalized_byline">BOYER, ALLEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRUE CRIME  LOST LOVE  A True Story of Passion, Murder,  and Justice in Old New York.  By George Cooper. Pantheon, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>TRUE CRIME  LOST LOVE  A True Story of Passion, Murder,  and Justice in Old New York.  By George Cooper. Pantheon, $23.</p>
+        <p>On Nov. 25, 1869, in the offices of Horace Greeley's New York Tribune, a hard-drinking ne'er-do-well named Daniel McFarland shot and mortally wounded Albert Richardson, one of the news paper's star reporters. A woman was the cause: McFarland's much-abused wife, Abby, who had just obtained a scandalous divorce, and who then married Richardson on his deathbed. "The Richardson-McFarland case became a cause celebre," George Cooper, a former professor at Columbia Law School, writes in "Lost Love." "As with all such matters, the cause was not the individuals involved." The issues were marriage, divorce and the sanctity of the family -- which defense counsel twisted into free love, adultery and loose morality among the fast-living "Tribune set." No witness ever proved that Albert and Abby went beyond chastely pledging their love. However, by pleading temporary insanity for McFarland, his lawyers opened up the record to all the rumors, gossip and suspicions that could have been preying on his mind. Meanwhile, Abby's side of the story -- how McFarland had ignored her, beaten her, threatened her, stalked her and cheated on her -- was silenced by the court's ruling that a woman could not testify against her husband even if they were divorced. She was pilloried in the press. Mr. Cooper tells this story skillfully, weaving together courtroom testimony with press reports, Abby's letters and Richardson's news dispatches. He keeps a quiet, consistent focus on the sad human drama at the heart of the scandal. ALLEN BOYER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

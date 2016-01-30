@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="613271"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3D6113DF936A35755C0A965958260" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baseball American League  DETROIT TIGERS -- Activated John Doherty, pitcher, from the 15-day disabled list. Placed Rob Deer, outfielder, on the 15-day disabled list. National League</p>
+      </block>
+      <block class="full_text">
+        <p>Baseball American League  DETROIT TIGERS -- Activated John Doherty, pitcher, from the 15-day disabled list. Placed Rob Deer, outfielder, on the 15-day disabled list. National League</p>
+        <p>CINCINNATI REDS -- Signed Pat Watkins, outfielder, and assigned him to Billings of the Pioneer League. Agreed to terms with Samuel Osorio, outfielder. Sent Todd Ruyak, pitcher, to the Cleveland Indians to complete the trade for Kevin Wickander, pitcher.</p>
+        <p>PITTSBURGH PIRATES -- Signed Charles Peterson, outfielder; Charles Rice, first baseman; Derek Swafford, second baseman, and Kerry Ward and Joe Serna, pitchers.</p>
+        <p>ST. LOUIS CARDINALS -- Placed Omar Olivares, pitcher, on the 15-day disabled list. Recalled Tom Urbani, pitcher, from Louisville of the American Association.</p>
+        <p>SAN FRANCISCO GIANTS -- Placed Craig Colbert, infielder-catcher, on the 15-day disabled list. Moved John Patterson, infielder, from the 15- to the 60-day disabled list. Purchased the contract of Andy Allanson, catcher, from Phoenix of the Pacific Coast League. Eastern League  NEW HAVEN RAVENS -- Named Jonathan Lee assistant general manager. Football  National Football League  NFL -- Announced an arbitrator granted free-agent status to Eddie Brown, Cincinnati Bengals wide receiver.</p>
+        <p>CHICAGO BEARS -- Waived Ron Rivera, linebacker; Mark Govi, guard, and Stephon Pace, safety.</p>
+        <p>GREEN BAY PACKERS -- Signed Mark Clayton, wide receiver. Waived Tyrone Shavers and Anthony Tatlton, wide receivers, and Steve Slay, offensive lineman.</p>
+        <p>LOS ANGELES RAMS -- Signed Sean LaChapelle, wide receiver.</p>
+        <p>PITTSBURGH -- Waived Bubby Brister, quarterback.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

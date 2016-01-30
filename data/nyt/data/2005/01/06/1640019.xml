@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   WHITEHURST, ELOUISE</title>
+    <meta content="DN010605" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1640019"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">WHITEHURST, ELOUISE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5D71039F935A35752C0A9639C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   WHITEHURST, ELOUISE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHITEHURST -- Elouise. NewYork-Presbyterian Hospital mourns the passing of Elouise Whitehurst, a founding member of our Ambulatory Care Network advisory board. Elouise was a dignified lady whose commitment to the Washington Heights/Inwood communities was boundless and whose tireless efforts to improve the lives of our residents had a positive impact. She will be sorely missed. Jaclyn Mucaria, Helen Morik, Vice Presidents</p>
+      </block>
+      <block class="full_text">
+        <p>WHITEHURST -- Elouise. NewYork-Presbyterian Hospital mourns the passing of Elouise Whitehurst, a founding member of our Ambulatory Care Network advisory board. Elouise was a dignified lady whose commitment to the Washington Heights/Inwood communities was boundless and whose tireless efforts to improve the lives of our residents had a positive impact. She will be sorely missed. Jaclyn Mucaria, Helen Morik, Vice Presidents</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

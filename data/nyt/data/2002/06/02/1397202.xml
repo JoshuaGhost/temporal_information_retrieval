@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anastasia Efimova, Boris Dolgonos</title>
+    <meta content="02EFIM" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/06/02/fashion/weddings/02EFIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1397202"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">EFIMOVA, ANASTASIA</person>
+        <person class="indexing_service">DOLGONOS, BORIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7D9163AF931A35755C0A9649C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anastasia Efimova, Boris Dolgonos</hl1>
+        <hl2 class="online_headline">Anastasia Efimova and Boris Dolgonos</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anastasia Efimova, the daughter of Tatiana Nazarova of Moscow and the late Yuri Efimov, was married last evening to Boris Dolgonos, a son of Galina and Eugene Dolgonos of Oceanside, N.Y. Cantor Kerry Ben-David officiated at the Oaks, a conference center in New Rochelle, N.Y.</p>
+        <p>The bride and bridegroom, who were both born in Moscow, are associates specializing in corporate law at New York law firms. She works at Willkie Farr &amp; Gallagher; he works at Weil, Gotshal &amp; Manges.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Anastasia Efimova, Boris Dolgonos Anastasia Efimova, the daughter of Tatiana Nazarova of Moscow and the late Yuri Efimov, was married last evening to Boris Dolgonos, a son of Galina and Eugene Dolgonos of Oceanside,N.Y. Cantor Kerry Ben-David officiated at the Oaks, a conference center in New Rochelle, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Anastasia Efimova, the daughter of Tatiana Nazarova of Moscow and the late Yuri Efimov, was married last evening to Boris Dolgonos, a son of Galina and Eugene Dolgonos of Oceanside, N.Y. Cantor Kerry Ben-David officiated at the Oaks, a conference center in New Rochelle, N.Y.</p>
+        <p>The bride and bridegroom, who were both born in Moscow, are associates specializing in corporate law at New York law firms. She works at Willkie Farr &amp; Gallagher; he works at Weil, Gotshal &amp; Manges.</p>
+        <p>The bride, 29, received a law degree from the Moscow State University and a Master of Laws from New York University. The bridegroom, 32, graduated from Harvard and received his law degree from the University of Virginia.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

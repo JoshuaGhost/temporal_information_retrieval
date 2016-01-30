@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   TERRANOVA, , JANE (BRIEFF)</title>
+    <meta content="DN070103" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1501457"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">TERRANOVA, , JANE (BRIEFF)</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E6DE123AF932A35754C0A9659C8B63" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   TERRANOVA, , JANE (BRIEFF)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TERRANOVA--Jane (Brieff) of Scituate, MA, age 54 years on Sunday, June 29th, 2003. Loving mother of Michael Terranova. Beloved daughter of Paul &amp; Charlotte (Goodman) Brieff. Dear sister of Robert Brieff &amp; his wife June. Graveside services at Mt. Ararat, Farmingdale, LI on Wednesday at 2:30 PM. &gt;&gt;AD#</p>
+      </block>
+      <block class="full_text">
+        <p>TERRANOVA--Jane (Brieff) of Scituate, MA, age 54 years on Sunday, June 29th, 2003. Loving mother of Michael Terranova. Beloved daughter of Paul &amp; Charlotte (Goodman) Brieff. Dear sister of Robert Brieff &amp; his wife June. Graveside services at Mt. Ararat, Farmingdale, LI on Wednesday at 2:30 PM. &gt;&gt;AD#</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

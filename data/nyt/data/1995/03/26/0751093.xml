@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Credit Rating</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="751093"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="MOVIE TITLES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DE113BF935A15750C0A963958260" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Credit Rating</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:  The article about movie titles "It's Right on the Tip of Your Tongue"  [ March 5 ]  explored a subject that many who have worked in the industry have tussled with, too.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:  The article about movie titles "It's Right on the Tip of Your Tongue"  [ March 5 ]  explored a subject that many who have worked in the industry have tussled with, too.</p>
+        <p>When I was a kid writer at Warner Brothers, Brynie Foy, who churned out 25 B pictures a year, put it as intelligently and succinctly as anyone: "Turhan Bey and Toby Wing in 'South of Suez' is sure a lousy title. But Clark Cable and Hedy Lamarr in 'South of Suez' is a hell of a title." ROBERT BLEES Los Angeles  MOVIE TITLES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

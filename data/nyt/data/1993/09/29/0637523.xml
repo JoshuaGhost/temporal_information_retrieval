@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mashburn Gives $500,000 to School Fund</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="637523"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">UNIVERSITY OF KENTUCKY</org>
+        <person class="indexing_service">MASHBURN, JAMAL</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D9143CF93AA1575AC0A965958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mashburn Gives $500,000 to School Fund</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JAMAL MASHBURN, who was an All-American at Kentucky, said yesterday that he was donating $500,000 to a university scholarship fund.</p>
+        <p>"I see this as my chance to give something back to the people who have helped me and to help those students who may not otherwise get a chance," Mashburn said during a news conference following the U.K. Athletics Association meeting in Lexington.</p>
+      </block>
+      <block class="full_text">
+        <p>JAMAL MASHBURN, who was an All-American at Kentucky, said yesterday that he was donating $500,000 to a university scholarship fund.</p>
+        <p>"I see this as my chance to give something back to the people who have helped me and to help those students who may not otherwise get a chance," Mashburn said during a news conference following the U.K. Athletics Association meeting in Lexington.</p>
+        <p>Mashburn played three seasons at Kentucky, leading the Wildcats to the Final Four in April. He decided to forgo his senior season and was the fourth pick in the college draft, chosen by the Dallas Mavericks.</p>
+        <p>Mashburn hasn't reached a contract agreement with the Mavericks, but has signed a five-year, $5 million deal with Fila, an Italian shoe and sportswear company.</p>
+        <p>The scholarship program, called "Kentucky Excel," will be administered by the Office for Minority Affairs. The program will identify qualified Fayette County students at the end of their eighth-grade year, and match them with Kentucky student athletes and alumni in mentor relationships, with full tuition scholarships being the end reward. (AP)  SPORTS PEOPLE: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

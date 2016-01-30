@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Creating Layered Sounds To Match Layered Animations</title>
+    <meta content="RV010331" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1456501"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="MUSIC IN REVIEW: AVANT-GARDE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Pareles, Jon</person>
+        <person class="indexing_service">Ostertag, Bob</person>
+        <person class="indexing_service">Hebert, Pierre</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EEDA1231F937A25752C0A9659C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Creating Layered Sounds To Match Layered Animations</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews concert by Bob Ostertag, electronic composer, and Pierre Hebert, animator, at Merkin Concert Hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Between Science and Garbage'  Merkin Concert Hall</p>
+        <p>Junk food and trash were the makings of ''Between Science and Garbage'' by Bob Ostertag, an electronic composer, and Pierre Hébert, an animator, on Thursday night. The music started with Mr. Ostertag popping the top of a Coke can; he handed the can to Mr. Hébert, who put its image on screen, to be combined with images of a swinging watch, an apple and a computer motherboard that looked like a city seen from the air. There were also drawings that Mr. Hébert made on the spot of a man falling, reaching for the apple or diving into a garbage can.</p>
+      </block>
+      <block class="full_text">
+        <p>'Between Science and Garbage'  Merkin Concert Hall</p>
+        <p>Junk food and trash were the makings of ''Between Science and Garbage'' by Bob Ostertag, an electronic composer, and Pierre Hébert, an animator, on Thursday night. The music started with Mr. Ostertag popping the top of a Coke can; he handed the can to Mr. Hébert, who put its image on screen, to be combined with images of a swinging watch, an apple and a computer motherboard that looked like a city seen from the air. There were also drawings that Mr. Hébert made on the spot of a man falling, reaching for the apple or diving into a garbage can.</p>
+        <p>Meanwhile Mr. Ostertag and his computer layered pop-tops, fizzes, rubber-duck squeaks and the crunch of chips into assemblages that could be sparse and funny. Then he transformed them into thick, rumbling, throbbing soundscapes like distant ominous factories. The imagery grew apocalyptic: a city buried or perhaps bombed, a man perpetually plunging and reappearing. Despite its comic moments, the piece left eerie memories.</p>
+        <p>The other half of the program, which was part of the World Music Institute's ''Interpretations'' series, presented recent and new compositions by the keyboardist Anthony Coleman, a leading downtown improviser. His pieces set out, with mixed results, to crystallize the textural serendipities of group interaction. ''Our Beautiful Garden Is Open'' was a reverie with an elusive underlying pulse and a rich, abstracted bluesiness, and ''I Control the Sugar'' was an ingenious mesh of not-quite-repeating lines that found a new route for every cycle.</p>
+        <p>Two other pieces, ''Mise en Abime'' and ''Pushy Blueness,'' were so attenuated that they nearly vanished into their own pauses. Mr. Coleman's attentive ensemble included Doug Wieselman on clarinets and guitar, Mark Dresser on bass and Jim Pugliese on percussion.</p>
+        <p>JON PARELES</p>
+        <p>MUSIC IN REVIEW: AVANT-GARDE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

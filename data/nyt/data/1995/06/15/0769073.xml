@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Good for the Masses</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home DeskHome Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="769073"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERIOR DESIGN</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D6143FF936A25755C0A963958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Good for the Masses</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Home Section:</p>
+        <p>I was delighted to see "Design Help, Free for All" on May 25. It's about time that the home retail market is making design services available to its customers. Design does not have to be perceived as something left to an elite cadre of professionals. Design can bring delight to people's lives by giving them problem-solving skills, enhancing visual and spatial skills and providing an opportunity for unique personal expression.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Home Section:</p>
+        <p>I was delighted to see "Design Help, Free for All" on May 25. It's about time that the home retail market is making design services available to its customers. Design does not have to be perceived as something left to an elite cadre of professionals. Design can bring delight to people's lives by giving them problem-solving skills, enhancing visual and spatial skills and providing an opportunity for unique personal expression.</p>
+        <p>Design help as a value-added service is a great marketing tool for the home retail market. Let's hope more retailers take on these kinds of services. It will make for a better-educated consumer and a more responsive, service-oriented retailer. We need both.  SUE COHN  Special Projects Coordinator Leonard R. Stern School of Business New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

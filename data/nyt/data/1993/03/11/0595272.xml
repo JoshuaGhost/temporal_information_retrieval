@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Female P.A. Voice</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="595272"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">WOMEN</classifier>
+        <org class="indexing_service">SAN FRANCISCO GIANTS</org>
+        <person class="indexing_service">DAVIS, SHERRY</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Francisco Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D6153AF932A25750C0A965958260" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Female P.A. Voice</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The San Francisco Giants made baseball history yesterday by picking a woman as their public-address announcer. SHERRY DAVIS, a legal secretary from Walnut Creek, Calif., will be the first full-time female stadium announcer in major league history, according to team officials.</p>
+        <p>"I was surprised, but I hope that other women will try out now," said Davis, who beat out two finalists in auditions at Candlestick Park.</p>
+      </block>
+      <block class="full_text">
+        <p>The San Francisco Giants made baseball history yesterday by picking a woman as their public-address announcer. SHERRY DAVIS, a legal secretary from Walnut Creek, Calif., will be the first full-time female stadium announcer in major league history, according to team officials.</p>
+        <p>"I was surprised, but I hope that other women will try out now," said Davis, who beat out two finalists in auditions at Candlestick Park.</p>
+        <p>She was the only woman among the nine competitors called back for the second round of auditions. Almost 500 people showed up earlier this month to try out for the job. Eight were women.</p>
+        <p>Davis, who said she was in her early 40's, has a theater and voice background that goes back nearly 25 years. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CURRENCY</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="656787"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDE1438F93AA25751C1A965958260" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CURRENCY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last</p>
+        <p>Prior</p>
+        <p>Year</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>Ago</p>
+        <p>Japanese Yen110.17</p>
+        <p>109.20</p>
+        <p>123.07</p>
+        <p>per Dollar</p>
+        <p>German Mark1.7092</p>
+        <p>1.6973</p>
+        <p>1.5641</p>
+        <p>per Dollar</p>
+        <p>Canadian Dollar1.3398</p>
+        <p>1.3293</p>
+        <p>1.2753</p>
+        <p>per U.S. Dollar</p>
+        <p>British Pound1.4860</p>
+        <p>1.4945</p>
+        <p>1.5560</p>
+        <p>U.S. Dollar per British Pound</p>
+        <p>Gold387.10</p>
+        <p>$383.50</p>
+        <p>$337.00</p>
+        <p>Republic National Bank</p>
+        <p>Currency: Friday NY Close</p>
+      </block>
+      <block class="full_text">
+        <p>Last</p>
+        <p>Prior</p>
+        <p>Year</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>Ago</p>
+        <p>Japanese Yen110.17</p>
+        <p>109.20</p>
+        <p>123.07</p>
+        <p>per Dollar</p>
+        <p>German Mark1.7092</p>
+        <p>1.6973</p>
+        <p>1.5641</p>
+        <p>per Dollar</p>
+        <p>Canadian Dollar1.3398</p>
+        <p>1.3293</p>
+        <p>1.2753</p>
+        <p>per U.S. Dollar</p>
+        <p>British Pound1.4860</p>
+        <p>1.4945</p>
+        <p>1.5560</p>
+        <p>U.S. Dollar per British Pound</p>
+        <p>Gold387.10</p>
+        <p>$383.50</p>
+        <p>$337.00</p>
+        <p>Republic National Bank</p>
+        <p>Currency: Friday NY Close</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

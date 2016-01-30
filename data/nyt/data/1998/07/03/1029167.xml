@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Asteroid May Indicate Hidden Threat</title>
+    <meta content="Y03AST$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1029167"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Asteroids</classifier>
+        <org class="indexing_service">University of Hawaii</org>
+        <person class="indexing_service">Browne, Malcolm W</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD173EF930A35754C0A96E958260" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Asteroid May Indicate Hidden Threat</hl1>
+      </hedline>
+      <byline class="print_byline">By MALCOLM W. BROWNE</byline>
+      <byline class="normalized_byline">Browne, Malcolm W</byline>
+      <abstract>
+        <p>Astronomers at University of Hawaii discover asteroid that they believe represents a hitherto undetected type, a type that could hit Earth without warning (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Astronomers at the University of Hawaii have discovered an asteroid that they believe represents a hitherto undetected type, a type that could hit Earth without warning.</p>
+        <p>In a press release distributed yesterday, Dr. David Tholen and a graduate student, Robert Whiteley, reported that the asteroid circles the Sun entirely within Earth's orbit. All other known Earth-approaching asteroids travel in orbits that lie at least partly outside Earth's orbit.</p>
+      </block>
+      <block class="full_text">
+        <p>Astronomers at the University of Hawaii have discovered an asteroid that they believe represents a hitherto undetected type, a type that could hit Earth without warning.</p>
+        <p>In a press release distributed yesterday, Dr. David Tholen and a graduate student, Robert Whiteley, reported that the asteroid circles the Sun entirely within Earth's orbit. All other known Earth-approaching asteroids travel in orbits that lie at least partly outside Earth's orbit.</p>
+        <p>The astronomers calculated that 1998 DK36, as the asteroid was designated, is about 40 yards in diameter, and that if it hit Earth it would have about the same effect as that of the asteroid that exploded above the Tunguska River in Siberia in 1908, flattening a vast tract of forest.</p>
+        <p>Dr. Tholen said that 1998 DK36 posed no apparent threat to Earth,  but that an asteroid orbit entirely within Earth's orbit opened the possibility that dangerous asteroids might exist where astronomers did not normally look for them.</p>
+        <p>''All other efforts to discover asteroids on a collision course with the Earth are being directed at a region of the sky almost opposite the Sun,'' Dr. Tholen said. ''The significance of this discovery is that we would have otherwise never found this new asteroid because it apparently doesn't travel to that region of the sky.''</p>
+        <p>But Dr. Gareth Williams of the Central Bureau for Astronomical Telegrams in Cambridge, Mass., cast doubt on the assertion that the asteroid orbits the Sun entirely within Earth's orbit.</p>
+        <p>''That orbital calculation was based on just two brief observations of the object, one lasting seven minutes on the night of Feb. 23, and the other on Feb. 24 for four minutes,'' Dr. Williams said. ''Of the solutions we plotted, some showed the asteroid's orbit to be entirely within the Earth's orbit, but others showed part of the orbit outside the Earth's orbit.''</p>
+        <p>Tracking the asteroid, which was on the far side of the Sun, was difficult using the Mauna Kea telescope, Dr. Williams said, because of its angular proximity to the Sun; only a few minutes were available for observations. He said the announcement about the asteroid ''was a bit premature.''</p>
+        <p>In any case, Dr. Tholen said, ''1998 DK36 is nothing to lose sleep over. It's the ones we haven't found that are of concern.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

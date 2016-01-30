@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Humana reports earnings for Qtr to May 31</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="537209"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5D61F38F933A15755C0A964958260" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Humana reports earnings for Qtr to May 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Humana (NYSE)</p>
+        <p>Qtr to May 31</p>
+        <p>1992</p>
+        <p>1991</p>
+        <p>Revenue</p>
+        <p>1,627,000,000</p>
+        <p>1,593,000,000</p>
+        <p>Net inc</p>
+        <p>75,000,000</p>
+        <p>101,000,000</p>
+        <p>Share earns</p>
+        <p>.48</p>
+        <p>.64</p>
+        <p>Shares outst</p>
+        <p>158,514,913</p>
+        <p>157,575,216</p>
+        <p>9mo rev</p>
+        <p>4,815,000,000</p>
+        <p>4,302,000,000</p>
+        <p>Net inc</p>
+        <p>237,000,000</p>
+        <p>263,000,000</p>
+        <p>Share earns</p>
+        <p>1.50</p>
+        <p>1.68</p>
+        <p>Shares outst</p>
+        <p>158,445,007</p>
+        <p>157,118,430</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

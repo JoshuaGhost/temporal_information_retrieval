@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canadians Issue Apology Over Jet Crash Report</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="517966"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">LA GUARDIA AIRPORT (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <location class="indexing_service">CANADA</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">FEDERAL AVIATION ADMINISTRATION (FAA)</org>
+        <org class="indexing_service">FOKKER NV</org>
+        <person class="indexing_service">CUSHMAN, JOHN H JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DF1131F932A05750C0A964958260" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canadians Issue Apology Over Jet Crash Report</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.,</byline>
+      <byline class="normalized_byline">CUSHMAN, JOHN H JR</byline>
+      <dateline>WASHINGTON, March 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Canadian officials apologized today for suggesting that the crash of USAir Flight 405 might have been averted if Federal aviation authorities had read a Canadian report concerning icing on the type of jet that crashed. A Canadian official said today that the authorities in this country had not seen the report because the Canadians had neglected to send it.</p>
+        <p>In a letter to the Federal Aviation Administration, the Canadian commission investigating the crash of a jet three years ago in Dryden, Ontario, acknowledged that the commission had never sent its interim report to other agencies, which is standard practice.</p>
+      </block>
+      <block class="full_text">
+        <p>Canadian officials apologized today for suggesting that the crash of USAir Flight 405 might have been averted if Federal aviation authorities had read a Canadian report concerning icing on the type of jet that crashed. A Canadian official said today that the authorities in this country had not seen the report because the Canadians had neglected to send it.</p>
+        <p>In a letter to the Federal Aviation Administration, the Canadian commission investigating the crash of a jet three years ago in Dryden, Ontario, acknowledged that the commission had never sent its interim report to other agencies, which is standard practice.</p>
+        <p>The Ontario crash involved a Fokker F28, the same kind of jet that crashed at La Guardia Airport last week, and both planes took off in freezing snowy weather after being de-iced. Although the cause of the La Guardia crash has not been officially determined, icing of the plane's wings is the leading theory. Getting Copies of the Report</p>
+        <p>Federal Aviation Administration officials said they should not have been expected to have studied the Canadian recommendations, because the report was not officially sent to them. But others in the industry said they had heard of the report, or obtained copies of it, when it was issued.</p>
+        <p>A spokesman for the Air Line Pilots Association, the union representing United States pilots, said a union safety expert had obtained a copy of the report from a colleague. But Patricia Goldman, a spokeswoman for USAir, said it appeared that no senior safety officials at the airline had received the report from the Canadians.</p>
+        <p>Last week, Justice Virgil P. Moshansky, the head of the Canadian commission, said that "if the report had been read, there is more than adequate information to have pre-empted this accident."</p>
+        <p>But today a spokesman for the commission, Gordon A. Haugh, said in a letter to the F.A.A. that "no copies of our interim report of December 1990 were forwarded by the commission to any agency of the United States Government."</p>
+        <p>The earlier assertion that the report had been sent to United States officials was reported Friday in The New York Times.</p>
+        <p>The Canadian report called for a series of actions to upgrade de-icing equipment and procedures at Canadian airports. The Federal Aviation Administration is now considering similar changes at United States airports in the wake of the USAir crash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

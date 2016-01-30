@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Former Money Manager Settles S.E.C. Case</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="811970"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITIES AND COMMODITIES VIOLATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINES(PENALTIES)</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCLOSURE OF INFORMATION</classifier>
+        <org class="indexing_service">INVESCO FUNDS GROUP INC</org>
+        <org class="indexing_service">SECURITIES AND EXCHANGE COMMISSION(SEC) SECURITIES &amp; EXCHANGE COMMISSION</org>
+        <person class="indexing_service">KAWESKE, JOHN J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EED71039F93BA15752C1A963958260" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Former Money Manager Settles S.E.C. Case</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>WASHINGTON, Nov. 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John J. Kaweske, a former money manager for Invesco Funds Group, agreed today to pay $115,000 to settle allegations with the Securities and Exchange Commission that he failed to properly disclose personal securities trades and other transactions.</p>
+        <p>The S.E.C. maintained in a complaint filed in February that Mr. Kaweske, among other things, deceived Invesco management and fund shareholders when he did not report 47 personal securities transactions made for himself and 10 transactions in the name of his wife, Pamela Kaweske, and when he concealed from Invesco managers and holders that he was a founder, director and holder of the ID Biomedical Corporation, a Canadian company.</p>
+      </block>
+      <block class="full_text">
+        <p>John J. Kaweske, a former money manager for Invesco Funds Group, agreed today to pay $115,000 to settle allegations with the Securities and Exchange Commission that he failed to properly disclose personal securities trades and other transactions.</p>
+        <p>The S.E.C. maintained in a complaint filed in February that Mr. Kaweske, among other things, deceived Invesco management and fund shareholders when he did not report 47 personal securities transactions made for himself and 10 transactions in the name of his wife, Pamela Kaweske, and when he concealed from Invesco managers and holders that he was a founder, director and holder of the ID Biomedical Corporation, a Canadian company.</p>
+        <p>In the settlement, "there was no finding of wrongdoing," said Andrew J. Levander, Mr. Kaweske's attorney. After an "exhaustive investigation" of the Kaweskes, the S.E.C. "doesn't contend that Mr. Kaweske improperly received or misappropriated a single cent," Mr. Levander said. "Rather the essence of the S.E.C.'s case was that Mr. Kaweske didn't adequately or timely disclose otherwise perfectly lawful transactions."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

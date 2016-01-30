@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FINANCE BRIEFS</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="743380"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D71739F936A25751C0A963958260" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FINANCE BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Debt  * Federal National Mortgage Association, known as Fannie Mae, is selling $200 million medium-term notes due in 1998 through CS First Boston Corp. The notes, which are callable in a year, carry an interest rate of 7.84 percent and are priced at par. Also through CS First Boston, Fannie Mae is selling $100 million in medium-term notes due in 2000. Callable in three years, the notes carry an interest rate of 7.89 percent and are priced at par.</p>
+      </block>
+      <block class="full_text">
+        <p>Debt  * Federal National Mortgage Association, known as Fannie Mae, is selling $200 million medium-term notes due in 1998 through CS First Boston Corp. The notes, which are callable in a year, carry an interest rate of 7.84 percent and are priced at par. Also through CS First Boston, Fannie Mae is selling $100 million in medium-term notes due in 2000. Callable in three years, the notes carry an interest rate of 7.89 percent and are priced at par.</p>
+        <p>* Federal National Mortgage Association is selling $100 million in medium-term notes due in 1997 through Fuji Securities Inc. The notes, which are callable in six months, carry an interest rate of 7.72 percent and are priced at par.</p>
+        <p>* Massachusetts Health and Educational Facilities Authority is selling $31.1 million of tax-exempt revenue bonds through Goldman, Sachs &amp; Co. The bonds are priced to yield a maximum of 6.875 percent for an issue due in 2015 and 6.75 percent in 2010. For short-maturity serial bonds, yields range from 5.35 percent in 1996 to 6.35 percent in 2005. The bonds are rated A- by Standard &amp; Poor's Corp.</p>
+        <p>* Norwest Financial Inc., Des Moines, is selling $150 million of notes due in 2002 through Merrill Lynch &amp; Co. The notes are priced at 99.718 to yield 7.928 percent. The issue, which is noncallable, is rated Aa3 by Moody's Investors Service, AA- by S.&amp; P, AA by Duff &amp; Phelps and AA+ by Fitch.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Toast to Breakfast</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="591678"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOD</classifier>
+        <person class="indexing_service">WEAVER, WILLIAM</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D7113BF932A15751C0A965958260" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Toast to Breakfast</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: "A Toast to Breakfast" made me smile as I remembered a breakfast in a cafeteria in Budva, Yugoslavia, where we observed workers eating huge bowls of beef stew as their start-of-the day meal. When it happened, over 20 years ago, it gave us permission to rethink the concept of breakfast.  Nowadays we sometimes have leftover broiled salmon, with salad, as well as other foods left from the last day or two . . . not enough for another dinner, but more than adequate for breakfast.  PEARL GREENBERG New York, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: "A Toast to Breakfast" made me smile as I remembered a breakfast in a cafeteria in Budva, Yugoslavia, where we observed workers eating huge bowls of beef stew as their start-of-the day meal. When it happened, over 20 years ago, it gave us permission to rethink the concept of breakfast.  Nowadays we sometimes have leftover broiled salmon, with salad, as well as other foods left from the last day or two . . . not enough for another dinner, but more than adequate for breakfast.  PEARL GREENBERG New York, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

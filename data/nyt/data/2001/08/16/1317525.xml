@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ricochet Network Lived Fast and Died Young</title>
+    <meta content="16MODE" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/08/16/technology/circuits/16MODE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1317525"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <org class="indexing_service">Metricom Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <org class="online_producer">Metricom Incorporated</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1DD173EF935A2575BC0A9679C8B63" item-length="821" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ricochet Network Lived Fast and Died Young</hl1>
+        <hl2 class="online_headline">Ricochet Network Lived Fast and Died Young</hl2>
+      </hedline>
+      <byline class="print_byline">By CATHERINE GREENMAN</byline>
+      <abstract>
+        <p>Ricochet wireless network is shut down by operator, Metricom, a month after filing for bankrupcy; its 50,000 customers will be hard pressed to find comparable wireless Web connection for only for $69 to $79 a month, plus $200 to $300 for wireless modem that connected to most desktop, laptop or hand-held computers; analysts say that building company's wireless network, which required about seven radio transceivers per square mile, was so expensive that scope of Metricom's service was limited to 15 metropolitan areas and that presence in top 50 markets is needed in order to be relied on by mobile users; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the Ricochet wireless network, more than 50,000 customers believed they had found fast, reliable Internet access. But last week they became the latest victims of the telecom shakeout as Ricochet's operator, Metricom, shut the network down, a month after filing for bankruptcy.</p>
+        <p>For $69 to $79 a month, plus $200 to $300 for a Ricochet wireless modem that connected to most desktop, laptop or hand-held computers, Ricochet users could get online and browse the Web from anywhere, without dialing out on a phone line. What's more, Ricochet's access rates of 128 kilobits per second were twice those of regular phone lines.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A number of factors caused Metricom, maker of the Richochet wireless network, to fail. But the failure has left customers grasping for alternatives</p>
+      </block>
+      <block class="full_text">
+        <p>IN the Ricochet wireless network, more than 50,000 customers believed they had found fast, reliable Internet access. But last week they became the latest victims of the telecom shakeout as Ricochet's operator, Metricom, shut the network down, a month after filing for bankruptcy.</p>
+        <p>For $69 to $79 a month, plus $200 to $300 for a Ricochet wireless modem that connected to most desktop, laptop or hand-held computers, Ricochet users could get online and browse the Web from anywhere, without dialing out on a phone line. What's more, Ricochet's access rates of 128 kilobits per second were twice those of regular phone lines.</p>
+        <p>''My Ricochet let me to do a lot of things that I used to only do at home or at my office,'' said Ryan Baloy, a personal trainer in Los Angeles who signed up with Ricochet a month ago. ''It made me look forward to going somewhere else and just getting some work done in a different setting.''</p>
+        <p>But $1 billion in debt, Metricom had failed to raise enough capital to keep the service running. An auction being held today in San Jose, Calif., will liquidate the company's assets.</p>
+        <p>A number of factors caused Metricom's business to fail, analysts say. For one thing, the company's wireless network was based on a proprietary microcellular technology that used radio transceivers installed on top of telephone poles -- about seven per square mile in the areas Metricom served. Because building the network was so expensive, the scope of Metricom's service was limited to 15 metropolitan areas, including New York, Dallas and Los Angeles. ''You need to be in the top 50 markets in order to be relied on by mobile users,'' said Phillip Redman, research director at Gartner Inc., a technology research firm based in Stamford, Conn.</p>
+        <p>The demise of Ricochet has left former users trying to find a service with comparable connection speeds and pricing. Wireless companies like Wireless WebConnect, GoAmerica and OmniSky, which sold Ricochet service agreements, are promoting cellular digital packet data, or C.D.P.D., another data transmission technology for cell phones. GoAmerica, for example, offers a monthly C.D.P.D. plan for $59.95, plus 8 cents a minute for roaming.</p>
+        <p>But C.D.P.D.'s access speeds of 19.2 kilobits per second are a dismal and potentially expensive alternative for Ricochet users, who are used to unlimited service at 128 kilobits a second. ''C.D.P.D. is slow and they charge for roaming, so you can end up with huge fees,'' said Steve Ledwith, who owns a Web-host company in San Jose. ''At 19.2, it would be quicker to drive somewhere and find a real computer.''</p>
+        <p>Next-generation phone networks, in the works from companies like VoiceStream, Verizon and AT&amp;T, will offer higher data transmission speeds than C.D.P.D., but they are not expected until later this year and are also likely to include roaming charges.</p>
+        <p>Although many Ricochet users hope that Metricom finds a new owner at today's auction, analysts doubt that the service will be bought and maintained by another company.</p>
+        <p>''With capital market conditions the way they are, I think it's really unlikely,'' said Scott Ellison, who is director of wireless mobile communication at the Massachusetts-based research firm IDC and works out of its New York office. ''High-speed wireless data networks are out of favor because similar services are expected from larger companies like AT&amp;T Wireless, Cingular and Verizon.''</p>
+        <p>Companies offering high-speed Internet access who do not have affiliations with larger providers face the biggest challenges, Mr. Ellison said, even though customers stand to benefit from a wider playing field. ''It's the new market entrants that are for the most part not making it,'' he said. ''And that means fewer choices for the consumer.''</p>
+        <p>Some resellers are encouraging a wait-and-see attitude with their customers. ''We've stopped billing Ricochet subscribers and are urging them to hold on to their modems and see what happens beyond Aug. 16,'' said Nancy Frisch, a spokeswoman for Wireless WebConnect, which is based in Dallas.</p>
+        <p>Some people questioned whether the Ricochet service was too expensive for consumers, but many former users said they would pay more to keep the service running.</p>
+        <p>Mike Darnell, owner of Mike's Hobby Shop in Dallas, bought a year's subscription to Ricochet through Wireless WebConnect and had three months remaining when his modem lights stopped blinking last Thursday. He asked about a refund on his unused service but has not heard back. ''The contract of service is the least of my worries,'' Mr. Darnell said. ''I would gladly pay an additional $500 at this time to get the service back.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

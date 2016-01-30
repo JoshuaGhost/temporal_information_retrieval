@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PINSTRIPES IN PRISON</title>
+    <meta content="04suits-5" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1766713"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Daewoo Corp</org>
+        <org class="indexing_service">Skandia Ab</org>
+        <org class="indexing_service">Ahold Nv</org>
+        <person class="indexing_service">Kim Woo Choong</person>
+        <person class="indexing_service">Petersson, Lars-Eric</person>
+        <person class="indexing_service">Van Der Hoeven, Cees</person>
+        <person class="indexing_service">Meurs, Michiel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E1DB1731F937A35755C0A9609C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PINSTRIPES IN PRISON</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. STEIN</byline>
+      <abstract>
+        <p>South Korean court sentenced Daewoo founder and former chairman Kim Woo Choong to 10 years in prison for accounting fraud and ordered him to forfeit $22 billion; former Skandia executive Lars-Eric Petersson was found guilty of fraud and sentenced to two years in prison; Dutch court fined former Ahold chief executive Cees van der Hoeven and former finance chief A Michiel Meurs $288,000 each for accounting fraud but imposed no jail time (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The spectacle of wayward corporate chiefs being sentenced to hard time in real prisons is not strictly an American phenomenon, despite the attention given to Kenneth L. Lay and Jeffrey K. Skilling at Enron, L. Dennis Kozlowski at Tyco, Bernard J. Ebbers at WorldCom, Martha Stewart, et al.</p>
+        <p>Executives around the world have also been sent to jail -- or have been given big fines.</p>
+      </block>
+      <block class="full_text">
+        <p>The spectacle of wayward corporate chiefs being sentenced to hard time in real prisons is not strictly an American phenomenon, despite the attention given to Kenneth L. Lay and Jeffrey K. Skilling at Enron, L. Dennis Kozlowski at Tyco, Bernard J. Ebbers at WorldCom, Martha Stewart, et al.</p>
+        <p>Executives around the world have also been sent to jail -- or have been given big fines.</p>
+        <p>Just last week, a court in Seoul sentenced the founder and former chairman of Daewoo to 10 years in prison and ordered him to forfeit $22 billion. It found the executive, Kim Woo Choong, 69, guilty of a multibillion-dollar accounting fraud.</p>
+        <p>Even Sweden got tough last week, dispatching a former chief of the insurer Skandia to prison for two years. A court found the executive, Lars-Eric Petersson, 55, guilty of fraud for authorizing $21.5 million in bonuses without board approval.</p>
+        <p>Some courts still have a soft spot for chief executives, though. A Dutch court recently fined Cees van der Hoeven, Ahold's former chief executive, and A. Michiel Meurs, its former finance chief, $288,000 each after convicting them of fraud, but it did not send them to jail, as prosecutors had asked. Ahold had overstated its earnings by more than $1 billion from 1999 to 2002, mostly by inflating sales at its U.S. Foodservice unit.</p>
+        <p>MARK A. STEIN</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

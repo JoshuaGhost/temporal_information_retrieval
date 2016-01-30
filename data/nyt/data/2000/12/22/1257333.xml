@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jazz; As 2001 Beckons, Noisemakers (From Funk to Salsa) Cavort</title>
+    <meta content="RV022924" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1257333"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E6DF1738F931A15751C1A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jazz; As 2001 Beckons, Noisemakers (From Funk to Salsa) Cavort</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* HAMIET BLUIETT GROUP. Sista's Place, 456 Nostrand Avenue, Bedford-Stuyvesant, Brooklyn, (718) 398-1766. What a sound Mr. Bluiett has on the baritone saxophone, and what ruckus he can kick up when he's stalking a good time. A longtime member of the World Saxophone Quartet, he has been a local favorite since the 70's; he is still hiring good young musicians and creating converts. At 9:30 p.m.; admission is $35 for one person, $50 for two.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+      <block class="full_text">
+        <p>* HAMIET BLUIETT GROUP. Sista's Place, 456 Nostrand Avenue, Bedford-Stuyvesant, Brooklyn, (718) 398-1766. What a sound Mr. Bluiett has on the baritone saxophone, and what ruckus he can kick up when he's stalking a good time. A longtime member of the World Saxophone Quartet, he has been a local favorite since the 70's; he is still hiring good young musicians and creating converts. At 9:30 p.m.; admission is $35 for one person, $50 for two.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

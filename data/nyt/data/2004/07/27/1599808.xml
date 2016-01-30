@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR014907" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Washington; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1599808"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Hussein, Saddam (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">War Crimes, Genocide and Crimes Against Humanity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DF123DF934A15754C0A9629C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 2 article on opening of criminal proceedings against Saddam Hussein in Iraq, which omitted two words in translated comment he made</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on July 2 about the opening of criminal proceedings against Saddam Hussein in Iraq omitted two words in a translated comment from Mr. Hussein about the legitimacy of the court. Mr. Hussein said, ''You know that this is all a theater by Bush the criminal to help him win his election. '' (He did not say just ''theater by Bush.'') This correction was delayed for a check of various unofficial transcripts.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on July 2 about the opening of criminal proceedings against Saddam Hussein in Iraq omitted two words in a translated comment from Mr. Hussein about the legitimacy of the court. Mr. Hussein said, ''You know that this is all a theater by Bush the criminal to help him win his election. '' (He did not say just ''theater by Bush.'') This correction was delayed for a check of various unofficial transcripts.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

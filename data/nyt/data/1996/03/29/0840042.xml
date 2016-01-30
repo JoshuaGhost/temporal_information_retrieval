@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stanford</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="840042"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="FINAL FOUR: SCOUTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">NCAA BASKETBALL TOURNAMENT</classifier>
+        <org class="indexing_service">STANFORD UNIVERSITY STANFORD UNIVERSITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFD91539F93AA15750C0A960958260" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stanford</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>West Regional Champion Overall Record: 29-2 Fifth Final Four appearance</p>
+      </block>
+      <block class="full_text">
+        <p>West Regional Champion Overall Record: 29-2 Fifth Final Four appearance</p>
+        <p>COACHES: Amy Tucker (with Marianne Stanley), first year; 29-2 with Cardinal</p>
+        <p>LEADING SCORERS: Kate Starbird, 20.1 points a game (21.3 in tournament); Vanessa Nygaard 14.2 (15.8)</p>
+        <p>LEADING REBOUNDERS: Nygaard 6.9 (7.5); Naomi Mulitauaopele, 5.5 (5.8).</p>
+        <p>ASSIST LEADER: Jamilia Wideman, 4.6 (5.5), Starbird 3.5 (3.0)</p>
+        <p>SHOOTING 3'S: Nygaard, 74-185, .400 (11-24, .458)</p>
+        <p>ON THE LINE Best is Starbird, 84.4 percent (94.4 percent). Not so good is Nygaard, 58.7 percent (but 80 in tourney)</p>
+        <p>PLUSSES: Kate Starbird can play anywhere on the court and stir up excitement. Jamila Wideman is a clever point guard. The defense is strong and consistent. Its winning streak has reached 23 games.</p>
+        <p>MINUSES: Although there is height all through the lineup, there is no big center, once a Stanford staple. Its 18-0 sweep in the Pacific 10 came in a relatively soft conference. And the two co-coaches, Amy Tucker and Marianne Stanley, are one-year fill-ins for Tara VanDerveer, currently serving as the Olympic coach. INTANGIBLES: The Cardinal players know that once they get rolling, they can smother almost anyone.</p>
+        <p>ROAD TO THE MEADOWLANDS</p>
+        <p>First round: No. 16 Grambling, 82-43 Second round: No. 8 Colorado State, 94-63 Regional semifinal: No. 4 Alabama, 78-76 (OT) Regional final: No. 6 Auburn, 71-57</p>
+        <p>FINAL FOUR: SCOUTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

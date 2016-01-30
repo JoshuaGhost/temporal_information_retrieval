@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Delays Order To Disclose Source In a TV Libel Case</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="774400"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SMOKING AND TOBACCO</classifier>
+        <classifier class="indexing_service" type="descriptor">LIBEL AND SLANDER</classifier>
+        <classifier class="indexing_service" type="descriptor">NICOTINE</classifier>
+        <classifier class="indexing_service" type="descriptor">DECISIONS AND VERDICTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS SOURCES, CONFIDENTIAL STATUS OF</classifier>
+        <org class="indexing_service">AMERICAN BROADCASTING COS INC (ABC)</org>
+        <org class="indexing_service">PHILIP MORRIS COS INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libel and Slander</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">News Sources, Confidential Status of</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D9153FF931A25754C0A963958260" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Delays Order To Disclose Source In a TV Libel Case</hl1>
+      </hedline>
+      <dateline>RICHMOND, July 11</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A judge today withdrew his order that ABC News disclose the name of a confidential source used in a report that is the subject of a $10 billion libel suit by Philip Morris Companies Inc. The report, broadcast last year on the television news program "Day One," said the tobacco industry "artificially adds nicotine to cigarettes to keep people smoking and boost profits."</p>
+        <p>Today, Judge Theodore J. Markow of Richmond Circuit Court wrote that before he required ABC News to disclose its source, Philip Morris would have to supply more evidence that it could not get the information elsewhere and that it had a compelling need for the information.</p>
+      </block>
+      <block class="full_text">
+        <p>A judge today withdrew his order that ABC News disclose the name of a confidential source used in a report that is the subject of a $10 billion libel suit by Philip Morris Companies Inc. The report, broadcast last year on the television news program "Day One," said the tobacco industry "artificially adds nicotine to cigarettes to keep people smoking and boost profits."</p>
+        <p>Today, Judge Theodore J. Markow of Richmond Circuit Court wrote that before he required ABC News to disclose its source, Philip Morris would have to supply more evidence that it could not get the information elsewhere and that it had a compelling need for the information.</p>
+        <p>In legal papers, both sides refer to the source as "Deep Cough." On the broadcast, the source was identified as a former manager for another cigarette manufacturer, the R. J. Reynolds Tobacco Company, a subsidiary of the RJR Nabisco Holdings Corporation. The voice and face of the source were disguised.</p>
+        <p>Steven M. Barna, a lawyer for Philip Morris, said, "We're confident that we can make the additional showing that the court requested, and we expect we will be able to do it promptly."</p>
+        <p>Julie T. Hoover, a spokeswoman for ABC News, said, "We're pleased with the judge's ruling."</p>
+        <p>In January, Judge Markow ruled that the source must be disclosed because of "the substantial public interest involved." Last month, Patricia J. Matson, vice president of corporate communications for Capital Cities/ABC Inc., the parent company of ABC News, said the network was engaged in "very preliminary" discussions with Philip Morris that could lead to a settlement of the suit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

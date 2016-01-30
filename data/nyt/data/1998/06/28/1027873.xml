@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Palmists, Please!</title>
+    <meta content="28BRIE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1027873"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Astrology</classifier>
+        <location class="indexing_service">Mamaroneck (NY)</location>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Astrology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5D9113CF93BA15755C0A96E958260" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Palmists, Please!</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Village trustees approves moratorium on palm readers, fortune-tellers, mediums and clairvoyants opening shops along Mamaroneck Avenue, Mamaroneck, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By anyone's estimate of what the future holds, the outlook looks bleak for palm readers and other fortunetellers in the village of Mamaroneck.</p>
+        <p>No mediums. No clairvoyants. No soothsayers, palmists, ''reader advisers, or the like,'' according to a  law passed this month by the village's Board of Trustees.</p>
+      </block>
+      <block class="full_text">
+        <p>By anyone's estimate of what the future holds, the outlook looks bleak for palm readers and other fortunetellers in the village of Mamaroneck.</p>
+        <p>No mediums. No clairvoyants. No soothsayers, palmists, ''reader advisers, or the like,'' according to a  law passed this month by the village's Board of Trustees.</p>
+        <p>The trustees have established a moratorium on new businesses along  Mamaroneck Avenue, the village's main street and appointed a seven-member Mamaroneck Avenue Task Force to study what might be permitted uses.</p>
+        <p>''Our goal is to determine what is an appropriate use for the avenue and to analyze what's appropriate for the downtown,'' Michael S. Blau, the Village Manager, said.</p>
+        <p>The village has already limited the number of delicatessens and fast-food establishments on Mamaroneck Avenue because ''it does not want a proliferation of just one kind of store,'' he said, explaining that check-cashing stores and billiard halls were also not welcome in the village.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

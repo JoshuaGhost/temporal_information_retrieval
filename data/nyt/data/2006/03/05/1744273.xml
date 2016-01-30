@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Professor And the Chanteuse</title>
+    <meta content="05simonson" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/05/theater/newsandfeatures/05simonson.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1744273"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="DIRECTIONS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <person class="online_producer">Cook, Barbara</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6D61631F936A35750C0A9609C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Professor And the Chanteuse</hl1>
+        <hl2 class="online_headline">The Professor and the Chanteuse</hl2>
+      </hedline>
+      <byline class="print_byline">By ROBERT SIMONSON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When she's not performing, Barbara Cook regularly teaches master classes on the art of singing theater songs. Now Ms. Cook will be teaching by example. Unbeknown to her, she is the focus of a course at the Graduate Center of the City University of New York. Starting this week, students will be able to study their subject's vintage performances in the afternoon and a short cab ride later watch her perform live in the evening (at the Cafe Carlyle through April 1).</p>
+        <p>The instructor, Leonard Fleischer, said the course would look at Ms. Cook's place in musical theater history by examining the characters she has played onstage and how they have changed from show to show. He also plans to put the shows in historical context.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Unbeknown to her, Barbara Cook is the focus of a course at the Graduate Center of the City University of New York.</p>
+      </block>
+      <block class="full_text">
+        <p>When she's not performing, Barbara Cook regularly teaches master classes on the art of singing theater songs. Now Ms. Cook will be teaching by example. Unbeknown to her, she is the focus of a course at the Graduate Center of the City University of New York. Starting this week, students will be able to study their subject's vintage performances in the afternoon and a short cab ride later watch her perform live in the evening (at the Cafe Carlyle through April 1).</p>
+        <p>The instructor, Leonard Fleischer, said the course would look at Ms. Cook's place in musical theater history by examining the characters she has played onstage and how they have changed from show to show. He also plans to put the shows in historical context.</p>
+        <p>Not surprisingly, Mr. Fleischer, 72, is a fan who has seen Ms. Cook onstage in musicals like the original ''Plain and Fancy'' and ''Candide.'' In class, he will use cast albums as well as a DVD of her ''Bell Telephone Hour'' television appearances from the 1960's. One thing he won't be showcasing is the lady herself. He thought about asking her to make a guest appearance, he said, ''but I was just embarrassed.''</p>
+        <p>Ms. Cook, meanwhile, was surprised to hear of the class but not at all distressed by the scrutiny. She said with a laugh, ''Naturally, I think I'm the most important person in the world, don't you?''</p>
+        <p>ROBERT SIMONSON</p>
+        <p>DIRECTIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

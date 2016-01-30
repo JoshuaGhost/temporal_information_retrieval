@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life Term for Slaying Of Jordan's Father</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="836410"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">SENTENCES (CRIMINAL)</classifier>
+        <person class="indexing_service">JORDAN, MICHAEL</person>
+        <person class="indexing_service">JORDAN, JAMES</person>
+        <person class="indexing_service">GREEN, DANIEL DANIEL B GREEN</person>
+        <person class="indexing_service">MICHAELJEFFERY JORDAN</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7D61639F930A25750C0A960958260" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life Term for Slaying Of Jordan's Father</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A jury in Lumberton, N.C., chose life in prison yesterday for a man convicted in the killing of MICHAEL JORDAN's father.</p>
+      </block>
+      <block class="full_text">
+        <p>A jury in Lumberton, N.C., chose life in prison yesterday for a man convicted in the killing of MICHAEL JORDAN's father.</p>
+        <p>Following the jury's recommendation, a judge sentenced DANIEL GREEN, 21, to life in prison for murder during the commission of a robbery and 10 years for conspiracy to commit robbery. The sentences must be served consecutively.</p>
+        <p>Green, who could have been sentenced to death, was convicted Feb. 29 in the  slaying of James Jordan, who was shot as he napped in his car along a highway on July 23, 1993.</p>
+        <p>Witnesses testified that Green and his accomplice, LARRY MARTIN DEMERY, 20, drove around in Jordan's red Lexus for four days after the slaying, picking up dates and calling friends and relatives on the dead man's cellular phone.</p>
+        <p>Demery, 20, was the prosecution's star witness. He pleaded guilty to murder before testifying against Green and has also been facing a possible death penalty. His sentencing hearing has not been scheduled.</p>
+        <p>(AP)</p>
+        <p>SPORTS PEOPLE: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

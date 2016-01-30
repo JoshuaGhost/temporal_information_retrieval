@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shore Leave</title>
+    <meta content="06shirt" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1845449"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DA113EF935A35756C0A9619C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shore Leave</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forty years after it first appeared in the L. L. Bean catalog, the women's French Sailor shirt, knit from fine Peruvian cotton that doesn't fade or fray, is enjoying a fashion renaissance. Stylish shoppers are snatching up the seaworthy topper, which comes in six color varieties. Due to demand, the company has recut the shirt in a Henley style, in addition to the classic crew neck and the popular quarter-zip pullover. This season, kids can be equally chic in pint-size versions of the original. Best of all, the shirt is easy to wear and to afford. The price range for women's shirts is $29.50 to $34.50; the price range for children's sizes is $14.50 to $19.50 (at www.llbean.com).</p>
+      </block>
+      <block class="full_text">
+        <p>Forty years after it first appeared in the L. L. Bean catalog, the women's French Sailor shirt, knit from fine Peruvian cotton that doesn't fade or fray, is enjoying a fashion renaissance. Stylish shoppers are snatching up the seaworthy topper, which comes in six color varieties. Due to demand, the company has recut the shirt in a Henley style, in addition to the classic crew neck and the popular quarter-zip pullover. This season, kids can be equally chic in pint-size versions of the original. Best of all, the shirt is easy to wear and to afford. The price range for women's shirts is $29.50 to $34.50; the price range for children's sizes is $14.50 to $19.50 (at www.llbean.com).  PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

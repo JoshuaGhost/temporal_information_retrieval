@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Music Works Its (Western) Wiles in China</title>
+    <meta content="25HIGH" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/25/arts/25HIGH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1491512"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="MUSIC: HIGH NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Oestreich, James R</person>
+        <person class="indexing_service">Kaige, Chen</person>
+        <object.title class="indexing_service">Together (Movie)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/High Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Kaige, Chen</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DF113EF936A15756C0A9659C8B63" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Music Works Its (Western) Wiles in China</hl1>
+        <hl2 class="online_headline">Music Works Its (Western) Wiles in China</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES R. OESTREICH</byline>
+      <byline class="normalized_byline">Oestreich, James R</byline>
+      <abstract>
+        <p>High Notes column previews Together, latest film by director Chen Kaige; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A decade ago, Chen Kaige's popular film ''Farewell My Concubine'' immersed Westerners in an exotic world known to few: Chinese opera. Mr. Chen's latest film, ''Together,'' which opens in New York on Friday at the Lincoln Plaza Cinema and the Sunshine Cinema, uses rough and rustic Chinese settings as the backdrop for a tale steeped in Western culture and values.</p>
+        <p>It transplants a 13-year-old violin prodigy, Xiaochun, and his father from a provincial town to Beijing and places Xiaochun at the center of a web of fraught relationships: with his father, with two teachers, with a youngish neighbor woman and with a young competitor. Tang Yun, himself a promising violinist, gives Xiaochun magnetic appeal, and Mr. Chen plays a teacher.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chen Kaige's latest film, "Together," uses rough and rustic Chinese settings as the backdrop for a tale steeped in Western culture and values.</p>
+      </block>
+      <block class="full_text">
+        <p>A decade ago, Chen Kaige's popular film ''Farewell My Concubine'' immersed Westerners in an exotic world known to few: Chinese opera. Mr. Chen's latest film, ''Together,'' which opens in New York on Friday at the Lincoln Plaza Cinema and the Sunshine Cinema, uses rough and rustic Chinese settings as the backdrop for a tale steeped in Western culture and values.</p>
+        <p>It transplants a 13-year-old violin prodigy, Xiaochun, and his father from a provincial town to Beijing and places Xiaochun at the center of a web of fraught relationships: with his father, with two teachers, with a youngish neighbor woman and with a young competitor. Tang Yun, himself a promising violinist, gives Xiaochun magnetic appeal, and Mr. Chen plays a teacher.</p>
+        <p>The film makes much of the transcendent powers of music, or implies much. And the soundtrack uses little but Western classics -- by Paganini, Bruch, Tchaikovsky, Sibelius and others -- or Westernized music, including Zhao Lin's underscoring for the titles. (Li Chuanyun, playing violin on the soundtrack, is amusingly called on to represent both the heart in Xiaochun's playing and the lack of it in his competitor's, sometimes simultaneously.)</p>
+        <p>Even though the Beijing we see is itself mostly Westernized, the music sits oddly on the setting. The notion of transcendence through music, largely a construct of Western Romanticism, seems still more foreign. Music has traditionally played a more modest and workmanlike role in Chinese culture. But those anomalies will undoubtedly prove selling points in the West.</p>
+        <p>The film is in any case a comforting reminder of how thoroughly a generation of superb Asian musicians has put to rest the canard, widespread not so long ago, that Easterners might never quite master the understanding and emotional involvement -- the qualities of transcendence -- necessary to put across Western classical music. Given its current neglect in education and in the wider culture of the West, they may be among its prime conservators.</p>
+        <p>JAMES R. OESTREICH</p>
+        <p>MUSIC: HIGH NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

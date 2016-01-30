@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Super Bowl a Temporary Lift</title>
+    <meta content="05inbox-1" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1737545"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Super Bowl</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">Detroit (Mich)</location>
+        <person class="indexing_service">Couch, William</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan/Detroit</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Super Bowl</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DD173EF936A35751C0A9609C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Super Bowl a Temporary Lift</hl1>
+      </hedline>
+      <abstract>
+        <p>William Couch letter contends that Super Bowl will only give Detroit (Mich) temporary economic boost; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Re ''While the Super Bowl Dazzles, Auto Jobs Disappear'' (Feb. 1): I was immensely pleased that Dave Anderson looked beyond the XL banners and football frenzy in Detroit to examine just how great (or minute) an effect playing host to the Super Bowl is having.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Re ''While the Super Bowl Dazzles, Auto Jobs Disappear'' (Feb. 1): I was immensely pleased that Dave Anderson looked beyond the XL banners and football frenzy in Detroit to examine just how great (or minute) an effect playing host to the Super Bowl is having.</p>
+        <p>The event is surely a boon for the city's economy, but it will only be temporary. The supposed economic boost from the game is exaggerated. A short while after today, the unemployed will still be looking for jobs and the employed will be fighting to keep theirs.</p>
+        <p>A look at the other side of this commercial-cultural event has been missing, and is necessary in the news media, and I was elated to see it make the front page of the Sports section.</p>
+        <p>William Couch  Ann Arbor, Mich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sweet FranÃ</title>
+    <meta content="Finder.t" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/books/review/Finder-t.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851606"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <object.title class="online_producer">April in Paris (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0D61630F930A35755C0A9619C8B63" item-length="615" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sweet FranÃ</hl1>
+        <hl2 class="online_headline">Sweet Française</hl2>
+      </hedline>
+      <byline class="print_byline">By JOSEPH FINDER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>APRIL IN PARIS</p>
+        <p>By Michael Wallner.</p>
+        <p>Translated by John Cullen.</p>
+        <p>248 pages. Nan A. Talese/Doubleday. $21.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In this novel, a German soldier falls in love with a woman in the French Resistance.</p>
+      </block>
+      <block class="full_text">
+        <p>APRIL IN PARIS</p>
+        <p>By Michael Wallner.</p>
+        <p>Translated by John Cullen.</p>
+        <p>248 pages. Nan A. Talese/Doubleday. $21.95.</p>
+        <p>The tricky thing about writing historical novels isn't getting the details right. It's knowing which details to leave out -- even if that means keeping most of your painstaking research to yourself. You want a novel to read like a novel, not a pageant with elaborate stage sets and showy costumes. This is a skill that suspense novelists like Joseph Kanon and Alan Furst have mastered. And so, for the most part, has the author of ''April in Paris,'' the German screenwriter Michael Wallner. But where Kanon and Furst create worlds peopled by complex characters who breathe a rich atmosphere, Wallner has produced somewhat lighter fare.</p>
+        <p>Which is not to say that ''April in Paris'' isn't a well-told story. In this translation by the estimable John Cullen, Wallner is capable of writing with spare elegance, and he evokes war-ravaged Paris with a deft touch. This is the tale of a young German soldier serving with the forces of the Nazi occupation who becomes entangled with a Frenchwoman -- the sort of love affair that's inevitably called ''doomed.''</p>
+        <p>Corporal Roth, a fluent French speaker, has been abruptly assigned to Gestapo headquarters on the Rue des Saussaies, where he must translate during the interrogation of suspected members of the French Resistance. When his work in the torture chambers is done for the day, he begins stealing out of his hotel and skulking around the streets of Paris, wearing civilian clothes and adopting a French persona, Monsieur Antoine.</p>
+        <p>Eventually Roth spots and begins trailing Chantal, the beautiful daughter of an antiquarian bookseller -- and a member of the Resistance. So when a bomb goes off in a nightclub frequented by the SS and several officers are killed, Roth, although wounded himself, is suspected of being involved, and is interrogated using all the brutal methods he knows so well.</p>
+        <p>The plot of ''April in Paris'' isn't particularly intricate or surprising. Not until the halfway point, when Roth is pursued and imprisoned -- shades of Arthur Koestler's ''Darkness at Noon'' -- does the suspense really kick in, but from then on the novel races to a bittersweet, resonant ending. Early on, however, Roth's imposture as a Frenchman seems insufficiently motivated: even if we buy the premise that he somehow speaks French without the slightest trace of a German accent, we still have to believe that he would take the immense risk of wandering the streets of Paris in civilian clothes, purely on a lark. Nor is this a love story -- of ''an impossible romance,'' as its publisher claims -- so much as it is a tale of infatuation. Its protagonist is something of a cipher, a pallid, apolitical character who doesn't really weigh the moral ramifications of his actions.</p>
+        <p>Wallner isn't above including the odd stock character, notably the Valkyrian secretary to Roth's SS commander, who discovers Roth's subterfuge and blackmails him into sleeping with her. Here and there, we also encounter the occasional infelicity (''my eyes penetrated inside her mouth'') and bits of lazy prose (''droplets of sweat gleamed in his curly blond hair,'' then a few pages later, ''drops of water glistened in his curly blond hair''). And once in a while an anachronism: it's unlikely the phrase ''alpha male'' was much bandied about in 1943.</p>
+        <p>The result is a piece of period entertainment that is satisfying if not entirely successful. ''April in Paris'' lacks the gravitas of, say, Bernhard Schlink's novel ''The Reader.'' And it doesn't achieve the dark foreboding found in the work of Kanon and Furst. Like its protagonist, adrift between two worlds, it can't quite decide what it wants to be.</p>
+        <p>Joseph Finder is the author of the novels ''Paranoia,'' ''Killer Instinct'' and the forthcoming ''Power Play.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Joseph Finder is the author of the novels ''Paranoia,'' ''Killer Instinct'' and the forthcoming ''Power Play.''</tagline>
+    </body.end>
+  </body>
+</nitf>

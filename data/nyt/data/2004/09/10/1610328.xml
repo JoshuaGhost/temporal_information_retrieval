@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yoko Ono -- 'Editions, Ephemera and Printed Works'</title>
+    <meta content="RV000051" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1610328"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Johnson, Ken</person>
+        <person class="indexing_service">Ono, Yoko</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EFDD1530F933A2575AC0A9629C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yoko Ono -- 'Editions, Ephemera and Printed Works'</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews works by Yoko Ono at Printed Matter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Printed Matter  535 West 22nd Street, Chelsea  Through Sept. 30</p>
+        <p>Few people who recognize Yoko Ono as the widow of John Lennon know what a significant career she had as a Conceptual artist long before she met the great Beatle. Printed Matter's exhibition is not for the uninitiated. It brings together a considerable amount of material, including posters, early exhibition price lists, record album covers, documentary photographs, books, shopping bags, sculptural multiples, postcards, printed T-shirts and more. It does not, however, afford a very clear overview of Ms. Ono's career or its roots in Fluxus, the deceptively whimsical, worldwide Conceptualist movement.</p>
+      </block>
+      <block class="full_text">
+        <p>Printed Matter  535 West 22nd Street, Chelsea  Through Sept. 30</p>
+        <p>Few people who recognize Yoko Ono as the widow of John Lennon know what a significant career she had as a Conceptual artist long before she met the great Beatle. Printed Matter's exhibition is not for the uninitiated. It brings together a considerable amount of material, including posters, early exhibition price lists, record album covers, documentary photographs, books, shopping bags, sculptural multiples, postcards, printed T-shirts and more. It does not, however, afford a very clear overview of Ms. Ono's career or its roots in Fluxus, the deceptively whimsical, worldwide Conceptualist movement.</p>
+        <p>Much of what is on view would interest mainly specialized collectors. One vitrine displays six different editions of Ms. Ono's famous book ''Grapefruit'' and seven versions of her ''Box of Smile,'' a small container with a mirror under the lid designed to reflect the opener's presumably smiling lips.</p>
+        <p>What the show may clarify for the thoughtful and patient visitor is how true to her Fluxus origins Ms. Ono has remained. When, 12 days after the attacks on the World Trade Center, she took out a full-page ad in The New York Times that read simply, ''Imagine all the people living life in peace'' (an example is on view), she was not just quoting a Lennon song. She was expressing a belief dating back to the early 1960's in the power of visualization and modest changes of mind to change the world profoundly for the better. You may think her program willfully naïve and grandiose, but it does help to explain the curiously messianic quality of her art.</p>
+        <p>KEN JOHNSON</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

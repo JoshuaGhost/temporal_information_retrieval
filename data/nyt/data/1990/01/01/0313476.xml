@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Markets Closed</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="313476"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW YEAR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D91338F932A35752C0A966958260" item-length="31" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Markets Closed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: All financial markets in the United States and most world markets will be closed today because of New Year's Day.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: All financial markets in the United States and most world markets will be closed today because of New Year's Day.</p>
+        <p>All financial markets in the United States and most world markets will be closed today because of New Year's Day.</p>
+        <p>Banks, government offices and most businesses will also be closed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

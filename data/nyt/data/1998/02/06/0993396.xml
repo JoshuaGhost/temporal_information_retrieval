@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Fab Price</title>
+    <meta content="PUB034312" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993396"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PUBLIC LIVES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Autographs</classifier>
+        <person class="indexing_service">Lennon, John</person>
+        <person class="indexing_service">Barron, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Columns/Public Lives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Celebrities</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E1D7123DF935A35751C0A96E958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Fab Price</hl1>
+      </hedline>
+      <byline class="print_byline">BY JAMES BARRON</byline>
+      <byline class="normalized_byline">Barron, James</byline>
+      <abstract>
+        <p>Copy of Dateline magazine autographed by John Lennon sells for $1,800 at Christie's East; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Lennon told a British newspaper in 1965 that the Beatles were ''bigger than Jesus.'' ARTHUR UNGER, the publisher of Datebook (''more or less an official Beatles magazine,'' he said) quickly reprinted the interview -- and sent it to Bible-belt radio stations.</p>
+        <p>''They did things like burn Beatles records,'' Mr. Unger recalled. He called the Beatles' manager, BRIAN EPSTEIN. ''He told me, 'Arthur, they have to buy the records before they burn them.' ''</p>
+      </block>
+      <block class="full_text">
+        <p>John Lennon told a British newspaper in 1965 that the Beatles were ''bigger than Jesus.'' ARTHUR UNGER, the publisher of Datebook (''more or less an official Beatles magazine,'' he said) quickly reprinted the interview -- and sent it to Bible-belt radio stations.</p>
+        <p>''They did things like burn Beatles records,'' Mr. Unger recalled. He called the Beatles' manager, BRIAN EPSTEIN. ''He told me, 'Arthur, they have to buy the records before they burn them.' ''</p>
+        <p>Later Lennon autographed a copy of the magazine, signing ''John C. Lennon'' and telling Mr. Unger, ''You know what the C stands for.''</p>
+        <p>Now Mr. Unger knows what the C was worth: the magazine was sold for $1,800 at Christie's East. The buyer was not identified.</p>
+        <p>PUBLIC LIVES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

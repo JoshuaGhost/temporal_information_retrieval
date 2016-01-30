@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smithsonian Robot to Have A Kid-Friendly Sweet Touch</title>
+    <meta content="MB234222" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1040424"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <org class="indexing_service">Smithsonian Institution (Washington, DC)</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0DF133DF933A1575BC0A96E958260" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smithsonian Robot to Have A Kid-Friendly Sweet Touch</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Richtel</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Smithsonian Institution will have user-friendly robot that can smile and even offer candy to strangers; scientists who created robot hope to use exhibitions at Smithsonian to test robot's ability to navigate crowded room without bumping into objects or people; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Smithsonian Institution is creating a robot that not only is user-friendly but also looks user-friendly too: it can smile and even offer candy to strangers.</p>
+        <p>Scientists from Carnegie Mellon University and the University of Bonn created the robot, named Minerva after the Roman goddess of wisdom. The scientists hope to use the exhibitions at the Smithsonian to test the robot's ability to navigate a crowded room without bumping into objects or people.</p>
+      </block>
+      <block class="full_text">
+        <p>The Smithsonian Institution is creating a robot that not only is user-friendly but also looks user-friendly too: it can smile and even offer candy to strangers.</p>
+        <p>Scientists from Carnegie Mellon University and the University of Bonn created the robot, named Minerva after the Roman goddess of wisdom. The scientists hope to use the exhibitions at the Smithsonian to test the robot's ability to navigate a crowded room without bumping into objects or people.</p>
+        <p>Minerva is equipped with sensors that allow it to determine if something, or someone, is in the way. It also has two video cameras for eyes, which capture what Minerva ''sees.'' The images then will be displayed on the Internet site for the Smithsonian museum's Lemelson Center for the Study of Invention and Innovation (www.si.edu/nmah/lemel), which is sponsoring the robot's visit.</p>
+        <p>In addition to refining the robot itself, the scientists also hope Minerva will help children feel comfortable with technology and familiarize them with robots. To prepare children for the new technology, they are relying on an old-fashioned trick: a box of candy will be placed on board the robot to encourage youngsters to approach.</p>
+        <p>The robot will be on duty from Monday to Sept. 5 in the museum's ''Material World'' exhibition, which shows the impact on people's lives from the use of wood, metal and synthetic materials.</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

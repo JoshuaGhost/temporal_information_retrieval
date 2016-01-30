@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patricia Haggerty, Brian Dodwell</title>
+    <meta content="18HAGGERTY" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/18/fashion/weddings/18HAGGERTY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1833858"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Haggerty, Patricia Ann (Patricia Ann Dodwell)</person>
+        <person class="indexing_service">Dodwell, Brian Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFDD1F31F93BA25750C0A9619C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patricia Haggerty, Brian Dodwell</hl1>
+        <hl2 class="online_headline">Patricia Haggerty, Brian Dodwell</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patricia Ann Haggerty, a daughter of Ellen Haggerty and James Haggerty of Middletown, N.J., was married yesterday to Brian Christopher Dodwell, a son of Bonnie Dodwell of Cary, N.C., and David Dodwell of Southampton, Bermuda. The Rev. Alexei Michalenko, a Roman Catholic priest, performed the ceremony at the Dahlgren Chapel at Georgetown University.</p>
+        <p>Mrs. Dodwell, 25, teaches third grade at Samuel W. Tucker Elementary School in Alexandria, Va. She graduated from Pennsylvania State University and is studying for a master's degree in education at George Mason University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Patricia Ann Haggerty, a daughter of Ellen Haggerty and James Haggerty of Middletown, N.J., was married yesterday to Brian Christopher Dodwell, a son of Bonnie Dodwell of Cary, N.C., and David Dodwell of Southampton, Bermuda. The Rev. Alexei Michalenko, a Roman Catholic priest, performed the ceremony at the Dahlgren Chapel at Georgetown University.</p>
+      </block>
+      <block class="full_text">
+        <p>Patricia Ann Haggerty, a daughter of Ellen Haggerty and James Haggerty of Middletown, N.J., was married yesterday to Brian Christopher Dodwell, a son of Bonnie Dodwell of Cary, N.C., and David Dodwell of Southampton, Bermuda. The Rev. Alexei Michalenko, a Roman Catholic priest, performed the ceremony at the Dahlgren Chapel at Georgetown University.</p>
+        <p>Mrs. Dodwell, 25, teaches third grade at Samuel W. Tucker Elementary School in Alexandria, Va. She graduated from Pennsylvania State University and is studying for a master's degree in education at George Mason University.</p>
+        <p>Her father is a financial analyst for Con Ed in New York. Her mother is the secretary to the business administrator of the public schools of Little Silver, N.J.</p>
+        <p>Mr. Dodwell, 29, is a consultant on homeland security at DFI International, a Washington firm that does research, analysis and consulting for government departments and agencies. He graduated from Wake Forest and received a master's degree in national security studies from Georgetown.</p>
+        <p>His mother teaches humanities and language arts at the Cary Academy, a private school. His father owns the Nisbet Plantation Beach Club on the island of Nevis in the West Indies, and is an owner of the Reefs, a hotel in Southampton. He is also a member of the lower house of Bermuda's parliament.</p>
+        <p>The bridegroom is a stepson of Margarita Dodwell.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

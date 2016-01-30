@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transit Officer Shoots Suspect in an Assault</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355386"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <person class="indexing_service">FREYTES, JESUS</person>
+        <person class="indexing_service">MORENO, ORLANDO</person>
+        <person class="indexing_service">KING, STEVE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DD163AF932A15756C0A966958260" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transit Officer Shoots Suspect in an Assault</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An off-duty transit police officer shot and wounded a man who reportedly had just shot another man at close range on a subway platform in the Bronx, the police said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An off-duty transit police officer shot and wounded a man who reportedly had just shot another man at close range on a subway platform in the Bronx, the police said yesterday.</p>
+        <p>An off-duty transit police officer shot and wounded a man who reportedly had just shot another man at close range on a subway platform in the Bronx, the police said yesterday.</p>
+        <p>The victim, Orlando Moreno, and the suspected gunman, Steve King, 19 years old, were taken to Jacobi Hospital, said Carl Roberts, a hospital administrator.</p>
+        <p>The transit police officer, Jesus Freytes, was nearby as the dispute between the men unfolded. He identified himself and fired three shots, hitting Mr. King.</p>
+        <p>According to a police spokesman, Mr. King, of 517 Barbey Street in the Highland Park section of Brooklyn, and another man, Tawaun Johnson, 18, of 4128 Baychester Avenue in the Baychester section of the Bronx, got into a fight with Mr. Moreno on a southbound No. 2 train about 10:40 P.M. Saturday. The fight spilled out onto the East 180th Street platform and Mr. Moreno tried to flee.</p>
+        <p>Mr. King reportedly pulled out a .22-caliber handgun and shot Mr. Moreno.</p>
+        <p>Mr. King and Mr. Johnson, 18, were arrested on charges including attempted murder and assault, the spokesman said. Mr. Roberts said Mr. King was in stable condition with wounds in the legs and buttocks. He said he could not release any information about Mr. Moreno's injuries.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

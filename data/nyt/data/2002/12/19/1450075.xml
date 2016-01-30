@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MARMER, DOROTHY</title>
+    <meta content="DN121902" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1450075"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">MARMER, DOROTHY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DA103DF93AA25751C1A9649C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MARMER, DOROTHY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARMER-Dorothy. Passed away on December 17, 2002. She was 89 years old. Beloved wife of the late Irving Marmer, adored mother of Marlene Siff and Gail Gans, and loving grandmother of Brad, Brian, Daniel and Jonathan and her four great-grandsons Jordan, Noah, Adam and Jackson. This beautiful, gentle lady will be missed by all. Private ceremony at the George T. Davis Funeral Home, 14 LeCount Place, New Rochelle, NY, Friday at 10 AM, December 20, 2002.</p>
+      </block>
+      <block class="full_text">
+        <p>MARMER-Dorothy. Passed away on December 17, 2002. She was 89 years old. Beloved wife of the late Irving Marmer, adored mother of Marlene Siff and Gail Gans, and loving grandmother of Brad, Brian, Daniel and Jonathan and her four great-grandsons Jordan, Noah, Adam and Jackson. This beautiful, gentle lady will be missed by all. Private ceremony at the George T. Davis Funeral Home, 14 LeCount Place, New Rochelle, NY, Friday at 10 AM, December 20, 2002.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

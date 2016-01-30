@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | South: North Carolina: Grahams Say They Will Be Buried At New Library</title>
+    <meta content="14brfs-3" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/14/us/14brfs-graham.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1854467"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Graham, Billy, Library (Charlotte, NC)</org>
+        <person class="indexing_service">Graham, Billy (Rev)</person>
+        <person class="indexing_service">Goodstein, Laurie</person>
+        <person class="indexing_service">Graham, Ruth Bell</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD8143FF937A25755C0A9619C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | South: North Carolina: Grahams Say They Will Be Buried At New Library</hl1>
+        <hl2 class="online_headline">North Carolina: Grahams Say They Will Be Buried at New Library</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURIE GOODSTEIN</byline>
+      <byline class="normalized_byline">Goodstein, Laurie</byline>
+      <abstract>
+        <p>Rev Billy Graham announces that he and his wife, Ruth Bell Graham, have decided to be buried at new Billy Graham Library in Charlotte (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Rev. Billy Graham announced that he and his wife, Ruth Bell Graham, have decided to be buried at the new Billy Graham Library in Charlotte. Mrs. Graham, who has been bedridden for several years, has reportedly slipped into a coma. Disagreements between the Grahams' children over the couple's burial site became public last year. Mrs. Graham, 86, preferred a long-planned site at the Cove, a retreat center in Asheville that she helped design for the Billy Graham Evangelistic Association. Asheville is nearer to the couple's mountain homestead in Montreat.</p>
+        <p>LAURIE GOODSTEIN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Rev. Billy Graham announced that he and his wife, Ruth Bell Graham, have decided to be buried at the new Billy Graham Library in Charlotte.</p>
+      </block>
+      <block class="full_text">
+        <p>The Rev. Billy Graham announced that he and his wife, Ruth Bell Graham, have decided to be buried at the new Billy Graham Library in Charlotte. Mrs. Graham, who has been bedridden for several years, has reportedly slipped into a coma. Disagreements between the Grahams' children over the couple's burial site became public last year. Mrs. Graham, 86, preferred a long-planned site at the Cove, a retreat center in Asheville that she helped design for the Billy Graham Evangelistic Association. Asheville is nearer to the couple's mountain homestead in Montreat.</p>
+        <p>LAURIE GOODSTEIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

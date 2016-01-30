@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Multimedia Inc.(MMEDC,NNM) reports earnings for 3d qtr to Sep 30</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="801288"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D6123DF932A15753C1A963958260" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Multimedia Inc.(MMEDC,NNM) reports earnings for 3d qtr to Sep 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Multimedia Inc.(MMEDC,NNM)</p>
+        <p>3d qtr to Sep 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>162,855,000</p>
+        <p>152,650,000</p>
+        <p>Net inc</p>
+        <p>20,880,000</p>
+        <p>b30,469,000</p>
+        <p>Share earns</p>
+        <p>.54</p>
+        <p>.80</p>
+        <p>Shares outst</p>
+        <p>39,025,000</p>
+        <p>38,285,000</p>
+        <p>b-Included a gain of $ 13.4 million, or 35 cents a share, on the sale of wireless cable systems and an after-tax loss of $ 1.8 million, or 5 cents a share, on the closing of its television movies production business.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Prosecutor's Report Raises Doubts About 2 Convictions</title>
+    <meta content="21PALLADI" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/21/nyregion/21palladium.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1658818"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Manhattan (NYC)</location>
+        <org class="online_producer">Palladium</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1D91E3CF932A15750C0A9639C8B63" item-length="441" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Prosecutor's Report Raises Doubts About 2 Convictions</hl1>
+        <hl2 class="online_headline">A Prosecutor's Report Raises Doubts About 2 Convictions</hl2>
+      </hedline>
+      <byline class="print_byline">By SABRINA TAVERNISE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Manhattan district attorney's office told a state agency last year that two men convicted of the murder of a bouncer outside the Palladium nightclub in 1990 might in fact be innocent.</p>
+        <p>In a report, which was obtained by a lawyer for the two men, David Lemus and Olmedo Hidalgo, the prosecutor's office stated in direct language that the men might not be guilty of killing the bouncer, Marcus Peterson, in November 1990. The men were convicted, and have been serving sentences of 25 years to life.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Manhattan district attorney's office told a state agency last year that two men convicted of the murder of a bouncer outside the Palladium nightclub in 1990 might in fact be innocent.</p>
+      </block>
+      <block class="full_text">
+        <p>The Manhattan district attorney's office told a state agency last year that two men convicted of the murder of a bouncer outside the Palladium nightclub in 1990 might in fact be innocent.</p>
+        <p>In a report, which was obtained by a lawyer for the two men, David Lemus and Olmedo Hidalgo, the prosecutor's office stated in direct language that the men might not be guilty of killing the bouncer, Marcus Peterson, in November 1990. The men were convicted, and have been serving sentences of 25 years to life.</p>
+        <p>''Significant evidence indicates that Lemus and Hidalgo were NOT involved in the homicide,'' the district attorney's office said in a report to the New York State Division of Criminal Justice Services.</p>
+        <p>The report was dated February 2004 and was obtained by the lawyer, Steven Cohen, through a request under the freedom-of-information law.</p>
+        <p>The statement appeared to be the first time the office publicly acknowledged that the men may have been wrongly convicted. In hearings since the trial, prosecutors have stood by the convictions. A prosecutor reiterated that position in a hearing in January, though he said that, after re-examining the case, he was not able to establish ties between the two men, even though at the trial they were said to be friends.</p>
+        <p>The report was an accounting of how the office had spent money it had received from the state to re-examine unsolved murders.</p>
+        <p>A spokeswoman for the district attorney's office, Barbara Thompson, confirmed that the office had prepared the report, but said the language in the report ''is not intended to reflect the office's legal conclusion,'' as it was written by administrators who handle grants for the office.</p>
+        <p>''We are informing the agency on how we are spending the resources we've received,'' she said.</p>
+        <p>The men, hoping to reverse their convictions, recently won a new hearing, which is scheduled before Justice Roger Hayes of State Supreme Court in Manhattan on April 7.</p>
+        <p>Two judges and an appeals panel have already rejected the men's earlier petitions to vacate their convictions, but defense lawyers say newly surfaced information shows the men are not guilty. Prosecutors have agreed to a hearing on that information.</p>
+        <p>Defense lawyers say that a man linked to a violent Bronx drug gang, called C &amp; C, shot Mr. Peterson outside the Palladium, which was on East 14th Street.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

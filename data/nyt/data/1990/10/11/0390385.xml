@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Advisory On Bond Rating</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="390385"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">RATINGS AND RATING SYSTEMS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">MOODY'S INVESTORS SERVICE INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D9173FF932A25753C1A966958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Advisory On Bond Rating</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A day after one Wall Street credit-rating agency threatened to lower New York City's bond rating if it did not act aggressively to close budget gaps, another agency said yesterday that the city's recent actions had been responsible for ''increasing the level of concern'' about its credit rating.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A day after one Wall Street credit-rating agency threatened to lower New York City's bond rating if it did not act aggressively to close budget gaps, another agency said yesterday that the city's recent actions had been responsible for ''increasing the level of concern'' about its credit rating.</p>
+        <p>A day after one Wall Street credit-rating agency threatened to lower New York City's bond rating if it did not act aggressively to close budget gaps, another agency said yesterday that the city's recent actions had been responsible for ''increasing the level of concern'' about its credit rating.</p>
+        <p>But the agency, Moody's Investors Service, said revenue shortfalls, rising costs, pressures for wage settlements and proposed police hiring should be ''analyzed as separate and distinct issues,'' though it added that ''they do represent competing expenditure pressures on an already tight budget.''</p>
+        <p>Moody's said it would look for</p>
+        <p>''an appropriate response to address each of these pressures'' when the city issues a scheduled revision of its financial plan next month.</p>
+        <p>On Tuesday, the Standard &amp;</p>
+        <p>Poor's Corporation put New York City's general-obligation bonds on a ''credit watch,'' citing concerns about the same questions. Moody's does not have a similar warning but issued its advisory instead.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

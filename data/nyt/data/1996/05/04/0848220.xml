@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Highway Death Rate Low</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Second Front" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="848220"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">NEW JERSEY, USA</location>
+        <person class="indexing_service">SHARKEY, JOE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EEDE1439F937A35756C0A960958260" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Highway Death Rate Low</hl1>
+      </hedline>
+      <byline class="print_byline">By JOE SHARKEY</byline>
+      <byline class="normalized_byline">SHARKEY, JOE</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey's motor-vehicle fatality rate ranked far below the national average in 1995, for the second consecutive year. According to the National Highway Traffic Safety Administration, the state's fatality rate last year was 9.63 per 100,000 residents. The national rate was 15.62. Last year, 776 people died in motor vehicle accidents in the state, and preliminary figures show that  the fatality rate is running even lower this year.</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey's motor-vehicle fatality rate ranked far below the national average in 1995, for the second consecutive year. According to the National Highway Traffic Safety Administration, the state's fatality rate last year was 9.63 per 100,000 residents. The national rate was 15.62. Last year, 776 people died in motor vehicle accidents in the state, and preliminary figures show that  the fatality rate is running even lower this year.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

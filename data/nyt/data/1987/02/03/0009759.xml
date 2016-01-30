@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grenfell Forms Executive Unit</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="9759"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <org class="indexing_service">MORGAN GRENFELL GROUP PLC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DF143EF930A35751C0A961948260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grenfell Forms Executive Unit</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LONDON, Feb. 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Morgan Grenfell Group P.L.C., parent of Britain's top investment bank, said today that it had set up an executive committee to manage the company.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Morgan Grenfell Group P.L.C., parent of Britain's top investment bank, said today that it had set up an executive committee to manage the company.</p>
+        <p>The Morgan Grenfell Group P.L.C., parent of Britain's top investment bank, said today that it had set up an executive committee to manage the company.</p>
+        <p>The announcement followed the resignations of several top officers stemming from Morgan Grenfell's involvement in a share-trading scandal surrounding Guinness P.L.C., the brewery giant.</p>
+        <p>The new executive committee ''will be responsible for coordinating the activities of the group, monitoring the performance of those activities and focusing on forward strategic planning for the group,'' Morgan Grenfell said. Morgan Grenfell had established an interim executive committee following the resignation of Christopher Reeves as deputy chairman and chief executive two weeks ago. Mr. Reeves resigned along with Graham Walsh, head of corporate finance.</p>
+        <p>The two cited their responsibility for the company's involvement in the Guinness repurchase of its stock last year to support its price and improve the brewer's chances of beating out a rival bidder for the Distillers Company. Guinness, which is under investigation by the Government, has admitted wrongdoing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

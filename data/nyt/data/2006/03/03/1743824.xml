@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Voting Machine Mess</title>
+    <meta content="03fri3" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/03/opinion/03fri3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1743824"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">New York State</location>
+        <org class="online_producer">Justice Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D61731F930A35750C0A9609C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Voting Machine Mess</hl1>
+        <hl2 class="online_headline">A Voting Machine Mess</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States Justice Department sued New York State this week for having the worst record in the nation when it comes to complying with the Help America Vote Act. Now lawyers for the state and the Bush administration are trying to negotiate a solution in a rushed atmosphere that could involve some very bad compromises. Being late is humiliating, but hurrying up and buying the wrong voting systems would be far worse.</p>
+        <p>The impatience of the Justice Department with New York is understandable, and state leaders should hang their heads. The federal government is pushing the state to complete a database, choose machines and test them by the fall elections. That would be nice, but it's simply unrealistic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>New York State has the worst record in the nation when it comes to complying with the Help America Vote Act, but negotiating a solution in a rushed atmosphere could involve some very bad compromises.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States Justice Department sued New York State this week for having the worst record in the nation when it comes to complying with the Help America Vote Act. Now lawyers for the state and the Bush administration are trying to negotiate a solution in a rushed atmosphere that could involve some very bad compromises. Being late is humiliating, but hurrying up and buying the wrong voting systems would be far worse.</p>
+        <p>The impatience of the Justice Department with New York is understandable, and state leaders should hang their heads. The federal government is pushing the state to complete a database, choose machines and test them by the fall elections. That would be nice, but it's simply unrealistic.</p>
+        <p>New York could lose some or all of $49 million in federal aid for the purchase of new voting machines, so officials have quite an incentive to move quickly. There have been alarming rumors about a possible agreement that would skimp on testing the new equipment, or even adopt machines that don't have the safety net of a paper trail. These are fundamental protections of the voters' right to make sure that their ballots are counted accurately. Attorney General Eliot Spitzer's lawyers must make certain that Washington does not push through insecure machines and faulty testing procedures by this backdoor route.</p>
+        <p>There are better options. The state could certify optical scanning systems, which can be adapted more easily to New York's requirements than other voting machines. (They are also less expensive than some of the fancier electronic gizmos being pushed by Albany lobbyists.) Another possible compromise would put a special machine or phone at each polling place this fall for disabled voters, who have been of particular concern to the Justice Department. Then the state would be responsible for coming up with an entire fleet of satisfactory new machines -- accessible to the handicapped -- in time for the presidential election in 2008.</p>
+        <p>Board of Elections commissioners have argued that New York's delay has saved voters from problems encountered in other states that have adopted new voting systems much more rapidly. But the argument that New York has taken its time to get a better system works only if the commissioners actually get a better system.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

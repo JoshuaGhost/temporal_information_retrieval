@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Proud Bronx Basks In Yankees' Radiance</title>
+    <meta content="16BREF$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="883599"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E7D71731F935A25753C1A960958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Proud Bronx Basks In Yankees' Radiance</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When she walks her dog, Karmelia Wilmot can see inside Yankee Stadium. On Saturday, baseball fans around the country will be focused on the same spot, in a sliver of the Bronx she calls home. For Bronx residents, the Yankees' success has had a particular resonance, in some ways typifying the borough's own resurgence after years as a dismal urban metaphor. For many, pride has overcome bittersweet feelings about a team that may see its future elsewhere.</p>
+        <p>Article, page B3.</p>
+      </block>
+      <block class="full_text">
+        <p>When she walks her dog, Karmelia Wilmot can see inside Yankee Stadium. On Saturday, baseball fans around the country will be focused on the same spot, in a sliver of the Bronx she calls home. For Bronx residents, the Yankees' success has had a particular resonance, in some ways typifying the borough's own resurgence after years as a dismal urban metaphor. For many, pride has overcome bittersweet feelings about a team that may see its future elsewhere.</p>
+        <p>Article, page B3.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Full-Time Job for Former College Star</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="637526"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: SOCCER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCCER</classifier>
+        <person class="indexing_service">LALAS, ALEXI</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D6143CF93AA1575AC0A965958260" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Full-Time Job for Former College Star</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALEXI LALAS signed a contract yesterday that will keep him training full time with the United States national team through the World Cup next July. Lalas, the 1991 college player of the year at Rutgers, joined the United States team in January. He has been under a part-time contract as a defender-midfielder. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>ALEXI LALAS signed a contract yesterday that will keep him training full time with the United States national team through the World Cup next July. Lalas, the 1991 college player of the year at Rutgers, joined the United States team in January. He has been under a part-time contract as a defender-midfielder. (AP)  SPORTS PEOPLE: SOCCER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

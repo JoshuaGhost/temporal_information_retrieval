@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arbitration Case Filed Against WPP, Ogilvy</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="426182"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">WPP GROUP PLC</org>
+        <org class="indexing_service">OGILVY &amp; MATHER WORLDWIDE INC</org>
+        <person class="indexing_service">BEACH, BRUCE</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD71139F935A15751C0A967958260" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arbitration Case Filed Against WPP, Ogilvy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bruce Beach, who resigned last month as executive vice president and managing director of Ogilvy &amp; Mather's Chicago office, has begun an arbitration proceeding against the agency and its parent company, the WPP Group.</p>
+      </block>
+      <block class="full_text">
+        <p>Bruce Beach, who resigned last month as executive vice president and managing director of Ogilvy &amp; Mather's Chicago office, has begun an arbitration proceeding against the agency and its parent company, the WPP Group.</p>
+        <p>Mr. Beach charged in the demand for arbitration, which was released late yesterday, that Ogilvy and WPP "failed to comply" with the terms of a severance agreement they entered into in July 1989. Among other arguments, Mr. Beach contended that "an evolution of changes, often small at first but insidious and pervasive," combined to diminish his "autonomy and control" over the Chicago office.</p>
+        <p>A spokeswoman in the Chicago office of Ogilvy &amp; Mather said the agency had no comment.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

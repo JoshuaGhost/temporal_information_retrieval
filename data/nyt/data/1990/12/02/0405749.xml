@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Music; Zurich Tonhalle Ensemble</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="83" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="405749"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">ZURICH TONHALLE ORCHESTRA</org>
+        <person class="indexing_service">ROCKWELL, JOHN</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D71230F931A35751C1A966958260" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Music; Zurich Tonhalle Ensemble</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN ROCKWELL</byline>
+      <byline class="normalized_byline">ROCKWELL, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Zurich Tonhalle Orchestra, founded in 1868, counts as Switzerland's oldest, yet despite its central position in the country's largest German-speaking city, it has never quite won a top-level international reputation. Among other signs of that somewhat localized stature, it seems to tour less than many other orchestras, at least to New York.</p>
+        <p>Friday evening the Tonhalle Orchestra, or at least a roughly 40-member chamber version thereof, appeared at Carnegie Hall under the direction of the Swiss-born, London-based Matthias Bamert; Claus Peter Flor takes over as principal guest conductor next season.</p>
+      </block>
+      <block class="full_text">
+        <p>The Zurich Tonhalle Orchestra, founded in 1868, counts as Switzerland's oldest, yet despite its central position in the country's largest German-speaking city, it has never quite won a top-level international reputation. Among other signs of that somewhat localized stature, it seems to tour less than many other orchestras, at least to New York.</p>
+        <p>Friday evening the Tonhalle Orchestra, or at least a roughly 40-member chamber version thereof, appeared at Carnegie Hall under the direction of the Swiss-born, London-based Matthias Bamert; Claus Peter Flor takes over as principal guest conductor next season.</p>
+        <p>The highlight of a generally low-wattage concert came after the intermission, with Bernd Alois Zimmermann's Concerto for oboe and small orchestra. Surprisingly, given the reputation of this German modernist (the opera "Die Soldaten" is his most famous work), this was the New York premiere of a score composed in 1952. Which delay probably says more about New York's conservatism than about Zimmermann's obscurity.</p>
+        <p>Although written in a 12-tone idiom, this is a bright, fantastical score, full of flamboyant virtuosity for the soloist (especially in the ornate cadenzas) and pungent writing for the accompanying ensemble. Galvanized by the music (Mr. Bamert is himself a composer and a specialist in new music) and the presence of a world-class soloist in Heinz Holliger, the orchestra delivered a pointed, energized performance.</p>
+        <p>While the conductor and both soloists were Swiss, none of the music was. Indeed, the rest of the program, lovely music all, suggested a desire to sell tickets to a cautious mainstream public rather than to make the best case for Swiss music and this orchestra. Perhaps dulled by Carnegie's new acoustics, which blunt smallish ensembles (just the forces with which Avery Fisher Hall shines), the Tonhalle Orchestra sounded lethargic and thick-tongued.</p>
+        <p>Within those severe limits, the opening Ravel "Tombeau de Couperin" and the closing Haydn Symphony No. 82 in C ("The Bear") received modestly appealing performances, far short of the elegance and swagger of top-flight ensembles, but pleasingly diffident, nonetheless.</p>
+        <p>Mozart's Violin Concerto No. 5 in A (K. 219), however, fell to a distinctly lower level. That was partly the fault of Bettina Boller, whose small-scaled tone, uneasy intonation and lack of command simply did not match up to other violinists who routinely appear on the Carnegie Hall stage. But the orchestra, too, delivered a graceless account of music that demands grace above all.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

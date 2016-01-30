@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holiday on Monday</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="416281"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <person class="indexing_service">KING, MARTIN LUTHER JR (1929-68)</person>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0D8163FF93AA25752C0A967958260" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holiday on Monday</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Martin Luther King Jr.'s birthday will be observed on Monday. Here are holdiday schedules. NEW YORK Government offices: Closed. Post office: Express Mail and special delivery only; main post office open at 33d Street and Eighth Avenue. Banks: Optional. Parking: Alternate-side rules suspended. Sanitation: Regular garbage pickups and recycling. No street cleaning. Schools: Closed. Financial markets: Closed. Transportation: Buses, subways, L.I.R.R. and Metro-North on regular schedule. NEW JERSEY Government offices: Closed. Post office: Express Mail and special delivery only. Banks: Closed. Schools: Local option. Transportation: N.J. Transit on regular schedule. Some modified bus schedules. CONNECTICUT Government offices: Closed. Post office: Express Mail and special delivery only. Banks: Closed. Schools: Closed. Transportation: Metro-North on regular schedule.</p>
+      </block>
+      <block class="full_text">
+        <p>Martin Luther King Jr.'s birthday will be observed on Monday. Here are holdiday schedules. NEW YORK Government offices: Closed. Post office: Express Mail and special delivery only; main post office open at 33d Street and Eighth Avenue. Banks: Optional. Parking: Alternate-side rules suspended. Sanitation: Regular garbage pickups and recycling. No street cleaning. Schools: Closed. Financial markets: Closed. Transportation: Buses, subways, L.I.R.R. and Metro-North on regular schedule. NEW JERSEY Government offices: Closed. Post office: Express Mail and special delivery only. Banks: Closed. Schools: Local option. Transportation: N.J. Transit on regular schedule. Some modified bus schedules. CONNECTICUT Government offices: Closed. Post office: Express Mail and special delivery only. Banks: Closed. Schools: Closed. Transportation: Metro-North on regular schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

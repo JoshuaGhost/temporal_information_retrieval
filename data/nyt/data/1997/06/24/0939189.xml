@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ancient Art Show For Getty Opening</title>
+    <meta content="24GETT$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="939189"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Museums</classifier>
+        <classifier class="indexing_service" type="descriptor">Company and Organization Profiles</classifier>
+        <location class="indexing_service">Los Angeles (Calif)</location>
+        <org class="indexing_service">Getty, J Paul, Museum (Los Angeles)</org>
+        <org class="indexing_service">Getty Center (Los Angeles)</org>
+        <person class="indexing_service">Meier, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Museums</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E2DA1F3EF937A15755C0A961958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ancient Art Show For Getty Opening</hl1>
+      </hedline>
+      <abstract>
+        <p>Getty Center, $1-billion arts complex in foothills of Santa Monica Mountains in Los Angeles, will open in December with exhibition of ancient artworks; six-building center designed by Richard Meier will feature new J Paul Getty Museum, along with institutes for conservation, research, education, information and grants; Getty Museum in Malibu is closing, and will reopen in 2001 with exhibits of ancient art (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Getty Center, a $1 billion arts complex in the foothills of the Santa Monica Mountains in Los Angeles, is to open on Dec. 16 with an exhibition of ancient artworks. The six-building center, designed by Richard Meier, will feature a new J. Paul Getty Museum along with institutes for conservation, research, education, information and grants. Plans were conceived more than 13 years ago.</p>
+      </block>
+      <block class="full_text">
+        <p>The Getty Center, a $1 billion arts complex in the foothills of the Santa Monica Mountains in Los Angeles, is to open on Dec. 16 with an exhibition of ancient artworks. The six-building center, designed by Richard Meier, will feature a new J. Paul Getty Museum along with institutes for conservation, research, education, information and grants. Plans were conceived more than 13 years ago.</p>
+        <p>In addition to galleries featuring the Getty's permanent art collection and visiting shows, public spaces at the center will include a reading area, a research library, an auditorium, a restaurant, two cafes and a bookstore. Admission will be free, but reserved parking, at $5 a car, will be required. The J. Paul Getty Museum at the Getty Villa in Malibu is to close for renovations on July 6 and is to reopen in 2001 as a center devoted to ancient art.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

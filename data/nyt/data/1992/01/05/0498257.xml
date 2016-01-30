@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A COSMOLOGICAL EVENT</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="498257"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATH</classifier>
+        <person class="indexing_service">FERRIS, TIMOTHY</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3D7163DF936A35752C0A964958260" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A COSMOLOGICAL EVENT</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is possible that some of the visual phenomena associated with near-death experiences, particularly phenomena relating to a dark tunnel followed by brilliant, radiant light, may have to do with successful resuscitation and recovery. This would be the expected sequence of events if the visual centers of the brain, the occipital lobes, were deprived of, and then resupplied with, blood. This would happen if the heart stopped and was then restarted.</p>
+        <p>I trust that a mechanistic explanation does not detract from the beauty or significance of these experiences. CHARLES B. BRILL, M.D.</p>
+        <p>Philadelphia</p>
+      </block>
+      <block class="full_text">
+        <p>It is possible that some of the visual phenomena associated with near-death experiences, particularly phenomena relating to a dark tunnel followed by brilliant, radiant light, may have to do with successful resuscitation and recovery. This would be the expected sequence of events if the visual centers of the brain, the occipital lobes, were deprived of, and then resupplied with, blood. This would happen if the heart stopped and was then restarted.</p>
+        <p>I trust that a mechanistic explanation does not detract from the beauty or significance of these experiences. CHARLES B. BRILL, M.D.</p>
+        <p>Philadelphia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miami Heat Signs Top Draft Pick</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="561217"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SPORTS PEOPLE: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">MIAMI HEAT</org>
+        <person class="indexing_service">MINER, HAROLD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Miami Heat</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDB1338F934A35753C1A964958260" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miami Heat Signs Top Draft Pick</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Miami Heat signed first-round draft pick HAROLD MINERto a long-term contract yesterday. Terms weren't disclosed, but published reports said the team's offer was for five years and $7.3 million.</p>
+      </block>
+      <block class="full_text">
+        <p>The Miami Heat signed first-round draft pick HAROLD MINERto a long-term contract yesterday. Terms weren't disclosed, but published reports said the team's offer was for five years and $7.3 million.</p>
+        <p>Miner, a high-scoring guard from Southern Cal, was the 12th player taken in the June draft. He averaged 23.5 points in his three-year career with the Trojans. (AP)  SPORTS PEOPLE: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

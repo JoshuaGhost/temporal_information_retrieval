@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lotus-Novell Link Fought</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="343488"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">LOTUS DEVELOPMENT CORP</org>
+        <org class="indexing_service">NOVELL INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DB163EF937A25757C0A966958260" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lotus-Novell Link Fought</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two stockholders have gone to court to block the proposed $1.4 billion merger of two big software companies, the Lotus Development Corporation and Novell Inc., the companies said yesterday.</p>
+        <p>The class-action lawsuit in</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two stockholders have gone to court to block the proposed $1.4 billion merger of two big software companies, the Lotus Development Corporation and Novell Inc., the companies said yesterday.</p>
+        <p>The class-action lawsuit in</p>
+        <p>Two stockholders have gone to court to block the proposed $1.4 billion merger of two big software companies, the Lotus Development Corporation and Novell Inc., the companies said yesterday.</p>
+        <p>The class-action lawsuit in</p>
+        <p>Delaware Chancery Court seeks an injunction against the proposed merger, which sent shares of both companies tumbling after it was announced last week.</p>
+        <p>The suit, filed by Stephen</p>
+        <p>Maskaleris and Herbert Podell, two Novell shareholders, contends that Novell and its directors breached their fiduciary duties to shareholders in agreeing to merge with Lotus. Lotus, which is issuing new stock to acquire Novell, was named as a defendant for abetting Novell in its actions.</p>
+        <p>Novell said the companies believe the suit is without merit. They did not say when the lawsuit was filed.</p>
+        <p>Lotus, whose personal computer spreadsheets dominate the market, announced its plan last week for the biggest merger ever in the personal computer software business.</p>
+        <p>The combined companies would have sales of about $1 billion, making the resulting entity almost as big as the Microsoft Corporation, the industry leader, whose sales this year are expected to top $1 billion.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

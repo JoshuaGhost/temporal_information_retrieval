@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JAZZ</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="766593"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="IN PERFORMANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">WATROUS, PETER</person>
+        <person class="indexing_service">MARSALIS, ELLIS</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EEDA1639F930A35755C0A963958260" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JAZZ</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER WATROUS</byline>
+      <byline class="normalized_byline">WATROUS, PETER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Father of Wynton, Branford et al., And of a Genre's Renaissance Ellis Marsalis Iridium</p>
+      </block>
+      <block class="full_text">
+        <p>Father of Wynton, Branford et al., And of a Genre's Renaissance Ellis Marsalis Iridium</p>
+        <p>There are all sorts of reasons for good performances. The pianist Ellis Marsalis's show on Wednesday night worked because of Mr. Marsalis's patience, and his solid sense of time. He and his trio played standards, only occasionally using more than modest arrangements. But his improvisations were filled with open spaces of silence, and he never wasted a note nor rushed an idea before it  ripened. Yet at times the music had so much propulsion it seemed made for dancing. Mr. Marsalis was trying to make music instead of exercising all his improvisational options, one of the many differences between young musicians and mature ones.</p>
+        <p>Probably best known for being the father of Wynton, Branford, Delfeo and Jason, who is now his drummer, Mr. Marsalis is also an important teacher and figurehead for the current jazz renaissance. Less well known is that he was among a small group of modernists who came up in New Orleans in the 1950's and recorded for A.F.O. Records, which documented the works of the progressive wing  of New Orleans jazz. He was considered the best pianist of his generation, but he rarely left New Orleans, so he basked in obscurity until the fame of his children brought him attention.</p>
+        <p>On Wednesday, Mr. Marsalis, who rarely comes to New York, performed a selection of pieces made famous by Duke Ellington, including "Take the A-Train" and "Creole Love Call," carefully placing every note in time, making sure that his phrases all swung. He was percussive at times, letting one repeated note do more than its share, and his improvisations were always clean and ordered. He knows the value of editing, and the brevity that comes with it.</p>
+        <p>Mr. Marsalis will be at the Iridium (44 West 63d Street, Manhattan) through tomorrow.</p>
+        <p>PETER WATROUS</p>
+        <p>IN PERFORMANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Psychiatrists Try to Play Judge</title>
+    <meta content="LTR232546" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1031801"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="indexing_service" type="descriptor">Lying</classifier>
+        <person class="indexing_service">Olson, Maynard V (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D71031F937A25754C0A96E958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Psychiatrists Try to Play Judge</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Maynard V Olson letter scores ideologically driven cohort of psychiatrists and other experts who have devoted themselves to creating and validating claims of sexual abuse (July 10 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Recanting a Sex Abuse Charge'' (news article, July 10) describes the agony and resilience of a family struggling to renew itself after a young woman accused her father of sexually abusing her and then recanted the accusation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Recanting a Sex Abuse Charge'' (news article, July 10) describes the agony and resilience of a family struggling to renew itself after a young woman accused her father of sexually abusing her and then recanted the accusation.</p>
+        <p>It will be up to the Rockland County District Attorney and the presiding judge to handle the legal complexities. I hope they will find more knowledgeable experts than Rockland County's chief forensic psychiatrist, who claims that the way to distinguish between false and authentic recantations is to analyze the depth of detail of the accusations.</p>
+        <p>In contrast, a working group on child sexual abuse of England's Royal College of Psychiatrists has concluded that ''there is no reliable means of distinguishing a true memory from an illusory one other than by external confirmation.''</p>
+        <p>It is time for the news media to examine the culpability of an ideologically driven cohort of psychologists, psychiatrists and social workers who have devoted themselves to creating and validating claims of sexual abuse.</p>
+        <p>MAYNARD V. OLSON  Seattle, July 12, 1998</p>
+        <p>The writer is a professor of medicine at the University of Washington.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HOW SHORT IS TOO SHORT?</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="458175"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GROWTH</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH INSURANCE</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">HORMONES</classifier>
+        <person class="indexing_service">O'KEEFE, JOHN T</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hormones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DE1530F934A35754C0A967958260" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HOW SHORT IS TOO SHORT?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Werth's article on the development and use of human growth hormone is a succinct indictment of the most troubling aspects of America's health-care system. Why do insurance companies subsidize human growth hormone shots while they desperately seek to avoid paying for "experimental" drugs that might ease the pain of thousands of Americans with AIDS? Health care through market research may be the death of us yet. JOHN T. O'KEEFE Cambridge, Mass</p>
+      </block>
+      <block class="full_text">
+        <p>Werth's article on the development and use of human growth hormone is a succinct indictment of the most troubling aspects of America's health-care system. Why do insurance companies subsidize human growth hormone shots while they desperately seek to avoid paying for "experimental" drugs that might ease the pain of thousands of Americans with AIDS? Health care through market research may be the death of us yet. JOHN T. O'KEEFE Cambridge, Mass</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

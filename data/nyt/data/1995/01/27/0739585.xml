@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Benefit for Dance Group</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="739585"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <org class="indexing_service">JONES, BILL T/ARNIE ZANE DANCE CO</org>
+        <org class="indexing_service">LEMON, RALPH, DANCE COMPANY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDB1339F934A15752C0A963958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Benefit for Dance Group</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The companies of Bill T. Jones and Ralph Lemon will perform in a benefit for Movement Research, a dance service, educational and presenting organization, tomorrow at 8 P.M. at the Pace Downtown Theater at Pace University, 3 Spruce Street, just south of City Hall. Other performers are Lucy Guerin and Hot Mouth, an a cappella group (Grisha Coleman, Viola Sheedy, Jonathan Stone and David Thomson) that specializes in song inspired by black and European classical music. Tickets are $20; $35 and $75 tickets include a pre-performance reception. Information: (212) 477-6635.</p>
+      </block>
+      <block class="full_text">
+        <p>The companies of Bill T. Jones and Ralph Lemon will perform in a benefit for Movement Research, a dance service, educational and presenting organization, tomorrow at 8 P.M. at the Pace Downtown Theater at Pace University, 3 Spruce Street, just south of City Hall. Other performers are Lucy Guerin and Hot Mouth, an a cappella group (Grisha Coleman, Viola Sheedy, Jonathan Stone and David Thomson) that specializes in song inspired by black and European classical music. Tickets are $20; $35 and $75 tickets include a pre-performance reception. Information: (212) 477-6635.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

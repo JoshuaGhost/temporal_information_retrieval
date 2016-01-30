@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hearst Book's New Chief</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="769893"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">HEARST CORP</org>
+        <org class="indexing_service">HEARST BOOK GROUP</org>
+        <person class="indexing_service">WRIGHT, WILLIAM M</person>
+        <person class="indexing_service">KAMINSKY, HOWARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDD113BF93AA25755C0A963958260" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hearst Book's New Chief</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Hearst Book Group in New York, a unit of the Hearst Corporation, named William M. Wright, president and chief executive. He succeeds Howard Kaminsky who left the company in 1994. Mr. Wright, 46, will be responsible for overseeing the operations of both William Morrow &amp; Company and Avon Books, members of the Hearst Book Group. Mr. Wright said he hoped to expand the author list, as well as further develop the nonfiction, romance and children's publishing franchises. He previously was the executive vice president and chief operating officer of Random House Inc. in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>The Hearst Book Group in New York, a unit of the Hearst Corporation, named William M. Wright, president and chief executive. He succeeds Howard Kaminsky who left the company in 1994. Mr. Wright, 46, will be responsible for overseeing the operations of both William Morrow &amp; Company and Avon Books, members of the Hearst Book Group. Mr. Wright said he hoped to expand the author list, as well as further develop the nonfiction, romance and children's publishing franchises. He previously was the executive vice president and chief operating officer of Random House Inc. in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

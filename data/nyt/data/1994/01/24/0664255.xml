@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Theater; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664255"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <person class="indexing_service">CHALFANT, KATHLEEN</person>
+        <person class="indexing_service">MCLAUGHLIN, ELLEN</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">WOOLF, VIRGINIA (1882-1941)</person>
+        <object.title class="indexing_service">PARTY, THE (PLAY)</object.title>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DC1130F937A15752C0A962958260" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not long after KATHLEEN CHALFANT , who plays six roles in the two plays that comprise "Angels in America" and ELLEN McLAUGHLIN , who plays the angel and three other parts, met, they discovered that they had something in common: their love for the writing of Virginia Woolf. That encounter, at a rehearsal in 1989 for "Part I: Millennium Approaches" at the Mark Taper Forum in Los Angeles, and a discussion about the writer, set in motion an unexpected collaboration.</p>
+        <p>The result: On Sunday, Feb. 6, Ms. Chalfant will play all four roles in "The Party," the one-woman show that Ms. McLaughlin, who is also a playwright, fashioned from three Virginia Woolf stories.</p>
+      </block>
+      <block class="full_text">
+        <p>Not long after KATHLEEN CHALFANT , who plays six roles in the two plays that comprise "Angels in America" and ELLEN McLAUGHLIN , who plays the angel and three other parts, met, they discovered that they had something in common: their love for the writing of Virginia Woolf. That encounter, at a rehearsal in 1989 for "Part I: Millennium Approaches" at the Mark Taper Forum in Los Angeles, and a discussion about the writer, set in motion an unexpected collaboration.</p>
+        <p>The result: On Sunday, Feb. 6, Ms. Chalfant will play all four roles in "The Party," the one-woman show that Ms. McLaughlin, who is also a playwright, fashioned from three Virginia Woolf stories.</p>
+        <p>"Virginia Woolf had written them as practice for her novel, 'Mrs. Dalloway,' and I loved them," Ms. Chalfant said the other day. "I thought surely I could do something on stage with them, and I carried the little book of short stories around all the time.</p>
+        <p>"I had known Ellen for about a week when she looked down at the book and asked, 'What is that?' She told me that she too loved Virginia Woolf and that her mother was a Virginia Woolf scholar. I said I thought the stories could be combined but didn't know how to do it, and she said 'Do you need a writer?' "</p>
+        <p>That summer Ms. McLaughlin produced a script, and in late 1990, Ms. Chalfant performed it four times in Los Angeles. Then they got caught up in the whirl of workshops, rehearsals and productions of "Angels in America," the epic about AIDS, in San Francisco, Los Angeles and on Broadway. " 'The Party' sort of went away," Ms. Chalfant said.</p>
+        <p>But not completely. "The play is a child of 'Angels in America,' " Ms. Chalfant said. That makes it fitting that the forthcoming performance will be a benefit for SafeSpace, a service for homeless and street youths with AIDS or at risk for H.I.V. NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

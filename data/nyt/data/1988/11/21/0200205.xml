@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="200205"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D7113FF932A15752C1A96E948260" item-length="458" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott, Special to the New York Times</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+      <dateline>NASHVILLE, Nov. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Two major titles were decided here Saturday night in the American Contract Bridge League's Fall Nationals. The Life Master Men's Pairs went to Robert Levin of Chicago, who in 1981 became the youngest-ever world champion when he won at age 24, and Larry Cohen of Culver City, Calif. They scored 808 match points.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Two major titles were decided here Saturday night in the American Contract Bridge League's Fall Nationals. The Life Master Men's Pairs went to Robert Levin of Chicago, who in 1981 became the youngest-ever world champion when he won at age 24, and Larry Cohen of Culver City, Calif. They scored 808 match points.</p>
+        <p>Two major titles were decided here Saturday night in the American Contract Bridge League's Fall Nationals. The Life Master Men's Pairs went to Robert Levin of Chicago, who in 1981 became the youngest-ever world champion when he won at age 24, and Larry Cohen of Culver City, Calif. They scored 808 match points. The other leaders were: second, Glenn Lublin of Silver Spring, Md., and Peter Boyd of Falls Church, Va., 793.4; third, Bob Hamman of Dallas and Ralph Katz of Chicago, 790.6; fourth, Dave Glen of Coquitlam, B.C., and Joshua Stark of Buffalo Grove, Ill., and fifth, Ed Manfield of Hyattsville, Md., and Kit Woolsey of Kensington, Calif., 777.1.</p>
+        <p>The final standings in the Life Master Women's Pairs were: first, Nancy Passell of Richardson, Tex., and Nell Cahn of Shreveport, La., 1,777.7; second, Brenda Keller of Boise, Idaho, and Renee Mancuso of Miami Beach, 1,705; third, Beverly Rosenberg of Sherman Oaks, Calif., and Carol Pincus of Los Angeles, 1,688.1; fourth, Sheila Ekeblad of Providence, R.I., and Barbara Stone of Framingham, Mass., 1,686.2, and fifth, Tobi Deutsch of Chicago and Sue Weinstein of Northbrook, Ill., 1,668.8.</p>
+        <p>The women's winners led throughout the final and were helped by the diagramed deal. Their opponents struggled into four hearts, and when a club was led, dummy's queen was finessed successfully.</p>
+        <p>The singleton spade was led, and Cahn as East put up the ace and cashed the diamond ace. She led another diamond, won with dummy's queen. When a finesse of the heart queen lost to the king, another diamond lead forced South to guess, and she guessed wrongly by ruffing high. The heart ten scored the setting trick, defeating a contract that came home at almost all the other tables.</p>
+        <p>In Friday's bridge column, the winners of the duplicate game played two days earlier at the Regency Club in Manhattan were incorrectly reported. Winning with 77 percent, one of the biggest scores ever recorded in the metropolitan area, were Louise Bookstaver and Boris Koytchou. Thirteen clubs in the metropolitan area will take part in the American Contract Bridge League's Charity Game tonight. Manhattan: Beverly, 130 East 57th Street; Culbertson, 24 Fifth Avenue, and Manhattan, 27 West 72d Street. Brooklyn: Bridge Center of Brooklyn, 1789 McDonald Avenue, and Fort Hamilton Officers Club, Fort Hamilton. Staten Island: Snug Harbor, 914 Richmond Terrace. Long Island: South Shore, 8 West Main Street, Patchogue; Vanderbilt, 1362 Northern Boulevard, Manhasset. Rock land: Finesse, 811 Main Street, Spring Valley. New Jersey: Arrowhead, Lakewood Drive, Denville; Bergen, 1386 Queen Anne Road, Teaneck; Essex, 95 West Mount Pleasant Avenue, Livingston, and Glen Rock, Marlot Avenue and Phillip Street, Fair Lawn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

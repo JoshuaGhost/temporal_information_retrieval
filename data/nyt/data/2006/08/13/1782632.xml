@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lee Reiber, Bruce Adams</title>
+    <meta content="13reiber" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1782632"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Reiber, Lee Winfield (Lee Winfield Adams)</person>
+        <person class="indexing_service">Adams, Bruce Howlett</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2DB163EF930A2575BC0A9609C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lee Reiber, Bruce Adams</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lee Winfield Reiber, a daughter of Sandra Sherburne Reiber and Justice Paul L. Reiber of Chittenden, Vt., was married yesterday to Bruce Howlett Adams, a son of the Rev. Hope H. Eakins of Barrington, R.I., and Daniel N. Adams Jr. of Barneveld, N.Y. The Rev. Alan G. Gibson performed the ceremony at Trinity Episcopal Church in Rutland, Vt.</p>
+        <p>The bride and bridegroom each received law degrees in May from the University of Connecticut, where they met.</p>
+      </block>
+      <block class="full_text">
+        <p>Lee Winfield Reiber, a daughter of Sandra Sherburne Reiber and Justice Paul L. Reiber of Chittenden, Vt., was married yesterday to Bruce Howlett Adams, a son of the Rev. Hope H. Eakins of Barrington, R.I., and Daniel N. Adams Jr. of Barneveld, N.Y. The Rev. Alan G. Gibson performed the ceremony at Trinity Episcopal Church in Rutland, Vt.</p>
+        <p>The bride and bridegroom each received law degrees in May from the University of Connecticut, where they met.</p>
+        <p>Mrs. Adams, 28, is to become an associate at Reid &amp; Riege, a Hartford law firm, in September. She graduated from Boston College. Her father is the chief justice of the Vermont Supreme Court, in Montpelier. Her mother is a residential sales agent for the Rutland office of Coldwell Banker Watson Realty.</p>
+        <p>Mr. Adams, 33, is to become in September a law clerk for Judge Thomas P. Griesa of the Federal District Court in New York. The bridegroom graduated from the University of Vermont. His mother retired as the rector of St. John's Episcopal Church in Essex, Conn. His father operates a marketing consultancy bearing his name in Barneveld. The bridegroom is a stepson of the Rev. William J. Eakins, an Episcopal priest who retired as the rector of Trinity Episcopal Church in Hartford.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

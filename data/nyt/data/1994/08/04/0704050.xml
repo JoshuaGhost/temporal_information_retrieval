@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bond Dealer Group Is Against S.E.C. Proposals</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="704050"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">REGULATION AND DEREGULATION OF INDUSTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMER PROTECTION</classifier>
+        <org class="indexing_service">SECURITIES AND EXCHANGE COMMISSION (SEC)</org>
+        <org class="indexing_service">MUNICIPAL SECURITIES RULEMAKING BOARD</org>
+        <person class="indexing_service">WAYNE, LESLIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E5DD1331F937A3575BC0A962958260" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bond Dealer Group Is Against S.E.C. Proposals</hl1>
+      </hedline>
+      <byline class="print_byline">By LESLIE WAYNE</byline>
+      <byline class="normalized_byline">WAYNE, LESLIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Municipal Securities Rulemaking Board, the agency set up by municipal bond dealers to regulate the industry, is opposing several proposals by the Securities and Exchange Commission intended to increase the financial information given to buyers of municipal bonds.</p>
+        <p>The S.E.C. is currently considering proposals to make it easier for buyers of municipal bonds to obtain information on the financial health of the cities and agencies that have issued those bonds -- much in the same way that corporations issue periodic earnings reports and make other financial information available to buyers of their stocks and bonds.</p>
+      </block>
+      <block class="full_text">
+        <p>The Municipal Securities Rulemaking Board, the agency set up by municipal bond dealers to regulate the industry, is opposing several proposals by the Securities and Exchange Commission intended to increase the financial information given to buyers of municipal bonds.</p>
+        <p>The S.E.C. is currently considering proposals to make it easier for buyers of municipal bonds to obtain information on the financial health of the cities and agencies that have issued those bonds -- much in the same way that corporations issue periodic earnings reports and make other financial information available to buyers of their stocks and bonds.</p>
+        <p>But the rulemaking board yesterday opposed a S.E.C. proposal that would prevent municipal bond dealers from underwriting and selling bonds to investors unless the dealers review the financial health of all bonds they are selling -- including those already being traded.</p>
+        <p>The rulemaking board found this restriction, especially as it applies to sales of "secondary" market securities -- trades of securities already in the marketplace -- too onerous. The panel believes that more study is necessary to develop a workable proposal, though it supports the concept of providing more financial information for investors. Call for Standard Format</p>
+        <p>"A lot more work needs to be done before we come up with an approach," Christopher Taylor, the board's chairman, said. "Dealers can't commit to underwrite and sell bonds unless issuers provide periodic information. And we need to first come up with a standard format for what information should be provided and how it should be presented."</p>
+        <p>The board's comments were contained in a letter to the S.E.C., which is soliciting opinions on the issue of municipal bond market disclosures before setting new rules this fall. One problem cited by the board is that there are more than 70,000 state and local agencies and municipal authorities. The board noted that currently there is little consistency in the information that these issuing agencies provide to investors after their bonds are sold.</p>
+        <p>"The board believes that additional standardization will be necessary before any system for periodic disclosure can produce net benefits," the board said in its letter. "Issuers must understand clearly what information they should disclose and when to disclose it."</p>
+        <p>The board did, however, support proposals that sudden and time-critical events that investors should be made aware of quickly -- for instance, when an issuing municipal authority fails to make a bond payment -- could be funneled through the rulemaking board's Continuing Disclosure Information Pilot, or CDI Pilot, system. The system is an automated central clearinghouse that transmits breaking financial information to its users.</p>
+        <p>The rulemaking board's comments have particular influence with the S.E.C. since the board is responsible for enforcing rules passed by the agency.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

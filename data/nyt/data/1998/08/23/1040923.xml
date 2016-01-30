@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Put Your Ad Here</title>
+    <meta content="LTR081951" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1040923"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Logotypes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <person class="indexing_service">schulman, martha</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EED8173DF930A1575BC0A96E958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Put Your Ad Here</hl1>
+      </hedline>
+      <abstract>
+        <p>Martha Schulman letter finds the popularity of corporate logos on children's wear incomprehensible (Aug 2 fashion feature)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your fashion feature ''Put Your Ad Here'' (Aug. 2) raised an interesting question: Why should parents spend money ($43 for a Tide jacket, $22.50 for an American Airlines cotton turtleneck, $29.95 for Microsoft overalls) to turn their children into billboards for companies worth billions of dollars?</p>
+      </block>
+      <block class="full_text">
+        <p>Your fashion feature ''Put Your Ad Here'' (Aug. 2) raised an interesting question: Why should parents spend money ($43 for a Tide jacket, $22.50 for an American Airlines cotton turtleneck, $29.95 for Microsoft overalls) to turn their children into billboards for companies worth billions of dollars?</p>
+        <p>Until corporations treat kids the same way they treat television networks and magazines -- that is, by paying them for advertising space -- I can't see why children should promote their products.</p>
+        <p>Martha Schulman  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

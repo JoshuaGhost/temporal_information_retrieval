@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Religion and Restraint</title>
+    <meta content="L01RELI" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1313745"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Church-State Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Stern, Marc D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Church-State Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DD1F3DF932A3575BC0A9679C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Religion and Restraint</hl1>
+      </hedline>
+      <abstract>
+        <p>Marc D Stern letter comments on July 27 article on how growing number of states are ceding control of various social services to church groups</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>State regulation of religious institutions need not be an all-or-nothing proposition (front page, July 27). If a state as a condition of licensing requires a church day-care facility to purge its program of religious references, it oversteps.</p>
+        <p>The law needs to constrain overzealous regulators, no matter how good their intentions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>State regulation of religious institutions need not be an all-or-nothing proposition (front page, July 27). If a state as a condition of licensing requires a church day-care facility to purge its program of religious references, it oversteps.</p>
+        <p>The law needs to constrain overzealous regulators, no matter how good their intentions.</p>
+        <p>Regulations protecting the public health and safety ought to be enforced despite claims by some religious groups that they should not be subservient to the state. No matter how good the intentions of individual religious groups, they cannot become a law unto themselves.</p>
+        <p>To be free is to tolerate some behavior that is harmful or offensive.  Neither can we blithely ignore the risks that liberty creates. Society needs a mechanism to referee these disputes.</p>
+        <p>MARC D. STERN  New York, July 27, 2001</p>
+        <p>The writer is assistant executive director, American Jewish Congress.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Spoken Word</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="599586"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDB1431F931A35757C0A965958260" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Spoken Word</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LITERARY COLLOQUIUM, Columbia University, department of French and Romance philology, Maison Francaise, Buell Hall, Broadway at 116th Street, Morningside Heights. "Terror and Literature," a two-day colloquium on literature and political intimidation. Today, 8:30 A.M. to 6 P.M., and tomorrow, 9 A.M. to 4:30 P.M. Admission: $25; $10 for students. Information: (212) 854-4482. LECTURE ON FILM DIRECTING, Long Island University, Flatbush and DeKalb Avenues, Flatbush, Brooklyn. Spike Lee and Robert De Niro will speak about film directing, as part of the Spike Lee 40 Acres Institute lecture series. Saturday at 11 A.M. Registration: $35; $25 for students. Information: (718) 858-9620.</p>
+      </block>
+      <block class="full_text">
+        <p>LITERARY COLLOQUIUM, Columbia University, department of French and Romance philology, Maison Francaise, Buell Hall, Broadway at 116th Street, Morningside Heights. "Terror and Literature," a two-day colloquium on literature and political intimidation. Today, 8:30 A.M. to 6 P.M., and tomorrow, 9 A.M. to 4:30 P.M. Admission: $25; $10 for students. Information: (212) 854-4482. LECTURE ON FILM DIRECTING, Long Island University, Flatbush and DeKalb Avenues, Flatbush, Brooklyn. Spike Lee and Robert De Niro will speak about film directing, as part of the Spike Lee 40 Acres Institute lecture series. Saturday at 11 A.M. Registration: $35; $25 for students. Information: (718) 858-9620.</p>
+        <p>TONI MORRISON READS, New York University, Elmer Holmes Bobst Library, 70 Washington Square South, Greenwich Village. Toni Morrison reads from her work as part of the New York University Creative Writing Program's reading series. Tonight at 7. Free. Information: (212) 998-8816. READING, Unterberg Poetry Center of the 92d Street Y, at Lexington Avenue. Umberto Eco, the author of "The Name of the Rose," reads from "Misreadings," his new book of essays. Sunday at 8 P.M. Tickets: $10. Information: (212) 415-5760.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

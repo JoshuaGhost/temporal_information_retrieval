@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MEDIA BUSINESS: Advertising;   Young &amp; Rubicam</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355410"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">YOUNG &amp; RUBICAM INC</org>
+        <person class="indexing_service">CUMMINGS, JOEY</person>
+        <person class="indexing_service">HAMPTON, MICHAEL</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDE143AF932A15756C0A966958260" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MEDIA BUSINESS: Advertising;   Young &amp; Rubicam</hl1>
+      </hedline>
+      <byline class="print_byline">By RANDALL ROTHENBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Young &amp; Rubicam appointed two more creative directors at its New York headquarters. They are Joey Cummings, formerly executive creative director at Bozell Chicago, and Michael Hampton, who was promoted from executive vice president and group creative director. Y.&amp; R. also said Friday that it had acquired Arbeit &amp; Company of New York, a data base marketing consulting firm.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Young &amp; Rubicam appointed two more creative directors at its New York headquarters. They are Joey Cummings, formerly executive creative director at Bozell Chicago, and Michael Hampton, who was promoted from executive vice president and group creative director. Y.&amp; R. also said Friday that it had acquired Arbeit &amp; Company of New York, a data base marketing consulting firm.</p>
+        <p>Young &amp; Rubicam appointed two more creative directors at its New York headquarters. They are Joey Cummings, formerly executive creative director at Bozell Chicago, and Michael Hampton, who was promoted from executive vice president and group creative director. Y.&amp; R. also said Friday that it had acquired Arbeit &amp; Company of New York, a data base marketing consulting firm.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

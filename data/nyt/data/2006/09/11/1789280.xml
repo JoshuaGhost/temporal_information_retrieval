@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executive Buys Control of CMS</title>
+    <meta content="11addes-1" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1789280"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4D61431F932A2575AC0A9609C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executive Buys Control of CMS</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daisy Expósito-Ulla, a longtime executive at agencies specializing in the Hispanic market, is returning to advertising by buying a majority stake in an agency, CMS/Partners in New York, that was started last year by former colleagues. Financial terms were not disclosed.</p>
+        <p>Ms. Expósito-Ulla will become chairwoman at the agency, renamed D Expósito &amp; Partners. Her former colleagues, Fernando Fernández and Gloria Constanza, who were partners at CMS/Partners, will be partners at the renamed agency. Ms. Expósito-Ulla had most recently been chairwoman and chief executive at the Bravo Group in New York, part of the Young &amp; Rubicam Brands division of the WPP Group.</p>
+      </block>
+      <block class="full_text">
+        <p>Daisy Expósito-Ulla, a longtime executive at agencies specializing in the Hispanic market, is returning to advertising by buying a majority stake in an agency, CMS/Partners in New York, that was started last year by former colleagues. Financial terms were not disclosed.</p>
+        <p>Ms. Expósito-Ulla will become chairwoman at the agency, renamed D Expósito &amp; Partners. Her former colleagues, Fernando Fernández and Gloria Constanza, who were partners at CMS/Partners, will be partners at the renamed agency. Ms. Expósito-Ulla had most recently been chairwoman and chief executive at the Bravo Group in New York, part of the Young &amp; Rubicam Brands division of the WPP Group.</p>
+        <p>Two executives are joining D Expósito as partners: Mary C. Miqueli, another former colleague of Ms. Expósito-Ulla, and Jorge Ulla, Ms. Expósito-Ulla's husband. D Expósito will have 20 employees working for clients like General Electric and Unilever.</p>
+        <p>ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Humphrey in Atlanta</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="519802"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="SPORTS PEOPLE: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">DENVER BRONCOS</org>
+        <org class="indexing_service">ATLANTA FALCONS</org>
+        <person class="indexing_service">HUMPHREY, BOBBY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Atlanta Falcons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Denver Broncos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D91530F934A35757C0A964958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Humphrey in Atlanta</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Denver Broncos running back BOBBY HUMPHREY arrived at the Atlanta Falcons headquarters at Suwanee, Ga., yesterday for a physical, and he may work out for the team today.</p>
+        <p>Humphrey has been granted permission to speak to clubs interested in him, in advance of a possible trade.</p>
+      </block>
+      <block class="full_text">
+        <p>Denver Broncos running back BOBBY HUMPHREY arrived at the Atlanta Falcons headquarters at Suwanee, Ga., yesterday for a physical, and he may work out for the team today.</p>
+        <p>Humphrey has been granted permission to speak to clubs interested in him, in advance of a possible trade.</p>
+        <p>Falcons officials said that if the physical went well and insurance concerns were resolved, the former Alabama star might be tested today by Atlanta's personnel director, KEN HEROCK.</p>
+        <p>"We always check out any options available to us regarding good football players," Herock said yesterday.</p>
+        <p>Humphrey rushed for 1,000 yards in two of his three seasons with the Broncos. (AP)  SPORTS PEOPLE: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

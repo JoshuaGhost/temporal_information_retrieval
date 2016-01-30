@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun Sues Microsoft on Use of Java System</title>
+    <meta content="Y08JAV$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19971009T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="963506"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="indexing_service" type="descriptor">Misleading and Deceptive Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Standards and Standardization</classifier>
+        <org class="indexing_service">Sun Microsystems Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trademarks and Trade Names</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DE163CF93BA35753C1A961958260" item-length="947" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun Sues Microsoft on Use of Java System</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, Oct. 7</dateline>
+      <abstract>
+        <p>Sun Microsystems Inc sues Microsoft Corp, charging Microsoft with trying to steal Sun's Java standard by shipping conflicting version of programming language; suit accuses Microsoft of trademark infringement, false advertising, breach of contract, unfair competition and interference (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a  clash of opposing computer industry camps, Sun Microsystems Inc. sued the Microsoft Corporation today, charging the giant software publisher with trying to steal Sun's Java standard by shipping a conflicting version of the programming language.</p>
+        <p>The suit filed in Federal District Court in San Jose, Calif., accuses  Microsoft of trademark infringement, false advertising, breach of contract, unfair competition and interference.</p>
+      </block>
+      <block class="full_text">
+        <p>In a  clash of opposing computer industry camps, Sun Microsystems Inc. sued the Microsoft Corporation today, charging the giant software publisher with trying to steal Sun's Java standard by shipping a conflicting version of the programming language.</p>
+        <p>The suit filed in Federal District Court in San Jose, Calif., accuses  Microsoft of trademark infringement, false advertising, breach of contract, unfair competition and interference.</p>
+        <p>Sun, based in Mountain View, Calif., is seeking unspecified financial damages and an injunction that would stop Microsoft from shipping its Internet Explorer 4.0 browser program.</p>
+        <p>Microsoft rejected the accusations. But the brawl represents a struggle over which of the two computer-industry giants will control the basic standards used by hundreds of thousands of software programmers. Sun decided to sue after Microsoft last week began distributing millions of copies of Internet Explorer 4.0, which includes a version of the Java language. Sun says that version diverges from an agreed-upon standard.</p>
+        <p>Microsoft, based in Redmond, Wash., once held undisputed sway over the computer industry through its ownership of the Windows operating system, despite efforts by I.B.M., Apple Computer and others to establish competing standards. Tens of millions of computer users have adopted Windows, giving the software giant enormous leverage.</p>
+        <p>But in the last few years, the emergence of the Internet has posed a significant threat to Microsoft. It  was late in recognizing the significance of the public data network. In addition, independent software standards like Java have threatened to reduce the necessity that computer users run Windows.</p>
+        <p>Java was announced in May 1995 and shipped commercially in January 1996. Microsoft said it intended to license the program in December 1995 and completed the licensing agreement in April 1996.</p>
+        <p>Sun's Java language has in recent years been viewed within the computer industry as the most significant threat to Microsoft's control of millions of home and industry computer desktops. Java is principally a  programming language, but it has been designed by Sun to function as a  complete computer operating system. The purpose of the language has been twofold: to create a single  standard that will run on a variety of competing computer systems and to solve vexing computer security  problems introduced by the widespread reliance on computer networks, which are vulnerable to malicious programs like viruses.</p>
+        <p>In August, at an industry analysts'  meeting in Seattle, Microsoft officials denounced Sun and said Microsoft would never be forced to provide a competing operating system.</p>
+        <p>When Microsoft began distributing the most recent version of the Internet Explorer browser last Wednesday, it did not include two components of the Java System Developer Kit 1.1 standard, intended to make Java more versatile. The missing components would allow Java to take advantage of specific Windows features and to gain access to programs remotely over a computer network.</p>
+        <p>''This is huge,'' said Kimball Brown, a computer industry analyst at Dataquest, the market research firm in San Jose. Adding back those missing components, Mr. Brown said, ''would totally undermine Microsoft.'' ''This is something they will never do,'' he said.</p>
+        <p>Mr. Brown said that if Microsoft had agreed to include those components, it would have permitted companies that developed Java-based  computers to forgo Windows entirely and still run Microsoft applications like Word.</p>
+        <p>Sun officials said the dispute was strictly over the terms of a contract  Microsoft had signed.</p>
+        <p>''Microsoft has deliberately broken its contractual obligations,'' said Alan Baratz, president of Sun's Javasoft division. ''Microsoft has to play by the same rules as the rest of the industry.''</p>
+        <p>Sun executives, who disclosed the lawsuit in a morning teleconference with reporters and analysts, said that besides failing to include the two Java components, Microsoft had systematically modified a portion of a fundamental component of the language called the Java class hierarchy, an array of programming functions that programmers use in their applications.</p>
+        <p>''This is the most egregious thing they have done,'' Mr. Baratz said. ''Microsoft has made about 40 modifications or additions to the Java language.'' In response, Microsoft officials said Sun was turning to the legal system because Microsoft had beaten the computer maker to market with the new software technology.</p>
+        <p>''This is hypocrisy, and Sun is trying to hold Microsoft to a different standard than they hold themselves,'' said Charles Fitzgerald, a Microsoft group program manager.</p>
+        <p>Microsoft executives appeared yesterday to be paving the way for a complete and formal split with Sun in case they lose in court.</p>
+        <p>''In a lot of ways Sun has backed themselves into a corner,'' Mr. Fitzgerald said. ''The worst case is we don't use the Java name, we can still  say we're Java compatible.'</p>
+        <p>At heart of the legal battle is Sun's desire to make Java a ''write once, run everywhere'' programming language. The difficulty with that strategy is that for technical reasons, it is possible to significantly improve the language's performance when it is  customized, which is what Microsoft did with Internet Explorer 4.0.</p>
+        <p>''Microsoft's optimization is a risk to Sun,'' said David Yoffie, a professor at Harvard Business School. ''But if Sun can slow down Microsoft's advances with the software developers, this will prove to be a good strategy.''</p>
+        <p>Today both sides jousted for public relations advantage in the dispute. Although the actual contract is confidential, Microsoft officials and Sun executives said they were willing to make the contract public if the other side would agree. The contract was not released.</p>
+        <p>For Microsoft, the possible risks of losing the suit were not reflected in the stock market, where investors bid Microsoft shares up $1.375, to $136.50. Conversely, Sun shares fell 12.5 cents, to $46.4375.</p>
+        <p>Correction:  October 9, 1997, Thursday  An article in Business Day yesterday about a lawsuit by Sun Microsystems Inc. against the Microsoft Corporation misstated the purpose of an injunction sought by Sun. It would ask that Microsoft be enjoined from labeling its Internet Explorer 4.0 browser program Java-compatible; it is not seeking to stop Microsoft from shipping the program.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: October 9, 1997, Thursday</p>
+        <p>An article in Business Day yesterday about a lawsuit by Sun Microsystems Inc. against the Microsoft Corporation misstated the purpose of an injunction sought by Sun. It would ask that Microsoft be enjoined from labeling its Internet Explorer 4.0 browser program Java-compatible; it is not seeking to stop Microsoft from shipping the program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

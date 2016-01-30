@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FELDMAN, DINAH</title>
+    <meta content="DN050198" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1013627"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">FELDMAN, DINAH</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDC153EF932A35756C0A96E958260" item-length="42" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FELDMAN, DINAH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FELDMAN-Dinah. Widow of Mike. Mother of Arthur and Eleanor. Grandmother of Ellen, Jessica, Amy and Joanne. Greatgrandmother of Megan, David, Leslie, Daniel, Benjamin &amp; Sarah. Died peacefully in her sleep in her ninety-eighth year on April 29th. She will be lovingly remembered.</p>
+      </block>
+      <block class="full_text">
+        <p>FELDMAN-Dinah. Widow of Mike. Mother of Arthur and Eleanor. Grandmother of Ellen, Jessica, Amy and Joanne. Greatgrandmother of Megan, David, Leslie, Daniel, Benjamin &amp; Sarah. Died peacefully in her sleep in her ninety-eighth year on April 29th. She will be lovingly remembered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

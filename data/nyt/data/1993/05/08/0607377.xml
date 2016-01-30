@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Columbia Gas System Inc.  reports earnings for Qtr to March 31</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="47" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="607377"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4D61E38F93BA35756C0A965958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Columbia Gas System Inc.  reports earnings for Qtr to March 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Columbia Gas System Inc.  (NYSE)</p>
+        <p>Qtr to March 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>1,222,600,000</p>
+        <p>1,032,200,000</p>
+        <p>Net inc</p>
+        <p>139,800,000</p>
+        <p>10,800,000</p>
+        <p>Share earns</p>
+        <p>2.77</p>
+        <p>.21</p>
+        <p>The latest quarter reflected unusual items including an after-tax gain of $ 13.2 million for a change in reserves to reflect the outcome of rate cases relating to Columbia's transmission segment. The year-ago quarter reflected items including an $ 83.4 million after-tax write-down of the company's carrying value of its oil and gas proprties and the establishment of a $ 9.4 million reserve for a pipeline supplier settlement during the first quarter of 1992.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

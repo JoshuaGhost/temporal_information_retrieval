@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESULTS PLUS</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="532381"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DA143CF933A05756C0A964958260" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESULTS PLUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLF  Four Tied for Lead, and More Are Close</p>
+      </block>
+      <block class="full_text">
+        <p>GOLF  Four Tied for Lead, and More Are Close</p>
+        <p>David Toms, Jay Don Blake, Brad Fabel and Bob Gilder were tied for first yesterday after two rounds of the $1.1 million Kemper Open in Potomac, Md. But there were 21 players within five shots of their eight-under 134 total. Way down the chart was Washington Redskins quarterback Mark Rypien. Playing on a sponsor's exemption, Rypien had two triple-bogeys, a double-bogey and another triple-bogey on Nos. 7 thru 10 en route to a 91 and a 171 total. (AP) Ailing Richard Shoots a 64: Deb Richard, in pain from a sore lower back, shot an eight-under-par 64 for a one-shot lead after two rounds of the Oldsmobile Classic in East Lansing, Mich. A shot back at 137 were Judy Dickinson, the first-round leader, Nancy Lopez and Dottie Mochrie. Lopez shot 65, Mochrie 70 and Dickinson 71. Richard, winner of three tournaments in six years on tour, including two in 1991, had eight birdies without a bogey in taming the tight, rolling 6,611-yard layout. (AP) BASEBALL  Miami Rallies in College World Series  Charles Johnson's sacrifice fly scored Rick Ellstrom in the 13th inning as No. 1 Miami rallied to a 4-3 victory over California last night in the opening game of the College World Series in Omaha. Miami (54-8), which trailed by 3-0 after seven innings, cut the deficit to a run in the eighth and tied it with two outs in the ninth on Jonathan Smith's run-scoring double. The Hurricanes advanced to Sunday's second-round game against the winner of last night's second game, matching Florida State and Fullerton State. California (35-27) plays the loser of that game on Sunday. (AP) HOCKEY  Road-Team Advantage in A.H.L. Playoffs  The Adirondack Red Wings won the American Hockey League's Calder Cup last night by scoring four straight third-period goals in their 5-2 victory over the St. John's Maple Leafs in Game 7, played in St. John's, Newfoundland. In a series in which the visiting team won all seven games, the most valuable player was Adirondack goaltender Allan Bester, who made 45 saves for his league-record 14th playoff victory. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

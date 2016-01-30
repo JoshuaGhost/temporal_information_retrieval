@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Duracell International (DUR,N) reports earnings for 1st qtr to Sept 30</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="800947"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D6103DF933A15753C1A963958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Duracell International (DUR,N) reports earnings for 1st qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Duracell International (DUR,N)</p>
+        <p>1st qtr to Sept 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>538,900,000</p>
+        <p>492,100,000</p>
+        <p>Net inc</p>
+        <p>b53,600,000</p>
+        <p>c53,000,000</p>
+        <p>Share earns</p>
+        <p>.44</p>
+        <p>.44</p>
+        <p>Shares outst</p>
+        <p>120,600,000</p>
+        <p>121,200,000</p>
+        <p>b-After an extraordinary charge of $ 4,500,000, or 4 cents a share, which represents mark-to-market losses related to February purchase of forward contracts on foreign currencies. c-After an extraordinary charge of $ 400,000 which represents mark-to-market losses related to February purchase of forward contracts on foreign currencies.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

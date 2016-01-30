@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compressed Data; Napster Is Stirring Debate on Art and Ethics</title>
+    <meta content="19NAPS" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/19/technology/19NAPS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1272034"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Massachusetts Institute of Technology</org>
+        <org class="indexing_service">Napster</org>
+        <org class="indexing_service">Forrester Research Inc</org>
+        <person class="indexing_service">Simon, Clea</person>
+        <person class="indexing_service">Scheirer, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E5D61130F93AA25751C0A9679C8B63" item-length="422" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compressed Data; Napster Is Stirring Debate on Art and Ethics</hl1>
+      </hedline>
+      <byline class="print_byline">By CLEA SIMON</byline>
+      <byline class="normalized_byline">Simon, Clea</byline>
+      <abstract>
+        <p>Forum at MIT on Napster focuses on issues of art and ethics rather than the law; Erc Scheirer, analyst with Forrester Research, comments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The legal issues may still be in play, and the technical outcome is anyone's guess. But in a forum on the Napster controversy at the Massachusetts Institute of Technology last week, it was the ethical issues that took center stage.</p>
+        <p>''Why is Napster so interesting? Why is it so difficult?'' These were the opening queries posed by Eric Scheirer, an analyst with Forrester Research, speaking to the small colloquium in Cambridge, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>The legal issues may still be in play, and the technical outcome is anyone's guess. But in a forum on the Napster controversy at the Massachusetts Institute of Technology last week, it was the ethical issues that took center stage.</p>
+        <p>''Why is Napster so interesting? Why is it so difficult?'' These were the opening queries posed by Eric Scheirer, an analyst with Forrester Research, speaking to the small colloquium in Cambridge, Mass.</p>
+        <p>The audience was largely drawn from the M.I.T. faculty and the university's Media Lab. Napster is a music-trading Web site that acts as an index to the music libraries on users' personal computers. In a lively give and take with the group, Mr. Scheirer said that Napster had raised arguments about art and ownership that had not traditionally been part of the public discourse.</p>
+        <p>''Napster is pushing on these questions as we try to articulate the role of art,'' said Mr. Scheirer, who holds a Ph.D. from the M.I.T. Media Lab.  He said one in four American adults had downloaded music by one means or another, making the Napster issue ''a cultural phenomenon.''</p>
+        <p>For Mr. Scheirer, Napster raises four big questions: What is the appropriate relationship between the artist and fan base? Is the capitalist model the right model for creating art? What is copyright for? And what is art for in a consumer society?</p>
+        <p>Citing the band Metallica, which filed one of the first suits against Napster, he said many of the group's fans had rallied against what he called Metallica Inc., the profit-oriented business side of the heavy metal group.</p>
+        <p>He said disputes raised by digital technologies like Napster would force American society to clarify its definition of copyright. The traditional European notion, he said, considered art an inalienable part of the artist. In the United States, he said, the strict constitutional interpretation is that copyright exists to encourage continued creation.</p>
+        <p>But the more popular American understanding, he added, is that copyright exists for a more pragmatic reason: so that creators can be paid.</p>
+        <p>CLEA SIMON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="21QUOTE" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/03/21/pageoneplus/21QUOTE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1279521"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <location class="online_producer">India</location>
+        <location class="online_producer">Bangalore</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5D91E3DF932A15750C0A9679C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''India is on its way to being the back office for the world.''</p>
+        <p>SHRIRAM RAMDAS, of Bangalore Labs, a company that manages Web sites and other information networks. [C4]</p>
+      </block>
+      <block class="full_text">
+        <p>''India is on its way to being the back office for the world.''</p>
+        <p>SHRIRAM RAMDAS, of Bangalore Labs, a company that manages Web sites and other information networks. [C4]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

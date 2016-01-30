@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Classics All Over</title>
+    <meta content="05BILL$02" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="962843"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Antiques</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antiques</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DB153DF936A35753C1A961958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Classics All Over</hl1>
+      </hedline>
+      <abstract>
+        <p>Photos of cars and fashions at Louis Vuitton Classic, show of antique autos in Rockefeller Center</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For four days, the streets of Rockefeller Center were covered in gray carpeting for the second annual Louis Vuitton Classic, a display of 49 exotic antique passenger cars and racing cars. Early in the century, the automobile show ranked with the horse show and opera events that opened the social and fashion season.</p>
+        <p>Last year, Louis Vuitton, the Paris maker of luxury leather goods, revived the high-society automobile show here, and this year the show continued to attract a stylish audience in custom-fitted Harris tweed or suede jackets with leather pants worn with designer scarves and handbags. Even the children wore classic styles.</p>
+      </block>
+      <block class="full_text">
+        <p>For four days, the streets of Rockefeller Center were covered in gray carpeting for the second annual Louis Vuitton Classic, a display of 49 exotic antique passenger cars and racing cars. Early in the century, the automobile show ranked with the horse show and opera events that opened the social and fashion season.</p>
+        <p>Last year, Louis Vuitton, the Paris maker of luxury leather goods, revived the high-society automobile show here, and this year the show continued to attract a stylish audience in custom-fitted Harris tweed or suede jackets with leather pants worn with designer scarves and handbags. Even the children wore classic styles.</p>
+        <p>Ivana Trump, top left, attended with Count Roffredo Gaetani. Among the cars were a 1929 Rolls-Royce, above, and a 1939 Bugatti, far left. Leaning on the Bugatti was its owner, Betty Davis.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

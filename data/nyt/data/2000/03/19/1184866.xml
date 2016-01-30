@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Nazi Terror'</title>
+    <meta content="LTR082042" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1184866"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Gewen, Barry</person>
+        <person class="indexing_service">Johnson, Eric A</person>
+        <person class="indexing_service">Leviant, Curt</person>
+        <object.title class="indexing_service">Nazi Terror (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7DE173BF93AA25750C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Nazi Terror'</hl1>
+      </hedline>
+      <abstract>
+        <p>Curt Leviant letter on Barry Gewen Feb 20 review of Eric A Johnson's book Nazi Terror: The Gestapo, Jews and Ordinary Germans (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In the conclusion to his review of Eric A. Johnson's ''Nazi Terror'' (Feb. 20), Barry Gewen constructs an erroneous -- and absurd -- hypothetical situation (''What if word had begun seeping back that Japanese-American children were being murdered . . .?'') in his attempt to compare German silence during the mid-1940's, when Jews were being rounded up for murder, to American silence regarding the internment of Japanese-Americans.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In the conclusion to his review of Eric A. Johnson's ''Nazi Terror'' (Feb. 20), Barry Gewen constructs an erroneous -- and absurd -- hypothetical situation (''What if word had begun seeping back that Japanese-American children were being murdered . . .?'') in his attempt to compare German silence during the mid-1940's, when Jews were being rounded up for murder, to American silence regarding the internment of Japanese-Americans.</p>
+        <p>It is important to remember that except for a brief period (the Weimar Republic), Germans had lived under authoritarian rule for many decades. Moreover, church-inspired anti-Semitism had been part of the German experience for centuries. It was the unique combination of ultranationalism (the Jew as foreign body) and anti-Semitism (the Jew as Christ-killer) that doomed the Jews, as it did elsewhere whenever this nefarious combination came about.</p>
+        <p>For Gewen to create an impossible hypothesis and then presume that the California population would have remained silent defies both logic and the history of democratic tradition.</p>
+        <p>Curt Leviant  New Brunswick, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

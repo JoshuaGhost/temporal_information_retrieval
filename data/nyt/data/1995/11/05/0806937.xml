@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Korea, Protesters Condemn Corruption</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="806937"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHICS</classifier>
+        <location class="indexing_service">SOUTH KOREA</location>
+        <location class="indexing_service">SEOUL (SOUTH KOREA)</location>
+        <person class="indexing_service">KIM YOUNG SAM (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/South Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea/Seoul</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7DA1739F936A35752C1A963958260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Korea, Protesters Condemn Corruption</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>SEOUL, South Korea, Nov. 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thousands of demonstrators demanding an investigation of President Kim Young  Sam over a slush fund scandal fought with the police in Seoul today.</p>
+        <p>More than 10,000 students and other protesters, some carrying iron bars and hurling bricks, fought running battles with the police.</p>
+      </block>
+      <block class="full_text">
+        <p>Thousands of demonstrators demanding an investigation of President Kim Young  Sam over a slush fund scandal fought with the police in Seoul today.</p>
+        <p>More than 10,000 students and other protesters, some carrying iron bars and hurling bricks, fought running battles with the police.</p>
+        <p>There also were protests in at least 17 other major cities, demanding the arrest of the former President, Roh Tae Woo, who admitted last week to amassing  a $654 million slush fund, and a criminal investigation of the current President.</p>
+        <p>The demonstrators accused Mr. Kim of protecting Mr. Roh, his political mentor, and of hiding his own links to the slush fund.</p>
+        <p>Prosecutors said today that they suspect Mr. Roh used his wealth to acquire valuable real estate, including two skyscrapers in Seoul, the Yonhap news agency reported.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

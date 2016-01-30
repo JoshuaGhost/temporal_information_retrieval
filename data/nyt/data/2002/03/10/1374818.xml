@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enron vs. the 70's</title>
+    <meta content="LTR021029" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1374818"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Equity Funding Corp of America</org>
+        <org class="indexing_service">Enron Corp</org>
+        <person class="indexing_service">hiraoka, leslie s (prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020310T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2D61E30F933A25750C0A9649C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enron vs. the 70's</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Leslie S Hiraoka lette</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Three-Decade-Old Echoes, Awakened by Enron'' (Market Watch, Feb. 24), which compared the Enron collapse to the 1973 collapse of the Equity Funding Corporation:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Three-Decade-Old Echoes, Awakened by Enron'' (Market Watch, Feb. 24), which compared the Enron collapse to the 1973 collapse of the Equity Funding Corporation:</p>
+        <p>The turmoil weighing on the stock market was much greater in the early 1970's. An oil embargo had crippled the American car industry, and President Richard M. Nixon's  system of wage and price controls had only added to the chaos. Then a blitz of car imports from Japan caused a Great Lakes rust belt. The causes of the market's decline were much broader than could be explained by the Equity Funding collapse.</p>
+        <p>LESLIE S. HIRAOKA  Union, N.J., Feb. 26</p>
+        <p>The writer is a management professor at Kean University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

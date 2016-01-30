@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeing Bermuda</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="655348"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <location class="indexing_service"></location>
+        <location class="indexing_service">BERMUDA</location>
+        <person class="indexing_service">HIRSCHHORN, JOYCE DONEN</person>
+        <person class="indexing_service">HIRSCHHORN, JOYCE DONEN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Bermuda</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D81738F931A25751C1A965958260" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeing Bermuda</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Enid Nemy's "What's Doing in Bermuda" (Oct. 31) echoed our sentiments exactly: Clean and friendly. We also took advantage of the off-season prices.</p>
+        <p>A three-day pass for buses and ferries cost $15 and also gave free admission to Gibbs Hill Lighthouse. Buses run on a regular schedule. Several restaurants offered special menus and many of the hotels were in an eat-around program.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Enid Nemy's "What's Doing in Bermuda" (Oct. 31) echoed our sentiments exactly: Clean and friendly. We also took advantage of the off-season prices.</p>
+        <p>A three-day pass for buses and ferries cost $15 and also gave free admission to Gibbs Hill Lighthouse. Buses run on a regular schedule. Several restaurants offered special menus and many of the hotels were in an eat-around program.</p>
+        <p>Last December it was warm enough to swim in the ocean, which we did at the Stonington Beach Hotel. The service, food and accommodations were excellent.</p>
+        <p>One activity not mentioned was a trip to the Botanical Gardens, 36 acres of lush plants, trees and vistas. The free guided tour gave us the history, origins and names of the various species. The volunteer guide amazed us with his knowledge.</p>
+        <p>Finally, make sure you get the current issue of This Week in Bermuda; all the hotels have it. Not only does it have what's happening and discount coupons, but it also has the names of the guests staying at various hotels. JOYCE DONEN HIRSCHHORN  Killingworth, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

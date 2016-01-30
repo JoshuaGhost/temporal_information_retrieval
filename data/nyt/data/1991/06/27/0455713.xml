@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Price Co. reports earnings for 12wks to June 9</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="455713"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6D6123FF934A15755C0A967958260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Price Co. reports earnings for 12wks to June 9</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Price Co. (OTC)</p>
+        <p>12wks to June 9</p>
+        <p>1991</p>
+        <p>1990</p>
+        <p>Sales</p>
+        <p>1,504,349,000</p>
+        <p>1,176,724,000</p>
+        <p>Net inc</p>
+        <p>25,135,000</p>
+        <p>23,285,000</p>
+        <p>Share earns</p>
+        <p>.51</p>
+        <p>.47</p>
+        <p>40wk sales</p>
+        <p>5,028,376,000</p>
+        <p>4,086,254,000</p>
+        <p>Net inc</p>
+        <p>100,024,000</p>
+        <p>93,493,000</p>
+        <p>Share earns</p>
+        <p>2.01</p>
+        <p>1.84</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>There's More to China</title>
+    <meta content="LTR010803" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1459489"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Chan, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC1439F935A15752C0A9659C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>There's More to China</hl1>
+      </hedline>
+      <abstract>
+        <p>James Chan letter comments on Jan 5 article about consumption by Chinese citizens of goods that are made in China</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Made in China, Bought in China'' (Jan. 5) focused on the changing fortunes of Fortune 500 companies, but failed to mention small and entrepreneurial companies.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Made in China, Bought in China'' (Jan. 5) focused on the changing fortunes of Fortune 500 companies, but failed to mention small and entrepreneurial companies.</p>
+        <p>Success in the China market is not the sole privilege of billion-dollar companies. Companies with annual sales of $1 million to $100 million a year can also succeed. I am in my 20th year doing business in China, and the newest trend I see favors smaller companies.</p>
+        <p>Chinese companies continue to duplicate high-ticket products. For example, China is trying to make a good gas turbine, but there are precision-engineered components that China must import. It also lacks certain raw materials to fuel its growing export industries.</p>
+        <p>Small companies that make parts and components that fill a critical need or that own the right raw materials will find China very profitable.</p>
+        <p>JAMES CHAN  Philadelphia, Jan. 5</p>
+        <p>The writer is the president of Asia Marketing and Management.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

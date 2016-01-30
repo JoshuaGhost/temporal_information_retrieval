@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NORTH CAROLINA - BUSH</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="196673"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="THE ELECTIONS: SOUTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTION RESULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GOVERNORS (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">PRESIDENTIAL ELECTION OF 1988</classifier>
+        <location class="indexing_service">NORTH CAROLINA</location>
+        <org class="indexing_service">HOUSE OF REPRESENTATIVES (US)</org>
+        <org class="indexing_service">DEMOCRATIC PARTY</org>
+        <org class="indexing_service">REPUBLICAN PARTY</org>
+        <person class="indexing_service">MARTIN, JAMES G (GOV)</person>
+        <person class="indexing_service">BUSH, GEORGE (VICE PRES)</person>
+        <person class="indexing_service">DUKAKIS, MICHAEL S (GOV)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/North Carolina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/North Carolina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/North Carolina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Results</classifier>
+        <classifier class="online_producer" type="general_descriptor">Governors (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DD1F31F933A25752C1A96E948260" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NORTH CAROLINA - BUSH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Republicans solidified gains won in the 1984 Reagan landslide in a state where Democrats continue to maintain a 2-to-1 registration advantage.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Republicans solidified gains won in the 1984 Reagan landslide in a state where Democrats continue to maintain a 2-to-1 registration advantage.</p>
+        <p>Republicans solidified gains won in the 1984 Reagan landslide in a state where Democrats continue to maintain a 2-to-1 registration advantage.</p>
+        <p>Mr. Bush took the state's 13 electoral votes despite an early-fall campaign by Mr. Dukakis, and Gov. James G. Martin became the first Republican Governor to win re-election in the state.</p>
+        <p>The Vice President lagged four percentage points behind the 62 percent vote for President Reagan in 1984 but was well ahead of the Reagan victory over President Carter in 1980. Mr. Carter carried the state in 1976.</p>
+        <p>Mr. Martin, a former six-term Congressman, had a tough challenge from Lieut. Gov. Bob Jordan. The Lieutenant Governor is elected separately in this state.</p>
+        <p>Mr. Jordan, a millionaire lumber-company executive, portrayed his opponent's administration as unethical and incompetent.</p>
+        <p>All of North Carolina's Congressional seats were filled by incumbents, eight of them Democrats and three Republicans. The closest race was for the seat of Representative James McClure Clarke, a Democrat. He barely defeated a challenge by former State Senator Charles Taylor. Mr. Clarke was elected in 1982, defeated in 1984 and returned to the House in 1986.</p>
+        <p>President: With all precincts reporting, Bush 1,232,132 (58%), Dukakis 890,034 (42%).</p>
+        <p>Governor: With all precincts reporting, Martin 1,217,775 (56%), Jordan 954,293 (44%).</p>
+        <p>THE ELECTIONS: SOUTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

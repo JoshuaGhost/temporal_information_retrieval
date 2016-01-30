@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials  LOIS, HARRY JOSEPH</title>
+    <meta content="DN092198" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1048217"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">LOIS, HARRY JOSEPH</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2D91430F932A1575AC0A96E958260" item-length="19" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials  LOIS, HARRY JOSEPH</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOIS-Harry Joseph. 9/5/'58 to 9/21/'78. Our love for him deepens; Our sadness remains unbearable. Rosemary, Luke and George Lois</p>
+      </block>
+      <block class="full_text">
+        <p>LOIS-Harry Joseph. 9/5/'58 to 9/21/'78. Our love for him deepens; Our sadness remains unbearable. Rosemary, Luke and George Lois</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

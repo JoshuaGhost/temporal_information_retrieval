@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After Tense Election, a Smooth Count in Haiti</title>
+    <meta content="09haiti" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/09/international/09haiti.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1738311"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Haiti</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Haiti</classifier>
+        <classifier class="online_producer" type="descriptor">Elections</classifier>
+        <classifier class="online_producer" type="descriptor">Election Results</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Results</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Haiti</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDA143EF93AA35751C0A9609C8B63" item-length="534" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After Tense Election, a Smooth Count in Haiti</hl1>
+        <hl2 class="online_headline">After Tense Election, a Smooth Count in Haiti</hl2>
+      </hedline>
+      <byline class="print_byline">By GINGER THOMPSON</byline>
+      <dateline>PORT-AU-PRINCE, Haiti, Feb. 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>United Nations troops began hauling ballots on Wednesday from remote voting centers across the country, as a politically polarized population braced nervously for results from Tuesday's presidential election.</p>
+        <p>Gérard le Chevalier, head of the United Nations electoral mission here, said that poll workers had counted ballots through the night, and that tamper-proof transmission of results had begun. He said that he expected initial results to be released Thursday, but that final results might not be available until the weekend.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Poll workers counted ballots through the night, and tamper-proof transmission of results has begun. Initial results are expected Thursday.</p>
+      </block>
+      <block class="full_text">
+        <p>United Nations troops began hauling ballots on Wednesday from remote voting centers across the country, as a politically polarized population braced nervously for results from Tuesday's presidential election.</p>
+        <p>Gérard le Chevalier, head of the United Nations electoral mission here, said that poll workers had counted ballots through the night, and that tamper-proof transmission of results had begun. He said that he expected initial results to be released Thursday, but that final results might not be available until the weekend.</p>
+        <p>The calm that prevailed at the voting centers on Wednesday struck a stark contrast to the mass confusion and tensions that complicated the voting on Tuesday. United Nations officials and officials of the interim government said none of several reports of missing or improperly opened ballot boxes were significant enough to tarnish the results.</p>
+        <p>''I would like to congratulate all Haitians who participated in the vote for their commitment to exercising their democratic right to choose their future leaders,'' the United Nations secretary general, Kofi Annan, said in a statement. ''This is a significant step forward for Haiti.''</p>
+        <p>That sentiment was expressed over and over again on Wednesday by Haitians and their political leaders. Haitian voters turned out in strength -- much more than 50 percent of an estimated 3.5 million registrants -- and endured long lines and scuffles to cast their ballots.</p>
+        <p>Jacques Bernard, director of the Provisional Electoral Council, hailed the election as a demonstration of ''courage and democracy'' by the hemisphere's poorest country.</p>
+        <p>André Bouchard, a consultant for the Canadian International Development Agency, said the election appeared much more transparent than those he had observed here in 1995, when poll workers discarded truckloads of ballots because they were too tired to count them.</p>
+        <p>''We are not claiming victory and ignoring mistakes,'' he said at a news conference, ''but we believe the elections were a success.''</p>
+        <p>The leading candidate in pre-election polls was René Préval, a 63-year-old agronomist who was president from 1996 to 2000 and an ally of former President Jean-Bertrand Aristide. His closest rivals included Charles Henri Baker, 50, a wealthy garment factory owner, and Leslie Manigat, 75, who was president for five months in 1988, until the army ousted him.</p>
+        <p>Although no results were announced, tabulations posted at voting centers across the capital showed that Mr. Préval was winning strong support. His spokesmen have predicted that Mr. Préval would win more than 50 percent of the vote and avert a runoff.</p>
+        <p>''Political leaders need to be sending the message to their supporters that the results of the election should be respected,'' said Mark Schneider, of the International Crisis Group. ''And once there is a winner, he will have to reach out quickly to his opponents and bridge the polarization that is Haiti.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

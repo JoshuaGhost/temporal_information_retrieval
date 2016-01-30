@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="636383"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HELICOPTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEFENSE CONTRACTS</classifier>
+        <classifier class="indexing_service" type="descriptor">HELICOPTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NAVIES</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <org class="indexing_service">INSTRUMENTS SYSTEMS CORP</org>
+        <org class="indexing_service">TELEPHONICS (CO)</org>
+        <org class="indexing_service">FEDERAL SYSTEMS (CO)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Helicopters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Defense Contracts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navies</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DE1E3DF937A1575AC0A965958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INSTRUMENT SYSTEMS CORP., Jericho, L.I., said its Telephonics unit had received two contracts worth about $40 million for equipment upgrades for Navy helicopters from Federal Systems Co., a unit of I.B.M. MAGMA POWER CO., San Diego, signed an agreement with the Philippine National Oil Co. and Energy Development Corp. to build and operate a geothermal power plant.</p>
+      </block>
+      <block class="full_text">
+        <p>INSTRUMENT SYSTEMS CORP., Jericho, L.I., said its Telephonics unit had received two contracts worth about $40 million for equipment upgrades for Navy helicopters from Federal Systems Co., a unit of I.B.M. MAGMA POWER CO., San Diego, signed an agreement with the Philippine National Oil Co. and Energy Development Corp. to build and operate a geothermal power plant.</p>
+        <p>ROUNDBOOK PUBLISHING GROUP, Scotts Valley, Calif., a publisher of consumer CD-ROM's, signed a $18 million distribution agreement under which Compton's New Media of Carlsbad, Calif., will become sole domestic and European distributor for Roundbook's CD-ROM products.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

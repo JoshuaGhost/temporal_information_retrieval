@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Day to Clean Up Jones Beach Before the Dog Days of Summer</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="51" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="605902"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">VOLUNTEERS</classifier>
+        <location class="indexing_service">JONES BEACH STATE PARK</location>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volunteers</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DF123BF931A35756C0A965958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Day to Clean Up Jones Beach Before the Dog Days of Summer</hl1>
+      </hedline>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

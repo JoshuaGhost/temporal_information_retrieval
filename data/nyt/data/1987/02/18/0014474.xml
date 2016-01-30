@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lomas &amp; Nettleton Stake Purchased</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="14474"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">LOMAS &amp; NETTLETON FINANCIAL CORP</org>
+        <org class="indexing_service">AMERICAN CAN CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D7133EF93BA25751C0A961948260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lomas &amp; Nettleton Stake Purchased</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>WASHINGTON, Feb. 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The American Can Company has purchased 2.62 million shares, or 9.2 percent, of the Lomas &amp; Nettleton Financial Corporation, one of the nation's largest mortgage banking firms. In a filing with the Securities and Exchange Commission, American Can said that it had purchased the Lomas shares as an investment.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The American Can Company has purchased 2.62 million shares, or 9.2 percent, of the Lomas &amp; Nettleton Financial Corporation, one of the nation's largest mortgage banking firms. In a filing with the Securities and Exchange Commission, American Can said that it had purchased the Lomas shares as an investment.</p>
+        <p>The American Can Company has purchased 2.62 million shares, or 9.2 percent, of the Lomas &amp; Nettleton Financial Corporation, one of the nation's largest mortgage banking firms. In a filing with the Securities and Exchange Commission, American Can said that it had purchased the Lomas shares as an investment.</p>
+        <p>American Can, a financial services concern based in Greenwich, Conn., told the S.E.C. that it ''intends to re-examine its investment in Lomas from time to time'' and may purchase or sell its shares. Between Feb. 3 and Feb. 13, American Can bought 1.30 million Lomas shares for prices ranging from $28.25 to $31.87 a share. The stake was purchased for a total of $73.71 million.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

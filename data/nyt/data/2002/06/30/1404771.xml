@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An SAT Question</title>
+    <meta content="L30SAT$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1404771"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Sat (College Admission Test)</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <org class="indexing_service">College Board</org>
+        <person class="indexing_service">Kohn, Alfie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">SAT (College Admission Test)</classifier>
+        <classifier class="online_producer" type="general_descriptor">SAT (College Admission Test)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1D7103EF933A05755C0A9649C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An SAT Question</hl1>
+      </hedline>
+      <abstract>
+        <p>Alfie Kohn humorous letter on June 28 article on College Board overhaul of SAT</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''College Board Announces an Overhaul for the SAT'' (news article, June 28):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''College Board Announces an Overhaul for the SAT'' (news article, June 28):</p>
+        <p>Revising is to SAT as</p>
+        <p>(a) reformulating is to Coke</p>
+        <p>(b) repackaging is to Betamax</p>
+        <p>(c) renaming is to Philip Morris</p>
+        <p>(d) repainting is to Pinto.</p>
+        <p>ALFIE KOHN  Belmont, Mass., June 28, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

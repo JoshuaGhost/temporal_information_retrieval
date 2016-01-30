@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Babies Boom</title>
+    <meta content="05PHOTOET" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="66" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1007322"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Child Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Multiple Births</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">Israel, Betsy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Multiple Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Multiple Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2D6133BF936A35757C0A96E958260" item-length="1241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Babies Boom</hl1>
+      </hedline>
+      <byline class="print_byline">By Betsy Israel</byline>
+      <byline class="normalized_byline">Israel, Betsy</byline>
+      <abstract>
+        <p>Betsy Israel article on child rearing focuses on charms and perils of being mother of twins, triplets, quadruplets or quintuplets; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Until about last week, I fully viewed myself as the mother of multiples. (I have two kids under 6, which feels like having four.) As it turns out, I was deluded. Talk to mothers of twins, triplets, quadruplets, quintuplets, and they will (sort of) smile. Then they will suggest that I, a mere mother of ''singletons,'' don't have a clue. We may all be moms but we do not belong to the same national chapter of motherhood.</p>
+      </block>
+      <block class="full_text">
+        <p>Until about last week, I fully viewed myself as the mother of multiples. (I have two kids under 6, which feels like having four.) As it turns out, I was deluded. Talk to mothers of twins, triplets, quadruplets, quintuplets, and they will (sort of) smile. Then they will suggest that I, a mere mother of ''singletons,'' don't have a clue. We may all be moms but we do not belong to the same national chapter of motherhood.</p>
+        <p>There are right now more twins, triplets and ''higher order'' multiples than ever in history. The numbers: since 1980, twin births in the United States have increased 42 percent while triplet, quad and other multiple births have risen 272 percent. The primary reason: fertility drugs. But attention paid to ''medical miracles'' like the McCaughey Seven of Des Moines obscures the very real complexities of multiple motherhood: serious illness, endless expense and the daily anarchy of life with 4 or so kids who seem like 10.  Rineke Dijkstra is an Amsterdam-based photographer. Betsy Israel wrote about Amy Fisher for the magazine in July 1996.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Rineke Dijkstra is an Amsterdam-based photographer. Betsy Israel wrote about Amy Fisher for the magazine in July 1996.</tagline>
+    </body.end>
+  </body>
+</nitf>

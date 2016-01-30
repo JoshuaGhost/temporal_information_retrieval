@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reading Tea Leaves for Health</title>
+    <meta content="27NUTR$02" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/07/27/health/27nutr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1599639"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="VITAL SIGNS: NUTRITION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blood Pressure</classifier>
+        <classifier class="indexing_service" type="descriptor">Tea</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <location class="indexing_service">Taiwan</location>
+        <org class="indexing_service">Archives of Internal Medicine</org>
+        <person class="indexing_service">O'Neil, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Taiwan</classifier>
+        <classifier class="online_producer" type="descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DD153DF934A15754C0A9629C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reading Tea Leaves for Health</hl1>
+        <hl2 class="online_headline">Nutrition: Reading Tea Leaves for Health</hl2>
+      </hedline>
+      <byline class="print_byline">By John O'Neil</byline>
+      <byline class="normalized_byline">O'Neil, John</byline>
+      <abstract>
+        <p>Taiwanese study on link between blood pressure and drinking tea finds that odds of developing hypertension were cut in half among individuals who drink one small cup of tea per day; study, published in Archives of Internal Medicine, acknowledged that findings do not prove cause and effect relationship and other factors may be involved; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Taiwanese study released yesterday found that people who drank tea regularly had lower blood pressure than those who did not.</p>
+        <p>The authors of the new study, in The Archives of Internal Medicine, noted that their study did not prove any cause and effect relationship. And they acknowledged that research into diet and disease risk is notoriously subject to what are called confounding effects: If all of the tea drinkers were also vegetarians who exercised strenuously, for instance, it would be difficult to say that their beverage was the factor that made a difference.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Taiwanese study found that people who drank tea regularly had lower blood pressure than those who did not.</p>
+      </block>
+      <block class="full_text">
+        <p>A Taiwanese study released yesterday found that people who drank tea regularly had lower blood pressure than those who did not.</p>
+        <p>The authors of the new study, in The Archives of Internal Medicine, noted that their study did not prove any cause and effect relationship. And they acknowledged that research into diet and disease risk is notoriously subject to what are called confounding effects: If all of the tea drinkers were also vegetarians who exercised strenuously, for instance, it would be difficult to say that their beverage was the factor that made a difference.</p>
+        <p>While in some countries, like the Netherlands, Japan and the United States, tea drinking has been shown to be associated with healthier life styles, in others, like Scotland, it is not, the study said.</p>
+        <p>In Taiwan, the habitual tea drinkers among the randomly chosen sample of 1,500 healthy men and women tended to be fatter and more likely to smoke, drink alcohol and consume salt, and were less likely to eat vegetables.</p>
+        <p>Nevertheless, blood pressure measurements were lower among the tea drinkers. The researchers calculated that the odds of developing hypertension were cut almost in half among those who drank one small cup a day, and by about two-thirds among those who drank 20 ounces or more daily. There was no difference between those who drank green and black tea.</p>
+        <p>VITAL SIGNS: NUTRITION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

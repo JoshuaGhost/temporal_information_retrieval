@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harassment-Free Schools</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Education; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="673529"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">SEXUAL HARASSMENT</classifier>
+        <org class="indexing_service">NOW LEGAL DEFENSE AND EDUCATION FUND</org>
+        <person class="indexing_service">NEUBORNE, HELEN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sexual Harassment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940310T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DE143DF933A25750C0A962958260" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harassment-Free Schools</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Home Section:</p>
+        <p>The Parent &amp; Child column of Feb. 24 that dealt with sexual harassment in schools was insightful.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Home Section:</p>
+        <p>The Parent &amp; Child column of Feb. 24 that dealt with sexual harassment in schools was insightful.</p>
+        <p>It's not just a few girls who are experiencing harassment. Over 4,000 young women responded to a survey we conducted with the Wellesley Center for Research on Women. Eighty-nine percent said they were subjected to looks, gestures and sexual comments, while 83 percent said they were sexually harassed by boys who touched, pinched or grabbed them. Almost 40 percent said they were harassed daily. Educators, parents and students need to know that sexual harassment is against the law.</p>
+        <p>Schools and parents can avoid the legal route by teaching what is acceptable behavior. A harassment-free environment where all students can learn freely is the only model for young people. HELEN NEUBORNE  Executive Director Now Legal Defense and Education Fund New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FINANCE BRIEFS</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="24582"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCE BRIEFS (NYT COLUMN)</classifier>
+        <org class="indexing_service">AMERICAN CAN CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD1238F935A15750C0A961948260" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FINANCE BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * American Can Co. is issuing $175 million of 5 1/2 percent convertible Eurobonds due 2002 at a price of par through Morgan Stanley International. The bonds are convertible into the company's common stock at $66.75 a share.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * American Can Co. is issuing $175 million of 5 1/2 percent convertible Eurobonds due 2002 at a price of par through Morgan Stanley International. The bonds are convertible into the company's common stock at $66.75 a share.</p>
+        <p>Debt</p>
+        <p>* American Can Co. is issuing $175 million of 5 1/2 percent convertible Eurobonds due 2002 at a price of par through Morgan Stanley International. The bonds are convertible into the company's common stock at $66.75 a share.</p>
+        <p>* Apache Corp. has filed with the Securities and Exchange Commission for $100 million of convertible subordinated debentures due 2012 through Smith Barney, Harris Upham.</p>
+        <p>* Atlantic Group Inc. has filed for $50 million of subordinated notes due 1997 through Shearson Lehman Brothers and for an initial offering of 1.5 million common shares through Robinson-Humphrey Co.</p>
+        <p>* Chrysler Financial Corp. is issuing $:50 million of 9 1/2 percent Eurobonds due 1992 at 101 1/8 through Union Bank of Switzerland Securities.</p>
+        <p>* Enserch Inc. is issuing $100 million of convertible debt securities due in 2002 with an indicated coupon of 6 to 6 3/8 percent at a price of par through Salomon Brothers International.</p>
+        <p>* Goldman, Sachs &amp; Co. is offering $100 million of 7 1/2 percent noncallable deposit notes due 1992 that it purchased from the Bank of Virginia Co. Rated Aa-2 by Moody's, the notes are offered at a price of 99.75 to yield 7.56 percent, or 74-hundredths of a percentage point more than Treasury securities with a similar maturity.</p>
+        <p>* Intel Overseas Corp. is offering $110 million of 8 1/8 percent notes due 1997 at a price of 99.63 to yield 8.18 percent through underwriters led by Shearson Lehman Brothers. Noncallable for seven years, the notes yield about 93-hundredths of a percentage point more than Treasury securities with a similar maturity. They are rated A-2 by Moody's and A by S.&amp; P.</p>
+        <p>* Norway is issuing 60 billion yen of 4 1/4 percent Eurobonds due 1992 at 101 5/8 to yield 3.89 percent through Nomura International Ltd.</p>
+        <p>* Security Pacific Corp. has filed with the Securities and Exchange Commission for a shelf offering of up to $500 million of subordinated debt securities.</p>
+        <p>* Southern Railway Co. is offering $20.6 million of triple-A rated equipment trust certificates at various prices, with yields ranging from 6.20 percent for an issue due in 1988 to 7 3/4 percent in 2002, through Morgan Stanley. They are noncallable for life.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

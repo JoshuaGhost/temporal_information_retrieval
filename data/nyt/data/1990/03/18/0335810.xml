@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Triumphant Opening For New Paris Opera</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="335810"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OPERA</classifier>
+        <location class="indexing_service">PARIS (FRANCE)</location>
+        <org class="indexing_service">PARIS OPERA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DE143FF93BA25750C0A966958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Triumphant Opening For New Paris Opera</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>PARIS, March 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The new opera house, built on the site of the Bastille prison, had its grand opening today. The crowd roared with approval at the first Paris performance of ''Les Troyens,'' a seldom-performed work by Berlioz.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The new opera house, built on the site of the Bastille prison, had its grand opening today. The crowd roared with approval at the first Paris performance of ''Les Troyens,'' a seldom-performed work by Berlioz.</p>
+        <p>The new opera house, built on the site of the Bastille prison, had its grand opening today. The crowd roared with approval at the first Paris performance of ''Les Troyens,'' a seldom-performed work by Berlioz.</p>
+        <p>The 2,700-seat house was packed for what was to be 1 of 12 performances of the Bastille Opera's first season. The $385 million opera house was commissioned in 1982 by President Francois Mitterrand. Its predecessor, the green-roofed Opera Garnier, one of Paris's best-known landmarks, now turn to ballet.</p>
+        <p>Although the new opera house is dedicated to making lyric opera accessible to all, its first performance was a glittering affair, with patrons in dinner jackets and evening gowns.</p>
+        <p>A review of ''Les Troyens'' will appear tomorrow in The Times.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

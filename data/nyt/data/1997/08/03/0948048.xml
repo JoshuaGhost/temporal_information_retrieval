@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Information On Circuit Interrupters</title>
+    <meta content="3LETTE$05" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="13CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="948048"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Wouk, Victor</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7D71E3AF930A3575BC0A961958260" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Information On Circuit Interrupters</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Victor Wouk on June 29 article on ground fault circuit interrupters (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Home Clinic (''Interrupters for Ground Fault Circuits,'' June 29) is an excellent description of how, and to some degree why, the ground fault circuit interrupter (GFCI) should be installed. Although worldwide the use of GFCI's is increasing, the current at which the circuit opens, 5 milliamperes in the United States, is not used worldwide.</p>
+        <p>The value of current flowing through the average human body, at which the GFCI should open the circuit, cannot be set lightly. The value represents a major problem in establishing international standards for connectors for charging batteries of electric vehicles. Europeans maintain that 30 milliamperes represents a safe value. In the United States, such a level is unacceptable, ''even though the hazard is the same for human beings any place in the world.'' The 5ma quoted reflects the litigious nature of our society.</p>
+      </block>
+      <block class="full_text">
+        <p>The Home Clinic (''Interrupters for Ground Fault Circuits,'' June 29) is an excellent description of how, and to some degree why, the ground fault circuit interrupter (GFCI) should be installed. Although worldwide the use of GFCI's is increasing, the current at which the circuit opens, 5 milliamperes in the United States, is not used worldwide.</p>
+        <p>The value of current flowing through the average human body, at which the GFCI should open the circuit, cannot be set lightly. The value represents a major problem in establishing international standards for connectors for charging batteries of electric vehicles. Europeans maintain that 30 milliamperes represents a safe value. In the United States, such a level is unacceptable, ''even though the hazard is the same for human beings any place in the world.'' The 5ma quoted reflects the litigious nature of our society.</p>
+        <p>Without denying the importance of using GFCI's, I can say that an electric current of 6 milliamperes (6 ma or 0.006 amperes) is not ''enough current to stop the human heart.'' A current of 100ma is the minimum current that will produce ventricular fibrillation (arrhythmic beating of the heart) and hence a fatality, if defibrillation is not induced.</p>
+        <p>The 5ma for GFCI operation derives from the value of 10ma that can cause tetanization, muscle spasms that prevent a person from releasing a live wire. For a margin of safety, 5 ma is specified.</p>
+        <p>GCFI's should be used, even though the incidence of fatal electric shocks is much lower, than, for example, the fatality rate in automobiles. There are fewer than 400 electric-shock fatalities per year in homes in the United States, compared with 100 times that many from automobile accidents. (Let us not discuss the accidental fatalities from handguns).</p>
+        <p>VICTOR WOUK  Manhattan</p>
+        <p>The writer is U.S.A. technical adviser to the International Commission on Electric Vehicles.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

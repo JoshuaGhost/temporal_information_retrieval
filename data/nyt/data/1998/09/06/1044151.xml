@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sore Winner</title>
+    <meta content="LTR092704" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1044151"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Amnesty International</org>
+        <person class="indexing_service">Safir, Howard (Comr)</person>
+        <person class="indexing_service">Schulz, William F</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E3DB153FF935A3575AC0A96E958260" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sore Winner</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by William F Schulz of Amnesty International criticizes New York City Police Comr Howard Safir for remarkson police brutality (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Police Commissioner Howard Safir may have ''fired more cops than the last two Commissioners combined,'' as he claims, but his commitment to rout out brutal cops is undermined by his own words (''Sore Winner,'' by Jeffrey Goldberg, Aug. 16).</p>
+        <p>In referring to the Louima case, Safir says: ''Police brutality by definition is, I go to arrest you, and you resist. I can use reasonable force. But after you're down, I hit you on the head five times. That's brutality. But taking someone 30 minutes after an event, taking them into a room and brutalizing them the way it allegedly happened, that's criminal.''</p>
+      </block>
+      <block class="full_text">
+        <p>Police Commissioner Howard Safir may have ''fired more cops than the last two Commissioners combined,'' as he claims, but his commitment to rout out brutal cops is undermined by his own words (''Sore Winner,'' by Jeffrey Goldberg, Aug. 16).</p>
+        <p>In referring to the Louima case, Safir says: ''Police brutality by definition is, I go to arrest you, and you resist. I can use reasonable force. But after you're down, I hit you on the head five times. That's brutality. But taking someone 30 minutes after an event, taking them into a room and brutalizing them the way it allegedly happened, that's criminal.''</p>
+        <p>To contrapose ''brutality'' and ''criminality'' or to suggest that the criminality of brutal behavior is dependent upon the time frame in which it takes place not only displays a stunning ignorance of the law but, more important, also sends exactly the wrong signal -- both to the police and to the communities that are the victims of police misconduct.</p>
+        <p>William F. Schulz  Executive Director  Amnesty International U.S.A.  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

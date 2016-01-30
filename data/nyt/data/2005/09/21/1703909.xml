@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Abortion in the Lives of Women</title>
+    <meta content="l21abortion-7" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1703909"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3D61630F932A1575AC0A9639C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Abortion in the Lives of Women</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As mentioned in the article, the majority of women who get abortions are young, poor and minorities. It is no coincidence that these same demographic groups are also less likely to have access to sex education and contraception that can prevent unwanted pregnancies in the first place.</p>
+        <p>Every law restricting women's reproductive rights -- whether in the form of parental notification, limiting access to emergency contraception or laws that make it difficult to open clinics -- is most harmful to those women who have already been failed by society.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As mentioned in the article, the majority of women who get abortions are young, poor and minorities. It is no coincidence that these same demographic groups are also less likely to have access to sex education and contraception that can prevent unwanted pregnancies in the first place.</p>
+        <p>Every law restricting women's reproductive rights -- whether in the form of parental notification, limiting access to emergency contraception or laws that make it difficult to open clinics -- is most harmful to those women who have already been failed by society.</p>
+        <p>People with the means to travel long distances and pay high fees to have an abortion will continue to do so, while those who cannot will continue to suffer.</p>
+        <p>Jessica Bronson  Gainesville, Fla., Sept. 18, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

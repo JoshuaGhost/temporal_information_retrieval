@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Basically, a New Series</title>
+    <meta content="15arts-4" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/15/books/15basic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1833154"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E4DC1E31F936A25750C0A9619C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Basically, a New Series</hl1>
+        <hl2 class="online_headline">Basic Books Plans New Series of Biographies</hl2>
+      </hedline>
+      <byline class="print_byline">By JULIE BOSMAN; Compiled by Steven McElroy</byline>
+      <byline class="normalized_byline">Bosman, Julie</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Basic Books plans to introduce a new series of slim biographies of subjects encompassing Andy Warhol's soup cans, the Alfred Hitchcock classic ''Psycho,'' and Wagner's ''Ring'' cycle. Basic Books, an imprint of the Perseus Books Group, plans to announce today that the new series, ''Basic Ideas,'' is to begin this fall. David Steinberger, the president and chief executive of Perseus, said he has signed 10 authors so far, including William F. Buckley Jr. (to write about Barry Goldwater's ''Conscience of a Conservative''), Stephanie Coontz (Betty Friedan's ''Feminine Mystique'') and Jeff Sharlet (Pete Seeger's ''If I Had a Hammer''). Mr. Steinberger said the series would include brief, powerful books by writers with extraordinary insight about significant works.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The slim biographies will cover subjects including Andy Warhol’s soup cans, the Alfred Hitchcock classic “Psycho,” and Wagner’s “Ring” cycle.</p>
+      </block>
+      <block class="full_text">
+        <p>Basic Books plans to introduce a new series of slim biographies of subjects encompassing Andy Warhol's soup cans, the Alfred Hitchcock classic ''Psycho,'' and Wagner's ''Ring'' cycle. Basic Books, an imprint of the Perseus Books Group, plans to announce today that the new series, ''Basic Ideas,'' is to begin this fall. David Steinberger, the president and chief executive of Perseus, said he has signed 10 authors so far, including William F. Buckley Jr. (to write about Barry Goldwater's ''Conscience of a Conservative''), Stephanie Coontz (Betty Friedan's ''Feminine Mystique'') and Jeff Sharlet (Pete Seeger's ''If I Had a Hammer''). Mr. Steinberger said the series would include brief, powerful books by writers with extraordinary insight about significant works.</p>
+        <p>JULIE BOSMAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museum of Natural History Soon to Grant Degrees, Too</title>
+    <meta content="24museum" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1799413"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDB173FF937A15753C1A9609C8B63" item-length="381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museum of Natural History Soon to Grant Degrees, Too</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN W. ARENSON</byline>
+      <byline class="normalized_byline">Arenson, Karen W</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American Museum of Natural History, which plays host to about 400,000 schoolchildren each year, is about to become a graduate school.</p>
+        <p>The New York State Board of Regents yesterday authorized the museum, on the West Side of Manhattan, to grant master's degrees and Ph.D.'s in comparative biology, making it the first American museum with its own doctoral degree.</p>
+      </block>
+      <block class="full_text">
+        <p>The American Museum of Natural History, which plays host to about 400,000 schoolchildren each year, is about to become a graduate school.</p>
+        <p>The New York State Board of Regents yesterday authorized the museum, on the West Side of Manhattan, to grant master's degrees and Ph.D.'s in comparative biology, making it the first American museum with its own doctoral degree.</p>
+        <p>It expects to recruit students next year and enroll its first class in 2008.</p>
+        <p>Ellen V. Futter, the museum's president, said the program would expand ''the museum's historic role in training scientists'' at a time when there is an acute need to improve science education.</p>
+        <p>Johanna Duncan-Poitier, deputy commissioner for higher education in New York State, said the museum was already ''one of the world's foremost centers of research and training in the natural sciences, the physical sciences and anthropology,'' and clearly met state standards for doctoral-granting institutions.</p>
+        <p>About 30 students a year already conduct doctoral research at the museum through partnerships with Columbia, Cornell, New York University and the City University of New York. Its staff includes more than 200 scientists, some of whom will become the school's faculty.</p>
+        <p>The program plans to accept four or five students a year -- reaching a total enrollment of about 20 -- who will receive tuition and a stipend. It has raised more than $50 million for the program, from the Gilder Foundation, the Hess Foundation, an anonymous museum trustee and New York City. It will be named the Richard Gilder Graduate School, for Richard Gilder, an investment manager and museum trustee who is one of the school's major donors.</p>
+        <p>One of the museum's goals is to build on its strengths in evolutionary biology and field work. Michael J. Novacek, provost and senior vice president at the museum, said that as disciplines like molecular biology and neuroscience have become ''the vogue'' in recent decades, universities ''have lost their connection with the natural world.''</p>
+        <p>He said the museum's students would use modern techniques and equipment, but would have a ''Darwinian side to their approach'' that will involve going out into nature and finding things. With growing interest in the environment, he added, ''We are seeing a great need for people who know how to identify animals and plants and work in the field.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

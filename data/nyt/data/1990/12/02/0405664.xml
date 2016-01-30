@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So Many Taxes, So Few Services</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="405664"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">SMALL BUSINESS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <person class="indexing_service">MEYERS, STUART</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D6143FF931A35751C1A966958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So Many Taxes, So Few Services</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was depressed to read the article by Stuart Meyers, "A Company Gives Up on New York" (Forum, Nov. 4). But I was even more depressed to read the ad hominem attacks written in response. The question is not whether Mr. Meyers should have purchased insurance. The question is why insurance rates are so high given the amount spent on the criminal justice system. And given the increases in water charges in the last decade, why can't the city provide pipes that don't rupture? Not one writer responded to the real problem: Why can't this city provide services commensurate with the amount spent on services? Unless it does, people will continue to vote with their feet to the detriment of the city, the state and this country. PHIL GOODMAN  New York, Nov. 26</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was depressed to read the article by Stuart Meyers, "A Company Gives Up on New York" (Forum, Nov. 4). But I was even more depressed to read the ad hominem attacks written in response. The question is not whether Mr. Meyers should have purchased insurance. The question is why insurance rates are so high given the amount spent on the criminal justice system. And given the increases in water charges in the last decade, why can't the city provide pipes that don't rupture? Not one writer responded to the real problem: Why can't this city provide services commensurate with the amount spent on services? Unless it does, people will continue to vote with their feet to the detriment of the city, the state and this country. PHIL GOODMAN  New York, Nov. 26</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

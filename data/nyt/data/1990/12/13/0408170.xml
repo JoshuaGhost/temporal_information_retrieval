@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seeking Safety for Federal Cash</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="408170"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <org class="indexing_service">BANK OF BOSTON</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD7123DF930A25751C1A966958260" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seeking Safety for Federal Cash</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Concern about the safety of money in the Treasury's placement of funds dates back more than a century.</p>
+        <p>During the financial panic of 1837 there was a run on banks and the Treasury found some of its deposits frozen in state and local banks for a year. In response, Congress passed a law in the 1840's requiring the Treasury to keep its funds only in its own mints and customs houses around the country.</p>
+      </block>
+      <block class="full_text">
+        <p>Concern about the safety of money in the Treasury's placement of funds dates back more than a century.</p>
+        <p>During the financial panic of 1837 there was a run on banks and the Treasury found some of its deposits frozen in state and local banks for a year. In response, Congress passed a law in the 1840's requiring the Treasury to keep its funds only in its own mints and customs houses around the country.</p>
+        <p>Some 70 years after that, with the passage of the Federal Reserve Act, the fiscal role of these subtreasuries was assumed by the Federal Reserve banks.</p>
+        <p>It was not until the late 1970's that Congress authorized the Treasury to place income from taxes and operating cash at commercial banks at market-like rates.Today, the Treasury keeps about $5 billion with the Federal Reserve, its fiscal agent and investment watchdog. Any excess is allocated blindly, the Treasury says, among various depositories, according to the amount of collateral the institution has at the nearest Federal Reserve bank.</p>
+        <p>Many large banks hold Treasury funds in a pre-approved collateralized tax account, issuing the Treasury a demand note. On occasion, the Treasury places excess cash into these note accounts, often during periods when Federal coffers are swelled by tax receipts.</p>
+        <p>The Treasury draws down balances in these accounts based on its cash needs. It says that withdrawals, like deposits, are also uniformly allocated among the participating depositories.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

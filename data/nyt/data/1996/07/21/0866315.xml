@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ones Who Stayed</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="866315"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <location class="indexing_service">GERMANY</location>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DC1639F932A15754C0A960958260" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ones Who Stayed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was sickened by the subtitle of John V. H. Dippel's book "Bound Upon a Wheel of Fire: Why So Many German Jews Made the Tragic Decision to Remain in Nazi Germany," and I applaud Peter Gay's review (June 23). His reflections on why Jews remained in Germany match what my parents told me and my own experience.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was sickened by the subtitle of John V. H. Dippel's book "Bound Upon a Wheel of Fire: Why So Many German Jews Made the Tragic Decision to Remain in Nazi Germany," and I applaud Peter Gay's review (June 23). His reflections on why Jews remained in Germany match what my parents told me and my own experience.</p>
+        <p>My parents were assimilated into the broader German community. At my birth (in June 1934) the hospital nurse informed my mother that "the worst of the political situation is over." My father's father and his cousins were denied visas. All perished. My father's best friend, Mr. Henle, and his wife had visas  for the United States; she became pregnant, and the couple could not get a third visa. The day before my parents and I left Germany, I told Mrs. Henle that she could go to America in my place. I will never forget her response -- "Don't say  such a thing. You don't know what you're saying" -- and her sobs.</p>
+        <p>Ellen Blumenthal Sehgal Chevy Chase, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

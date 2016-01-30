@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nasdaq Posts Rise of 3.9% In Uncovered Short Sales</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="803057"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHORT SELLING</classifier>
+        <org class="indexing_service">NATIONAL ASSN OF SECURITIES DEALERS</org>
+        <org class="indexing_service">NATIONAL ASSN OF SECURITIESDEALERS AUTOMATED QUOTATIONS NATIONAL ASSOCIATION OF SECURITIES DEALERS</org>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1D91E39F936A15753C1A963958260" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nasdaq Posts Rise of 3.9% In Uncovered Short Sales</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Association of Securities Dealers reported yesterday that the number of open positions of short sales on the Nasdaq market rose 3.9 percent in the month that ended Oct. 13 to a new peak.</p>
+        <p>The short position in Nasdaq shares, which represented trading that took place between Sept. 18 and Oct. 10 and was settled by Oct. 13, totaled 927.5 million shares. That compared with 893 million in the period ending Sept. 15, which had topped the previous high of more than a year earlier.</p>
+      </block>
+      <block class="full_text">
+        <p>The National Association of Securities Dealers reported yesterday that the number of open positions of short sales on the Nasdaq market rose 3.9 percent in the month that ended Oct. 13 to a new peak.</p>
+        <p>The short position in Nasdaq shares, which represented trading that took place between Sept. 18 and Oct. 10 and was settled by Oct. 13, totaled 927.5 million shares. That compared with 893 million in the period ending Sept. 15, which had topped the previous high of more than a year earlier.</p>
+        <p>In a short sale, investors borrow shares from a brokerage firm and sell them, hoping to repurchase them later at a lower price and return them to the firm. If the shares fall in price, an investor makes money by keeping the difference between the price for which he sold them and the lower price at which he repurchased them.</p>
+        <p>Short sales have typically been considered a measure of bearish sentiment. But they are now often employed in complex hedging and trading strategies involving options, futures and other derivatives.</p>
+        <p>Short-sellers were betting more against bigger over-the-counter stocks, driving short interest for the 3,624 securities included in Nasdaq's national market system up 3.9 percent, to 884.5 million shares.</p>
+        <p>Short interest on the 1,303 stocks traded on the exchange's small capitalization market climbed 3.6 percent, to 42.9 million shares.</p>
+        <p>SHORT SALES TABLES EXPLAINED</p>
+        <p>Cover ratio represents the number of days, at average volume level, that it would take to purchase the number of shares sold short. A -- American Stock Exchange. N -- New York Stock Exchange. N.L. -- Not listed. + -- Stock split. * -- (American Stock Exchange only.) May have been affected by arbitrage transactions resulting from any one or more of the following: proposed or pending acquisitions; convertible securities of the same company; rights offerings; stock splits or distributions; tenders; other special situations.</p>
+        <p>Short interest may also be affected by options positions.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

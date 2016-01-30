@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="497612"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SWIMMING</classifier>
+        <location class="indexing_service">CONEY ISLAND (NYC)</location>
+        <person class="indexing_service">RICHARDSON, LYNDA</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Swimming</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD81338F931A35752C0A964958260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By LYNDA RICHARDSON</byline>
+      <byline class="normalized_byline">RICHARDSON, LYNDA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Iceberg Club, a New York winter bathing society, splashed into the Atlantic Ocean off of Coney Island yesterday afternoon for a swim in honor of their leader, VIC BOFF, who is retiring this year to Cape Coral, Fla. Seven of the club's members swam for 15 minutes, took a break and then jumped in for another dip.</p>
+      </block>
+      <block class="full_text">
+        <p>The Iceberg Club, a New York winter bathing society, splashed into the Atlantic Ocean off of Coney Island yesterday afternoon for a swim in honor of their leader, VIC BOFF, who is retiring this year to Cape Coral, Fla. Seven of the club's members swam for 15 minutes, took a break and then jumped in for another dip.</p>
+        <p>"The water was about 44 degrees; it was a warm day for us," said Mr. Boff, 76, who has been president of the club since 1974. "People have the wrong impression. The philosophy is to live the outdoor life and enjoy what winter has to offer. You get a tremendous feeling of well-being."</p>
+        <p>The club, which is 74 years old, was one of several winter bathing clubs yesterday celebrating the New Year with a traditional swim. The Iceberg Club has about a dozen members.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

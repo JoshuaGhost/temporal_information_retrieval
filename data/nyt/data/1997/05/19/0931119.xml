@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="NIC231500" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="CHRONICLE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="931119"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="CHRONICLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <org class="indexing_service">Fordham University</org>
+        <person class="indexing_service">Brozan, Nadine</person>
+        <person class="indexing_service">Walsh, William D</person>
+        <object.title class="indexing_service">Chronicle (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDA1E38F93AA25756C0A961958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">Brozan, Nadine</byline>
+      <abstract>
+        <p>William D Walsh donates $500,000 to improve athletic center of Fordham University and gives $10 million to school's new library, which will be named Walsh Library (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILLIAM D. WALSH is not a man to hold a grudge. In 1947, his first year at Fordham University, he was cut from the football team by the freshman coach, Vince Lombardi.</p>
+        <p>Last week, the university announced that Mr. Walsh, a trustee and venture capitalist who lives in Atherton, Calif., is giving $500,000 to improve the athletic center at the university's Rose Hill campus in the Bronx.</p>
+      </block>
+      <block class="full_text">
+        <p>WILLIAM D. WALSH is not a man to hold a grudge. In 1947, his first year at Fordham University, he was cut from the football team by the freshman coach, Vince Lombardi.</p>
+        <p>Last week, the university announced that Mr. Walsh, a trustee and venture capitalist who lives in Atherton, Calif., is giving $500,000 to improve the athletic center at the university's Rose Hill campus in the Bronx.</p>
+        <p>''I am the chairman of the subcommittee on athletics, and when I walked through the facilities, it was clear that something needed to be done,'' Mr. Walsh said.</p>
+        <p>He is also donating $10 million for a library, in the final stages of construction in the Bronx. It will be named the Walsh Library, and Mr. Walsh speculated, ''Students of the future will wonder who that was.''</p>
+        <p>Mr. Walsh, who graduated from Fordham in 1951, said: ''Fordham is a school that can be characterized as educating a great number of America's first-generation children. Like so many others, I was there when my family had no excess cash, and I worked as a theater barker and a hospital oxygen technician.''</p>
+        <p>CHRONICLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

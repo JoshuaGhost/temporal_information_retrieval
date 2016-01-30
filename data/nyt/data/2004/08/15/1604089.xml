@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carin Bronner, Craig Chapman</title>
+    <meta content="15BRON$02" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/08/15/fashion/weddings/15BRON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1604089"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BRONNER, CARIN LEIGH (CARIN LEIGH CHAPMAN)</person>
+        <person class="indexing_service">CHAPMAN, CRAIG JAMES</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5DF153FF936A2575BC0A9629C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carin Bronner, Craig Chapman</hl1>
+        <hl2 class="online_headline">Carin Bronner, Craig Chapman</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carin Leigh Bronner, the daughter of Mr. and Mrs. John E. Bronner Jr. of Glen Rock, N.J., was married yesterday to Craig James Chapman, a son of Mr. and Mrs. E. John Chapman of Rye, England. The Rev. Carl Beavers, a Roman Catholic priest, performed the ceremony at the Chapel of the Sacred Heart in Grand Teton National Park in Wyoming. The Rev. Jerry Everley, a United Methodist minister, took part in the service.</p>
+        <p>Until this month, Mrs. Chapman, 33, was a pediatric clinical nurse at Children's Hospital of New York-Presbyterian Hospital. She graduated from St. Lawrence University and received bachelor's and master's degrees in nursing from New York University. Her father is an information technology consultant. Her mother, Elaine F. Bronner, is a nurse practitioner.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Carin Bronner,.</p>
+      </block>
+      <block class="full_text">
+        <p>Carin Leigh Bronner, the daughter of Mr. and Mrs. John E. Bronner Jr. of Glen Rock, N.J., was married yesterday to Craig James Chapman, a son of Mr. and Mrs. E. John Chapman of Rye, England. The Rev. Carl Beavers, a Roman Catholic priest, performed the ceremony at the Chapel of the Sacred Heart in Grand Teton National Park in Wyoming. The Rev. Jerry Everley, a United Methodist minister, took part in the service.</p>
+        <p>Until this month, Mrs. Chapman, 33, was a pediatric clinical nurse at Children's Hospital of New York-Presbyterian Hospital. She graduated from St. Lawrence University and received bachelor's and master's degrees in nursing from New York University. Her father is an information technology consultant. Her mother, Elaine F. Bronner, is a nurse practitioner.</p>
+        <p>Mr. Chapman, 35, is a candidate for a doctorate in business administration at Harvard, where he received an M.B.A. He graduated from Oxford and also received a master's in mathematics there. His mother, Inga Chapman, retired as the headmistress of the Lydd Primary School in Lydd, England. His father retired as a nuclear engineer at the Dungeness Nuclear Power Station.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

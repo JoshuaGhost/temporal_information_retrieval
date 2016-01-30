@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Electric Motor</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="338149"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRICITY</classifier>
+        <classifier class="indexing_service" type="descriptor">SUPERCONDUCTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">CERAMICS AND POTTERY</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <org class="indexing_service">ARGONNE NATIONAL LABORATORY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electricity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ceramics and Pottery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D61639F934A15750C0A966958260" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Electric Motor</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Using recent advances in high-temperature superconductor technology, engineers have built a model electric motor using a coil made of a superconducting ceramic.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Using recent advances in high-temperature superconductor technology, engineers have built a model electric motor using a coil made of a superconducting ceramic.</p>
+        <p>Using recent advances in high-temperature superconductor technology, engineers have built a model electric motor using a coil made of a superconducting ceramic.</p>
+        <p>Engineers at the Argonne National Laboratory in Illinois and the Reliance Electric Company in Cleveland, said they believed the device was the first model electric motor with a superconducting ceramic coil.</p>
+        <p>Although it is not yet commercially viable, the motor, about the size of a paperback and able to generate 10 watts, portends a future in which huge electric motors would have superconducting coils, its makers said.</p>
+        <p>Three years ago, several ceramic compounds were found to work as high-temperature superconductors, conducting electricity without loss to resistance. The discovery opened new avenues of research, including the making of superconducting wires capable of working at higher temperatures than low-temperature metal superconductors, which only work at temperatures just above absolute zero and are therefore prohibitively expensive.</p>
+        <p>The model motor's coil is made of yttrium barium copper oxide, one of the new compounds. Conventional electric motors have coils made of copper wire, which has greater resistance.</p>
+        <p>The ceramic, which comes in powder form, is very brittle when cast as a wire and must therefore be shaped into a coil while malleable, then fired at high temperature, said Roger Poeppel, a senior engineer at Argonne.</p>
+        <p>For the coil to conduct electricity, each ceramic wire must be insulated from the others. However, conventional insulators, such as enamel, cannot withstand the heat of firing. Argonne engineers enveloped the superconducting wire with another ceramic, which is not a superconductor, then molded both the wire and the insulation into a coil, said Dr. Poeppel.</p>
+        <p>''What we have found is an insulator that can withstand the high temperature needed to convert the powder into a superconductor,'' he said.</p>
+        <p>High-temperature superconducting motors could potentially ''be more efficient, one-third the weight and one-third the size of a conventional copper motor,'' Dr. Poeppel said.</p>
+        <p>Dr. Rich F. Schiferl of Reliance Electric said that while engineers envision using the model's technology to build 10,000-horsepower electric motors for utilities and industries, ''it will be several years before we reach that point.''  SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

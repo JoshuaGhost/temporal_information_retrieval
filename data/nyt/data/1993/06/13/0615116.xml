@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mysterious Movement at Andrea Electronics</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="615116"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS (CORPORATE)</classifier>
+        <org class="indexing_service">ANDREA ELECTRONICS INC</org>
+        <person class="indexing_service">NORRIS, FLOYD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD9103FF930A25755C0A965958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mysterious Movement at Andrea Electronics</hl1>
+      </hedline>
+      <byline class="print_byline">By FLOYD NORRIS</byline>
+      <byline class="normalized_byline">NORRIS, FLOYD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ADVOCATES of the theory of efficient markets may have a hard time explaining the trading in Andrea Electronics, whose shares have repeatedly moved 50 percent or more in a day, without any new information.</p>
+        <p>The bullish story on Andrea is that it has a wondrous device that will suppress street noise on pay telephones. It hasn't sold any systems yet, and the GTE Corporation, for one, says it is happy with alternative systems and has not talked to Andrea. But Bellcore, the research arm of the regional Bell companies, is looking at the system.</p>
+      </block>
+      <block class="full_text">
+        <p>ADVOCATES of the theory of efficient markets may have a hard time explaining the trading in Andrea Electronics, whose shares have repeatedly moved 50 percent or more in a day, without any new information.</p>
+        <p>The bullish story on Andrea is that it has a wondrous device that will suppress street noise on pay telephones. It hasn't sold any systems yet, and the GTE Corporation, for one, says it is happy with alternative systems and has not talked to Andrea. But Bellcore, the research arm of the regional Bell companies, is looking at the system.</p>
+        <p>At its peak last week, Andrea had a market value, assuming exercise of management options, of $186 million. That's not bad for a company that last year reported a loss of $691,000 on revenues of $3.4 million. The stock dipped after Andrea said the Securities and Exchange Commission had asked questions about the trading. Even now, the total market value is $117 million, and the shares are $34 -- still far above the $1.50 the stock was fetching last fall.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

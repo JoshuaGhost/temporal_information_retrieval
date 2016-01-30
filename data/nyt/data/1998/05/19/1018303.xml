@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tadpoles to Aid Eye Studies</title>
+    <meta content="TADPOLES" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1018303"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="SCIENCE WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Eyes and Eyesight</classifier>
+        <classifier class="indexing_service" type="descriptor">Tadpoles</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Burkhart, Ford</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1D91739F93AA25756C0A96E958260" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tadpoles to Aid Eye Studies</hl1>
+      </hedline>
+      <byline class="print_byline">By FORD BURKHART</byline>
+      <byline class="normalized_byline">Burkhart, Ford</byline>
+      <abstract>
+        <p>Tadpoles with eerie fluorescent green eyes may help researchers see in detail how eye disease develops (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tadpoles with eerie fluorescent green eyes may help researchers see in detail how eye disease develops.</p>
+        <p>Genes that make a jellyfish glow in the dark were implanted in frog embryos, and the large eyes of the resulting tadpoles shine in the dark like green traffic lights.</p>
+      </block>
+      <block class="full_text">
+        <p>Tadpoles with eerie fluorescent green eyes may help researchers see in detail how eye disease develops.</p>
+        <p>Genes that make a jellyfish glow in the dark were implanted in frog embryos, and the large eyes of the resulting tadpoles shine in the dark like green traffic lights.</p>
+        <p>As the tadpoles grow in their petri dishes, Dr. Barry E. Knox, a professor of biochemistry at the State University of New York Health Science Center at Syracuse, will create in their cells the same kind of conditions that cause eye degeneration in people. But in the tadpoles, the changes will be much quicker and easier to study than in humans, where some of the symptoms occur in people in their 50's or 60's.</p>
+        <p>Dr. Knox said that monitoring the rods and cones of these tadpoles -- always popular creatures for such research because of their large eyes -- may yield clues to the causes of such human eye diseases as macular degeneration or age-related blindness, and retinitis pigmentosa, which  can lead to blindness.</p>
+        <p>Meanwhile, the fluorescent tadpoles, now called transgenic because they will reproduce with their new genes, are giving a miniature light show.</p>
+        <p>Later in the project, the bright-eyed tadpoles may be useful in the study of how the retina degenerates in humans, Dr. Knox said.</p>
+        <p>His research was published in The Federation of European Biochemical Society Letters.</p>
+        <p>FORD BURKHART</p>
+        <p>SCIENCE WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

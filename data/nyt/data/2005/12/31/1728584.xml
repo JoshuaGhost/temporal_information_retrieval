@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conspiring Against the Voters</title>
+    <meta content="31sat3" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/31/opinion/31sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1728584"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Federal Election Commission</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051231T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E2DD1030F932A05751C1A9639C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conspiring Against the Voters</hl1>
+        <hl2 class="online_headline">Conspiring Against the Voters</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush has announced four nominees for the Federal Election Commission, choices that would keep the policing of campaign abuses firmly in the hands of party wheel horses. The timing of the announcement -- the president waited until the Senate had gone home -- is likely to allow the nominees to avoid the full hearing and confirmation process needed to evaluate them properly.</p>
+        <p>The most objectionable nominee is Hans von Spakovsky, a former Republican county chairman in Georgia and a political appointee at the Justice Department. He is reported to have been involved in the maneuvering to overrule the career specialists at Justice who warned that the Texas gerrymandering orchestrated by Representative Tom DeLay violated minority voting rights. Senators need the opportunity to delve into that, as well as reports of Mr. von Spakovsky's involvement in such voting rights abuses as the purging of voter rolls in Florida in the 2000 elections.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush has announced four nominees for the Federal Election Commission, moving to keep the policing of campaign abuses firmly in the hands of party wheel horses.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush has announced four nominees for the Federal Election Commission, choices that would keep the policing of campaign abuses firmly in the hands of party wheel horses. The timing of the announcement -- the president waited until the Senate had gone home -- is likely to allow the nominees to avoid the full hearing and confirmation process needed to evaluate them properly.</p>
+        <p>The most objectionable nominee is Hans von Spakovsky, a former Republican county chairman in Georgia and a political appointee at the Justice Department. He is reported to have been involved in the maneuvering to overrule the career specialists at Justice who warned that the Texas gerrymandering orchestrated by Representative Tom DeLay violated minority voting rights. Senators need the opportunity to delve into that, as well as reports of Mr. von Spakovsky's involvement in such voting rights abuses as the purging of voter rolls in Florida in the 2000 elections.</p>
+        <p>The need for a clean broom at the six-member election panel becomes clearer with each new round of decisions favoring big-money politics over the voters. But the newly nominated majority promises no improvement. In fact, the slate would mean an end to the service of Scott Thomas, the one incumbent praised for his independence by Senator John McCain, who has campaigned for a clean, hack-free Federal Election Commission.</p>
+        <p>Both parties suggested candidates; the Democrats include a union lawyer and a trusted political associate of the Senate minority leader, Harry Reid. By endorsing them, the president has finally shown his commitment to bipartisanship in the worst of ways: by installing another undistinguished group of factotums to referee the democratic process.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

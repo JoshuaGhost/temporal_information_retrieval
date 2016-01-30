@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bob Hite Sr., 86, Voice on 'Lone Ranger'</title>
+    <meta content="Y22HITE" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1178436"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Hite, Bob Sr</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EFDF1530F931A15751C0A9669C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bob Hite Sr., 86, Voice on 'Lone Ranger'</hl1>
+      </hedline>
+      <abstract>
+        <p>Bob Hite Sr, voice on Lone Ranger radio program of yesteryear, dies at age 86 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bob Hite Sr., whose commanding voice made countless fans of ''The Lone Ranger'' pull their chairs closer to the family radio, died on Friday in West Palm Beach, Fla. He was 86 and had lived in Florida.</p>
+        <p>Mr. Hite began his radio career in the 1930's, when he worked for station WXYZ in Detroit. His voice was soon being heard on several shows, including ''The Green Hornet'' serial, but it was his delivery of the introduction to ''The Lone Ranger'' that regularly carried listeners back to ''those thrilling days of yesteryear'' when the Western hero rode out of the past on his great steed Silver, ''a fiery horse with the speed of light.''</p>
+      </block>
+      <block class="full_text">
+        <p>Bob Hite Sr., whose commanding voice made countless fans of ''The Lone Ranger'' pull their chairs closer to the family radio, died on Friday in West Palm Beach, Fla. He was 86 and had lived in Florida.</p>
+        <p>Mr. Hite began his radio career in the 1930's, when he worked for station WXYZ in Detroit. His voice was soon being heard on several shows, including ''The Green Hornet'' serial, but it was his delivery of the introduction to ''The Lone Ranger'' that regularly carried listeners back to ''those thrilling days of yesteryear'' when the Western hero rode out of the past on his great steed Silver, ''a fiery horse with the speed of light.''</p>
+        <p>Mr. Hite worked for CBS in New York during World War II, reading news reports from correspondents overseas. There he met Walter Cronkite, who became a close friend. And when Frank Sinatra appeared with the Tommy Dorsey Orchestra for the first time, Mr. Hite introduced him to the audience. He retired from CBS in 1979.</p>
+        <p>He is survived by his wife, Nancy Boyle Hite, of Sarasota, Fla.; a son, Bob Jr., of Florida; and three daughters, Nancy Speck of New Jersey, Cindy Hite Content of Palm Beach, Fla., and Kimberly Schad of Australia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TV Notes; Competition Winners</title>
+    <meta content="TVNZ2503" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="997991"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Cbs Corp</org>
+        <person class="indexing_service">Carter, Bill</person>
+        <object.title class="indexing_service">Late Show With David Letterman (TV Program)</object.title>
+        <object.title class="indexing_service">Cbs Evening News (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5D9123EF936A15751C0A96E958260" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TV Notes; Competition Winners</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>CBS coverage of Olympics has ancillary benefit of boosting ratings for CBS Evening News With Dan Rather and David Letterman's Late Show (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In terms of ancillary benefits from the Olympics, CBS's positive results included the highest-rated week for its evening newscast in more then three years, and two weeks of victories for David Letterman in the late-night competition.</p>
+        <p>''The CBS Evening News With Dan Rather'' won the evening news competition for the first time since the week of Feb. 21, 1994 (also an Olympic week) with a 9.3 rating to a 9.1 for NBC and an 8.6 for ABC.</p>
+      </block>
+      <block class="full_text">
+        <p>In terms of ancillary benefits from the Olympics, CBS's positive results included the highest-rated week for its evening newscast in more then three years, and two weeks of victories for David Letterman in the late-night competition.</p>
+        <p>''The CBS Evening News With Dan Rather'' won the evening news competition for the first time since the week of Feb. 21, 1994 (also an Olympic week) with a 9.3 rating to a 9.1 for NBC and an 8.6 for ABC.</p>
+        <p>Mr. Letterman's ''Late Show'' managed to beat Jay Leno's ''Tonight'' show during the first Olympics week in every audience category and, though the number won't be official until Thursday, very likely will again in the second week because he was comfortably ahead in the results from the country's 38 biggest cities.</p>
+        <p>Mr. Letterman had by far his best night last Friday when he scored an 8.5 rating to a 4.8 for the ''Tonight'' show, despite starting 30 minutes later. But on Monday, the first weeknight after the Olympics, Mr. Leno easily returned to dominance. The Letterman show had argued that getting a competitive lead-in audience makes the show competitive with Mr. Leno. CBS's prime-time performance in the 10-to-11 P.M. slot  with the new series ''Brooklyn South'' was especially dismal on  Monday night.</p>
+        <p>In one last bit of Olympic fallout, CBS got some positive news from its first episode of ''The Closer'' with Tom Selleck, which was heavily promoted during the Games. The show was against unusually formidable competition, including another giant hit movie delivered to ABC by its secret weapon, Oprah Winfrey.</p>
+        <p>That film, ''The Wedding,'' had a big 15.6 rating. NBC also broadcast a special movie, ''While You Were Sleeping,'' with Sandra Bullock, which fared much better than its usual lineup of comedies. And Fox had a new episode of ''Ally McBeal.''</p>
+        <p>Against all that Mr. Selleck scored a 10.9 rating, increasing almost a full rating point from his lead-in. The show also had usually strong numbers, for CBS, among younger viewers.</p>
+        <p>BILL CARTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

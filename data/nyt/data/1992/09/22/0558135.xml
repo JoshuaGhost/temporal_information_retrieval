@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inquiry Held Into Fight With Officer</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="558135"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POLICE</classifier>
+        <classifier class="indexing_service" type="descriptor">ASSAULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BRUTALITY AND HARASSMENT
+CHARGES</classifier>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">BROOKLYN (NYC)</location>
+        <person class="indexing_service">COUGHLIN, JOHN (POLICE OFFICER)</person>
+        <person class="indexing_service">MUHAMMAD, YUWNAS</person>
+        <person class="indexing_service">JAMES, GEORGE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DF153AF931A1575AC0A964958260" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inquiry Held Into Fight With Officer</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JAMES</byline>
+      <byline class="normalized_byline">JAMES, GEORGE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A grand jury is investigating a fight last Wednesday on a Brooklyn subway train involving a Brooklyn teen-ager and an off-duty police officer who was returning from a raucous protest at City Hall.</p>
+        <p>Yunas Mohamed, 18 years old, of Bushwick, was arrested on charges that he slashed the face of Officer John Coughlin, who was in civilian clothes on his way to work in the 83d Precinct. The facial wound required a hundred stitches.</p>
+      </block>
+      <block class="full_text">
+        <p>A grand jury is investigating a fight last Wednesday on a Brooklyn subway train involving a Brooklyn teen-ager and an off-duty police officer who was returning from a raucous protest at City Hall.</p>
+        <p>Yunas Mohamed, 18 years old, of Bushwick, was arrested on charges that he slashed the face of Officer John Coughlin, who was in civilian clothes on his way to work in the 83d Precinct. The facial wound required a hundred stitches.</p>
+        <p>But Mr. Mohamed's lawyer, Lynne Stewart, yesterday called the act self-defense, saying Officer Coughlin and some off-duty colleagues were drunk and assaulted her client, whose jaw was broken.</p>
+        <p>The incident took place about 1:40 P.M. on the M train, after Officer Coughlin had left the City Hall demonstration, which was called to protest proposals for an all-civilian board to review charges of police misconduct.</p>
+        <p>Ms. Stewart said her client "was walking through a subway car when some large, arrogant and partially drunk white man tripped this slight black youth."  Report of Intimidation</p>
+        <p>"When he turned around he was greeted with a closed fist in his face and knocked down," the lawyer said.</p>
+        <p>Mr. Mohamed was still in police custody yesterday in Woodhull Hospital Center with a broken jaw, a closed eye and numerous bruises that Ms. Stewart said he received after his arrest.</p>
+        <p>Yesterday, in a report in New York Newsday, a witness to the incident, Miguel Matos, was quoted as saying he believed the police were trying to intimidate him. He said that on Saturday night, three or four police cars passed his house with X's made of tape on their windows and, on the back window, the word "death" was written in tape.</p>
+        <p>The Police Department's Deputy Commissioner for Public Information, Suzanne Trazoff, yesterday denied any death threats. She said some officers had put tape on patrol-car windows to prevent them from shattering, because several weeks ago someone had thrown something through a window, injuring an officer.</p>
+        <p>Ms. Trazoff said yesterday the incident on the train and the report of Mr. Matos's fears of intimidation were being investigated by a field internal affairs unit in Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

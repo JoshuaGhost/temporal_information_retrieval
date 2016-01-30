@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seattle Drops Kemp So Krieg Can Return</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="480728"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">SEATTLE SEAHAWKS</org>
+        <person class="indexing_service">KEMP, JEFF</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Seattle Seahawks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0D91638F935A25753C1A967958260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seattle Drops Kemp So Krieg Can Return</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three interceptions may have proved to be one too many for Seahawk quarterback JEFF KEMP. He was waived yesterday to make room on the roster for the returning Seattle starter, DAVE KRIEG, who is expected to start against the Steelers on Sunday. The decision means that 27-year-old KELLY STOUFFER will continue as backup with DAN McGWIRE next.</p>
+      </block>
+      <block class="full_text">
+        <p>Three interceptions may have proved to be one too many for Seahawk quarterback JEFF KEMP. He was waived yesterday to make room on the roster for the returning Seattle starter, DAVE KRIEG, who is expected to start against the Steelers on Sunday. The decision means that 27-year-old KELLY STOUFFER will continue as backup with DAN McGWIRE next.</p>
+        <p>The 32-year-old Kemp, who threw for only four touchdowns while leading the league with 12 interceptions, may have hastened his departure on Sunday when the third of his three interceptions set up the Raiders' winning field goal in overtime.</p>
+        <p>In announcing the move, Coach CHUCK KNOX praised Kemp as a fine player and an outstanding person and said, "I'm sure he will continue his career in the National Football League."</p>
+        <p>Perhaps in Indianapolis? As backup quarterback JACK TRUDEAU was undergoing surgery yesterday, the Colts were looking around for a replacement. Trudeau, who tore ligaments in his right thumb after replacing the starter, JEFF GEORGE, in the fourth quarter of Sunday's 42-6 loss to the Bills, is expected to be out for the season, and the Colts want somebody beside the 10th-year veteran MARK HERMANN in reserve. (AP)</p>
+        <p>SPORTS PEOPLE: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

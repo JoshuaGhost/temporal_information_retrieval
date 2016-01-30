@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Germany: Steel Maker Forecasts Profit</title>
+    <meta content="MB001452" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1450469"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFD61F3DF932A15751C1A9649C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Germany: Steel Maker Forecasts Profit</hl1>
+      </hedline>
+      <byline class="print_byline">By Petra Kappl (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Germany's largest steel maker, ThyssenKrupp, expects earnings to increase considerably in the current fiscal year and is aiming for 1.5 billion euros ($1.54 billion) in pretax profit in the following fiscal year, the company said. Pretax profit fell 46 percent, to 762 million euros, in the 2002 fiscal year, which ended Sept. 31. The optimistic outlook was based mainly on higher revenue resulting from greater demand for steel and several price increases in the last year. Total sales are forecast to reach 38 billion euros in the 2003 fiscal year, up from 36.4 billion euros in 2002.</p>
+        <p>Petra Kappl (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Germany's largest steel maker, ThyssenKrupp, expects earnings to increase considerably in the current fiscal year and is aiming for 1.5 billion euros ($1.54 billion) in pretax profit in the following fiscal year, the company said. Pretax profit fell 46 percent, to 762 million euros, in the 2002 fiscal year, which ended Sept. 31. The optimistic outlook was based mainly on higher revenue resulting from greater demand for steel and several price increases in the last year. Total sales are forecast to reach 38 billion euros in the 2003 fiscal year, up from 36.4 billion euros in 2002.</p>
+        <p>Petra Kappl (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

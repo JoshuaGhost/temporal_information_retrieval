@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kickoff</title>
+    <meta content="21KICK" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/21/sports/ncaafootball/21KICK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1425294"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="COLLEGE FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <person class="indexing_service">Drape, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DF1639F932A1575AC0A9649C8B63" item-length="1476" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kickoff</hl1>
+        <hl2 class="online_headline">Joe Drape's Top Matchups</hl2>
+      </hedline>
+      <byline class="print_byline">By JOE DRAPE</byline>
+      <byline class="normalized_byline">Drape, Joe</byline>
+      <abstract>
+        <p>Chart lists top college football matchups for weekend (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOE DRAPE'S TOP MATCHUPS</p>
+        <p>17 North Carolina State (4-0) at Texas Tech (2-1)  12:30 p.m., FSNY  Here comes one of the best quarterback matchups of the year -- North Carolina State's Philip Rivers against Texas Tech's Kliff Kingsbury. The Red Raiders' defense bent but did not break against Ole Miss and Eli Manning last week. It will now. N.C. State goes 5-0 for first time since 1991.</p>
+      </block>
+      <block class="full_text">
+        <p>JOE DRAPE'S TOP MATCHUPS</p>
+        <p>17 North Carolina State (4-0) at Texas Tech (2-1)  12:30 p.m., FSNY  Here comes one of the best quarterback matchups of the year -- North Carolina State's Philip Rivers against Texas Tech's Kliff Kingsbury. The Red Raiders' defense bent but did not break against Ole Miss and Eli Manning last week. It will now. N.C. State goes 5-0 for first time since 1991.</p>
+        <p>12 Notre Dame (3-0) at 20 Michigan State (2-1)  3:30 p.m., ABC*  The Fighting Irish have lost five straight to the Spartans, though Coach Tyrone Willingham is 1-0 against his alma mater. The Spartans were embarrassed last week by California and need a victory to keep the heat off Coach Bobby Williams. Notre Dame keeps its B.C.S. bowl hopes alive.</p>
+        <p>B.Y.U. (2-1) at Georgia Tech (2-1)  3:30 p.m. ABC*  Both teams are coming off tough losses -- the Cougars to Nevada, the Rambling Wreck to Clemson. Both put points on the board and have devastating running backs. B.Y.U.'s Marcus Whalen is averaging 7.1 yards a game, Georgia Tech's Tony Hollins 8.1 yards, and Hollins already has 8 touchdowns. The Wreck in a mild upset.</p>
+        <p>10 Florida (2-1) at 4 Tennessee (2-0)  3:30 p.m., CBS  The Volunteers and Gators have split the last four games in this S.E.C. rivalry, each winning one at home and one on the road, and all have been decided by 4 points or less. Florida has already lost to top-ranked Miami, but it's too early to give up on the Gators.</p>
+        <p>11 Southern California (2-0) at 25 Kansas State (3-0)  7 p.m., TBS  The Wildcats have not lost a nonconference game at home since 1989, but the Trojans are the first ranked nonconference team to visit Manhattan. Wildcats quarterback Marc Dunn has been sharp; Kansas State has outscored opponents, 179-18. But U.S.C. is not Western Kentucky or Eastern Illinois. The Trojans go to 3-0.</p>
+        <p>BEST OF THE REST</p>
+        <p>Boston College (2-0) at 1 Miami (3-0)  7:45 p.m., ESPN  The Eagles very nearly ruined the Hurricanes' season last year, but now travel to the Orange Bowl, where Miami has won its last 14 Big East games. Make it 15.</p>
+        <p>Duke (1-2) at 5 Florida State (3-0)  The only question is whether the Seminoles show mercy and hold down the score.</p>
+        <p>6 Ohio State (3-0) at Cincinnati (1-1)  3:30 p.m., ESPN  The Battle of Ohio at Paul Brown Stadium; the Buckeyes won't need the injured freshman sensation Maurice Clarett.</p>
+        <p>Utah (2-1) at 14 Michigan (2-1)  Noon, ESPN  The Wolverines looked sloppy against Notre Dame; a repeat means a Utes upset and Michigan out of the top 25.</p>
+        <p>Louisiana Tech (2-1) at 15 Penn State (2-0)  The Nittany Lions struggled with Central Florida, blew out Nebraska and cannot cannot afford to let down against a dangerous opponent. If they do, watch out.</p>
+        <p>Arizona (2-0) at 22 Wisconsin (4-0)  Noon, ESPN2  The Badgers struggled with Northern Illinois last week and get upset here.</p>
+        <p>Colorado (1-2) at 20 U.C.L.A. (2-0)  The Buffaloes' sorry season gets sorrier when they lose for the second week in a row to a Los Angeles-based team.</p>
+        <p>Troy State (1-2) at 21 Iowa State (3-1)  Cyclones quarterback Seneca Wallace's numbers and Heisman candidacy get another boost.</p>
+        <p>Air Force (2-0) at 23 California (3-0)  Air Force quarterback Chance Harridge, above, and tailback Leotis Palmer run the option to perfection and the Falcons have only turned the ball over twice. Here comes an upset special.</p>
+        <p>Southern Mississippi (3-0) at Alabama (2-1)  7 p.m., ESPN2  The Crimson Tide is in for a battle, but will prevail over this defensive-minded bunch.</p>
+        <p>Bowling Green (2-0) at Kansas (1-2)  The Jayhawks learn what rival Missouri learned last week: the Falcons and the Mid-American Conference can play with the big boys.</p>
+        <p>Middle Tennessee (1-2) at Kentucky (3-2)  The third time against the Southeastern Conference is a charm for Middle Tennessee; the Wildcats are not in Tennessee or Alabama's league.</p>
+        <p>AS SEEN ON CAMPUS</p>
+        <p>7 Virginia Tech (3-0) at 19 Texas A&amp;M (2-0)  3:30 p.m., ABC  The Aggies do not have cheerleaders; they have Yell Leaders, three seniors and two juniors elected by the student body. They wear white and employ hand signals to tell the ''12th Man'' -- students that stand the entire game -- what exhortation is coming next. Once the 12th Man assumes the correct position (bending over with the hands placed just above the knees, properly aligning the back, mouth and throat for maximum volume) the yell begins.</p>
+        <p>So far, the Hokies' running back tandem of Kevin Jones and Lee Suggs has run wild, combining for an average of 283 yards a game, third best in the nation. The Aggies' run defense, however, has been awfully stingy, giving up just 33.5 yards a game, the lowest in the nation.</p>
+        <p>When Texas A&amp;M wins, the Yell Leaders are thrown into the Fish Pond. When A&amp;M loses, the students remain in the stands and yell practice is held in preparation for the next game. In this case, the Yell Leaders stay dry after perhaps the best game of the day.</p>
+        <p>By JOE DRAPE</p>
+        <p>COLLEGE FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

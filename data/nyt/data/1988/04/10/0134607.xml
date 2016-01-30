@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Down the Garden Path</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="110" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="134607"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="WORKS IN PROGRESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EVOLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOWS (EXHIBITS)</classifier>
+        <location class="indexing_service">BROOKLYN BOTANICAL GARDENS</location>
+        <person class="indexing_service">WEBER, BRUCE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DD1638F933A25757C0A96E948260" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Down the Garden Path</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE WEBER</byline>
+      <byline class="normalized_byline">WEBER, BRUCE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''THE IDEA,'' SAYS STEPHEN K-M. Tim, ''was to tell the story of plant evolution, where possible using live plants.'' Mr. Tim is vice president of science and publications at the Brooklyn Botanic Garden in New York, which is opening its new Conservatory, consisting of a greenhouse and three other glass pavilions, on May 19.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''THE IDEA,'' SAYS STEPHEN K-M. Tim, ''was to tell the story of plant evolution, where possible using live plants.'' Mr. Tim is vice president of science and publications at the Brooklyn Botanic Garden in New York, which is opening its new Conservatory, consisting of a greenhouse and three other glass pavilions, on May 19.</p>
+        <p>''THE IDEA,'' SAYS STEPHEN K-M. Tim, ''was to tell the story of plant evolution, where possible using live plants.'' Mr. Tim is vice president of science and publications at the Brooklyn Botanic Garden in New York, which is opening its new Conservatory, consisting of a greenhouse and three other glass pavilions, on May 19. He is the principal architect of the Trail of Evolution, a 100-foot long, 17-foot high exhibit in the central greenhouse, which traces the history of plant life to its beginnings, some 3.5 billion years ago. ''You can go to any natural history museum and see displays of evolutionary history,'' Mr. Tim says. ''But it's always behind glass, a little stilted. There's nothing alive there. And in most cases, the emphasis is on the animal side; plants have been relegated to a background position. I thought, 'Enough of that.' ''</p>
+        <p>The exhibit consists of fabricated rockface (above), cement that is hand-carved and colored, illustrating various periods in geological history. Plants will grow in pockets amid the rocks. The oldest to be represented are tiny, blue-green organisms, whose existence we know of from fossil evidence. ''We'll represent those in a little pool, depicting the primitive ocean. But the most striking plants would begin with the carboniferous period, 250-340 million years ago.'' Club mosses, for instance, in that period grew to heights of 150 feet, with trunks 4 feet in diameter. ''These died out, but smaller club mosses, lycopodium, for example, tiny things no more than six inches in height, still grow in our woods. We'll be growing lycopodium here.''</p>
+        <p>The last third of the trail will be devoted to flowering plants. ''They've conquered every niche on the earth, deserts to rain forests,'' Mr. Tim says, with some admiration. ''They arrived 140 million years ago. Fairly recently.''  WORKS IN PROGRESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

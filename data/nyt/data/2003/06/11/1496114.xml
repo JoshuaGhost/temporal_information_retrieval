@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="CORR6" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="NYTimes.com Digital" name="dsk"/>
+    <meta content="0" name="print_page_number"/>
+    <meta content="0" name="print_section"/>
+    <meta content="Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1496114"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3D71F39F932A25755C0A9659C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On Thursday, June 12, 2003, The Times published an Editors' Note stating that ten additional articles by Jayson Blair, who resigned on May 1 as a reporter, were found to include misrepresentations or possible borrowed passages. An accounting of those articles was published online at nytimes.com/corrections.html. This article was among those described. The description:</p>
+        <p>'Silicon Valley Investors Cool to Silicon Alley'</p>
+        <p>In this article about the struggles of Internet entrepreneurs in obtaining funds,Mr. Blair quoted Benjamin I. Goldhagen, founder and former chief executive of Redtop, as saying, 'The way races work, is that sometime along the way it's going to be painful. But you just have to say that it's O.K., it's painful, but you got to keep going to finish the race.' But this is nearly impossible.' Mr. Goldhagen said that he did not say 'But this is nearly impossible.'</p>
+      </block>
+      <block class="full_text">
+        <p>On Thursday, June 12, 2003, The Times published an Editors' Note stating that ten additional articles by Jayson Blair, who resigned on May 1 as a reporter, were found to include misrepresentations or possible borrowed passages. An accounting of those articles was published online at nytimes.com/corrections.html. This article was among those described. The description:</p>
+        <p>'Silicon Valley Investors Cool to Silicon Alley'</p>
+        <p>In this article about the struggles of Internet entrepreneurs in obtaining funds,Mr. Blair quoted Benjamin I. Goldhagen, founder and former chief executive of Redtop, as saying, 'The way races work, is that sometime along the way it's going to be painful. But you just have to say that it's O.K., it's painful, but you got to keep going to finish the race.' But this is nearly impossible.' Mr. Goldhagen said that he did not say 'But this is nearly impossible.'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

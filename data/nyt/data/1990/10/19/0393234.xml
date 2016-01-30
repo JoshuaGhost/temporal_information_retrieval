@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="393234"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">YALE REPERTORY THEATER</org>
+        <person class="indexing_service">TRISKA, JAN</person>
+        <person class="indexing_service">HAVEL, VACLAV</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">LARGO DESOLATO (PLAY)</object.title>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDF103FF93AA25753C1A966958260" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Heller Anderson</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: When JAN TRISKA steps onto the stage at Yale Repertory Theater next week, he will be playing a familiar role. VACLAV HAVEL created Leopold Nettles, the highly autobiographical lead character in ''Largo Desolato,'' and Mr. Triska and Mr. Havel, the playwright and President of Czechoslovakia, have been best friends for 35 years.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: When JAN TRISKA steps onto the stage at Yale Repertory Theater next week, he will be playing a familiar role. VACLAV HAVEL created Leopold Nettles, the highly autobiographical lead character in ''Largo Desolato,'' and Mr. Triska and Mr. Havel, the playwright and President of Czechoslovakia, have been best friends for 35 years.</p>
+        <p>When JAN TRISKA steps onto the stage at Yale Repertory Theater next week, he will be playing a familiar role. VACLAV HAVEL created Leopold Nettles, the highly autobiographical lead character in ''Largo Desolato,'' and Mr. Triska and Mr. Havel, the playwright and President of Czechoslovakia, have been best friends for 35 years.</p>
+        <p>''He was best man at my wedding,'' Mr. Triska said. He describes rehearsing for the play, which runs Oct. 26 through Nov. 17, as a ''remote dialogue'' with Mr. Havel.</p>
+        <p>''This is the first time in our lives where I've acted in one of his plays,'' Mr. Triska explained, ''because he was banned totally since 1962 in Czechoslovakia. And I am a real witness to this story, which is very autobiographical, because I lived it.'' Mr. Triska emigrated to the United States in 1977.</p>
+        <p>He uses many of Mr. Havel's own mannerisms in interpreting the role. ''There's a lot of nervousness, so I pace the same way he does,'' Mr. Triska said, ''and I show everlasting politeness even in the moments of greatest stress, which is how he is.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

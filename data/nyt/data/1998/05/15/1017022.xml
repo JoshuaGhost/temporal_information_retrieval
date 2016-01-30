@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  WEILER, ANNETTE</title>
+    <meta content="DN051598" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017022"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">WEILER, ANNETTE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E7D81230F936A25756C0A96E958260" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  WEILER, ANNETTE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEILER-Annette. On May 13, 1998. Beloved wife of the late Edwin. Loving mother of Elaine Asch-Root and special mother to Mildred Guzman. Cherished grandmother to Andrew and Thomas and special friend of Altagracia Nunoz. Services private. Contributions in her memory may be made to the Humane Society.</p>
+      </block>
+      <block class="full_text">
+        <p>WEILER-Annette. On May 13, 1998. Beloved wife of the late Edwin. Loving mother of Elaine Asch-Root and special mother to Mildred Guzman. Cherished grandmother to Andrew and Thomas and special friend of Altagracia Nunoz. Services private. Contributions in her memory may be made to the Humane Society.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schubertian Poetry, Along With the Romantic Stirrings</title>
+    <meta content="05LARE$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/05/arts/music/05LARE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1405853"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Trinity Church</org>
+        <person class="online_producer">Laredo, Ruth</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DA1331F936A35754C0A9649C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schubertian Poetry, Along With the Romantic Stirrings</hl1>
+        <hl2 class="online_headline">Schubertian Poetry, Along With the Romantic Stirrings</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews Noonday Concerts offered by Trinity Church and St Paul's Chapel (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For 34 years, Trinity Church and St. Paul's Chapel have been presenting Noonday Concerts, a series of free weekly recitals, chamber music programs and orchestral works. They have always offered an hour's musical respite from the crowds and pressures of the Wall Street (and now ground zero) area, and because the performances tend to be quite good, they attract listeners from uptown as well.</p>
+        <p>The Noonday Concerts programs are varied, but now and then -- particularly in the summer -- they celebrate a single style or composer. This year the subject is Schubert, whose music is to be examined in 10 weeks of concerts at Trinity. The first, a piano recital by Ruth Laredo, was on Wednesday; the other installments are on Thursdays at 1 p.m., through Sept. 5.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The first event of this year's annual Noonday Concerts series was a piano recital by Ruth Laredo, who performed the music of Schubert.</p>
+      </block>
+      <block class="full_text">
+        <p>For 34 years, Trinity Church and St. Paul's Chapel have been presenting Noonday Concerts, a series of free weekly recitals, chamber music programs and orchestral works. They have always offered an hour's musical respite from the crowds and pressures of the Wall Street (and now ground zero) area, and because the performances tend to be quite good, they attract listeners from uptown as well.</p>
+        <p>The Noonday Concerts programs are varied, but now and then -- particularly in the summer -- they celebrate a single style or composer. This year the subject is Schubert, whose music is to be examined in 10 weeks of concerts at Trinity. The first, a piano recital by Ruth Laredo, was on Wednesday; the other installments are on Thursdays at 1 p.m., through Sept. 5.</p>
+        <p>Ms. Laredo is at her best in music that demands both a powerful sound and hot-blooded Romanticism. One could argue that Schubert is a few notches shy of Ms. Laredo's standard on both counts -- that his music is more intimate than extroverted, and that he was a Classicist with Romantic stirrings. Still, the demands of Schubert's piano writing, and his historical place on the cusp of full-fledged Romanticism, allow for considerable breadth of interpretation, and surely no one could describe Ms. Laredo's performances on Wednesday as un-Schubertian.</p>
+        <p>There is also the space to consider: there isn't much point in stressing Schubert's intimacy in a large hall, let alone a large, resonant church like Trinity. A salon-scale performance would have been swallowed up in reverberation. Ms. Laredo's high-energy readings of the G-flat major Impromptu (Op. 90, No. 3), a ''Moment Musical'' (Op. Posth. 142, No. 3), a group of Waltzes and the Sonata in A (Op. Posth. 120) projected fully and with considerable detail to the back rows of the church.</p>
+        <p>There was also an appealing current of poetry in Ms. Laredo's playing, and it especially enlivened the Impromptu and the Sonata. But the Waltzes, if slighter works, evoked the dance impulses that spawned them, and there was much to admire in Ms. Laredo's rhythmically fluid reading of the ''Moment Musical.''</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

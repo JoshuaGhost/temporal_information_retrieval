@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where's Grandpa?</title>
+    <meta content="LTR133820" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1067356"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Glasser, Robin Preiss</person>
+        <person class="indexing_service">Weitzman, Jacqueline Preiss</person>
+        <person class="indexing_service">Preiss, Ralph J</person>
+        <person class="indexing_service">Goodman, Walter</person>
+        <object.title class="indexing_service">You Can't Take A Balloon Into the Metropolitan Museum (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DF1439F935A35751C1A96E958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where's Grandpa?</hl1>
+      </hedline>
+      <abstract>
+        <p>Ralph J Preiss letter on Walter Goodman Nov 15 review of his daughter's book You Can't Take a Balloon Into the Metropolitan Museum by Jacqueline Preiss Weitzman and illustrated by Robin Preiss Glasser (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The answer to the question ''Where's Grandpa?,'' posed by Walter Goodman in his review of my two daughters' picture book, ''You Can't Take a Balloon Into the Metropolitan Museum'' (Children's Books in Brief, Nov. 15), is that Grandpa can be seen on the back cover sitting in front of the Met enjoying his favorite pastime, the New York Times crossword puzzle, because his arthritic knee does not allow him to keep up with the young museumgoer.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The answer to the question ''Where's Grandpa?,'' posed by Walter Goodman in his review of my two daughters' picture book, ''You Can't Take a Balloon Into the Metropolitan Museum'' (Children's Books in Brief, Nov. 15), is that Grandpa can be seen on the back cover sitting in front of the Met enjoying his favorite pastime, the New York Times crossword puzzle, because his arthritic knee does not allow him to keep up with the young museumgoer.</p>
+        <p>By the way, at our house the book occupies a prominent position on the coffee table, placed face down to disclose my caricature.</p>
+        <p>Ralph J. Preiss  Poughkeepsie, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

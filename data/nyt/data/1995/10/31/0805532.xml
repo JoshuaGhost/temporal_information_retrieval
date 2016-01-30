@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Consumer Spending Shows A Slower Rate of Growth</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="805532"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <classifier class="indexing_service" type="descriptor">INCOME</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMER BEHAVIOR</classifier>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMERCREDIT (ECONOMIC INDICATOR)</classifier>
+        <org class="indexing_service">COMMERCE DEPARTMENT</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E0DE1639F932A05753C1A963958260" item-length="499" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Consumer Spending Shows A Slower Rate of Growth</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>WASHINGTON, Oct. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Consumer spending rose in September at half the rate that incomes grew, the Government said today in reports that pointed to slower growth ahead.</p>
+        <p>Spending rose just two-tenths of 1 percent, to a rate of $4.92 trillion, after jumping a revised eight-tenths of 1 percent in August, the Commerce Department said. Consumer incomes from all sources grew four-tenths of 1 percent, to a $6.1 trillion annual rate, after edging up one-tenth of 1 percent  in August.</p>
+      </block>
+      <block class="full_text">
+        <p>Consumer spending rose in September at half the rate that incomes grew, the Government said today in reports that pointed to slower growth ahead.</p>
+        <p>Spending rose just two-tenths of 1 percent, to a rate of $4.92 trillion, after jumping a revised eight-tenths of 1 percent in August, the Commerce Department said. Consumer incomes from all sources grew four-tenths of 1 percent, to a $6.1 trillion annual rate, after edging up one-tenth of 1 percent  in August.</p>
+        <p>Americans owe so much in credit card and other debt that they are slowly being forced to spend less, which could dampen holiday season sales and be a drag on the economy in the fourth quarter, analysts said. Consumer spending accounts for two-thirds of the nation's economic activity.</p>
+        <p>"Given the debt situation, it's good to see income growth coming in at higher rates than spending," said Daryl Delano, an economist at Cahners Economics Inc.  in Newton, Mass.</p>
+        <p>A spurt in spending helped drive gross domestic product -- the Government's broadest measure of the economy -- up at a brisk 4.2 percent rate in the third quarter, the Government reported on Friday.</p>
+        <p>The data on spending and income, analysts said, confirm their belief that the brisk pace of expansion is likely to slow.</p>
+        <p>"Consumer installment credit has been creeping up steadily for a couple of years now and there are people who think it could be our downfall, could put an  end to this expansion," Mr. Delano said. He said he expected more modest growth  in the current quarter.</p>
+        <p>Norm Williams, an economist with First Interstate Bancorp in Los Angeles, said the likelihood of more moderate economic growth in the fourth quarter meant that Federal Reserve policy makers would probably hold short-term interest rates steady when they meet Nov. 15.</p>
+        <p>Most of the gain in income last month came from higher wages and salaries, which rose at a $14.8 billion annual rate after falling $6.2 billion in August.  Interest and dividend income rose four-tenths of 1 percent, which also increased earnings.</p>
+        <p>But Americans saved more, with the savings rate rising to 4.2 cents of each dollar earned from 4 cents in August, the department said. Personal savings rose to a rate of $219.5 billion from $208 billion.</p>
+        <p>The Commerce Department said spending on durable goods fell a sharp 1.4 percent last month, to a $635.4 billion annual rate, hurt mainly by sluggish demand for cars.</p>
+        <p>Spending on nondurable goods including food rose six-tenths of 1 percent, to  a $1.45 trillion rate, and spending for services edged up three-tenths of 1 percent, to a $2.83 trillion rate.</p>
+        <p>Consumer incomes had risen six-tenths of 1 percent in July and five-tenths of 1 percent in June. The department's figures are seasonally adjusted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

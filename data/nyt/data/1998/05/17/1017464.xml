@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Origin of Speech</title>
+    <meta content="LTR090604" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017464"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Lieberman, Philip</person>
+        <person class="indexing_service">Bickerton, Derek</person>
+        <object.title class="indexing_service">Eve Spoke (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D91331F934A25756C0A96E958260" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Origin of Speech</hl1>
+      </hedline>
+      <abstract>
+        <p>Philip Lieberman letter on Derek Bickerton March 1 review of his book Eve Spoke: Human Language and Human Evolution (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Predictably, Derek Bickerton's review (March 1) castigates my most recent book, ''Eve Spoke: Human Language and Human Evolution.'' Bickerton's own work follows in the footsteps of Noam Chomsky, whereas my book disputes the central premises of Chomsky's linguistic theories.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Predictably, Derek Bickerton's review (March 1) castigates my most recent book, ''Eve Spoke: Human Language and Human Evolution.'' Bickerton's own work follows in the footsteps of Noam Chomsky, whereas my book disputes the central premises of Chomsky's linguistic theories.</p>
+        <p>The focus of my book is the nature and evolution of the human brain's capacity for language and thought. ''Eve Spoke'' shows that the brain mechanisms that regulate human speech (or that can be used to produce manual sign language) form part of a complex system that also allows us to understand the syntax and meaning of sentences that we hear or read. The 19th-century theory linking language to two regions of the brain, Broca's and Wernicke's areas, is wrong. Quantitative data from studies of aphasia, Parkinson's disease, the oxygen deprivation suffered by climbers on Mount Everest and other conditions show that parts of the human brain traditionally associated with motor control are implicated in comprehending language and thinking. Studies of the brains and behavior of other species provide evidence for the continuity of evolution. Hence, I propose that the brain bases of human language could have evolved from neural mechanisms initially adapted to regulate the precise manual movements implicated, for example, in toolmaking. My book presents new insights from several investigators, relating to language, on the evolution of modern human beings and the demise of the Neanderthals.</p>
+        <p>My book also demonstrates that our brains are not computers, ''preloaded'' with the details of syntax. The evidence for the Chomskyan ''language gene'' as presented by Steven Pinker is flawed, and other experimental data that Pinker and Bickerton cite to support Chomsky's theories are incomplete and seriously misleading.</p>
+        <p>Philip Lieberman</p>
+        <p>Providence, R.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

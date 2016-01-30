@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Primary Day in New York and in Connecticut</title>
+    <meta content="CAMPCH" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1046775"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DD1031F936A2575AC0A96E958260" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Primary Day in New York and in Connecticut</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK POLLING HOURS: 6 A.M. to 9 P.M.  (New York City, Nassau, Suffolk, Westchester, Rockland and Erie Counties); noon to 9 elsewhere.  The most closely watched races are the Democratic primaries to choose challengers to Senator Alfonse M. D'Amato and Gov. George E. Pataki. Other primaries include contests for Attorney General, Congress and the State Senate and Assembly.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK POLLING HOURS: 6 A.M. to 9 P.M.  (New York City, Nassau, Suffolk, Westchester, Rockland and Erie Counties); noon to 9 elsewhere.  The most closely watched races are the Democratic primaries to choose challengers to Senator Alfonse M. D'Amato and Gov. George E. Pataki. Other primaries include contests for Attorney General, Congress and the State Senate and Assembly.</p>
+        <p>CONNECTICUT POLLING HOURS: 6 A.M. to 9 P.M.  Democrats hold primaries for Secretary of State and State Treasurer and for the First Congressional District.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

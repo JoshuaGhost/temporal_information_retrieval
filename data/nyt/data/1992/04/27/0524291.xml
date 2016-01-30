@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times; April Showers</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="524291"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DB1E39F934A15757C0A964958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times; April Showers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Spring, which had been acting mostly as a chilly carry-over of the mild winter, finally showed up for real last week, not so much on a 73 degree Tuesday afternoon as on a wet Wednesday morning.</p>
+        <p>An April rain fell, just heavy enough to be felt and light enough to be strolled in. In the parks, an uncommon conjunction of yellows brighten the day -- forsythia flowers that have been hanging on through the cool weeks, whole beds of daffodils opening at once, dandelions and marsh marigolds coming out in the damp. Modest violets were around in immodest abundance and mayflowers spread their little umbrellas of leaves.</p>
+      </block>
+      <block class="full_text">
+        <p>Spring, which had been acting mostly as a chilly carry-over of the mild winter, finally showed up for real last week, not so much on a 73 degree Tuesday afternoon as on a wet Wednesday morning.</p>
+        <p>An April rain fell, just heavy enough to be felt and light enough to be strolled in. In the parks, an uncommon conjunction of yellows brighten the day -- forsythia flowers that have been hanging on through the cool weeks, whole beds of daffodils opening at once, dandelions and marsh marigolds coming out in the damp. Modest violets were around in immodest abundance and mayflowers spread their little umbrellas of leaves.</p>
+        <p>There were no other umbrellas opened. Walkers let the drops fall unhindered on their bare heads; this was no rain to rush through but one to stop and listen to. If you didn't hear April laughing her "girlish laughter" you could hear a duck quacking amorously and the robins chirping their rain song.</p>
+        <p>That country poet who went overboard for June's perfect days should have come to our big town on such a day. He might have decided that there is really nothing so rare as an April rain.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

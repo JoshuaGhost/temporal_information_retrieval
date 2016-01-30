@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kim Phillips, Robert Baron Jr.</title>
+    <meta content="12PHIL$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1031238"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PHILLIPS, KIM DORIE (KIM DORIE BARON)</person>
+        <person class="indexing_service">BARON, ROBERT ROY JR.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3DC1731F931A25754C0A96E958260" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kim Phillips, Robert Baron Jr.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kim Dorie Phillips, the daughter of Gala Cohen of Fisher Island, Fla., and the late Lee Phillips, was married last evening to Robert Roy Baron Jr., the son of Susan Baron of Penn Valley, Pa., and Robert Baron of Millville, N.J. Rabbi William Kuhn officiated at the Metropolitan Club in New York.</p>
+        <p>Mrs. Baron, 28, is a candidate for a Ph.D. in clinical psychology at Allegheny University of the Health Sciences in Philadelphia. She graduated from Lehigh University. Her father was a vice president at E. F. Hutton, the stock brokerage company that was in New York. Her mother owned Galasthenics, aerobic exercise studios in New York and Bridgehampton, N.Y. The bride's stepfather, Stanley Cohen, was the founder of Playtime Toys in New York.</p>
+        <p>Mr. Baron, 32, is an associate at Ballard Spahr Andrews &amp; Ingersoll, a Philadelphia law firm. He graduated from Brown University and received a law degree from George Washington University. His mother owns Susan Baron Distinctive Jewelry, a boutique in Philadelphia. His father is the president of Baron &amp; Company, an investment banking concern in Millville, N.J. The bridegroom is the stepson of Valerie Baron.</p>
+      </block>
+      <block class="full_text">
+        <p>Kim Dorie Phillips, the daughter of Gala Cohen of Fisher Island, Fla., and the late Lee Phillips, was married last evening to Robert Roy Baron Jr., the son of Susan Baron of Penn Valley, Pa., and Robert Baron of Millville, N.J. Rabbi William Kuhn officiated at the Metropolitan Club in New York.</p>
+        <p>Mrs. Baron, 28, is a candidate for a Ph.D. in clinical psychology at Allegheny University of the Health Sciences in Philadelphia. She graduated from Lehigh University. Her father was a vice president at E. F. Hutton, the stock brokerage company that was in New York. Her mother owned Galasthenics, aerobic exercise studios in New York and Bridgehampton, N.Y. The bride's stepfather, Stanley Cohen, was the founder of Playtime Toys in New York.</p>
+        <p>Mr. Baron, 32, is an associate at Ballard Spahr Andrews &amp; Ingersoll, a Philadelphia law firm. He graduated from Brown University and received a law degree from George Washington University. His mother owns Susan Baron Distinctive Jewelry, a boutique in Philadelphia. His father is the president of Baron &amp; Company, an investment banking concern in Millville, N.J. The bridegroom is the stepson of Valerie Baron.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

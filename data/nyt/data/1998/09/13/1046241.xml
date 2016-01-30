@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dodge Foundation Names Its New Director</title>
+    <meta content="MB123256" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1046241"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Dodge, Geraldine R, Foundation</org>
+        <person class="indexing_service">Grant, David</person>
+        <person class="indexing_service">Mcvay, Scott</person>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E7D91431F930A2575AC0A96E958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dodge Foundation Names Its New Director</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DeMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>David Grant is named to succeed Geraldine R Dodge Foundation director Scott McVay, effective October 1 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>David Grant, a consultant for school districts on curriculum design and teacher training, has been named executive director of the Geraldine R. Dodge Foundation in Morristown to succeed Scott McVay, director of the foundation since its inception in 1976. (Mr. VcVay was profiled in this section on March 29.) The appointment of Mr. Grant, 48, of Norwich, Vt., is effective Oct. 1. The foundation, established with a $60 million bequest in the will of Geraldine Rockefeller Dodge of Madison, has made $164 million in grants to promote education, the arts and animal welfare.</p>
+        <p>KAREN DeMASTERS</p>
+      </block>
+      <block class="full_text">
+        <p>David Grant, a consultant for school districts on curriculum design and teacher training, has been named executive director of the Geraldine R. Dodge Foundation in Morristown to succeed Scott McVay, director of the foundation since its inception in 1976. (Mr. VcVay was profiled in this section on March 29.) The appointment of Mr. Grant, 48, of Norwich, Vt., is effective Oct. 1. The foundation, established with a $60 million bequest in the will of Geraldine Rockefeller Dodge of Madison, has made $164 million in grants to promote education, the arts and animal welfare.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

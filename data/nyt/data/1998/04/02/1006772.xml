@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Account Changes At Two Concerns</title>
+    <meta content="CHANGES" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1006772"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Allied Domecq Plc</org>
+        <org class="indexing_service">Dunkin Donuts</org>
+        <org class="indexing_service">Hill Holliday Connors Cosmopulos Inc</org>
+        <org class="indexing_service">Messner Vetere Berger Mcnamee Schmetterer Euro Rscg</org>
+        <org class="indexing_service">Outback Steakhouse Inc</org>
+        <org class="indexing_service">Tbwa Chiat/day</org>
+        <org class="indexing_service">Mccann-Erickson Worldwide Inc</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD6163AF931A35757C0A96E958260" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Account Changes At Two Concerns</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Dunkin' Donuts unit of Allied Domecq names Hill, Holliday, Connors, Cosmopulos to handle its account, with billings estimated at $45 million; account had been handled by Messner Vetere Berger McNamee Schmetterer Euro RSCG; Outback Steakhouse Inc names TBWA Chiat/Day to handle creative portion of its account, with billings estimated to be as much as $35 million; account had been handled by McCann-Erickson New York (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A doughnut and a restaurant chain made changes on their accounts yesterday.</p>
+        <p>The Dunkin' Donuts unit of Allied Domecq in Randolph, Mass., named Hill, Holliday, Connors, Cosmopulos in Boston to handle its account, with billings estimated at $45 million. The account had been handled since October 1995 by Messner Vetere Berger McNamee Schmetterer Euro RSCG in New York, a unit of Havas Advertising, until that agency was dismissed last month.</p>
+      </block>
+      <block class="full_text">
+        <p>A doughnut and a restaurant chain made changes on their accounts yesterday.</p>
+        <p>The Dunkin' Donuts unit of Allied Domecq in Randolph, Mass., named Hill, Holliday, Connors, Cosmopulos in Boston to handle its account, with billings estimated at $45 million. The account had been handled since October 1995 by Messner Vetere Berger McNamee Schmetterer Euro RSCG in New York, a unit of Havas Advertising, until that agency was dismissed last month.</p>
+        <p>Hill, Holliday, a unit of the Interpublic Group of Companies, was awarded the account after a monthlong review that also included one other agency: Deutsch Inc. in New York; Deutsch's Santa Monica, Calif., office handles advertising for the Baskin-Robbins unit of Allied Domecq.</p>
+        <p>And Outback Steakhouse Inc. in Tampa, Fla., named TBWA Chiat/ Day in New York to handle the creative portion of its account, with billings estimated to be as much as $35 million. The account had been handled by the McCann-Erickson New York unit of the McCann-Erickson World Group of the Interpublic Group of Companies, until that agency and Outback parted ways in December.</p>
+        <p>The decision came after a two-month review that included TBWA Chiat/Day, part of Omnicom Group, and Ground Zero in Santa Monica, Calif., and Partners &amp; Shevack in New York, part of Mickelberry Communications. KSL Media Inc. and SFM Media Corporation, both of New York, handle the media portion of the account.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

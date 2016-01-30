@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>1. Ring Up the Club. 2. Ring Out the Old. 3. Ring In the New.; Jazz</title>
+    <meta content="RV054757" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="983208"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">New Year</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Rubin, Vanessa, Big Band</org>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Year</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7D61E3EF935A15751C1A961958260" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>1. Ring Up the Club. 2. Ring Out the Old. 3. Ring In the New.; Jazz</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff recommends Vanessa Rubin Big Band at Jazz Standard on New Year's Eve (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For club owners, Christmas really comes on New Year's Eve. That's when bars are packed, seats are full and would-be revelers still clamor at the door. All of those clubgoers are intent on starting the year with music they love in a crowd of fellow fans. Whether they're fond of rockabilly or hip-hop, swing or salsa or electronica, they can find what they're looking for in Manhattan on New Year's Eve. Places that regularly present live music call on their favorite acts, and many places that don't still find room to set up musicians and sound systems. Obeying the law of supply and demand, prices go up -- way up -- on New Year's Eve, though most clubs offer little extras like party hats or a glass of champagne at midnight. For New Year's Eve, it's smart to make reservations or buy advance tickets; clubs do fill up, and some events (like Phish's annual show at Madison Square Garden) are already sold out. Below, the pop and jazz critics of The New York Times preview the live music taking place on New Year's Eve. * denotes a highly recommended show.</p>
+      </block>
+      <block class="full_text">
+        <p>For club owners, Christmas really comes on New Year's Eve. That's when bars are packed, seats are full and would-be revelers still clamor at the door. All of those clubgoers are intent on starting the year with music they love in a crowd of fellow fans. Whether they're fond of rockabilly or hip-hop, swing or salsa or electronica, they can find what they're looking for in Manhattan on New Year's Eve. Places that regularly present live music call on their favorite acts, and many places that don't still find room to set up musicians and sound systems. Obeying the law of supply and demand, prices go up -- way up -- on New Year's Eve, though most clubs offer little extras like party hats or a glass of champagne at midnight. For New Year's Eve, it's smart to make reservations or buy advance tickets; clubs do fill up, and some events (like Phish's annual show at Madison Square Garden) are already sold out. Below, the pop and jazz critics of The New York Times preview the live music taking place on New Year's Eve. * denotes a highly recommended show.</p>
+        <p>* VANESSA RUBIN BIG BAND,  Jazz Standard, 116 East 27th Street, (212) 576-2232. A young jazz singer with an adoration of Carmen McRae, Ms. Rubin's format of choice has been the big band, and this 16-piece extravaganza, conducted by Cecil Bridgewater, has some excellent soloists, including the trumpeter Kenyatta Beasley, the alto saxophonist Myron Walden and the pianist George Colligan. The first dinner seating at this new club is at 6:30 P.M., with a performance at 8, $125 a person; the second dinner seating is at 10 P.M., with a performance at 11:45, $175 a person. Both seatings include a split of champagne The concert without dinner: $50 for 8 P.M., $100 at 11:45.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

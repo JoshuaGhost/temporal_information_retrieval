@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexis Hilton, Philip Mintz</title>
+    <meta content="18HILT$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/11/18/fashion/weddings/18HILT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1344006"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="WEDDING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HILTON, ALEXIS FOX (ALEXIS FOX MINTZ)</person>
+        <person class="indexing_service">MINTZ, PHILIP ADAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+        <person class="online_producer">Mintz, Philip</person>
+        <person class="online_producer">Hilton, Alexis</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3DE153BF93BA25752C1A9679C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexis Hilton, Philip Mintz</hl1>
+        <hl2 class="online_headline">Alexis Hilton and Philip Mintz</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexis Fox Hilton, a daughter of Mr. and Mrs. Joseph Hilton of New York, was married last evening to Philip Adam Mintz, the son of Rayna Ragonetti of New York. Rabbi Geoff Hurst officiated at the Ocean Club on Paradise Island in the Bahamas.</p>
+        <p>Mrs. Mintz, 27, is a director of marketing for Miramax Films in New York. She graduated from Colgate. Her father is a senior vice president at CB Richard Ellis Real Estate in New York and is on the board of the Madison Square Boys and Girls Club of New York. Her mother, Marjorie Hilton, owns an interior design firm bearing her name in New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Alexis Hilton, Philip Mintz Alexis Fox Hilton, a daughter of Mr. and Mrs. Joseph Hilton of New York, was married last evening to Philip Adam Mintz, the son of Rayna Ragonetti of New York. Rabbi Geoff Hurst officiated at the Ocean Club on Paradise Island in the Bahamas.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexis Fox Hilton, a daughter of Mr. and Mrs. Joseph Hilton of New York, was married last evening to Philip Adam Mintz, the son of Rayna Ragonetti of New York. Rabbi Geoff Hurst officiated at the Ocean Club on Paradise Island in the Bahamas.</p>
+        <p>Mrs. Mintz, 27, is a director of marketing for Miramax Films in New York. She graduated from Colgate. Her father is a senior vice president at CB Richard Ellis Real Estate in New York and is on the board of the Madison Square Boys and Girls Club of New York. Her mother, Marjorie Hilton, owns an interior design firm bearing her name in New York.</p>
+        <p>Mr. Mintz, 34, is a vice president for mergers and acquisitions at Merrill Lynch &amp; Company, the New York investment bank. He graduated from Duke, received a law degree from Fordham and an M.B.A. from New York University. His mother, who is retired, owned Ruth's Dresses, a former clothing store in New York.</p>
+        <p>The bridegroom's previous marriage ended in divorce.</p>
+        <p>WEDDING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

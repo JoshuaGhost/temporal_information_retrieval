@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Key Rates</title>
+    <meta content="04keyr" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1743998"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="THE MARKETS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060304T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E5DB1431F937A35750C0A9609C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Key Rates</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In percent</p>
+        <p>Day</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Ago</p>
+        <p>Ago</p>
+        <p>Prime rate</p>
+        <p>7.50</p>
+        <p>7.50</p>
+        <p>4.75</p>
+        <p>Federal funds</p>
+        <p>4.50</p>
+        <p>4.50</p>
+        <p>2.50</p>
+        <p>3-month Libor</p>
+        <p>4.85</p>
+        <p>4.84</p>
+        <p>2.95</p>
+        <p>3-month T-bills</p>
+        <p>4.60</p>
+        <p>4.59</p>
+        <p>2.75</p>
+        <p>6-month T-bills</p>
+        <p>4.74</p>
+        <p>4.74</p>
+        <p>2.98</p>
+        <p>10-yr. T-infl.</p>
+        <p>2.06</p>
+        <p>2.02</p>
+        <p>1.64</p>
+        <p>10-yr. T-note</p>
+        <p>4.68</p>
+        <p>4.63</p>
+        <p>4.31</p>
+        <p>30-yr. T-bond</p>
+        <p>4.66</p>
+        <p>4.61</p>
+        <p>4.65</p>
+        <p>(Sources by Citigroup; Telerate; Bond Buyer, British Bankers' Assoc.; Bloomberg Financial Mkts; *NASD-Bloomberg Bond indices)</p>
+      </block>
+      <block class="full_text">
+        <p>In percent</p>
+        <p>Day</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Ago</p>
+        <p>Ago</p>
+        <p>Prime rate</p>
+        <p>7.50</p>
+        <p>7.50</p>
+        <p>4.75</p>
+        <p>Federal funds</p>
+        <p>4.50</p>
+        <p>4.50</p>
+        <p>2.50</p>
+        <p>3-month Libor</p>
+        <p>4.85</p>
+        <p>4.84</p>
+        <p>2.95</p>
+        <p>3-month T-bills</p>
+        <p>4.60</p>
+        <p>4.59</p>
+        <p>2.75</p>
+        <p>6-month T-bills</p>
+        <p>4.74</p>
+        <p>4.74</p>
+        <p>2.98</p>
+        <p>10-yr. T-infl.</p>
+        <p>2.06</p>
+        <p>2.02</p>
+        <p>1.64</p>
+        <p>10-yr. T-note</p>
+        <p>4.68</p>
+        <p>4.63</p>
+        <p>4.31</p>
+        <p>30-yr. T-bond</p>
+        <p>4.66</p>
+        <p>4.61</p>
+        <p>4.65</p>
+        <p>(Sources by Citigroup; Telerate; Bond Buyer, British Bankers' Assoc.; Bloomberg Financial Mkts; *NASD-Bloomberg Bond indices)</p>
+        <p>THE MARKETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

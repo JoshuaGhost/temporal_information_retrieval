@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jack of All Tongues</title>
+    <meta content="LGOLD.$03" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="985848"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Language and Languages</classifier>
+        <person class="indexing_service">Sommer, Francis E</person>
+        <person class="indexing_service">Gold, David L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E5DC1330F934A35752C0A96E958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jack of All Tongues</hl1>
+      </hedline>
+      <abstract>
+        <p>David L Gold letter disputes December 31 article on tribute to late Francis E Sommer, who supposedly spoke 94 languages (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''To Masters of Language, a Long Overdue Toast'' (Education page, Dec. 31), about a tribute to the late Francis E. Sommer, who supposedly spoke 94 languages, does not distinguish between linguists and polyglots.</p>
+        <p>A linguist is a student of linguistics, the scientific study of language. A polyglot knows many languages. Linguists are not necessarily polyglots, nor is the reverse true. The competence of linguists is not measured by the number of languages they know.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''To Masters of Language, a Long Overdue Toast'' (Education page, Dec. 31), about a tribute to the late Francis E. Sommer, who supposedly spoke 94 languages, does not distinguish between linguists and polyglots.</p>
+        <p>A linguist is a student of linguistics, the scientific study of language. A polyglot knows many languages. Linguists are not necessarily polyglots, nor is the reverse true. The competence of linguists is not measured by the number of languages they know.</p>
+        <p>The article uses words like fluent, learn and master. But when do those words apply? When a person can order a meal in a restaurant? Explain how a computer works? Write poetry? Achieve something even higher?</p>
+        <p>The saying ''Jack of all trades, master of none'' applies here. The more languages one ''knows,'' the less well one can know of each. ''Mastering'' a language means knowing everything there is to know about it as well as understanding, speaking and writing it to perfection. Under that definition, no one has mastered even one language.</p>
+        <p>DAVID  L. GOLD  Oakland Gardens, Queens, Jan. 1, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

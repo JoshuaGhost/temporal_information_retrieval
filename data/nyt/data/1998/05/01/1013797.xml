@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; SPX Begins Echlin Offer</title>
+    <meta content="BBR2" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1013797"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Echlin Inc</org>
+        <org class="indexing_service">Spx Corp</org>
+        <person class="indexing_service">Ravo, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDF133EF932A35756C0A96E958260" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; SPX Begins Echlin Offer</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK RAVO</byline>
+      <byline class="normalized_byline">Ravo, Nick</byline>
+      <abstract>
+        <p>SPX Corp formally begins its exchange offer to take over Echlin Inc, auto parts maufacturer based in Branford, Conn; deal is valued at $46.17 a share, or about $3 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The SPX Corporation formally began yesterday its exchange offer to take over Echlin Inc., the auto parts maufacturer based in Branford, Conn.</p>
+        <p>Under the terms of the offer, Echlin shareholders would receive $12 in cash plus 0.4796 of an SPX share for each share of Echlin stock tendered. Based on the $72.375 a share closing price of SPX stock yesterday, the deal is valued at $46.71 a share, or a total of about $3 billion. Echlin stock closed yesterday at $47.315.</p>
+      </block>
+      <block class="full_text">
+        <p>The SPX Corporation formally began yesterday its exchange offer to take over Echlin Inc., the auto parts maufacturer based in Branford, Conn.</p>
+        <p>Under the terms of the offer, Echlin shareholders would receive $12 in cash plus 0.4796 of an SPX share for each share of Echlin stock tendered. Based on the $72.375 a share closing price of SPX stock yesterday, the deal is valued at $46.71 a share, or a total of about $3 billion. Echlin stock closed yesterday at $47.315.</p>
+        <p>The expiration date of the offer is May 28, but it may be extended by SPX, which is based in Muskegon, Mich. SPX is also an auto parts maker.</p>
+        <p>Echlin has been fighting the hostile bid since February and has asked shareholders to wait until its board makes a recommendation on the offer. The company said the board would make a recommendation within 10 days.</p>
+        <p>NICK RAVO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sharing of Power Lines Is Proposed</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="342671"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">NORTHEAST UTILITIES</org>
+        <org class="indexing_service">PUBLIC SERVICE CO OF NEW HAMPSHIRE</org>
+        <person class="indexing_service">JOHNSON, SALLY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEED8103EF932A25757C0A966958260" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sharing of Power Lines Is Proposed</hl1>
+      </hedline>
+      <byline class="print_byline">By SALLY JOHNSON, Special to The New York Times</byline>
+      <byline class="normalized_byline">JOHNSON, SALLY</byline>
+      <dateline>RUTLAND, Vt., April 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: New England's largest electric utility has promised to allow other regional electric companies access to its transmission lines if the Federal Government approves its $2.3 billion plan to purchase the Public Service Company of New Hampshire, the troubled power company that built the Seabrook nuclear plant.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: New England's largest electric utility has promised to allow other regional electric companies access to its transmission lines if the Federal Government approves its $2.3 billion plan to purchase the Public Service Company of New Hampshire, the troubled power company that built the Seabrook nuclear plant.</p>
+        <p>New England's largest electric utility has promised to allow other regional electric companies access to its transmission lines if the Federal Government approves its $2.3 billion plan to purchase the Public Service Company of New Hampshire, the troubled power company that built the Seabrook nuclear plant.</p>
+        <p>At present, Northeast Utilities, based in Berlin, Conn., controls most of the east-west transmission lines in New England. By acquiring Public Service, which has been operating under Chapter 11 bankruptcy protection, it would also control much of the movement of electricity from north to south. Many regional electric utilities have worried that Northeast Utilities would either deny them access to transmission or charge them exorbitant tariffs to use those lines.</p>
+        <p>In a filing with the Federal Energy Regulatory Commission last month, Northeast Utilities offered to provide a 400-megawatt transmission corridor through New Hampshire, so that other utilities could move electricity on a north-south axis.</p>
+        <p>A Joint Proposal</p>
+        <p>The offer is a joint proposal with the New England Electric System, a Massachusetts utility that had been one of the most vocal critics of the acquisition.</p>
+        <p>But Thomas C. Webb, the president and chief executive of the Central Vermont Public Service Corporation, Vermont's largest electric company, said he was not satisfied with the arrangement.</p>
+        <p>''We think there are still important transmission and competition issues at stake,'' Mr. Webb said. ''We're aware that N.E.E.S. has settled with Northeast, but there is little in it for us. We've hired a consultant and plan to file a case at F.E.R.C.''</p>
+        <p>Similar Reservations</p>
+        <p>Officials at the Central Maine Power Company expressed similar reservations. David T. Flanagan, senior vice president, said the transmission corridor ''is an important element to us, but it does not resolve the issue of the dominance of the N.U.-P.S.N.H. company in the New England power pool.'' The power pool is an arrangement whereby members buy and sell power from each other over a regional grid of transmission lines. Influence within the pool is determined by size and the amount of electricity a utility sells.</p>
+        <p>Northeast has agreed to charge posted rates for transmission for agreements lasting less than five years. Until now, Northeast had negotiated those rates on a contract-by-contract basis. It also proposed to work with the New England Electric System and other regional utilities to build new transmission lines.</p>
+        <p>The company promised to make the capacity available for at least 10 years and for up to 30 years if the other utilities agreed to cooperate in building new facilities.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

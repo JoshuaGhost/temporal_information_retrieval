@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Benitez Conscious</title>
+    <meta content="SP023758" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="SPORTS PEOPLE: BOXING" name="column_name"/>
+    <docdata>
+      <doc-id id-string="883755"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: BOXING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Boxing</classifier>
+        <person class="indexing_service">Benitez, Wilfred</person>
+        <object.title class="indexing_service">Sports People (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EED71431F935A25753C1A960958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Benitez Conscious</hl1>
+      </hedline>
+      <abstract>
+        <p>Former boxing champion Wilfred Benitez regains consciousness at University Hospital in San Juan, PR, after lapsing into coma last week (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The former champion WILFRED BENITEZ regained consciousness yesterday at University Hospital in San Juan, P.R., after lapsing into a coma last Friday at his home in the town of Carolina, a complication of brain swelling he has long been afflicted with.</p>
+        <p>''The first words he said to me were 'God is good,' '' said his mother, CLARA BENITEZ.</p>
+      </block>
+      <block class="full_text">
+        <p>The former champion WILFRED BENITEZ regained consciousness yesterday at University Hospital in San Juan, P.R., after lapsing into a coma last Friday at his home in the town of Carolina, a complication of brain swelling he has long been afflicted with.</p>
+        <p>''The first words he said to me were 'God is good,' '' said his mother, CLARA BENITEZ.</p>
+        <p>She said her 38-year-old son was being treated in the hospital's general medicine wing and doctors had to give him strong sedatives to calm him.</p>
+        <p>(AP)</p>
+        <p>SPORTS PEOPLE: BOXING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

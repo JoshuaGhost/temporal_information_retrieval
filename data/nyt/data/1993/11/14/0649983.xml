@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lesley Harris, Jay A. Palmer</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="649983"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HARRIS, LESLEY BETH (LESLEY BETH PALMER)</person>
+        <person class="indexing_service">PALMER, JAY AARON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DE113EF937A25752C1A965958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lesley Harris, Jay A. Palmer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lesley Beth Harris, the daughter of Hilary and Stanley Harris of Lexington, Mass., was married yesterday to Jay Aaron Palmer, the son of Julian J. Palmer of Newton Centre, Mass., and the late Marion E. Palmer. Rabbi Cary D. Yales officiated at the Boston Harbor Hotel in Boston.</p>
+        <p>Mrs. Palmer is the director of the IBJ Foundation Inc. in New York, the charitable foundation of the Industrial Bank of Japan. She graduated from Cornell University and received an M.B.A. from Columbia University.</p>
+      </block>
+      <block class="full_text">
+        <p>Lesley Beth Harris, the daughter of Hilary and Stanley Harris of Lexington, Mass., was married yesterday to Jay Aaron Palmer, the son of Julian J. Palmer of Newton Centre, Mass., and the late Marion E. Palmer. Rabbi Cary D. Yales officiated at the Boston Harbor Hotel in Boston.</p>
+        <p>Mrs. Palmer is the director of the IBJ Foundation Inc. in New York, the charitable foundation of the Industrial Bank of Japan. She graduated from Cornell University and received an M.B.A. from Columbia University.</p>
+        <p>Mr. Palmer is the president of Cardiff Consultants, an interior design concern in New York. He graduated summa cum laude from the University of Pennsylvania.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

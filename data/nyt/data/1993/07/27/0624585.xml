@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="624585"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">JAGGER, MICK</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D71731F934A15754C0A965958260" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Another marker of the passage of time: MICK JAGGER turned 50 yesterday and kept right on rocking as he recorded a new album with the Rolling Stones, The Associated Press reported. No, he wasn't deprived of a party on his half-century milestone. His wife, JERRY HALL, the American model, gave him a party with a French Revolution theme on July 16 in West London, where the guests included the actor Eric Idle, of Monty Python fame, and a former British cabinet minister, Paul Channon.</p>
+        <p>The Rolling Stones recorded their first hit record, "Come On" 30 years ago. On Mr. Jagger's birthday the band members were in Dublin, working on their latest album, due for release next year.</p>
+      </block>
+      <block class="full_text">
+        <p>Another marker of the passage of time: MICK JAGGER turned 50 yesterday and kept right on rocking as he recorded a new album with the Rolling Stones, The Associated Press reported. No, he wasn't deprived of a party on his half-century milestone. His wife, JERRY HALL, the American model, gave him a party with a French Revolution theme on July 16 in West London, where the guests included the actor Eric Idle, of Monty Python fame, and a former British cabinet minister, Paul Channon.</p>
+        <p>The Rolling Stones recorded their first hit record, "Come On" 30 years ago. On Mr. Jagger's birthday the band members were in Dublin, working on their latest album, due for release next year.</p>
+        <p>"It would be a mistake to say I've never changed," Mr. Jagger, now a grandfather, said earlier this year in an interview with The Associated Press. "You change so much, and you feel inside a lot of things you were when you were a child. You've got the same genes. You're still working with the same raw material, honing the good points, getting them better. The bad points, you're trying to put down. You learn things like patience a bit more, and tact."</p>
+        <p>Next in line for the Rolling Stones' 50-year club: Keith Richards, who will celebrate his birthday on Dec. 18.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

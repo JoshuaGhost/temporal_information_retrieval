@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Germany: Retail Expansion</title>
+    <meta content="MB001225" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1522593"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Catalogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <location class="indexing_service">East Europe</location>
+        <location class="indexing_service">Germany</location>
+        <org class="indexing_service">Karstadtquelle Ag</org>
+        <person class="indexing_service">Homola, Victor</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mail Order Companies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEEDE123DF935A1575AC0A9659C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Germany: Retail Expansion</hl1>
+      </hedline>
+      <byline class="print_byline">By Victor Homola (NYT)</byline>
+      <byline class="normalized_byline">Homola, Victor</byline>
+      <abstract>
+        <p>KarstadtQuelle, Germany's largest department store operator, plans to double mail-order sales in Eastern Europe in next five years (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Germany's largest department store operator, KarstadtQuelle, said yesterday that it planned to double mail-order sales in Eastern Europe in the next five years. The company, based in Essen, said it would expand in Bosnia-Herzegovina, Croatia, the Czech Republic, Hungary, Montenegro, Serbia, Slovakia and Slovenia, aiming for $207 million in sales this year. KarstadtQuelle will also enter markets in Latvia, Lithuania, Romania and Ukraine.</p>
+        <p>Victor Homola (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Germany's largest department store operator, KarstadtQuelle, said yesterday that it planned to double mail-order sales in Eastern Europe in the next five years. The company, based in Essen, said it would expand in Bosnia-Herzegovina, Croatia, the Czech Republic, Hungary, Montenegro, Serbia, Slovakia and Slovenia, aiming for $207 million in sales this year. KarstadtQuelle will also enter markets in Latvia, Lithuania, Romania and Ukraine.</p>
+        <p>Victor Homola (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

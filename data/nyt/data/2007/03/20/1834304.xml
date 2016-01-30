@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Falling Ice Injures Four Women in Three Incidents</title>
+    <meta content="20ice" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/20/nyregion/20ice.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1834304"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E2DE1730F933A15750C0A9619C8B63" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Falling Ice Injures Four Women in Three Incidents</hl1>
+        <hl2 class="online_headline">Falling Ice Injures Four Women in Three Incidents</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Falling ice around the metropolitan area injured at least four people yesterday, prompting the authorities to temporarily shut down roads and streets to remove potential hazards, police and fire officials said.</p>
+        <p>None of the injured -- two pedestrians in New York City and two people in a vehicle in New Jersey -- were critically hurt, but three were hospitalized.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Falling ice around the metropolitan area injured at least four people yesterday, prompting the authorities to temporarily shut down roads and streets to remove potential hazards, police and fire officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>Falling ice around the metropolitan area injured at least four people yesterday, prompting the authorities to temporarily shut down roads and streets to remove potential hazards, police and fire officials said.</p>
+        <p>None of the injured -- two pedestrians in New York City and two people in a vehicle in New Jersey -- were critically hurt, but three were hospitalized.</p>
+        <p>The two pedestrians were struck in separate incidents in Manhattan. A 25-year-old woman was hit by falling ice near the corner of Lexington Avenue and East 89th Street shortly after 2 p.m. and was taken to NewYork-Presbyterian/Weill Cornell hospital, the Fire Department said.</p>
+        <p>Another woman walking on West 43rd Street between Seventh and Eighth Avenues was hit shortly before 6 p.m. in front of the New York Times building, the police said. She was treated at the scene, but the police shut down 43rd Street between the two avenues for about half an hour last evening as maintenance crews at The Times pushed ice off the roof.</p>
+        <p>In New Jersey, two women in a sport utility vehicle on Raymond Boulevard in Newark were struck by a large piece of ice that fell from the Pulaski Skyway, the authorities said.</p>
+        <p>The driver, Flordaliz Mauricio, 28, and her passenger, Maria Mauricio, 31, both of Bayonne, N.J., suffered head trauma and cuts, said Todd McClendon, a spokesman for the Newark police.</p>
+        <p>The women were treated at University Hospital in Newark and released, a hospital spokesman said.</p>
+        <p>New Jersey's Transportation Department closed ramps to the roadway yesterday so crews could remove additional ice, said Erin Phalon, an agency spokeswoman. Transportation crews were also checking other overpasses and bridges in the area for ice, she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

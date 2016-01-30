@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Race and College Admissions</title>
+    <meta content="LTR231723" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1445815"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Minorities (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Dormitories</classifier>
+        <org class="indexing_service">Cornell University</org>
+        <person class="indexing_service">Davis, Elliott Marc</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E0D6173BF937A35751C1A9649C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Race and College Admissions</hl1>
+      </hedline>
+      <abstract>
+        <p>Elliott Marc Davis letter on universities promoting 'diversity' reports that at Cornell, where he is undergraduate, racial segregation is furthered by university-sponsored ethnic-themed dorms</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Upholding Affirmative Action'' (editorial, Dec. 3), you say that ''college is often the first place that students of different races learn with and from one another.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Upholding Affirmative Action'' (editorial, Dec. 3), you say that ''college is often the first place that students of different races learn with and from one another.''</p>
+        <p>At Cornell University, where I am an undergraduate, the incredible amount of racial segregation on campus is further propagated by university-sponsored ethnic-themed dorms like the Latino Living Center and Ujamaa, a dorm with an African-American theme.</p>
+        <p>If universities are going to condone racial discrimination with the ''diversity'' argument, the least they can do is try to foster some sort of true diversity on campus -- not just diversity on paper.</p>
+        <p>ELLIOTT MARC DAVIS  Ithaca, N.Y., Dec. 3, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

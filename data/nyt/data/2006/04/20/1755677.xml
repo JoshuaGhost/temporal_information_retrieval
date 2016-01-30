@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Snap or Crackle: A New Technology For Cordless Phones</title>
+    <meta content="20phone" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/04/20/technology/20phone.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1755677"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <org class="indexing_service">Royal Philips Electronics</org>
+        <person class="indexing_service">Taub, Eric A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EFDC143FF933A15757C0A9609C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Snap or Crackle: A New Technology For Cordless Phones</hl1>
+        <hl2 class="online_headline">No Snap or Crackle: A New Technology for Cordless Phones</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC A. TAUB</byline>
+      <byline class="normalized_byline">Taub, Eric A</byline>
+      <abstract>
+        <p>Phillips will introduce phones using new Digital Enhanced Cordless Telecommunications (DECT) standard to improve call quality and security; phones work on 1.9 gigahertz frequency to avoid interference with other wireless devices; DECT 221 model will cost $110; DECT 225 model will cost $130 with built-in answerering system; DECT 220 add-on model will cost $100; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When it comes to standard telephone service, nothing exceeds the quality of corded handsets. Unlike popular wireless models, corded phones, which cost as little as $20, are free of the crackles and whooshes endemic to cordless models as their users move around the house.</p>
+        <p>But a new cordless technology promises to change all that. Next month, Philips will introduce its first phones in the United States, and they will use a new standard, Digital Enhanced Cordless Telecommunications (DECT), to improve call quality and security.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Phones from Philips will use a new standard to improve call quality and security.</p>
+      </block>
+      <block class="full_text">
+        <p>When it comes to standard telephone service, nothing exceeds the quality of corded handsets. Unlike popular wireless models, corded phones, which cost as little as $20, are free of the crackles and whooshes endemic to cordless models as their users move around the house.</p>
+        <p>But a new cordless technology promises to change all that. Next month, Philips will introduce its first phones in the United States, and they will use a new standard, Digital Enhanced Cordless Telecommunications (DECT), to improve call quality and security.</p>
+        <p>DECT operates at 1.9 gigahertz, outside the 2.4-gigahertz frequency used for many wireless devices, making it immune to interference from modems and other wireless phones. The new models -- the DECT 221 ($110) and the DECT 225 ($130, with a built-in answering system) -- offer double the battery life of standard wireless phones. The DECT 220, an add-on phone that connects wirelessly to the base station, is $100. DECT technology also lets compatible phones from other manufacturers connect to the main Philips units.</p>
+        <p>ERIC A. TAUB</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

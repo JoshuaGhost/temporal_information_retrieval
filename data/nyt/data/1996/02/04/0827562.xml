@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: NONFICTION</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="827562"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">TEACHOUT, TERRY</person>
+        <person class="indexing_service">BAGDIKIAN, BEN H</person>
+        <object.title class="indexing_service">DOUBLE VISION (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6D61739F937A35751C0A960958260" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY TEACHOUT</byline>
+      <byline class="normalized_byline">TEACHOUT, TERRY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOUBLE VISION Reflections on My Heritage, Life, and Profession. By Ben H. Bagdikian. Beacon, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>DOUBLE VISION Reflections on My Heritage, Life, and Profession. By Ben H. Bagdikian. Beacon, $24.</p>
+        <p>Ben H. Bagdikian's "Double Vision," as its title suggests, is two books in one: a memoir and an informal history of how journalism in the United States has changed since World War II. Mr. Bagdikian is more than qualified to write both books; he has led an eventful life, much of which has been spent writing media criticism in various capacities, including that of ombudsman at The Washington Post. But the yoking is nonetheless an awkward one. When not sermonizing on the  sins of his profession, Mr. Bagdikian has spent quite a bit of time in the journalistic trenches, and his book is full of excellent war stories, among them a superbly vivid first-person account of how he brought the Pentagon Papers to The Post. This part of "Double Vision" is written with shrewdness and humor. As  for the other part, suffice it to say that Mr. Bagdikian has woven into his autobiography a recapitulation of his well-known critique of the American news media, which he believes, not without reason, to be transfixed by power and privilege. "A better central theme for our reporting," he argues, "is what politics and economics do to advance or defeat social justice. The conventions of our trade claim that social justice is in the eye of the beholder and therefore cannot be 'objective' reporting. But in a democracy, is basic social justice really a matter of personal opinion?" The trouble with this part of "Double Vision" is that men and women of good will are far more likely than Mr.  Bagdikian thinks to vary in their answers to his question. "Double Vision" would be a better book, and Mr. Bagdikian a better media critic, if he vouchsafed any awareness whatsoever of that uncomfortable fact.</p>
+        <p>Terry Teachout</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

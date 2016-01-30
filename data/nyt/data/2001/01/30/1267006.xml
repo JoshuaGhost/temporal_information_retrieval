@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Saying No to Medication</title>
+    <meta content="LTR000049" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1267006"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <person class="indexing_service">Raw, Saul D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1DC1E3FF933A05752C0A9679C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Saying No to Medication</hl1>
+      </hedline>
+      <abstract>
+        <p>Saul D Raw letter on Jan 23 article on no-drug approach to wellness</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Cases column ''A No-Drug Approach to Wellness'' (Jan. 23) underscoring the case of Mr. J., who insisted on having his depression treated without psychotropic medication, is highly instructive for a number of reasons.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Cases column ''A No-Drug Approach to Wellness'' (Jan. 23) underscoring the case of Mr. J., who insisted on having his depression treated without psychotropic medication, is highly instructive for a number of reasons.</p>
+        <p>The decision of the writer, also a psychiatrist, to respect this patient's autonomy, and see him on his own terms, despite her medical training, which stressed the primacy and necessity of pharmaceutical intervention, speaks to her own flexibility and sensitivity to him.</p>
+        <p>It is interesting that in this day and age that there can sometimes be legal consequences for not using drugs to treat depressed patients.</p>
+        <p>But we also know that most managed care mental health programs would not have paid for this patient's extended treatment without medication.</p>
+        <p>Indeed, many managed care programs allocate sessions in part based on whether the patient is taking medication.</p>
+        <p>Those who are taking medication are said to fit better into the guidelines for ''medical necessity,'' which these companies use to decide whether to authorize continuing treatment.</p>
+        <p>SAUL D. RAW  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>O'Koren to Broadcast</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="183143"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">NEW JERSEY NETS</org>
+        <person class="indexing_service">O'KOREN, MICHAEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2D6123EF934A1575AC0A96E948260" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>O'Koren to Broadcast</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Michael O'Koren, the Nets' 1980 first-round draft choice, has joined the team's radio broadcast team and speakers' bureau. O'Koren, 30, who starred at North Carolina, played six seasons for the Nets before being traded to the Washington Bullets in October 1986. He was waived by the Bullets several months later.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Michael O'Koren, the Nets' 1980 first-round draft choice, has joined the team's radio broadcast team and speakers' bureau. O'Koren, 30, who starred at North Carolina, played six seasons for the Nets before being traded to the Washington Bullets in October 1986. He was waived by the Bullets several months later.</p>
+        <p>Michael O'Koren, the Nets' 1980 first-round draft choice, has joined the team's radio broadcast team and speakers' bureau. O'Koren, 30, who starred at North Carolina, played six seasons for the Nets before being traded to the Washington Bullets in October 1986. He was waived by the Bullets several months later. O'Koren signed as a free agent with the Boston Celtics last season and was re-acquired by the Nets toward the end of the season but never played for them. He was plagued by a pulled hamstring. The Nets also announced that Al Menendez, the director of player personnel for the past nine years, has resigned.</p>
+        <p>SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now What? A TV Special Issue</title>
+    <meta content="LTR120519" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1053018"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Scanlon, Frances E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDD163BF932A25753C1A96E958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now What? A TV Special Issue</hl1>
+      </hedline>
+      <abstract>
+        <p>Frances E Scanlon letter on Sept 20 Magazine issue about television</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Awash in the baptism of born-again punditry, Chris Matthews's ''Hardball'' is a cable-televised crusade. Though James Traub's ''Inyourface the Nation'' suggests that ''if you want depth, you can read a book,'' why bother when nightly you can spin past the land mines of rhetoric to salvation via Matthews's ministry?</p>
+      </block>
+      <block class="full_text">
+        <p>Awash in the baptism of born-again punditry, Chris Matthews's ''Hardball'' is a cable-televised crusade. Though James Traub's ''Inyourface the Nation'' suggests that ''if you want depth, you can read a book,'' why bother when nightly you can spin past the land mines of rhetoric to salvation via Matthews's ministry?</p>
+        <p>Surely there isn't a healer afoot today in the fields of tent revivalism who couldn't learn a thing or two from Preacher Matthews.</p>
+        <p>Frances E. Scanlon  Flushing, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

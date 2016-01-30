@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executive Changes</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="563608"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">ACCEL INTERNATIONAL CORP</org>
+        <person class="indexing_service">NOELLE, GERALD L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DA123DF934A25753C1A964958260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executive Changes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ACCEL INTERNATIONAL CORP., Dublin, Ohio, a holding company that provides specialty insurance and services, named Gerald L. Noelle senior vice president and chief actuary.  BELVOIR LTD., New York, a designer and manufacturer of women's apparel, named Robert J. Matura chairman and chief executive.  EXEL LTD., Hamilton, Bermuda, an insurance holding company, named Gavin R. Arton senior vice president and investor relations officer.  MACRONEX INC., Research Triangle Park, N.C., a biopharmaceutical discovery and development company, appointed Dennis D. Burns president and chief executive.  OFFSHORE PIPELINES INC., Houston, appointed Mike H. Lam vice chairman and chief operating officer. Richard R. Foreman, president, will also become chief financial officer.  RESIDENTIAL FUNDING CORP., Minneapolis, a unit of General Motors Acceptance Corp., named Davee Olson executive vice president of finance and chief financial officer.</p>
+      </block>
+      <block class="full_text">
+        <p>ACCEL INTERNATIONAL CORP., Dublin, Ohio, a holding company that provides specialty insurance and services, named Gerald L. Noelle senior vice president and chief actuary.  BELVOIR LTD., New York, a designer and manufacturer of women's apparel, named Robert J. Matura chairman and chief executive.  EXEL LTD., Hamilton, Bermuda, an insurance holding company, named Gavin R. Arton senior vice president and investor relations officer.  MACRONEX INC., Research Triangle Park, N.C., a biopharmaceutical discovery and development company, appointed Dennis D. Burns president and chief executive.  OFFSHORE PIPELINES INC., Houston, appointed Mike H. Lam vice chairman and chief operating officer. Richard R. Foreman, president, will also become chief financial officer.  RESIDENTIAL FUNDING CORP., Minneapolis, a unit of General Motors Acceptance Corp., named Davee Olson executive vice president of finance and chief financial officer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Snooping Employers</title>
+    <meta content="WLN111554" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/24/magazine/24ETHICIST.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1443502"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THE WAY WE LIVE NOW: 11-24-02: THE ETHICIST"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/The Ethicist</classifier>
+        <classifier class="online_producer" type="descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E1D71E30F937A15752C1A9649C8B63" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Snooping Employers</hl1>
+        <hl2 class="online_headline">Snooping Employers</hl2>
+      </hedline>
+      <byline class="print_byline">By Randy Cohen</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My husband, a systems engineer, was trying out software that monitors employee Internet use where he works. In one mode, this software reports only the types of sites visited by members of a department -- shopping, news, research, etc. In another, it lists sites visited by specific employees. While testing the software, my husband discovered that a key member of the firm visits a lot of sex sites.What should he do with this information?</p>
+        <p>J. Johnson, Georgia</p>
+        <p>He should do nothing. While his employer has a legitimate interest in an employee's time-wasting -- if I understand correctly, that's the problem his boss hopes this software can solve -- how the time is wasted is beside the point. An employee visiting Bible-study sites can be every bit as much of a goldbrick as one who goes to porn sites -- or, for that matter, curls up under the desk for a low-tech nap. There may be occasions when your husband must report an employee's lollygagging, but the specific Web sites he visits are generally not germane; a slacker employee may be disciplined, but he should not be humiliated.</p>
+      </block>
+      <block class="full_text">
+        <p>My husband, a systems engineer, was trying out software that monitors employee Internet use where he works. In one mode, this software reports only the types of sites visited by members of a department -- shopping, news, research, etc. In another, it lists sites visited by specific employees. While testing the software, my husband discovered that a key member of the firm visits a lot of sex sites.What should he do with this information?</p>
+        <p>J. Johnson, Georgia</p>
+        <p>He should do nothing. While his employer has a legitimate interest in an employee's time-wasting -- if I understand correctly, that's the problem his boss hopes this software can solve -- how the time is wasted is beside the point. An employee visiting Bible-study sites can be every bit as much of a goldbrick as one who goes to porn sites -- or, for that matter, curls up under the desk for a low-tech nap. There may be occasions when your husband must report an employee's lollygagging, but the specific Web sites he visits are generally not germane; a slacker employee may be disciplined, but he should not be humiliated.</p>
+        <p>There are times when an employer may honorably seek a precise account of an employee's computer use. If there were a strong suspicion of wrongdoing by an individual -- sexual harassment or illegal music downloading, for example -- then the employer should investigate.</p>
+        <p>But to engage in routine electronic surveillance of employees without probable cause is overreaching. By providing a mode of operation that lists only types of sites visited, not particular sites, this software seems nicely designed to address the employer's concerns while protecting the employee's privacy. (Even better would be a mode that registered simply non-work-related or work-related sites, without describing them more luridly.)</p>
+        <p>Genuine improvements in productivity demand mutual trust and respect, not cunning methods of spying, whether high tech, low tech or even no tech.</p>
+        <p>Few of us work well knowing that our supervisor might lurk behind the cactus in the corner. You know, unless we work at a nursery.</p>
+        <p>My husband and I live in a rural area that is quickly being developed. Apparently, the owner of an adjacent housing development wants our land. A friend of a friend built a home in that development and had a bad experience with the owner. He has asked us for right of first refusal to buy our 12 acres so he can get back at her, the owner. Is it ethical to sell a friend of the friend the land, knowing he'll use it as a club?</p>
+        <p>Anonymous, Ohio</p>
+        <p>If you knew the friend of a friend would use the land as a guerrilla training camp from which his antisuburbanites would launch deadly forays into development owners' tract homes, then you'd have to hesitate before selling. But all you really know is he doesn't like her. He might want the land simply to ensure that her suburb won't sprawl further into his semirural bliss.</p>
+        <p>This might thwart her dreams of split-level hegemony, but there's nothing unprincipled about it. Indeed, it may please many in your community to limit growth. You're right to consider that your land sale has implications for other people, but you needn't be governed by either the one's expansionist dreams or the other's revenge fantasies.</p>
+        <p>Incidentally, if you want to preserve the rural quality of your area, some states let you sell development rights to programs that protect the land in perpetuity. Or you might talk to a lawyer about putting a nondevelopment covenant in the deed.</p>
+        <p>And by the way, I like the image of the friend of the friend using the land as a club, kind of like Paul Bunyan.</p>
+        <p>THE WAY WE LIVE NOW: 11-24-02: THE ETHICIST</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Royal Philips Selects DDB as Its Sole Agency</title>
+    <meta content="MB012329" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1502820"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <org class="indexing_service">Royal Philips Electronics</org>
+        <org class="indexing_service">Ddb Worldwide</org>
+        <org class="indexing_service">Burnett, Leo, Worldwide</org>
+        <person class="indexing_service">Mehegan, Sean</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E0D7173DF934A35754C0A9659C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Royal Philips Selects DDB as Its Sole Agency</hl1>
+      </hedline>
+      <byline class="print_byline">By Sean Mehegan</byline>
+      <byline class="normalized_byline">Mehegan, Sean</byline>
+      <abstract>
+        <p>Royal Philips Electronics consolidates virtually all its worldwide advertising, naming DDB Worldwide its sole global agency; some duties had previously been handled by Leo Burnett Worldwide (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Royal Philips Electronics in Amsterdam has consolidated virtually all its worldwide advertising, with total billings estimated at $600 million, by naming DDB Worldwide, part of the Omnicom Group, as its sole global agency.</p>
+        <p>DDB, which handles assignments for Philips products like consumer electronics and semiconductors as well as corporate image campaigns, now adds the duties for home appliances, personal-care products, lighting systems and medical products. Those duties had been handled by the offices of Leo Burnett Worldwide, part of the Publicis Groupe, which will now work on selected projects for Philips.</p>
+      </block>
+      <block class="full_text">
+        <p>Royal Philips Electronics in Amsterdam has consolidated virtually all its worldwide advertising, with total billings estimated at $600 million, by naming DDB Worldwide, part of the Omnicom Group, as its sole global agency.</p>
+        <p>DDB, which handles assignments for Philips products like consumer electronics and semiconductors as well as corporate image campaigns, now adds the duties for home appliances, personal-care products, lighting systems and medical products. Those duties had been handled by the offices of Leo Burnett Worldwide, part of the Publicis Groupe, which will now work on selected projects for Philips.</p>
+        <p>''We're disappointed with Philips's decision to consolidate its brand advertising elsewhere,'' said Julie Thompson, a spokeswoman at Burnett in Chicago. Burnett had inherited its Philips accounts from a sibling, D'Arcy Masius Benton &amp; Bowles, which Publicis closed last year. DDB joined the Philips agency roster in December 2000, when it was awarded assignments that had been handled by offices of Euro RSCG Worldwide, part of Havas. The DDB and Burnett assignments were estimated to have been evenly divided, each handling about $300 million in billings.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

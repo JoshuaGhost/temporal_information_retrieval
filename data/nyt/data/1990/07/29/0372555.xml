@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of the Times;   Louisiana's Example</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="372555"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ABORTION</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">VETOES (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <location class="indexing_service">LOUISIANA</location>
+        <person class="indexing_service">ROEMER, BUDDY (GOV)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vetoes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D91130F93AA15754C0A966958260" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of the Times;   Louisiana's Example</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Gov. Buddy Roemer gave the Louisiana Legislature's abortion bill a more careful review than it deserved. He found it wanting, devoid of minimum humane consideration for women. He deserves respect for his courage in vetoing the bill in the intimidating climate created by anti-abortion politicians.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Gov. Buddy Roemer gave the Louisiana Legislature's abortion bill a more careful review than it deserved. He found it wanting, devoid of minimum humane consideration for women. He deserves respect for his courage in vetoing the bill in the intimidating climate created by anti-abortion politicians.</p>
+        <p>Gov. Buddy Roemer gave the Louisiana Legislature's abortion bill a more careful review than it deserved. He found it wanting, devoid of minimum humane consideration for women. He deserves respect for his courage in vetoing the bill in the intimidating climate created by anti-abortion politicians.</p>
+        <p>The Governor had only asked the Legislature to exempt victims of rape and incest from a law criminalizing abortion. At first, it refused outright, prompting a veto. Unable to override, the lawmakers lunged for a flag-burning bill and grafted on an abortion section. This version did deal with rape and incest, but meanly, with unrealistic reporting requirements, and cynically, with technical traps for women and their doctors.</p>
+        <p>Louisiana's right-to-life forces want their state to send up an early test of the Supreme Court's willingness to overrule Roe v. Wade, the fundamental abortion decision. Governor Roemer prudently exercised his own judgment. He found the bill probably unconstitutional under state law and woefully so under the U.S. Constitution. He has saved his state further embarrassment, including the scorn of judges who would be appalled by this ugly bill.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

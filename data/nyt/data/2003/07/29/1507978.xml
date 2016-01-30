@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Autism Cases Level Off in Britain</title>
+    <meta content="29PATT$04" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/07/29/health/29PATT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1507978"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="VITAL SIGNS: PATTERNS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Autism</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">University College (London)</org>
+        <org class="indexing_service">Archives of Disease in Childhood</org>
+        <person class="indexing_service">O'Neil, John</person>
+        <person class="indexing_service">Taylor, Brent (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Autism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="descriptor">Autism</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Autism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Great Britain</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2DF1F3FF93AA15754C0A9659C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Autism Cases Level Off in Britain</hl1>
+        <hl2 class="online_headline">Patterns: Autism Cases Level Off in Britain</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN O'NEIL</byline>
+      <byline class="normalized_byline">O'Neil, John</byline>
+      <abstract>
+        <p>Dr Brent Taylor, University College (London) researcher, publishes findings in Archives of Disease in Childhood that show rate of autism in Great Britain has leveled off to remain at 1992 level; critics say results are not consistent with other studies; cartoon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An English study on autism is the first to report what appears to be a leveling off of the steep rise in new cases, the researchers say.</p>
+        <p>The study, led by Dr. Brent Taylor of University College London, was published last week in The Archives of Disease in Childhood, the pediatric journal of the British Medical Association. An earlier study by Dr. Taylor had described an ''exponential'' increase in the London metropolitan region among children born from 1979 to 1992.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An English study on autism is the first to report what appears to be a leveling off of the steep rise in new cases.</p>
+      </block>
+      <block class="full_text">
+        <p>An English study on autism is the first to report what appears to be a leveling off of the steep rise in new cases, the researchers say.</p>
+        <p>The study, led by Dr. Brent Taylor of University College London, was published last week in The Archives of Disease in Childhood, the pediatric journal of the British Medical Association. An earlier study by Dr. Taylor had described an ''exponential'' increase in the London metropolitan region among children born from 1979 to 1992.</p>
+        <p>The new study examined new cases among children born in the next six years and found that the prevalence of autism disorders stayed essentially unchanged after 1992, at 2.6 per 1,000 children, a rate in line with other recent surveys and far higher than estimates from 20 years ago.</p>
+        <p>Autism interferes with the early development of the brain, undermining many skills, including those that are the building blocks for language and social interaction. Reported cases have risen steeply in many countries, outstripping the resources for treatment and setting off a debate over whether the increase reflects greater awareness and better diagnosis or unknown environmental factors.</p>
+        <p>Dr. Taylor said the findings were consistent with better detection, noting that the age of diagnosis in children fell steadily in the study. That probably made the increase steeper in earlier years, he said.</p>
+        <p>But Dr. Eric Fombonne, a professor of child and adolescent psychiatry at McGill University, who had no connection with the study, said that its findings should be interpreted with caution. They did not appear to be consistent with data collected in other settings, which appear to continue to show an increase, he said.</p>
+        <p>VITAL SIGNS: PATTERNS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

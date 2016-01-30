@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DISCREET LOGIC STOCK FALLS AFTER EARNINGS WARNING</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="847809"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <org class="indexing_service">DISCREET LOGIC INC</org>
+        <person class="indexing_service">JOHNSON, DOUGLAS R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFD81739F931A35756C0A960958260" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DISCREET LOGIC STOCK FALLS AFTER EARNINGS WARNING</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock of Discreet Logic Inc. lost more than 40 percent of its value yesterday after the company warned that it would report a large loss for the latest quarter and announced the departure of a top executive, the second to leave the company in the last few months. Discreet, a maker of image processing  systems for audio and video special effects, fell $7.25, to $9.375, in Nasdaq trading of more than nine million shares. The company, which is based in Montreal, said it expected a significant loss for its fiscal third quarter, which ended on Tuesday, and announced that its chief financial officer, Douglas  R. Johnson, planned to leave. In February, the stock was also battered after the</p>
+        <p>company issued a warning of lower-than-expected second-quarter earnings and announced the departure of its chief executive and president, David Macrae.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock of Discreet Logic Inc. lost more than 40 percent of its value yesterday after the company warned that it would report a large loss for the latest quarter and announced the departure of a top executive, the second to leave the company in the last few months. Discreet, a maker of image processing  systems for audio and video special effects, fell $7.25, to $9.375, in Nasdaq trading of more than nine million shares. The company, which is based in Montreal, said it expected a significant loss for its fiscal third quarter, which ended on Tuesday, and announced that its chief financial officer, Douglas  R. Johnson, planned to leave. In February, the stock was also battered after the</p>
+        <p>company issued a warning of lower-than-expected second-quarter earnings and announced the departure of its chief executive and president, David Macrae.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

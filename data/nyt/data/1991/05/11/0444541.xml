@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Headline</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="444541"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OFFICE BUILDINGS</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <location class="indexing_service">HONG KONG</location>
+        <org class="indexing_service">CITIBANK NA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China/Hong Kong</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DF143AF932A25756C0A967958260" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Headline</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>HONG KONG, May 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hong Kong Tower Sale by Citibank</p>
+        <p>Citibank N.A. agreed to sell for roughly $97.1 million its half of a Hong Kong office tower that serves as its reional headquarters. The sale, one of the biggest local property transactions this year, is to an unidentified party. A Citibank official said the bank made a profit of about $44.9 million on the deal.</p>
+        <p>Citibank, a unit of Citicorp, bought half of the 38-story building, in the Causeway Bay district, in 1983. But 18 months ago, it decided to return to the central business district by taking a stake in a major new building to be completed next year. Steven Baker, Citibank's country corporate officer, said the sale of roughly 250,000 square feet of space in the Causeway Bay building would enable the bank to unite the bulk of its staff, which is now divided between the two buildings.</p>
+      </block>
+      <block class="full_text">
+        <p>Hong Kong Tower Sale by Citibank</p>
+        <p>Citibank N.A. agreed to sell for roughly $97.1 million its half of a Hong Kong office tower that serves as its reional headquarters. The sale, one of the biggest local property transactions this year, is to an unidentified party. A Citibank official said the bank made a profit of about $44.9 million on the deal.</p>
+        <p>Citibank, a unit of Citicorp, bought half of the 38-story building, in the Causeway Bay district, in 1983. But 18 months ago, it decided to return to the central business district by taking a stake in a major new building to be completed next year. Steven Baker, Citibank's country corporate officer, said the sale of roughly 250,000 square feet of space in the Causeway Bay building would enable the bank to unite the bulk of its staff, which is now divided between the two buildings.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

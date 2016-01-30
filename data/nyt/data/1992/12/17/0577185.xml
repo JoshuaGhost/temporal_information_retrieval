@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Totes Hangs Its Hat At Sive/Y.&amp; R.</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="577185"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <org class="indexing_service">TOTES INC</org>
+        <org class="indexing_service">SIVE/YOUNG &amp; RUBICAM CINCINNATI</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DE1531F934A25751C1A964958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Totes Hangs Its Hat At Sive/Y.&amp; R.</hl1>
+      </hedline>
+      <byline class="print_byline">By Adam Bryant</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Totes Inc., the umbrella, knitwear and rain-gear manufacturer, said yesterday that it had named Sive/ Young &amp; Rubicam Cincinnati to handle its account, previously handled by Fahlgren Martin in Cincinnati for seven years.</p>
+        <p>Sive, which handled the Totes account from 1982 to 1985, was re-awarded the account after a review involving the incumbent and Backley Seifert Advertising in Cincinnati.</p>
+      </block>
+      <block class="full_text">
+        <p>Totes Inc., the umbrella, knitwear and rain-gear manufacturer, said yesterday that it had named Sive/ Young &amp; Rubicam Cincinnati to handle its account, previously handled by Fahlgren Martin in Cincinnati for seven years.</p>
+        <p>Sive, which handled the Totes account from 1982 to 1985, was re-awarded the account after a review involving the incumbent and Backley Seifert Advertising in Cincinnati.</p>
+        <p>Although billings were not disclosed, figures from the Leading National Advertisers tracking service showed that Totes spent $2.5 million last year to advertise. Dan Murphy, vice president of marketing at Totes in Cincinnati, said the company expects to increase advertising spending next year.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

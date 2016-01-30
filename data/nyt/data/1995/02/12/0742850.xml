@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Touring New Orleans in the Springtime</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="742850"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <location class="indexing_service">NEW ORLEANS (LA)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana/New Orleans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Louisiana</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5D9133BF931A25751C0A963958260" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Touring New Orleans in the Springtime</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two spring tours explore the gardens, historic houses and musical traditions of New Orleans and its environs.</p>
+        <p>"Springtime in New Orleans and the Louisiana Plantation Country" is sponsored by the National Trust for Historic Preservation. Participants will dine on Creole and Cajun cuisine, hear gospel and jazz music, and visit historic houses, plantations and gardens from New Orleans to Baton Rouge and New Iberia, La.</p>
+      </block>
+      <block class="full_text">
+        <p>Two spring tours explore the gardens, historic houses and musical traditions of New Orleans and its environs.</p>
+        <p>"Springtime in New Orleans and the Louisiana Plantation Country" is sponsored by the National Trust for Historic Preservation. Participants will dine on Creole and Cajun cuisine, hear gospel and jazz music, and visit historic houses, plantations and gardens from New Orleans to Baton Rouge and New Iberia, La.</p>
+        <p>After winding through private gardens in New Orleans's French Quarter, Garden District mansions and a bayou preserve, the tour will follow the River Road from New Orleans to Baton Rouge, where guests will visit plantations and attend a Cajun party.</p>
+        <p>The tour lasts nine days, from March 22 to 30, and costs $2,497, including hotels and almost all meals but not air fare. Space is limited. Contact Learned Journeys, at (800) 682-6191.</p>
+        <p>The 92d Street Y in New York City is offering a package to coincide with the second weekend of the 26th annual New Orleans Jazz and Heritage Festival, to be held from April 28 to May 7 at the Fair Grounds race track and various other places around the city.</p>
+        <p>Performers have not yet been announced (past performers have included Fats Domino, the Neville Brothers and Wynton Marsalis).</p>
+        <p>This tour, from May 4 to 8, costs $999 and includes performances at the Fair Grounds, a double room at Le Meridien Hotel, round-trip air fare from New York and guided tours of various sites, including the 18th-century Destrehan, the oldest remaining plantation house in the lower Mississippi Valley, and Longue Vue, a Greek revival mansion famous for its gardens. For information, call the 92d Street Y, (212) 415-5599.  TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

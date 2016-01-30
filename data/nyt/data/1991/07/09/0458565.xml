@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Barger Leaves Pirates</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="458565"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">FLORIDA MARLINS</org>
+        <org class="indexing_service">PITTSBURGH PIRATES</org>
+        <person class="indexing_service">BARGER, CARL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Florida Marlins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Pittsburgh Pirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D7173FF93AA35754C0A967958260" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Barger Leaves Pirates</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CARL BARGER resigned yesterday as the Pittsburgh Pirates' president to take the post of president with the Florida Marlins, one of the National League expansion teams. Under a unique arrangement, however, Barger will virtually run both teams indefinitely.</p>
+        <p>Baseball's conflict of interest rules bar a major league club employee from working for another team, but Barger will begin staffing the Marlins' front office while running the Pirates until his successor is chosen.</p>
+      </block>
+      <block class="full_text">
+        <p>CARL BARGER resigned yesterday as the Pittsburgh Pirates' president to take the post of president with the Florida Marlins, one of the National League expansion teams. Under a unique arrangement, however, Barger will virtually run both teams indefinitely.</p>
+        <p>Baseball's conflict of interest rules bar a major league club employee from working for another team, but Barger will begin staffing the Marlins' front office while running the Pirates until his successor is chosen.</p>
+        <p>Barger could remain in Pittsburgh until the end of the season even while selecting key executives -- possibly including a general manager and manager -- for the Marlins.</p>
+        <p>"Sure, you can create some sort of spectrum of conflict, but if you do, you don't know me," Barger said. "I'll be happy to pass any oversight test anyone wants to give me."</p>
+        <p>Barger's close friend H. WAYNE HUIZENGA owns the Marlins, who will join the National League with the Denver-based Colorado Rockies in 1993.</p>
+        <p>Pirates board chairman DOUGLAS DANFORTH, who also chaired the National League expansion committee, said Commissioner FAY VINCENT and National League president BILL WHITE agreed Barger could remain with the Pirates for the near future. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

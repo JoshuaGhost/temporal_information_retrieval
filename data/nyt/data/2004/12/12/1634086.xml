@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Purple Is the Color of Correction</title>
+    <meta content="MB091017" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="90" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/12/magazine/12PURPLE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1634086"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE 4TH ANNUAL: YEAR IN IDEAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Grading of Students</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Color</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <person class="indexing_service">Jacobs, Kate</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grading of Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Color</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DD1031F931A25751C1A9629C8B63" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Purple Is the Color of Correction</hl1>
+        <hl2 class="online_headline">Purple Is the Color of Correction</hl2>
+      </hedline>
+      <byline class="print_byline">By KATE JACOBS</byline>
+      <byline class="normalized_byline">Jacobs, Kate</byline>
+      <abstract>
+        <p>Kate Jacobs article, in review of year's notable ideas and developments, on trend by teachers toward using kinder, gentler hue of purple to grade students' tests and papers; red has been found to be intimidating, although experts are split on impact of change; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The latest menace to the American education system has nothing to do with standardized tests or McDonald's outposts in school lunchrooms. Instead, it's a venerable symbol of discipline and authority: the red ink that has been used to grade papers for generations. For the school year that ended in the spring, focus groups and in-store polls conducted by Paper Mate revealed that teachers were migrating away from red ink and toward the kinder, gentler hue of purple.</p>
+        <p>Proponents of purple contend that grading with violet tones is less negative than using angry reds. Sensing a marketing opportunity,</p>
+        <p>Paper Mate increased production of purple pens by 10 percent; Staples and OfficeMax followed suit, stocking more purple-ink products and offering boxes of purple-only pens. Leatrice Eiseman, director of the Pantone Color Institute, calls purple the ideal color for grading. ''Red is rather intimidating,'' she says. ''With the purple, you soften the blow.'' Jan Haag, another advocate of purple pens, says that the comment she hears most often from her students at Sacramento City College is simply ''Thank you for not using red.''</p>
+        <p>But even advocates of the switch acknowledge that purple is not intrinsically better. Eiseman gives purple a few years before new cultural associations force the teaching establishment to come up with an even newer, even friendlier grading color.</p>
+        <p>KATE JACOBS</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Proponents of purple contend that grading with violet tones is less negative than using angry reds.</p>
+      </block>
+      <block class="full_text">
+        <p>The latest menace to the American education system has nothing to do with standardized tests or McDonald's outposts in school lunchrooms. Instead, it's a venerable symbol of discipline and authority: the red ink that has been used to grade papers for generations. For the school year that ended in the spring, focus groups and in-store polls conducted by Paper Mate revealed that teachers were migrating away from red ink and toward the kinder, gentler hue of purple.</p>
+        <p>Proponents of purple contend that grading with violet tones is less negative than using angry reds. Sensing a marketing opportunity,</p>
+        <p>Paper Mate increased production of purple pens by 10 percent; Staples and OfficeMax followed suit, stocking more purple-ink products and offering boxes of purple-only pens. Leatrice Eiseman, director of the Pantone Color Institute, calls purple the ideal color for grading. ''Red is rather intimidating,'' she says. ''With the purple, you soften the blow.'' Jan Haag, another advocate of purple pens, says that the comment she hears most often from her students at Sacramento City College is simply ''Thank you for not using red.''</p>
+        <p>But even advocates of the switch acknowledge that purple is not intrinsically better. Eiseman gives purple a few years before new cultural associations force the teaching establishment to come up with an even newer, even friendlier grading color.</p>
+        <p>KATE JACOBS</p>
+        <p>THE 4TH ANNUAL: YEAR IN IDEAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

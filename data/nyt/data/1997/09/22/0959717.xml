@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Search for Developer Leads to Manhattan</title>
+    <meta content="GROSS" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="959717"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="METRO NEWS BRIEFS: NEW JERSEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Missing Persons</classifier>
+        <location class="indexing_service">Edgewater (NJ)</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Gross, Nelson G</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missing Persons</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3DF153BF931A1575AC0A961958260" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Search for Developer Leads to Manhattan</hl1>
+      </hedline>
+      <abstract>
+        <p>FBI continues search for Nelson G Gross, former head of New Jersey Republican Party who has been missing since Sept 17 when he was seen outside family restaurant in Edgewater, NJ; his abandoned car was found in Washington Heights on Sept 20 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hoping for leads in the search for the former head of the New Jersey Republican Party, agents of the Federal Bureau of Investigation handed out fliers yesterday in Washington Heights, where the missing man's car was found on Saturday.</p>
+        <p>The man, Nelson G. Gross of Saddle River, N.J., was last seen Wednesday outside his family's floating restaurant on the Hudson riverfront in Edgewater, N.J. Family members said Mr. Gross had just withdrawn $20,000 from a bank and had driven off in the company of two unidentified men.</p>
+      </block>
+      <block class="full_text">
+        <p>Hoping for leads in the search for the former head of the New Jersey Republican Party, agents of the Federal Bureau of Investigation handed out fliers yesterday in Washington Heights, where the missing man's car was found on Saturday.</p>
+        <p>The man, Nelson G. Gross of Saddle River, N.J., was last seen Wednesday outside his family's floating restaurant on the Hudson riverfront in Edgewater, N.J. Family members said Mr. Gross had just withdrawn $20,000 from a bank and had driven off in the company of two unidentified men.</p>
+        <p>Mr. Gross's silver 1990 BMW sedan was found abandoned at 158th Street and Riverside Drive, a two-minute drive south of the George Washington Bridge, an investigator said yesterday.</p>
+        <p>The fliers, given out to residents of the brick apartment buildings along Riverside Drive, advertise the $100,000 reward that Mr. Gross's family has offered for information leading to his safe return. The neighborhood is on a bluff that looks out across the river at the floating restaurant, the Binghamton Ferryboat.</p>
+        <p>METRO NEWS BRIEFS: NEW JERSEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

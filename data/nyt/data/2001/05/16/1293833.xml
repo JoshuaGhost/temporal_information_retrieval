@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WB's Fall Schedule</title>
+    <meta content="MB233823" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1293833"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television and Radio Programming</classifier>
+        <org class="indexing_service">Wb Television Network</org>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE2DB123AF935A25756C0A9679C8B63" item-length="477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WB's Fall Schedule</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>WB unveils new fall schedule (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WB introduced a new fall schedule yesterday that is missing two of its best-known actresses -- Sarah Michelle Gellar and Shannen Doherty -- but is heavy in new comedy, reality and dramatic programs that it hopes will more than make up the difference.</p>
+        <p>The big question for WB this spring has been how it would compensate for losing ''Buffy the Vampire Slayer,'' starring Ms. Gellar, and the network's answer yesterday was to schedule ''Gilmore Girls'' in the old ''Buffy'' time slot, Tuesdays at 8 p.m. ''Gilmore Girls,'' about a 32-year-old single mother and her 16-year-old daughter, has drawn critical acclaim but not large ratings.</p>
+      </block>
+      <block class="full_text">
+        <p>WB introduced a new fall schedule yesterday that is missing two of its best-known actresses -- Sarah Michelle Gellar and Shannen Doherty -- but is heavy in new comedy, reality and dramatic programs that it hopes will more than make up the difference.</p>
+        <p>The big question for WB this spring has been how it would compensate for losing ''Buffy the Vampire Slayer,'' starring Ms. Gellar, and the network's answer yesterday was to schedule ''Gilmore Girls'' in the old ''Buffy'' time slot, Tuesdays at 8 p.m. ''Gilmore Girls,'' about a 32-year-old single mother and her 16-year-old daughter, has drawn critical acclaim but not large ratings.</p>
+        <p>Susanne Daniels, the WB co-president of entertainment, said that the show had been hampered in challenging time slots, and should do much better in its new place.</p>
+        <p>WB will follow ''Gilmore Girls'' with ''Smallville,'' a new, one-hour drama about the life and times of the teenage Clark Kent. ''Angel,'' a ''Buffy'' spinoff, will be shown on Mondays at 9 p.m.</p>
+        <p>There will be a host of new comedies, including two on Sunday nights, ''Men, Women and Dogs'' and ''Off Center,'' that are about young men and their relationships with women. Also on Sunday nights, WB will show an action-oriented reality program, ''Lost in the USA,'' following four groups of youngsters on a cross-country scavenger hunt. On Thursdays, it will show ''Elimidate Deluxe,'' in which one person will spend time with four potential suitors in exotic locales.</p>
+        <p>On Friday nights, it is going to show three new comedies with family appeal, including ''Maybe I'm Adopted,'' about a young lady who is embarrassed by her quirky family; ''Deep in the Heart,'' starring Reba McEntire as a mother of three going through a divorce; and ''Raising Dad,'' a show about a single father, played by Bob Saget, who is a teacher at his daughter's high school.</p>
+        <p>Meanwhile, WB said it had not yet decided whom it would choose to replace Ms. Doherty on ''Charmed.''</p>
+        <p>Here is the WB fall schedule:</p>
+        <p>SUNDAY: 7 p.m., ''Lost In The USA''; 8, ''The Steve Harvey Show''; 8:30, ''Men, Women and Dogs''; 9, ''Nikki''; 9:30, ''Off Center''</p>
+        <p>MONDAY: 8 p.m., ''7th Heaven''; 9, ''Angel''</p>
+        <p>TUESDAY: 8 p.m., ''Gilmore Girls''; 9, ''Smallville''</p>
+        <p>WEDNESDAY: 8 p.m., ''Dawson's Creek''; 9, ''Felicity''</p>
+        <p>THURSDAY: 8 p.m., ''Popstars 2''; 8:30, ''Elimidate Deluxe''; 9, ''Charmed''</p>
+        <p>FRIDAY: 8 p.m., ''Sabrina, the Teenage Witch''; 8:30, ''Maybe I'm Adopted''; 9, ''Deep in the Heart''; 9:30, ''Raising Dad''</p>
+        <p>JIM RUTENBERG</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

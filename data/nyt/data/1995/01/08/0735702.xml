@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Once Upon a Dime . . .</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19950129T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="735702"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SUNDAY, JANUARY 8, 1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEPHONES AND TELECOMMUNICATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3D7103FF93BA35752C0A963958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Once Upon a Dime . . .</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Let's say your parenting skills are a bit sloppy. You're too tired to read your child a bedtime story, perhaps, or you're such a troglodyte that you haven't yet set up your youngster on the Internet. Or maybe you're just lazy.</p>
+        <p>In any case, you may be happy to fork over 85 cents a minute (or $3.50 for 10 minutes) for the hyperbolically named Let's Imagine!!!, a storytelling-by-phone service.</p>
+      </block>
+      <block class="full_text">
+        <p>Let's say your parenting skills are a bit sloppy. You're too tired to read your child a bedtime story, perhaps, or you're such a troglodyte that you haven't yet set up your youngster on the Internet. Or maybe you're just lazy.</p>
+        <p>In any case, you may be happy to fork over 85 cents a minute (or $3.50 for 10 minutes) for the hyperbolically named Let's Imagine!!!, a storytelling-by-phone service.</p>
+        <p>The various adventures of Willy the Dragon can be heard in prerecorded versions of four, eight, or nine and a half minutes. A sample from "Willy Meets Ivan the Dragon": "This is the story of Willy the Dragon. Do you know what a dragon is?" The service can be reached by dialing 540-STORY in the 212, 718, 516 and 914 area codes.</p>
+        <p>The perpetrators of this children's alternative to 900 numbers are Rebecca Segall, 23, and Tim Rogers, 24, who live together, childlessly, on the Upper West Side of Manhattan. As inspiration, Segall cites the times she baby-sat for her cousin, who "loved to play with the phone." The Willy stories are expertly narrated by Rebecca's father, Jess Segall, who long ago told them to young Rebecca -- live, face to face.  SUNDAY, JANUARY 8, 1995  Correction:  January 29, 1995, Sunday</p>
+        <p>A report in the "Sunday" pages on Jan. 8 about a telephone storytelling service misstated the given name of the father of one proprietor. The father is Jeff Segall, not Jess.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 29, 1995, Sunday</p>
+        <p>A report in the "Sunday" pages on Jan. 8 about a telephone storytelling service misstated the given name of the father of one proprietor. The father is Jeff Segall, not Jess.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

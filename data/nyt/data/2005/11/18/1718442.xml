@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Building a Better Boom</title>
+    <meta content="18battelle" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/18/opinion/18battelle.html" name="alternate_url"/>
+    <meta content="EDITORS' NOTE APPENDED" name="banner"/>
+    <meta content="20051129T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1718442"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Battelle, John</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Google Inc</org>
+        <org class="online_producer">Oracle Corporation</org>
+        <org class="online_producer">International Business Machines Corporation</org>
+        <org class="online_producer">Microsoft Corporation</org>
+        <person class="online_producer">Battelle, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E2D7113EF93BA25752C1A9639C8B63" item-length="1091" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Building a Better Boom</hl1>
+        <hl2 class="online_headline">Building a Better Boom</hl2>
+      </hedline>
+      <byline class="print_byline">By John Battelle</byline>
+      <byline class="normalized_byline">Battelle, John</byline>
+      <dateline>Kentfield, Calif.</dateline>
+      <abstract>
+        <p>Op-Ed article by John Battelle on reasons why second Web 'bubble' is not a bubble at all; says first version of Internet was long on vision but short on execution and audience, while current version is result of decade's worth of work on technologies that are now proven, and also free; says this time financiers are not driving bubble, entrepreneurs and geeks are; says this time there is relative lack of public offerings; says era of hot Net IPO's is over; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT sure feels like a bubble, doesn't it? Let's tick off the signs: a red-hot market for Internet stocks (Google, for example, has more than quadrupled since it went public in 2004); fawning articles celebrating entrepreneurs; a glut of venture capitalists elbowing one another to invest in companies with no plans on how to make money past some hand waving about ''advertising'' and plenty of vague claims about how their technology will ''change the world.''</p>
+        <p>The Internet is exciting again, and once again folks are rushing in. In some categories -- like search or social networking, for example -- there are scores of start-ups vying for pretty much the same market, and it's certain that, just like last time, most of them will fail.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>We are witnessing the Web's second coming, not a new bubble.</p>
+      </block>
+      <block class="full_text">
+        <p>IT sure feels like a bubble, doesn't it? Let's tick off the signs: a red-hot market for Internet stocks (Google, for example, has more than quadrupled since it went public in 2004); fawning articles celebrating entrepreneurs; a glut of venture capitalists elbowing one another to invest in companies with no plans on how to make money past some hand waving about ''advertising'' and plenty of vague claims about how their technology will ''change the world.''</p>
+        <p>The Internet is exciting again, and once again folks are rushing in. In some categories -- like search or social networking, for example -- there are scores of start-ups vying for pretty much the same market, and it's certain that, just like last time, most of them will fail.</p>
+        <p>But regardless of all this déjà vu, we are not in a bubble. Instead we are witnessing the Web's second coming, and it's even got a name, ''Web 2.0'' -- although exactly what that moniker stands for is the topic of debate in the technology industry. For most it signifies a new way of starting and running companies -- with less capital, more focus on the customer and a far more open business model when it comes to working with others. Archetypal Web 2.0 companies include Flickr, a photo sharing site; Bloglines, a blog reading service; and MySpace, a music and social networking site.</p>
+        <p>These sites all came into their own in the past two years, and all of them have been sold for handsome sums to major media or technology companies. What do they have in common that proves that this time, we're not heading for a fall?</p>
+        <p>First, this time the Web is ready for the dreams of both its innovators and its public. The first version of the Internet -- call it Web 1.0 -- was long on vision but short on execution and audience. The technology was rudimentary, precious few had broadband connections and starting a business that ''scaled'' -- one that could deal with success and the traffic it brought -- was extremely expensive.</p>
+        <p>The Web has since become a platform, and building new businesses on that platform is no longer a multimillion-dollar proposition. Most new Web businesses nowadays are started with less than half a million dollars, and it's rare to find one that wants to use money from an initial public offering to get to profitability.</p>
+        <p>The reason? Start-ups are leveraging nearly a decade's worth of work on technologies that are now not only proven, but also free, or very nearly so. Open-source software can now do nearly everything that Oracle, I.B.M. and Microsoft specialized in back in the 90's. And the cost of computing and bandwidth? You can now lease a platform that can handle millions of customers for less than $500 a month. In the 90's, such a platform would have run tens of thousands of dollars or more a month.</p>
+        <p>I should know. It cost me millions to build my Web 1.0 business's Web site. My current business is based on blogging, where the average cost to start a site is about $100.</p>
+        <p>Or just ask Joe Kraus, a founder of the once high-flying Excite portal. Excite ran through millions in venture capital, then tens of millions of I.P.O. money, before its spectacular demise (Mr. Kraus had left before then). His latest start-up, JotSpot, is built on open-source software, and cost less than $200,000 to begin.</p>
+        <p>Mr. Kraus exemplifies the second reason I believe we are not in a bubble: this time, the financiers aren't driving. Instead, the entrepreneurs and geeks -- often one and the same -- are. The lessons of Web 1.0 are never far from their minds, and the desire to create something cool that might foster some good in the world is often equally paramount with the desire to make money. The culture of Web 2.0 is, in fact, decidedly missionary -- from the communitarian ethos of Craigslist to Google's informal motto, ''don't be evil.''</p>
+        <p>Ah, yes, Google. That brings us to the third reason we are not in a bubble: vastly improved search technologies. Recall that the demise of Web 1.0 was predicated in large part on the collapse of the Internet advertising business -- people were spending millions buying billboard-like ads that, it turns out, nobody was paying attention to.</p>
+        <p>But effective search engines -- and what they enabled -- changed all that. Right as the bubble burst, the Internet became a mainstream medium -- a majority of Americans were now online. At about the same time, Google turned its first profit, as did Overture, a similar company now owned by Yahoo. These two companies made money by reinventing advertising. Using their services, advertisers paid only when people actually clicked on their ads, and it turned out, millions did just that -- once the ads were matched to searches and therefore actually useful.</p>
+        <p>Search has provided the business models for countless companies, which use search to find new customers (eBay and Amazon are two of Google's largest advertisers) or which run Google or Yahoo's advertising networks on their own sites (a process called syndication). In fact, syndication has become the de facto business model of many start-ups: if you build a new service that garners a decent audience, syndication can provide enough revenue to give you time to refine your services and find your true business model.</p>
+        <p>Which leads me to the final reason I believe we are not in a bubble: the relative lack of public offerings. Most companies this time around are taking the path of acquisition, finding homes at large, stable and profitable companies like Yahoo, Google, News Corporation or Barry Diller's InterActiveCorp. The era of the hot Net I.P.O. is over, and good riddance.</p>
+        <p>So sure, there are too many start-ups, and sure, some venture capitalists are trying to get in on as many as they can. In the meantime, far more companies are starting that just might change the world, or at least interesting parts of it, and thanks to the lessons of the past, we now have an ecosystem that may enable them to make a serious go of it.</p>
+        <p>Op-Ed Contributor John Battelle, a co-producer of the Web 2.0 conference, is the author of ''The Search: How Google and Its Rivals Reinvented Business and Transformed Our Culture.''</p>
+        <p>Editors' Note:  November 29, 2005, Tuesday  An Op-Ed article on Nov. 18 about the future of Internet companies should have included additional information about the author, John Battelle. The New York Times Company has made an investment of no more than 5 percent in Mr. Battelle's company, Federated Media Publishing.</p>
+      </block>
+      <block class="correction_text">
+        <p>Editors' Note: November 29, 2005, Tuesday</p>
+        <p>An Op-Ed article on Nov. 18 about the future of Internet companies should have included additional information about the author, John Battelle. The New York Times Company has made an investment of no more than 5 percent in Mr. Battelle's company, Federated Media Publishing.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">John Battelle, a co-producer of the Web 2.0 conference, is the author of ''The Search: How Google and Its Rivals Reinvented Business and Transformed Our Culture.''</tagline>
+    </body.end>
+  </body>
+</nitf>

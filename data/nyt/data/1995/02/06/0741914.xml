@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Performance; DANCE</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="741914"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">PETRONIO, STEPHEN, DANCE CO</org>
+        <person class="indexing_service">ANDERSON, JACK</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED91230F935A35751C0A963958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Performance; DANCE</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Blend of Bold Movement And Fluttery Costumes  The Stephen Petronio Company Joyce Theater</p>
+        <p>Anyone hoping to enjoy Stephen Petronio's dances must separate the essential from the extraneous in them. What distinguishes them all is their bold movement. But lately Mr. Petronio has been adorning his creations with fripperies. That was made clear on Thursday night when the Stephen Petronio Company offered the second of its programs at the Joyce Theater. Four works were presented, the earliest first, the most recent last. Although each had choreographic strengths, they became inexplicably odder visually.</p>
+      </block>
+      <block class="full_text">
+        <p>A Blend of Bold Movement And Fluttery Costumes  The Stephen Petronio Company Joyce Theater</p>
+        <p>Anyone hoping to enjoy Stephen Petronio's dances must separate the essential from the extraneous in them. What distinguishes them all is their bold movement. But lately Mr. Petronio has been adorning his creations with fripperies. That was made clear on Thursday night when the Stephen Petronio Company offered the second of its programs at the Joyce Theater. Four works were presented, the earliest first, the most recent last. Although each had choreographic strengths, they became inexplicably odder visually.</p>
+        <p>"Surrender II" (1989) was a powerful duet for Mr. Petronio and Jeremy Nelson, a former member of the company who has returned to it as a guest artist. Wearing simple black costumes with white tops, the men looked like wrestlers. But after attacking and resisting each other, each at times yielded to and supported the other. Ken Tabachnick's lighting sometimes flooded the stage and at other times framed the combatants in circles and squares of light that effectively emphasized the choreography's sculptural nature.</p>
+        <p>All nine members of the troupe hurled themselves through "MiddleSex Gorge" (1990). Like "Surrender," this piece had costumes by H. Petal. The women wore austere black outfits, but the men were in corsets. Because the egalitarian choreography made no rigid distinctions between sexual roles, the contrasts in apparel seemed merely capricious.</p>
+        <p>There were also repeat performances of "The King Is Dead" (1993) and the new "Lareigne." Each attested to Mr. Petronio's choreographic talent and his current infatuation with fluttery costumes. JACK ANDERSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

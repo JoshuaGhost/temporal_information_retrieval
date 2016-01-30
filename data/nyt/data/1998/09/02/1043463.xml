@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Couple Are Attacked by 3 Men in Central Park</title>
+    <meta content="02PARK$04" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1043463"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Central Park (NYC)</location>
+        <person class="indexing_service">Roane, Kit R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DF133FF931A3575AC0A96E958260" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Couple Are Attacked by 3 Men in Central Park</hl1>
+      </hedline>
+      <byline class="print_byline">By KIT R. ROANE</byline>
+      <byline class="normalized_byline">Roane, Kit R</byline>
+      <abstract>
+        <p>New York City police report that Manhattan couple strolling through Central Park were attacked by three men who robbed man and sexually assaulted woman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Manhattan couple strolling through Central Park on Monday night were attacked by three men who robbed the man and sexually assaulted the woman, the police said yesterday.</p>
+        <p>The couple had walked to the Great Lawn and were returning home shortly before 9:30 P.M. when they were approached from behind by three men near a pedestrian tunnel at 80th Street and the East Drive, said Betsy Herzog, a Police Department spokeswoman.</p>
+      </block>
+      <block class="full_text">
+        <p>A Manhattan couple strolling through Central Park on Monday night were attacked by three men who robbed the man and sexually assaulted the woman, the police said yesterday.</p>
+        <p>The couple had walked to the Great Lawn and were returning home shortly before 9:30 P.M. when they were approached from behind by three men near a pedestrian tunnel at 80th Street and the East Drive, said Betsy Herzog, a Police Department spokeswoman.</p>
+        <p>One assailant pointed a pellet gun at the couple, demanding the  man's wallet and camera, she said. After the man, 32, handed them over he was ordered to lie face down on the grass as one of the attackers sexually assaulted his  wife, 30.</p>
+        <p>The attackers, described as men  18 to 20 years old, fled toward Fifth Avenue after the couple began to scream for help, the police said. Officers found a pellet gun in the vicinity.</p>
+        <p>Both victims, whose names have not been released by the police because of the nature of the crime against the woman, refused medical attention. They said that one of the attackers wore a gray T-shirt and faded blue shorts, another wore a red tank top and dark pants and the third was in a light-colored denim shirt and shorts.</p>
+        <p>Seeking to quiet any concerns that the attack might signal a more dangerous park, Deputy Commissioner Marilyn Mode said there had been an 18 percent drop in the number of major crimes committed in Central Park so far this year compared with the same period in 1997.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

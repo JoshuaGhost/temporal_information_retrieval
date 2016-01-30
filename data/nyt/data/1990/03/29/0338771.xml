@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gerald F. Wright, Engineer, 85</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="338771"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">WRIGHT, GERALD F</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D9163DF93AA15750C0A966958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gerald F. Wright, Engineer, 85</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Gerald F. Wright, a former investment counselor and consulting engineer in Manhattan, died on Tuesday at his home in Atlanta. He was 85 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Gerald F. Wright, a former investment counselor and consulting engineer in Manhattan, died on Tuesday at his home in Atlanta. He was 85 years old.</p>
+        <p>Gerald F. Wright, a former investment counselor and consulting engineer in Manhattan, died on Tuesday at his home in Atlanta. He was 85 years old.</p>
+        <p>Mr. Wright, a native of Newark, Ohio, studied at the University of Cincinnati and Purdue University before serving in the Army Air Corps. He worked for the Standard Oil Company and Kidder Peabody before starting his own business, specializing in industrial engineering. He retired to Atlanta in 1980.</p>
+        <p>A widower, he is survived by a son, Robert C., of Fairfield, Conn., president and chief executive of the National Broadcasting Company; a brother, Dale, of Biscayne Bay, Fla.; a sister, Amy Furnans of Pensacola, Fla., and three grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

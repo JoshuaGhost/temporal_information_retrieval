@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY'S SECTIONS</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="646168"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D8123EF932A05753C1A965958260" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY'S SECTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Special Today: The Magazine, Reintroduced  Section 6</p>
+        <p>The Magazine presents a fresh face and a new structure today, with expanded sections for principal articles and Style features, more color illustration and photo features and added columns. Today's centerpiece: The image game in Washington.  A Debut for Color In Travel Section 5</p>
+        <p>The special issue on Winter in the Sun, with a food column and new weekly features.  Arts and Leisure Section 2</p>
+        <p>In "Frank Sinatra Duets," an icon makes a triumphant recording comeback and closes a generation gap with a chorus of famous voices.</p>
+        <p>Book Review Section 7</p>
+        <p>Margaret Atwood's new novel "The Robber Bride"; and a special section on university presses.</p>
+        <p>Business Section 3</p>
+        <p>The departure last week of George M.C. Fisher as head of Motorola Inc. stunned the company. But he leaves Motorola firmly planted at the intersection of electronics and telecommunications.</p>
+        <p>The City Section 13*</p>
+        <p>Editorials and Op-Ed Section 4</p>
+        <p>Real Estate Section 10+</p>
+        <p>With space easier to find, health clubs are flexing their muscles.</p>
+        <p>Regional Weeklies Section 13</p>
+      </block>
+      <block class="full_text">
+        <p>Special Today: The Magazine, Reintroduced  Section 6</p>
+        <p>The Magazine presents a fresh face and a new structure today, with expanded sections for principal articles and Style features, more color illustration and photo features and added columns. Today's centerpiece: The image game in Washington.  A Debut for Color In Travel Section 5</p>
+        <p>The special issue on Winter in the Sun, with a food column and new weekly features.  Arts and Leisure Section 2</p>
+        <p>In "Frank Sinatra Duets," an icon makes a triumphant recording comeback and closes a generation gap with a chorus of famous voices.</p>
+        <p>Book Review Section 7</p>
+        <p>Margaret Atwood's new novel "The Robber Bride"; and a special section on university presses.</p>
+        <p>Business Section 3</p>
+        <p>The departure last week of George M.C. Fisher as head of Motorola Inc. stunned the company. But he leaves Motorola firmly planted at the intersection of electronics and telecommunications.</p>
+        <p>The City Section 13*</p>
+        <p>Editorials and Op-Ed Section 4</p>
+        <p>Real Estate Section 10+</p>
+        <p>With space easier to find, health clubs are flexing their muscles.</p>
+        <p>Regional Weeklies Section 13</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

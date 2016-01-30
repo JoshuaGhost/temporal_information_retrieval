@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436492"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D71430F933A25757C0A967958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baseball</p>
+        <p>BALTIMORE (AL) -- Signed Kevin Hickey, pitcher, to a one-year contract with Hagerstown of the Eastern League. Football</p>
+        <p>KANSAS CITY (AFC) -- Signed Steve Pelluer, quarterback, to a two-year contract.</p>
+        <p>PITTSBURGH (AFC) -- Signed Dan Stryzinski, punter.  SACRAMENTO (WLAF) -- Waived Ben Bennett, quarterback. Signed Todd Ellis, quarterback, and assigned him to the practice squad. Colleges</p>
+        <p>KENTUCKY -- Named John Cropp tight-ends coach and administrative assistant.</p>
+        <p>MISSISSIPPI STATE -- Announced the resignation of Ron Polk, baseball coach, effective at the end of the season so he can take the position of executive director of the American Baseball Coaches Association.</p>
+        <p>NAZARETH -- Named Charles Salamone women's soccer coach.</p>
+        <p>TEXAS A&amp;M -- Named Tony Barone men's basketball coach.</p>
+        <p>WASHINGTON STATE -- Signed Kelvin Sampson, men's basketball coach, to a seven-year contract extension.</p>
+      </block>
+      <block class="full_text">
+        <p>Baseball</p>
+        <p>BALTIMORE (AL) -- Signed Kevin Hickey, pitcher, to a one-year contract with Hagerstown of the Eastern League. Football</p>
+        <p>KANSAS CITY (AFC) -- Signed Steve Pelluer, quarterback, to a two-year contract.</p>
+        <p>PITTSBURGH (AFC) -- Signed Dan Stryzinski, punter.  SACRAMENTO (WLAF) -- Waived Ben Bennett, quarterback. Signed Todd Ellis, quarterback, and assigned him to the practice squad. Colleges</p>
+        <p>KENTUCKY -- Named John Cropp tight-ends coach and administrative assistant.</p>
+        <p>MISSISSIPPI STATE -- Announced the resignation of Ron Polk, baseball coach, effective at the end of the season so he can take the position of executive director of the American Baseball Coaches Association.</p>
+        <p>NAZARETH -- Named Charles Salamone women's soccer coach.</p>
+        <p>TEXAS A&amp;M -- Named Tony Barone men's basketball coach.</p>
+        <p>WASHINGTON STATE -- Signed Kelvin Sampson, men's basketball coach, to a seven-year contract extension.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gas Prices Increase in New York Region as They Fall in Rest of U.S.</title>
+    <meta content="16GAS.$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/16/nyregion/16gas.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1680648"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Bureau of Labor Statistics</org>
+        <org class="online_producer">Federal Reserve Bank of New York</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4DF173BF935A25755C0A9639C8B63" item-length="590" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gas Prices Increase in New York Region as They Fall in Rest of U.S.</hl1>
+        <hl2 class="online_headline">Gas Prices Rise in New York as They Fall in Rest of U.S.</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER STEINHAUER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gasoline prices in the New York region hit a 27-year high last month, according to the federal government. Like so many economic trends, the price increase placed the city out of sync with the rest of the nation, where gas prices fell slightly last month after a year of startling increases.</p>
+        <p>Retail prices in the New York area fell .5 percent in May. The price New Yorkers paid to stay overnight in other cities dropped, pushing housing prices down 1.3 percent last month compared with May 2004. (In figuring the cost of shelter, the federal government includes how much New Yorkers spend on out-of-town lodging.)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The price increase is gas placed the city out of sync with the rest of the nation where prices are declining.</p>
+      </block>
+      <block class="full_text">
+        <p>Gasoline prices in the New York region hit a 27-year high last month, according to the federal government. Like so many economic trends, the price increase placed the city out of sync with the rest of the nation, where gas prices fell slightly last month after a year of startling increases.</p>
+        <p>Retail prices in the New York area fell .5 percent in May. The price New Yorkers paid to stay overnight in other cities dropped, pushing housing prices down 1.3 percent last month compared with May 2004. (In figuring the cost of shelter, the federal government includes how much New Yorkers spend on out-of-town lodging.)</p>
+        <p>But falling out-of-town lodging prices were offset by increases in the cost of rent, clothing and other items. And the biggest increase was at the gas pump.</p>
+        <p>In May, gas prices in the region rose 11.8 percent over the same month a year ago, to the highest level since the Bureau of Labor Statistics began tracking gas prices in the area in 1978. Gas prices in the region rose .6 percent from April to May alone, while dropping 2.9 percent nationally during that same period, possibly signaling that New Yorkers have not felt the level of sticker shock at the pump that has hit other Americans over the last 18 months.</p>
+        <p>''The rise in gas prices in the city started later, and the increases were initially not as great,'' said Michael L. Dolfman, regional commissioner of the Bureau of Labor Statistics, which oversees the Consumer Price Index, a measure of consumer spending for a variety of goods and services. ''What we might be seeing now is catch-up.''</p>
+        <p>The Consumer Price Index, which is not seasonally adjusted, measures spending in New York City and northern New Jersey. Overall consumer prices have risen 3.4 percent since January, according to the index.</p>
+        <p>''The month-to-month movements tend to be erratic,'' said Jason Bram, a regional economist with the Federal Reserve Bank of New York.</p>
+        <p>In May, New Yorkers continued to hit the streets in search of four walls and a window, and real estate remained a sellers' market. For instance, rents on primary residences rose 4.5 percent in May compared with May 2004, and 5.3 percent in New York City alone. Prices for housing sales rose 4.1 percent in the region from May 2004 to May 2005.</p>
+        <p>The commercial real estate market remained especially sinewy in Midtown Manhattan and northern New Jersey, according to the Federal Reserve, which released its own report yesterday on the region's economy.</p>
+        <p>But the bank noted weaknesses in the local economy. For instance, rainy days and cold nights hampered retailers, who reported disappointing sales for May. ''People were trying to sell bathing suits when people were still looking for their sweaters,'' Mr. Bram said.</p>
+        <p>Also among the bank's findings were weaknesses in April and May in the financial sector, which tends to drive the local economy. Many firms reported weak trading volume and softening profits, and Mr. Bram said ''the concern is that hiring in the securities industry will slow in the second half of the year.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

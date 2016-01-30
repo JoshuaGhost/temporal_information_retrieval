@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Hearing On Bouncers</title>
+    <meta content="29mbrfs-2" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/29/nyregion/29mbrfs-002.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1772632"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Guards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nightclubs and Cabarets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bars</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3DB1430F93AA15755C0A9609C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Hearing On Bouncers</hl1>
+        <hl2 class="online_headline">Manhattan: Hearing on Bouncers</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW JACOBS (NYT); Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Jacobs, Andrew</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Spurred by recent cases in which club bouncers were arrested in connection with the deaths of patrons, the City Council held hearings yesterday on proposed legislation that would penalize club owners who hire unlicensed security guards or who fail to keep licensing paperwork on the premises. The measure would allow the Police Department and the Department of Consumer Affairs to close clubs or bars that violate such regulations. Bar owners testifying at the hearing said they welcomed stricter licensing for door personnel but asked that the new regulations apply only to those involved in security. The bill was prompted by three recent incidents involving security guards, including the murder last February of Imette St. Guillen, a college student. Darryl Littlejohn, a bouncer who worked at the SoHo bar that Ms. St. Guillen visited, has been charged with her murder. He has pleaded not guilty.</p>
+        <p>ANDREW JACOBS (NYT)</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Spurred by recent cases in which club bouncers were arrested in connection with the deaths of patrons, the City Council held hearings yesterday on proposed legislation that would penalize club owners who hire unlicensed security guards or who fail to keep licensing paperwork on the premises. The measure would allow the Police Department and the Department of Consumer Affairs to close clubs or bars that violate such regulations. Bar owners testifying at the hearing said they welcomed stricter licensing for door personnel but asked that the new regulations apply only to those involved in security. The bill was prompted by three recent incidents involving security guards, including the murder last February of Imette St. Guillen, a college student. Darryl Littlejohn, a bouncer who worked at the SoHo bar that Ms. St. Guillen visited, has been charged with her murder. He has pleaded not guilty.</p>
+      </block>
+      <block class="full_text">
+        <p>Spurred by recent cases in which club bouncers were arrested in connection with the deaths of patrons, the City Council held hearings yesterday on proposed legislation that would penalize club owners who hire unlicensed security guards or who fail to keep licensing paperwork on the premises. The measure would allow the Police Department and the Department of Consumer Affairs to close clubs or bars that violate such regulations. Bar owners testifying at the hearing said they welcomed stricter licensing for door personnel but asked that the new regulations apply only to those involved in security. The bill was prompted by three recent incidents involving security guards, including the murder last February of Imette St. Guillen, a college student. Darryl Littlejohn, a bouncer who worked at the SoHo bar that Ms. St. Guillen visited, has been charged with her murder. He has pleaded not guilty.</p>
+        <p>ANDREW JACOBS (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

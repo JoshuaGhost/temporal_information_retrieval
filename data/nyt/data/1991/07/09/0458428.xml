@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deal by NEC, Bull Reported as Near</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="458428"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <org class="indexing_service">COMPAGNIE DES MACHINES BULL</org>
+        <org class="indexing_service">NEC CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DA1038F93AA35754C0A967958260" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deal by NEC, Bull Reported as Near</hl1>
+      </hedline>
+      <dateline>PARIS, July 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Compagnie des Machines Groupe Bull, France's largest computer manufacturer, is planning to announce that the NEC Corporation, the Japanese electronics company, will buy a stake of about 5 percent, officials close to the talks said. An announcement is expected on Tuesday, the officials said, but no other details were provided.</p>
+        <p>Earlier this year, Groupe Bull planned to exchange NEC's 15 percent share in its foreign operations for a 5 percent stake in the parent company. NEC, which makes the largest mainframes Groupe Bull sells, obtained the stake in 1987. But France's Prime Minister, Edith Cresson, has hinted since taking office two months ago that she may block a sale, saying "such an agreement must not prevent Bull from forming other alliances."</p>
+      </block>
+      <block class="full_text">
+        <p>Compagnie des Machines Groupe Bull, France's largest computer manufacturer, is planning to announce that the NEC Corporation, the Japanese electronics company, will buy a stake of about 5 percent, officials close to the talks said. An announcement is expected on Tuesday, the officials said, but no other details were provided.</p>
+        <p>Earlier this year, Groupe Bull planned to exchange NEC's 15 percent share in its foreign operations for a 5 percent stake in the parent company. NEC, which makes the largest mainframes Groupe Bull sells, obtained the stake in 1987. But France's Prime Minister, Edith Cresson, has hinted since taking office two months ago that she may block a sale, saying "such an agreement must not prevent Bull from forming other alliances."  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

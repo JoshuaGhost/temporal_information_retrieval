@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FICTION</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="356721"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="IN SHORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">BASBANES, NICHOLAS A</person>
+        <person class="indexing_service">SAKKAS, JIM</person>
+        <object.title class="indexing_service">ILIAS (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D6173AF934A15756C0A966958260" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS A. BASBANES</byline>
+      <byline class="normalized_byline">BASBANES, NICHOLAS A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>ILIAS. By Jim Sakkas. (Salem House/Harper &amp; Row, $17.95.) The long voyage from Greece to Australia begins hopefully enough for Ilias Verginis, the title character of this first novel by a writer born in Greece who also left his native island to find a new life on the other side of the world. It is 1928, and Ilias arrives in Melbourne with a simple five-year plan: he will work hard, save money and return home to buy his own fishing boat.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>ILIAS. By Jim Sakkas. (Salem House/Harper &amp; Row, $17.95.) The long voyage from Greece to Australia begins hopefully enough for Ilias Verginis, the title character of this first novel by a writer born in Greece who also left his native island to find a new life on the other side of the world. It is 1928, and Ilias arrives in Melbourne with a simple five-year plan: he will work hard, save money and return home to buy his own fishing boat.</p>
+        <p>ILIAS. By Jim Sakkas. (Salem House/Harper &amp; Row, $17.95.) The long voyage from Greece to Australia begins hopefully enough for Ilias Verginis, the title character of this first novel by a writer born in Greece who also left his native island to find a new life on the other side of the world. It is 1928, and Ilias arrives in Melbourne with a simple five-year plan: he will work hard, save money and return home to buy his own fishing boat. This is not a triumphant story, however; good-hearted though Ilias may be, he is destined for mediocrity and frustration. He never becomes fully assimilated in the new culture, even though in time he has a devoted Australian wife and three fine children. When his grocery store fails, he moves inland to work in a timber mill, and as the years pass, like it or not, he becomes part of this foreign land. Gambling and drinking take their toll, alienate him further from his wife and provoke the inevitable separation. In ''Ilias,'' Jim Sakkas reveals another side of the immigrant experience, and he does so with admirable and deceptive simplicity. At the end, Ilias is alone but not broken, for as long as there is life, there is hope. His flaw is the flaw of many other damaged souls: ''There had been too much change for him in one lifetime.''  IN SHORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

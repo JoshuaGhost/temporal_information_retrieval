@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR234825" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1008323"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">School of Hotel Management (Cornell University)</org>
+        <org class="indexing_service">Cornell University</org>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E0D9153DF93BA35757C0A96E958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Several hundred students at Cornell University School of Hotel Management recently played host to 600 of most important people in hotel and restaurant business, many of them alumni, who make pilgrimage to Ithaca each year to scout talent at leading school of its kind in nation; weekend for students is annual trial by fire that can leapfrog career, literally before it begins, over thousands of others; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Wednesday about a weekend program for executives in the hotel and restaurant business conducted by students at the Cornell University School of Hotel Administration misstated the title of Andrew H. Tisch of the Loews Corporation, who is a graduate of the school. He is chairman of the management committee at Loews, not chairman of the corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Wednesday about a weekend program for executives in the hotel and restaurant business conducted by students at the Cornell University School of Hotel Administration misstated the title of Andrew H. Tisch of the Loews Corporation, who is a graduate of the school. He is chairman of the management committee at Loews, not chairman of the corporation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

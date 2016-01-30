@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First Union Merges Direct Marketing</title>
+    <meta content="UNION" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1009699"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">First Union Corp</org>
+        <org class="indexing_service">Hill, Holliday Direct</org>
+        <org class="indexing_service">Earle Palmer Brown</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EED71E3DF937A25757C0A96E958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First Union Merges Direct Marketing</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>First Union Corp consolidates its direct marketing account at two shops: Hill, Holliday Direct in Boston and Earle Palmer Brown Direct in Philadelphia; account, with billings estimated at $30 million, had been divided among several agencies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The First Union Corporation in Charlotte, N.C., said yesterday that it had consolidated its direct marketing account at two shops: Hill, Holliday Direct in Boston, which will serve as the lead direct marketing agency, and Earle Palmer Brown Direct in Philadelphia, which will handle projects and special assignments. The account, with billings estimated at $30 million, had been divided among several agencies.</p>
+      </block>
+      <block class="full_text">
+        <p>The First Union Corporation in Charlotte, N.C., said yesterday that it had consolidated its direct marketing account at two shops: Hill, Holliday Direct in Boston, which will serve as the lead direct marketing agency, and Earle Palmer Brown Direct in Philadelphia, which will handle projects and special assignments. The account, with billings estimated at $30 million, had been divided among several agencies.</p>
+        <p>The decision came after a four-month review that had been narrowed to Hill, Holliday Direct -- part of Hill, Holliday, Connors, Cosmopulos, a unit of the Interpublic Group of Companies -- and Earle Palmer Brown Direct. Pile &amp; Company in Boston, a consulting company, conducted the review. Hal Riney &amp; Partners in San Francisco continues handling general advertising for First Union.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

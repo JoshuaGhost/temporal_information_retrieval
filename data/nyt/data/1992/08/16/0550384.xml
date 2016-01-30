@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Wickersham, Keith Mestrich</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="550384"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">WICKERSHAM, TILNEY</person>
+        <person class="indexing_service">MESTRICH, KEITH RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE3D91539F935A2575BC0A964958260" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Wickersham, Keith Mestrich</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tilney Wickersham, the daughter of Margaret P. Wickersham of Westport, Conn., and James H. Wickersham Jr. of Southport, Conn., was married yesterday to Keith Richard Mestrich, a son of Sandra Mestrich of Coon Rapids, Minn., and Dr. Richard K. Mestrich of Andover, Minn. The Rev. Dr. Alastair Votaw performed the ceremony at Trinity Episcopal Church in Southport.</p>
+        <p>Ms. Wickersham, who is 25 years old and is keeping her name, teaches history at Alice Deal Jr. High School in Washington. She graduated cum laude from Yale University. Her father is an investment banker with Wickersham Associates in Stamford, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>Tilney Wickersham, the daughter of Margaret P. Wickersham of Westport, Conn., and James H. Wickersham Jr. of Southport, Conn., was married yesterday to Keith Richard Mestrich, a son of Sandra Mestrich of Coon Rapids, Minn., and Dr. Richard K. Mestrich of Andover, Minn. The Rev. Dr. Alastair Votaw performed the ceremony at Trinity Episcopal Church in Southport.</p>
+        <p>Ms. Wickersham, who is 25 years old and is keeping her name, teaches history at Alice Deal Jr. High School in Washington. She graduated cum laude from Yale University. Her father is an investment banker with Wickersham Associates in Stamford, Conn.</p>
+        <p>Mr. Mestrich, 25, is the director of special services for Food and Allied Service Trades in Washington. He graduated from Kalamazoo College, where he was elected to Phi Beta Kappa. His mother is a medical technician in Coon Rapids. His father is a pediatrician in Andover.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV135251" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="974968"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Eckhoff, Sally</person>
+        <person class="indexing_service">Urquhart, Jane</person>
+        <object.title class="indexing_service">Underpainter, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDE1538F930A15752C1A961958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Sally Eckhoff</byline>
+      <byline class="normalized_byline">Eckhoff, Sally</byline>
+      <abstract>
+        <p>Sally Eckhoff reviews book The Underpainter by Jane Urquhart (S)M</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Underpainter</p>
+        <p>By Jane Urquhart.</p>
+        <p>Viking, $22.95.</p>
+      </block>
+      <block class="full_text">
+        <p>The Underpainter</p>
+        <p>By Jane Urquhart.</p>
+        <p>Viking, $22.95.</p>
+        <p>As a pupil at the Art Students' League in New York, Austin Fraser decided that a good picture justified rotten behavior. That was 50 years ago; now, at 75, he's famous and a minimalist, having betrayed his Ashcan School past for something he believes to be more comfortable. Fraser has always begun every canvas with images that move him -- the luminous shores of the Great Lakes, the bourgeois knickknacks he doesn't like to talk about. But since the death of his mother, an enchantingly strange lady who strolled through Rochester's worst blizzards for fun, he can't bear the humiliation that comes with love. (Fraser never stops putting sentimental images into his work; he simply paints them out.) The artist's maltreated intimates have fascinating quirks. George, whose skill Fraser tellingly disdains, is an expert china painter. Augusta is a tormented farm girl whose nursing career leads her to morphine addiction. Only Sara, the model and mistress Fraser dumps after 15 years, fails to catch the reader's interest. Is Jane Urquhart's story, with its swooping, spacious prose and its love of landscape, an indictment of chilly modernism? This could be -- but Fraser's realist underpinnings are just as cold.</p>
+        <p>Sally Eckhoff</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dialing Up the World, With a Real Deal</title>
+    <meta content="24GFLO$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1295896"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Bellingham (Wash)</location>
+        <org class="indexing_service">Bellingham Antique Radio Museum</org>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5D7133DF937A15756C0A9679C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dialing Up the World, With a Real Deal</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>Bellingham Antique Radio Museum, Bellingham, Washington, offers Web site with radio-related historical items; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forking over a sizable sum to get the newest gadget didn't start with the computer chip. The online collection of the Bellingham Antique Radio Museum in Bellingham, Wash., has several radios made between 1900 and 1930 that would sell today for $500 to $1,000.</p>
+        <p>The museum's Web site (www.antique-radio.org) has instructions for building a crystal radio set, which is powered strictly by radio waves, and a primer, circa 1917, on electricity and the telephone, the telegraph, early batteries and electric lights.</p>
+      </block>
+      <block class="full_text">
+        <p>Forking over a sizable sum to get the newest gadget didn't start with the computer chip. The online collection of the Bellingham Antique Radio Museum in Bellingham, Wash., has several radios made between 1900 and 1930 that would sell today for $500 to $1,000.</p>
+        <p>The museum's Web site (www.antique-radio.org) has instructions for building a crystal radio set, which is powered strictly by radio waves, and a primer, circa 1917, on electricity and the telephone, the telegraph, early batteries and electric lights.</p>
+        <p>There are also links and excerpts from radio broadcasts like ''The Jack Benny Program,'' reports from the Normandy invasion, the 1926 Dempsey-Tunney fight and advertisements for White King Soap and Carter's Little Liver Pills.</p>
+        <p>SHELLY FREIERMAN</p>
+        <p>Browser  A selection of events and sites on the Web.</p>
+        <p>Events</p>
+        <p>TODAY, 4 p.m.  www.usatoday.com  A chat with David Hajdu, the author of ''Positively 4th Street: The Lives and Times of Joan Baez, Bob Dylan, Mimi Baez Fari~na and Richard Fari~na,'' a book about the singers and their circle during the 60's music scene.</p>
+        <p>SUNDAY, noon  www.indy500.com  Track the drivers as they speed around the track during the 85th edition of the Indy 500. Visitors can check on the 33 cars in the race to see their speed, race position and repair (or crash) status.</p>
+        <p>Sites</p>
+        <p>www.onlineclassics.com  A collection of streaming video of classical music, operas like Verdi's ''Traviata'' and ''Gloriana'' by Benjamin Britten, and drama and dance.</p>
+        <p>www.petrix.com\beaches\best.html  Sunscreen, a blanket, a book and a bottle of water: one person's choice of the 20 best beaches in the United States.</p>
+        <p>www.tankbooks.com  A collection of oral histories of World War II.</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

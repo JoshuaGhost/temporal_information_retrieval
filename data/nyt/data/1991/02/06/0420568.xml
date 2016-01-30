@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Goodrich's Earnings Off By 48 Percent</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="420568"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY EARNINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">GOODRICH, B F, CO</org>
+        <person class="indexing_service">HICKS, JONATHAN P</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D91438F935A35751C0A967958260" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Goodrich's Earnings Off By 48 Percent</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN P. HICKS</byline>
+      <byline class="normalized_byline">HICKS, JONATHAN P</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The B. F. Goodrich Company, a producer of plastic resins, specialty chemicals and aerospace components, said yesterday that its net income fell nearly 48 percent in the fourth quarter, as sales from some specialty chemical products were hurt by higher costs for petrochemical-based raw materials.</p>
+        <p>Goodrich said that its net income dropped to $14.1 million, or 47 cents a share, from $27 million, or 98 cents a share, in the fourth quarter of 1989. Sales for the quarter were up slightly, to $575.8 million, from $573.7 million in the period a year earlier.</p>
+      </block>
+      <block class="full_text">
+        <p>The B. F. Goodrich Company, a producer of plastic resins, specialty chemicals and aerospace components, said yesterday that its net income fell nearly 48 percent in the fourth quarter, as sales from some specialty chemical products were hurt by higher costs for petrochemical-based raw materials.</p>
+        <p>Goodrich said that its net income dropped to $14.1 million, or 47 cents a share, from $27 million, or 98 cents a share, in the fourth quarter of 1989. Sales for the quarter were up slightly, to $575.8 million, from $573.7 million in the period a year earlier.</p>
+        <p>The company, which is based in Akron, Ohio, said that its net income for all of last year dropped nearly 21 percent, to $136.3 million, or $4.95 a share, from $172.4 million, or $6.27 a share, in 1989. Sales for the year were up slightly, to $2.43 billion, from $2.42 billion in 1989. PVC Sales Drop</p>
+        <p>Goodrich is North America's largest producer of polyvinyl chloride, or PVC, plastics, which are widely used in pipes and tubing. The company said that it had reached record levels in specialty chemicals and areospace products but PVC sales for the quarter were down, to $256 million, from $265 million in the period last year, and profits from PVC plastics have deteriorated as a result of growing industry capacity.</p>
+        <p>"The economic slowdown in the United States and Canada negatively affected several important operations during the quarter," said John D. Ong, Goodrich's chairman. "The specialty chemicals and aerospace businesses will continue to expand," he said, adding that even if the plastics business improves the other areas will become the most significant contributors to the company's earnings.</p>
+        <p>The company said that its earnings were affected by higher crude oil prices, which have pushed up the costs of propane and ethylene, two chemicals used to make plastic products.  Growing Aerospace Business</p>
+        <p>Goodrich, which sold its tire business in 1988, has moved to decrease its dependence on its plastics business. In the fourth quarter, the company acquired Hercules Inc.'s aircraft and electronics group, which will increase the company's aerospace sales by about 40 percent.</p>
+        <p>Most analysts said the results were in line with expectations.</p>
+        <p>On the New York Stock Exchange yesterday, Goodrich's stock was down $1.25, closing at $42.</p>
+        <p>COMPANY EARNINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

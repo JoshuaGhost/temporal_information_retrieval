@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Intel and Synoptics in Accord on New Products</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="683777"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">JOINT VENTURES AND CONSORTIUMS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <org class="indexing_service">INTEL CORP</org>
+        <org class="indexing_service">SYNOPTICS COMMUNICATIONS INC</org>
+        <org class="indexing_service">XEROX CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6D71430F93AA15757C0A962958260" item-length="468" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Intel and Synoptics in Accord on New Products</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER,</byline>
+      <dateline>SAN FRANCISCO, April 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Intel Corporation and Synoptics Communications Inc. said today that they had a technology exchange and joint marketing agreement to introduce faster networking products.</p>
+        <p>The new products will offer a tenfold improvement in performance while maintaining compatibility with existing equipment based on the Ethernet system, the dominant technology used to link multiple personal computers across a network.</p>
+      </block>
+      <block class="full_text">
+        <p>The Intel Corporation and Synoptics Communications Inc. said today that they had a technology exchange and joint marketing agreement to introduce faster networking products.</p>
+        <p>The new products will offer a tenfold improvement in performance while maintaining compatibility with existing equipment based on the Ethernet system, the dominant technology used to link multiple personal computers across a network.</p>
+        <p>Intel said it would be the first company to sell Fast Ethernet adaptor cards, for connecting to networks, which operate at 100 megabytes a second, compared with 10 megabytes a second for current devices. The cards adhere to specifications developed by the Fast Ethernet Alliance, a consortium of networking companies. The suggested retail price will be $499 a card, or about 1.4 times the price of the slower cards. Promoting Bundled Materials</p>
+        <p>Synoptics will introduce new versions of its network hubs, which are computing devices dedicated to managing network traffic, designed to work with the Intel cards, and priced from $9,000 to $17,000. From June through August, the two companies will offer a promotional bundle, consisting of a Synoptics hub packaged with Intel cards.</p>
+        <p>"We've shared enough of our technology that the inter-operability is immediate," said Lynn Green, program manager for Synoptics. "Intel has developed a card that can automatically adjust to whatever speed our hub is working at."</p>
+        <p>As computer applications grow to include multimedia and other tasks requiring the movement of large amounts of data, Ethernet, developed by the Xerox Corporation, is hampered by its speed and its "party line" approach to sharing data, in which any message on the network goes to all the computers connected to it. Synoptics' new hubs are switchable, comparable with modern telephone systems, in that they direct messages only to the desired recipients.</p>
+        <p>Paul Johnson, an analyst with Robertson, Stephens &amp; Company, said the deal was significant because it would give Synoptics and Intel a complete solution with which to compete with the 3Com Corporation, which makes both hubs and cards.</p>
+        <p>"They're responding pretty aggressively to 3Com in this bundling deal," Mr. Johnson said. "It's certainly a psychological positive for Synoptics, and it also reflects that Intel has become more aggressive in networking."</p>
+        <p>"We think they're jumping the gun a bit," said Doug Sprang, general manager of 3Com's network adaptor division, noting that the Fast Ethernet standard would not be made final until later this year. "So while these two companies can guarantee their products will work together, they can't guarantee they will work with any others. We expect that the standard will be stable in the second half of the year and we will have product coincident with that."  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

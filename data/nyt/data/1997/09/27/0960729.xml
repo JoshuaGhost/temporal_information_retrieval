@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Federal Money for Lab</title>
+    <meta content="NJ234805" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960729"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Federal Aid (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">Plasma Physics Laboratory</org>
+        <org class="indexing_service">Princeton University</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Aid (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D8143AF934A1575AC0A961958260" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Federal Money for Lab</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>PRINCETON</dateline>
+      <abstract>
+        <p>Plasma Physics Laboratory at Princeton University was forced to shut down in Tokamak Fusion Test Reactor earlier this year and lay off 35 workers because of declining congressional support; officials at the lab say lab will get enough Federal financing during coming year to avoid further cuts (New Jersey Daily Briefing) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Plasma Physics Laboratory at Princeton University was forced to shut down its Tokamak Fusion Test Reactor earlier this year and lay off 35 workers because of declining congressional support. But the lab will get enough Federal financing during the coming year to avoid further cuts, officials at the lab said yesterday.</p>
+        <p>''It's extremely good news,'' said Rich Hawrlyuk, deputy director of the lab.</p>
+      </block>
+      <block class="full_text">
+        <p>The Plasma Physics Laboratory at Princeton University was forced to shut down its Tokamak Fusion Test Reactor earlier this year and lay off 35 workers because of declining congressional support. But the lab will get enough Federal financing during the coming year to avoid further cuts, officials at the lab said yesterday.</p>
+        <p>''It's extremely good news,'' said Rich Hawrlyuk, deputy director of the lab.</p>
+        <p>House and Senate conferees in Washington agreed to spend $232 million for the United States Department of Energy's magnetic fusion program -- the same amount as last year -- but some of it will be redirected toward the construction of a smaller, more economical reactor at Princeton, Mr. Hawrlyuk said.</p>
+        <p>The Tokamak reactor had achieved the world's highest controlled yield of fusion energy, but drew criticism from lawmakers who said it was inefficient.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

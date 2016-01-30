@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Commerce Dept. Settlement Offers Census Relief for New York;   Ineffectual Counting</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="385056"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POPULATION</classifier>
+        <classifier class="indexing_service" type="descriptor">CENSUS</classifier>
+        <org class="indexing_service">CENSUS BUREAU</org>
+        <person class="indexing_service">NEISSER, MARK</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DC1338F93AA2575AC0A966958260" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Commerce Dept. Settlement Offers Census Relief for New York;   Ineffectual Counting</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>A Sept. 3 news article describes the difficulties, resistance and lies census workers faced in New York City. My experience with the census suggests that such difficulties are not the only reason for undercounts. The apathetic and ineffectual census that I experienced would guarantee undercounts across the country. I live in a suburban-type development of the sort that ought to be easy to count. Nonetheless, the census bureau failed to find me despite two phone calls from me. I made the first when I had not received a census form in the mail. The responder told me the first mailing had missed some people, but I should receive a form soon when they mailed out a second batch. He wouldn't take my name and address.</p>
+        <p>I called again when it was clear a form was not coming. This time it was too late to send a form; I should wait for an enumerator. At least the responder took my name and address, but acted as if it were a bother. An enumerator never came. I finally filled in a form from the local newspaper and sent it in, so maybe I was counted after all. Everyone I talked to on the phone acted as if the system would guarantee a good count without any effort on their parts. That's almost never the case, even with a good system.</p>
+        <p>Such an attitude probably results from poor management or a severe lack of people to do the job. Either way, the 1990 census is not one that I would count on.</p>
+        <p>MARK NEISSER</p>
+        <p>Wappingers Falls, N.Y., Sept. 3, 1990</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

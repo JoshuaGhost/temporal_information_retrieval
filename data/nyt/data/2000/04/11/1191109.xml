@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="11INSI$05" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1191109"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E4D7143EF932A25757C0A9669C8B63" item-length="356" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chancellor May Stay On  The interim schools chancellor, Harold O. Levy, is expected to seek the job permanently and appears to be the front-runner. PAGE BI</p>
+      </block>
+      <block class="full_text">
+        <p>Chancellor May Stay On  The interim schools chancellor, Harold O. Levy, is expected to seek the job permanently and appears to be the front-runner. PAGE BI</p>
+        <p>Easing Grip on Elian  Cuban-Americans in Miami appeared to concede that they had lost the battle to keep Elian Gonzalez from his father. PAGE A22</p>
+        <p>Seoul Relieved, but Wary  There was a wide range of emotions as South Koreans learned of plans for the first summit meeting with the Communist North.  PAGE A6</p>
+        <p>Disputing Use of Vitamins  A new report says there is no evidence that large doses of vitamins C and E and other antioxidants can prevent chronic disease. PAGE A20</p>
+        <p>Stadium Opener Postponed  The Yanks have called off today's home opener against Texas and rescheduled it for 1:05 p.m. tomorrow. SPORTSTUESDAY, PAGE D2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

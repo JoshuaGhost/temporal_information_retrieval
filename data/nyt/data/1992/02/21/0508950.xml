@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perez's Arrival? On Time</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="508950"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">NEW YORK YANKEES</org>
+        <person class="indexing_service">PEREZ, PASCUAL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED81431F932A15751C0A964958260" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perez's Arrival? On Time</hl1>
+      </hedline>
+      <dateline>FORT LAUDERDALE, Fla., Feb. 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brace yourself. There is a chance that Yankee pitcher Pascual Perez, who has turned his tardiness for spring training into an art form, might arrive on time this year.</p>
+        <p>General Manager Gene Michael and Manager Buck Showalter said today that Perez, late for each of his first two springs with the team, is expected for the first workout for pitchers and catchers Friday. Showalter also said he believed that Perez had completed the necessary paperwork for acquiring a visa and a waiver to leave the Dominican Republic, where he lives. But Michael, after saying earlier that he was hopeful Perez would be on time, later said he had no recourse if he wasn't. "Why get upset?" he said.</p>
+      </block>
+      <block class="full_text">
+        <p>Brace yourself. There is a chance that Yankee pitcher Pascual Perez, who has turned his tardiness for spring training into an art form, might arrive on time this year.</p>
+        <p>General Manager Gene Michael and Manager Buck Showalter said today that Perez, late for each of his first two springs with the team, is expected for the first workout for pitchers and catchers Friday. Showalter also said he believed that Perez had completed the necessary paperwork for acquiring a visa and a waiver to leave the Dominican Republic, where he lives. But Michael, after saying earlier that he was hopeful Perez would be on time, later said he had no recourse if he wasn't. "Why get upset?" he said.</p>
+        <p>Among those appearing today was pitcher Brien Taylor, last year's top amateur draft choice, who arrived with his father and brother after a two-day drive from their home in Beaufort, N.C. Taylor is expected to play this season for the Class A Fort Lauderdale Yankees.</p>
+        <p>The Yankees also took care of some business, agreeing to a one-year contract with relief pitcher Lee Guetterman and avoiding arbitration. Guetterman, 3-4 last season with 6 saves, signed for $1.6 million after asking for $1,895,000. The Yankees had offered $1.3 million.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

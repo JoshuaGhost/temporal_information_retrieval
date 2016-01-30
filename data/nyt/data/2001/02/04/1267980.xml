@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction; A Riefenstahl Anthology</title>
+    <meta content="RV132447" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1267980"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Loos, Ted</person>
+        <person class="indexing_service">Riefenstahl, Leni</person>
+        <object.title class="indexing_service">Leni Riefenstahl: Five Lives (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DE153FF937A35751C0A9679C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction; A Riefenstahl Anthology</hl1>
+      </hedline>
+      <byline class="print_byline">By Ted Loos</byline>
+      <byline class="normalized_byline">Loos, Ted</byline>
+      <abstract>
+        <p>Ted Loos reviews book Leni Riefenstahl: Five Lives; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Is it possible to look at the work of Leni Riefenstahl and not see only Nazi propaganda? If there is a chance for her pictures to stand relatively unfiltered, it is presented in LENI RIEFENSTAHL: Five Lives (Taschen, $39.99), a collection of stunning photographs of and by one of the 20th century's defining image makers. Riefenstahl was born in Berlin in 1902, and she gained early fame as a ballet dancer, then as a movie actress. She created her own film company before she was 30, and had a hit directing herself in ''The Blue Light'' in 1932 -- the same year she wrote a fan letter to Hitler. Her collaboration with Hitler got her on the cover of Newsweek and produced ''Triumph of the Will'' (1935). Once Germany was defeated and the Fhrer dead, Riefenstahl was arrested and her archives seized. Amazingly, after winning her legal battles she somewhat overcame the Nazi stigma with new work, particularly photographs of the Nuba tribe in Sudan. Of all her work, the stills from her documentary about the 1936 Olympic Games in Berlin stand out for their dynamism and epic compositions. Though this is intended as a picture book, it contains a year-by-year chronology that is essential to comprehend the constant boldness of Riefenstahl's transformations. She was at work as recently as 1999, which may make her own will the most triumphant of all.</p>
+        <p>Ted Loos</p>
+      </block>
+      <block class="full_text">
+        <p>Is it possible to look at the work of Leni Riefenstahl and not see only Nazi propaganda? If there is a chance for her pictures to stand relatively unfiltered, it is presented in LENI RIEFENSTAHL: Five Lives (Taschen, $39.99), a collection of stunning photographs of and by one of the 20th century's defining image makers. Riefenstahl was born in Berlin in 1902, and she gained early fame as a ballet dancer, then as a movie actress. She created her own film company before she was 30, and had a hit directing herself in ''The Blue Light'' in 1932 -- the same year she wrote a fan letter to Hitler. Her collaboration with Hitler got her on the cover of Newsweek and produced ''Triumph of the Will'' (1935). Once Germany was defeated and the Fhrer dead, Riefenstahl was arrested and her archives seized. Amazingly, after winning her legal battles she somewhat overcame the Nazi stigma with new work, particularly photographs of the Nuba tribe in Sudan. Of all her work, the stills from her documentary about the 1936 Olympic Games in Berlin stand out for their dynamism and epic compositions. Though this is intended as a picture book, it contains a year-by-year chronology that is essential to comprehend the constant boldness of Riefenstahl's transformations. She was at work as recently as 1999, which may make her own will the most triumphant of all.</p>
+        <p>Ted Loos</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

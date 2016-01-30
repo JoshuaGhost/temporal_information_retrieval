@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>American Being Tried In a West Bank Court</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="24690"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PALESTINIANS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ISRAELI SETTLEMENTS (OCCUPIED TERRITORIES)</classifier>
+        <location class="indexing_service">MIDDLE EAST</location>
+        <location class="indexing_service">ISRAEL, STATE OF</location>
+        <location class="indexing_service">JORDAN RIVER (WEST BANK)</location>
+        <org class="indexing_service">BIR ZEIT COLLEGE</org>
+        <person class="indexing_service">HEACOCK, ROGER L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Jordan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Palestinian Authority</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Jordan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/West Bank</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palestinians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DE1F3BF935A15750C0A961948260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>American Being Tried In a West Bank Court</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>RAMALLAH, Israeli-Occupied West Bank, March 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An Israeli Army officer testified in a military court today that he saw Roger L. Heacock, an American professor accused of incitement, at a protest here on Feb. 16.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An Israeli Army officer testified in a military court today that he saw Roger L. Heacock, an American professor accused of incitement, at a protest here on Feb. 16.</p>
+        <p>An Israeli Army officer testified in a military court today that he saw Roger L. Heacock, an American professor accused of incitement, at a protest here on Feb. 16.</p>
+        <p>Mr. Heacock, a 44-year-old history teacher at Bir Zeit University, is charged with leading a Palestinian march and inciting shopkeepers.</p>
+        <p>Maj. Kenaan Yemini, an officer who arrested Mr. Heacock, said he saw the professor that morning, ''talking to the storekeepers.''</p>
+        <p>Mr. Heacock, who took the stand in his own defense, denied inciting the unrest. Describing his actions, he said he had encountered the protesting women and approached them in order to read the placards they were carrying.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Computer Network Is Faster</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="151703"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">SCIENTIFIC COMPUTER SYSTEMS</org>
+        <person class="indexing_service">MARKOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DA113BF935A35755C0A96E948260" item-length="406" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Computer Network Is Faster</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">MARKOFF, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A California manufacturer of high-speed computers used by scientists and engineers is expected to announce today a significantly faster computer network that it says will help end the communications bottleneck confronting supercomputers.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A California manufacturer of high-speed computers used by scientists and engineers is expected to announce today a significantly faster computer network that it says will help end the communications bottleneck confronting supercomputers.</p>
+        <p>A California manufacturer of high-speed computers used by scientists and engineers is expected to announce today a significantly faster computer network that it says will help end the communications bottleneck confronting supercomputers.</p>
+        <p>The Scientific Computer Systems Corporation of San Diego will introduce Vectornet, a local area network that passes information between computers at 1.4 billion bits a second. Local area networks are cabling systems that permit computers to exchange data with other machines.</p>
+        <p>The new network transfers information 140 times faster than Ethernet, an existing network standard for office computing, and 14 times faster than the recently introduced Fiber Digital Data Interface, a competing supercomputer network standard.</p>
+        <p>The new network could transfer the contents of an encyclopedia in under three seconds, the company said. Need Called Desperate</p>
+        <p>''For the supercomputers we have today we desperately need faster networks,'' said Gordon Bell, vice president of research at the Ardent Computer Corporation of Sunnyvale, Calif., which makes a computer work station used by engineers and scientists.</p>
+        <p>According to computer scientists, faster local area networks are needed by supercomputers because computer speed has dramatically outstripped in the last decade the ability of computers to transfer information.</p>
+        <p>''The ability to get data in and out and around a multivendor network is the big stumbling block for scientific and engineering computing centers,'' said Jeffry Canin, an analyst at Hambrecht &amp; Quist, a San Francisco investment firm.</p>
+        <p>Researchers are also interested in displaying information on high-resolution color monitors as a means of coping with the vast amounts of data generated by supercomputers. 'Age of Visualization'</p>
+        <p>''This is becoming increasingly important as we enter the age of visualization,'' said Grego Kosinski, an industry analyst at Dataquest, a San Jose, Calif., market research firm. ''It has been hampered by the fact that there aren't fast enough ways to send data between computers and screens today.''</p>
+        <p>Companies like Ardent, Silicon Graphics Inc. and Stellar Computer Inc. make advanced work stations designed to display graphically the output from supercomputers made by Cray Research Inc. and slightly less powerful machines, known as minisupercomputers, made by companies like Scientific Computer and the Convex Computer Corporation.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

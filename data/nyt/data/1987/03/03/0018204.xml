@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEBENTURES ISSUED BY HOSPITAL CORP.</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="18204"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="FINANCE/NEW ISSUES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CORPORATE BONDS</classifier>
+        <org class="indexing_service">HOSPITAL CORP OF AMERICA</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D91639F930A35750C0A961948260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEBENTURES ISSUED BY HOSPITAL CORP.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Hospital Corporation of America is offering $200 million of 8 1/2 percent, 30-year sinking-fund debentures at 97.36 to yield 8.75 percent, with underwriters led by Salomon Brothers.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Hospital Corporation of America is offering $200 million of 8 1/2 percent, 30-year sinking-fund debentures at 97.36 to yield 8.75 percent, with underwriters led by Salomon Brothers.</p>
+        <p>The Hospital Corporation of America is offering $200 million of 8 1/2 percent, 30-year sinking-fund debentures at 97.36 to yield 8.75 percent, with underwriters led by Salomon Brothers.</p>
+        <p>Rated A-2 by Moody's and A by S.&amp;P., the issue yields about 1.15 percentage points more than 30-year Treasury bonds.</p>
+        <p>Sinking-fund payments beginning in 1998 will retire 5 percent of the issue annually but may be increased at the company's option. Depending on the size of these payments, the debentures' average life will range from 20.5 years to 13.9 years.</p>
+        <p>FINANCE/NEW ISSUES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

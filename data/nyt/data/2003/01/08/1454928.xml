@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>M.L.S. Releases Team Schedules</title>
+    <meta content="PL025926" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1454928"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="PLUS: SOCCER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Soccer</classifier>
+        <org class="indexing_service">Metrostars</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DB133EF93BA35752C0A9659C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>M.L.S. Releases Team Schedules</hl1>
+      </hedline>
+      <byline class="print_byline">By Jack Bell</byline>
+      <abstract>
+        <p>MetroStars release their 2003 Major League Soccer Schedule (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The MetroStars released their 2003 Major League Soccer schedule and will play 12 of their 15 home games on Saturdays and Sundays.</p>
+        <p>The 10-team league has increased the number of regular-season games to 30, from 28, and extended the length of the regular season. The season will start April 5 with a match between last season's champion, the Los Angeles Galaxy, and the defending U.S. Open Cup winner, the Columbus Crew. The regular season will end Oct. 26.</p>
+      </block>
+      <block class="full_text">
+        <p>The MetroStars released their 2003 Major League Soccer schedule and will play 12 of their 15 home games on Saturdays and Sundays.</p>
+        <p>The 10-team league has increased the number of regular-season games to 30, from 28, and extended the length of the regular season. The season will start April 5 with a match between last season's champion, the Los Angeles Galaxy, and the defending U.S. Open Cup winner, the Columbus Crew. The regular season will end Oct. 26.</p>
+        <p>The championship match is scheduled for Nov. 23 at the Galaxy's new stadium, Home Depot Center, in Carson, Calif.</p>
+        <p>The Galaxy will begin the season with eight straight road games while its new facility, on the campus of Cal State at Dominguez Hills, is completed. The stadium will also be the site of the league's eighth All-Star Game, on a date to be determined.</p>
+        <p>The MetroStars will play five of their first seven matches, and 8 of their first 13, at Giants Stadium. The club will have two home games in June, one in July and two in August. One of those games, against Kansas City on Aug. 13, a Wednesday, will start at noon.</p>
+        <p>Jack Bell</p>
+        <p>FIRE TRADES WOLFF TO WIZARDS: Josh Wolff, a key member of the United States World Cup team, was traded from the Chicago Fire to the Kansas City Wizards yesterday because of budget restrictions. In exchange for Wolff, the Fire received the Wizards' first-round pick in the Jan. 17 draft, the No. 3 selection over all.</p>
+        <p>Wolff signed a four-year extension before the World Cup worth at least $1.08 million. M.L.S. also has an option that can extend the contract through 2008. But that new deal, coupled with a knee injury expected to sideline Wolff until at least April, is more than the Fire can afford. (AP)</p>
+        <p>PLUS: SOCCER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

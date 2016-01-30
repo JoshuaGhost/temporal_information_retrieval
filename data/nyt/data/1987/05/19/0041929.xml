@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Limited to Sell Men's Clothing</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="41929"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <classifier class="indexing_service" type="descriptor">RETAIL STORES AND TRADE</classifier>
+        <org class="indexing_service">LIMITED INC, THE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DC1E31F93AA25756C0A961948260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Limited to Sell Men's Clothing</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>COLUMBUS, Ohio, May 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Limited, one of the nation's largest retailers of women's clothing, said today that it would enter the men's retail clothing market for the first time later this year.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Limited, one of the nation's largest retailers of women's clothing, said today that it would enter the men's retail clothing market for the first time later this year.</p>
+        <p>The Limited, one of the nation's largest retailers of women's clothing, said today that it would enter the men's retail clothing market for the first time later this year.</p>
+        <p>At the company's annual stockholders meeting, Leslie H. Wexner, chairman, said the new line of men's apparel would be distributed through 15 Express Man stores, the first of which will open later this year.</p>
+        <p>Mr. Wexner said in the past that he was not interested in selling men's clothing. But he said store managers had reported increasing business from men shopping in women's apparel stores for items for themselves, such as sweaters.</p>
+        <p>''We changed our minds, and the change was driven by our customers,'' he said.</p>
+        <p>The company's stores include The Limited, Limited Express, Lerners, Lane Bryant and Henri Bendel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

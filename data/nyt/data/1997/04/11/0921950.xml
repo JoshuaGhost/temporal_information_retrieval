@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Palmer Saluted In Round of 89</title>
+    <meta content="11LINK$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="GOLF" name="column_name"/>
+    <docdata>
+      <doc-id id-string="921950"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="GOLF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Masters Golf Tournament</classifier>
+        <person class="indexing_service">Palmer, Arnold</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Masters Golf Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E6D7133CF932A25757C0A961958260" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Palmer Saluted In Round of 89</hl1>
+      </hedline>
+      <dateline>AUGUSTA, Ga., April 10</dateline>
+      <abstract>
+        <p>Arnold Palmer is saluted at Masters after finishing 18th hole; shoots an 89, 15 over par; he makes it to his 43d Masters, three months after surgery for prostate cancer (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>He walked slowly up the hill at the 18th green today, doffing his visor to the swelling applause from the gallery that rose as one to salute him. Most eyes were averted from the scoreboard that held his score -- ''A. Palmer +15'' -- and instead focused on Arnold Palmer as he waved and smiled. It didn't matter when he double-bogeyed 18 for an 89.</p>
+        <p>His presence was enough. Palmer, 67, who made it to his 43d Masters three months after undergoing surgery for prostate cancer, shot the highest round of the day.</p>
+      </block>
+      <block class="full_text">
+        <p>He walked slowly up the hill at the 18th green today, doffing his visor to the swelling applause from the gallery that rose as one to salute him. Most eyes were averted from the scoreboard that held his score -- ''A. Palmer +15'' -- and instead focused on Arnold Palmer as he waved and smiled. It didn't matter when he double-bogeyed 18 for an 89.</p>
+        <p>His presence was enough. Palmer, 67, who made it to his 43d Masters three months after undergoing surgery for prostate cancer, shot the highest round of the day.</p>
+        <p>''I didn't play well at all,'' he said, ''but I'm glad to be playing at all. It's a lot better to be looking down at the grass than looking up at it.''</p>
+        <p>Palmer's score was the highest he has shot in his 136 rounds at Augusta.</p>
+        <p>GOLF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

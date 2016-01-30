@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Five Goals And a Baby</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="839605"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <org class="indexing_service">PITTSBURGH PENGUINS</org>
+        <org class="indexing_service">ST LOUIS BLUES PITTSBURGH PENGUINS</org>
+        <org class="indexing_service">ST LOUIS BLUES</org>
+        <person class="indexing_service">LEMIEUX, MARIO MARIO LEMIEUX</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Pittsburgh Penguins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/St. Louis Blues</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE3DD1539F934A15750C0A960958260" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Five Goals And a Baby</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PITTSBURGH, March 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mario Lemieux had five goals and two assists to dominate his first game against Wayne Gretzky in more than three years and lead the Pittsburgh Penguins  to an 8-4 victory over the St. Louis Blues tonight.</p>
+        <p>Lemieux, playing his first game since his wife delivered a baby on Sunday, got his sixth hat trick of the season and 37th of his career. It was his third five-goal game.</p>
+      </block>
+      <block class="full_text">
+        <p>Mario Lemieux had five goals and two assists to dominate his first game against Wayne Gretzky in more than three years and lead the Pittsburgh Penguins  to an 8-4 victory over the St. Louis Blues tonight.</p>
+        <p>Lemieux, playing his first game since his wife delivered a baby on Sunday, got his sixth hat trick of the season and 37th of his career. It was his third five-goal game.</p>
+        <p>Lemieux's wife, Nathalie, gave birth to their third child on Sunday. The 2-pound-5-ounce boy was three months early and is expected to remain on a respirator for a few days.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

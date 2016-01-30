@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Memorable Cab Ride</title>
+    <meta content="L14TAX$05" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1543014"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxicabs and Taxicab Drivers</classifier>
+        <classifier class="indexing_service" type="descriptor">World War II (1939-45)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Goldstein, Sam</person>
+        <person class="indexing_service">Smith, Dudley C</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">World War II (1939-45)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxicabs and Taxicab Drivers</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDD153CF937A25751C1A9659C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Memorable Cab Ride</hl1>
+      </hedline>
+      <abstract>
+        <p>Dudley C Smith letter warmly recalls conversation with veteran New York City cab driver Sam Goldstein, who thanked Smith's wife for her work as a nurse helping displaced people like himself after World War II</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Dec. 7 front-page article about Sam Goldstein, a taxi driver (''46 Years in Cab, Recalling That Tip From Marilyn''), brought back a warming memory.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Dec. 7 front-page article about Sam Goldstein, a taxi driver (''46 Years in Cab, Recalling That Tip From Marilyn''), brought back a warming memory.</p>
+        <p>Two years ago almost to the day, blustery and cold in early evening, this same Sam Goldstein drove us from J.F.K. to our Manhattan place on 52nd Street.</p>
+        <p>During the ride, Sam and my wife shared stories of postwar Germany. In 1947, he was a youth housed in the United Nations Relief and Rehabilitation Administration camp in Zeilsheim, Germany, where she served as a Belgian nurse for U.N.R.R.A., caring for displaced persons. It is all but certain that they must have met then and there.</p>
+        <p>Sam did not just drop us off when we arrived. Braving wind and snow and snarling traffic, he walked to the curb where she was standing, embraced her suddenly and said, ''Thank you for saving my life.''</p>
+        <p>It was a beautiful moment that Liliane and I remember vividly.</p>
+        <p>DUDLEY C. SMITH  New York, Dec. 7, 2003</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

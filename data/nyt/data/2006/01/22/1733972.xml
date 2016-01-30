@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Battle Is Focused On a Single Pivotal Pawn</title>
+    <meta content="22chess" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/22/crosswords/chess/22chess.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1733972"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Chess"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DF133FF931A15752C0A9609C8B63" item-length="570" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Battle Is Focused On a Single Pivotal Pawn</hl1>
+        <hl2 class="online_headline">When the Battle Is Focused on a Single Pivotal Pawn</hl2>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chess is noted for producing attacks on opposite wings, but even when the strategy is straight up and down a file, it is often unclear who has the advantage. That can be true even when both sides are concentrating their forces on the same terrain.</p>
+        <p>The game contested by the grandmasters Evgeny Bareyev and Peter Svidler in the ninth round of the Superfinal of the 2005 Russian Championship in Moscow is a case in point. After 9 d5 e6 10 O-O ed 11 ed, White had a passed d pawn, with no enemy pawn blocking its path of advance. Its threat was to proceed to the eighth rank and become a queen or to force a ruinous loss of material.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Chess is noted for producing attacks on opposite wings, but even when the strategy is straight up and down a file, it is often unclear who has the advantage.</p>
+      </block>
+      <block class="full_text">
+        <p>Chess is noted for producing attacks on opposite wings, but even when the strategy is straight up and down a file, it is often unclear who has the advantage. That can be true even when both sides are concentrating their forces on the same terrain.</p>
+        <p>The game contested by the grandmasters Evgeny Bareyev and Peter Svidler in the ninth round of the Superfinal of the 2005 Russian Championship in Moscow is a case in point. After 9 d5 e6 10 O-O ed 11 ed, White had a passed d pawn, with no enemy pawn blocking its path of advance. Its threat was to proceed to the eighth rank and become a queen or to force a ruinous loss of material.</p>
+        <p>But Black had his own threat. He wanted to prove that the d pawn had overextended itself and become vulnerable. If he could win it, he would be a pawn ahead -- usually enough to win. So the stakes were high, and early in the game it was not plain who would prevail. Bareyev did not start to demonstrate his winning situation until the last quarter of the play.</p>
+        <p>In doing so, he expanded his tactics to include a mating attack, so he was really attacking in two locations simultaneously: the passed-pawn attack and a diversionary attack to overload the black defenses.</p>
+        <p>A very nice job by Bareyev.</p>
+        <p>The move 5 Qb3 introduces the Russian System against the Gruenfeld Defense. After 7  Na6, the Prins version arises; its purpose is to hit the white center with 8  c5, as with almost all Gruenfeld counterattacks.</p>
+        <p>After 8 Be2 c5, White would be ill advised to get a pawn with 9 dc because 9  Be6 10 Qb5 Rc8 11 Qb7 Nc5 12 Qa7 Rc7 13 Qa3 Nd3 14 Bd3 Qd3 15 Be3 Ng4 16 Rd1 Ne3! would be strong for Black.</p>
+        <p>In fact, 9 d5, which Bareyev chose, was the only way for White to play for advantage. After 9  e6 10 O-O ed 11 ed, the white d pawn was isolated, but it was advanced and it cramped the black formation. The game would be decided on whether Black could demonstrate that the pawn was weak or White rammed it on through.</p>
+        <p>After 13 Bg5 h6 14 Bf6 Bf6, Bareyev had conceded the bishop pair to his opponent, and the sequel would show that it was a good idea, even if it looked unorthodox.</p>
+        <p>After 22 a3, Svidler decided he should exchange off the c3 knight because it would be give strong support to the d6 pawn at b5.</p>
+        <p>After 31 Qa2, it was clear that Bareyev had the upper hand and was just figuring the right moment for an h4 and h5 attack against the black king. Meanwhile, Svidler was almost in Zugzwang.</p>
+        <p>After 37 Rd6, Svidler gave up. He must have seen that he had no recourse against 37  Rd6 38 Rd6 Nf5 39 Rd2 Nd4 40 Rd4! cd 41 Qd4 Rc7 42 Qd5.</p>
+        <p>Chess</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'3-D Word Hunt'</title>
+    <meta content="LTR094203" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1686053"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EFDF163DF933A25754C0A9639C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'3-D Word Hunt'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As the Sunday puzzle is a welcome oasis of relaxation in a stressful week, I was delighted to have found ''oases'' in your ''3-D Word Hunt.''</p>
+        <p>Bennett Freeman  Manchester, N.H.</p>
+      </block>
+      <block class="full_text">
+        <p>As the Sunday puzzle is a welcome oasis of relaxation in a stressful week, I was delighted to have found ''oases'' in your ''3-D Word Hunt.''</p>
+        <p>Bennett Freeman  Manchester, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

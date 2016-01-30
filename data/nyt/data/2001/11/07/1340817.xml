@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Briefing | Internet: Yahoo Revises Auction Fees</title>
+    <meta content="MB005434" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1340817"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Yahoo Inc</org>
+        <person class="indexing_service">Gaither, Chris</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E1D91039F934A35752C1A9679C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Briefing | Internet: Yahoo Revises Auction Fees</hl1>
+      </hedline>
+      <byline class="print_byline">By Chris Gaither (NYT) (Compiled by Alan Krauss)</byline>
+      <byline class="normalized_byline">Gaither, Chris</byline>
+      <abstract>
+        <p>Yahoo Inc intends to change way its charges sellers on its auction site in effort to discourage frivolous postings (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Continuing its effort to squeeze revenue out of customers who once used its services free, Yahoo said it intended to change the way it charges sellers on its auction site. In January, to discourage frivolous postings on its auction site, Yahoo imposed fees of 20 cents to $2.25 for each item listed. Starting Nov. 20, sellers will pay only 5 to 75 cents to list their goods, but Yahoo will add a transaction fee. The company will charge sliding fees ranging from 2 percent for items selling for less than $25, plus 1 percent of the next $975, and 0.5 percent of the amount above $1,000. The pricing model, which Yahoo said customers had requested, more closely resembles that of the company's larger auctions rival, eBay. Yahoo said its changes had improved the percentage of auctions that close, to 31 percent from less than 10 percent.</p>
+        <p>Chris Gaither (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Continuing its effort to squeeze revenue out of customers who once used its services free, Yahoo said it intended to change the way it charges sellers on its auction site. In January, to discourage frivolous postings on its auction site, Yahoo imposed fees of 20 cents to $2.25 for each item listed. Starting Nov. 20, sellers will pay only 5 to 75 cents to list their goods, but Yahoo will add a transaction fee. The company will charge sliding fees ranging from 2 percent for items selling for less than $25, plus 1 percent of the next $975, and 0.5 percent of the amount above $1,000. The pricing model, which Yahoo said customers had requested, more closely resembles that of the company's larger auctions rival, eBay. Yahoo said its changes had improved the percentage of auctions that close, to 31 percent from less than 10 percent.</p>
+        <p>Chris Gaither (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

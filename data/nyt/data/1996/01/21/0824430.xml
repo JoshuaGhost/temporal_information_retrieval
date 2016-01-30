@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="824430"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D71339F932A15752C0A960958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Out, in the Heartland</p>
+      </block>
+      <block class="full_text">
+        <p>Out, in the Heartland</p>
+        <p>Gay life and culture, traditionally a province of major urban centers, is starting to thrive in smaller communities, like Bloomington, Ill., though not without backlash. Page 12.</p>
+        <p>The Ears of the 92d St. Y</p>
+        <p>Helaine Geismar Katz is the quintessential New Yorker behind that quintessential New York institution -- the lectures on culture and public affairs at the 92d Street Y. Page 21.</p>
+        <p>Grumbling as Aristide Weds</p>
+        <p>President Jean-Bertrand Aristide of Haiti, a former priest, married a New Yorker with Haitian roots yesterday, but some Haitians were not pleased about it. Page 4.</p>
+        <p>Gerry Mulligan Dies at 68</p>
+        <p>Gerry Mulligan, a baritone saxophonist and one of the great improvisors of postwar jazz, died at 68. He was a founder of the Cool School of jazz. Page 27.</p>
+        <p>Sampras Is Defeated</p>
+        <p>Playing before a hometown crowd in Melbourne, Mark Philippoussis upset top-ranked Pete Sampras in the third round of the Australian Tennis Open. SportsSunday, section 8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

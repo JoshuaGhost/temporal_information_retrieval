@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A. R. Baron, Accused by S.E.C. Of Fraud, Files for Bankruptcy</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="862605"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">BANKRUPTCIES</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITIES AND COMMODITIES VIOLATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FRAUDS AND SWINDLING</classifier>
+        <org class="indexing_service">BARON, A R, &amp; CO</org>
+        <org class="indexing_service">SECURITIES AND EXCHANGE COMMISSION(SEC) SECURITIES &amp; EXCHANGE COMMISSION</org>
+        <person class="indexing_service">BRESSMAN, ANDREW</person>
+        <person class="indexing_service">OKIN, ROMAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DA1039F935A35754C0A960958260" item-length="359" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A. R. Baron, Accused by S.E.C. Of Fraud, Files for Bankruptcy</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A. R. Baron &amp; Company, a New York brokerage firm, and two of its principals have filed for bankruptcy protection following Securities and Exchange Commission charges that they defrauded customers, a commission lawyer said today.</p>
+        <p>Last week, Baron stopped making markets in stocks -- or buying and selling shares regularly -- because it did not have enough money to meet regulatory requirements.</p>
+      </block>
+      <block class="full_text">
+        <p>A. R. Baron &amp; Company, a New York brokerage firm, and two of its principals have filed for bankruptcy protection following Securities and Exchange Commission charges that they defrauded customers, a commission lawyer said today.</p>
+        <p>Last week, Baron stopped making markets in stocks -- or buying and selling shares regularly -- because it did not have enough money to meet regulatory requirements.</p>
+        <p>The firm filed for Chapter 11 backruptcy protection in Federal District Court in Newark on Wednesday along with its president, Andrew Bressman, and one  of its traders, Roman Okin, said Mark Kreitman, an S.E.C. lawyer handling the administrative case against all three.</p>
+        <p>In May, the commission accused Baron, Mr. Bressman and Mr. Okin of defrauding New York University and other clients by refusing to execute stock trades or by  making unauthorized trades. The charges involve $17 million of securities. The commission asked an administrative law judge to order the firm and its co-defendants to return profits the S.E.C. said were made illegally.</p>
+        <p>"Our administrative proceeding is very much alive," Mr. Kreitman said. He said the firm agreed that it would not spend assets during the bankruptcy proceedings without telling the S.E.C. Telephone calls to Baron, which did business on the Nasdaq Stock Market before last week, went unanswered. Lawyers for the firm and the two principals could not be reached for comment yesterday,  but they have previously denied any wrongdoing.</p>
+        <p>The S.E.C. may file additional disciplinary charges against the firm over its handling of customers' orders, according to a scheduling order issued by an administrative law judge, Brenda Murray, in connection with the agency's case.</p>
+        <p>When a firm stops making markets -- or buying and selling shares regularly -- there may not be enough buyers and sellers for the stock to trade easily, causing the shares to fall.</p>
+        <p>The S.E.C. has also been investigating for the last several years whether A.  R. Baron was involved in manipulating the prices of several stocks, including Health Professionals Inc. and Cypros Pharmaceutical.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Candidates, Be Careful: Someone Is Taping</title>
+    <meta content="l22youtube" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1784604"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Voter Behavior</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Youtube</org>
+        <person class="indexing_service">Schwartz, David</person>
+        <person class="indexing_service">Pfeffer, Helen</person>
+        <person class="indexing_service">Freilich, Leon</person>
+        <person class="indexing_service">Lizza, Ryan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6DA123EF931A1575BC0A9609C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Candidates, Be Careful: Someone Is Taping</hl1>
+      </hedline>
+      <abstract>
+        <p>Three letters comment on Aug 20 Ryan Lizza article on impact of YouTube on elections; David Schwartz says ability to post information without access to major news media enables public to learn more about candidates and therefore benefits democracy; Helen Pfeffer bemoans strict and constant scripting of candidates; Leon Freilich says young people drawn to YouTube seldom vote; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The YouTube Election,'' by Ryan Lizza (Week in Review, Aug. 20):</p>
+        <p>How interesting to read complaints from political strategists that populist media prevent candidates from being experimental and spontaneous. The real issue that concerns them, however, is that they can no longer control the messages voters receive to the extent they wish.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The YouTube Election,'' by Ryan Lizza (Week in Review, Aug. 20):</p>
+        <p>How interesting to read complaints from political strategists that populist media prevent candidates from being experimental and spontaneous. The real issue that concerns them, however, is that they can no longer control the messages voters receive to the extent they wish.</p>
+        <p>The ability of people to post information without access to major news media enables the public to learn more about candidates' actual values, and that is a true benefit to democracy.</p>
+        <p>David Schwartz  Baltimore, Aug. 20, 2006</p>
+        <p>To the Editor:</p>
+        <p>Two things seem to be upsetting the political strategists quoted in ''The YouTube Election.''</p>
+        <p>One is that people without much money or talent can now create and show campaign commercials without hiring political strategists. But the strategists needn't worry. We're still just as likely to be seduced by the glossy and expensive as we are by the crude and amateurish. They'll keep their jobs.</p>
+        <p>The other is the deeply weird notion that anything a politician says or does spontaneously will be bad. Have they so little faith in their employers? Is the entire legislative branch really one unguarded moment away from a Mel Gibson meltdown?</p>
+        <p>I look forward to the day when candidates are pushed so far into their ''scripted bubble'' that some of them bust right out the other side, revealing themselves to be smart, decent, hard-working people who would rather represent their constituents than play a politician on TV.</p>
+        <p>Helen Pfeffer  New York, Aug. 20, 2006</p>
+        <p>To the Editor:</p>
+        <p>Ryan Lizza writes that YouTube ''now attracts some 20 million different visitors a month.''</p>
+        <p>Note: These 20 million are mostly youths who seldom vote.</p>
+        <p>Leon Freilich  Brooklyn, Aug. 20, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

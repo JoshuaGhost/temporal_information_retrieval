@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft Prepares 'Bob,' A Guide for PC Novices</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="735047"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <org class="indexing_service">MICROSOFT CORP</org>
+        <person class="indexing_service">FLYNN, LAURIE</person>
+        <person class="indexing_service">GATES, WILLIAM H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D71F39F936A35752C0A963958260" item-length="442" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft Prepares 'Bob,' A Guide for PC Novices</hl1>
+      </hedline>
+      <byline class="print_byline">By LAURIE FLYNN</byline>
+      <byline class="normalized_byline">FLYNN, LAURIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Microsoft Corporation plans to introduce a software package this week that is intended to make personal computers easier for novices to use, an important element of the company's ambitious campaign to dominate the fast-growing market for home computer software.</p>
+        <p>The new program, called Bob, features cartoon-like characters that give spoken instructions to users of Microsoft's Windows program, rather than having them choose from lists of commands or type instructions. This new approach allows people to interact with computers in a way the company says is more more natural than current methods.</p>
+      </block>
+      <block class="full_text">
+        <p>The Microsoft Corporation plans to introduce a software package this week that is intended to make personal computers easier for novices to use, an important element of the company's ambitious campaign to dominate the fast-growing market for home computer software.</p>
+        <p>The new program, called Bob, features cartoon-like characters that give spoken instructions to users of Microsoft's Windows program, rather than having them choose from lists of commands or type instructions. This new approach allows people to interact with computers in a way the company says is more more natural than current methods.</p>
+        <p>The chairman of Microsoft, William H. Gates, will demonstrate Bob publicly for the first time at the Consumer Electronics Show, which opens Friday in Las Vegas, Nev.</p>
+        <p>Microsoft is hoping Bob will make computers more appealing to people who are intimidated by them, or who may choose to buy an Apple Macintosh rather than a personal computer that uses Windows. Though both the Macintosh and Windows-based PC's let users use graphics rather than text to operate software programs, the Macintosh is still widely considered much easier to use than Windows.</p>
+        <p>But with Bob that could change, some analysts say.</p>
+        <p>"This may hurt Apple unless it can leapfrog Microsoft in ease of use first," said Charles H. Finnie, an analyst with Volpe, Welty &amp; Company, a securities firm in San Francisco. "Apple's primary competitive advantage over Microsoft in the consumer market has been its ease of use, and Bob strikes right at the heart of ease of use."</p>
+        <p>Microsoft and Apple are battling in the market for home computers, the fastest-growing segment of the computer business. The number of American households with personal computers grew to 30 million at the end of 1994, from 21 million a year earlier, according to Volpe, Welty.</p>
+        <p>Bob offers the computer user a choice of 14 characters, like a dog, a rabbit and a parrot, each with a different personality and its own degree of helpfulness. The characters, considered part of a new breed of "intelligent agents," are capable of "observing" a person's preferences and computer expertise and then adjusting the kind of help they offer.</p>
+        <p>Bob also includes eight basic home programs, like a basic word processor for letter writing, a check-writing program, a program for sending and receiving electronic mail and a calendar. The software, to be priced at $99, will be available in stores in late March, Microsoft says.</p>
+        <p>Bob is the latest addition to the company's highly successful line of consumer-oriented software programs, including a line of CD-ROM games, sold under the Microsoft Home label.  COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

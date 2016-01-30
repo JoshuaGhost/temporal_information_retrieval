@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can the Internet Be Left to the Market?</title>
+    <meta content="LTR002041" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1352282"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <person class="indexing_service">Pansing, Cynthia</person>
+        <person class="indexing_service">Kornbluh, Karen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFDE173EF934A25751C1A9679C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can the Internet Be Left to the Market?</hl1>
+      </hedline>
+      <abstract>
+        <p>Cynthia Pansing letter on Karen Kornbluh's Dec 10 article urges government to commit to universal, public access to broadband Internet; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Karen Kornbluh (''The Broadband Economy,'' Op-Ed, Dec. 10) rightly points to the potential role government can play in correcting the ''last mile'' problem -- connecting homes and businesses to the broadband backbone.</p>
+        <p>The nationwide fiber-optic network is increasingly seen as a public asset. It is important to ensure that all have equal access to it. Telecommunications companies offer cheaper and faster service where population density is greatest and profits are the highest. Rural areas are increasingly being left behind.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Karen Kornbluh (''The Broadband Economy,'' Op-Ed, Dec. 10) rightly points to the potential role government can play in correcting the ''last mile'' problem -- connecting homes and businesses to the broadband backbone.</p>
+        <p>The nationwide fiber-optic network is increasingly seen as a public asset. It is important to ensure that all have equal access to it. Telecommunications companies offer cheaper and faster service where population density is greatest and profits are the highest. Rural areas are increasingly being left behind.</p>
+        <p>Access to telecommunications technology is the gateway to economic development opportunities, education, health care and other essential public services. Our nation runs the risk of widening the digital divide unless the government commits to universal, public access to the broadband network.</p>
+        <p>CYNTHIA PANSING  Oakland, Calif., Dec. 10, 2001</p>
+        <p>The writer is director of the Common Assets Program at Redefining Progress.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

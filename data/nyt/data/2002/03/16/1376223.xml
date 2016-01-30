@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR013313" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1376223"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crossword Puzzles</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">New York Times</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Puzzles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crossword Puzzles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020316T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EEDE1638F935A25750C0A9649C8B63" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of March 14 crossword puzzle: erroneous clue for 6 Down amended</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The crossword puzzle on Thursday provided an erroneous clue for 6 Down, seeking the answer ''Custer.'' ''Scalper's victim'' did not work because although Gen. George Custer was killed in the battle of Little Bighorn, his body was not mutilated.</p>
+      </block>
+      <block class="full_text">
+        <p>The crossword puzzle on Thursday provided an erroneous clue for 6 Down, seeking the answer ''Custer.'' ''Scalper's victim'' did not work because although Gen. George Custer was killed in the battle of Little Bighorn, his body was not mutilated.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stars' Tresses on the Floor</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="532031"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="CURRENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERIOR DESIGN</classifier>
+        <classifier class="indexing_service" type="descriptor">BEAUTY SALONS</classifier>
+        <person class="indexing_service">EBER, JOSE</person>
+        <person class="indexing_service">GILBAR, GARY</person>
+        <person class="indexing_service">JOUSSERIN, REMY</person>
+        <object.title class="indexing_service">CURRENTS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty Salons</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DF1F3CF93BA15756C0A964958260" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stars' Tresses on the Floor</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOSE EBER, hairdresser to the stars (Elizabeth Taylor, Cher, Victoria Principal) sports a pretty impressive mane of his own and, now, a new 10,000-square-foot-salon at 2 Rodeo Drive in Beverly Hills.</p>
+        <p>"In the 30's and 40's, beauty salons used to have comfort, and women used to be pampered," Mr. Eber said. "But we lost it in the 80's when we had to fill up every chair and get the most of the square footage."</p>
+      </block>
+      <block class="full_text">
+        <p>JOSE EBER, hairdresser to the stars (Elizabeth Taylor, Cher, Victoria Principal) sports a pretty impressive mane of his own and, now, a new 10,000-square-foot-salon at 2 Rodeo Drive in Beverly Hills.</p>
+        <p>"In the 30's and 40's, beauty salons used to have comfort, and women used to be pampered," Mr. Eber said. "But we lost it in the 80's when we had to fill up every chair and get the most of the square footage."</p>
+        <p>Illuminated by a skylight, a terrazzo and marble staircase spirals from the ground floor, a 1,000-square-foot boutique, to the 9,000-square-foot second-floor salon.</p>
+        <p>The walls are mostly white.  Floors are terrazzo inlaid with yellow or green marble leaves. "The materials have to look rich, but also be very durable," said Gary Gilbar, an architect who, with Remy Jousserin, an interior designer, created the salon.</p>
+        <p>Chairs, designed by Philippe Starck, have cast-iron frames and blush-pink seats. For the reclusive celebrity, a V.I.P. lounge has a single station, banquette, television and refrigerator.</p>
+        <p>CURRENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

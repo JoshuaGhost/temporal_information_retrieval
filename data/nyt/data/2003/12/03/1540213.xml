@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>St. John's Expanding On Future</title>
+    <meta content="03AREN$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/12/03/sports/ncaabasketball/03AREN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1540213"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="COLLEGE BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Stadiums and Arenas</classifier>
+        <org class="indexing_service">St John's University (NYC)</org>
+        <person class="indexing_service">Finley, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <org class="online_producer">St John's University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0D61F3AF930A35751C1A9659C8B63" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>St. John's Expanding On Future</hl1>
+        <hl2 class="online_headline">St. Johns Expanding on Future</hl2>
+      </hedline>
+      <byline class="print_byline">By BILL FINLEY</byline>
+      <byline class="normalized_byline">Finley, Bill</byline>
+      <abstract>
+        <p>St John's University announces it will build new field house for men's and women's basketball teams and will consider renovating Alumni Hall (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>St. John's will build a field house with practice courts for its men's and women's basketball teams and explore a major renovation of Alumni Hall, university officials said yesterday.</p>
+        <p>Mike Jarvis, the men's basketball coach, has said that the university's athletic facilities put his team at a competitive disadvantage.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>St. Johns announced that it would build a field house with practice courts for its basketball teams and that it would explore a major renovation of Alumni Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>St. John's will build a field house with practice courts for its men's and women's basketball teams and explore a major renovation of Alumni Hall, university officials said yesterday.</p>
+        <p>Mike Jarvis, the men's basketball coach, has said that the university's athletic facilities put his team at a competitive disadvantage.</p>
+        <p>In May, ground will be broken for Riley Field House in Jamaica, Queens. It will be adjacent to Alumni Hall and is expected to be completed by September 2005. The project will cost $23 million and include four basketball courts, office space for the men's and women's basketball coaching staffs, locker rooms and weight-training rooms.</p>
+        <p>''This is a historic occasion for our university,'' said St. John's president, the Rev. Donald J. Harrington. ''At this time of great promise for the Big East Conference, it is especially heartening to me to present you with a facility that will so equitably serve the St. John's community while allowing us to maintain our rightful and traditional place as a cornerstone'' of the conference.</p>
+        <p>Most of the funds came from a donation from Jim Riley, a 1974 alumnus and a member of the university's board of trustees. Riley said he was inspired to help after seeing the men's soccer team watching game tapes on a wall inside Alumni Hall because there were no viewing screens available.</p>
+        <p>''I really believe the glass is half full and not half empty around here,'' he said, referring to the men's and women's basketball teams.</p>
+        <p>Jarvis has said that a shortage of courts hurts the Red Storm on the court and in recruiting. The court at Alumni Hall is the only one available for practices for the men's and women's basketball teams. Because scheduling conflicts inevitably arise, the teams have gone to nearby high schools to practice.</p>
+        <p>With the St. John's men's program having slipped over the last few years, the announcement seems to have come at an opportune time.</p>
+        <p>''We want to maintain this program as a national program, and to do that you have to invest in your programs,'' Athletic Director Dave Wegrzyn said. ''We have done that. We have enhanced the budget of all the teams across the board, and this is a continuation of that.''</p>
+        <p>Some minor changes will be made to Alumni Hall, a 6,008-seat arena that opened in 1961, while Riley Field House is being built, but there are no firm plans for an overhaul. Jim Pellow, executive vice president of the university, said a renovation of Alumni Hall was being studied, but the university has yet to resolve how to pay for the project.</p>
+        <p>Wegrzyn said a new Alumni Hall would not cause St. John's to sever ties to Madison Square Garden, where it plays several home games a season.</p>
+        <p>COLLEGE BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

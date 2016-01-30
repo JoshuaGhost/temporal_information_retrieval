@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shocking and Enlightening</title>
+    <meta content="19inbox-1" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1748229"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Ncaa Basketball Tournament</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Draft and Recruitment (Sports)</classifier>
+        <person class="indexing_service">Ostman, Neal R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DD1F31F93AA25750C0A9609C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shocking and Enlightening</hl1>
+      </hedline>
+      <abstract>
+        <p>Neal R Ostman letter conten</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>I would like to offer congratulations to Pete Thamel for the insightful and revealing articles ''Schools Where the Only Real Test Is Basketball'' (Feb. 25) and ''Poor Grades Aside, Athletes Get Into College on a $399 Diploma'' (Nov. 27).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>I would like to offer congratulations to Pete Thamel for the insightful and revealing articles ''Schools Where the Only Real Test Is Basketball'' (Feb. 25) and ''Poor Grades Aside, Athletes Get Into College on a $399 Diploma'' (Nov. 27).</p>
+        <p>These articles are a tragic testament to human greed, opportunism and the endgame of a society chasing the all-encompassing entertainment dollar. They document how any hopeful relationship between true sports and academic education is dead or dying. We can only hope this reporting will cause enough embarrassment to foster some action by the N.C.A.A.</p>
+        <p>Neal R. Ostman  Colleyville, Tex.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

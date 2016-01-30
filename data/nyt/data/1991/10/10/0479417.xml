@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EXECUTIVES</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="479417"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DD1639F933A25753C1A967958260" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EXECUTIVES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Alta Gold Co., Salt Lake City, a mining company, named Robert N. Pratt president and chief operating officer. * American General Corp., Houston, a financial services company, named Robert D. Womack senior vice president-administration, succeeding Wayne D. Baker, who has been named senior vice president-financial services for the company's consumer finance subsidiary.</p>
+      </block>
+      <block class="full_text">
+        <p>* Alta Gold Co., Salt Lake City, a mining company, named Robert N. Pratt president and chief operating officer. * American General Corp., Houston, a financial services company, named Robert D. Womack senior vice president-administration, succeeding Wayne D. Baker, who has been named senior vice president-financial services for the company's consumer finance subsidiary.</p>
+        <p>* Asea Brown Boveri Inc., Stamford, Conn., which provides products to power plants and other industries, named Michael E. Bray senior vice president in charge of a newly formed sales force for power plants. * Coltec Industries, New York, a manufacturing concern, named Francis L. Zernhelt group president. He adds responsibilities for overseeing the Holley Replacement Parts division, Warren, Mich., while remaining president of the Farnham Sealing Systems division, Troy, Mich., and the head of the Performance Friction Products unit, Longview, Tex. * Russell Corp., Alexander City, Ala., an apparel company, named K. Roger Holliday president of its knit apparel division. * UST Inc., Greenwich, Conn., a tobacco holding company, named Robert E. Barrett executive vice president in charge of investor and government relations, John J. Bucchignano executive vice president-chief financial officer and James W. Chapin executive vice president-general counsel. It also appointed I. Robert Levine and Jonathan P. Nelson senior vice presidents. * Willis Corroon P.L.C., London, an insurance broker, named John N. W. Wooderson chairman of its Willis Corroon Americas unit, which includes the company's operations in North and South America. Frank F. White was named the unit's president and chief executive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

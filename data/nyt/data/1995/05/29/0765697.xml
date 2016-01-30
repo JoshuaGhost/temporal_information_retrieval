@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Holiday Today</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="765697"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDC1F3EF93AA15756C0A963958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Holiday Today</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Memorial Day is observed today. NEW YORK  GOVERNMENT OFFICES: Federal, state and municipal offices are closed. POST OFFICE: Express Mail and special delivery only. BANKS: Option to close. PARKING: Sunday rules in effect.  SANITATION: No pickups, street cleanings or recycling. SCHOOLS: Closed. FINANCIAL MARKETS: Closed. TRANSPORTATION: Buses and subways, L.I.R.R. and Metro-North on holiday schedules.  NEW JERSEY  GOVERNMENT OFFICES: Federal and state offices closed. Municipal offices have option to close. POST OFFICES: Express Mail and special delivery only. BANKS: Option to close. SCHOOLS: Closed. TRANSPORTATION: New Jersey Transit trains on Sunday schedule. Some New Jersey Transit buses on holiday schedule. CONNECTICUT  GOVERNMENT OFFICES: Federal, state and municipal offices closed. POST OFFICES: Express Mail and special delivery only. BANKS: Closed. SCHOOLS: Closed. TRANSPORTATION: Metro-North on holiday schedule.</p>
+      </block>
+      <block class="full_text">
+        <p>Memorial Day is observed today. NEW YORK  GOVERNMENT OFFICES: Federal, state and municipal offices are closed. POST OFFICE: Express Mail and special delivery only. BANKS: Option to close. PARKING: Sunday rules in effect.  SANITATION: No pickups, street cleanings or recycling. SCHOOLS: Closed. FINANCIAL MARKETS: Closed. TRANSPORTATION: Buses and subways, L.I.R.R. and Metro-North on holiday schedules.  NEW JERSEY  GOVERNMENT OFFICES: Federal and state offices closed. Municipal offices have option to close. POST OFFICES: Express Mail and special delivery only. BANKS: Option to close. SCHOOLS: Closed. TRANSPORTATION: New Jersey Transit trains on Sunday schedule. Some New Jersey Transit buses on holiday schedule. CONNECTICUT  GOVERNMENT OFFICES: Federal, state and municipal offices closed. POST OFFICES: Express Mail and special delivery only. BANKS: Closed. SCHOOLS: Closed. TRANSPORTATION: Metro-North on holiday schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

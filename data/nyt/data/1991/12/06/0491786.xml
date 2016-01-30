@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Joseph D. Pikus, Professor, 75</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="491786"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">PIKUS, JOSEPH D</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED61438F935A35751C1A967958260" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Joseph D. Pikus, Professor, 75</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Joseph D. Pikus, a longtime professor of health science at Jersey City State College, died on Sunday. He was 75 years old and lived in Cedar Grove, N.J.</p>
+        <p>He died of stomach cancer, his family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Joseph D. Pikus, a longtime professor of health science at Jersey City State College, died on Sunday. He was 75 years old and lived in Cedar Grove, N.J.</p>
+        <p>He died of stomach cancer, his family said.</p>
+        <p>Dr. Pikus, whose doctorate from Columbia University was in education, joined the college faculty in 1973, retired as a full-time professor of health science in 1986 and then became an adjunct professor of health science and sociology. He was active in that part-time post until last month.</p>
+        <p>Dr. Pikus (pronounced PICK-us) grew up in Pine Brook, N.J. He is survived by his wife, Lila, a psychotherapist; two sons, David H. of Short Hills and Dr. Anthony A., a physician, of Marblehead, Mass, and a granddaughter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

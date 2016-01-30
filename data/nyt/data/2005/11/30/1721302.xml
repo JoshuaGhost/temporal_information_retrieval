@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Medicaid Drug List</title>
+    <meta content="l30medicaid-1" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1721302"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DF1531F933A05752C1A9639C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Medicaid Drug List</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Drug Costs Run Free Under New York Medicaid'' (''Program Disorder'' series, front page, Nov. 23):</p>
+        <p>Medications account for less than 10 percent of New York Medicaid spending. Much of that spending is on complex patients with multiple conditions and on multiple medications, a substantial portion of whom are disabled or blind.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Drug Costs Run Free Under New York Medicaid'' (''Program Disorder'' series, front page, Nov. 23):</p>
+        <p>Medications account for less than 10 percent of New York Medicaid spending. Much of that spending is on complex patients with multiple conditions and on multiple medications, a substantial portion of whom are disabled or blind.</p>
+        <p>The article seems to suggest that creating a list of ''preferred'' drugs is uncontroversial and benign. In fact, the agencies comparing drug effectiveness on behalf of states generally claim that all drugs are equivalent, giving cover to award ''preferred'' status to the lowest bidders. These are often the products that doctors don't prefer; products with minimal market share have good reasons to underbid everyone else.</p>
+        <p>There are consequences.</p>
+        <p>Medicaid patients -- largely poor, disproportionately minority -- are often forced to settle for older products that don't work as well or that have greater side effects. In many states, patients who have been effectively managed for years are forced to switch to an alternative medicine and hope for the best.</p>
+        <p>Mark L. Horn, M.D.  Medical Director, Government Relations, Pfizer  New York, Nov. 28, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

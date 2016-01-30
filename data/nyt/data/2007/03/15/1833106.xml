@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dashboard Buddy With Maps and Music</title>
+    <meta content="15navigate" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/15/technology/15navigate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1833106"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Positioning System</classifier>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Harmon Kardon</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3DE1E31F936A25750C0A9619C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dashboard Buddy With Maps and Music</hl1>
+        <hl2 class="online_headline">A Dashboard Buddy With Maps and Music</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Harmon Kardon Guide+Play GPS-500 dashboard-mounted or handheld global positioning system device can play back MP3 and WMA music files, routing audio to car radio through headphone jack; driver can watch MPEG-4 or WMV videos on device, and rechargeable battery lets user navigate and listen to music on foot for up to five hours; price is $500; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Harman Kardon Guide + Play GPS-500 won't just get you from Point A to Point B -- it will also entertain you along the way.</p>
+        <p>This tiny dashboard-mounted or handheld G.P.S. device has a bright four-inch color touch screen and includes maps for the United States and Canada. It can play back MP3 and WMA music files, routing audio to your car radio through a headphone jack.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Harman Kardon Guide + Play GPS-500 won’t just get you from Point A to Point B  it will also entertain you along the way.</p>
+      </block>
+      <block class="full_text">
+        <p>The Harman Kardon Guide + Play GPS-500 won't just get you from Point A to Point B -- it will also entertain you along the way.</p>
+        <p>This tiny dashboard-mounted or handheld G.P.S. device has a bright four-inch color touch screen and includes maps for the United States and Canada. It can play back MP3 and WMA music files, routing audio to your car radio through a headphone jack.</p>
+        <p>When you're not driving, you can watch MPEG-4 or WMV videos on the device, and a rechargeable battery lets you navigate and listen to music on foot for up to five hours. (To avoid overload, the Guide + Play locks the navigation functions when video is playing.)</p>
+        <p>The device automatically syncs with Windows Media Player software but requires an SD memory card, sold separately, to play anything other than the few audio tracks and film clips Harman Kardon supplies on the two gigabytes of internal memory. It comes with a dashboard mounting kit, cigarette lighter adapter and charger.</p>
+        <p>The Guide + Play, which speaks directions in English, French or Spanish, will be available this month for $500. A great road-trip playlist is unfortunately not included.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

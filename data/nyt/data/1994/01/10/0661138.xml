@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="661138"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D91431F933A25752C0A962958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Somalia's Future in Doubt</p>
+        <p>Increasing violence in Somalia is raising questions about whether the United Nations and relief groups can maintain their roles there. Page A3. An Attack in South Africa</p>
+        <p>Shots fired in a South African township at a group that included high-level African National Congress officials killed a photographer. Page A3. Pockets of Urban Violence</p>
+        <p>While the number of homicides continues to drop in New York City, some areas are bucking the trend with a disproportionate share. Page B1. Giants and Raiders Win</p>
+        <p>The Giants beat the Minnesota Vikings, and Los Angeles defeated the Denver Broncos in the N.F.L. playoffs. SportsMonday, page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>Somalia's Future in Doubt</p>
+        <p>Increasing violence in Somalia is raising questions about whether the United Nations and relief groups can maintain their roles there. Page A3. An Attack in South Africa</p>
+        <p>Shots fired in a South African township at a group that included high-level African National Congress officials killed a photographer. Page A3. Pockets of Urban Violence</p>
+        <p>While the number of homicides continues to drop in New York City, some areas are bucking the trend with a disproportionate share. Page B1. Giants and Raiders Win</p>
+        <p>The Giants beat the Minnesota Vikings, and Los Angeles defeated the Denver Broncos in the N.F.L. playoffs. SportsMonday, page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

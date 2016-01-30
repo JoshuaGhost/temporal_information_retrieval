@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Killed in Attacks in Brooklyn and on S.I.</title>
+    <meta content="26DEAD$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/26/nyregion/26dead.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1683133"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DD173AF935A15755C0A9639C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Killed in Attacks in Brooklyn and on S.I.</hl1>
+        <hl2 class="online_headline">2 Killed in Attacks in Brooklyn and on S.I.</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Brooklyn man died Friday night after he was stabbed in the neck, and on Staten Island a man standing in front of a deli was killed early yesterday after he was shot by a man in a moving car, the police said.</p>
+        <p>No one was arrested yesterday afternoon in either killing, and the motives had not been determined, the police said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Brooklyn man died Friday night after he was stabbed in the neck, and on Staten Island a man standing in front of a deli was killed early yesterday after he was shot by a man in a moving car, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A Brooklyn man died Friday night after he was stabbed in the neck, and on Staten Island a man standing in front of a deli was killed early yesterday after he was shot by a man in a moving car, the police said.</p>
+        <p>No one was arrested yesterday afternoon in either killing, and the motives had not been determined, the police said.</p>
+        <p>They said that around 10 p.m. on Friday, Francisco Quiles, 27, was found on Rugby Road in Ditmas Park, Brooklyn, bleeding heavily from a single stab wound to his neck. He was pronounced dead at Kings County Hospital Center.</p>
+        <p>The police said that a light-colored two-door hatchback with a rear spoiler was seen driving from the scene and that the victim's car was found nearby.</p>
+        <p>On Staten Island around 3:30 a.m. yesterday, a man in a moving car fired four shots at John Chase, 26, of Warren Street, as he stood in front of a deli at 202 Gordon Street, across the street from the Stapleton Houses project, the police said.</p>
+        <p>Mr. Chase was hit once in his right eye. The car carrying the gunman drove away.</p>
+        <p>The police said Mr. Chase was taken to St. Vincent's Hospital Staten Island, where he was pronounced dead soon after the attack.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

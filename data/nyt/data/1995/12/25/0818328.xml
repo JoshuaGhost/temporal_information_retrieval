@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bank Said to Violate U.S. Securities Law</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="55" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="818328"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">SECURITIES AND COMMODITIES VIOLATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">REAL ESTATE</classifier>
+        <org class="indexing_service">BANK OF BOSTON CORP</org>
+        <person class="indexing_service">MURRAY, BRENDA P (JUDGE)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E0D91539F936A15751C1A963958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bank Said to Violate U.S. Securities Law</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>WASHINGTON, Dec. 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Bank of Boston Corporation violated securities laws in 1989 when it failed to warn investors of pending losses caused by problem real estate loans,  an administrative law judge has ruled.</p>
+        <p>The judge, Brenda P. Murray, criticized the bank and its former chief executive, Ira Stepanian, for failing to tell investors in quarterly disclosure  statements with the Securities and Exchange Commission that its real estate loan portfolio was deteriorating. Ms. Murray ordered Bank of Boston to obey the law,  and no financial penalties were imposed.</p>
+      </block>
+      <block class="full_text">
+        <p>The Bank of Boston Corporation violated securities laws in 1989 when it failed to warn investors of pending losses caused by problem real estate loans,  an administrative law judge has ruled.</p>
+        <p>The judge, Brenda P. Murray, criticized the bank and its former chief executive, Ira Stepanian, for failing to tell investors in quarterly disclosure  statements with the Securities and Exchange Commission that its real estate loan portfolio was deteriorating. Ms. Murray ordered Bank of Boston to obey the law,  and no financial penalties were imposed.</p>
+        <p>Bank of Boston officials had information from internal reports, regulators and its knowledge of the New England real estate market that many of its loans were troubled, but failed to share the information with investors, the legal papers said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

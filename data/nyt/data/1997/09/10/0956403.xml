@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  REED, SONIA, NEE ''ZOSIA'' GERTLER</title>
+    <meta content="DN091097" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="956403"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <person class="indexing_service">REED, SONIA, NEE ''ZOSIA'' GERTLER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E3D71739F933A2575AC0A961958260" item-length="46" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  REED, SONIA, NEE ''ZOSIA'' GERTLER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REED-Sonia, nee ''Zosia'' Gertler, age 73, of Lenox and Boynton Beach, FL, died September 8th in Pittsfield, MA. Beloved wife of Curt and loving mother of David, Deborah and Shelley. Memorial services will be held Thursday at 1:00 PM at Devanny-Condron Funeral Home in Pittsfield, MA.</p>
+      </block>
+      <block class="full_text">
+        <p>REED-Sonia, nee ''Zosia'' Gertler, age 73, of Lenox and Boynton Beach, FL, died September 8th in Pittsfield, MA. Beloved wife of Curt and loving mother of David, Deborah and Shelley. Memorial services will be held Thursday at 1:00 PM at Devanny-Condron Funeral Home in Pittsfield, MA.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

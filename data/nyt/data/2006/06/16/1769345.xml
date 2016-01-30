@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SIMMONS, DANIEL, SR.</title>
+    <meta content="dn061606" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1769345"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <person class="indexing_service">SIMMONS, DANIEL, SR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3DD113AF935A25755C0A9609C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SIMMONS, DANIEL, SR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SIMMONS--Daniel, Sr.The Foundation for Ethnic Understanding mourns the passing of the beloved father of our esteemed chairman, Russell Simmons. Russell's tireless advocacy in strengthening race relations and promoting tolerance and understanding is an enduring testament to his father of blessed memory. Our deepest sympathy to the entire family. Rabbi Marc Schneier,Pres. Tonio Burgos, V.P. Ken Sunshine, Secy. Lawrence Kopp, Exec. Dir.</p>
+      </block>
+      <block class="full_text">
+        <p>SIMMONS--Daniel, Sr.The Foundation for Ethnic Understanding mourns the passing of the beloved father of our esteemed chairman, Russell Simmons. Russell's tireless advocacy in strengthening race relations and promoting tolerance and understanding is an enduring testament to his father of blessed memory. Our deepest sympathy to the entire family. Rabbi Marc Schneier,Pres. Tonio Burgos, V.P. Ken Sunshine, Secy. Lawrence Kopp, Exec. Dir.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

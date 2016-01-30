@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Money Fund Assets Off</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="484010"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">MUTUAL FUNDS</classifier>
+        <org class="indexing_service">INVESTMENT COMPANY INSTITUTE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D9173AF932A35752C1A967958260" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Money Fund Assets Off</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The assets of the nation's 572 money market mutual funds decreased by $2.62 billion, to $464.13 billion, in the week that ended on Wednesday, the Investment Company Institute said yesterday. Those of the 210 institutional funds decreased by $1.06 billion, to $145.04 billion. The assets of the 270 general-purpose funds were down by $429.7 million, to $173.55 billion. The 92 broker-dealer funds decreased by $1.13 billion, to $145.55 billion, the institute said.</p>
+      </block>
+      <block class="full_text">
+        <p>The assets of the nation's 572 money market mutual funds decreased by $2.62 billion, to $464.13 billion, in the week that ended on Wednesday, the Investment Company Institute said yesterday. Those of the 210 institutional funds decreased by $1.06 billion, to $145.04 billion. The assets of the 270 general-purpose funds were down by $429.7 million, to $173.55 billion. The 92 broker-dealer funds decreased by $1.13 billion, to $145.55 billion, the institute said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

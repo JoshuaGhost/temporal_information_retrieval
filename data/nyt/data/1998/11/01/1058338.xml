@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV154916" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1058338"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Bass, Rick</person>
+        <person class="indexing_service">Eckhoff, Sally</person>
+        <object.title class="indexing_service">Fiber (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D91E3DF932A35752C1A96E958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Sally Eckhoff</byline>
+      <byline class="normalized_byline">Eckhoff, Sally</byline>
+      <abstract>
+        <p>Sally Eckhoff reviews Fiber, novel by Rick Bass (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fiber</p>
+        <p>By Rick Bass.</p>
+        <p>University of Georgia, $15.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Fiber</p>
+        <p>By Rick Bass.</p>
+        <p>University of Georgia, $15.95.</p>
+        <p>There's not one false note in this little book, even if the tune doesn't exactly make you want to dance. Rick Bass, who lives in the wild Yaak Valley in northern Montana, has a wonderful intimacy with the mysteries of nature. The bulk of his novella describes the activities of a fictitious Yaak resident not unlike himself, a former geologist and writer who becomes enthralled by the remote but endangered countryside he's adopted as his home. Then why is the last bit of the book, where the author steps in and delivers his hand-wringing plea for the Yaak's preservation, so difficult to take? Hardly anybody would argue with it. Yet if you don't live in Montana, firing off angry letters to the parties cited in Bass's final pages seems futile, particularly when the disputed territory already has so eloquent a defender. Bass isn't wrong to assume a collective spiritual investment in the place he loves, but he seems too heartbroken and angry to persuade readers to translate his threats into action.</p>
+        <p>Sally Eckhoff</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

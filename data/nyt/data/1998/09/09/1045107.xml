@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Held in Stabbing Dies in Jail Cell</title>
+    <meta content="MN020343" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1045107"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="METRO NEWS BRIEFS: NEW JERSEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <org class="indexing_service">Atlantic County Jail (NJ)</org>
+        <person class="indexing_service">Situ, Pansi</person>
+        <person class="indexing_service">Hermanto, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E3DA103EF93AA3575AC0A96E958260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Held in Stabbing Dies in Jail Cell</hl1>
+      </hedline>
+      <dateline>MAYS LANDING</dateline>
+      <abstract>
+        <p>David Hermanto, man being held for stabbing death of his former girlfriend Pansi Situ, is found dead in his cell in Atlantic County Jail over weekend by nurse and corrections officer making medical rounds; cause of death has not been determined (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Atlantic City man being held for the stabbing death of his former girlfriend was found dead in his cell in the Atlantic County Jail over the weekend by a nurse and corrections officer making medical rounds, officials said yesterday.</p>
+        <p>The cause of David Hermanto's death on Saturday has not been determined, but foul play was not suspected, said Janet Niedosik, a spokeswoman for the Atlantic County Prosecutor's office. She said that the results of toxicology tests were not available, and that an autopsy has given no conclusive results so far.</p>
+      </block>
+      <block class="full_text">
+        <p>An Atlantic City man being held for the stabbing death of his former girlfriend was found dead in his cell in the Atlantic County Jail over the weekend by a nurse and corrections officer making medical rounds, officials said yesterday.</p>
+        <p>The cause of David Hermanto's death on Saturday has not been determined, but foul play was not suspected, said Janet Niedosik, a spokeswoman for the Atlantic County Prosecutor's office. She said that the results of toxicology tests were not available, and that an autopsy has given no conclusive results so far.</p>
+        <p>Mr. Hermanto, 22, was being held on $250,000 bail in the stabbing death of Pansi Situ, 27, of Atlantic City, last December. He was arrested in her apartment and was indicted on murder and stalking charges.</p>
+        <p>METRO NEWS BRIEFS: NEW JERSEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

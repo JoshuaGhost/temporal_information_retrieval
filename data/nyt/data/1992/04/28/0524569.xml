@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="524569"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">SHAKESPEARE THEATER (WASHINGTON, DC)</org>
+        <person class="indexing_service">SHAKESPEARE, WILLIAM (1564-1616)</person>
+        <person class="indexing_service">GIBSON, MEL</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">LUPONE, PATTI</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/William Shakespeare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE2DA1031F93BA15757C0A964958260" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>"Mel . . . oh Mel, this is for you," PATTI LUPONE crooned as she sashayed into the spotlight Saturday evening at the National Building Museum in Washington, where the Shakespeare Theater was honoring MEL GIBSON with its Will Award.</p>
+        <p>More formally, that is the William Shakespeare Award for Classical Theater, and it was presented at the theater's black-tie fund-raising dinner. Fixing her dark eyes on the actor, Ms. Lupone serenaded him with decidedly non-Shakespearean songs, including "I Get a Kick Out of You," and "As Long as He Needs Me."'</p>
+      </block>
+      <block class="full_text">
+        <p>"Mel . . . oh Mel, this is for you," PATTI LUPONE crooned as she sashayed into the spotlight Saturday evening at the National Building Museum in Washington, where the Shakespeare Theater was honoring MEL GIBSON with its Will Award.</p>
+        <p>More formally, that is the William Shakespeare Award for Classical Theater, and it was presented at the theater's black-tie fund-raising dinner. Fixing her dark eyes on the actor, Ms. Lupone serenaded him with decidedly non-Shakespearean songs, including "I Get a Kick Out of You," and "As Long as He Needs Me."'</p>
+        <p>"Shakespeare on the page is O.K.," Mr. Gibson said after receiving the award. "But the magic begins when people take those words from the page and put wings on them."</p>
+        <p>Mr. Gibson received the award for his part in renewing interest in Shakespeare, both in his recent film portrayal of Hamlet and in a video he made called "Mel Gibson Goes Back to School."</p>
+        <p>In it, he enacts some scenes from Hamlet and discusses the play with Los Angeles high school students. On Saturday morning he did the same thing, in person, with 15 Washington-area high school students, listening to them read their favorite passages from Hamlet. Then he read his own favorite, the "too too solid flesh" passage.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

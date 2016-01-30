@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  DEUTSCH, MADELINE MADY</title>
+    <meta content="DN011901" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1264160"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">DEUTSCH, MADELINE MADY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1D9173CF93AA25752C0A9679C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  DEUTSCH, MADELINE MADY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DEUTSCH-Madeline Mady, age 70, died Wednesday in Houston after a courageous nine year battle with cancer. She was born April 29, 1930 in Beregszasz, Czechoslovakia. Although she lost her father and brother during the Holocaust, she and her mother survived imprisonment in two concentration camps and endured four years in a Displaced Persons camp before finally being allowed to immigrate to the United States in 1949. Deutsch is survived by her loving husband Tony and adoring sons Mark of New York City and Robert of Germantown, Maryland. She was loved by many and will be sincerely missed.</p>
+      </block>
+      <block class="full_text">
+        <p>DEUTSCH-Madeline Mady, age 70, died Wednesday in Houston after a courageous nine year battle with cancer. She was born April 29, 1930 in Beregszasz, Czechoslovakia. Although she lost her father and brother during the Holocaust, she and her mother survived imprisonment in two concentration camps and endured four years in a Displaced Persons camp before finally being allowed to immigrate to the United States in 1949. Deutsch is survived by her loving husband Tony and adoring sons Mark of New York City and Robert of Germantown, Maryland. She was loved by many and will be sincerely missed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

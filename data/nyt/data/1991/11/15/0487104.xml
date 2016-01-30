@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Steelers' Long Is Suspended After Losing Steroids Appeal</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="487104"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">STEROIDS</classifier>
+        <org class="indexing_service">PITTSBURGH STEELERS</org>
+        <person class="indexing_service">LONG, TERRY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Pittsburgh Steelers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Steroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1D91E31F936A25752C1A967958260" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Steelers' Long Is Suspended After Losing Steroids Appeal</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TERRY LONG, the Pittsburgh Steeler guard who apparently tried to kill himself with rat poison after testing positive for steroids during training camp, lost his appeal on steroid use yesterday and was suspended for four games -- games he might have missed anyway because of an injury.</p>
+        <p>In his ruling, Commissioner PAUL TAGLIABUE rejected Long's contention that an unusually high natural level of testosterone had triggered a false positive reading for steroids.</p>
+      </block>
+      <block class="full_text">
+        <p>TERRY LONG, the Pittsburgh Steeler guard who apparently tried to kill himself with rat poison after testing positive for steroids during training camp, lost his appeal on steroid use yesterday and was suspended for four games -- games he might have missed anyway because of an injury.</p>
+        <p>In his ruling, Commissioner PAUL TAGLIABUE rejected Long's contention that an unusually high natural level of testosterone had triggered a false positive reading for steroids.</p>
+        <p>"It just hasn't been my year," said Long, who has been out with a torn triceps since the Giants game Oct. 14. "At the end of January I got my knee fixed. Then I got on Plan B and found out I could lose my job. Then I tore my hamstring. Then the steroid thing and the alleged suicide, and the torn tricep."</p>
+        <p>Long was injured in the third game of the season, will lose four weeks' salary during the suspension but probably not much playing time. Although he had completed the mandatory minimum of four weeks on injured reserve, he had not been expected to be fully recovered from his injury for at least several weeks.. (AP)  SPORTS PEOPLE: FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

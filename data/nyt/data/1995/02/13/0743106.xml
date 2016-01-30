@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Performance; THEATER</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="743106"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">COCTEAU, JEAN, REPERTORY</org>
+        <person class="indexing_service">HAMPTON, WILBORN</person>
+        <person class="indexing_service">DE FILIPPO, EDUARDO</person>
+        <object.title class="indexing_service">NAPOLI MILIONARIA (PLAY)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED81239F930A25751C0A963958260" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Performance; THEATER</hl1>
+      </hedline>
+      <byline class="print_byline">By WILBORN HAMPTON</byline>
+      <byline class="normalized_byline">HAMPTON, WILBORN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Popular Italian Playwright And a Wartime Family  'Napoli Milionaria' Jean Cocteau Repertory</p>
+        <p>The Jovines, a poor Neapolitan family caught in the flight pattern of Allied bombers, not to mention food shortages, in World War II, are trying to survive a war that is none of their making and, if possible, to retain a small measure of dignity and integrity.</p>
+      </block>
+      <block class="full_text">
+        <p>A Popular Italian Playwright And a Wartime Family  'Napoli Milionaria' Jean Cocteau Repertory</p>
+        <p>The Jovines, a poor Neapolitan family caught in the flight pattern of Allied bombers, not to mention food shortages, in World War II, are trying to survive a war that is none of their making and, if possible, to retain a small measure of dignity and integrity.</p>
+        <p>Gennaro, the father and the hero of Eduardo De Filippo's "Napoli Milionaria" (or "Naples Millionairess"), tends to rely on honesty and what are now called family values. His wife and children and a small army of friends and relatives are more ambitious. In fact, she amasses a fortune in a black market operation that would make the Camorra envious. Starting with a small trade in coffee under the Fascists, the business expands during the American occupation to real estate, trucking, auto parts and "you name it, they got it."</p>
+        <p>De Filippo, who died in 1985, was a Neapolitan literary heir to Pirandello. The author of some 40 plays, De Filippo was immensely popular at home, but he has never had great success outside Italy. The Cocteau Repertory's production of "Napoli Milionaria" is a welcome introduction to his particular tragicomic view of life.</p>
+        <p>Despite fine portrayals from Craig Smith and Mark Waterman, the Cocteau production at the Bouwerie Lane Theater (330 Bowery, East Village) should be funnier than it is. Most of the performances are dull and lifeless, and the mood and pace of Robert Hupp's staging often seem more suited to a Shavian drawing room than an overcrowded Italian tenement. Tori Haring-Smith's translation captures none of the fiery rhythm of the Neapolitan dialect.</p>
+        <p>The exceptions, however, almost single-handedly save the show. Mr. Smith is excellent as Gennaro. Talking with his hands and philosophizing about the evils of materialism and militarism, he would be at home in any piazza in Italy. And Mr. Waterman, as Settebellezze, Gennaro's neighbor and rival, is a model of the swaggering, preening rogue for whom success in life is a silk suit and a big car. WILBORN HAMPTON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

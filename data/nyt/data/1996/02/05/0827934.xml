@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="827934"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E7DC1439F936A35751C0A960958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Feminists' New Cause</p>
+      </block>
+      <block class="full_text">
+        <p>Feminists' New Cause</p>
+        <p>Meeting in Washington, women's groups appealed to younger members and sought  to organize against efforts to roll back affirmative-action programs. Page A10.</p>
+        <p>Singing Bankruptcy Blues</p>
+        <p>The members of the music group TLC are filing for bankruptcy protection. Their record label and manager contend the women are just trying to terminate their contract. Page D1.</p>
+        <p>Geyser Slows Down</p>
+        <p>Old Faithful, the geyser in Yellowstone National Park that was for years a national icon of dependability, is no longer so predictable in its eruptions. Page A10.</p>
+        <p>Pataki's Block-Grant Plan</p>
+        <p>Mirroring a proposal by Republicans in Congress, Governor Pataki wants to distribute state aid through block grants. The plan could have a larger impact than his cuts. Page B1.</p>
+        <p>Honeymooners' Alice Dies</p>
+        <p>Audrey Meadows, whose portrayal of Jackie Gleason's long-suffering working-class wife made her a television icon, was 71. Page D10.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

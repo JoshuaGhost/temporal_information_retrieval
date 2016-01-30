@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="24CMPBRFS" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1491407"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0D61431F937A15756C0A9659C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OFFICE DEPOT INC., Delray Beach, Fla., said it had received European Union approval to buy a stationery unit from Pinault-Printemps-Redoute, Paris, for about $1 billion in cash to double European sales and regain the lead as the world's largest seller of office supplies.</p>
+        <p>MAY DEPARTMENT STORES CO., St. Louis, the retailer, and Hearst Corp., said they would jointly market home merchandise under the name House Beautiful, Hearst's 107-year-old consumer magazine, beginning in 2005. Terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>OFFICE DEPOT INC., Delray Beach, Fla., said it had received European Union approval to buy a stationery unit from Pinault-Printemps-Redoute, Paris, for about $1 billion in cash to double European sales and regain the lead as the world's largest seller of office supplies.</p>
+        <p>MAY DEPARTMENT STORES CO., St. Louis, the retailer, and Hearst Corp., said they would jointly market home merchandise under the name House Beautiful, Hearst's 107-year-old consumer magazine, beginning in 2005. Terms were not disclosed.</p>
+        <p>COOPER TIRE AND RUBBER CO., Findlay, Ohio, said it would shut its four tire factories in the U.S. for all of next week because of a buildup of unsold products.</p>
+        <p>GEORGIA-PACIFIC CORP., Atlanta, a maker of paper, packaging and building materials, said it had agreed to purchase the Interstate Packaging sheet plant in Albert Lea, Minn., from National Packaging Solutions Group, Raleigh, N.C. Terms were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

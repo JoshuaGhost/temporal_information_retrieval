@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.D.A. Data on Defibrillators Expected</title>
+    <meta content="16drug" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/09/16/business/16drug.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1702497"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Defibrillators</classifier>
+        <classifier class="online_producer" type="descriptor">Defibrillators</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Food and Drug Administration</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6D81E31F935A2575AC0A9639C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.D.A. Data on Defibrillators Expected</hl1>
+        <hl2 class="online_headline">F.D.A. Data on Defibrillators Expected</hl2>
+      </hedline>
+      <byline class="print_byline">By BARRY MEIER</byline>
+      <dateline>WASHINGTON, Sept. 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Food and Drug Administration plans to release a study on Friday at a meeting of heart specialists that shows that implantable heart defibrillators have been malfunctioning at an increasing rate, an agency official said.</p>
+        <p>The study shows that while the number of defibrillator malfunctions climbed from 1990 to 2002, the rate of pacemaker problems fell, the official said. The rates were determined by the number of defibrillators removed and replaced because of malfunction. A defibrillator is an implantable device that gives an electrical jolt to interrupt a chaotically beating heart. A pacemaker regulates a heart that is beating too fast or too slowly.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Food and Drug Administration plans to release a study that shows that implantable heart defibrillators have been malfunctioning at an increasing rate.</p>
+      </block>
+      <block class="full_text">
+        <p>The Food and Drug Administration plans to release a study on Friday at a meeting of heart specialists that shows that implantable heart defibrillators have been malfunctioning at an increasing rate, an agency official said.</p>
+        <p>The study shows that while the number of defibrillator malfunctions climbed from 1990 to 2002, the rate of pacemaker problems fell, the official said. The rates were determined by the number of defibrillators removed and replaced because of malfunction. A defibrillator is an implantable device that gives an electrical jolt to interrupt a chaotically beating heart. A pacemaker regulates a heart that is beating too fast or too slowly.</p>
+        <p>The study found that pacemaker or defibrillator malfunctions were directly responsible for 61 confirmed deaths out of the nearly three million devices implanted in the study period.</p>
+        <p>The study, which was performed by Dr. William Maisel of Boston and involved a review of F.D.A. records, will be presented at a meeting of heart specialists in Washington.</p>
+        <p>The meeting, sponsored by a professional group, the Heart Rhythm Society, was called in response to the controversy over how the Guidant Corporation disclosed problems with some defibrillators. Heart specialists involved said that they hoped the meeting would result in guidelines that will result in better communication about heart device-related failures by manufacturers and the F.D.A.</p>
+        <p>Dr. Maisel reviewed reports filed with the F.D.A. from 1990 and 2002 by makers of heart devices that provide breakdowns of how and why products are malfunctioning.</p>
+        <p>Among other things, the study found that the rate of malfunction for defibrillators was significantly higher than for pacemakers. In addition, while the rate of defibrillator malfunctions had fallen in the first five years of the study, it has risen in the second five years, said an F.D.A. officials who asked not to be identified.</p>
+        <p>Most strikingly, the report found that 50 percent of the defibrillator malfunctions had occurred in the last three years of the study, the official said. Several researchers have speculated that the drive to miniaturize defibrillators may be a factor in the growing rate of malfunctions.</p>
+        <p>The F.D.A. is also expected to announce that it plan to look into why the product are malfunctioning.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

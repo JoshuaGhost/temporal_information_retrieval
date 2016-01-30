@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Louis Criscuolo; Designer, 46</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="419319"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">CRISCUOLO, LOUIS</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DC1730F932A05752C0A967958260" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Louis Criscuolo; Designer, 46</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Louis Criscuolo, a creative director and designer for several major cosmetics companies in New York, died yesterday at his home in Ridgefield, Conn. He was 46 years old.</p>
+        <p>He died of kidney failure, his brother, Jerry, of Seattle, said.</p>
+        <p>Mr. Criscuolo spent more than 20 years in product and package design for Revlon, Frances Denney, Charles of the Ritz, Yves St. Laurent and, most recently, at Calvin Klein, where he was vice president and creative director. He attended Foothills College in Los Altos, Calif.</p>
+        <p>Besides his brother, he is survived by several nieces and nephews.</p>
+      </block>
+      <block class="full_text">
+        <p>Louis Criscuolo, a creative director and designer for several major cosmetics companies in New York, died yesterday at his home in Ridgefield, Conn. He was 46 years old.</p>
+        <p>He died of kidney failure, his brother, Jerry, of Seattle, said.</p>
+        <p>Mr. Criscuolo spent more than 20 years in product and package design for Revlon, Frances Denney, Charles of the Ritz, Yves St. Laurent and, most recently, at Calvin Klein, where he was vice president and creative director. He attended Foothills College in Los Altos, Calif.</p>
+        <p>Besides his brother, he is survived by several nieces and nephews.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

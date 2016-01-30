@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="447512"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <person class="indexing_service">ROBERTS, JULIA</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DC113FF930A15756C0A967958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN HELLER ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JULIA ROBERTS was released from the hospital and was recuperating at home yesterday after a severe case of the flu. Accompanied by her fiance, the actor KIEFER SUTHERLAND, Ms. Roberts checked into Cedars-Sinai Medical Center Thursday.</p>
+        <p>Ms. Roberts is preparing for the STEVEN SPIELBERG film "Hook," in which she plays Tinker Bell; ROBIN WILLIAMS is Peter Pan and DUSTIN HOFFMAN Captain Hook. A spokesman for the film said she was expected on the set later this week. Mostly, she'll appear flying around, her nearly 6-foot frame shrunk to six inches.</p>
+      </block>
+      <block class="full_text">
+        <p>JULIA ROBERTS was released from the hospital and was recuperating at home yesterday after a severe case of the flu. Accompanied by her fiance, the actor KIEFER SUTHERLAND, Ms. Roberts checked into Cedars-Sinai Medical Center Thursday.</p>
+        <p>Ms. Roberts is preparing for the STEVEN SPIELBERG film "Hook," in which she plays Tinker Bell; ROBIN WILLIAMS is Peter Pan and DUSTIN HOFFMAN Captain Hook. A spokesman for the film said she was expected on the set later this week. Mostly, she'll appear flying around, her nearly 6-foot frame shrunk to six inches.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

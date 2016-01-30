@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Short-Term Treasuries Post Gains</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="478344"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="CREDIT MARKETS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BOND PRICES AND TRADING VOLUME</classifier>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <classifier class="indexing_service" type="descriptor">INTEREST (MONEY)</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service">FEDERAL RESERVE SYSTEM</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DF1F31F937A35753C1A967958260" item-length="507" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Short-Term Treasuries Post Gains</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Treasury bill prices rose yesterday on hopes that the Federal Reserve would cut interest rates soon to stimulate the faltering economic recovery.</p>
+        <p>But while the short-term market benefited from the prospect of an expected rate cut, the long-term market languished; the 30-year Treasury bond closed slightly lower.</p>
+      </block>
+      <block class="full_text">
+        <p>Treasury bill prices rose yesterday on hopes that the Federal Reserve would cut interest rates soon to stimulate the faltering economic recovery.</p>
+        <p>But while the short-term market benefited from the prospect of an expected rate cut, the long-term market languished; the 30-year Treasury bond closed slightly lower.</p>
+        <p>The 8 1/8 percent 30-year Treasury bond closed down 3/32, or 94 cents for $1,000 face amount, at 103 11/32. It yielded 7.83 percent, up from 7.82 percent on Wednesday.</p>
+        <p>The three-month bill rose, sending its yield down 8 basis points, or hundredths of a percentage point, to close at 5.01 percent. The six-month bill gained to cut its yield 7 basis points, to 5.08 percent.  Employment Data</p>
+        <p>Traders are betting that the Fed will cut interest rates as early as today, if the September employment report scheduled for this morning proves especially weak. The figures will provide the first official look at the economy's performance last month, and economists are projecting a slight rise in the unemployment rate to 6.9 percent for September from 6.8 percent in August.</p>
+        <p>The focus of any Fed interest rate cut would likely be the Federal funds rate, the amount banks charge one another for short-term loans. The target rate is now believed to be 5 1/4 percent, and it could be cut to a target of 5 percent -- the lowest since 1977.</p>
+        <p>The prospects of a Fed easing were bolstered by the weak money supply figures released yesterday, which showed that M-2 money supply in the week ended Sept. 23 fell by $3 billion.</p>
+        <p>M-2 is a broad measure of money in circulation, including cash, traveler's checks, checking accounts, bank deposits and Eurodollars. A decline in the money supply tends to show a slowing economy.</p>
+        <p>"The money supply is one of the main factors that has influenced Fed policy making in the last couple of months," said Jim Winder, an economist at Merrill Lynch. "The latest numbers are weaker than most people were looking for."</p>
+        <p>Adding to the sense of a sluggish recovery, the Labor Department reported yesterday on initial jobless claims in late September, and economists said they were at recessionary levels.</p>
+        <p>Factory orders fell 1.9 percent in August after a big July surge, the Government reported yesterday.</p>
+        <p>The White House has also voiced increasing concern about the health of the economy, adding another element of pressure on the Fed for easier rates, economists said.</p>
+        <p>Corporate bonds were aided by the RJR Nabisco Holdings decision to retire $1.8 billion of high-interest preferred stock with a new issue of common stock.</p>
+        <p>The move will leave the company with less than $15 billion in debt, lowering its overall borrowing costs. In response to the plan, all the big rating agencies said they might upgrade RJR's debt to an investment grade from its present junk bond status.</p>
+        <p>In intermediate maturities, the 6 1/8 percent two-year Treasury note ended 3/32 higher at 100 10/32, yielding 5.96 percent. The 10-ear 7 7/8 percent note was 1/32 higher at 102 25/32, yielding 7.47 percent.</p>
+        <p>CREDIT MARKETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

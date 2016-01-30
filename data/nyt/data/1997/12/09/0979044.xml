@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sprewell's Punishment Fits</title>
+    <meta content="09TUE3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="979044"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <org class="indexing_service">Golden State Warriors</org>
+        <org class="indexing_service">National Basketball Assn</org>
+        <person class="indexing_service">Sprewell, Latrell</person>
+        <person class="indexing_service">Carlesimo, P J</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1DB173CF93AA35751C1A961958260" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sprewell's Punishment Fits</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial backs National Basketball Assn's one-year suspension of Golden State Warriors basketball player Latrell Sprewell for assaulting coach during practice; says move is strong message to players and fans that thuggery will not be tolerated (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Basketball Association had little choice but to deal harshly with Latrell Sprewell of the Golden State Warriors, who last week choked, punched and threatened to kill the Warriors' coach P. J. Carlesimo. The Warriors terminated the remainder of Sprewell's four-year contract, causing him to lose $25 million, and Converse has canceled his endorsement contract. The league's decision to suspend the All-Star guard for a full year sends a strong message to players and fans that it will not tolerate thuggery.</p>
+        <p>During an altercation at a practice session,  Sprewell choked his coach, and then returned 15 minutes later to land another blow before being pulled off by other players and assistant coaches. The league is right to condemn this frightening behavior, and Sprewell should suffer financially for his inability to control his violent impulses.</p>
+      </block>
+      <block class="full_text">
+        <p>The National Basketball Association had little choice but to deal harshly with Latrell Sprewell of the Golden State Warriors, who last week choked, punched and threatened to kill the Warriors' coach P. J. Carlesimo. The Warriors terminated the remainder of Sprewell's four-year contract, causing him to lose $25 million, and Converse has canceled his endorsement contract. The league's decision to suspend the All-Star guard for a full year sends a strong message to players and fans that it will not tolerate thuggery.</p>
+        <p>During an altercation at a practice session,  Sprewell choked his coach, and then returned 15 minutes later to land another blow before being pulled off by other players and assistant coaches. The league is right to condemn this frightening behavior, and Sprewell should suffer financially for his inability to control his violent impulses.</p>
+        <p>But that does not excuse Carlesimo, who has a reputation as a screamer, for failing to defuse the situation by behaving in a less confrontational manner with Sprewell. Good coaches who command the loyalty of their players can be tough without also being pointlessly abusive. It is not blaming the victim to suggest that Carlesimo should re-examine his coaching style now that Sprewell has been ejected from the league.</p>
+        <p>This incident ought to serve as a warning to the N.B.A. and all other professional sports where abusive behavior is practically packaged as entertainment. There is a widespread belief that ''attitude'' helps sell tickets and sneakers, and despite the league's attempts to punish specific incidents of violence, the fact remains that the bad-boy behavior of Dennis Rodman and Charles Barkley, for example, has been cleverly incorporated into their commercial personas.</p>
+        <p>Indeed, the very premise of the Warriors' marketing campaign this season is that last year's losing nice guys have been replaced by a new mean machine. The only trouble was, the meanness got out of control.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

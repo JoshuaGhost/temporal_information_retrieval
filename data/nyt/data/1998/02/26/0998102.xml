@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: COMMODITIES</title>
+    <meta content="Y26COMM" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="998102"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Silver</classifier>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Silver</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EEDC133EF935A15751C0A96E958260" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: COMMODITIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Silver for March delivery falls 32.8 cents, or 5.2 percent, to $6.007 an ounce; graphs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SILVER DOWN AGAIN.  Silver for March delivery fell 32.8 cents, or 5.2 percent, to $6.007 an ounce yesterday. The supply outlook has improved with a rush of sellers and producers attracted by the recent price rally.</p>
+      </block>
+      <block class="full_text">
+        <p>SILVER DOWN AGAIN.  Silver for March delivery fell 32.8 cents, or 5.2 percent, to $6.007 an ounce yesterday. The supply outlook has improved with a rush of sellers and producers attracted by the recent price rally.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

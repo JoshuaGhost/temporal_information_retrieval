@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Hanging Offense</title>
+    <meta content="MB002220" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1617445"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <location class="indexing_service">Seville (Spain)</location>
+        <person class="indexing_service">Cattelan, Maurizio</person>
+        <person class="indexing_service">Szeemann, Harald</person>
+        <person class="indexing_service">Fuchs, Dale</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Spain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain/Andalusia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain/Andalusia/Seville</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DB153BF93BA35753C1A9629C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Hanging Offense</hl1>
+      </hedline>
+      <byline class="print_byline">By DALE FUCHS; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Fuchs, Dale</byline>
+      <abstract>
+        <p>Arts, Briefly column; organizers of first Contemporary Art Biennial of Seville, Spain, responding to protest from Andalusian government, refuses to remove installation by Italian artist Maurizio Cattelan of child mannequin hanging from pole with noose around its neck; curator Harald Szeemann says mannequin is self-portrait of artist; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A child mannequin hanging from a pole with a noose around its neck greets visitors to the first Contemporary Art Biennial of Seville, Spain. The installation, by the Italian artist Maurizio Cattelan, is causing the same furor there that a similar work did in the spring in Milan, where a father became so infuriated by its effect on his child that he fell off a ladder trying to cut it down. In Seville, the Andalusian government sent a letter to the biennial's organizers asking them to consider removing Mr. Cattelan's work because it might upset children, said a regional government spokesman, Alison Maia. The biennial commissioners refused. At a news conference, the curator, Harald Szeemann, said the hanged child mannequin was a self-portrait of the artist, and Juana de Aizpuru, the director of the biennial, said the work denounced children's suffering around the world. ''How can society be so hypocritical that it is surprised by a doll hanging from a pole, when every day we see horrible pictures of children dying of hunger or war?'' she told the newspaper El País.</p>
+        <p>DALE FUCHS</p>
+      </block>
+      <block class="full_text">
+        <p>A child mannequin hanging from a pole with a noose around its neck greets visitors to the first Contemporary Art Biennial of Seville, Spain. The installation, by the Italian artist Maurizio Cattelan, is causing the same furor there that a similar work did in the spring in Milan, where a father became so infuriated by its effect on his child that he fell off a ladder trying to cut it down. In Seville, the Andalusian government sent a letter to the biennial's organizers asking them to consider removing Mr. Cattelan's work because it might upset children, said a regional government spokesman, Alison Maia. The biennial commissioners refused. At a news conference, the curator, Harald Szeemann, said the hanged child mannequin was a self-portrait of the artist, and Juana de Aizpuru, the director of the biennial, said the work denounced children's suffering around the world. ''How can society be so hypocritical that it is surprised by a doll hanging from a pole, when every day we see horrible pictures of children dying of hunger or war?'' she told the newspaper El País.</p>
+        <p>DALE FUCHS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Excerpts From the Blog; Our House! No, Our House!</title>
+    <meta content="19bracket-2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1834220"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">NCAA Basketball Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">College Athletics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D61630F93AA25750C0A9619C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Excerpts From the Blog; Our House! No, Our House!</hl1>
+      </hedline>
+      <byline class="print_byline">By RAY GLIER</byline>
+      <byline class="normalized_byline">Glier, Ray</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was the usual circle of hysteria by a team trying to get itself ready for a game in the tunnel leading out to the arena in Columbus, Ohio. But it seemed awfully loud.</p>
+        <p>The curious came out from behind curtains and put down their lunches to see what the commotion was all about.</p>
+      </block>
+      <block class="full_text">
+        <p>It was the usual circle of hysteria by a team trying to get itself ready for a game in the tunnel leading out to the arena in Columbus, Ohio. But it seemed awfully loud.</p>
+        <p>The curious came out from behind curtains and put down their lunches to see what the commotion was all about.</p>
+        <p>Well, it was not one team but two teams getting their game faces on. Tennessee and Virginia players were jumping up and down next to one another, screaming and shouting and trying to outdo the other. The noise filled the hallways in the bowels of Nationwide Arena.</p>
+        <p>It could have been news  if the two teams had been the Florida State and Miami football teams.</p>
+        <p>Who was loudest? Virginia, a security guard said.</p>
+        <p>RAY GLIER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

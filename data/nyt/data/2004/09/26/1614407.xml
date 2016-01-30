@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pop-Up Obstacle Course</title>
+    <meta content="MB005727" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="SundayBusiness" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1614407"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">johansen, christian</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E6DE1F39F935A1575AC0A9629C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pop-Up Obstacle Course</hl1>
+      </hedline>
+      <abstract>
+        <p>Chri</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Barbarians at the Digital Gate'' (Sept. 19), which described how pop-up ads and other interruptions were angering computer users:</p>
+        <p>The article quotes an adware company executive as saying that the adware industry didn't talk to consumers ''about the benefits of software-based advertising'' and that it would be ''a battle to transcend the simplistic perception that most consumers have about adware.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Barbarians at the Digital Gate'' (Sept. 19), which described how pop-up ads and other interruptions were angering computer users:</p>
+        <p>The article quotes an adware company executive as saying that the adware industry didn't talk to consumers ''about the benefits of software-based advertising'' and that it would be ''a battle to transcend the simplistic perception that most consumers have about adware.''</p>
+        <p>What's wrong with my perception of adware? I perceive that it interrupts me when I'm trying to work, takes up space on my hard drive, occupies my computer's memory and ties up the C.P.U. -- all of which I pay for.</p>
+        <p>In the United States there is a national ''do not call'' list to defend against intrusive telemarketing. What about the intrusions facing computer users?</p>
+        <p>Christian Johansen  Ottawa, Sept. 20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

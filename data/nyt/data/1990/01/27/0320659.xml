@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pricing Pain</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="320659"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="TOPICS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND CLAIMS AGAINST GOVERNMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">TRIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">DOCTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">HOSPITALS</classifier>
+        <person class="indexing_service">PREGO, VERONICA (DR)</person>
+        <object.title class="indexing_service">TOPICS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DA173BF934A15752C0A966958260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pricing Pain</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Dr. Veronica Prego's tragic dispute with New York City has been billed as a ''$175 million lawsuit.'' It's been that way ever since someone added up all the dollars in her original complaint that the city's negligence, in leaving a contaminated needle on a hospital bed, caused her to contract AIDS.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Dr. Veronica Prego's tragic dispute with New York City has been billed as a ''$175 million lawsuit.'' It's been that way ever since someone added up all the dollars in her original complaint that the city's negligence, in leaving a contaminated needle on a hospital bed, caused her to contract AIDS.</p>
+        <p>Dr. Veronica Prego's tragic dispute with New York City has been billed as a ''$175 million lawsuit.'' It's been that way ever since someone added up all the dollars in her original complaint that the city's negligence, in leaving a contaminated needle on a hospital bed, caused her to contract AIDS. As the legal world knows, such figures mean nothing. Plaintiffs can usually win damages whether or not amounts are specified in their civil complaints.</p>
+        <p>Such dollar demands do have theatrical value, however, so years ago, doctors and municipalities persuaded the New York Legislature to forbid specific dollar amounts in medical malpractice suits or suits against localities. On New York City's motion, those numbers have been stricken from Dr. Prego's amended complaint. Should she win her suit, the jury will be asked to calculate damages on a reasonable basis.</p>
+        <p>The law is a breeding ground for gross exaggerations. Lawyers sing, ''This case is going all the way to the Supreme Court'' even when they have no hope of getting there. ''Noriega faces 145 years,'' the news reports say, adding up the maximum penalties in all the counts against Panama's former leader. In his case, such melodrama is a harmless irrelevance. In Dr. Prego's poignant case, it is an offensive distraction.</p>
+        <p>TOPICS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

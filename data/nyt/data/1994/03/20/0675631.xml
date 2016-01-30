@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="675631"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">ETHICS</classifier>
+        <org class="indexing_service">DOUGLAS ELLIMAN GIBBONS &amp; IVES</org>
+        <person class="indexing_service">MILSTEIN FAMILY</person>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DA173CF933A15750C0A962958260" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about the real estate management concern of Douglas Elliman-Gibbons &amp; Ives discussed kickbacks and other questionable practices discovered by the Milstein family after it acquired the company in 1989. The article recounted the way the new owners tried to end the abuses and called them to the attention of prosecutors.</p>
+        <p>The headline, referring to the company, said, "How the Rolls-Royce of Building Managers Suddenly Lost Its Luster."</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about the real estate management concern of Douglas Elliman-Gibbons &amp; Ives discussed kickbacks and other questionable practices discovered by the Milstein family after it acquired the company in 1989. The article recounted the way the new owners tried to end the abuses and called them to the attention of prosecutors.</p>
+        <p>The headline, referring to the company, said, "How the Rolls-Royce of Building Managers Suddenly Lost Its Luster."</p>
+        <p>That did not reflect the scope or emphasis of the article. The headline should have focused on the effort to correct abuses and prosecute wrongdoers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

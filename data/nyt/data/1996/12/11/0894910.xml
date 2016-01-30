@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DANCE</title>
+    <meta content="RV005218" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="In Performance" name="column_name"/>
+    <docdata>
+      <doc-id id-string="894910"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="In Performance"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Kellman, Joy, and Company</org>
+        <person class="indexing_service">Kellman, Joy</person>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4DF1F3FF932A25751C1A960958260" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DANCE</hl1>
+      </hedline>
+      <byline class="print_byline">By Jennifer Dunning</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews dance performance by Joy Kellman and Company (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hushed and Haunted Journey  Gives a 'Y' Series Its Start  Joy Kellman and Company  Playhouse 91</p>
+        <p>The monthlong 92d Street Y Harkness Dance Project winter series got off to a solid start with a program by Joy Kellman and Company, seen on Sunday night. The most compelling of the three premieres was ''Horizon,'' part of a suite of dances called ''Four Walls.''</p>
+        <p>Set to music by Jan Jirasek, ''Horizon'' was a strangely hushed and haunted journey for four dancers moving slowly across the stage on long flat pieces of wood, joined by a mysteriously late arriver. Contributing to the dreamlike atmosphere were the dancers' long off-white dresses, designed by Carey Bennett,  and the matte lighting, by Philip W. Sandstrom. ''Horizon'' was performed by Steven Edwards, Eric Handman, Lucia Horn, Holly Hostler  and Adele C. Myers.</p>
+        <p>The other two sections of ''Four Walls'' -- one a premiere called ''Verbraucht (Consumed)'' -- were undone by their unvarying grimness and length. ''Verbraucht,'' a solo to music by Glenn Branca, had Ms. Kellman writhing until she subsided softly into a corner of the desolate set (by Cornell H. Riggs) in a closing image far stronger than what preceded it.</p>
+        <p>In another new work, ''Catch . . . What You Can,'' performed to music by David Darling and Jean-Jacques Lemetre, Ms. Kellman seemed to revel in bouncing movement executed by dancers dressed in sherbet colors moving through similarly colored light. But like ''Verbraucht,'' this group piece lacked the inevitability of Ms. Kellman's best choreography and was strongest in its closing image.</p>
+        <p>The strong, resilient company was completed by Bartholomew Baptista and Mark Drahozal.</p>
+        <p>JENNIFER DUNNING</p>
+      </block>
+      <block class="full_text">
+        <p>Hushed and Haunted Journey  Gives a 'Y' Series Its Start  Joy Kellman and Company  Playhouse 91</p>
+        <p>The monthlong 92d Street Y Harkness Dance Project winter series got off to a solid start with a program by Joy Kellman and Company, seen on Sunday night. The most compelling of the three premieres was ''Horizon,'' part of a suite of dances called ''Four Walls.''</p>
+        <p>Set to music by Jan Jirasek, ''Horizon'' was a strangely hushed and haunted journey for four dancers moving slowly across the stage on long flat pieces of wood, joined by a mysteriously late arriver. Contributing to the dreamlike atmosphere were the dancers' long off-white dresses, designed by Carey Bennett,  and the matte lighting, by Philip W. Sandstrom. ''Horizon'' was performed by Steven Edwards, Eric Handman, Lucia Horn, Holly Hostler  and Adele C. Myers.</p>
+        <p>The other two sections of ''Four Walls'' -- one a premiere called ''Verbraucht (Consumed)'' -- were undone by their unvarying grimness and length. ''Verbraucht,'' a solo to music by Glenn Branca, had Ms. Kellman writhing until she subsided softly into a corner of the desolate set (by Cornell H. Riggs) in a closing image far stronger than what preceded it.</p>
+        <p>In another new work, ''Catch . . . What You Can,'' performed to music by David Darling and Jean-Jacques Lemetre, Ms. Kellman seemed to revel in bouncing movement executed by dancers dressed in sherbet colors moving through similarly colored light. But like ''Verbraucht,'' this group piece lacked the inevitability of Ms. Kellman's best choreography and was strongest in its closing image.</p>
+        <p>The strong, resilient company was completed by Bartholomew Baptista and Mark Drahozal.</p>
+        <p>JENNIFER DUNNING</p>
+        <p>In Performance</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

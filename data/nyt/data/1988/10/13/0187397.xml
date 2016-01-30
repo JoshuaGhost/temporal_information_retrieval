@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cardinal Blocked In Bid for Interco</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="187397"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">INTERCO INC</org>
+        <org class="indexing_service">CARDINAL ACQUISITION CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1D61539F930A25753C1A96E948260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cardinal Blocked In Bid for Interco</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PHILADELPHIA, Oct. 12</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A Federal appeals court Tuesday blocked a hostile $2.66 billion takeover bid for Interco Inc. just hours before the tender offer was scheduled to close. In ruling against the Cardinal Acquisition Corporation of Washington, the United States Court of Appeals for the Third Circuit did not specify what judges would hear the suit filed by Interco, which argues Cardinal's bid was illegal.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A Federal appeals court Tuesday blocked a hostile $2.66 billion takeover bid for Interco Inc. just hours before the tender offer was scheduled to close. In ruling against the Cardinal Acquisition Corporation of Washington, the United States Court of Appeals for the Third Circuit did not specify what judges would hear the suit filed by Interco, which argues Cardinal's bid was illegal.</p>
+        <p>A Federal appeals court Tuesday blocked a hostile $2.66 billion takeover bid for Interco Inc. just hours before the tender offer was scheduled to close. In ruling against the Cardinal Acquisition Corporation of Washington, the United States Court of Appeals for the Third Circuit did not specify what judges would hear the suit filed by Interco, which argues Cardinal's bid was illegal. The ruling freezes the bid until a further decision is made.</p>
+        <p>Cardinal's $70-a-share tender was scheduled to close at midnight Tuesday. In the suit, Interco, a diversified furniture and apparel maker based in St. Louis, contended that Cardinal, led by the brothers Steven and Mitchell Rales, had violated Federal regulations by failing to disclose a co-bidder, Drexel Burnham Lambert Inc.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

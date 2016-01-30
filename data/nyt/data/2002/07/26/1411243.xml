@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Survey on Youths And Ads for Alcohol</title>
+    <meta content="MB013435" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1411243"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Beer</classifier>
+        <org class="indexing_service">Global Strategy Group</org>
+        <person class="indexing_service">Kane, Courtney</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4D91E38F935A15754C0A9649C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Survey on Youths And Ads for Alcohol</hl1>
+      </hedline>
+      <byline class="print_byline">By Courtney Kane</byline>
+      <byline class="normalized_byline">Kane, Courtney</byline>
+      <abstract>
+        <p>Global Strategy Group survey finds teenagers remember commercials for growing number of alcoholic beverages that are brewed and sold like beer; shows 73 percent of respondents ages 12 to 18 have seen commercials for beverages (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Teenagers remember commercials for the growing number of alcoholic beverages that are brewed and sold like beer, according to a survey by an advocacy group seeking to curb marketing of the products, known as malternatives or alcopops.</p>
+        <p>The survey, which was released last week, was conducted by the Global Strategy Group in Washington for the Center for Science in the Public Interest, an advocacy group. The survey found that 73 percent of respondents ages 12 to 18 had seen commercials for the beverages.</p>
+      </block>
+      <block class="full_text">
+        <p>Teenagers remember commercials for the growing number of alcoholic beverages that are brewed and sold like beer, according to a survey by an advocacy group seeking to curb marketing of the products, known as malternatives or alcopops.</p>
+        <p>The survey, which was released last week, was conducted by the Global Strategy Group in Washington for the Center for Science in the Public Interest, an advocacy group. The survey found that 73 percent of respondents ages 12 to 18 had seen commercials for the beverages.</p>
+        <p>When asked which products the commercials were promoting, without suggestions of individual brands, more than 10 percent of the 750 respondents named brands like Smirnoff Ice, Mike's Hard Lemonade and Bacardi Silver. When the respondents were read a list of products, 62 percent said they had seen a spot for Smirnoff Ice, followed by 58 percent for Mike's Hard Lemonade, 52 percent for Zima, 45 percent for Coors Vibe, 40 percent for Bacardi Silver and 30 percent for Skyy Blue.</p>
+        <p>The Distilled Spirits Council in Washington, which represents the alcoholic beverage industry, dismissed the survey as a ''publicity stunt rerun.''</p>
+        <p>Frank Coleman, senior vice president for the council, said in a statement that the survey was ''blatantly ignoring the federal government's action on this issue,'' referring to a yearlong investigation by the Federal Trade Commission, which concluded last month that the makers of malternatives were not aiming their ads at consumers under the legal drinking age.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

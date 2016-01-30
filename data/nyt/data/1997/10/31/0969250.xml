@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Speak to the Deaf</title>
+    <meta content="LCOHEN$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="969250"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deafness</classifier>
+        <classifier class="indexing_service" type="descriptor">Shortages</classifier>
+        <classifier class="indexing_service" type="descriptor">Sign Language</classifier>
+        <person class="indexing_service">Cohen, Judy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sign Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sign Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deafness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDD1E31F932A05753C1A961958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Speak to the Deaf</hl1>
+      </hedline>
+      <abstract>
+        <p>Judy Cohen letter contends that shortage of sign language interpreters affects not only students but also businesses that want to accommodate deaf employees and others who want to see deaf people participate in their activities and use their products and services</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The shortage of sign language interpreters affects not only students (news article, Oct. 30) but also businesses that want to accommodate deaf employees, government agencies that need to make their services accessible to deaf people, and others who want to see deaf people participate in their activities and use their products and services.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The shortage of sign language interpreters affects not only students (news article, Oct. 30) but also businesses that want to accommodate deaf employees, government agencies that need to make their services accessible to deaf people, and others who want to see deaf people participate in their activities and use their products and services.</p>
+        <p>There is no short-term solution. It takes years to become a qualified sign language interpreter. But there is a long-term solution: Offer American Sign Language in the public schools as a ''foreign'' language. That would spark interest in the language and create a pool of people fluent in sign language.</p>
+        <p>JUDY  COHEN</p>
+        <p>New York, Oct. 30, 1997</p>
+        <p>Exec. Dir., Access Resources</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

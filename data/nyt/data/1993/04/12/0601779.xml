@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LaValliere Is Released</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="601779"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">PITTSBURGH PIRATES</org>
+        <person class="indexing_service">LAVALLIERE, MIKE</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Pittsburgh Pirates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DF123CF931A25757C0A965958260" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LaValliere Is Released</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Pittsburgh Pirates continued to slash veterans from their roster, releasing catcher MIKE LaVALLIERE yesterday despite owing him $4.05 million over the next two seasons.</p>
+        <p>The unexpected move hands the full-time starting job to DON SLAUGHT, who has platooned the last three seasons, and makes light-hitting TOM PRINCE the backup.</p>
+      </block>
+      <block class="full_text">
+        <p>The Pittsburgh Pirates continued to slash veterans from their roster, releasing catcher MIKE LaVALLIERE yesterday despite owing him $4.05 million over the next two seasons.</p>
+        <p>The unexpected move hands the full-time starting job to DON SLAUGHT, who has platooned the last three seasons, and makes light-hitting TOM PRINCE the backup.</p>
+        <p>If LaValliere isn't claimed on waivers by Thursday, he can cut a deal with any team he chooses. His new team must pay only the major league minimum $109,000 salary, with the Pirates responsible for the rest. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

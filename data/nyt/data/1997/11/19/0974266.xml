@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times; When to Unplug The Air Bag</title>
+    <meta content="TOPIX2" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="974266"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Bags</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobile Safety Features and Defects</classifier>
+        <org class="indexing_service">National Highway Traffic Safety Administration</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Safety Features and Defects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D9163BF93AA25752C1A961958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times; When to Unplug The Air Bag</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial warns against taking National Highway Traffic Safety Administration's decision to let some car owners install on-off switches for air bags as encouragement to disable valuable safety feature (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just because the Federal Government has decided to allow drivers to install switches to deactivate their air bags does not mean that doing so is a good idea. The vast majority of riders are safer with a functioning air bag in the event of a crash than without one. More than 2,600 lives have been saved by the bags, and of the 87 people killed by air bag deployment, most were not wearing seat belts.</p>
+        <p>The National Highway Traffic Safety Administration's rule will let  car owners apply for a permit to install an on-off switch only if they fall into these special categories: those who cannot adjust their driver's seat to stay at least 10 inches from the steering wheel, adults who have special medical problems, and those who have to put an infant or a child under 13 in the front passenger seat either because there are not enough rear seats or because the child must be kept within sight of the driver for medical reasons. Parents should not misread this action as encouragement to disable air bags.</p>
+      </block>
+      <block class="full_text">
+        <p>Just because the Federal Government has decided to allow drivers to install switches to deactivate their air bags does not mean that doing so is a good idea. The vast majority of riders are safer with a functioning air bag in the event of a crash than without one. More than 2,600 lives have been saved by the bags, and of the 87 people killed by air bag deployment, most were not wearing seat belts.</p>
+        <p>The National Highway Traffic Safety Administration's rule will let  car owners apply for a permit to install an on-off switch only if they fall into these special categories: those who cannot adjust their driver's seat to stay at least 10 inches from the steering wheel, adults who have special medical problems, and those who have to put an infant or a child under 13 in the front passenger seat either because there are not enough rear seats or because the child must be kept within sight of the driver for medical reasons. Parents should not misread this action as encouragement to disable air bags.</p>
+        <p>Air bags are a valuable safety feature that, when combined with a seat belt, can reduce the risk of serious head injury in a crash by 75 percent. While air bags can be dangerous for young children, families can avoid that hazard entirely by keeping all children safely in the back seat.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

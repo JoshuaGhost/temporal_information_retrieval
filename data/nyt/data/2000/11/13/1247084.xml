@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB012309" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1247084"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E1DB1138F930A25752C1A9669C8B63" item-length="340" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Patrick McGeehan</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>Roundup of advertising account changes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Space.com, New York, a multimedia company focused on topics like space exploration, to the New York office of Mediasmith to handle its media planning and buying account for online and offline media, with billings estimated at $15 million to $20 million. Online media duties had been handled in-house; offline media duties had been handled by the Wolf Group New York, which continues to handle the creative assignment along with the Creative Resource Company, Toronto.</p>
+      </block>
+      <block class="full_text">
+        <p>* Space.com, New York, a multimedia company focused on topics like space exploration, to the New York office of Mediasmith to handle its media planning and buying account for online and offline media, with billings estimated at $15 million to $20 million. Online media duties had been handled in-house; offline media duties had been handled by the Wolf Group New York, which continues to handle the creative assignment along with the Creative Resource Company, Toronto.</p>
+        <p>* Hops, Tampa, Fla., a chain of microbrewery restaurants that is part of Avado Brands, to Austin Kelley Advertising, Atlanta, part of the Interpublic Group of Companies, to handle its account, which had been handled in-house and on a project basis. Billings were estimated at more than $5 million.  * PhotoPoint Corp., San Francisco, an online digital photography company, to the San Francisco office of Beyond Interactive, part of the Grey Global Group, as its first interactive agency. Billings were estimated at $1 million to $2 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

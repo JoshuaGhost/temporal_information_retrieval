@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Limited's Net Climbs 12.5%</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="424772"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">LIMITED INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDF163AF933A15751C0A967958260" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Limited's Net Climbs 12.5%</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>COLUMBUS, Ohio, Feb. 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Limited Inc. said today its fourth-quarter profits rose by 12.5 percent from a year earlier as sales increased 10.2 percent.</p>
+        <p>The specialty apparel retailer said it earned $172.2 million, or 48 cents a share, in the three months ended Feb. 2. That compared with $153.1 million, or 42 cents a share, a year earlier.</p>
+      </block>
+      <block class="full_text">
+        <p>Limited Inc. said today its fourth-quarter profits rose by 12.5 percent from a year earlier as sales increased 10.2 percent.</p>
+        <p>The specialty apparel retailer said it earned $172.2 million, or 48 cents a share, in the three months ended Feb. 2. That compared with $153.1 million, or 42 cents a share, a year earlier.</p>
+        <p>Sales increased to $1.74 billion from $1.58 billion a year ago.</p>
+        <p>Limited has fared better than other retailers whose earnings were hit hard by the recession and the Gulf War. Uncertain consumers have sharply curtailed their spending for clothes and other non-essentials.</p>
+        <p>Leslie H. Wexner, company chairman, said improved performances by the Victoria's Secret store and catalog operations and the Lane Bryant division were responsible for the company's higher earnings.</p>
+        <p>For the full year, the company earned $398.4 million, or $1.10 a share, up 14.6 percent, from $346.9 million, or 96 cents a share, the previous year.</p>
+        <p>Sales rose 13 percent to $5.25 billion from $4.65 billion a year ago.</p>
+        <p>Limited operates 3,864 specialty stores through Limited Stores, Lerner New York, Lane Bryant, Express, Victoria's Secret, Structure, Limited Too, Abercrombie &amp; Fitch, Henri Bendel, Cacique, Victoria's Secret Bath Shops, Bath and Body Works, and Penhaligon's.</p>
+        <p>It also distributes apparel through the Victoria's Secret, Lane Bryant Direct, Roaman's and Lerner Direct catalogues.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

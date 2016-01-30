@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.M.'s New Saturn Model Is Said to Be Facing Delays</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="362798"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">PRODUCTION</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">GENERAL MOTORS CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Production</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D71130F932A15755C0A966958260" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.M.'s New Saturn Model Is Said to Be Facing Delays</hl1>
+      </hedline>
+      <byline class="print_byline">By DORON P. LEVIN, Special to The New York Times</byline>
+      <dateline>DETROIT, June 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Production of the General Motors Corporation's much-awaited Saturn car has been delayed slightly because of technical problems, including plastic doors that did not quite fit.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Production of the General Motors Corporation's much-awaited Saturn car has been delayed slightly because of technical problems, including plastic doors that did not quite fit.</p>
+        <p>Production of the General Motors Corporation's much-awaited Saturn car has been delayed slightly because of technical problems, including plastic doors that did not quite fit.</p>
+        <p>G.M. today would not acknowledge the delay, the technical problems or much else about Saturn. But interviews with outside suppliers who requested anonymity today suggest that some deadlines at G.M.'s assembly plant in Spring Hill, Tenn., have been moved to July from June. They added that G.M. might make up the time without losing any production.</p>
+        <p>If no further delays occur, the schedule will allow G.M.'s retiring chairman, Roger B. Smith, to drive the first Saturn off the assembly line before his last day of work on July 31, a pledge he made to Saturn workers in 1985.</p>
+        <p>The good news for G.M. is that the delays in producing a new model have become almost routine in the industry. Auto makers facing fierce competition on the quality issue have concluded that it is better to correct problems in cars before they leave the plant, even if that means incurring the costs of lost production.</p>
+        <p>''Problems always occur at the last moment'' before the start of production, said John McElroy, the editor of Automotive Industries magazine and one of the few people outside G.M. to have driven a Saturn prototype. ''It happens to Honda and Nissan, too. I don't think it's any big deal.''</p>
+        <p>Not only is Saturn a new design, but the company responsible for the car has been started from scratch with employees from G.M. and some who have never worked before in the automobile business. The location of Saturn's engineering center in Detroit and the assembly plant in Spring Hill, near Nashville, has also made coordination more difficult during the start-up phase, a supplier said today.</p>
+        <p>More recently, Mr. Smith has attempted to dim the spotlight on Saturn workers by saying he has informed Saturn executives not to worry about his promise. In response to an article about the delays today in The Detroit Free Press, a Saturn spokesman said, ''Mr. Smith won't drive the car before high quality standards are met, and that will be before his retirement on July 31.''</p>
+        <p>Earlier this year, Saturn's plastic doors reportedly expanded in the heat of the desert sun in Arizona, where G.M. operates a test track. But a person close to the company said today that the problem had been corrected.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

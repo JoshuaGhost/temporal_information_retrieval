@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tuberculosis DNA Is Decoded</title>
+    <meta content="14P2ST6" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1024690"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="JUNE 7-13"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5DF143DF937A25755C0A96E958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tuberculosis DNA Is Decoded</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For a really scary disease, forget Ebola and other plagues. Tuberculosis, contained at present by antibiotics, may not be kept at bay for long. The bacterium, which is easily inhaled, already infects much of the world's population and kills three million people a year in the less developed world.</p>
+      </block>
+      <block class="full_text">
+        <p>For a really scary disease, forget Ebola and other plagues. Tuberculosis, contained at present by antibiotics, may not be kept at bay for long. The bacterium, which is easily inhaled, already infects much of the world's population and kills three million people a year in the less developed world.</p>
+        <p>But scientists at the Sanger Center in England, in a tour de force that took two years, have deciphered the 4.4 million letters of the bacterium's genetic code, revealing every genetic weapon in the organism's armory. Designers of drugs and vaccines can now choose among the microbe's 4,000 genes for suitable targets.</p>
+        <p>NICHOLAS WADE</p>
+        <p>JUNE 7-13</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

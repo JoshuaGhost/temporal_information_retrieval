@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SPRING-LOADING</title>
+    <meta content="24dash" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/24/weekinreview/24dash.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1814210"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="BUZZWORDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+        <org class="online_producer">UnitedHeath Group</org>
+        <person class="online_producer">Alexander, Jacob</person>
+        <person class="online_producer">Cox, Christopher</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6D81131F937A15751C1A9609C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SPRING-LOADING</hl1>
+        <hl2 class="online_headline">Spring-Loading</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIC DASH</byline>
+      <byline class="normalized_byline">Dash, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When federal investigators looked into manipulated stock-option grants this year, what emerged was a scandal entangling at least 120 companies, from Apple to the UnitedHealth Group. Next came a small glossary of new terms, so those without accounting or law degrees could wrap their brains around the concepts.</p>
+        <p>There was ''backdating,'' which is retroactively setting a stock option's grant price to a date when the stock price was lower, to ''bake in'' a profit. This led to dozens of financial restatements and abrupt departures of officials -- including one chief executive, Jacob Alexander of Comverse Technologies, who fled to Namibia to escape fraud charges.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>When federal investigators looked into manipulated stock-option grants this year, what emerged was a scandal entangling at least 120 companies, from Apple to the UnitedHealth Group. Next came a small glossary of new terms, so those without accounting or law degrees could wrap their brains around the concepts.</p>
+      </block>
+      <block class="full_text">
+        <p>When federal investigators looked into manipulated stock-option grants this year, what emerged was a scandal entangling at least 120 companies, from Apple to the UnitedHealth Group. Next came a small glossary of new terms, so those without accounting or law degrees could wrap their brains around the concepts.</p>
+        <p>There was ''backdating,'' which is retroactively setting a stock option's grant price to a date when the stock price was lower, to ''bake in'' a profit. This led to dozens of financial restatements and abrupt departures of officials -- including one chief executive, Jacob Alexander of Comverse Technologies, who fled to Namibia to escape fraud charges.</p>
+        <p>There was also ''bullet-dodging,'' or delaying an options grant until just after the release of bad news to take advantage of an expected lower price. The practice is so hard to prosecute that many lawyers consider it bulletproof.</p>
+        <p>And then there was something known as ''spring-loading,'' or awarding stock options ahead of positive news to reap an instant paper profit. Even the Securities and Exchange Commission seemed divided on this one. One commissioner called it smart business, suggesting it was a legal way for companies to get a bigger bang for each stock grant. Others called it flat-out securities fraud, raising the issue of insider trading.</p>
+        <p>Federal regulators have yet to bring a spring-loading case, though a company called Cyberonics has drawn attention for making a large option grant to its chief executive just hours before federal approval of a new medical device. Such a case could help reshape laws molded from a 40-year-old case involving a Texas oil company that awarded options before a big discovery.</p>
+        <p>Officials have had fun with the wacky legal lexicon. ''Spring-loading sounds like the type of thing you ask your kids not to do inside the house,'' said Christopher Cox, the S.E.C. chairman. And ''backdating sounds like something that you wouldn't want your daughter to do anywhere.''</p>
+        <p>ERIC DASH</p>
+        <p>BUZZWORDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

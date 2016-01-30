@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Weddings; Lucy E. Kehoe, James E. Buggy</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="688768"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KEHOE, LUCY ELIZABETH (LUCY ELIZABETH BUGGY)</person>
+        <person class="indexing_service">BUGGY, JAMES EDWARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4D61438F931A15756C0A962958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Weddings; Lucy E. Kehoe, James E. Buggy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lucy Elizabeth Kehoe, a daughter of Anne Glazebrook Kehoe of Todt Hill, S.I., and Francis J. Kehoe of Grymes Hill, S.I., was married yesterday to James Edward Buggy, a son of the late Mary and Martin Buggy. The Rev. John H. Walsted performed the service at Christ Episcopal Church in New Brighton, S.I.</p>
+        <p>Mrs. Buggy, 30, is the manager of the conference division of CMC, trade show and conference producers, in Norwalk, Conn. She graduated from Ohio Wesleyan University.</p>
+      </block>
+      <block class="full_text">
+        <p>Lucy Elizabeth Kehoe, a daughter of Anne Glazebrook Kehoe of Todt Hill, S.I., and Francis J. Kehoe of Grymes Hill, S.I., was married yesterday to James Edward Buggy, a son of the late Mary and Martin Buggy. The Rev. John H. Walsted performed the service at Christ Episcopal Church in New Brighton, S.I.</p>
+        <p>Mrs. Buggy, 30, is the manager of the conference division of CMC, trade show and conference producers, in Norwalk, Conn. She graduated from Ohio Wesleyan University.</p>
+        <p>Mr. Buggy, 38, is an executive director with the Community Counselling Service Company, fund-raising consultants in New York. He graduated from St. John's University. His previous marriage ended in divorce.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

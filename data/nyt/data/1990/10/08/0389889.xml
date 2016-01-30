@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COLUMBUS DAY OBSERVED TODAY</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="389889"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COLUMBUS DAY</classifier>
+        <classifier class="online_producer" type="types_of_material">SUMMARY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDC1130F93BA35753C1A966958260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COLUMBUS DAY OBSERVED TODAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>NEW YORK</p>
+        <p>Parade: Fifth Avenue closed to traffic from 11:30 A.M. to 4 P.M. from 44th Street to 86th Street.</p>
+        <p>Parking: Alternate-side rules suspended</p>
+        <p>Government offices: Federal, state and city offices are closed.</p>
+        <p>Post Office: Express Mail and special delivery only; main post office open at 33d Street and Eighth Avenue.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>NEW YORK</p>
+        <p>Parade: Fifth Avenue closed to traffic from 11:30 A.M. to 4 P.M. from 44th Street to 86th Street.</p>
+        <p>Parking: Alternate-side rules suspended</p>
+        <p>Government offices: Federal, state and city offices are closed.</p>
+        <p>Post Office: Express Mail and special delivery only; main post office open at 33d Street and Eighth Avenue.</p>
+        <p>NEW YORK</p>
+        <p>Parade: Fifth Avenue closed to traffic from 11:30 A.M. to 4 P.M. from 44th Street to 86th Street.</p>
+        <p>Parking: Alternate-side rules suspended</p>
+        <p>Government offices: Federal, state and city offices are closed.</p>
+        <p>Post Office: Express Mail and special delivery only; main post office open at 33d Street and Eighth Avenue.</p>
+        <p>Banks: Option to close.</p>
+        <p>Sanitation: No collections.</p>
+        <p>Schools: Closed.</p>
+        <p>Financial Markets: Open.</p>
+        <p>Transportation: Regular schedules.</p>
+        <p>NEW JERSEY</p>
+        <p>Government offices: Closed.</p>
+        <p>Post offices: Express Mail and special delivery only.</p>
+        <p>Banks and schools: Option to close.</p>
+        <p>Transportation: N.J. Transit, PATH and most buses on regular schedules.</p>
+        <p>CONNECTICUT</p>
+        <p>Government offices: Federal, state and city offices are closed.</p>
+        <p>Post offices: Express Mail and special delivery only.</p>
+        <p>Banks: Option to close.</p>
+        <p>Schools: Closed.</p>
+        <p>Transportation: Metro-North on regular schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

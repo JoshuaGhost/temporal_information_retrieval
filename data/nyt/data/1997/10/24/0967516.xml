@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="RV235527" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="967516"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Marin, John (1870-1953)</person>
+        <person class="indexing_service">Glueck, Grace</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DA113EF937A15753C1A961958260" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews retrospective of John Marin oils and watercolors, at Kennedy Galleries (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John Marin  'Between Realism and Abstraction'  Kennedy Galleries  730 Fifth Avenue, at 57th Street  Through Nov. 1</p>
+        <p>''Overexposed'' is a word that comes to mind for the work of John Marin (1870-1953), who, to repeat the boilerplate, is probably the most accomplished of the pioneering American modernists and maybe the greatest American watercolorist (emphasis on ''colorist''). First exhibited here by the avant-garde avatar Alfred Stieglitz in 1910, Marin has an exhibition record that must be at least as long as Picasso's (no other comparison intended).</p>
+      </block>
+      <block class="full_text">
+        <p>John Marin  'Between Realism and Abstraction'  Kennedy Galleries  730 Fifth Avenue, at 57th Street  Through Nov. 1</p>
+        <p>''Overexposed'' is a word that comes to mind for the work of John Marin (1870-1953), who, to repeat the boilerplate, is probably the most accomplished of the pioneering American modernists and maybe the greatest American watercolorist (emphasis on ''colorist''). First exhibited here by the avant-garde avatar Alfred Stieglitz in 1910, Marin has an exhibition record that must be at least as long as Picasso's (no other comparison intended).</p>
+        <p>Yet this retrospective of oils and watercolors, dating from 1910, when Marin returned from a five-year stay in Paris, to 1952, the year before his death, again brings home the freshness of his vision. The nearly 40 works, all drawn from the gallery's own holdings of the Marin estate, cover a wide range of the landscape subjects he favored, from the Austrian Tyrol to New Mexico to the skyscrapers of Manhattan, and, of course, his beloved Maine. Somewhere between Cubism and Expressionism, sometimes approaching total abstraction, his lyrical work has an energy that quickly jumps to the viewer.</p>
+        <p>Marin's magic as a colorist is immediately evident in a small, early oil, ''Weehawken Sequence,'' from 1916. Its jostling, restless strokes and shapes form an evocative abstract landscape from a harmonious clash of light blues, yellows, ochers and greens. Sparkling ocean greens dominate ''Sea, Tree and Boat'' (1921), a less abstract work in which the realistic form of a sailboat commingles with sprightly, doodly suggestions of sea, land and vegetation. For the basic structure of horizontals and verticals, an often-used Marin device, the artist credited no less an influence than Mondrian.</p>
+        <p>Marin did Maine, where he spent most of his summers, in every conceivable light and time of day. One of his most arresting views is the heavily pigmented ''Head of the Cape, Cape Split, Maine'' (1942), in which a restless, edgy sea pushes hard against rocks as an ominous cloud darkens the horizon. He uses a far lighter touch, full of nervous lines and light dabs of color, in the more figurative ''Blueberry Barrens, Washington County, Maine'' (1945).</p>
+        <p>Some uncharacteristic works, like ''Nymph and Sea'' of 1943, a lighthearted view of a classically posed nude, prove that Marin was adept in genres other than landscape. For those who don't know Marin well, this show is a spirited introduction; even for those whose eyes glaze over at his omnipresence in this gallery, there are new things to appreciate.</p>
+        <p>GRACE GLUECK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

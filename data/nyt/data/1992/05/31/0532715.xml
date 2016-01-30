@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miss Aldridge, Anthony Mancini</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="532715"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ALDRIDGE, ALEXANDRA AMINDRA (ALEXANDRA AMINDRA MANCINI)</person>
+        <person class="indexing_service">MANCINI, ANTHONY RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DB1331F932A05756C0A964958260" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miss Aldridge, Anthony Mancini</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexandra Amindra Aldridge, the daughter of Mr. and Mrs. Fred C. Aldridge Jr. of Haverford, Pa., was married yesterday in Wayne, Pa., to Anthony Richard Mancini, a son of Mr. and Mrs. Albert R. Mancini of Wynnewood, Pa. The Rev. Rudolph A. Moore performed the ceremony at the Chapel of St. David's Episcopal Church.</p>
+        <p>Mrs. Mancini graduated from Duke University and received an M.B.A. from Columbia University. She is the program manager at the Vanguard Group, a mutual-funds company in Valley Forge, Pa. Her father is a senior partner at the Philadelphia law firm of Stradley, Ronon, Stevens &amp; Young. Her mother, Alexandra Q. Aldridge, is the vice president for development at the Philadelphia Museum of Art.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexandra Amindra Aldridge, the daughter of Mr. and Mrs. Fred C. Aldridge Jr. of Haverford, Pa., was married yesterday in Wayne, Pa., to Anthony Richard Mancini, a son of Mr. and Mrs. Albert R. Mancini of Wynnewood, Pa. The Rev. Rudolph A. Moore performed the ceremony at the Chapel of St. David's Episcopal Church.</p>
+        <p>Mrs. Mancini graduated from Duke University and received an M.B.A. from Columbia University. She is the program manager at the Vanguard Group, a mutual-funds company in Valley Forge, Pa. Her father is a senior partner at the Philadelphia law firm of Stradley, Ronon, Stevens &amp; Young. Her mother, Alexandra Q. Aldridge, is the vice president for development at the Philadelphia Museum of Art.</p>
+        <p>Mr. Mancini graduated from the University of Pittsburgh. He is an associate publisher with Sweets International, the building-products information unit of McGraw-Hill Inc. His mother, Caroline F. Mancini, teaches at St. Katherine's Day School in Wynnewood. His father is the principal of Mapleton High School of the Devereux Foundation in Malvern, Pa.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

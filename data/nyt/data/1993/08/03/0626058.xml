@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nevada Power reports earnings for Year June 30</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="626058"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E4D6173FF930A3575BC0A965958260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nevada Power reports earnings for Year June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Nevada Power (NYSE)</p>
+        <p>Year June 30</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>604,853,000</p>
+        <p>574,188,000</p>
+        <p>Net inc</p>
+        <p>68,130,000</p>
+        <p>43,577,000</p>
+        <p>Share earns</p>
+        <p>1.72</p>
+        <p>1.19</p>
+        <p>Shares outst</p>
+        <p>37,308,000</p>
+        <p>33,481,000</p>
+        <p>Year-ago period reflected reclassification of certain amounts, with no effect on income or shareholders' equity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

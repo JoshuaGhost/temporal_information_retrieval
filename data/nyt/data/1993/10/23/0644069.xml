@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>UNITED TECHNOLOGIES CORP. (N)</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="644069"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY REPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">UNITED TECHNOLOGIES CORP</org>
+        <org class="indexing_service">PRATT &amp; WHITNEY</org>
+        <org class="indexing_service">OTIS ELEVATOR CO</org>
+        <org class="indexing_service">CARRIER CORP</org>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDD103CF930A15753C1A965958260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>UNITED TECHNOLOGIES CORP. (N)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United Technologies Corporation said yesterday that its net income rose nearly 25 percent in the third quarter as a result of double-digit percentage increases at its Pratt &amp; Whitney jet engine, Otis elevator and Carrier air-conditioner units. But it said earnings of its auto parts operation fell almost 50 percent.</p>
+        <p>Contributing to Pratt's operating profit of $60 million were lower costs and an increase in orders for highly profitable spare parts. Otis's operating profit increased to $100 million, from $78 million a year earlier, as a result of improvements in the European, Asian-Pacific and Latin American regions. Carrier posted an operating profit of $114 million, compared with $82 million, because gains in North America, Asia-Pacific and Latin America more than offset the effects of a recession in Europe.</p>
+      </block>
+      <block class="full_text">
+        <p>The United Technologies Corporation said yesterday that its net income rose nearly 25 percent in the third quarter as a result of double-digit percentage increases at its Pratt &amp; Whitney jet engine, Otis elevator and Carrier air-conditioner units. But it said earnings of its auto parts operation fell almost 50 percent.</p>
+        <p>Contributing to Pratt's operating profit of $60 million were lower costs and an increase in orders for highly profitable spare parts. Otis's operating profit increased to $100 million, from $78 million a year earlier, as a result of improvements in the European, Asian-Pacific and Latin American regions. Carrier posted an operating profit of $114 million, compared with $82 million, because gains in North America, Asia-Pacific and Latin America more than offset the effects of a recession in Europe.</p>
+        <p>The company said its overall work force had been reduced by 22,450 people, or 86 percent of its planned cutback of 26,100 by 1995.</p>
+        <p>COMPANY REPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY NEWS;</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="631339"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">GAS (FUEL)</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">FM PROPERTIES INC</org>
+        <org class="indexing_service">NOBLE AFFILIATES INC</org>
+        <org class="indexing_service">SAMEDEAN OIL CORP</org>
+        <person class="indexing_service">JONES, KATHRYN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDA1630F93BA1575BC0A965958260" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY NEWS;</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHRYN JONES,</byline>
+      <byline class="normalized_byline">JONES, KATHRYN</byline>
+      <dateline>DALLAS, Aug. 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Noble Affiliates Inc., an independent energy company based in Ardmore, Okla., said today that its Samedan Oil Corporation had agreed to buy the oil and natural gas properties of FM Properties Inc. for $305 million in cash.</p>
+        <p>Noble estimated the properties' net proved reserves at 21.6 million barrels of oil and 253 billion cubic feet of gas. The oil reserves are in Kern County in central California, and the gas reserves are in Montana, Colorado and off the Louisiana coast.</p>
+      </block>
+      <block class="full_text">
+        <p>Noble Affiliates Inc., an independent energy company based in Ardmore, Okla., said today that its Samedan Oil Corporation had agreed to buy the oil and natural gas properties of FM Properties Inc. for $305 million in cash.</p>
+        <p>Noble estimated the properties' net proved reserves at 21.6 million barrels of oil and 253 billion cubic feet of gas. The oil reserves are in Kern County in central California, and the gas reserves are in Montana, Colorado and off the Louisiana coast.</p>
+        <p>The properties are currently producing about 5,000 barrels of oil and 114 million cubic feet of gas a day, Noble estimated. Raises Reserve Base</p>
+        <p>"These properties will increase our fourth-quarter oil and gas production," Robert L. Kelley, Noble's chairman, president and chief executive, said in a statement. He further said they would provide a "significant increase" to the company's reserve base.</p>
+        <p>FM Properties said the transaction, which will take effect on Oct. 1, would enable it to retire a substantial portion of its long-term debt and focus on its real estate assets. FM Properties was spun off last year from Freeport-McMoran Inc., a natural resources company based in New Orleans. The spinoff transferred oil and gas and real estate assets to the new company as well as $500 million in debt.</p>
+        <p>Investors apparently viewed the transaction as positive for both companies. FM Properties closed at $6, up 50 cents, in Nasdaq trading; Noble rose $1, to $27.625, on the Big Board.</p>
+        <p>Richard C. Adkerson, chairman of FM Properties, said the transaction and a recent buyout of a natural gas contract would reduce the company's debt from $435 million to about $100 million. He said the recent rise in natural gas prices had renewed interest in oil and gas acquisitions, allowing FM Properties to receive an "attractive" offer for its oil and gas assets sooner than it had expected.</p>
+        <p>"It allows us to achieve in one transaction what we were hoping to accomplish over several years," Mr. Adkerson said. "We're just as happy about it as we can be."</p>
+        <p>FM Properties will receive $24 million from the buyout of the natural gas contract in Louisiana. The company will receive about half the amount in September and the rest in January.</p>
+        <p>Mr. Adkerson said FM Properties planned to make additional investments in its real estate assets, which include resort properties and undeveloped land in Texas.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

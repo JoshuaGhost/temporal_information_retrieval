@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="04corrections-4" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1752043"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D61330F937A35757C0A9609C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Thursday about a British trademark suit against Apple Computer referred imprecisely to the ability of the Apple iPod to play tunes from online music stores other than Apple's, an issue in a French political debate. (The error also occurred on March 17 in an article about the French debate.) While Apple's music store makes tunes available in a proprietary format, iPods can play music purchased at certain other stores, usually in MP3 format.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Thursday about a British trademark suit against Apple Computer referred imprecisely to the ability of the Apple iPod to play tunes from online music stores other than Apple's, an issue in a French political debate. (The error also occurred on March 17 in an article about the French debate.) While Apple's music store makes tunes available in a proprietary format, iPods can play music purchased at certain other stores, usually in MP3 format.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

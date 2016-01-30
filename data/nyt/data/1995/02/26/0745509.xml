@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology; Driving a Computer Like a Car</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="745509"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <person class="indexing_service">BURKOV, SERGEI</person>
+        <person class="indexing_service">FREED, ALEX</person>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DE1F3CF935A15751C0A963958260" item-length="809" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology; Driving a Computer Like a Car</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TYPEWRITER keyboards were once pretty simple things: a key for each letter of the alphabet, numbers, some punctuation marks and a shift key. But as they have been adapted to control computers, they have grown larger and increasingly complex: function keys often represent at least four different commands, depending on whether some combination of the shift, control or alt keys are pressed along with them.</p>
+        <p>The required contortions are thought to be one cause of the repetitive strain injuries to the arms and hands of people who spend long hours working at computers. Various remedies have been offered, including new keyboards that have different key configurations or are even split in two to ease arm and wrist strain. But now some former research scientists from Russia believe they have put their finger on the problem. Their solution: add foot controls to the computer interface.</p>
+      </block>
+      <block class="full_text">
+        <p>TYPEWRITER keyboards were once pretty simple things: a key for each letter of the alphabet, numbers, some punctuation marks and a shift key. But as they have been adapted to control computers, they have grown larger and increasingly complex: function keys often represent at least four different commands, depending on whether some combination of the shift, control or alt keys are pressed along with them.</p>
+        <p>The required contortions are thought to be one cause of the repetitive strain injuries to the arms and hands of people who spend long hours working at computers. Various remedies have been offered, including new keyboards that have different key configurations or are even split in two to ease arm and wrist strain. But now some former research scientists from Russia believe they have put their finger on the problem. Their solution: add foot controls to the computer interface.</p>
+        <p>The result, a $99 kit called Step On It that is now available through the maker, as well as the Radio Shack catalogue and various computer dealers, uses three color-coded foot pedals to take the place of three of the most commonly used, or hard to reach, keys. The device is programmable, so the keys the pedals control can be changed, depending on the type of job being done or the preferences of the user.</p>
+        <p>Some photographers for example, have started using the apparatus so they can have both hands free for positioning and cropping an image as they prepare to scan it into a computer. "The foot pedal replaces the enter key, which is a big help," said Stephen Allen, president of Integrated Technologies, a computer consulting company in New York.</p>
+        <p>The system's default setting, though, indicates what the primary use is intended to be: using the three pedals as substitutes for the notorious shift, control and alt keys.</p>
+        <p>"Those are probably the worst keys on the keyboard because you usually have to hold them down while pressing another key," said Sergei Burkov, the director of technology at Bilbo Innovations Inc., a privately held start-up company in Madison, Wis.</p>
+        <p>In some ways Bilbo, founded last year by Mr. Burkov and several other Russian emigres, is as noteworthy as its computer pedals. Mr. Burkov developer of the system, holds a doctorate in theoretical physics and was a research scientist in Russia before emigrating to the United States some five years ago.</p>
+        <p>Another Russian emigre, Alex Freed, wrote most of the software for the device. And part of the start-up capital came from Russian businessmen back home, Mr. Burkov.  "They provided some seed capital," was as specific as we was willing to be.</p>
+        <p>STEP ON IT, which works with most types of I.B.M.-compatible desktops now on the market, consists of a control box, installed between the keyboard and the main body of the computer, and the three foot pedals. The pedals are connected to the control box with twisted-copper telephone wire. The set-up software comes on a floppy disk.</p>
+        <p>As Bilbo sees it, the right way to use the system is to have the left foot rest on the pedal that controls the Shift key while the right foot divides its time between the pedals governing alt and control. (A big foot can probably depress two at once, although orthopedists might not recommend the method.) In practice, Mr. Burkov said, many people simply assign one pedal to each foot, kick the third one out of the way, and make up the difference at the keyboard.</p>
+        <p>Although the Bilbo control unit can only store one configuration for the pedals at a time, multiple applications can be prepared in advanced, named and stored in Bilbo's software on the host computer. The various stored options can later be pulled off an on-screen menu.</p>
+        <p>The system can also be programmed through the computer so that each foot pedal can execute more complex commands -- simultaneously depressing the control and F6 keys with a single tap of the foot, for example. A pedal can be programmed with one of these "macro" commands of up to 13 keystrokes.</p>
+        <p>One drawback of the system is that the foot pedals are not a 100 percent accurate replication of the keyboard. For example, the control box does not recognize if the "Num Lock" key has been pressed, which could cause the wrong command to be executed unless the user takes pains to check the keyboard's little Num Lock light first.</p>
+        <p>For Mr. Burkov, Bilbo's next steps include drawing upon his Russian connection to reduce the company's manufacturing costs. Right now he obtains Taiwanese-made foot pedals from an American supplier, but he soon hopes to switch to pedals of his own design. They could be produced at any number of Russian plants, he said, at acceptable quality but lower prices.</p>
+        <p>The internal electronics of his product will continue to be American-made. "The difference in cost is not much," he said, "but the quality here is much better."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

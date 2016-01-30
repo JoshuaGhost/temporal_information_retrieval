@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unisys, I.B.M. Set Up Units</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="315940"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <org class="indexing_service">INTERNATIONAL BUSINESS MACHINES CORP (IBM)</org>
+        <org class="indexing_service">UNISYS CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DF1630F932A25752C0A966958260" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unisys, I.B.M. Set Up Units</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The International Business Machines Corporation and the Unisys Corporation said separately yesterday that they had set up special units to help customers manage computer operations.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The International Business Machines Corporation and the Unisys Corporation said separately yesterday that they had set up special units to help customers manage computer operations.</p>
+        <p>The International Business Machines Corporation and the Unisys Corporation said separately yesterday that they had set up special units to help customers manage computer operations.</p>
+        <p>I.B.M. announced the formation of the I.B.M. Systems Services organization, which reports to the company's National Service division. Recently, the Armonk, N.Y., computer giant announced data center management contracts with the Eastman Kodak Company, Hibernia National Bank in New Orleans, Bank South in Atlanta and the First Tennessee National Corporation in Memphis. I.B.M. said that it had several other customers for the service. Unisys, based in Blue Bell, Pa., will combine portions of its commercial and government business groups in a unit that will offer systems integration and other services. The new Systems Management Group will be part of the company's United States Information Systems division.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

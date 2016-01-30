@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Geon Co.(GON,N) reports earnings for Qtr to Sept 30</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="717671"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDF1639F930A25753C1A962958260" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Geon Co.(GON,N) reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Geon Co.(GON,N)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Sales</p>
+        <p>312,300,000</p>
+        <p>254,500,000</p>
+        <p>Net inc</p>
+        <p>b18,700,000</p>
+        <p>5,500,000</p>
+        <p>Share earns</p>
+        <p>.66</p>
+        <p>.21</p>
+        <p>Shares outst</p>
+        <p>28,300,000</p>
+        <p>26,400,000</p>
+        <p>9mo sales</p>
+        <p>858,100,000</p>
+        <p>724,200,000</p>
+        <p>Net inc</p>
+        <p>b38,500,000</p>
+        <p>c5,600,000</p>
+        <p>Share earns</p>
+        <p>1.36</p>
+        <p>.21</p>
+        <p>Shares outst</p>
+        <p>28,300,000</p>
+        <p>26,400,000</p>
+        <p>b-Included extraordinary charge of $ 1.3 million, or 5 cents a share, reflecting early retirement of debt, in the quarter and 9 months. c-After a charge of $ 1.1 million, or 4 cents a share, reflecting change in accounting for income taxes. Year-ago periods are pro forma to exclude operations of Calvert Facilities, as B.F. Goodrich did not transfer those facilities to the company, and as if Geon bought certain materials at Calvert at market prices rather than at historical intercompany costs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

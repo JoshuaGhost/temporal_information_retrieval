@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Olympians on Top</title>
+    <meta content="PL032843" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1012252"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: EQUESTRIAN -- KENTUCKY HORSE TRIALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Shows</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DD103FF936A15757C0A96E958260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Olympians on Top</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX ORR</byline>
+      <abstract>
+        <p>Summary of results of dressage phase at Rolex-Kentucky Horse Trials in Lexington (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>David O'Conner, Bruce Davidson and Karen O'Connor, winners of a team silver medal for the United States at the 1996 Atlanta Olympics, captured the first four places in the dressage phase at the Rolex-Kentucky Horse Trials yesterday in Lexington, Ky.</p>
+      </block>
+      <block class="full_text">
+        <p>David O'Conner, Bruce Davidson and Karen O'Connor, winners of a team silver medal for the United States at the 1996 Atlanta Olympics, captured the first four places in the dressage phase at the Rolex-Kentucky Horse Trials yesterday in Lexington, Ky.</p>
+        <p>O'Connor placed first with a dressage score of 40.4 penalties aboard his Olympic mount, the Irish thoroughbred Giltedge. That score will be added to penalties in the cross-country test today and the stadium jumping competition tomorrow. The lowest score wins.</p>
+        <p>ALEX ORR</p>
+        <p>PLUS: EQUESTRIAN -- KENTUCKY HORSE TRIALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

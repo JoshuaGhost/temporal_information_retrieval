@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Daily Dose of Dairy May Help With Hypertension</title>
+    <meta content="11nutr" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/11/health/nutrition/11nutr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1775171"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="VITAL SIGNS: NUTRITION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood Pressure</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oils and Fats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood Pressure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2DE1130F932A25754C0A9609C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Daily Dose of Dairy May Help With Hypertension</hl1>
+        <hl2 class="online_headline">Nutrition: Daily Dose of Dairy May Help With Hypertension</hl2>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People who regularly consume low-fat dairy products may be less likely to develop hypertension, researchers have found.</p>
+        <p>The researchers looked at the eating habits of almost 5,000 people taking part in a heart study run by the National Heart, Lung and Blood Institute and found that those who took in two or more servings of low-fat foods like milk, cheese and yogurt tended to have lower blood pressure.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People who regularly consume low-fat dairy products may be less likely to develop hypertension, researchers have found.</p>
+      </block>
+      <block class="full_text">
+        <p>People who regularly consume low-fat dairy products may be less likely to develop hypertension, researchers have found.</p>
+        <p>The researchers looked at the eating habits of almost 5,000 people taking part in a heart study run by the National Heart, Lung and Blood Institute and found that those who took in two or more servings of low-fat foods like milk, cheese and yogurt tended to have lower blood pressure.</p>
+        <p>The study, which appears in the August issue of the journal Hypertension, found that eating dairy was associated with a lower incidence of high blood pressure and lower readings of the systolic pressure (the top and higher number, reflecting the measurement when the heart beats).</p>
+        <p>''These findings lend support to the recommendation of low-fat dairy consumption as a mean to lower blood pressure,'' wrote the researchers, who were led by Dr. Luc Djoussé of Harvard Medical School.</p>
+        <p>The study, which did not receive financing from the dairy industry, noted that the current recommendations for lowering blood pressure, apart from medication, were for people to exercise and follow a diet rich in fruit, vegetables and whole grains, as well as potassium, manganese and calcium, which are in dairy foods.</p>
+        <p>But earlier studies have been inconclusive about the relationship between dairy and blood pressure, the researchers noted, and questions have been raised about whether any value may be canceled out by the saturated fats they contain.</p>
+        <p>While this study did find a link between dairy consumption and lower blood pressure, it was not clear why this was so.</p>
+        <p>Calcium alone did not appear responsible for the benefit, suggesting that some other nutrient may play a role.</p>
+        <p>VITAL SIGNS: NUTRITION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

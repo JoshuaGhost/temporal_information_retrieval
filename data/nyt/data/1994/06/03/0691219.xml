@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sally Belfrage Memorial</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="691219"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">BELFRAGE, SALLY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D91E3BF930A35755C0A962958260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sally Belfrage Memorial</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A memorial gathering for Sally Belfrage, an author of memoirs who died on March 14 at the age of 57, will be held on Wednesday at 5:30 P.M. at the Century Club, 7 West 43d Street, Manhattan. Ms. Belfrage's last book, "Un-American Activities" (HarperCollins), is to be published on June 29.</p>
+      </block>
+      <block class="full_text">
+        <p>A memorial gathering for Sally Belfrage, an author of memoirs who died on March 14 at the age of 57, will be held on Wednesday at 5:30 P.M. at the Century Club, 7 West 43d Street, Manhattan. Ms. Belfrage's last book, "Un-American Activities" (HarperCollins), is to be published on June 29.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

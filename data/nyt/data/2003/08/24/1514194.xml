@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pockets Full of Style</title>
+    <meta content="24STRE" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1514194"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E6DC1639F937A1575BC0A9659C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pockets Full of Style</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of patch-pocket pants and skirts seen in New York City (On the Street column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patch pockets can be seen running down the legs of pants and the lengths of skirts everywhere. They were originally adopted from military cargo pants and paratrooper jumpsuits, becoming popular with young counterculturalists and skateboarders, who needed to free their hands. This summer, sophisticated women are wearing variations cut from satins, denim and cotton. But they seldom use the pockets.</p>
+      </block>
+      <block class="full_text">
+        <p>Patch pockets can be seen running down the legs of pants and the lengths of skirts everywhere. They were originally adopted from military cargo pants and paratrooper jumpsuits, becoming popular with young counterculturalists and skateboarders, who needed to free their hands. This summer, sophisticated women are wearing variations cut from satins, denim and cotton. But they seldom use the pockets.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

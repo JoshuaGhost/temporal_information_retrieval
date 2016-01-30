@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Young Editors Speak Up and Out</title>
+    <meta content="26BOLT" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Education" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="998080"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Internet and World Wide Web</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Concrete Media</org>
+        <person class="indexing_service">Kushner, David</person>
+        <person class="indexing_service">Stanzione, Parker</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DF133EF935A15751C0A96E958260" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Young Editors Speak Up and Out</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KUSHNER</byline>
+      <byline class="normalized_byline">Kushner, David</byline>
+      <abstract>
+        <p>Bolt Reporter, high-school journalism Internet site, encourages students to explore controversial stories, including those forbidden to run in school newspapers by school administrations; site is produced by Concrete Media; Parker Stanzione of Concrete Media says students need opportunity to speak out against everyone who is infringing on their rights, including principals, teachers and parents (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NET surfers have been riding waves of dirt since the White House scandal broke, but are they ready for ''All the Principal's Men?'' Bolt Reporter is banking on it.</p>
+        <p>Bolt Reporter, a high-school journalism site, hopes to do for teen-agers what Matt Drudge, the Internet columnist, has done for politicians: create an on-line forum for all the news that's unfit to print.</p>
+      </block>
+      <block class="full_text">
+        <p>NET surfers have been riding waves of dirt since the White House scandal broke, but are they ready for ''All the Principal's Men?'' Bolt Reporter is banking on it.</p>
+        <p>Bolt Reporter, a high-school journalism site, hopes to do for teen-agers what Matt Drudge, the Internet columnist, has done for politicians: create an on-line forum for all the news that's unfit to print.</p>
+        <p>Started by a creator of the on-line literary magazine Word, Bolt Reporter (www.boltreporter.com) seems inspired by equal parts USA Today, ''60 Minutes'' and MTV. Its national team of high-school editors adds at least one new article a day, either original reporting or a reprint from a school paper. Bolt Reporter encourages readers to type their responses in message boards that accompany each story.</p>
+        <p>The site is produced by Concrete Media of New York.</p>
+        <p>One notable part is the Banned section, which runs features that had been killed by school administrations. Adrian Holovaty, an editor from Naperville North High School in Illinois, wrote a story for the site about a teacher accused of sexual harassment.  After officials deemed his original story too sensitive to run in the school paper, Mr. Holovaty beamed it to students worldwide through Bolt Reporter.</p>
+        <p>''Don't let administrators intimidate you -- you have a right to your own opinion, too,'' he wrote. ''If the administration refuses to change its mind, let the public know.''</p>
+        <p>According to Parker Stanzione of Concrete Media, who oversees the site, ''kids need the opportunity to speak out against everyone who's infringing on their rights.''  Targets range from principals (an article about a Connecticut high school that banned T-shirts inspired by the cartoon ''South Park'') to Mom and Dad (a group of California students will write about a classmate whose parents shipped him to a behavioral-treatment center in Jamaica).</p>
+        <p>While on-line services like Reuters Teen Magnet and the Youth Outlook site are playing the teen-age news game, Bolt Reporter's investigative mission is the most ambitious, encouraging students to explore controversial stories. That is, of course, assuming they can find the time.</p>
+        <p>''This depends on midterms, soccer matches and college application deadlines,'' Ms. Stanzione said, ''but we try to work around all that.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

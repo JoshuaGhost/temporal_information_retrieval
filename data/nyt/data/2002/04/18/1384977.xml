@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Vase for Your Light Bulb</title>
+    <meta content="18CHAN$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1384977"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="CURRENTS: HOME ACCESSORIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lamps and Lampshades</classifier>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <person class="indexing_service">Starck, Philippe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lamps and Lampshades</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4D71F3CF93BA25757C0A9649C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Vase for Your Light Bulb</hl1>
+      </hedline>
+      <byline class="print_byline">By Marianne Rohrlich</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Currents column on new lighting fixtures by Philippe Starck; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here's a crystal chandelier with a difference. Philippe Starck's Cicatrices ceiling fixtures, right, by Flos, are made up of cut-crystal vases attached to sheets of tempered glass. (The cuts remind Mr. Starck of scars; cicatrices is French for scars.) The chandeliers come with three or five vases on one level, or eight vases stacked on three shelves; prices are $2,070 to $3,950. A floor lamp with one cut-crystal vase has a 51-inch high chrome base; $780. Available at Cassina, 155 East 56th Street in Manhattan; or www.flos.net for other locations.</p>
+      </block>
+      <block class="full_text">
+        <p>Here's a crystal chandelier with a difference. Philippe Starck's Cicatrices ceiling fixtures, right, by Flos, are made up of cut-crystal vases attached to sheets of tempered glass. (The cuts remind Mr. Starck of scars; cicatrices is French for scars.) The chandeliers come with three or five vases on one level, or eight vases stacked on three shelves; prices are $2,070 to $3,950. A floor lamp with one cut-crystal vase has a 51-inch high chrome base; $780. Available at Cassina, 155 East 56th Street in Manhattan; or www.flos.net for other locations.</p>
+        <p>CURRENTS: HOME ACCESSORIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

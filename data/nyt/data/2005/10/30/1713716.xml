@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROAD PROJECTS NEAR HOLLAND TUNNEL</title>
+    <meta content="30njBRIEFS-2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1713716"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="BRIEFS: TRANSPORTATION"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DD1F3FF933A05753C1A9639C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROAD PROJECTS NEAR HOLLAND TUNNEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Construction is starting on Route 139, the New Jersey approach to the Holland Tunnel, state transportation officials said last Monday. The $225 million project will rebuild the 12th Street and 14th Street viaducts in Jersey City. Traffic over the bridges averages more than 100,000 vehicles a day, state officials said. The 12th Street viaduct is more than 80 years old, and the one on 14th Street more than 50 years old, officials said. Major traffic problems are not expected during the first stage of the project, scheduled to last through next spring. The entire project is expected to be finished in 2010.</p>
+      </block>
+      <block class="full_text">
+        <p>Construction is starting on Route 139, the New Jersey approach to the Holland Tunnel, state transportation officials said last Monday. The $225 million project will rebuild the 12th Street and 14th Street viaducts in Jersey City. Traffic over the bridges averages more than 100,000 vehicles a day, state officials said. The 12th Street viaduct is more than 80 years old, and the one on 14th Street more than 50 years old, officials said. Major traffic problems are not expected during the first stage of the project, scheduled to last through next spring. The entire project is expected to be finished in 2010.</p>
+        <p>BRIEFS: TRANSPORTATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

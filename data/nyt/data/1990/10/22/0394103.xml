@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beauty Labs Inc. reports earnings for Qtr to Sept 30</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="394103"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7D61638F931A15753C1A966958260" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beauty Labs Inc. reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Beauty Labs Inc. (OTC)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Sales</p>
+        <p>3,898,543</p>
+        <p>3,729,211</p>
+        <p>Net inc</p>
+        <p>b106,748</p>
+        <p>c655,023</p>
+        <p>Share earns</p>
+        <p>.04</p>
+        <p>--</p>
+        <p>6mo sales</p>
+        <p>7,354,532</p>
+        <p>6,810,156</p>
+        <p>Net inc</p>
+        <p>b154,610</p>
+        <p>c960,273</p>
+        <p>Share earns</p>
+        <p>.05</p>
+        <p>--</p>
+        <p>Shares outst</p>
+        <p>2,942,711</p>
+        <p>2,434,711</p>
+        <p>b-Included extraordinary tax credits of $ 47,000, or 2 cents a share, and $ 67,000, or 2 cents a share, for the quarter and 6 months, respectively. c-Net loss</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

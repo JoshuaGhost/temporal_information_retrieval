@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Passive Smoke Harms Heart, Researcher Says</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355343"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEART</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">SMOKING</classifier>
+        <person class="indexing_service">GLANTZ, STANTON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D8113BF932A15756C0A966958260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Passive Smoke Harms Heart, Researcher Says</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Nonsmokers who live with smokers have a 20 percent to 30 percent higher risk of dying from heart disease than do other nonsmokers, a researcher said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Nonsmokers who live with smokers have a 20 percent to 30 percent higher risk of dying from heart disease than do other nonsmokers, a researcher said yesterday.</p>
+        <p>Nonsmokers who live with smokers have a 20 percent to 30 percent higher risk of dying from heart disease than do other nonsmokers, a researcher said yesterday.</p>
+        <p>''Passive smoking causes heart disease, and the number of deaths due to heart disease is 10 times the number due to cancer,'' said the researcher, Stanton Glantz, a statistician at the University of California at San Francisco.</p>
+        <p>In a presentation at the World Conference on Lung Health in Boston, Mr. Glantz said research was beginning to show how cigarette smoke alters the heart, blood and arteries to increase the risk of heart disease.</p>
+        <p>In his 1986 annual report on smoking and health, C. Everett Koop, then the United States Surgeon General, concluded that passive smoking caused lung cancer in nonsmokers. The evidence then was insufficient to link passive smoking with heart disease, the report said.</p>
+        <p>Brennan Dawson, a spokeswoman for The Tobacco Institute, which represents cigarette makers, said today, ''There have been only three studies since then, and they continue to support the conclusions'' of the Surgeon General.</p>
+        <p>But Mr. Glantz disagreed. ''There are now 11 studies of the effects of passive smoking on heart disease deaths,'' he said. ''All but one the tobacco industry funded show an increased risk.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

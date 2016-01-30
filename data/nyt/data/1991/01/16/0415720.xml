@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="415720"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">PARTIES (SOCIAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">PUBLIC TELEVISION</classifier>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <person class="indexing_service">COOKE, ALISTAIR</person>
+        <object.title class="indexing_service">MASTERPIECE THEATER (TV PROGRAM)</object.title>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DB123EF935A25752C0A967958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN HELLER ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALISTAIR COOKE , DIANA RIGG and JOHN HURT were among those who celebrated the 20th anniversary of "Masterpiece Theater" in Washington on Monday night. The Mobil Corporation, which underwrites the PBS series, was the host for a dinner that drew the capital's culture crowd, along with many of the actors responsible for the series' 25 Emmy Awards.</p>
+        <p>The Washingtonians included JENNIFER LAWSON , PBS's programming chief, and DAVID H. LEVY , the new director of the Corcoran Gallery. In his after-dinner remarks, Mr. Cooke predicted that if he was remembered at all, he would be best recalled by fans of "Sesame Street" as "Alistair Cookie, the Cookie Monster of 'Monsterpiece Theater.' "</p>
+      </block>
+      <block class="full_text">
+        <p>ALISTAIR COOKE , DIANA RIGG and JOHN HURT were among those who celebrated the 20th anniversary of "Masterpiece Theater" in Washington on Monday night. The Mobil Corporation, which underwrites the PBS series, was the host for a dinner that drew the capital's culture crowd, along with many of the actors responsible for the series' 25 Emmy Awards.</p>
+        <p>The Washingtonians included JENNIFER LAWSON , PBS's programming chief, and DAVID H. LEVY , the new director of the Corcoran Gallery. In his after-dinner remarks, Mr. Cooke predicted that if he was remembered at all, he would be best recalled by fans of "Sesame Street" as "Alistair Cookie, the Cookie Monster of 'Monsterpiece Theater.' "</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

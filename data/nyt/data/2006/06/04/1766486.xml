@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flower Power</title>
+    <meta content="04letters.1-11" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1766486"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Jimson Weed</classifier>
+        <person class="indexing_service">krantz, anne</person>
+        <person class="indexing_service">Sanders, Lisa (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5D91F3EF937A35755C0A9609C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flower Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Anne Krantz letter comments on Lisa Sanders's May 21 column on diagnosis of jimson weed poisoning</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thanks for the jimson-weed diagnosis. Since this poisonous weed is spread throughout the United States, however, it would be helpful to have given the Latin name for quicker reference: Datura stramonium. The tiny seedlings could easily be picked along with the first harvest of leaf lettuce. A scary story.</p>
+        <p>Anne Krantz</p>
+        <p>Amherst, N.H.</p>
+      </block>
+      <block class="full_text">
+        <p>Thanks for the jimson-weed diagnosis. Since this poisonous weed is spread throughout the United States, however, it would be helpful to have given the Latin name for quicker reference: Datura stramonium. The tiny seedlings could easily be picked along with the first harvest of leaf lettuce. A scary story.</p>
+        <p>Anne Krantz</p>
+        <p>Amherst, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

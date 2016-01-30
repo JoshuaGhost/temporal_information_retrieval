@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GRAND JURY IN TOP RANK CASE</title>
+    <meta content="12boxing-2" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1761188"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="BOXING: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Boxing</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">Top Rank</org>
+        <person class="indexing_service">Gray, Geoffrey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DF143EF931A25756C0A9609C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GRAND JURY IN TOP RANK CASE</hl1>
+      </hedline>
+      <byline class="print_byline">By GEOFFREY GRAY</byline>
+      <byline class="normalized_byline">Gray, Geoffrey</byline>
+      <abstract>
+        <p>MAYORGA TESTS POSITIVE FOR BANNED SUBSTA</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a two-year investigation into allegations of fight fixing and other crimes inside Top Rank, one of boxing's leading promotional companies, federal prosecutors have convened a grand jury in Las Vegas and are looking to return indictments in the case, according to a defense lawyer and a witness who has testified.</p>
+        <p>The lawyer, Bill Zuhde of Oklahoma City, said in a telephone interview yesterday that he accompanied Buck Smith, a former welterweight from Oklahoma City; and Verdell Smith, a journeyman from Bartlesville, Okla.; to give testimony before the grand jury in Las Vegas on May 2.</p>
+      </block>
+      <block class="full_text">
+        <p>After a two-year investigation into allegations of fight fixing and other crimes inside Top Rank, one of boxing's leading promotional companies, federal prosecutors have convened a grand jury in Las Vegas and are looking to return indictments in the case, according to a defense lawyer and a witness who has testified.</p>
+        <p>The lawyer, Bill Zuhde of Oklahoma City, said in a telephone interview yesterday that he accompanied Buck Smith, a former welterweight from Oklahoma City; and Verdell Smith, a journeyman from Bartlesville, Okla.; to give testimony before the grand jury in Las Vegas on May 2.</p>
+        <p>Both boxers, Zuhde said, exercised their Fifth Amendment rights to avoid self-incrimination. In a telephone interview yesterday, Buck Smith, who retired after a 16-year career and became a promoter, confirmed that he had testified before the grand jury and planned to testify again this month. Smith, 40, denied any wrongdoing and declined to comment on the specifics of the case. Verdell Smith, 42, could not be reached yesterday.</p>
+        <p>Natalie Collins, a spokeswoman for the United States attorney's office in Las Vegas, said in a telephone interview Wednesday that she could not comment on whether a grand jury had been convened for the case.</p>
+        <p>Bob Arum, the president of Top Rank, has denied any wrongdoing. Richard Wright, a lawyer for Arum, did not return a call yesterday.</p>
+        <p>GEOFFREY GRAY</p>
+        <p>BOXING: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

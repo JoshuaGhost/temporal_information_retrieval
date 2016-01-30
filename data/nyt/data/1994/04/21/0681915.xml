@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEAN WITTER, DISCOVER &amp; CO. (DWD:N)</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="681915"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY REPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">DEAN WITTER DISCOVER &amp; CO</org>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DC1231F932A15757C0A962958260" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEAN WITTER, DISCOVER &amp; CO. (DWD:N)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dean Witter, Discover &amp; Company said yesterday that its net income for the first quarter rose 54 percent, to $209.5 million, or $1.23 a share. The company's credit card and stock brokerage units both performed well.</p>
+        <p>Philip J. Purcell, Dean Witter's chairman, said in an interview that the profits in the credit card business were surprisingly high. "The lower credit write-offs and revenue increases proved more positive than we had expected, but the trends in the basic business were what we expected," he said.</p>
+      </block>
+      <block class="full_text">
+        <p>Dean Witter, Discover &amp; Company said yesterday that its net income for the first quarter rose 54 percent, to $209.5 million, or $1.23 a share. The company's credit card and stock brokerage units both performed well.</p>
+        <p>Philip J. Purcell, Dean Witter's chairman, said in an interview that the profits in the credit card business were surprisingly high. "The lower credit write-offs and revenue increases proved more positive than we had expected, but the trends in the basic business were what we expected," he said.</p>
+        <p>The biggest growth came from its Discover credit card operation, which increased profits 85 percent, to $124 million, mainly because card holders spent more and borrowed more. Loans related to the card increased 15 percent, to $20.5 billion; fees, both from merchants and card holders, rose 26 percent, to $241.9 million. Over all, the number of accounts increased 9 percent, to 29.6 million.</p>
+        <p>Profits at its Dean Witter securities arm, which has the country's third-largest army of stockbrokers, advanced 24 percent, to $85.5 million. Commissions were up 9 percent, to $247.6 million, but trading revenue fell 19 percent, to $92.4 million, mainly because of lower bond trading, the company said. Fees from asset management increased 24 percent, to $240.3 million.  COMPANY REPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

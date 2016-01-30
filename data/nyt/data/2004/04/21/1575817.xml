@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SUMMER JAZZ</title>
+    <meta content="MB233259" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040427T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1575817"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="ARTS BRIEFING: HIGHLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Jvc Jazz Festival</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Coleman, Ornette</person>
+        <person class="indexing_service">Lincoln, Abbey</person>
+        <person class="indexing_service">Reed, Lou</person>
+        <person class="indexing_service">Gilberto, Joao</person>
+        <person class="indexing_service">Sisario, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DE163AF932A15757C0A9629C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SUMMER JAZZ</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN SISARIO</byline>
+      <byline class="normalized_byline">Sisario, Ben</byline>
+      <abstract>
+        <p>Arts Briefing column; JVC Jazz Festival announces its New York series lineup, which will run from June 15 through June 26 and include perfomances by Ornette Coleman, Abbey Lincoln, Lou Reed and Joao Gilberto; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ornette Coleman, below, Abbey Lincoln, Lou Reed, João Gilberto, Oscar D'Leon, K. D. Lang, Bill Charlap, Herbie Hancock, Wayne Shorter, Dave Holland and Brian Blade are among the more than 300 musicians who will perform in the JVC Jazz Festival, it was announced yesterday. The festival, which was founded in Newport, R.I., in 1954 by George Wein, moved to New York in 1972 and is still run by Mr. Wein and his company, Festival Productions. The New York series, in nearly 60 concerts at Carnegie Hall, Lincoln Center, the Beacon Theater and more than a dozen other locations, will run from June 15 through 26. Other highlights include a tribute to Nina Simone with Tracy Chapman, Toni Morrison, Lizz Wright and others; Dianne Reeves in a tribute to Sarah Vaughan; and an African concert at the Apollo Theater with Angélique Kidjo and Femi Kuti. The full schedule is online, at festivalproductions.net. Tickets go on sale today, and are available at (212) 501-1390.</p>
+        <p>BEN SISARIO</p>
+      </block>
+      <block class="full_text">
+        <p>Ornette Coleman, below, Abbey Lincoln, Lou Reed, João Gilberto, Oscar D'Leon, K. D. Lang, Bill Charlap, Herbie Hancock, Wayne Shorter, Dave Holland and Brian Blade are among the more than 300 musicians who will perform in the JVC Jazz Festival, it was announced yesterday. The festival, which was founded in Newport, R.I., in 1954 by George Wein, moved to New York in 1972 and is still run by Mr. Wein and his company, Festival Productions. The New York series, in nearly 60 concerts at Carnegie Hall, Lincoln Center, the Beacon Theater and more than a dozen other locations, will run from June 15 through 26. Other highlights include a tribute to Nina Simone with Tracy Chapman, Toni Morrison, Lizz Wright and others; Dianne Reeves in a tribute to Sarah Vaughan; and an African concert at the Apollo Theater with Angélique Kidjo and Femi Kuti. The full schedule is online, at festivalproductions.net. Tickets go on sale today, and are available at (212) 501-1390.</p>
+        <p>BEN SISARIO</p>
+        <p>ARTS BRIEFING: HIGHLIGHTS  Correction:  April 27, 2004, Tuesday  A report in the Arts Briefing column on Wednesday about the JVC Jazz Festival in New York omitted two founders of the festival in Newport, R.I., where it was held until 1972. Along with George Wein, whose company still runs it, Elaine and Louis Lorillard were founders.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: April 27, 2004, Tuesday</p>
+        <p>A report in the Arts Briefing column on Wednesday about the JVC Jazz Festival in New York omitted two founders of the festival in Newport, R.I., where it was held until 1972. Along with George Wein, whose company still runs it, Elaine and Louis Lorillard were founders.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>He Loves Me Not, Digitally</title>
+    <meta content="12LOVE$04" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Education" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/02/12/technology/circuits/12love.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1558206"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dating (Social)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Voice Recognition and Synthesis</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Emotions</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <location class="indexing_service">Israel</location>
+        <person class="indexing_service">Berger, Ivan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Israel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Emotions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dating (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DD133AF931A25751C0A9629C8B63" item-length="967" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>He Loves Me Not, Digitally</hl1>
+        <hl2 class="online_headline">He Loves Me Not, Digitally</hl2>
+      </hedline>
+      <byline class="print_byline">By IVAN BERGER</byline>
+      <byline class="normalized_byline">Berger, Ivan</byline>
+      <abstract>
+        <p>Love Detector software is designed for people 18 to 35 years old to analyze voice for levels of emotion, concentration and embarrassment in potential dating situations; technology was developed as security tool for Israeli company; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TECHNOLOGY with roots in antiterrorism will soon make the singles scene safer and friendlier, not to mention more efficient, if a software system called the Love Detector lives up to its billing.</p>
+        <p>The Love Detector is based on layered voice analysis, a system that was developed for security work by Nemesysco, an Israeli company, and adapted for personal use by V Worldwide, the international distributor.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Voice-analysis software from a security company aims to turn a computer into a love detector.</p>
+      </block>
+      <block class="full_text">
+        <p>TECHNOLOGY with roots in antiterrorism will soon make the singles scene safer and friendlier, not to mention more efficient, if a software system called the Love Detector lives up to its billing.</p>
+        <p>The Love Detector is based on layered voice analysis, a system that was developed for security work by Nemesysco, an Israeli company, and adapted for personal use by V Worldwide, the international distributor.</p>
+        <p>The Love Detector relies on a simplified form of the technology, said Richard Parton, chief executive of V Worldwide. The security version applies 8,000 algorithms to 129 parameters of a speaking voice, assessing, among other things, levels of emotion, embarrassment and concentration as well as whether what is said reflects certainty, uncertainty or outright lies.</p>
+        <p>When this reporter tried it informally, both in person and over the phone, the results were arguably accurate; the software detected the split in my attention as I took notes, though it misinterpreted my skepticism about the product as condescension.</p>
+        <p>The personal version, available for download for Windows ($50) or Pocket PC ($20) at www.v-entertainment.com, concentrates on just five of those 129 parameters. Like layered analysis, it assesses the speaker's levels of anticipation, concentration, embarrassment and excitement. Unlike layered analysis, it does not judge the veracity of the speaker, but it does assess levels of love.</p>
+        <p>The Pocket PC version, which picks up the speaker's voice on a hand-held organizer with a built-in microphone, shows the five measured parameters in bar-graphs. It also depicts the love level as a flower that progresses from a wilting, bare stem to an upright bloom with as many as five petals. The Windows version, which requires use of a plug-in microphone or a $10 telephone adapter, also graphs moment-by-moment fluctuations in the five parameters and gives a verbal summary of the results.</p>
+        <p>Later this year V plans to introduce a simplified version built into sunglasses, with light-emitting diodes to signal emotional intensity and truth or falsehood.</p>
+        <p>I tried the Windows version in phone calls with several close friends and one relative. In each case, the program told me that my friend's concentration and anticipation were normal (''Not indicative of anything special,'' the readout reported), that embarrassment levels were low (''Your friend's confidence was high and she/he was not embarrassed to speak with you'') and that no high emotions were detected (''Might be due to the timing or other circumstances, so don't despair, please try again later''). There were no significant indications of love.</p>
+        <p>All of that was consistent with the friendships involved, but the negative result from this reporter's aunt was a disappointing surprise -- perhaps a misjudgment on my part, according to Curt Diemer, a staff technician at V. ''We're talking eros here, romantic love,'' Mr. Diemer said. ''If you were getting that from your aunt, you'd have a problem.''</p>
+        <p>He said the Love Detector was calibrated for people ages 18 to 35, in search of the type of attraction people feel when they first encounter each other -- the ''butterflies-in-the-stomach phase.''</p>
+        <p>That description might apply to someone like Abigail Ramble, a sophomore majoring in psychology at Judson College, in Elgin, Ill., who borrowed the detector from a friend and tried it at a coffeehouse.</p>
+        <p>''With a close friend, the onscreen flower showed a few petals, indicating I really liked her as a friend, and the embarrassment level was low because I was open and comfortable talking to her,'' Ms. Ramble said. ''But when I was talking with one guy, the embarrassment level was high; I didn't know him all that well, and here I was talking to him on this Love Detector!''</p>
+        <p>Yvonne K. Fulbright, an instructor in human sexuality at New York University who is working on a book about the Love Detector, said the software could serve as a kind of psychological stepstool.</p>
+        <p>''This technology will really alter human relationships,'' she said. ''It gets rid of a lot of the unhealthy games that can have devastating results.''</p>
+        <p>It may also help people assess their own emotions, Ms. Fulbright said, an idea that Ms. Ramble's experience with the Love Detector seemed to support. ''The flower drooped a bit when I was talking to that guy I didn't know all that well, but when he was talking, the flower stood up,'' she said. ''Then I tried it with this one guy I kind of like. My flower stood up and had one or two petals, but when he was talking to me it did not do anything.''</p>
+        <p>Ms. Ramble said the detector worked well in measuring what she felt strongly about. ''When I talked about home, the five petals showed up,'' she said. ''When I talked with someone about something we had in common, the petals grew.''</p>
+        <p>Ms. Fulbright suggested that the Love Detector could ''save time and heartbreak.'' But it may also turn up affection in unsuspected places.</p>
+        <p>Perhaps that explains the faint glimmerings of love it found during a call I made to a recorded weather announcement. ''Either that announcer really loves his job, or his girlfriend was there when he recorded it,'' Mr. Diemer said.</p>
+        <p>It is also a reminder, he added, that the Love Detector is fundamentally an ''entertainment tool.''</p>
+        <p>''It's not intended to be 100 percent accurate,'' he said. ''Nothing is.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

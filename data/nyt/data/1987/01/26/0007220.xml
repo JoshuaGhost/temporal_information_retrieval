@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE U.N. TODAY: JAN. 26, 1987</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="7220"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <org class="indexing_service">UNITED NATIONS (UN)</org>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D6153EF935A15752C0A961948260" item-length="17" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE U.N. TODAY: JAN. 26, 1987</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: GENERAL ASSEMBLY Drafting Committee for Convention Against Mercenaries - 10:30 A.M. and 3 P.M.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: GENERAL ASSEMBLY Drafting Committee for Convention Against Mercenaries - 10:30 A.M. and 3 P.M.</p>
+        <p>GENERAL ASSEMBLY Drafting Committee for Convention Against Mercenaries - 10:30 A.M. and 3 P.M.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

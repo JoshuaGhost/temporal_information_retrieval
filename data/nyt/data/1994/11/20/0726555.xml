@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Male Sex Fantasy?</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="51" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726555"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">WRIGHT, ROBERT</person>
+        <person class="indexing_service">PINKER, STEVEN</person>
+        <object.title class="indexing_service">MORAL ANIMAL (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DA1031F933A15752C1A962958260" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Male Sex Fantasy?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The responses to my review of Robert Wright's "Moral Animal" (Letters, Oct. 30) demonstrate the value of his book -- careful research and fresh ideas instead of politicized cliches.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The responses to my review of Robert Wright's "Moral Animal" (Letters, Oct. 30) demonstrate the value of his book -- careful research and fresh ideas instead of politicized cliches.</p>
+        <p>Joyce K. Jensen objects that Mr. Wright's observation on rape -- that lack of marriage opportunities for poor men is a risk factor -- implies that "it's not their fault." But this non sequitur could be applied to any explanation of rape. If, as many feminists suggest, rape is caused by media images glorifying violence against women, would that imply that "it's not their fault"? Of course not. To understand all is not to forgive all.</p>
+        <p>Margaret A. Hagen's satire, in which a woman, to rear as many viable children as possible, requires numerous young, powerful males rather than a single, older, weaker one, refutes itself. In all societies, wealth and political clout make older men more powerful than younger ones. And it is a brute biological fact that a woman, but not a man, will have the same number of offspring with numerous partners as with one -- the whole point of Mr. Wright's analysis.</p>
+        <p>Mr. Wright's "male sex fantasy disguised as science," incidentally, is based heavily on the ideas of Laura Betzig, Leda Cosmides, Sarah Hrdy, Nancy Thornhill and Margo Wilson.  STEVEN PINKER  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

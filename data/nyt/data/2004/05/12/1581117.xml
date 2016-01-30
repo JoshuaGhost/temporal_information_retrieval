@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brazil to Expel Reporter</title>
+    <meta content="12BRAZ$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/05/12/international/americas/12braz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1581117"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of the Press</classifier>
+        <classifier class="indexing_service" type="descriptor">Freedom of Speech and Expression</classifier>
+        <location class="indexing_service">Brazil</location>
+        <org class="indexing_service">New York Times</org>
+        <person class="indexing_service">Rohter, Larry</person>
+        <person class="indexing_service">Lula Da Silva, Luis Inacio (Pres)</person>
+        <person class="indexing_service">Keller, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Brazil</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil</classifier>
+        <classifier class="online_producer" type="descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of Speech and Expression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom of the Press</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Brazil</location>
+        <org class="online_producer">New York Times</org>
+        <person class="online_producer">Rohter, Larry</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DA103CF931A25756C0A9629C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brazil to Expel Reporter</hl1>
+        <hl2 class="online_headline">Brazil to Expel Reporter</hl2>
+      </hedline>
+      <abstract>
+        <p>Brazil says it will expell Larry Rohter, New York Times correspondent who wrote of publicly expressed concerns about Pres Luiz Inacio Lula da Silva's drinking habits; presidential palace denies Lula has drinking problem; Times executive editor Bill Keller says move raises questions about Brazil's professed commitment to freedom of expression and free press (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brazil said on Tuesday that it would expel a New York Times correspondent who wrote on Sunday of publicly expressed concerns about the drinking habits of President Luiz Inácio Lula da Silva.</p>
+        <p>Mr. Lula said the correspondent, Larry Rohter, chief of The Times's bureau in Rio de Janeiro, deserved to lose his visa, Reuters reported. The presidential palace has denied that Mr. Lula has a drinking problem.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Brazil said that it would expel a New York Times correspondent who wrote of publicly expressed concerns about the drinking habits of President Luiz Inácio Lula da Silva.</p>
+      </block>
+      <block class="full_text">
+        <p>Brazil said on Tuesday that it would expel a New York Times correspondent who wrote on Sunday of publicly expressed concerns about the drinking habits of President Luiz Inácio Lula da Silva.</p>
+        <p>Mr. Lula said the correspondent, Larry Rohter, chief of The Times's bureau in Rio de Janeiro, deserved to lose his visa, Reuters reported. The presidential palace has denied that Mr. Lula has a drinking problem.</p>
+        <p>The Justice Ministry announced that it would cancel Mr. Rohter's visa and said the article was ''offensive to the honor of the president.''</p>
+        <p>Bill Keller, executive editor of The New York Times, said that if Brazil ''intends to expel a journalist for writing an article that offended the president, that would raise serious questions about Brazil's professed commitment to freedom of expression and a free press.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

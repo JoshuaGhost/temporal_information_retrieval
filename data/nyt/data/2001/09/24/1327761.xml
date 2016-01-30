@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Unusual Hand Proves Unusually Interesting</title>
+    <meta content="24CARD$03" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1327761"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="BRIDGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DA173AF937A1575AC0A9679C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Unusual Hand Proves Unusually Interesting</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Alan Truscott Bridge column on whether to declare or defend hand with freakish distribution; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A freak hand like the one West held in the diagramed deal at the Eastern Regional Championships is of course rare: 8-5-0-0 occurs once in 31,000 deals. It is also rarely interesting in terms of play, but this was an exception. Would you choose to play or defend six diamonds as South?</p>
+        <p>Suppose that two rounds of hearts are led. South ruffs, plays a club to dummy's king, and leads the diamond 10 for a finesse. Trumps are drawn, and cashing two more diamonds produces this ending:</p>
+      </block>
+      <block class="full_text">
+        <p>A freak hand like the one West held in the diagramed deal at the Eastern Regional Championships is of course rare: 8-5-0-0 occurs once in 31,000 deals. It is also rarely interesting in terms of play, but this was an exception. Would you choose to play or defend six diamonds as South?</p>
+        <p>Suppose that two rounds of hearts are led. South ruffs, plays a club to dummy's king, and leads the diamond 10 for a finesse. Trumps are drawn, and cashing two more diamonds produces this ending:</p>
+        <p>When the last trump is led, the club eight is thrown from dummy. This traps East in a crisscross squeeze. Whichever suit he discards, South will play.</p>
+        <p>South was Emily Seiden of Manhattan, and whether she would have found this brilliant play will never be known. In real life the West player, John Rengstorff, bid six hearts over six diamonds and went down one.</p>
+        <p>It might appear that he was right, but in theory he was wrong. Six diamonds can be defeated if West is inspired to shift to a spade at the second trick, destroying the potential squeeze.</p>
+        <p>So you should choose to defend six diamonds.</p>
+        <p>BRIDGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

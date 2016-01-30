@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR064221" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Washington; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1245407"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1DC1039F934A35752C1A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of November 6 Critic's Notebook column on television shows and films that have depicted presidency</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Critic's Notebook article yesterday about television shows and films that have depicted the presidency misstated a story element from ''Seven Days in May.'' In that 1964 film, a plot to take over the White House is ultimately thwarted; the president is not overthrown.</p>
+        <p>A caption with the article, about another 1964 movie, ''Dr. Strangelove,'' gave an erroneous identification from Columbia Pictures for the actor shown at the left in the top picture. He was Peter Bull, not George C. Scott. Peter Sellers was correctly identified at the right.</p>
+      </block>
+      <block class="full_text">
+        <p>A Critic's Notebook article yesterday about television shows and films that have depicted the presidency misstated a story element from ''Seven Days in May.'' In that 1964 film, a plot to take over the White House is ultimately thwarted; the president is not overthrown.</p>
+        <p>A caption with the article, about another 1964 movie, ''Dr. Strangelove,'' gave an erroneous identification from Columbia Pictures for the actor shown at the left in the top picture. He was Peter Bull, not George C. Scott. Peter Sellers was correctly identified at the right.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

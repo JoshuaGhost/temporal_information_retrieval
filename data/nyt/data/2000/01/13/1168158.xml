@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CURRENTS: APPLIANCES</title>
+    <meta content="13FRIG$02" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1168158"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Refrigerators</classifier>
+        <org class="indexing_service">Muller (Co)</org>
+        <org class="indexing_service">Sonrisa Furniture (Co)</org>
+        <person class="indexing_service">Schwartz, Bonnie</person>
+        <object.title class="indexing_service">Currents (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3DA173AF930A25752C0A9669C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CURRENTS: APPLIANCES</hl1>
+      </hedline>
+      <byline class="print_byline">By Bonnie Schwartz</byline>
+      <byline class="normalized_byline">Schwartz, Bonnie</byline>
+      <abstract>
+        <p>Enmaneled steel refrigerators produced by Muller of Germany are available at Sonrisa Furniture stores; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Better known for its vintage steel desks, office chairs and credenzas, Sonrisa Furniture of Los Angeles and New York is branching out with enameled steel refrigerators from Muller of Germany. Combining 200 bright shades with a nostalgic, icebox form, Muller has produced a fresh look. With a large cooling area, small freezer and unrefrigerated lower storage section, the glossy unit offers an upbeat, stylish and (at $4,370) expensive alternative to the monochromatic kitchenscape. Sonrisa Furniture is at 22 West 21st Street; (212) 627-7474.</p>
+      </block>
+      <block class="full_text">
+        <p>Better known for its vintage steel desks, office chairs and credenzas, Sonrisa Furniture of Los Angeles and New York is branching out with enameled steel refrigerators from Muller of Germany. Combining 200 bright shades with a nostalgic, icebox form, Muller has produced a fresh look. With a large cooling area, small freezer and unrefrigerated lower storage section, the glossy unit offers an upbeat, stylish and (at $4,370) expensive alternative to the monochromatic kitchenscape. Sonrisa Furniture is at 22 West 21st Street; (212) 627-7474.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

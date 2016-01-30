@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bush's Bipartisanship</title>
+    <meta content="LTR222628" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1289985"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Capoccia, Michael J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E1DC1438F931A35756C0A9679C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bush's Bipartisanship</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael J Capoccia letter comments on Pres Bush's White House reception, attended by some members of Congress, to celebrate first 100 days in office</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Lunch at the White House Proves No Big Draw'' (news article, May 1):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Lunch at the White House Proves No Big Draw'' (news article, May 1):</p>
+        <p>Senator John B. Breaux, Democrat of Louisiana, put it best: sometimes it is good just to break bread. Social invitations and reciprocity are part of the obligation of good neighbors, business partners and collaborators.</p>
+        <p>Those who did not show up at the president's luncheon should be admonished. All of Congress shares the business of helping lead this country with the president. To be snubbing one another does not make for good politics.</p>
+        <p>MICHAEL J. CAPOCCIA  Huntington Beach, Calif., May 1, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

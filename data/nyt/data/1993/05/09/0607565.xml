@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ease On Down The Road</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Styles of The Times" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="607565"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="FIND OF THE WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RECORDINGS (AUDIO)</classifier>
+        <org class="indexing_service">SIMON &amp; SCHUSTER INC</org>
+        <person class="indexing_service">PECK, M SCOTT (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDC1638F93AA35756C0A965958260" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ease On Down The Road</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For those who can't get enough of Dr. M. Scott Peck's insights in book form, Simon &amp; Schuster offers "Further Along the Road Less Traveled," a series of the spiritual psychiatrist's talks recorded before live audiences and not available in print.</p>
+      </block>
+      <block class="full_text">
+        <p>For those who can't get enough of Dr. M. Scott Peck's insights in book form, Simon &amp; Schuster offers "Further Along the Road Less Traveled," a series of the spiritual psychiatrist's talks recorded before live audiences and not available in print.</p>
+        <p>Some subtitles in the series of hourlong cassettes are "Sexuality and Spirituality," "Self-Love Versus Self-Esteem," "Mythology and Human Nature" and "Blame and Forgiveness" ($9.95 each at Heller &amp; Jed).</p>
+        <p>FIND OF THE WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

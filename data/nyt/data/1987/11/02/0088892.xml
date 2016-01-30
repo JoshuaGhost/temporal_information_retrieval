@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Burnett Bolloten</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="88892"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">BOLLOTEN, BURNETT</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DF1631F931A35752C1A961948260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Burnett Bolloten</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Burnett Bolloten, a writer and scholar on the Spanish Civil War, died Tuesday at his home in Sunnyvale, Calif., of prostate cancer. He was 78 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Burnett Bolloten, a writer and scholar on the Spanish Civil War, died Tuesday at his home in Sunnyvale, Calif., of prostate cancer. He was 78 years old.</p>
+        <p>Burnett Bolloten, a writer and scholar on the Spanish Civil War, died Tuesday at his home in Sunnyvale, Calif., of prostate cancer. He was 78 years old.</p>
+        <p>Mr. Bolloten, who was born in Wales, covered the war as a correspondent for United Press in 1936. After leaving Spain he moved to Mexico where, in collaboration with his first wife, Gladys Eve Green, he spent years assembling material on the war, a collection that is now at the Hoover Institution at Stanford University.</p>
+        <p>Mr. Bolloten wrote three books on the subject, ''The Grand Camouflage,'' published in 1961; ''The Spanish Revolution,'' published in 1979, and the recently completed third volume, ''The Spanish Civil War: Revolution and Counterrevolution.'' He came to the United States in 1949 and lived for many years in Sunnyvale, working as a real estate executive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MBNA ISSUING AMERICAN EXPRESS CREDIT CARDS</title>
+    <meta content="MB002207" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1625031"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <org class="indexing_service">Mbna Corp</org>
+        <org class="indexing_service">American Express Co</org>
+        <person class="indexing_service">Kingson, Jennifer A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DE123CF935A35752C1A9629C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MBNA ISSUING AMERICAN EXPRESS CREDIT CARDS</hl1>
+      </hedline>
+      <byline class="print_byline">By Jennifer A. Kingson (NYT)</byline>
+      <byline class="normalized_byline">Kingson, Jennifer A</byline>
+      <abstract>
+        <p>MBNA introduces line of credit cards under American Express brand (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MBNA said yesterday that it had introduced a line of credit cards under the American Express brand. In January, MBNA became the first big Visa and MasterCard bank in the United States to agree to issue cards on the American Express network. Last month, it received a green light to do so when the Supreme Court decided not to hear an appeal by Visa and MasterCard to a court decision that gave banks permission to work with other networks. MBNA, based in Wilmington, Del., said that the first offers were mailed to members of 1,000 of the affinity groups for which MBNA issues cards. More than 300,000 people signed up for the cards in advance, MBNA said.</p>
+        <p>Jennifer A. Kingson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>MBNA said yesterday that it had introduced a line of credit cards under the American Express brand. In January, MBNA became the first big Visa and MasterCard bank in the United States to agree to issue cards on the American Express network. Last month, it received a green light to do so when the Supreme Court decided not to hear an appeal by Visa and MasterCard to a court decision that gave banks permission to work with other networks. MBNA, based in Wilmington, Del., said that the first offers were mailed to members of 1,000 of the affinity groups for which MBNA issues cards. More than 300,000 people signed up for the cards in advance, MBNA said.</p>
+        <p>Jennifer A. Kingson (NYT)</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

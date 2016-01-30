@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355554"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DA1F3AF931A15756C0A966958260" item-length="491" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: One reason for the popularity of the Swiss team format is that it makes possible a dramatic and improbable finale. One occurred a week ago in the Cavendish Teams event, in which 12 strong squads including some foreign stars were involved.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: One reason for the popularity of the Swiss team format is that it makes possible a dramatic and improbable finale. One occurred a week ago in the Cavendish Teams event, in which 12 strong squads including some foreign stars were involved.</p>
+        <p>One reason for the popularity of the Swiss team format is that it makes possible a dramatic and improbable finale. One occurred a week ago in the Cavendish Teams event, in which 12 strong squads including some foreign stars were involved.</p>
+        <p>With one of the nine rounds remaining to be played at the Cavendish Club in Manhattan, a foursome of Paul Marston and Steve Burgess, both from Australia, and Kit Woolsey of Kensington, Calif., and Ed Manfield of Hyattsville, Md., seemed out of contention. After a bad start they had pulled up to fifth position.</p>
+        <p>But they crushed their opponents, scoring the maximum 30 victory points, and leapfrogged past all four front-running teams when they cut each other down. The diagramed deal, with Burgess East and Marston West, contributed to this effort.</p>
+        <p>The bidding needs explanation. One club was strong and artificial, and when South chose to show his strong diamonds rather than his weak spades, West used an artificiality: one spade showed a positive hand with hearts, an exotic transfer idea aimed at making the stronger hand the declarer in a heart contract. North crowded the auction with a leap to five diamonds, and West naturally doubled.</p>
+        <p>The same contract was reached in the replay, and in each case West cashed two heart winners. In one, a third heart was led, apparently a safe move. But it allowed South to take advantage of the good breaks. By ruffing the heart, drawing trumps and working on clubs, he had just enough entries to dummy to make use of the club suit and make his contract.</p>
+        <p>But Marston saw this danger. At the third trick he led a spade, forcing dummy to ruff. And now South was one entry short and could not make use of dummy's clubs, and his contract had to fail.</p>
+        <p>These were winners of titles at the North Jersey Bridge Association's Spring Sectional in Allendale, N.J., over the weekend:</p>
+        <p>Women's Pairs, Betty Lamborn, Montclair, N.J., and Toby Weiner, Wayne, N.J.; Senior Pairs, Lewis Weinkrantz, Fort Lee, N.J., and Franklin Grunebaum, Closter, N.J.; Mixed Pairs, Phyllis Wachsman, Edgewater, N.J., and Adel Eryan, Montvale, N.J.; Imp Master Pairs, Richard Rosen, Manhattan, and Howard Chandross, Long Beach, L.I.; Nonmaster Pairs, Judy Simon and Harvey Wolfe of Great Neck, L.I; 49er Pairs, Betty Trice, Ramsey, N.J., and Martha Troxell, Allendale; also, Peggy Miskin, Spring Valley, N.Y., and Mary Ann Brennan, Nanuet, N.Y.; Open Pairs, Marc Neuhof and George Leiner of Larchmont, N.Y.; also, Steven De Vico and David Treitel of Manhattan; Board-A-Match Teams, Julie Rowe, Metuchen, N.J., Peter Mayewski, Princeton, N.J., Bud Bernstein, Livingston, N.J., and Norbert Sax, North Caldwell, N.J.; Swiss Teams Flight A, Alex Allen, New Brunswick, N.J., Milton Steinfeld, Westfield, N.J., Abe Pineles, Yardley, Pa., and Patrick Home, Piscataway, N.J.; Flight B, Douglas Fower, Manhattan, Doree Sobel, Leonia, N.J., Denise and William Goldmith, Hackensack, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

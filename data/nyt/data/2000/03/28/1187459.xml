@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Young &amp; Rubicam Out of Army Review</title>
+    <meta content="MB004106" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1187459"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Armies</classifier>
+        <org class="indexing_service">Young &amp; Rubicam Inc</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armies</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000328T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E7DA1F3DF93BA15750C0A9669C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Young &amp; Rubicam Out of Army Review</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Young &amp; Rubicam Advertising has declined to participate in review that began in January for US Army advertising account; Army's ad spending is estimated at $110 million annually (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Young &amp; Rubicam Advertising in New York has declined to participate in a review that began in January for the United States Army account. The Army's ad spending is estimated at $110 million annually.</p>
+        <p>Philippe Krakowsky, a spokesman for Y.&amp; R., confirmed a report this week in Adweek of the agency's decision against taking part. He declined to comment further.</p>
+      </block>
+      <block class="full_text">
+        <p>Young &amp; Rubicam Advertising in New York has declined to participate in a review that began in January for the United States Army account. The Army's ad spending is estimated at $110 million annually.</p>
+        <p>Philippe Krakowsky, a spokesman for Y.&amp; R., confirmed a report this week in Adweek of the agency's decision against taking part. He declined to comment further.</p>
+        <p>Y.&amp; R. Advertising, which has worked for the Army since 1987, was operating under a contract negotiated in 1997 that provided for an initial one-year period plus four one-year renewal options. The Army surprised the agency by deciding against exercising the renewal option and undertaking the review.</p>
+        <p>David Beals, a senior partner at Jones-Lundin Associates in Chicago, the search consultant for the Army, said that plans called for the next agency to accept a contract with performance-based compensation. The current contract with Y.&amp; R. Advertising, which expires on July 31, does not have such terms. The new contract could reward the next agency for exceeding recruitment goals; the Army has had difficulties attracting enlistees as the economy improves and young men and women seek jobs in the private sector.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

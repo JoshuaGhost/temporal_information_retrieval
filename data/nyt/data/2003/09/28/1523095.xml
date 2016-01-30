@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends; At Central Command, Death Gets an Online Demotion</title>
+    <meta content="28ALEX$09" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/28/weekinreview/28ALEX.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1523095"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">Iraq</location>
+        <person class="indexing_service">Berenson, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+        <classifier class="online_producer" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E1D8133DF93BA1575AC0A9659C8B63" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends; At Central Command, Death Gets an Online Demotion</hl1>
+        <hl2 class="online_headline">At Central Command, Death Gets an Online Demotion</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEX BERENSON</byline>
+      <byline class="normalized_byline">Berenson, Alex</byline>
+      <dateline>BAGHDAD, Iraq</dateline>
+      <abstract>
+        <p>Web site operated by United States Central Command no longer posts American casualties in Iraq at top of home page; visitors must now scroll to bottom of page and click on small link called 'Casualty Reports'; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MORE than 300 American troops have been killed since the war in Iraq began. According to Pentagon records, more than 160 have been killed since President Bush declared on May 1 that major combat operations had ended. At least 70 of those deaths have been the result of hostile fire.</p>
+        <p>Every week seems to bring more deaths. When the guns are silent, there are fatal traffic accidents, fires, even electrocutions.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The count of U.S. casualties in Iraq has grown less visible to those who visit the Web site operated by the United States Central Command.</p>
+      </block>
+      <block class="full_text">
+        <p>MORE than 300 American troops have been killed since the war in Iraq began. According to Pentagon records, more than 160 have been killed since President Bush declared on May 1 that major combat operations had ended. At least 70 of those deaths have been the result of hostile fire.</p>
+        <p>Every week seems to bring more deaths. When the guns are silent, there are fatal traffic accidents, fires, even electrocutions.</p>
+        <p>But as the death toll rises, it is growing less visible, at least to those who visit the Web site operated by the United States Central Command, which controls American troops in Iraq.</p>
+        <p>Until early September, the Central Command official site, www.centcom.mil, posted press releases of American military deaths at the top of its home page, along with other releases. The result was a mélange of good news and bad that reflected the gap between intention and outcome plaguing the United States-led occupation here.</p>
+        <p>Earlier this month, for example, a visitor to the Web site would have seen ''Coalition Offers Help With Water, Jobs, Public Safety,'' topped by a reference to deaths in the First Armored Division: ''Two Soldiers Killed, One Wounded in Attack and 1AD Soldier Killed in Helicopter Accident.''</p>
+        <p>But about two weeks ago, the site began offering a different picture of the occupation in which death assumed a far less prominent role.</p>
+        <p>In fact, the deaths of American soldiers were now nowhere to be seen on the home page. To find them, visitors had to scroll to the bottom of the page and click on a small link called ''Casualty Reports.''</p>
+        <p>Central Command was not trying to hide the deaths of American soldiers, said Maj. Michel Escudie, a military spokesman.</p>
+        <p>It was done for clarity, he said. The change was made to help reporters more easily distinguish between casualty-related releases and other releases.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

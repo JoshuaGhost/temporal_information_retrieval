@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sega Commercials Take On Nintendo</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="380716"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING - ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">VIDEO GAMES</classifier>
+        <org class="indexing_service">SEGA OF AMERICA INC</org>
+        <org class="indexing_service">NINTENDO OF AMERICA INC</org>
+        <org class="indexing_service">BOZELL INC</org>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDA1031F932A0575BC0A966958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sega Commercials Take On Nintendo</hl1>
+      </hedline>
+      <byline class="print_byline">By Kim Foltz</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Sega of America, a maker of video games, will begin a campaign next week that takes a hit at rival Nintendo of America.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Sega of America, a maker of video games, will begin a campaign next week that takes a hit at rival Nintendo of America.</p>
+        <p>Sega of America, a maker of video games, will begin a campaign next week that takes a hit at rival Nintendo of America.</p>
+        <p>The spots show the action on Sega's Genesis sports video games, like Joe Montana's Football and Michael Jackson's Moonwalker as an announcer tells viewers: ''You can't do this on Nintendo.'' Because of technological differences, Genesis games cannot be played on the Nintendo system.</p>
+        <p>At the end of the spot, a message flashes on the screen: ''Genesis does what Nintendon't.''</p>
+        <p>Created by the Los Angeles office of Bozell, the $10 million campaign is an attempt to loosen Nintendo's dominance of the $3 billion video game market. Nintendo has about 80 percent of the market, compared to Sega's 15 percent share.</p>
+        <p>Ninetendo is also starting a new campaign next week, and a spokesman for the company said the details would be announced today.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING - ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Year in Store For St. Louis</title>
+    <meta content="MB025102" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1571412"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exploration and Explorers</classifier>
+        <classifier class="indexing_service" type="descriptor">World's Fairs</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">St Louis (Mo)</location>
+        <person class="indexing_service">Connelly, Marjorie</person>
+        <person class="indexing_service">Clark, William (1770-1838)</person>
+        <person class="indexing_service">Lewis, Meriwether (1774-1809)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri/St. Louis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Missouri</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exploration and Explorers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E2D71739F937A35757C0A9629C8B63" item-length="452" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Year in Store For St. Louis</hl1>
+      </hedline>
+      <byline class="print_byline">By MARJORIE CONNELLY</byline>
+      <byline class="normalized_byline">Connelly, Marjorie</byline>
+      <abstract>
+        <p>St Louis is gearing up for big year as city begins celebrating bicentennial of Lewis and Clark expedition and centennial of city's role as host of World's Fair and first Olympic Games in US; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The bicentennial of the Lewis and Clark expedition is only one of St. Louis's big events this year. The 200th anniversary of the Louisiana Purchase Exposition as well as the centennial of the city's role as host of both the World's Fair and the first Olympic Games in the United States will be celebrated with a yearlong schedule of exhibitions, festivals, tours, concerts and symposiums.</p>
+        <p>At the Museum of Westward Expansion beneath the Gateway Arch, a National Parks Service exhibition, ''Imagining the Expedition from St. Louis,'' highlights the explorers' activities in St. Louis as they made final preparations for their journey.</p>
+      </block>
+      <block class="full_text">
+        <p>The bicentennial of the Lewis and Clark expedition is only one of St. Louis's big events this year. The 200th anniversary of the Louisiana Purchase Exposition as well as the centennial of the city's role as host of both the World's Fair and the first Olympic Games in the United States will be celebrated with a yearlong schedule of exhibitions, festivals, tours, concerts and symposiums.</p>
+        <p>At the Museum of Westward Expansion beneath the Gateway Arch, a National Parks Service exhibition, ''Imagining the Expedition from St. Louis,'' highlights the explorers' activities in St. Louis as they made final preparations for their journey.</p>
+        <p>''Lewis and Clark: The National Bicentennial Exhibition,'' featuring original artifacts, documents and artwork, will be on view at the Missouri History Museum through Sept. 6, before traveling to Philadelphia, Denver, Washington and Portland, Ore.</p>
+        <p>Visitors can follow self-guided walking tours at the St. Louis Zoo and the Missouri Botanical Garden that focus on animals and plants encountered by the explorers and mentioned in their journals.</p>
+        <p>''Art of the Osage,'' at the St. Louis Art Museum through Aug. 8, examines the history, art and culture of the Native Americans who controlled much of the fur trade in the Upper Louisiana Territory.</p>
+        <p>The 1904 exposition was held in St. Louis to commemorate the centennial of the Louisiana Purchase and to honor Lewis and Clark's expedition. Forest Park, the site of the fair, has undergone an extensive restoration. It is now the site of many of the city's major cultural institutions, which are free (there may be an admission charge for exhibitions).</p>
+        <p>The Missouri Historical Society, for example, is mounting an exhibition about the fair, to open May 2 and run indefinitely, that will include artifacts, photographs, souvenirs, program guides and period clothing.</p>
+        <p>In honor of the 1904 Olympic Games, the Olympic trials for diving will be held in the city at the St. Peters Rec-Plex June 9 to 13. And on June 17, a celebration of the anniversary will be held in Forest Park as the Olympic torch passes through St. Louis on its way to Athens.</p>
+        <p>Information: (800) 916-0040 and www.explorestlouis.com.</p>
+        <p>MARJORIE CONNELLY</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

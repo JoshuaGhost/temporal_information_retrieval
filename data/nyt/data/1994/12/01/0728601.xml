@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ella Keats Whiting, English Professor, 98</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="728601"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">WHITING, ELLA KEATS (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E7DA1130F932A35751C1A962958260" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ella Keats Whiting, English Professor, 98</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ella Keats Whiting, an administrator and English literature professor at Wellesley College for 33 years and a great-niece of John Keats, died on Thursday at her home in the Carleton Village retirement community in Bedford, Mass.</p>
+        <p>She was 98 and died of natural causes, a spokeswoman for Wellesley said.</p>
+      </block>
+      <block class="full_text">
+        <p>Ella Keats Whiting, an administrator and English literature professor at Wellesley College for 33 years and a great-niece of John Keats, died on Thursday at her home in the Carleton Village retirement community in Bedford, Mass.</p>
+        <p>She was 98 and died of natural causes, a spokeswoman for Wellesley said.</p>
+        <p>Ms. Whiting joined the Wellesley faculty in 1928 and became a professor in 1942, specializing in medieval English literature. She was the editor of "The Poems of John Audelay," published in 1931.</p>
+        <p>She served in several administrative posts before becoming Dean of the College in 1954. During World War II, when the president, Mildred McAfee Horton, went on leave to become the first director of the WAVES, Ms. Whiting shared the responsibilities of the office of the president, heading panels on curriculum and instruction and faculty publications. She retired in 1961.</p>
+        <p>Ms. Whiting, a native of Somerville, Mass., received a bachelor's degree in economics at Vassar College in 1918 and a master's in English literature at Radcliffe College in 1922. She received a doctorate in medieval English literature from Yale University in 1929.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

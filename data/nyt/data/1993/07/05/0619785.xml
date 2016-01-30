@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marcy G. Miller, Jonathan A. Schaffir</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="619785"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MILLER, MARCY G (MRS MARCY SCHAFFIR)</person>
+        <person class="indexing_service">SCHAFFIR, JONATHAN A</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DB1F31F936A35754C0A965958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marcy G. Miller, Jonathan A. Schaffir</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marcy G. Miller, a senior buyer for the Ann Taylor clothing-store chain, was married yesterday to Dr. Jonathan A. Schaffir, a resident in obstetrics and gynecology at Mount Sinai Hospital, both in New York. Rabbi David S. Wolfman officiated at the Ritz-Carlton Hotel in Boston.</p>
+      </block>
+      <block class="full_text">
+        <p>Marcy G. Miller, a senior buyer for the Ann Taylor clothing-store chain, was married yesterday to Dr. Jonathan A. Schaffir, a resident in obstetrics and gynecology at Mount Sinai Hospital, both in New York. Rabbi David S. Wolfman officiated at the Ritz-Carlton Hotel in Boston.</p>
+        <p>Mrs. Schaffir and her husband, both 27, graduated from Brown University, from which the bridegroom also received an M.D. degree. The bride is a daughter of Mr. and Mrs. William H. Miller of Cambridge, Mass. Dr. Schaffir is the son of Mr. and Mrs. Kurt H. Schaffir of Greenwich, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

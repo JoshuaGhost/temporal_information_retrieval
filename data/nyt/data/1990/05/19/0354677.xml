@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agents Find Drug Tunnel to U.S.</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="354677"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DRUG ABUSE AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">BRIDGES AND TUNNELS</classifier>
+        <location class="indexing_service">MEXICO</location>
+        <location class="indexing_service">DOUGLAS (ARIZ)</location>
+        <location class="indexing_service">ARIZONA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DD1131F93AA25756C0A966958260" item-length="291" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agents Find Drug Tunnel to U.S.</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>DOUGLAS, Ariz., May 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Federal agents who suspected that drug smugglers had developed an underground border crossing have found a tunnel here that a Customs Service spokeswoman described as ''like something out of a James Bond movie.''</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Federal agents who suspected that drug smugglers had developed an underground border crossing have found a tunnel here that a Customs Service spokeswoman described as ''like something out of a James Bond movie.''</p>
+        <p>Federal agents who suspected that drug smugglers had developed an underground border crossing have found a tunnel here that a Customs Service spokeswoman described as ''like something out of a James Bond movie.''</p>
+        <p>The tunnel from Mexico was 30 feet underground and about the length of a football field, said the spokeswoman, Judy Turner. She said the tunnel, with concrete pillars for support, was five feet high, four feet wide and well lighted. It had compartments at various points where as much as five tons of drugs could be stored.</p>
+        <p>One entrance was in a warehouse in Douglas, a border town about 100 miles southeast of Tucson, and the other was in a house in Agua Prieta, Mexico, only 73 feet south of the fence that separates the two towns.</p>
+        <p>The house contained a compressor-operated system of hydraulic jacks that raised and lowered the entire floor of the structure for entrance to the tunnel, Ms. Turner said.</p>
+        <p>''It was just an exceptionally professionally engineered tunnel,'' she said. ''It was something that you and I in the ordinary world would only find in the movies. It was like something out of a James Bond movie.''</p>
+        <p>She said agents believed that it had taken six months to dig the tunnel and that it had been used for another six months.</p>
+        <p>Ms. Turner said customs agents had suspected the tunnel's existence and agents had used aerial surveillance to track the shipment of 2,258 pounds of cocaine from Douglas to a location outside Phoenix last Friday. They confiscated the haul there and arrested two people.</p>
+        <p>Federal agents used jackhammers and torches to break into the tunnel beginning late Thursday, and the Mexican authorities arrested two other people late Thursday and early today in Agua Prieta, Ms. Turner said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports People: BASEBALL; Scudder Sidelined</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="456347"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <org class="indexing_service">CINCINNATI REDS</org>
+        <person class="indexing_service">SCUDDER, SCOTT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cincinnati Reds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D9173BF933A05755C0A967958260" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports People: BASEBALL; Scudder Sidelined</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cincinnati Reds have lost their third starting pitcher in two weeks. Right-hander SCOTT SCUDDER couldn't throw yesterday in Cincinnati, and doctors diagnosed tendinitis in his right arm. Manager LOU PINIELLA said Scudder would probably have to go on the 15-day disabled list.</p>
+        <p>That'll give the Reds three disabled starters: Scudder, left-hander NORM CHARLTON and right-hander JOSE RIJO. Charlton went on the disabled list with shoulder tendinitis after he couldn't get loose June 18, and Rijo broke his left ankle while sliding June 20.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cincinnati Reds have lost their third starting pitcher in two weeks. Right-hander SCOTT SCUDDER couldn't throw yesterday in Cincinnati, and doctors diagnosed tendinitis in his right arm. Manager LOU PINIELLA said Scudder would probably have to go on the 15-day disabled list.</p>
+        <p>That'll give the Reds three disabled starters: Scudder, left-hander NORM CHARLTON and right-hander JOSE RIJO. Charlton went on the disabled list with shoulder tendinitis after he couldn't get loose June 18, and Rijo broke his left ankle while sliding June 20.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

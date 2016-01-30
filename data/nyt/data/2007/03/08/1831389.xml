@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EBay's Founder Selects Philanthropy Director</title>
+    <meta content="08ebay" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/08/technology/08ebay.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1831389"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Omidyar Network</org>
+        <person class="indexing_service">Omidyar, Pierre</person>
+        <person class="indexing_service">Bannick, Matt</person>
+        <person class="indexing_service">Paroo, Iqbal</person>
+        <person class="indexing_service">Strom, Stephanie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <org class="online_producer">eBay Inc</org>
+        <person class="online_producer">Strom, Stephanie</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2D61531F93BA35750C0A9619C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EBay's Founder Selects Philanthropy Director</hl1>
+        <hl2 class="online_headline">EBay’s Founder Selects Philanthropy Director</hl2>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE STROM</byline>
+      <byline class="normalized_byline">Strom, Stephanie</byline>
+      <abstract>
+        <p>Ebay founder Pierre Omidyar names Matthew J Bannick to head his personal philanthropy called Omidyar Network; Bannick succeeds Iqbal Paroo, who now will oversee Omidyar family's business interests (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The founder of eBay, Pierre Omidyar, has named a new leader for his personal philanthropy as he explores ways to play a bigger role in shaping public policy.</p>
+        <p>Matthew J. Bannick, who most recently ran eBay's global philanthropy, will become the managing partner of the Omidyar Network, which handles Mr. Omidyar's charitable gifts as well as investments in businesses that have social welfare goals, like Prosper, an online lender.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Pierre Omidyar named a new leader for his personal philanthropy as he explores ways to play a bigger role in shaping public policy.</p>
+      </block>
+      <block class="full_text">
+        <p>The founder of eBay, Pierre Omidyar, has named a new leader for his personal philanthropy as he explores ways to play a bigger role in shaping public policy.</p>
+        <p>Matthew J. Bannick, who most recently ran eBay's global philanthropy, will become the managing partner of the Omidyar Network, which handles Mr. Omidyar's charitable gifts as well as investments in businesses that have social welfare goals, like Prosper, an online lender.</p>
+        <p>Mr. Bannick succeeds Iqbal Paroo, Mr. Omidyar's longtime right-hand man, who now will oversee the Omidyar family's business interests.</p>
+        <p>''We're trying to engage whole systems and all of the actors participating in a system,'' Mr. Omidyar said in a telephone interview, ''whether nonprofit groups, for-profit businesses, government or media, to increase the impact we have.''</p>
+        <p>For example, he said, government regulations can affect the Omidyar Network's experiments with microfinancing, in which poor people are given small loans to start businesses of their own.</p>
+        <p>Phil Buchanan, executive director of the Center for Effective Philanthropy, a nonprofit group backed by the Omidyar Network that works to help foundations improve operations, said more and more foundations and philanthropists were looking for ways to influence public policy.</p>
+        <p>''It's a hot topic among foundation leaders and donors, and more and more people are embracing it as a tool for change,'' Mr. Buchanan said.</p>
+        <p>Mr. Bannick will work to build the Omidyar Network's administrative capacity and its ability to establish new strategies and project areas. He said he aims to double the organization's staff, which currently stands at 30, and create a team of leaders, each one responsible for setting strategy in a particular project area as well as for helping set the overall strategy of the organization.</p>
+        <p>Mr. Omidyar will put additional capital into the group, though how much has yet to be determined. The Omidyar Network currently has committed $52 million of a $200 million pool for profit-making investments and has $284 million available to make grants to nonprofits.</p>
+        <p>Mr. Bannick said the additional money was less important than the other changes Mr. Omidyar planned.</p>
+        <p>''If you become too focused on the money,'' he said, ''you become distracted from the admittedly more difficult but more important thing to assess, which is the impact that money is having in making change in society.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heavyweight Bout Could Be in China</title>
+    <meta content="PL013721" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1291695"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="PLUS: BOXING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Boxing</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Wong, Edward</person>
+        <person class="indexing_service">King, Don</person>
+        <person class="indexing_service">Ruiz, John</person>
+        <person class="indexing_service">Holyfield, Evander</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E4DA173BF93BA35756C0A9679C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heavyweight Bout Could Be in China</hl1>
+      </hedline>
+      <byline class="print_byline">By Edward Wong</byline>
+      <byline class="normalized_byline">Wong, Edward</byline>
+      <abstract>
+        <p>Spokesman for Don King says rematch between John Ruiz and Evander Holyfield for World Boxing Assn heavyweight title will be held in China (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A spokesman for Don King Productions said yesterday that a rematch between John Ruiz and Evander Holyfield for the World Boxing Association heavyweight title would be held in China.</p>
+        <p>Neither a date nor site was announced, but the spokesman, who is familiar with the negotiations, called the bout pretty definite and said that Don King, the promoter, had recently returned from China with a signed contract.</p>
+      </block>
+      <block class="full_text">
+        <p>A spokesman for Don King Productions said yesterday that a rematch between John Ruiz and Evander Holyfield for the World Boxing Association heavyweight title would be held in China.</p>
+        <p>Neither a date nor site was announced, but the spokesman, who is familiar with the negotiations, called the bout pretty definite and said that Don King, the promoter, had recently returned from China with a signed contract.</p>
+        <p>King is scheduled to return to China on Tuesday on a seven-day trip during which he will inspect the fight site, the spokesman said. A delegation from China is expected to join King Monday in Manhattan for a formal announcement of the rematch.</p>
+        <p>Ruiz floored Holyfield in the 11th round of a bout in Las Vegas on March 3 to take the title.</p>
+        <p>Edward Wong</p>
+        <p>PLUS: BOXING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Possible USAir Violations: Maintenance and Methods</title>
+    <meta content="05FLAW$02" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="920539"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <org class="indexing_service">Federal Aviation Administration</org>
+        <org class="indexing_service">Usair Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EFDB103DF936A35757C0A961958260" item-length="516" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Possible USAir Violations: Maintenance and Methods</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>FAA provides some information on USAir operations and maintenance violations; in number of instances, there are indications that USAir did not respond to agency inspectors' findings of violations (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Aviation Administration did not respond to a request under the Freedom of Information Act for details of most of the 84 charges that were settled with USAir in November, but it did provide information on some instances involving maintenance and operations. Here are some of the cases that were described:</p>
+        <p>LEAKS  Walking around a Boeing 737 on the USAir ramp at Pittsburgh International Airport, two aviation agency inspectors spotted a streak of blue fluid on May 14, 1996. The streak came from a service panel on the front right-hand side of the plane and led along the fuselage to the wing.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Aviation Administration did not respond to a request under the Freedom of Information Act for details of most of the 84 charges that were settled with USAir in November, but it did provide information on some instances involving maintenance and operations. Here are some of the cases that were described:</p>
+        <p>LEAKS  Walking around a Boeing 737 on the USAir ramp at Pittsburgh International Airport, two aviation agency inspectors spotted a streak of blue fluid on May 14, 1996. The streak came from a service panel on the front right-hand side of the plane and led along the fuselage to the wing.</p>
+        <p>Such leaks are a known problem on 737's, and inspectors and airline personnel are supposed to be alert to them. The fluid, which leaks from the on-board toilets, has shorted out the electronics on some planes and has sometimes formed ice on the exterior of the fuselage as the plane flies.</p>
+        <p>If the ice breaks off as the plane descends to warmer altitudes, it  can be sucked into an engine and cause damage, or hit someone on the ground. Under a special order issued in 1989, airlines that find such leaks are to repair them before the plane flies again, or drain the toilet system and seal off the lavatory.</p>
+        <p>So the inspectors notified USAir maintenance personnel.</p>
+        <p>Two days later, the same plane was back at the same ramp, where the same two inspectors looked it over again. It had the same leak. Maintenance records show that over the two days, mechanics had repaired many problems on the plane, including a balky autopilot and a first officer's safety harness that would not retract -- but not the leak.</p>
+        <p>The company said it had drained the system, sealed the lavatory, then replaced a valve and reopened the lavatory for use. The aviation agency said it could not find evidence that the work had been done, and besides, the leak was still there.</p>
+        <p>EMERGENCY-EXIT ROW  On a flight from Charlotte, N.C., to West Palm Beach, Fla., on Nov. 4, 1995, two adult passengers observed a boy they estimated to be 9 years old in the emergency-exit row, and complained to the aviation agency in a letter. Asked about it by the agency, USAir's senior director of in-flight services said the flight attendants ''feel they complied with all safety procedures and there was no child in the exit-row seats.''</p>
+        <p>COMPLIANCE  Agency inspectors complained that USAir was flying a Boeing 757 with oil leaking from the cowling over the left engine in October 1995. USAir said it had given itself an ''engineering authorization'' to continue flying. Such authorizations are in-house decisions meant to address questions not covered in Boeing's maintenance manual.</p>
+        <p>USAir said the manual prohibited flights only if leaks occurred after parts were replaced, and none were replaced.</p>
+        <p>But the agency said, ''It is our contention that this section of the maintenance manual is applicable and effective at any time, not just when USAir interprets it to be.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

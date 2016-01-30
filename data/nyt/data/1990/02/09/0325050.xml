@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Admiral Named for Top Post</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="325050"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <person class="indexing_service">BUSH, GEORGE (PRES)</person>
+        <person class="indexing_service">KELSO, FRANK B 2D (ADM)</person>
+        <person class="indexing_service">TROST, CARLISLE A H (ADM)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DA1531F93AA35751C0A966958260" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Admiral Named for Top Post</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SAN FRANCISCO, Feb. 8</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Presiden tBush will nominate Adm. Frank B. Kelso 2d to be the new Chief of Naval Operations, the White House announced Wednesday in San Francisco, where the President was traveling. Admiral Kelso, now commander in chief of the Navy's Atlantic Command and supreme Allied commander for the Atlantic, would succeed Adm.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Presiden tBush will nominate Adm. Frank B. Kelso 2d to be the new Chief of Naval Operations, the White House announced Wednesday in San Francisco, where the President was traveling. Admiral Kelso, now commander in chief of the Navy's Atlantic Command and supreme Allied commander for the Atlantic, would succeed Adm.</p>
+        <p>Presiden tBush will nominate Adm. Frank B. Kelso 2d to be the new Chief of Naval Operations, the White House announced Wednesday in San Francisco, where the President was traveling. Admiral Kelso, now commander in chief of the Navy's Atlantic Command and supreme Allied commander for the Atlantic, would succeed Adm. Carlisle A.H. Trost, whose term expires June 30. Admiral Kelso is 56 years old, a native of Fayetteville, Tenn., and a 1956 graduate of the Naval Academy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

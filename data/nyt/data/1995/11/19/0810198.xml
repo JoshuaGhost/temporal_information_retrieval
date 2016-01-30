@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why a Window Is Like a Poem</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="810198"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WINDOWS</classifier>
+        <person class="indexing_service">ESKESEN, HAL</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Windows</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE7DF1339F93AA25752C1A963958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why a Window Is Like a Poem</hl1>
+      </hedline>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

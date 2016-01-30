@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wallace on the Road to Recovery</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="606677"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: AUTO RACING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILE RACING</classifier>
+        <classifier class="indexing_service" type="descriptor">WINSTON CUP (AUTO RACING)</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <person class="indexing_service">WALLACE, RUSTY</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDE173BF936A35756C0A965958260" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wallace on the Road to Recovery</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RUSTY WALLACE, injured in a spectacular stock car crash on Sunday, went from one hospital to another yesterday in an effort to make certain he will be ready to race in less than two weeks. The 36-year-old Wallace was released yesterday morning from Carraway Medical Center in Birmingham, Ala., and immediately flew to Indianapolis for an examination by Dr. TERRY TRAMMELL, an orthopedic specialist.</p>
+      </block>
+      <block class="full_text">
+        <p>RUSTY WALLACE, injured in a spectacular stock car crash on Sunday, went from one hospital to another yesterday in an effort to make certain he will be ready to race in less than two weeks. The 36-year-old Wallace was released yesterday morning from Carraway Medical Center in Birmingham, Ala., and immediately flew to Indianapolis for an examination by Dr. TERRY TRAMMELL, an orthopedic specialist.</p>
+        <p>Wallace, who came away from a crash in Sunday's Winston 500 at Talladega, Ala., with a broken left wrist and a concussion, was admitted by Trammell to Methodist Hospital, where he inserted a steel pin lengthwise through the broken wrist. "He should be able to use the wrist effectively within a week and will be able to take a test drive shortly thereafter," Trammell said. (AP)  SPORTS PEOPLE: AUTO RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

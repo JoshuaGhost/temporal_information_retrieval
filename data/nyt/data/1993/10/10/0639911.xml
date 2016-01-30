@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gregory Rush and Kathleen Purcell</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="639911"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PURCELL, KATHLEEN BRIDGET (KATHLEEN BRIDGET RUSH)</person>
+        <person class="indexing_service">RUSH, GREGORY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DE1038F933A25753C1A965958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gregory Rush and Kathleen Purcell</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathleen Bridget Purcell, a daughter of Mr. and Mrs. Patrick J. Purcell of Weston, Mass., and New York, was married yesterday to Gregory Rush, the son of Mr. and Mrs. Ronald Rush of Pembroke, N.H. The Rev. John Geoghan, a Roman Catholic priest, performed the ceremony at St. Julia's Church in Weston, Mass.</p>
+        <p>Mrs. Rush, 22, and her husband, 23, graduated from Dartmouth College. She is a classified advertising representative at The Boston Herald. Her father is the publisher of The Herald and The New York Post and is the chief executive of News America Publishing Inc., the parent company of those newspapers, TV Guide, Mirabella magazine and News America Free Standing Inserts.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathleen Bridget Purcell, a daughter of Mr. and Mrs. Patrick J. Purcell of Weston, Mass., and New York, was married yesterday to Gregory Rush, the son of Mr. and Mrs. Ronald Rush of Pembroke, N.H. The Rev. John Geoghan, a Roman Catholic priest, performed the ceremony at St. Julia's Church in Weston, Mass.</p>
+        <p>Mrs. Rush, 22, and her husband, 23, graduated from Dartmouth College. She is a classified advertising representative at The Boston Herald. Her father is the publisher of The Herald and The New York Post and is the chief executive of News America Publishing Inc., the parent company of those newspapers, TV Guide, Mirabella magazine and News America Free Standing Inserts.</p>
+        <p>Mr. Rush is a trainee in Boston with the Fleet Bank of Massachusetts. His father is an administrator at Pembroke Academy in Pembroke, N.H.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

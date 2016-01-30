@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MADD Opposes Damages Cap</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="742199"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D9113CF93BA35751C0A963958260" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MADD Opposes Damages Cap</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID STOUT</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Members of Mothers Against Drunk Driving announced yesterday that they were opposed to legislation that would put a cap on punitive damages arising from lawsuits. MADD's legislative director, Ken Zauber, said the threat of a multimillion-dollar jury award was necessary to deter drunken drivers. DAVID STOUT</p>
+      </block>
+      <block class="full_text">
+        <p>Members of Mothers Against Drunk Driving announced yesterday that they were opposed to legislation that would put a cap on punitive damages arising from lawsuits. MADD's legislative director, Ken Zauber, said the threat of a multimillion-dollar jury award was necessary to deter drunken drivers. DAVID STOUT  NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

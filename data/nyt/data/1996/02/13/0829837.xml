@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="829837"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WOMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">MS (MAGAZINE)</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DD1239F930A25751C0A960958260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Ms. magazine became an advertisement-free publication in 1989, it eliminated its Women of the Year awards.</p>
+        <p>But though the honors were gone, they were apparently not forgotten. MARCIA ANN GILLESPIE, the magazine's editor in chief since 1993, said yesterday that "as I listened to other editors and readers, they kept coming up again and again."</p>
+      </block>
+      <block class="full_text">
+        <p>When Ms. magazine became an advertisement-free publication in 1989, it eliminated its Women of the Year awards.</p>
+        <p>But though the honors were gone, they were apparently not forgotten. MARCIA ANN GILLESPIE, the magazine's editor in chief since 1993, said yesterday that "as I listened to other editors and readers, they kept coming up again and again."</p>
+        <p>Tonight, Ms. Gillespie and GLORIA STEINEM, co-founder of Ms., will present Women of the Year awards to 12 recipients. They are to include MARCIA CLARK; SUSAN SARANDON; CANDACE GINGRICH; DAW AAUNG SAN SUU KYI, winner of the Nobel Peace Prize in 1991; OSEOLA McCARTY, the retired laundress who donated her life  savings to the University of Southern Mississippi, and SHANNON FAULKNER, who successfully sued The Citadel for the right to admission. The ceremony is to be  held at the home of PREMA MATHAI-DAVIS, the national executive director of the Y.W.C.A., who is also a winner.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Health Reform and the Lawyers</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="644475"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LEGAL PROFESSION</classifier>
+        <classifier class="indexing_service" type="descriptor">LAWYERS</classifier>
+        <person class="indexing_service">BROMBERGER, ALLEN R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D91730F937A15753C1A965958260" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Health Reform and the Lawyers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Harlan R. Ribnik, in "Health Reform? How About Lawyers?" (Viewpoints, Sept. 26), asked why lawyers aren't being asked to donate their services to the poor. Dr. Ribnik will be glad to know that lawyers are in fact being asked to do just that, and are responding in large numbers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Harlan R. Ribnik, in "Health Reform? How About Lawyers?" (Viewpoints, Sept. 26), asked why lawyers aren't being asked to donate their services to the poor. Dr. Ribnik will be glad to know that lawyers are in fact being asked to do just that, and are responding in large numbers.</p>
+        <p>Volunteer lawyers in New York City provide counsel in housing court, handle basic legal matters for persons with AIDS, represent children in Family Court and represent victims of abuse and discrimination seeking protection. They help nonprofit organizations with corporate, tax and real estate issues and work on low-income housing and economic development transactions. In all, New York City's lawyers donated about $100 million in legal services to the poor last year -- none of it tax-deductible. That's pretty impressive. ALLEN R. BROMBERGER New York, Oct. 4 The writer, an attorney, is executive director of Lawyers Alliance for New York, a pro bono program for lawyers in New York City.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

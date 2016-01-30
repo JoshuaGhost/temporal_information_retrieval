@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Cellphone Ban Questioned</title>
+    <meta content="11mbrfs-3" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/11/nyregion/11mbrfs-brief-003.html.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1760946"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Hu, Winnie</person>
+        <person class="indexing_service">Quinn, Christine C (Speaker)</person>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDB173EF932A25756C0A9609C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Cellphone Ban Questioned</hl1>
+        <hl2 class="online_headline">Cellphone Ban Questioned</hl2>
+      </hedline>
+      <byline class="print_byline">By WINNIE HU (NYT); Compiled by John Sullivan</byline>
+      <byline class="normalized_byline">Hu, Winnie</byline>
+      <abstract>
+        <p>New York City Council Speaker Christine C Quinn urges Mayor Michael R Bloomberg to reconsider ban on cellphones in public schools, saying working parents need to stay in touch with their children (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Council Speaker Christine C. Quinn urged Mayor Michael R. Bloomberg yesterday to reconsider a ban on cellphones in the public schools, saying that working parents in particular needed a way to stay in touch with their children during the school day. While the speaker agreed that cellphones should not be used in the classroom, she said that the mayor and Schools Chancellor Joel. I Klein should work with elected officials and parent groups to reach a compromise that would allow students to call their parents.</p>
+        <p>WINNIE HU (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Council Speaker Christine C. Quinn urged Mayor Michael R. Bloomberg yesterday to reconsider a ban on cellphones in the public schools, saying that working parents in particular needed a way to stay in touch with their children during the school day. While the speaker agreed that cellphones should not be used in the classroom, she said that the mayor and Schools Chancellor Joel. I Klein should work with elected officials and parent groups to reach a compromise that would allow students to call their parents.</p>
+        <p>WINNIE HU (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

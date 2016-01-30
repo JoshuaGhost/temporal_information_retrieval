@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miss Brennan, Mr. Ellinghaus</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="637001"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BRENNAN, SUSAN MARY (SUSAN MARY BRENNEN-ELLINGHAUS)</person>
+        <person class="indexing_service">ELLINGHAUS, JONATHAN PAUL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D91731F935A1575AC0A965958260" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miss Brennan, Mr. Ellinghaus</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Susan Mary Brennan, a daughter of Lawrence Brennan of Loudonville, N.Y., and the late Rosemary Brennan, was married yesterday to Jonathan Paul Ellinghaus, a son of William and Erlaine Ellinghaus of Key West, Fla. The Rev. Julian Davis officiated at St. Pius X Catholic Church in Loudonville.</p>
+        <p>Mrs. Brennan-Ellinghaus, 27, graduated from the State University at New Paltz, N.Y. She and her husband are actors in New York. Her father is a civil engineer with the New York State Department of Conservation in Albany.</p>
+      </block>
+      <block class="full_text">
+        <p>Susan Mary Brennan, a daughter of Lawrence Brennan of Loudonville, N.Y., and the late Rosemary Brennan, was married yesterday to Jonathan Paul Ellinghaus, a son of William and Erlaine Ellinghaus of Key West, Fla. The Rev. Julian Davis officiated at St. Pius X Catholic Church in Loudonville.</p>
+        <p>Mrs. Brennan-Ellinghaus, 27, graduated from the State University at New Paltz, N.Y. She and her husband are actors in New York. Her father is a civil engineer with the New York State Department of Conservation in Albany.</p>
+        <p>Mr. Brennan-Ellinghaus, also 27, graduated from Denison University. His father, now retired, was the president and chief executive of New York Telephone in New York, and the president of the American Telephone and Telegraph Company in New York.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

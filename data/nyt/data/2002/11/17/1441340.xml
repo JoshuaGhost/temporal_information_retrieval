@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anne-Marie Woodward, Chadd Herrmann</title>
+    <meta content="17WOOD$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/17/fashion/weddings/17WOOD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1441340"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">WOODWARD, ANNE-MARIE SULLIVAN</person>
+        <person class="indexing_service">HERRMANN, DR. CHADD ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DF1530F934A25752C1A9649C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anne-Marie Woodward, Chadd Herrmann</hl1>
+        <hl2 class="online_headline">Anne-Marie Woodward and Chadd Herrmann</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anne-Marie Sullivan Woodward and Dr. Chadd Alan Herrmann were married yesterday by Jean S. Kotkin, a leader of the Ethical Culture Society, at the Inn at Irving Place in New York.</p>
+        <p>Ms. Woodward, 29, is keeping her name. She is a freelance picture editor and a photographer in New York. She graduated from Emory University and received a master's degree in journalism from the University of Missouri. Her parents, Dr. Barbara Sullivan Woodward and Bob Woodward, live in Dubuque, Iowa, where her father is the chief executive of Woodward Communications, a media and printing company, which owns The Telegraph Herald, a daily newspaper. Her mother, a clinical psychologist, is a consultant to Finley Hospital Business Health, an occupational health service in Dubuque, and to the hospital's pain clinic.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Anne-Marie Woodward, Chadd Herrmann Anne-Marie Sullivan Woodward and Dr. Chadd Alan Herrmann were married yesterday by Jean S. Kotkin, a leader of the Ethical Culture Society, at the Inn at Irving Place in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Anne-Marie Sullivan Woodward and Dr. Chadd Alan Herrmann were married yesterday by Jean S. Kotkin, a leader of the Ethical Culture Society, at the Inn at Irving Place in New York.</p>
+        <p>Ms. Woodward, 29, is keeping her name. She is a freelance picture editor and a photographer in New York. She graduated from Emory University and received a master's degree in journalism from the University of Missouri. Her parents, Dr. Barbara Sullivan Woodward and Bob Woodward, live in Dubuque, Iowa, where her father is the chief executive of Woodward Communications, a media and printing company, which owns The Telegraph Herald, a daily newspaper. Her mother, a clinical psychologist, is a consultant to Finley Hospital Business Health, an occupational health service in Dubuque, and to the hospital's pain clinic.</p>
+        <p>Dr. Herrmann, 36, is a resident in psychiatry at St. Vincent's Manhattan Hospital. A summa cum laude graduate of the University of Minnesota, he received a master's degree in philosophy from the University of Texas and a medical degree from the University of Wisconsin. His parents, Sandra and Gary Herrmann, live in Chetek, Wis. His mother manages the Chetek Beauty Shoppe. His father is a salesman in Eau Claire, Wis., for the Sara Lee Bakery Group.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

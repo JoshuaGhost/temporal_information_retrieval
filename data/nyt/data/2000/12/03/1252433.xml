@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  REITER, JERILYN</title>
+    <meta content="DN120300" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="62" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1252433"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">REITER, JERILYN</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEED8163CF930A35751C1A9669C8B63" item-length="41" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  REITER, JERILYN</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REITER-Jerilyn. We mourn the loss of Jeri Reiter, wife of Jonathan Reiter, our esteemed colleague and First Vice Chairman, to whom we extend our deepest condolences. Liberal Party of New York State Martin S. Begun, Chairman Raymond B. Harding, Vice Chair</p>
+      </block>
+      <block class="full_text">
+        <p>REITER-Jerilyn. We mourn the loss of Jeri Reiter, wife of Jonathan Reiter, our esteemed colleague and First Vice Chairman, to whom we extend our deepest condolences. Liberal Party of New York State Martin S. Begun, Chairman Raymond B. Harding, Vice Chair</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

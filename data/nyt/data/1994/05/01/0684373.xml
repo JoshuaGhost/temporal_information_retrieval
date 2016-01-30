@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Subtract the Ads</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="684373"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">YANKEE STADIUM (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <org class="indexing_service">NEW YORK YANKEES</org>
+        <person class="indexing_service">CALDERONE, BEN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stadiums and Arenas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DC1330F932A35756C0A962958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Subtract the Ads</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>First, they took down the facade at Yankee Stadium. Then, they disturbed the outfield dimensions. Next, they made nearly all field-level seats the exclusive property of the landed gentry. For good measure, nearly all games are unavailable on Channel 11.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>First, they took down the facade at Yankee Stadium. Then, they disturbed the outfield dimensions. Next, they made nearly all field-level seats the exclusive property of the landed gentry. For good measure, nearly all games are unavailable on Channel 11.</p>
+        <p>Now, the center-field camera on opening day showed we are to be subjected to advertising, behind home plate, with every pitch.</p>
+        <p>Is this the final insult? Probably not. BEN CALDERONE  Levittown, L.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="10mideast--refer" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1803678"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDB1F3FF933A25752C1A9609C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Palestinians Mourn 18 Dead  Palestinians marched in anger and mourning for 18 civilians killed by Israeli artillery. Israel's prime minister called the strike a mistake and offered to meet the Palestinian president to ease tensions.</p>
+        <p>PAGE A3</p>
+        <p>Huge Victory for Rutgers  Rutgers beat No. 3 Louisville, improving to 9-0 and raising the surprising possibility of the Scarlet Knights as national title contenders.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+        <p>East German Spymaster Dies  Markus Wolf, the elusive cold war spymaster of Communist East Germany known as ''the man without a face,'' died at 83.</p>
+        <p>PAGE B8</p>
+      </block>
+      <block class="full_text">
+        <p>Palestinians Mourn 18 Dead  Palestinians marched in anger and mourning for 18 civilians killed by Israeli artillery. Israel's prime minister called the strike a mistake and offered to meet the Palestinian president to ease tensions.</p>
+        <p>PAGE A3</p>
+        <p>Huge Victory for Rutgers  Rutgers beat No. 3 Louisville, improving to 9-0 and raising the surprising possibility of the Scarlet Knights as national title contenders.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+        <p>East German Spymaster Dies  Markus Wolf, the elusive cold war spymaster of Communist East Germany known as ''the man without a face,'' died at 83.</p>
+        <p>PAGE B8</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

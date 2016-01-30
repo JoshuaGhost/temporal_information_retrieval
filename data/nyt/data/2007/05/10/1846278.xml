@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the High-Definition Front: A Laptop With Blu-ray</title>
+    <meta content="10laptop" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/10/technology/10laptop.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1846278"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Sony Corp</org>
+        <person class="indexing_service">Biggs, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D71731F933A25756C0A9619C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the High-Definition Front: A Laptop With Blu-ray</hl1>
+        <hl2 class="online_headline">On the High-Definition Front: A Laptop With Blu-ray</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+      <byline class="normalized_byline">Biggs, John</byline>
+      <abstract>
+        <p>Sony Vaio VGN-FZ180U/B, $2,149 notebook with Blu-ray built in, is one of first examples of next-generation technology to reach market at less-than-astronomical price; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The war between the HD-DVD and Blu-ray formats rages on, but it is still quite difficult to find PCs and laptops that can handle either of the new standards for high-definition video.</p>
+        <p>The Sony Vaio VGN-FZ180U/B, a $2,149 notebook with Blu-ray built in, is one of the first examples of this next-generation technology to reach the market at a less-than-astronomical price.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Sony Vaio VGN-FZ180U/B is one of the first examples of this next-generation technology to reach the market at a less-than-astronomical price.</p>
+      </block>
+      <block class="full_text">
+        <p>The war between the HD-DVD and Blu-ray formats rages on, but it is still quite difficult to find PCs and laptops that can handle either of the new standards for high-definition video.</p>
+        <p>The Sony Vaio VGN-FZ180U/B, a $2,149 notebook with Blu-ray built in, is one of the first examples of this next-generation technology to reach the market at a less-than-astronomical price.</p>
+        <p>This 5.75-pound laptop has a 15.4-inch screen and is about 1.4 inches thick. In its most powerful configuration the laptop has an HDMI-out port for transmitting HD video to a compatible television and an Nvidia GeForce 8400M GT card, one of the latest generation of mobile graphics processors, to power the entertainment.</p>
+        <p>In this configuration the FZ180U also includes a Blu-ray reader and even a burner -- a fairly exotic addition. It can handle up to four gigabytes of memory and has Intel's new Core 2 Duo processor at its heart, running at about 2.4 gigahertz. The battery lasts about two hours on a charge.</p>
+        <p>If the format wars find you leaning toward Blu-ray, the FZ180U just might be your weapon of choice.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

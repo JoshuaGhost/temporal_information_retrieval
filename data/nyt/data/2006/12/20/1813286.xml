@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Settlement In Insurance Inquiry</title>
+    <meta content="20mbrfs-6" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1813286"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6DB1031F933A15751C1A9609C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Settlement In Insurance Inquiry</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by John Sullivan</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A company that provides health insurance to state government employees and retirees has agreed to correct errors in its directory of physicians and reimburse policyholders for improper bills as part of a settlement with the attorney general's office, state officials announced yesterday. The attorney general opened an investigation after a policyholder complained that she had been billed for a physician's services as outside the company network when the doctor was listed in the company directory, Attorney General Eliot Spitzer said. The company, UnitedHealthcare, acknowledged that there were errors in the directory, said Maria Gordon-Shydlo, a company spokeswoman. She said that some physicians had multiple offices, some of which accepted the Empire Plan and some not, but that all offices were listed in the directory. The errors have been corrected, she said.</p>
+      </block>
+      <block class="full_text">
+        <p>A company that provides health insurance to state government employees and retirees has agreed to correct errors in its directory of physicians and reimburse policyholders for improper bills as part of a settlement with the attorney general's office, state officials announced yesterday. The attorney general opened an investigation after a policyholder complained that she had been billed for a physician's services as outside the company network when the doctor was listed in the company directory, Attorney General Eliot Spitzer said. The company, UnitedHealthcare, acknowledged that there were errors in the directory, said Maria Gordon-Shydlo, a company spokeswoman. She said that some physicians had multiple offices, some of which accepted the Empire Plan and some not, but that all offices were listed in the directory. The errors have been corrected, she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

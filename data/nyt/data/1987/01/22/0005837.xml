@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reading Scores of New York Secondary and Junior High Schools</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="5837"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE0DD173AF931A15752C0A961948260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reading Scores of New York Secondary and Junior High Schools</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Following are the scores released by the New York City Board of Education on the reading test given in the city's public elementary schools and junior high schools in April 1986.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Following are the scores released by the New York City Board of Education on the reading test given in the city's public elementary schools and junior high schools in April 1986.</p>
+        <p>Following are the scores released by the New York City Board of Education on the reading test given in the city's public elementary schools and junior high schools in April 1986.</p>
+        <p>The center column shows the proportion of pupils in each school reading at or above grade level. The righthand column gives each school's overall citywide ranking.</p>
+        <p>Students with a limited proficiency in English who have been in the school system less than a year were excused from taking the test, and their scores were automatically put at below grade level. A single asterisk indicates a school in which 10 percent or more of the students fell into this category. Two asterisks indicate a school that runs only from kindergarten through second grade, and only second graders were tested.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Northern Trust Co.(NTRS,NNM) reports earnings for Qtr to Sept 30</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="718794"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2DD1639F93BA25753C1A962958260" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Northern Trust Co.(NTRS,NNM) reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Northern Trust Co.(NTRS,NNM)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Net inc</p>
+        <p>48,000,000</p>
+        <p>42,800,000</p>
+        <p>Per share</p>
+        <p>.83</p>
+        <p>.75</p>
+        <p>Shares outst</p>
+        <p>55,335,000</p>
+        <p>54,575,000</p>
+        <p>9m net inc</p>
+        <p>142,100,000</p>
+        <p>124,600,000</p>
+        <p>Per share</p>
+        <p>2.48</p>
+        <p>2.20</p>
+        <p>Shares outst</p>
+        <p>55,095,000</p>
+        <p>54,573,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

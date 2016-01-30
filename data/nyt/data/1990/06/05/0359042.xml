@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>British Group Near Bankruptcy</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="359042"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BANKRUPTCY</classifier>
+        <org class="indexing_service">BRITISH AND COMMONWEALTH HOLDINGS PLC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDB1630F936A35755C0A966958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>British Group Near Bankruptcy</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>LONDON, June 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An administrator called in to rescue the financial services group British and Commonwealth Holdings P.L.C. said he would try to prevent the company from becoming one of Britain's largest corporate failures. B.&amp; C., a former shipping company that is laboring under $:1.3 billion or $2.2 billion in debt, is the largest British company to go into administration, a type of receivership introduced in Britain in 1986.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An administrator called in to rescue the financial services group British and Commonwealth Holdings P.L.C. said he would try to prevent the company from becoming one of Britain's largest corporate failures. B.&amp; C., a former shipping company that is laboring under $:1.3 billion or $2.2 billion in debt, is the largest British company to go into administration, a type of receivership introduced in Britain in 1986.</p>
+        <p>An administrator called in to rescue the financial services group British and Commonwealth Holdings P.L.C. said he would try to prevent the company from becoming one of Britain's largest corporate failures. B.&amp; C., a former shipping company that is laboring under $:1.3 billion or $2.2 billion in debt, is the largest British company to go into administration, a type of receivership introduced in Britain in 1986. Its problems stem from its 1988 takeover of the computer leasing company Atlantic Computers P.L.C.</p>
+        <p>The B.&amp; C. board was forced to call in administrators this weekend after three leading creditor banks refused to back rescue attempts put together by B.&amp; C. advisers.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

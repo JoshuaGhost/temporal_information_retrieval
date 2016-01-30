@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Robertson Davies, 82, Dies, Chronicler of Moral Battles</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="813413"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">DAVIES, ROBERTSON</person>
+        <person class="indexing_service">FLINT, PETER B WILLIAM ROBERTSON 'ROBERTSON' DAVIES</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3DB1E39F937A35751C1A963958260" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Robertson Davies, 82, Dies, Chronicler of Moral Battles</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>TORONTO, Dec. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Robertson Davies, the novelist, journalist and educator who became one of the first Canadian literary figures to gain an international following, died on Saturday at a hospital in Orangeville, Ontario, 50 miles northwest of Toronto. He was 82.</p>
+        <p>The cause was a stroke, said his secretary, Moira Whalon. Mr. Davies, who lived in Toronto but had a home in Caledon East, near Orangeville, had entered the hospital last Tuesday, said a supervisor at the hospital where he died, the  Dufferin-Caledon Health Care Corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>Robertson Davies, the novelist, journalist and educator who became one of the first Canadian literary figures to gain an international following, died on Saturday at a hospital in Orangeville, Ontario, 50 miles northwest of Toronto. He was 82.</p>
+        <p>The cause was a stroke, said his secretary, Moira Whalon. Mr. Davies, who lived in Toronto but had a home in Caledon East, near Orangeville, had entered the hospital last Tuesday, said a supervisor at the hospital where he died, the  Dufferin-Caledon Health Care Corporation.</p>
+        <p>Mr. Davies lived in the Toronto area for most of his life with his wife, the former Brenda Mathews, an Australian whom he married in London in 1940. He is survived by her and three daughters, Miranda, who lives in England; Jennifer Surridge of Mississauga, Ontario, and Rosamound Cunnington of Oakville, Ontario, and four grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

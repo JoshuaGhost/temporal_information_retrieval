@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Songs of Tangents and Essential Loose Ends</title>
+    <meta content="10PAVE$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="POP REVIEW" name="column_name"/>
+    <docdata>
+      <doc-id id-string="907954"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="POP REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Pavement (Music Group)</org>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E3DE103CF933A25751C0A961958260" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Songs of Tangents and Essential Loose Ends</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles reviews performance of group Pavement at Loeb Student Center of New York University (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stephen Malkmus undercounts when he sings ''I'm of several minds'' in a song on Pavement's new album, ''Brighten the Corners'' (Matador).</p>
+        <p>On Thursday night, playing the first of three New York City shows,  at the Loeb Student Center of New York University, Pavement treated its music like a Newtonian physics equation, matching every action with its opposite reaction.</p>
+      </block>
+      <block class="full_text">
+        <p>Stephen Malkmus undercounts when he sings ''I'm of several minds'' in a song on Pavement's new album, ''Brighten the Corners'' (Matador).</p>
+        <p>On Thursday night, playing the first of three New York City shows,  at the Loeb Student Center of New York University, Pavement treated its music like a Newtonian physics equation, matching every action with its opposite reaction.</p>
+        <p>In the lyrics, certainties are undercut with contradictions or tangents. Mr. Malkmus counters longing with detachment, ambition with misgivings, comfort with cynicism, coherence with non sequiturs. ''You've been chosen as an extra in the movie adaptation of the sequel to your life,'' he sang in ''Shady Lane.''</p>
+        <p>The band's music pulls off the same shaky balance; hefty and then delicate, unified and then ramshackle, melodic and then talky. Many of its songs are at in-between tempos, droning and then lurching ahead, too sluggish to rock out and too fast for ballads.</p>
+        <p>Pavement sometimes writes the burly, straightforward riffs and catchy nonsense syllables that could add up to a pop-rock hit, but it treats its loose ends as essential.</p>
+        <p>Formed in 1989, Pavement has been the epitome of indie rock, one of the big commercial hopes of the 1990's. The broader rock audience liked the music's drive and noise, but shied away from too much ambivalence; singers could vacillate all they wanted, but the band had to sound assured.</p>
+        <p>Pavement has ignored such pressures, and as indie rock reverts to its core collegiate audience, Pavement has stuck to its scruffiness.</p>
+        <p>At the end of the concert, a fan climbed onstage, shook hands with Mr. Malkmus, then walked to the front. True to Pavement's irresolution, he couldn't decide whether to stage-dive.</p>
+        <p>JON PARELES</p>
+        <p>POP REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

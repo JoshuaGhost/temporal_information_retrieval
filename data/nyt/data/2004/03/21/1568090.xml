@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231142" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Style; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1568090"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Google Inc</org>
+        <org class="indexing_service">Stanford University</org>
+        <person class="indexing_service">Brin, Sergey</person>
+        <person class="indexing_service">Page, Larry</person>
+        <person class="indexing_service">Wojcicki, Susan</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EEDB1131F932A15750C0A9629C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Corrections of Mar 14 article on Google: Sergey Brin and Larry Page began collaborating on search engine in 1995 at Stanford University; officially founded company in 1998 in garage office; Susan Wojcicki is Google's director of product management, not product placement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about the popularity of the Internet search engine Google and its effect on the broader culture referred imprecisely to the founding of Google Inc. by two Stanford University doctoral students, Sergey Brin and Larry Page. The two began collaborating on a search engine in 1995 and eventually set up a data center in a Stanford dormitory; when the company was officially founded in 1998, it opened in an office in a garage. (It was not founded in the dorm in that year and subsequently moved to the garage.)</p>
+        <p>The article also misstated the title of Susan Wojcicki. She is Google's director of product management, not product placement.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about the popularity of the Internet search engine Google and its effect on the broader culture referred imprecisely to the founding of Google Inc. by two Stanford University doctoral students, Sergey Brin and Larry Page. The two began collaborating on a search engine in 1995 and eventually set up a data center in a Stanford dormitory; when the company was officially founded in 1998, it opened in an office in a garage. (It was not founded in the dorm in that year and subsequently moved to the garage.)</p>
+        <p>The article also misstated the title of Susan Wojcicki. She is Google's director of product management, not product placement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

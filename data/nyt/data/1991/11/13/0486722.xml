@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Citicorp Agrees To Sale of Unit</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="486722"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">CAPITAL MARKETS ASSURANCE CORP</org>
+        <org class="indexing_service">CITICORP</org>
+        <org class="indexing_service">ELMROCK INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D61231F930A25752C1A967958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Citicorp Agrees To Sale of Unit</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Citicorp has agreed to sell its Capital Markets Assurance Corporation unit to some of its managers and Elmrock Inc., an investment firm, for an undisclosed price, Elmrock said. The unit provides insurance for issuers of asset-backed securities.</p>
+      </block>
+      <block class="full_text">
+        <p>Citicorp has agreed to sell its Capital Markets Assurance Corporation unit to some of its managers and Elmrock Inc., an investment firm, for an undisclosed price, Elmrock said. The unit provides insurance for issuers of asset-backed securities.</p>
+        <p>By agreeing in principle to sell the unit, Citicorp should come closer to realizing its plan to raise $4 billion to $5 billion of capital by 1993. Also, the unit represents about $5 billion of Citicorp's risk-adjusted assets, so selling it would raise Citicorp's capital-to-asset ratios. Elmrock said the deal was subject to regulatory approval and review by rating agencies.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

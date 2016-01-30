@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Newtown Advances</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="124789"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">PLAYOFF GAMES</classifier>
+        <org class="indexing_service">ATHLETIC LEAGUE, PUBLIC SCHOOLS (PSAL)</org>
+        <org class="indexing_service">NEWTOWN HIGH SCHOOL (NYC)</org>
+        <org class="indexing_service">SPRINGFIELD GARDENS HIGH SCHOOL (NYC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2DC1430F936A35750C0A96E948260" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Newtown Advances</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Fred Smith, a 6-foot-9-inch senior, snatched the rebound of a teammate's shot and scored a game-winning lay-in with 2 seconds left in overtime yesterday to give Newtown a 56-55 victory over Springfield Gardens in a Public Schools Athletic League quarterfinal playoff game at John Bowne High School in Flushing, Queens.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Fred Smith, a 6-foot-9-inch senior, snatched the rebound of a teammate's shot and scored a game-winning lay-in with 2 seconds left in overtime yesterday to give Newtown a 56-55 victory over Springfield Gardens in a Public Schools Athletic League quarterfinal playoff game at John Bowne High School in Flushing, Queens.</p>
+        <p>Fred Smith, a 6-foot-9-inch senior, snatched the rebound of a teammate's shot and scored a game-winning lay-in with 2 seconds left in overtime yesterday to give Newtown a 56-55 victory over Springfield Gardens in a Public Schools Athletic League quarterfinal playoff game at John Bowne High School in Flushing, Queens. It was Newtown's 25th consecutive victory of the season and gave the team a berth in the semifinals March 13 at Brandeis. Springfield Gardens, the defending P.S.A.L. champion, finished with a 20-5 record. The victory made Newtown the Queens borough champion.</p>
+        <p>Omar Lee, Newtown's 5-10 senior guard, scored a game-high 18 points.</p>
+        <p>Newtown will face the winner of today's quarterfinal and Brooklyn borough championship between Grady (18-6) and Lincoln (22-0), at Canarsie at 1 P.M.</p>
+        <p>Adlai Stevenson and Walton, two teams from the Bronx, will play in the other semifinal game. Stevenson defeated Manhattan Center, 67-49, and Walton eliminated Lehman, 61-53, in other quarterfinal games yesterday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

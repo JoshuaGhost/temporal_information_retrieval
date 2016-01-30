@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>British Car Sales Drop</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="485388"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">SALES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <location class="indexing_service">GREAT BRITAIN</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D7133EF934A35752C1A967958260" item-length="37" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>British Car Sales Drop</hl1>
+      </hedline>
+      <byline class="print_byline">By Bloomberg Business News</byline>
+      <dateline>LONDON, Nov. 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New-car sales in Britain dropped 22.5 percent in October from a year earlier, the Society of Motor Manufacturers and Traders said today. The October figure compared with an annual decline of 17.4 percent in September</p>
+      </block>
+      <block class="full_text">
+        <p>New-car sales in Britain dropped 22.5 percent in October from a year earlier, the Society of Motor Manufacturers and Traders said today. The October figure compared with an annual decline of 17.4 percent in September</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

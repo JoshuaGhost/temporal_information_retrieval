@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Florida Sunshine In Pillows and Duvets</title>
+    <meta content="30PILO" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1615230"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="CURRENTS: LINENS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beds and Bedding</classifier>
+        <person class="indexing_service">Subrin, Jennifer</person>
+        <person class="indexing_service">Daniel, Diane</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beds and Bedding</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E6D61738F933A0575AC0A9629C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Florida Sunshine In Pillows and Duvets</hl1>
+      </hedline>
+      <byline class="print_byline">By DIANE DANIEL</byline>
+      <byline class="normalized_byline">Daniel, Diane</byline>
+      <abstract>
+        <p>Jennifer Subrin's MeMe line of bright pillows and duvet covers noted; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''A huge part of our relationship is projects,'' said Jennifer Subrin, who started a business with her husband, Dennis Witnauer, making couch pillows, duvet covers and pillowcases using vintage fabrics. ''I'm an actress, and Dennis is a painter,'' she added. ''I go on the fly, and he has pretty specific ideas of how things fit together.''</p>
+        <p>Their line of bright floral pillows, above, is called MeMe, after Ms. Subrin's grandmother, who retired in Florida. ''The designs are on fabrics that remind me of her, her housecoats, her upholstery, the sunroom,'' Ms. Subrin said.</p>
+      </block>
+      <block class="full_text">
+        <p>''A huge part of our relationship is projects,'' said Jennifer Subrin, who started a business with her husband, Dennis Witnauer, making couch pillows, duvet covers and pillowcases using vintage fabrics. ''I'm an actress, and Dennis is a painter,'' she added. ''I go on the fly, and he has pretty specific ideas of how things fit together.''</p>
+        <p>Their line of bright floral pillows, above, is called MeMe, after Ms. Subrin's grandmother, who retired in Florida. ''The designs are on fabrics that remind me of her, her housecoats, her upholstery, the sunroom,'' Ms. Subrin said.</p>
+        <p>Pillows, 18 inches square, with removable covers and hidden closures, are $55; queen duvet covers, $270; pillowcases, $50 a pair; (718) 963-3772 or www.tracingspace.com.</p>
+        <p>DIANE DANIEL</p>
+        <p>CURRENTS: LINENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

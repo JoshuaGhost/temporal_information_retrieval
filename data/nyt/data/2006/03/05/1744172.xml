@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientific Americans</title>
+    <meta content="05halpern" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/03/05/books/review/05halpern.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1744172"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="'Intuition,' by Allegra Goodman"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Halpern, Sue</person>
+        <person class="indexing_service">Goodman, Allegra</person>
+        <object.title class="indexing_service">Intuition (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Goodman, Allegra</person>
+        <object.title class="online_producer">Intuition (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7D81E3EF936A35750C0A9609C8B63" item-length="1068" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientific Americans</hl1>
+        <hl2 class="online_headline">Scientific Americans</hl2>
+      </hedline>
+      <byline class="print_byline">By SUE HALPERN</byline>
+      <byline class="normalized_byline">Halpern, Sue</byline>
+      <abstract>
+        <p>Sue Halpern reviews book Intuition by Allegra Goodman; drawing; photo (M)f</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INTUITION</p>
+        <p>By Allegra Goodman.</p>
+        <p>344 pp. The Dial Press. $25.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>An ambitious, down-on-his-luck postdoctoral researcher suddenly obtains results that look too good to be true in Allegra Goodman's novel.</p>
+      </block>
+      <block class="full_text">
+        <p>INTUITION</p>
+        <p>By Allegra Goodman.</p>
+        <p>344 pp. The Dial Press. $25.</p>
+        <p>IN case there's any doubt that the subject of Allegra Goodman's disturbing new novel is topical, note this headline from the Jan. 19, 2006, New York Times: ''Cancer Study Was Made Up, Journal Says.'' Substitute Nature for The Lancet, the British medical journal that was forced to retract the study referred to in The Times; trade rogue tumors for cancer of the mouth; move the lab to Cambridge from Oslo (but keep the funding source, the National Institutes of Health); supply a new virus as the successful therapy, and there is Goodman's ''fiction.'' The only real difference between the story she has devised and the one reported in the newspaper is that the newspaper article is unequivocal: There's no question that the Norwegian scientist ''manipulated'' the data.</p>
+        <p>''Intuition,'' by contrast, is fuzzy. An anxious, ambitious, down-on-his-luck postdoctoral researcher suddenly obtains results that look too good to be true -- the virus he's injected into cancer-riddled mice appears to be melting away their tumors -- and his girlfriend, another postdoc in the same lab, comes to suspect he's fudged his results. But she doesn't know for sure: there's no hard evidence, just some sloppy, discarded lab notes that seem to suggest it.</p>
+        <p>More to the point, the reader is even less certain. We're looking over the shoulder of Cliff, the putative villain, when he first discovers the tumors have receded, and so we witness his genuine surprise: ''There were no tumors visible inside, underneath the skin. Cliff's heart began to beat faster. Over and over, he traced the faint red lines of the mouse's blood vessels, the map of the animal's body. . . . Over and over he looked, and each time he made the discovery again: his virus worked on cancer cells. He had never seen anything more beautiful or more important than that mouse before him on the table. He had never felt so solemn or so full of joy.'' Clearly this is not the response of a fellow who has made it all up.</p>
+        <p>Is he delusional? Wishful? Bad at his work? Onto something big? Goodman is coy about the answer. The absolute truth, she implies, is less important than the relative truth, the whodunit less interesting than what happens when a researcher makes what appears to be an earth-shaking preliminary finding, setting off a tidal wave that carries many people away.</p>
+        <p>The Mendelssohn-Glass lab, where Cliff and his soon-to-be-ex-girlfriend, Robin, work, is probably not that different from most research facilities. With salaries dependent on grants and grants dependent on outcomes, money is always tight and the pressure to come up with winning experiments is intense. Lab chiefs like Marion Mendelssohn and Sandy Glass, Goodman's yin-yang partners in this enterprise, are always fantasizing about the next big thing, less for what good it will do than for what it will bring: better equipment, more hands, professional renown. So when Cliff's cancer-fighting virus results look good, Glass and Mendelssohn reflexively choose not to examine them too closely. Glass pulls strings to hustle Cliff's preliminary findings into Nature, uses the findings to leverage millions of dollars from the government and encourages People magazine to write a story that runs with the headline ''Will This Man Cure Cancer?'' -- all before anyone outside the lab, or even in it, has made a stab at replication.</p>
+        <p>Replication -- having one's findings corroborated -- is the gold standard of scientific research, but often it comes months or even years after the initial findings are reported. The system of scientific checks and balances -- of peer reviewed journals and grant-making -- eliminates a certain amount of misbegotten work, but as the Times article shows, it's a fallible process. In any case, hope drives the scientific enterprise more than skepticism; the promise of real breakthroughs primes the engine. Who doesn't want to believe there's a cure for cancer?</p>
+        <p>It has been Goodman's particular talent to create quirky, poignant characters and put them in deeply affecting relationships, and these relationships carry her novels. ''Intuition,'' by contrast, is full of querulous people whose emotional tics stand in for personality. Each is simply playing a role -- Mendelssohn, the abstracted researcher; Glass, the mildly mendacious striver; Cliff, the shambling but handsome ninny; Robin, the harridan.</p>
+        <p>Robin, especially, makes an annoying heroine. She's whiny and plodding, and her relentless pursuit of the truth is strangely reductive: it makes her seem small. It diminishes the book, too. How to care about the difference between right and wrong when the woman upholding the banner of truth is so unappealing? How to feel dismayed by the accused wrong-doer when he's being vilified before he's been proven to be corrupt -- and when, it turns out, he's a sucker for the poetry of John Donne?</p>
+        <p>Goodman is mixing up the novel's messages, and doing this so vigorously that her moral compass seems to spin around, depolarized. There's an inquest by a politically motivated N.I.H. committee that rules against Cliff, declaring his findings to be fraudulent -- score one for Robin. That ruling is overturned on appeal, in large part because the original inquest was politically motivated -- score a bigger one for Cliff, whose work and work habits remain suspect nonetheless: ''He had been spared, and he was chastened, humbled by the victory. As one who survives a shipwreck, or a terrible disease, he asked God for strength and wisdom, and resolved to make a better start.''</p>
+        <p>If Cliff isn't guilty, is anyone? Goodman has written an energetic indictment of high-stakes science, presenting it as a system that makes unreasonable demands on young researchers, promotes cupidity, doesn't tolerate dissent. In the end, though, this argument fails to move either Cliff or Robin, who come to realize that despite its failings they'd rather do ''the slow exhausting work'' of science than anything else. The reader, meanwhile, understands that despite being cast out of the Mendelssohn-Glass lab -- one for being too exacting, the other for not being exacting enough -- neither Cliff nor Robin will have a problem getting hired somewhere else. Cancer hasn't been cured, but there'll still be a pretty happy ending for each of them.</p>
+        <p>'Intuition,' by Allegra Goodman Sue Halpern is the author of a novel, ''The Book of Hard Things.'' She is a scholar in residence at Middlebury College.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Sue Halpern is the author of a novel, ''The Book of Hard Things.'' She is a scholar in residence at Middlebury College.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chinatown's Power Lunch</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="710185"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="HERE NOW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHINESE-AMERICANS</classifier>
+        <location class="indexing_service">CHINATOWN (NYC)</location>
+        <org class="indexing_service">PACIFICA (MANHATTAN RESTAURANT)</org>
+        <org class="indexing_service">HOLIDAY INN DOWNTOWN (MANHATTAN)</org>
+        <person class="indexing_service">LII, JANE H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E6DD1238F937A3575AC0A962958260" item-length="360" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chinatown's Power Lunch</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE H. LII</byline>
+      <byline class="normalized_byline">LII, JANE H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY New Yorker knows a place for lunch in Chinatown: a fancy spot that gives you more plates in one meal than you could possibly use in a week at home, or maybe a basement hole-in-the-wall that serves three dishes for $2.50.</p>
+        <p>But for the powerful of Chinatown -- garment factory owners, real-estate investors and aspiring political leaders -- the choice of restaurant is often the Pacifica at the Holiday Inn Downtown, 138 Lafayette Street (between Canal and Howard streets).</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY New Yorker knows a place for lunch in Chinatown: a fancy spot that gives you more plates in one meal than you could possibly use in a week at home, or maybe a basement hole-in-the-wall that serves three dishes for $2.50.</p>
+        <p>But for the powerful of Chinatown -- garment factory owners, real-estate investors and aspiring political leaders -- the choice of restaurant is often the Pacifica at the Holiday Inn Downtown, 138 Lafayette Street (between Canal and Howard streets).</p>
+        <p>There, amid Chinese paintings and salmon-colored tablecloths, deals and megadeals are made over shrimp dumplings and fried noodles.</p>
+        <p>"We are the Lutece, the Waldorf and the Regency all in one," said Paul Schwartz, the hotel's general manager, who, if a trifle grandiose, is not entirely inaccurate. "People come here for the ambiance. We call it 'power lunch.' "</p>
+        <p>Recently, a real-estate investor from Guandong, China, told a prospective partner between slurps of noodle soup, "Money is burning in our pockets."</p>
+        <p>Nearby, Theresa Tsien, a manager at the Greater Blouse, Skirt and Undergarment Association, a nonprofit group that represents business owners, planned the association's annual meeting over beef and chicken with an assistant, Anna Eng. Nearby, a group planned a seminar for Asian women who own businesses.</p>
+        <p>In recent weeks, restaurant patrons have also seen Chinese opera stars in silk tunics brandishing wooden swords in a promotion performance for Sprint, the telephone company. Not to mention the 70 black-suited, solemn-faced members of the Hip Sing Association, a fraternal organization, and the Chinese Freemasons, who came to mourn their leader, Benny Ong, known as the godfather of Chinatown.</p>
+        <p>At the Pacifica, the standards of celebrity are not those of the city as a whole. Recently, as Gov. Mario M. Cuomo and his entourage dashed by the lounge on their way to a meeting, a guest asked, "Who is he?"</p>
+        <p>"The Governor of New York," replied a photographer for a Chinese newspaper. "But don't feel bad," he quickly reassured the guest. "He's been Governor more than 10 years and we've never seen him here before, either." JANE H. LII  HERE NOW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

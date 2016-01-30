@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GEIGER, JEANNE</title>
+    <meta content="DN022405" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1652511"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">GEIGER, JEANNE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DE173DF937A15751C0A9639C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GEIGER, JEANNE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GEIGER--Jeanne. On February 18, 2005. A service in celebration of her life will take place at 12 Noon, Thursday, February 24, at Park Avenue Synagogue, Madison Ave and 87th St. Interment will be private. For those so inclined, contributions to The Women's Crisis Center, 2 Harris St, Newburyport, MA 01950, would be appropriate in lieu of flowers.</p>
+      </block>
+      <block class="full_text">
+        <p>GEIGER--Jeanne. On February 18, 2005. A service in celebration of her life will take place at 12 Noon, Thursday, February 24, at Park Avenue Synagogue, Madison Ave and 87th St. Interment will be private. For those so inclined, contributions to The Women's Crisis Center, 2 Harris St, Newburyport, MA 01950, would be appropriate in lieu of flowers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

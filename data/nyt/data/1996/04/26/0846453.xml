@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jockey Is Suspended</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="846453"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: HORSE RACING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HORSE RACING</classifier>
+        <classifier class="indexing_service" type="descriptor">JOCKEYS, DRIVERS AND TRAINERS</classifier>
+        <classifier class="indexing_service" type="descriptor">AQUEDUCT RACE TRACK</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <person class="indexing_service">OTERO, WILLIAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDC1639F935A15757C0A960958260" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jockey Is Suspended</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILLIAM OTERO, an apprentice jockey, will sit out 20 days of racing, if stewards at Aqueduct have their way.</p>
+        <p>Otero was suspended for his "grossly careless" ride aboard Austrian Empress,  which resulted in a spill in Wednesday's seventh race.</p>
+      </block>
+      <block class="full_text">
+        <p>WILLIAM OTERO, an apprentice jockey, will sit out 20 days of racing, if stewards at Aqueduct have their way.</p>
+        <p>Otero was suspended for his "grossly careless" ride aboard Austrian Empress,  which resulted in a spill in Wednesday's seventh race.</p>
+        <p>Otero went out sharply with his mount on the backstretch, causing Tuit to clip heels and fall. Another horse, Tacha, fell over Tuit. The horses and the riders involved, JOSE TREJO and FILIBERTO LEON, escaped serious injury. Otero appealed the suspension. (AP)</p>
+        <p>SPORTS PEOPLE: HORSE RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

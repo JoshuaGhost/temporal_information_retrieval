@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Margins of Spanglish</title>
+    <meta content="LWARD" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="919846"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Spanish Language</classifier>
+        <person class="indexing_service">Ward, Edward R</person>
+        <person class="indexing_service">Gonzalez Echevarria, Roberto</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Spanish Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E2D91F3AF931A35757C0A961958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Margins of Spanglish</hl1>
+      </hedline>
+      <abstract>
+        <p>Edward R Ward letter supports Roberto Gonzalez Echevarria March 28 Op-Ed article contending that 'Spanglish' indicates marginalization, not enfranchisement</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Roberto Gonzalez Echevarria (''Is 'Spanglish' a Language?'', Op-Ed, March 28) makes a subtle but vital point for his readers: ''Spanglish . . . indicates marginalization, not enfranchisement.'' He is correct.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Roberto Gonzalez Echevarria (''Is 'Spanglish' a Language?'', Op-Ed, March 28) makes a subtle but vital point for his readers: ''Spanglish . . . indicates marginalization, not enfranchisement.'' He is correct.</p>
+        <p>Further, Mr. Echevarria might have added a second point: Those who defend the margins should realize that they must live in those margins. Are the backers of Spanglish (and ebonics?) so inclined? They should be ready for a rough and lonely ride.</p>
+        <p>EDWARD R. WARD  Bogota, N.J., March 28, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

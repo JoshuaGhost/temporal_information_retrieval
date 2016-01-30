@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02mideast--refer" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1794325"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3DE1430F931A35753C1A9609C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Deadly Protests as Palestinians Demand Paychecks  Six people were killed and more than 100 were wounded in clashes across territory under Palestinian control as protests were held over the Palestinian Authority's inability to pay its employees.</p>
+        <p>PAGE A9</p>
+        <p>Brazil to Have Runoff Vote  Brazil's embattled president, Luiz Inácio Lula da Silva, finished first in the presidential vote, but fell just short of the majority he needed to avoid a runoff on Oct. 29. His momentum in the race had been checked by a last-minute ethics scandal.</p>
+        <p>PAGE A6</p>
+        <p>Clinic Fined $16.5 Million  In the largest fine yet by the state's new Medicaid inspector general's office, a substance abuse clinic in Queens faces $16.5 million in penalties for what investigators called excessive treatments and overbilling.</p>
+        <p>PAGE B1</p>
+        <p>Ex-Enron Aide Tells of Banks  Andrew Fastow, sentenced to jail for his role in Enron's demise, is giving his account of the scheme to lawyers who have sued banks on behalf of investors who say they were defrauded.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Deadly Protests as Palestinians Demand Paychecks  Six people were killed and more than 100 were wounded in clashes across territory under Palestinian control as protests were held over the Palestinian Authority's inability to pay its employees.</p>
+        <p>PAGE A9</p>
+        <p>Brazil to Have Runoff Vote  Brazil's embattled president, Luiz Inácio Lula da Silva, finished first in the presidential vote, but fell just short of the majority he needed to avoid a runoff on Oct. 29. His momentum in the race had been checked by a last-minute ethics scandal.</p>
+        <p>PAGE A6</p>
+        <p>Clinic Fined $16.5 Million  In the largest fine yet by the state's new Medicaid inspector general's office, a substance abuse clinic in Queens faces $16.5 million in penalties for what investigators called excessive treatments and overbilling.</p>
+        <p>PAGE B1</p>
+        <p>Ex-Enron Aide Tells of Banks  Andrew Fastow, sentenced to jail for his role in Enron's demise, is giving his account of the scheme to lawyers who have sued banks on behalf of investors who say they were defrauded.</p>
+        <p>BUSINESS DAY, PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

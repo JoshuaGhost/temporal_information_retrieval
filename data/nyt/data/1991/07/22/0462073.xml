@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Burning Tanker Spills Oil in Waters off Perth</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="462073"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">TANKERS</classifier>
+        <location class="indexing_service">INDIAN OCEAN</location>
+        <location class="indexing_service">AUSTRALIA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tankers</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DF153FF931A15754C0A967958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Burning Tanker Spills Oil in Waters off Perth</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PERTH, Australia, July 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The bow of a burning oil tanker tore loose early today off Australia's western coast, dumping an estimated 2.9 million gallons of light crude oil into the Indian Ocean, officials said.</p>
+        <p>Capt. Richard Purkiss, chairman of the Western Australia state committee on fighting oil pollution, said the 210-foot Greek-registered tanker, the Kirki, was still afloat and efforts were being made to remove the remaining oil.</p>
+      </block>
+      <block class="full_text">
+        <p>The bow of a burning oil tanker tore loose early today off Australia's western coast, dumping an estimated 2.9 million gallons of light crude oil into the Indian Ocean, officials said.</p>
+        <p>Capt. Richard Purkiss, chairman of the Western Australia state committee on fighting oil pollution, said the 210-foot Greek-registered tanker, the Kirki, was still afloat and efforts were being made to remove the remaining oil.</p>
+        <p>The spill occurred about 125 miles north of Perth and 18 miles west of the fishing town of Cervantes. The oil slick was reported to be more than seven miles long and almost a mile wide.</p>
+        <p>The spill was estimated at 2.9 million gallons. By comparison, the Exxon Valdez spill of March 1989 dumped 10.9 million gallons of crude oil.</p>
+        <p>The Kirki was sailing from Saudi Arabia to the western Australian port of Fremantle when the fire broke out. Helicopters rescued the ship's 37 crew members before the bow tore loose, rupturing the forward storage tanks.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

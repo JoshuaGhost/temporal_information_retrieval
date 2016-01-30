@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Neal J. Menachem, Accountant, 50</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="544723"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">MENACHEM, NEAL J</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DB1531F931A15754C0A964958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Neal J. Menachem, Accountant, 50</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Neal J. Menachem, a partner in the accounting firm of Ernst &amp; Young, died on Monday at his home in Miami. He was 50 years old and a former resident of Woodmere, L.I.</p>
+        <p>He died of cancer, his family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Neal J. Menachem, a partner in the accounting firm of Ernst &amp; Young, died on Monday at his home in Miami. He was 50 years old and a former resident of Woodmere, L.I.</p>
+        <p>He died of cancer, his family said.</p>
+        <p>Mr. Menachem, a cum laude graduate of Adelphi University, became a certified public accountant and joined the Manhattan headquarters of Ernst &amp; Young in 1968. He transferred to the Miami office 12 years ago.</p>
+        <p>He was a past president of the Woodmere Park Association and continued to be active in civic affairs in Miami. His associations there included the Jewish Community Center of Greater Miami and the Greater Miami Federation.</p>
+        <p>Mr. Menachem is survived by his wife, the former Barbara Bedine; three sons, Andrew, Fredric and Seth; a daughter, Mara, and his mother, Pearl Menachem, all of Miami.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

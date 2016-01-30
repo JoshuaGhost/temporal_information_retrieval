@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wang Announces Software Products</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="139859"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <org class="indexing_service">WANG LABORATORIES INC</org>
+        <org class="indexing_service">INTERNATIONAL BUSINESS MACHINES CORP (IBM)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE1DE1430F934A15757C0A96E948260" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wang Announces Software Products</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Wang Laboratories Inc. yesterday announced a series of local area network software products that the company said would integrate its minicomputers and word processors more closely with I.B.M.-compatible personal computers. The company also outlined a strategy focusing on the office automation market and attempting to replace traditional paper-based filing systems with electronic document retrieval.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Wang Laboratories Inc. yesterday announced a series of local area network software products that the company said would integrate its minicomputers and word processors more closely with I.B.M.-compatible personal computers. The company also outlined a strategy focusing on the office automation market and attempting to replace traditional paper-based filing systems with electronic document retrieval.</p>
+        <p>Wang Laboratories Inc. yesterday announced a series of local area network software products that the company said would integrate its minicomputers and word processors more closely with I.B.M.-compatible personal computers. The company also outlined a strategy focusing on the office automation market and attempting to replace traditional paper-based filing systems with electronic document retrieval.</p>
+        <p>Wang also announced that the company had entered an agreement with Banyan Systems Inc. to resell several Banyan networking products as part of the new Wang PC LAN.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

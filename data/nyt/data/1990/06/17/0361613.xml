@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>K.G.B. Abuses Still Reported</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="361613"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DE1339F934A25755C0A966958260" item-length="28" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>K.G.B. Abuses Still Reported</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A retired senior official of the Soviet security agency accused its leadership of continuing a campaign against citizens perceived as political enemies. Page 12.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A retired senior official of the Soviet security agency accused its leadership of continuing a campaign against citizens perceived as political enemies. Page 12.</p>
+        <p>A retired senior official of the Soviet security agency accused its leadership of continuing a campaign against citizens perceived as political enemies. Page 12.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

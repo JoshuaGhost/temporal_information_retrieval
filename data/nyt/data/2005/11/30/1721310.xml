@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Honey, We Forgot to Raise the Kids!</title>
+    <meta content="l30kids-3" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1721310"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1DF1531F933A05752C1A9639C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Honey, We Forgot to Raise the Kids!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a teenager, I am bothered that society is so quick to blame kids and teenagers for all the ills and annoyances of the world.</p>
+        <p>When I go out, as often as not it is adults who are the major annoyance, whether they are on their cellphones, having a loud conversation with others or even loudly disciplining their children.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a teenager, I am bothered that society is so quick to blame kids and teenagers for all the ills and annoyances of the world.</p>
+        <p>When I go out, as often as not it is adults who are the major annoyance, whether they are on their cellphones, having a loud conversation with others or even loudly disciplining their children.</p>
+        <p>The best way for parents to teach their children to be polite and respectful is not just discipline but also providing a good model and being respectful themselves -- of other adults and, yes, even of youth.</p>
+        <p>That way, we are not only teaching good manners but also the valuable lesson that it is not all right to preach one thing and do another.</p>
+        <p>Stefan Muller  Port Washington, N.Y.  Nov. 27, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

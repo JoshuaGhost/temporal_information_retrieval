@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fox to Preview New PBS Children's Series</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="555415"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <org class="indexing_service">FOX TELEVISION</org>
+        <org class="indexing_service">PUBLIC BROADCASTING SERVICE (PBS)</org>
+        <person class="indexing_service">CARTER, BILL</person>
+        <object.title class="indexing_service">GHOSTWRITER, THE (TV PROGRAM)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DD123AF933A2575AC0A964958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fox to Preview New PBS Children's Series</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">CARTER, BILL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a unusual cross-promotion that recalls the premiere of "Sesame Street" 24 years ago, a new public television series called "Ghostwriter" will be broadcast as a sneak preview on the Fox network one day before it begins on PBS stations.</p>
+        <p>The Children's Television Workshop, which developed "Ghostwriter" to promote reading and writing to children, announced the arrangement with Fox yesterday, saying the preview was intended to reach millions of children who watch cartoon programs on Saturday mornings.</p>
+      </block>
+      <block class="full_text">
+        <p>In a unusual cross-promotion that recalls the premiere of "Sesame Street" 24 years ago, a new public television series called "Ghostwriter" will be broadcast as a sneak preview on the Fox network one day before it begins on PBS stations.</p>
+        <p>The Children's Television Workshop, which developed "Ghostwriter" to promote reading and writing to children, announced the arrangement with Fox yesterday, saying the preview was intended to reach millions of children who watch cartoon programs on Saturday mornings.</p>
+        <p>Fox will broadcast a half-hour version of the opening "Ghostwriter" episode on at 11:30 A.M. on Oct. 3. The full hourlong "Ghostwriter" episode will be broadcast on PBS stations at 6 P.M. the next night. 'Beverly Hills 90210' Hosts</p>
+        <p>Fox will also provide two hosts for the preview, Gabrielle Carteris and Brian Austin Green, two young actors from Fox's hit series "Beverly Hills 90210." They will encourage young viewers to watch for the first "Ghostwriter" program on PBS, though they will not specify what time the program will be on.</p>
+        <p>Ellen Morgenstern, a spokeswoman for the Children's Television Workshop, said Nike, the corporate underwriter for the "Ghostwriter" series, had paid for the production of the special preview and made it possible for the program to be carried by Fox. Nike gave a $5 million grant to Children's Television Workshop to develop the program, the largest grant ever for a children's educational television program.</p>
+        <p>Nike will have some "image announcements" in the "Ghostwriter" preview but no commercials for Nike products, Ms. Morgenstern said. On Fox, the program will have standard Saturday morning commercials, however.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

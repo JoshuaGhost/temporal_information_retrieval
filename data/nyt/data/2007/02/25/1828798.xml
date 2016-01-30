@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kerry Flynn, Christopher Andrew</title>
+    <meta content="25FLYNN" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/25/fashion/weddings/25FLYNN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1828798"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Flynn, Kerry Ellen</person>
+        <person class="indexing_service">Andrew, Christopher John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E0DB103EF936A15751C0A9619C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kerry Flynn, Christopher Andrew</hl1>
+        <hl2 class="online_headline">Kerry Flynn and Christopher Andrew</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kerry Ellen Flynn, the daughter of Patricia D. Flynn and Cormack Flynn of Ramsey, N.J., was married yesterday in Rockleigh, N.J., to Christopher John Andrew, a son of Evelyn Andrew and John Andrew of Kearny, N.J. Jason King, a friend of the couple who became a Universal Life minister for the occasion, officiated at the Rockleigh Country Club.</p>
+        <p>The bride, who graduated cum laude from Mary Washington College in Fredericksburg, Va., and the bridegroom, a Rutgers graduate, met on the Newark campus of Rutgers, where each received a law degree.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The couple were married Saturday at the Rockleigh Country Club.</p>
+      </block>
+      <block class="full_text">
+        <p>Kerry Ellen Flynn, the daughter of Patricia D. Flynn and Cormack Flynn of Ramsey, N.J., was married yesterday in Rockleigh, N.J., to Christopher John Andrew, a son of Evelyn Andrew and John Andrew of Kearny, N.J. Jason King, a friend of the couple who became a Universal Life minister for the occasion, officiated at the Rockleigh Country Club.</p>
+        <p>The bride, who graduated cum laude from Mary Washington College in Fredericksburg, Va., and the bridegroom, a Rutgers graduate, met on the Newark campus of Rutgers, where each received a law degree.</p>
+        <p>Ms. Flynn, 29, is keeping her name. She is a compliance officer in the securities division of Goldman Sachs in New York. She also has an M.B.A. from Rutgers. Her father, who is retired, worked in Clifton, N.J., as a flavor chemist for Givaudan-Roure, a Swiss fragrance and flavors maker. Her mother, also retired, was the personnel director at the Fountain, a day spa in Ramsey.</p>
+        <p>Mr. Andrew, 33, is a corporate associate specializing in mergers and acquisitions at Debevoise &amp; Plimpton, the New York law firm. His mother, who is retired, taught kindergarten at Garfield Elementary School in Kearny. His father, also retired, was a bricklayer who worked for the Bricklayers and Allied Craftsmen Local 4, in New Jersey.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

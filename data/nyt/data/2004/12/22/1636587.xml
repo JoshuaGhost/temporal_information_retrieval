@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Watching the Water and Reading the Ripples</title>
+    <meta content="22PROFILE" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/22/nyregion/22profile.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1636587"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="PUBLIC LIVES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Nature and Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Models (Simulations)</classifier>
+        <location class="indexing_service">Hudson River</location>
+        <classifier class="indexing_service" type="names">Alan F. Blumberg</classifier>
+        <org class="indexing_service">Stevens Institute of Technology</org>
+        <person class="indexing_service">Holl, John</person>
+        <person class="indexing_service">Blumberg, Alan F (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Stevens Institute of Technology</org>
+        <org class="online_producer">Homeland Security Department</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E0DE1030F931A15751C1A9629C8B63" item-length="968" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Watching the Water and Reading the Ripples</hl1>
+        <hl2 class="online_headline">Watching the Water and Reading the Ripples</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLL</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <dateline>HOBOKEN, N.J.</dateline>
+      <abstract>
+        <p>Interview with Alan F Blumberg, professor of ocean engineering at Stevens Institute of Technology in Hoboken, NJ, who uses sensors to create forecast models to monitor pollutants in Hudson River; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON an unusually calm day on the Hudson River, Alan F. Blumberg is standing on a cracked concrete bulkhead scattered with splintered wood and rusting pieces of metal. He is paying close attention to a length of PVC pipe with a black wire snaking from its top that is anchored in the water.</p>
+        <p>The object, one of 15 sensors located in waterways around the region, beams information to Dr. Blumberg's office every 10 seconds. There he is able to monitor, among other things, pollutants in the water.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Alan F. Blumberg uses sensors to create forecast models for the Hudson River.</p>
+      </block>
+      <block class="full_text">
+        <p>ON an unusually calm day on the Hudson River, Alan F. Blumberg is standing on a cracked concrete bulkhead scattered with splintered wood and rusting pieces of metal. He is paying close attention to a length of PVC pipe with a black wire snaking from its top that is anchored in the water.</p>
+        <p>The object, one of 15 sensors located in waterways around the region, beams information to Dr. Blumberg's office every 10 seconds. There he is able to monitor, among other things, pollutants in the water.</p>
+        <p>''In the 1850's, the biggest dangers you had were from sharks swimming in these waters,'' says Dr. Blumberg, 56. ''Now it's the toxins in the sediment. But things are getting better, and now that the river is being cleaned up, the sharks could come back.''</p>
+        <p>For nearly three years, Dr. Blumberg, a professor of ocean engineering at the Stevens Institute of Technology in Hoboken, has been using sensors to track pollutants, water temperatures and the salinity and speed of the water to create forecast models, in much the same way the National Weather Service creates meteorological forecast models.</p>
+        <p>Dr. Blumberg considers himself a fortunate man because, he says, ''what I am good at and what I enjoy went together so well.'' His passion for water stems from his years growing up in the Panama Canal Zone, where he often spent his days playing in the ocean. Now he is trying to figure out ways to undo decades of environmental damage to local waterways. Much of his focus is on the Hudson, where tons of pollutants -- like PCB's, mercury, metals and other agents -- were legally dumped, then settled to the sediment, where they are stirred up by ships passing above.</p>
+        <p>''It's possible for pollutants stirred up right here on the Hudson to find their way into the Long Island Sound in about three hours,'' Dr. Blumberg says.</p>
+        <p>So, he and his colleagues are working on ways to examine the water to better help environmental groups and businesses maintain and protect waterways. Dr. Blumberg is optimistic about fulfilling a pledge by Stevens's president, Harold J. Raveché, to build a beach, eventually, along the college's Hudson River banks.</p>
+        <p>Dr. Blumberg also is working with officials from the Department of Homeland Security on technology that can instantly provide wind and other data to handheld computers to help the authorities better direct people in the event of a terrorist attack or a serious accident on the water.</p>
+        <p>He also is developing and testing new watercraft that are less damaging to the environment. In the basement of a nondescript building next to the third-base line of the college's baseball field, Dr. Blumberg walks along a 300-foot long wave tank, which was built in 1945 and was then part of a secret Navy facility created to test the feasibility of seaplanes.</p>
+        <p>The tank, 12 feet wide and six feet deep, was later used to test scale models of yachts that competed in the America's Cup. Now, the tank is used by undergraduates to fulfill a physical education requirement in scuba diving and by Dr. Blumberg and his colleagues to test scale models of boats, Bradley fighting vehicles and even new designs for ferries that can reduce the size of the wakes they generate.</p>
+        <p>''The wakes from boats, but ferries especially, cause damage,'' Dr. Blumberg says. ''If you have a boat, or a wetland, a marina or beach, a strong wake causes erosion of the sediment and beaches, it can beat up pilings and piers. There are a lot of negative consequences of wakes, and we're trying to change that.''</p>
+        <p>Researchers attach scale models of boats to a harness hanging over one end of the wave tank and then pull the models 300 feet in three seconds to measure the resistance to water flow, the different motions of the boats and the wake they produce. In some models, the faster a ferry travels, the smaller wake it leaves behind.</p>
+        <p>NO stranger to aquatic environments, Dr. Blumberg feels comfortable working by the Hudson, one of the fastest and most complex waterways in the world. These days, in addition to his work and research, he is on a campaign to have more information about tides added to daily weather reports and has approached newspapers, including The New York Times, to ask them to expand their reports.</p>
+        <p>''All the reports give you is the time of the tides; it doesn't say how high,'' Dr. Blumberg says. ''The water goes up and down in response to more than just the movement of the moon and the sun. The wind blowing can affect the piling up of water, among other things. You can't get that from the tide tables in the paper, but you should. It's important, and more people care about it than you might realize.''</p>
+        <p>Dr. Blumberg's forecasts are available online at www.stevens.edu/maritimeforecast, which is popular not only with researchers, but also with competitors in local sailing races seeking tidbits on currents and wind speeds.</p>
+        <p>Dr. Blumberg left Panama, where his father was a civil engineer who worked in the Canal Zone, to go to Farleigh Dickinson University in Teaneck, N.J., before earning his master's and doctoral degrees from Johns Hopkins University in Baltimore. He planned to become a physicist, but changed his mind at Johns Hopkins. ''I decided I did not want to chase elementary particles around anymore,'' says Dr. Blumberg, who has also taught at Princeton. ''The ocean environment is a wonderful place to work. It is so diverse and interesting, I cannot imagine doing anything else.''</p>
+        <p>PUBLIC LIVES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

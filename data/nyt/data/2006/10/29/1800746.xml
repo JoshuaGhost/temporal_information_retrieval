@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Portuguese Spoken Here</title>
+    <meta content="l29portugal" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1800746"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Portuguese Language</classifier>
+        <location class="indexing_service">Brazil</location>
+        <org class="indexing_service">Museum of the Portuguese Language (Sao Paulo)</org>
+        <person class="indexing_service">Riedinger, Edward A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3D9153FF93AA15753C1A9609C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Portuguese Spoken Here</hl1>
+      </hedline>
+      <abstract>
+        <p>Edward A Riedinger letter, prompted by Oct 23 article on popular new Museum of Portuguese Language in Sao Paulo, Brazil, says Portuguese is among 10 most widely spoken languages worldwide and it is major language of Southern Hemisphere and South Atlantic</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''At Long Last, a Neglected Language Is Put on a Pedestal'' (São Paulo Journal, Oct. 23):</p>
+        <p>It is not just that Portuguese is among the 10 most widely spoken languages worldwide. It is a major language of the Southern Hemisphere and the South Atlantic.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''At Long Last, a Neglected Language Is Put on a Pedestal'' (São Paulo Journal, Oct. 23):</p>
+        <p>It is not just that Portuguese is among the 10 most widely spoken languages worldwide. It is a major language of the Southern Hemisphere and the South Atlantic.</p>
+        <p>It is the language of 25 percent of the population of the Southern Hemisphere through Portuguese-speaking South America, Africa and Asia. It is spoken by nearly 40 percent of the population in countries bordering the Atlantic rim region. Around this rim are nine metropolitan port areas (Lisbon; Luanda, Angola; in Brazil, Porto Alegre, Santos-São Paulo, Rio de Janeiro, Salvador da Bahia, Recife, Fortaleza and Belém do Pará).</p>
+        <p>As the Portuguese poet Fernando Pessoa reflected, ''Navegar é preciso; viver não é preciso'' -- loosely translated, to journey by sea is indispensable.</p>
+        <p>Edward A. Riedinger  Oxford, England, Oct. 23, 2006</p>
+        <p>The writer is a visiting research associate at the Center for Brazilian Studies at Oxford University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

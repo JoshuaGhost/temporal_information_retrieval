@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sounds Around Town</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="769217"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CENTRAL PARK SUMMERSTAGE</classifier>
+        <org class="indexing_service">UPPER CRUST (ROCK BAND)</org>
+        <org class="indexing_service">BROWNIE'S</org>
+        <person class="indexing_service">BURKE, SOLOMON</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Central Park Summerstage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DA1631F935A25755C0A963958260" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sounds Around Town</hl1>
+      </hedline>
+      <byline class="print_byline">By NEIL STRAUSS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Big Soul</p>
+        <p>Solomon Burke with the Uptown Horns, Central Park Summerstage, Rumsey Playfield, mid-park at 72d Street, (212) 360-2777, and Tramp's, 45 West 21st Street, Chelsea, (212) 727-7788. With over 300 pounds of pure soul, Solomon Burke merges physical and spiritual love into rousing, rapturous shows. A licensed undertaker, an ordained minister and one of the most important soul singers of the 1960's, Mr. Burke is best known for "Down in the Valley," "The Price" and "Everybody Needs Somebody to Love." He will be backed by the Uptown Horns, who not only support singing greats but also write passionate soul songs. The Central Park show, at 3 P.M. tomorrow, is free; the Tramps concert, at 8:30 and 11:30 tomorrow night, is $20. NEIL STRAUSS Powdered-Wig Set</p>
+        <p>Upper Crust, Brownie's, 169 Avenue A, at 10th Street, East Village, (212) 420-8392. Upper Crust, with former members of the Boston rock band the Flies, is a rarity in rock-and-roll: a joke band whose joke doesn't get stale by the end of a performance. Its members dress in powdered wigs and floppy sleeves befitting 18th-century aristocracy, sing songs titled "Let Them Eat Rock" and "Friend of a Friend of the Working Class," and spin hilarious stories between numbers from the point of view of effete British snob superstars. And what does the music sound like? It's simple, catchy, fun and always slightly reminiscent of something else, whether it be AC/DC or the Kinks. The concert is tonight at 11 P.M.; admission is $6. N. S.</p>
+      </block>
+      <block class="full_text">
+        <p>Big Soul</p>
+        <p>Solomon Burke with the Uptown Horns, Central Park Summerstage, Rumsey Playfield, mid-park at 72d Street, (212) 360-2777, and Tramp's, 45 West 21st Street, Chelsea, (212) 727-7788. With over 300 pounds of pure soul, Solomon Burke merges physical and spiritual love into rousing, rapturous shows. A licensed undertaker, an ordained minister and one of the most important soul singers of the 1960's, Mr. Burke is best known for "Down in the Valley," "The Price" and "Everybody Needs Somebody to Love." He will be backed by the Uptown Horns, who not only support singing greats but also write passionate soul songs. The Central Park show, at 3 P.M. tomorrow, is free; the Tramps concert, at 8:30 and 11:30 tomorrow night, is $20. NEIL STRAUSS Powdered-Wig Set</p>
+        <p>Upper Crust, Brownie's, 169 Avenue A, at 10th Street, East Village, (212) 420-8392. Upper Crust, with former members of the Boston rock band the Flies, is a rarity in rock-and-roll: a joke band whose joke doesn't get stale by the end of a performance. Its members dress in powdered wigs and floppy sleeves befitting 18th-century aristocracy, sing songs titled "Let Them Eat Rock" and "Friend of a Friend of the Working Class," and spin hilarious stories between numbers from the point of view of effete British snob superstars. And what does the music sound like? It's simple, catchy, fun and always slightly reminiscent of something else, whether it be AC/DC or the Kinks. The concert is tonight at 11 P.M.; admission is $6. N. S.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

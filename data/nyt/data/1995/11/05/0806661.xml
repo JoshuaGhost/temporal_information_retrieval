@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Natural Settings</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="59" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="806661"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="STYLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">JEWELS AND JEWELRY</classifier>
+        <org class="indexing_service">MUSEE DES ARTS DECORATIFS (PARIS)</org>
+        <person class="indexing_service">BRUBACH, HOLLY</person>
+        <person class="indexing_service">SCHLUMBERGER, JEAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jewels and Jewelry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DE1739F936A35752C1A963958260" item-length="396" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Natural Settings</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLY BRUBACH</byline>
+      <byline class="normalized_byline">BRUBACH, HOLLY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The jellyfish's domelike, phosphorescent surface is perfectly rendered in moonstones interspersed with tiny diamonds; its curling gold tentacles, paved with amethysts, dangle below. The thought of a wealthy woman, well dressed, sporting on her lapel a creature commonly regarded as a menace and a pest must have delighted Jean Schlumberger, the jewelry designer whose work constitutes a  magnificent exhibition, "Un Diamant Dans la Ville" ("A Diamond in the City"), currently on view at the Musee des Arts Decoratifs, in Paris. While others applied the principles of modernism to the craft of precious stones -- streamlining the shapes, creating "abstract" settings -- Schlumberger resolutely pursued his own course, a serendipitous parade of flora, fauna and everyday objects. Surprisingly, it is the sleek art-deco necklace from Cartier that now looks dated and conventional and Schlumberger's brooch of a giant ruby pierced by gold arrows that has proved to be not only timeless but subversive.</p>
+        <p>He was an unlikely revolutionary. Born in 1907, in Alsace, to a well-to-do family of textile manufacturers, he defied his mother's warning that by becoming a jewelry designer, he would forfeit the right to dance with his clients. When he worked, he wore a smock made for him by Balenciaga, the great couturier and a friend. From 1956 until his retirement, in the late 70's, he was ensconced at Tiffany &amp; Co., in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>The jellyfish's domelike, phosphorescent surface is perfectly rendered in moonstones interspersed with tiny diamonds; its curling gold tentacles, paved with amethysts, dangle below. The thought of a wealthy woman, well dressed, sporting on her lapel a creature commonly regarded as a menace and a pest must have delighted Jean Schlumberger, the jewelry designer whose work constitutes a  magnificent exhibition, "Un Diamant Dans la Ville" ("A Diamond in the City"), currently on view at the Musee des Arts Decoratifs, in Paris. While others applied the principles of modernism to the craft of precious stones -- streamlining the shapes, creating "abstract" settings -- Schlumberger resolutely pursued his own course, a serendipitous parade of flora, fauna and everyday objects. Surprisingly, it is the sleek art-deco necklace from Cartier that now looks dated and conventional and Schlumberger's brooch of a giant ruby pierced by gold arrows that has proved to be not only timeless but subversive.</p>
+        <p>He was an unlikely revolutionary. Born in 1907, in Alsace, to a well-to-do family of textile manufacturers, he defied his mother's warning that by becoming a jewelry designer, he would forfeit the right to dance with his clients. When he worked, he wore a smock made for him by Balenciaga, the great couturier and a friend. From 1956 until his retirement, in the late 70's, he was ensconced at Tiffany &amp; Co., in New York.</p>
+        <p>He deplored the flatness of most jewelry, designing in three dimensions. He  abhorred the idea that the value of a piece was the monetary worth of its stones, protesting that he "might as well pin a check to someone's lapel." Whereas most precious jewelry conjures up ballrooms and opera houses, a rarefied world whose inhabitants are acquainted with the great outdoors by reputation only, Schlumberger's work pays homage to the wonders of nature: hand-chased gold tulips, diamond bees, ruby-eyed catfish. Waging a campaign against jewelry-as-status-symbol -- the family heirloom, the love trophy -- he created jewelry that can afford to make fun of its own importance, suggesting that the ultimate luxury may be a sense of humor. Among the sketches on display is one for a pair of earrings: the right, a devil; the left, an angel. Each whispers his encouragement in the ear of the woman who wears them, as she hesitates, torn between virtue and sin.</p>
+        <p>STYLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

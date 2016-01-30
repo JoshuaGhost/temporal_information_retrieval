@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DAVID GEFFEN, STILL HUNGRY</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="610674"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <person class="indexing_service">GEFFEN, DAVID</person>
+        <person class="indexing_service">ROSS, JOHN R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D81E3BF930A15756C0A965958260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DAVID GEFFEN, STILL HUNGRY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Geffen does wonderful things for people with AIDS. He buys art, and he likes the President. Of course, he has political aspirations. However, I think Lorenzo de' Medici's reputation is safe for the moment.</p>
+      </block>
+      <block class="full_text">
+        <p>Geffen does wonderful things for people with AIDS. He buys art, and he likes the President. Of course, he has political aspirations. However, I think Lorenzo de' Medici's reputation is safe for the moment.</p>
+        <p>Bottom line, most of Geffen's wealth comes from an uncanny feel for the lusts of those shallow masses, huddled around their CD players, desperately looking for anything to throw money at. On balance, this seems to be about as interesting as a story on the person who invented yard gnomes. Maybe this is just sadder, certainly more sordid. JOHN R. ROSS Vails Gate, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

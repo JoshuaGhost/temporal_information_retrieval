@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pulitzers Chairman Is Named</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="763350"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PULITZER PRIZES</classifier>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <person class="indexing_service">KANN, PETER R</person>
+        <person class="indexing_service">PEDERSON, RENA</person>
+        <person class="indexing_service">SAFIRE, WILLIAM</person>
+        <person class="indexing_service">KETTER, WILLIAM B</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DA153FF93BA25756C0A963958260" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pulitzers Chairman Is Named</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Peter R. Kann, the chairman and chief executive of Dow Jones &amp; Company, which publishes The Wall Street Journal, has been elected chairman of the Pulitzer Prize Board.</p>
+        <p>The board also elected three new members: William B. Ketter, the editor and vice president of The Patriot Ledger in Quincy, Mass.; Rena Pederson, vice president and editor of the editorial page of The Dallas Morning News, and William Safire, columnist for The New York Times.  Members of the Pulitzer Prize Board serve a maximum of nine years; chairmen are elected annually.</p>
+      </block>
+      <block class="full_text">
+        <p>Peter R. Kann, the chairman and chief executive of Dow Jones &amp; Company, which publishes The Wall Street Journal, has been elected chairman of the Pulitzer Prize Board.</p>
+        <p>The board also elected three new members: William B. Ketter, the editor and vice president of The Patriot Ledger in Quincy, Mass.; Rena Pederson, vice president and editor of the editorial page of The Dallas Morning News, and William Safire, columnist for The New York Times.  Members of the Pulitzer Prize Board serve a maximum of nine years; chairmen are elected annually.</p>
+        <p>The announcement was made yesterday by George Rupp, the president of Columbia University, which awards the annual prizes on the board's recommendation.</p>
+        <p>Mr. Kann succeeds Meg Greenfield, the editorial page editor of The Washington Post, and Burl Osborne, the publisher, editor and chief-executive officer of The Dallas Morning News, who served as co-chairmen of the board.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

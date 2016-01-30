@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   AUCHINCLOSS, JANE SIBLEY</title>
+    <meta content="dn020806" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1738195"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <person class="indexing_service">AUCHINCLOSS, JANE SIBLEY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DB143EF93BA35751C0A9609C8B63" item-length="36" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   AUCHINCLOSS, JANE SIBLEY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AUCHINCLOSS--Jane Sibley, 87. Died Sunday, February 5, at her home in Millbrook, NY. A Memorial Service will take place at the Grace Episcopal Church, Franklin Avenue, Millbrook, N.Y., on Saturday, February 11 at 3 PM.</p>
+      </block>
+      <block class="full_text">
+        <p>AUCHINCLOSS--Jane Sibley, 87. Died Sunday, February 5, at her home in Millbrook, NY. A Memorial Service will take place at the Grace Episcopal Church, Franklin Avenue, Millbrook, N.Y., on Saturday, February 11 at 3 PM.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

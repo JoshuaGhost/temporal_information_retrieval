@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>By Design; The 'Sabrina' Shift</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk;" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="Fashion Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="768616"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPAREL</classifier>
+        <person class="indexing_service">SCHIRO, ANNE-MARIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5D8133BF930A25755C0A963958260" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>By Design; The 'Sabrina' Shift</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE-MARIE SCHIRO</byline>
+      <byline class="normalized_byline">SCHIRO, ANNE-MARIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last summer, it was the slip dress. This summer, the dress everyone seems to be wearing is the sleeveless shift. It's cool on a steamy day but more covered up than a slip, so it can go to the office without an added T-shirt.</p>
+        <p>The most fashionable versions have the wide necklines favored by Audrey Hepburn in movies like "Sabrina." A solid color looks best, and the dress needs no accessories other than perhaps sunglasses. For evening, it can be dressed up with high-heel sandals.</p>
+      </block>
+      <block class="full_text">
+        <p>Last summer, it was the slip dress. This summer, the dress everyone seems to be wearing is the sleeveless shift. It's cool on a steamy day but more covered up than a slip, so it can go to the office without an added T-shirt.</p>
+        <p>The most fashionable versions have the wide necklines favored by Audrey Hepburn in movies like "Sabrina." A solid color looks best, and the dress needs no accessories other than perhaps sunglasses. For evening, it can be dressed up with high-heel sandals.</p>
+        <p>The MCM boutique, 57 East 57th Street, has the quintessential Audrey shift in white or coral tricotine with a deep V in back ($320).</p>
+        <p>Saks Fifth Avenue has a black cotton version by Ines de la Fressange ($620). And Barneys New York's selection includes a black rayon shift with white piping by Susie Tompkins ($148), a black or cornflower-blue acetate shift by Ballinger Gold ($99) and a white linen shift by Max Studio ($139).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

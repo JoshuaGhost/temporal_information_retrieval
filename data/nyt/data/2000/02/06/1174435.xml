@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRISTINA FERRARI</title>
+    <meta content="6INMY" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1174435"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN MY...PURSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Teen People (Magazine)</org>
+        <person class="indexing_service">Kuczynski, Alex</person>
+        <person class="indexing_service">Ferrari, Christina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5D61E3FF935A35751C0A9669C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRISTINA FERRARI</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX KUCZYNSKI</byline>
+      <byline class="normalized_byline">Kuczynski, Alex</byline>
+      <abstract>
+        <p>in my...purse: christina ferrari</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As managing editor of Teen People magazine, Christina Ferrari has seen its circulation surge from zero to 1.53 million in just two years. Recently, her work has required celebrating these gains at Teen People parties with thousands of squealing fans. But her magazine can also assume a measure of gravity -- reporting on the Columbine massacre, for example, and issues like gay rights.</p>
+        <p>Last month, Ms. Ferrari appeared at two Teen People second-anniversary celebrations -- one in Los Angeles, with the pop singer Britney Spears, and one at the Apollo Theater in Harlem with the singer Jessica Simpson and the rap star Sisqo.</p>
+      </block>
+      <block class="full_text">
+        <p>As managing editor of Teen People magazine, Christina Ferrari has seen its circulation surge from zero to 1.53 million in just two years. Recently, her work has required celebrating these gains at Teen People parties with thousands of squealing fans. But her magazine can also assume a measure of gravity -- reporting on the Columbine massacre, for example, and issues like gay rights.</p>
+        <p>Last month, Ms. Ferrari appeared at two Teen People second-anniversary celebrations -- one in Los Angeles, with the pop singer Britney Spears, and one at the Apollo Theater in Harlem with the singer Jessica Simpson and the rap star Sisqo.</p>
+        <p>''I was on stage!'' Ms. Ferrari said, sounding more like her prepubescent posse of readers than a 35-year-old editor for a Time Inc. publication.</p>
+        <p>In a Tiffany-blue purse she bought in London, Ms. Ferrari carries everything the editor of a pop magazine might need. ''I have hotel receipts from L'Hermitage,'' Ms. Ferrari said, referring to her hotel for the Los Angeles party. ''They give you your own stationery, which says, 'Christina Ferrari, in residence.' It's so cool.'' She also carries a dark-green Mont Blanc pen and a Mason Pearson hairbrush.</p>
+        <p>While Ms. Ferrari can traipse around the globe with pop stars, her path isn't always clear.</p>
+        <p>''I always carry my Time Warner identification,'' she said, ''or else they won't let me in the building.''</p>
+        <p>ALEX KUCZYNSKI</p>
+        <p>IN MY...PURSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

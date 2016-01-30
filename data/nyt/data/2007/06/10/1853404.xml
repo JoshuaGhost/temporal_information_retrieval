@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Yankee All-Stars</title>
+    <meta content="10inbox-3" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853404"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5D8163FF933A25755C0A9619C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Yankee All-Stars</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Dave Anderson closed ''Where Is the Yankees' Real First Baseman?'' (June 7) with: ''Now there is no real Yankee first baseman. And until one arrives, there probably won't be any Yankee World Series rings.'' I find this laughable. The Yankees have an All-Star-caliber player at nearly every position. In terms of payroll, they dwarf other teams. There's no level playing field when it comes to the Yankees. But other teams have somehow won the World Series with much less.</p>
+        <p>Ralph W. Blackwood  Schenectady, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Dave Anderson closed ''Where Is the Yankees' Real First Baseman?'' (June 7) with: ''Now there is no real Yankee first baseman. And until one arrives, there probably won't be any Yankee World Series rings.'' I find this laughable. The Yankees have an All-Star-caliber player at nearly every position. In terms of payroll, they dwarf other teams. There's no level playing field when it comes to the Yankees. But other teams have somehow won the World Series with much less.</p>
+        <p>Ralph W. Blackwood  Schenectady, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

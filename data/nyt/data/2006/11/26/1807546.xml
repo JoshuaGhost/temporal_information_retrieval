@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PRO FOOTBALL</title>
+    <meta content="26giantsmatchup" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1807546"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Tennessee Titans</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE4DF103EF935A15752C1A9609C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PRO FOOTBALL</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN BRANCH</byline>
+      <byline class="normalized_byline">Branch, John</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Giants (6-4) at Tennessee (3-7)  4:15 p.m., Fox</p>
+        <p>TIKI BARBER vs. GIANTS' COACHES  Tiki Barber, below, was the league's leading rusher until last week's loss to the Jacksonville Jaguars, in which he gained 27 yards (his lowest total in a game since 2003) on 10 carries (his fewest since the 2004 season opener). Then, as he has done before when he felt underused, Barber questioned the play calling. The offensive coordinator John Hufnagel called 14 running plays and 42 passing plays. ''It's not rocket science,'' Barber said. His views prompted a meeting with Coach Tom Coughlin, not a fan of public criticism. Expect Barber to get plenty of carries against the Titans.</p>
+        <p>BY THE NUMBERS</p>
+        <p>30  Ranking of the Titans' rushing offense (70.3 yards a game), out of 32 N.F.L. teams, when they were 0-4.</p>
+        <p>1  Ranking of the Titans' rushing offense since Week 5, as they have gone 3-3. No team has averaged more than their 166.2 yards a game.</p>
+        <p>41.5  Passer rating of Giants quarterback Eli Manning the past two games, the worst back-to-back statistical performances of his career since his first four starts in 2004</p>
+        <p>JOHN BRANCH</p>
+      </block>
+      <block class="full_text">
+        <p>Giants (6-4) at Tennessee (3-7)  4:15 p.m., Fox</p>
+        <p>TIKI BARBER vs. GIANTS' COACHES  Tiki Barber, below, was the league's leading rusher until last week's loss to the Jacksonville Jaguars, in which he gained 27 yards (his lowest total in a game since 2003) on 10 carries (his fewest since the 2004 season opener). Then, as he has done before when he felt underused, Barber questioned the play calling. The offensive coordinator John Hufnagel called 14 running plays and 42 passing plays. ''It's not rocket science,'' Barber said. His views prompted a meeting with Coach Tom Coughlin, not a fan of public criticism. Expect Barber to get plenty of carries against the Titans.</p>
+        <p>BY THE NUMBERS</p>
+        <p>30  Ranking of the Titans' rushing offense (70.3 yards a game), out of 32 N.F.L. teams, when they were 0-4.</p>
+        <p>1  Ranking of the Titans' rushing offense since Week 5, as they have gone 3-3. No team has averaged more than their 166.2 yards a game.</p>
+        <p>41.5  Passer rating of Giants quarterback Eli Manning the past two games, the worst back-to-back statistical performances of his career since his first four starts in 2004</p>
+        <p>JOHN BRANCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

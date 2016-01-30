@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Answering The Mail</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="12CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="404017"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D61531F936A15752C1A966958260" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Answering The Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD GLADSTONE; 
+&lt;p&gt;
+&lt;i&gt;
+Questions about home repair should be addressed to Bernard Gladstone, The New York Times, 229 West 43d Street, New York, N.Y. 10036.
+&lt;/i&gt;</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. The paint on our clapboard house begins to peel shortly after being applied, despite careful preparation of the clapboard surfaces each time. Since most of the peeling is on the north side of the house, I assume that humidity is the chief cause. Might venting of the wall spaces be the way to go, or is this likely to greatly reduce the efficiency of the insulation and thus waste too much energy?</p>
+        <p>A. Venting would be your best bet. Small louvered vents properly installed in each of the closed-off spaces in the outside the walls -- one at the bottom and one at the top of each such space -- would allow condensation to escape harmlessly to the outside. Without these vents, the moisture tries to work itself out through the paint, pushing it off. Installing vents might waste a little energy, but it also would increase the efficency of the insulation. This is because allowing insulation to become saturated with moisture, from condensation, ruins a great deal of its effectiveness. In the overall picture, you might actually be saving energy by installing vents.</p>
+        <p>Q.</p>
+        <p>My basement walls have some cracks in the concrete and dust falls out. I am concerned that asbestos in the concrete could be posing a safety hazard. What do you think?</p>
+        <p>A. I doubt if there is anything to worry about, as I have never heard of a poured concrete foundation that was made by mixing asbestos in with the concrete. Concrete usually consists of sand, portland cement, gravel and water. Asbestos is never added.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. The paint on our clapboard house begins to peel shortly after being applied, despite careful preparation of the clapboard surfaces each time. Since most of the peeling is on the north side of the house, I assume that humidity is the chief cause. Might venting of the wall spaces be the way to go, or is this likely to greatly reduce the efficiency of the insulation and thus waste too much energy?</p>
+        <p>A. Venting would be your best bet. Small louvered vents properly installed in each of the closed-off spaces in the outside the walls -- one at the bottom and one at the top of each such space -- would allow condensation to escape harmlessly to the outside. Without these vents, the moisture tries to work itself out through the paint, pushing it off. Installing vents might waste a little energy, but it also would increase the efficency of the insulation. This is because allowing insulation to become saturated with moisture, from condensation, ruins a great deal of its effectiveness. In the overall picture, you might actually be saving energy by installing vents.</p>
+        <p>Q.</p>
+        <p>My basement walls have some cracks in the concrete and dust falls out. I am concerned that asbestos in the concrete could be posing a safety hazard. What do you think?</p>
+        <p>A. I doubt if there is anything to worry about, as I have never heard of a poured concrete foundation that was made by mixing asbestos in with the concrete. Concrete usually consists of sand, portland cement, gravel and water. Asbestos is never added.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

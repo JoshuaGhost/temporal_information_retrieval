@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: School Task Force Named</title>
+    <meta content="MB015821" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1436865"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">School Administration and Community Role</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York State</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">School Administration and Community Role</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DE1F3FF932A35752C1A9649C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: School Task Force Named</hl1>
+      </hedline>
+      <abstract>
+        <p>New York legislative leaders appoint members of task force that will recommend reorganization of New York City's 32 community school boards (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Legislative leaders announced appointees yesterday for a 20-member task force that will recommend a reorganization of the city's 32 community school boards. The boards' powers expire in June 2003 as part of a larger reorganization of the school system. The Senate majority leader, Joseph L. Bruno, named Terri Thompson, a former central school board member, as a chairwoman, and Assembly Speaker Sheldon Silver named Assemblyman Steve Sanders, Democrat of Manhattan, as a chairman.</p>
+      </block>
+      <block class="full_text">
+        <p>Legislative leaders announced appointees yesterday for a 20-member task force that will recommend a reorganization of the city's 32 community school boards. The boards' powers expire in June 2003 as part of a larger reorganization of the school system. The Senate majority leader, Joseph L. Bruno, named Terri Thompson, a former central school board member, as a chairwoman, and Assembly Speaker Sheldon Silver named Assemblyman Steve Sanders, Democrat of Manhattan, as a chairman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

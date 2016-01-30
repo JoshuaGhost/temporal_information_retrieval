@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Early-Warning Pickets at Nuclear Plant</title>
+    <meta content="15NUKE" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1550909"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Picketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Entergy Corp</org>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDD1130F936A25752C0A9629C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Early-Warning Pickets at Nuclear Plant</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of workers from Indian Point 3 nuclear power plant in Buchanan, NY, as they picket at plant's entrance; their contract expires on Jan 17</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

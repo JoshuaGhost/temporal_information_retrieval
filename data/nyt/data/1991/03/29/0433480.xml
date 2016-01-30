@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Death From Lead Exposure Prompts Call for Yearly Tests</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="433480"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LEAD</classifier>
+        <classifier class="indexing_service" type="descriptor">POISONING AND POISONS</classifier>
+        <classifier class="indexing_service" type="descriptor">PAINTS AND PAINTING</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lead</classifier>
+        <classifier class="online_producer" type="general_descriptor">Poisoning and Poisons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DE133AF93AA15750C0A967958260" item-length="489" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Death From Lead Exposure Prompts Call for Yearly Tests</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>ATLANTA, March 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Health officials are calling for yearly blood tests for lead poisoning in young children after a Wisconsin infant died from exposure to lead-based paint, the first such death reported in more than a decade.</p>
+        <p>"This is a dramatic example of the worst-case scenario of what happens if paint is ignored as a source of lead exposure," said Joe Shirmer, a Wisconsin epidemiologist.</p>
+      </block>
+      <block class="full_text">
+        <p>Health officials are calling for yearly blood tests for lead poisoning in young children after a Wisconsin infant died from exposure to lead-based paint, the first such death reported in more than a decade.</p>
+        <p>"This is a dramatic example of the worst-case scenario of what happens if paint is ignored as a source of lead exposure," said Joe Shirmer, a Wisconsin epidemiologist.</p>
+        <p>The death of the 28-month-old Waukesha boy was documented in a report issued today by the Federal Centers for Disease Control.</p>
+        <p>Mr. Shirmer said the case proved that children must be tested yearly for levels of lead in their blood because symptoms do not appear until lead poisoning has reached dangerous levels. Exposure Still Prevalent</p>
+        <p>Although such deaths are now rare because lead-based paint is outlawed in new buildings and testing and treatment have improved, hundreds of thousands of children each year have their intellectual growth stunted because of exposure, the disease control centers reported.</p>
+        <p>The last documented death from lead-based paint exposure was in the mid-1970's, according to the centers.</p>
+        <p>Dr. Tom Matte, a Federal epidemiologist, estimated that 12 million children under the age of 7 are exposed to high lead levels from paint in their homes.</p>
+        <p>Although the disease centers does not officially recommend yearly testing for all children, those at risk for lead poisoning, particularly those who live in old houses, should be tested each year because prompt treatment can stop destruction of brain tissue, Dr. Matte said.</p>
+        <p>Dr. Matte said there were no current national figures on how many children suffered brain damage from exposure, but at least three million children are believed to have blood lead levels above 15 micrograms per deciliter, which is known to be harmful.</p>
+        <p>The boy who died was admitted to a hospital on Sept. 12, 1990, because he had been lethargic and had had no appetite for four days. His parents told doctors that he had eaten paint chips.  Lead Replaced Boy's Calcium</p>
+        <p>Doctors found that the boy had a blood lead level of 144 micrograms per deciliter, about 100 times the level known to cause brain damage in children. He had been exposed to so much lead that it had begun replacing the calcium in his bones. The child died 26 hours after he entered the hospital.</p>
+        <p>State health workers found that the child, whose family was homeless, had lived for four months in a deteriorated former office building. Paint chips and piles of dust littered the floors.</p>
+        <p>If children who are tested are found to have lead poisoning, "they can be removed from the source," Dr. Matte said.</p>
+        <p>"Often that is the only treatment necessary."</p>
+        <p>Lead exposure routinely comes from contamination in food and water from old lead pipes or residue in soil from leaded gasoline. It particularly harms young children whose nervous systems are still developing and who are prone to ingest soil or paint chips.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

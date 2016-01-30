@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leaving Calvin Klein For a Job at Limited</title>
+    <meta content="CALVIN" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1035267"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Klein, Calvin, Inc</org>
+        <org class="indexing_service">Limited Inc</org>
+        <person class="indexing_service">Karo, Alan</person>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DC1438F93AA15754C0A96E958260" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leaving Calvin Klein For a Job at Limited</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Alan Karo is leaving Calvin Klein Inc, where he headed its inhouse agency, to join Limited Inc (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alan Karo, the senior vice president at Calvin Klein Inc. who has headed CRK Advertising, its in-house agency, since January 1997, said yesterday that he would leave to join Limited Inc.</p>
+        <p>Mr. Karo, 43, was named to the new position of executive vice president for marketing and operations at the Limited brand and creative services unit, which acts as the Limited in-house agency. Mr. Karo will divide his time between New York and the Limited headquarters in Columbus, Ohio, and will report to Edward G. Razek, president at Limited brands and creative services.</p>
+      </block>
+      <block class="full_text">
+        <p>Alan Karo, the senior vice president at Calvin Klein Inc. who has headed CRK Advertising, its in-house agency, since January 1997, said yesterday that he would leave to join Limited Inc.</p>
+        <p>Mr. Karo, 43, was named to the new position of executive vice president for marketing and operations at the Limited brand and creative services unit, which acts as the Limited in-house agency. Mr. Karo will divide his time between New York and the Limited headquarters in Columbus, Ohio, and will report to Edward G. Razek, president at Limited brands and creative services.</p>
+        <p>Mr. Karo said he would oversee efforts to ''extend the brand franchises'' of the Limited brands -- Limited, Express and Structure -- and the brands that are part of Inti mate Brands Inc., which is 83 percent owned by Limited. They are the retail and catalogue operations of Victoria's Secret and the retail chain Bath and Body Works. Until now, only Victoria's Secret has been aggressively advertised nationally.</p>
+        <p>At Klein, no successor to Mr. Karo has been named at this time.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: NONFICTION</title>
+    <meta content="RV130021" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1558871"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Boyer, Allen D</person>
+        <person class="indexing_service">Burns, James Macgregor</person>
+        <person class="indexing_service">Dunn, Susan</person>
+        <person class="indexing_service">Washington, George (1732-99)</person>
+        <object.title class="indexing_service">George Washington (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DB113BF936A25751C0A9629C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Allen D. Boyer</byline>
+      <byline class="normalized_byline">Boyer, Allen D</byline>
+      <abstract>
+        <p>Allen D Boyer reviews book George Washington by James MacGregor Burns and Susan Dunn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GEORGE WASHINGTON</p>
+        <p>By James MacGregor Burns</p>
+        <p>and Susan Dunn.</p>
+        <p>Times Books/Holt, $20.</p>
+      </block>
+      <block class="full_text">
+        <p>GEORGE WASHINGTON</p>
+        <p>By James MacGregor Burns</p>
+        <p>and Susan Dunn.</p>
+        <p>Times Books/Holt, $20.</p>
+        <p>James MacGregor Burns and Susan Dunn offer a thoughtful double portrait of our most celebrated Founding Father. They contrast the+public persona that George Washington self-consciously created -- with his plain black coat, regal state portraits and dignified levees, the leader ''gravely willing to sacrifice himself for his country, proud of his symbolic role embodying American nationhood''+- with the less familiar personality that Washington chose to obscure: the ''ferociously ambitious'' country gentleman ''managing to overcome his insecurities and apprehensions, wearing the self-effacing mask of modesty, a man fiercely protective of his own reputation.'' Burns, an emeritus professor of political science at Williams College, and Dunn, a humanities professor at Williams, argue that Washington was a masterly chief executive, well able to manage the most brilliant administration ever assembled,+but that his disdain for party politics led+Washington to convince himself, wrongly,+that he had remained above the fray. Even as he favored Federalists and distrusted Thomas Jefferson's Republican supporters,+Washington could maintain+that he saw ''no discordance'' between the Virginian's agrarian vision and Alexander Hamilton's ambitious business-and-industry program. Washington ''succeeded brilliantly at fostering national unity,'' Burns and Dunn conclude, ''but he failed markedly in also trying to foster political unity. He mistakenly believed that it was possible to dissolve political differences, forge a national consensus and banish opposition.'' The acclaim with which+Washington's first term had begun was+tarnished by partisan infighting and scandal in the cabinet,+finally with mockery in the press. Yet even if his statesman's vision sometimes failed, one leaves this book respecting Washington for enduring the frictions and frustrations of the presidency with almost the same gravity he had shown in defining the office.</p>
+        <p>Allen D. Boyer</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

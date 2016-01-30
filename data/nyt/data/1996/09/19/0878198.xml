@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reinventing a Home</title>
+    <meta content="LTR003601" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="878198"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">squire, ann</person>
+        <person class="indexing_service">Wine, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2DB163DF93AA2575AC0A960958260" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reinventing a Home</hl1>
+      </hedline>
+      <abstract>
+        <p>Ann Squire letter on Aug 29 article on decor of David Wine's New York City condominium (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Home Section:</p>
+        <p>A recent article (''A Few Curves Give an L Some Flair,'' Aug. 29) on a divorced executive's sleek Battery Park City condominium portrays the owner, David Wine, as a man on the brink of a new life. Not long ago, my 20-year marriage came to an end and, like Mr. Wine, my husband chose to leave most of his possessions behind and start fresh in a new apartment with new furniture.</p>
+        <p>Reinventing one's life is great, but the reality is that after a divorce, both former spouses must start over.  People like Mr. Wine and my husband are the lucky ones: ensconced in brand-new surroundings, they can disown their pasts.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Home Section:</p>
+        <p>A recent article (''A Few Curves Give an L Some Flair,'' Aug. 29) on a divorced executive's sleek Battery Park City condominium portrays the owner, David Wine, as a man on the brink of a new life. Not long ago, my 20-year marriage came to an end and, like Mr. Wine, my husband chose to leave most of his possessions behind and start fresh in a new apartment with new furniture.</p>
+        <p>Reinventing one's life is great, but the reality is that after a divorce, both former spouses must start over.  People like Mr. Wine and my husband are the lucky ones: ensconced in brand-new surroundings, they can disown their pasts.</p>
+        <p>How about an article on the spouses who face the task of fashioning a new life in the midst of child-battered sofas, walls of family photographs and all the other mementos of a marriage?</p>
+        <p>ANN  SQUIRE</p>
+        <p>Pelham, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A More Professional Output For the Serious Snapshooter</title>
+    <meta content="17PRIN$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/02/17/technology/circuits/17prin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1650512"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="NEWS WATCH: PRINTERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Printers</classifier>
+        <org class="indexing_service">Epson Co</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Printers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Epson</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DB133AF934A25751C0A9639C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A More Professional Output For the Serious Snapshooter</hl1>
+        <hl2 class="online_headline">A More Professional Output For the Serious Snapshooter</hl2>
+      </hedline>
+      <byline class="print_byline">By Ian Austen</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Epson introduces new printer that combines features of other models, offering high resolution and large format printing; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>High-end Epson printers that use pigment-based inks rather than dye-based ones have found a following among many photographers. But serious shooters have until recently had only two options from the company. The Epson Stylus Photo 2200 is a standard for many professional photographers and accepts paper up to 13 inches wide but costs $700. The Stylus Photo R800 has a lower price, $300, but can handle paper only up to a maximum width of 8.5 inches.</p>
+        <p>Now Epson has introduced the Stylus Photo R1800, which combines the printing mechanism of the R800 with the 13-inch paper track of the 2200, for $550.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>13-inch pigment printer from Fuji</p>
+      </block>
+      <block class="full_text">
+        <p>High-end Epson printers that use pigment-based inks rather than dye-based ones have found a following among many photographers. But serious shooters have until recently had only two options from the company. The Epson Stylus Photo 2200 is a standard for many professional photographers and accepts paper up to 13 inches wide but costs $700. The Stylus Photo R800 has a lower price, $300, but can handle paper only up to a maximum width of 8.5 inches.</p>
+        <p>Now Epson has introduced the Stylus Photo R1800, which combines the printing mechanism of the R800 with the 13-inch paper track of the 2200, for $550.</p>
+        <p>Like the R800, the R1800 has a special ink system that creates prints on glossy paper with a uniform sheen. It has a maximum resolution of 5,760 by 1,440 dots per inch, which is higher than the more expensive R2200's 2,880 by 1,440 d.p.i.</p>
+        <p>So, why won't pros save $150 and buy the new printer? Patrick Chen, an Epson product manager, said that the seven ink cartridges of the 2200 include light shades that to many serious photographers' eyes allow better reproduction of subtle colors. The brighter, more saturated colors produced by the eight cartridges in the new printer, he said, create photos that are technically less accurate but generally more agreeable to most people.</p>
+        <p>Ian Austen</p>
+        <p>NEWS WATCH: PRINTERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

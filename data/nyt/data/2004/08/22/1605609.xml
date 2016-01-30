@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Other Mother</title>
+    <meta content="LTR114109" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1605609"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Child Custody and Support</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <person class="indexing_service">Hunter-Epstein, Lisa</person>
+        <person class="indexing_service">Orenstein, Peggy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Custody and Support</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DA113FF931A1575BC0A9629C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Other Mother</hl1>
+      </hedline>
+      <abstract>
+        <p>Lisa Hunter-Epstein letter faults member of lesbian couple in child custody dispute for trying to cut other mother out of children's lives (July 25 Peggy Orenstein article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'E.'' is setting a bad precedent by showing her daughters that it's O.K. to cut a mother figure out of their lives. Given how angry they may be about this when they're older, I suspect that someday the girls will take the lesson to heart, and suddenly ''E.'' may find her own calls unanswered, her own letters returned, her own gifts unopened.</p>
+        <p>Lisa Hunter Epstein  New York</p>
+      </block>
+      <block class="full_text">
+        <p>'E.'' is setting a bad precedent by showing her daughters that it's O.K. to cut a mother figure out of their lives. Given how angry they may be about this when they're older, I suspect that someday the girls will take the lesson to heart, and suddenly ''E.'' may find her own calls unanswered, her own letters returned, her own gifts unopened.</p>
+        <p>Lisa Hunter Epstein  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

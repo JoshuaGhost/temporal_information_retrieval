@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Merlot Benchmark</title>
+    <meta content="27livine" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/11/27/dining/27livine.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1720464"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="LONG ISLAND VINES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D61F3EF934A15752C1A9639C8B63" item-length="543" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Merlot Benchmark</hl1>
+        <hl2 class="online_headline">A Merlot Benchmark</hl2>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF Long Island is, first and foremost, merlot country, then Raphael is a leading index of merlot's promising future here. Its 2001 First Label merlot illustrates why.</p>
+        <p>This sturdy, exemplary $30 merlot, surely one of the most sophisticated to emerge in the East End's 32-year red-wine history, is partly a product of maximum investment and experience.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>If Long Island is, first and foremost, merlot country, then Raphael is a leading index of merlot's promising future here. Its 2001 First Label merlot illustrates why.</p>
+      </block>
+      <block class="full_text">
+        <p>IF Long Island is, first and foremost, merlot country, then Raphael is a leading index of merlot's promising future here. Its 2001 First Label merlot illustrates why.</p>
+        <p>This sturdy, exemplary $30 merlot, surely one of the most sophisticated to emerge in the East End's 32-year red-wine history, is partly a product of maximum investment and experience.</p>
+        <p>Richard Olsen-Harbich, Raphael's winemaker and managing director, said that ''the extraordinary 2001 vintage'' made it possible, because farming conditions ''afforded us the opportunity to ripen our merlot to levels not achieved previously on Long Island.''</p>
+        <p>In 2001, when Raphael opened its doors in Peconic, on the North Fork, its vines were five years old, with enough age to yield grapes capable of wines of depth, subtlety and longevity.</p>
+        <p>Raphael's raison d'être has always been merlot. Thirty-two of its 54 planted acres are in merlot. Almost 14 more grow blending varieties: cabernet franc, cabernet sauvignon, malbec and petit verdot.</p>
+        <p>The 2001 vintage played into major strengths at Raphael. Mr. Olsen-Harbich was -- and is -- the East End's most experienced winemaker. (He has now reached the quarter-century mark.) Benjamin C. Sisson, the vineyard manager, was and still is environmentally minded.</p>
+        <p>The winery, established in 1996, represents a multimillion-dollar investment by John and Joan Petrocelli. Paul Pontallier, the managing director of Château Margaux in Bordeaux, is its consulting enologist.</p>
+        <p>Mr. Olsen-Harbich is the catalyst of the embryonic Long Island Merlot Alliance, an organization of five producers who want to sell the idea that merlot and Long Island are totally synonymous, as are, say, Oregon and pinot noir.</p>
+        <p>I mentioned to Mr. Olsen-Harbich that at $30 his 2001 First Label might seem underpriced. It is the equal of classy St.-Émilions and Pomerols that sell for twice the price and more.</p>
+        <p>''I could sell it for $200 a bottle and would move it all eventually,'' he said. ''Production is large -- 2,000 cases. But we are making a conscious effort to get this to as many people as possible. Long Island has had problems with price-value relationships, and Raphael is trying hard not to be arrogant.''</p>
+        <p>Sensing First Label's complexity and nuances, I let it aerate for an hour before beginning a two-day exploration. Deep ruby, virtually inky, the wine offers an intense bouquet and flavors redolent of dark berries, plums, chocolate and cocoa, herbs, spices, tobacco, cedar, beets, graphite and oak.</p>
+        <p>This formidable whirl of accents will be as obvious to a novice as it is to collectors, who could cellar a case for at least five years.</p>
+        <p>Unlike plump, grandstanding Napa merlots, First Label, with 5 percent cabernet sauvignon, comes across rigorously. Its medium weight, balance, smooth texture, firm tannins and persistent finish invite studied, patient sipping. Swirl it on your palate, then leave it there -- the longer, the better.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>LONG ISLAND VINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

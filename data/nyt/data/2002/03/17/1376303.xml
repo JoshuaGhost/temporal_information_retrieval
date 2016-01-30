@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Midair Meals</title>
+    <meta content="LTR141936" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1376303"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Picnics</classifier>
+        <person class="indexing_service">Shriver, Jean</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DF1539F934A25750C0A9649C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Midair Meals</hl1>
+      </hedline>
+      <abstract>
+        <p>Jean Shriver letter on February 10 article describes attempt at picnic aboard cramped airliner; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Regarding ''Airlines Put Passengers on Forced Diets'' (Feb. 10): To heck with airlines' gelatinous pasta and so-called beef meals. To heck also with airports' greasy fast food. Just give us room to have a picnic!</p>
+        <p>On a five-hour flight to Kauai from Los Angeles, I pulled out black bread, smoked salmon and cream cheese, just as the guy in front pushed his seat back to the max, and into my face.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Regarding ''Airlines Put Passengers on Forced Diets'' (Feb. 10): To heck with airlines' gelatinous pasta and so-called beef meals. To heck also with airports' greasy fast food. Just give us room to have a picnic!</p>
+        <p>On a five-hour flight to Kauai from Los Angeles, I pulled out black bread, smoked salmon and cream cheese, just as the guy in front pushed his seat back to the max, and into my face.</p>
+        <p>Trapped in front and hemmed in on both sides, I doggedly laid out my smorgasbord. Before I could take a bite, my window seatmate squirted me in the eye while peeling an orange, and the man on the aisle opened his paper with a flourish that sent my sandwich skidding into my lap.</p>
+        <p>The flight attendants lumbered up with the drinks cart long after I'd choked down the last dry pumpernickel crumb. My water bottle (at my feet in a carry-on) was inaccessible thanks to the intrusive seat back.</p>
+        <p>If the airlines ceased to serve their awful meals, they could use the monetary savings to give us enough elbow room to feed ourselves.</p>
+        <p>JEAN SHRIVER</p>
+        <p>Rancho Palos Verdes, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Too Soon for Polls</title>
+    <meta content="LNASON$04" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1024980"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <person class="indexing_service">Nason, Brad</person>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Bush, George</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E3D9153DF935A25755C0A96E958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Too Soon for Polls</hl1>
+      </hedline>
+      <abstract>
+        <p>Brad Nason letter on June 14 article holds polls are being taken too soon before 2000 Presidential vote; says pollsters should worry about whether respondents can distinguish Gov George W Bush from his father, ex-Pres George Bush, only after he declares his Presidential candidacy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Wins of the Father Are Visited on the Son'' (Week in Review, June 14): There is a simple solution to the problem created when the public confuses candidates in its response to pollsters: Don't poll, at least not two and a half years before an election. The news media are under no obligation to report every result, although the increased number of media-sponsored polls makes temperance much more difficult.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Wins of the Father Are Visited on the Son'' (Week in Review, June 14): There is a simple solution to the problem created when the public confuses candidates in its response to pollsters: Don't poll, at least not two and a half years before an election. The news media are under no obligation to report every result, although the increased number of media-sponsored polls makes temperance much more difficult.</p>
+        <p>When George W. Bush, the Governor of Texas, declares his candidacy for President, then pollsters should worry about whether respondents are able to distinguish him from George H. W. Bush, the former President.</p>
+        <p>BRAD NASON  Cogan Station, Pa., June 15, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

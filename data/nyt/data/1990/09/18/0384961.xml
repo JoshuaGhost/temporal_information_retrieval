@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="384961"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">CRONKITE, WALTER</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D81638F93BA2575AC0A966958260" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Heller Anderson</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: After nearly 20 years of thinking about it, WALTER CRONKITE has sat down to write his memoirs. ''It's definitely not an expose of CBS, although I spent 40 years there,'' Mr. Cronkite said yesterday from his house on Martha's Vineyard.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: After nearly 20 years of thinking about it, WALTER CRONKITE has sat down to write his memoirs. ''It's definitely not an expose of CBS, although I spent 40 years there,'' Mr. Cronkite said yesterday from his house on Martha's Vineyard.</p>
+        <p>After nearly 20 years of thinking about it, WALTER CRONKITE has sat down to write his memoirs. ''It's definitely not an expose of CBS, although I spent 40 years there,'' Mr. Cronkite said yesterday from his house on Martha's Vineyard.</p>
+        <p>The chapter he is working on will serve as the material for the Theodore H. White Memorial Lecture Mr. Cronkite will deliver on Nov. 15 at the John F. Kennedy School of Government at Harvard. ''It's on the media and politics, an examination of what we're doing to each other,'' Mr. Cronkite said. The book is to be completed next year and published in 1992, said ASHBEL GREEN, a vice president and senior editor at Alfred A. Knopf.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

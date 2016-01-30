@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="635023"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <org class="indexing_service">INVESTIGATION DEPARTMENT (NYC)</org>
+        <person class="indexing_service">HOLTZMAN, ELIZABETH (COMPTROLLER)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DF153BF934A2575AC0A965958260" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of a mechanical error, excerpts published yesterday from the New York City Investigation Department report about a campaign loan to Elizabeth Holtzman included an incomplete sentence. It should have read, "In guaranteeing the $450,000 loan from Fleet Bank to her Senate campaign committee, Holtzman entered into a financial relationship with a subsidiary of FFG, which was doing and actively seeking business with the Comptroller's Office."</p>
+      </block>
+      <block class="full_text">
+        <p>Because of a mechanical error, excerpts published yesterday from the New York City Investigation Department report about a campaign loan to Elizabeth Holtzman included an incomplete sentence. It should have read, "In guaranteeing the $450,000 loan from Fleet Bank to her Senate campaign committee, Holtzman entered into a financial relationship with a subsidiary of FFG, which was doing and actively seeking business with the Comptroller's Office."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

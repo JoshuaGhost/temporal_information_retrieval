@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software Maker Works To Digest and Recover From Acquisition Spree</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="786686"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPANY AND ORGANIZATION PROFILES</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <org class="indexing_service">SYBASE INC</org>
+        <person class="indexing_service">RIFKIN, GLENN</person>
+        <person class="indexing_service">HOFFMAN, MARK B</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company and Organization Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD6143EF937A3575AC0A963958260" item-length="1345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software Maker Works To Digest and Recover From Acquisition Spree</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN RIFKIN</byline>
+      <byline class="normalized_byline">RIFKIN, GLENN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By any measure Sybase Inc.'s chairman, Mark B. Hoffman, has had a summer he would rather forget.</p>
+        <p>The once fast-growing software company suffered through its second consecutive money-losing quarter, relinquished its technological lead in an intensely technical arena and saw its share of a hotly contested $7 billion software market erode under pressure from its chief competitors, Oracle Systems and Informix.</p>
+      </block>
+      <block class="full_text">
+        <p>By any measure Sybase Inc.'s chairman, Mark B. Hoffman, has had a summer he would rather forget.</p>
+        <p>The once fast-growing software company suffered through its second consecutive money-losing quarter, relinquished its technological lead in an intensely technical arena and saw its share of a hotly contested $7 billion software market erode under pressure from its chief competitors, Oracle Systems and Informix.</p>
+        <p>When he was not stewing about all this, Mr. Hoffman was busy denying rumors that the $1 billion company was a takeover candidate.</p>
+        <p>Sybase's revenue growth, which had been more than 70 percent annually for several years, outpacing the market, has precipitously slowed and now lags behind the rest of the market. And despite a $20 million deal in July with Merrill Lynch, a big contract for this market, many analysts do not expect Sybase to regain its momentum until next year. Even then, the days of 70 percent growth may be over.</p>
+        <p>Mr. Hoffman, 48, the co-founder of Sybase, likens the company's recent troubles to heartburn -- from trying to digest the acquisition of four companies in the last 12 months -- which brought in a disparate collection of products and more than doubled the Emeryville, Calif., company's work force to 5,600.</p>
+        <p>"We got a bit frayed at the edges," he said. "We didn't have our sales and marketing aligned, and our customers got confused."</p>
+        <p>For all its problems, few analysts are ready to write off Sybase, which shipped its first products in 1987. The company's pioneering technological achievements over the years have made it a favorite of corporate information-systems departments -- and particularly among financial services companies, where its customers include Fidelity Investments, Goldman, Sachs and Smith Barney.</p>
+        <p>Financial firms were among the first to adopt the kind of products on which Sybase made its name: very fast relational data base software. Such programs enable companies to mine their vast libraries of data, searching for relationships among customer records, sales invoices, accounts payable and other information that can be used in valuable ways.</p>
+        <p>Sybase's software continues to attract companies like Merrill Lynch, which plans to use its $20 million worth of new Sybase products and services on 25,000 work stations in 600 regional offices for its retail brokerage business. Whenever the firm's analysts issue a report on a stock, for example, the new system will be able to issue client lists to the sales staff, indicating which customers already own the stock or may be interested in acquiring it. Salespeople can then automatically send a fax or E-mail copy of the analyst's report to all those customers.</p>
+        <p>But Sybase competes in a hotly contested, fast-growing corner of the software world, where a misstep is a good as a mile.</p>
+        <p>The company's flagship software product, called Sequel Server, System 10, has earned high marks technically since its introduction in 1993. But System 10 was designed to run on powerful Unix network-server computers, like the Hewlett-Packard 9000 or the I.B.M. RS/6000, which generally use two microprocessor chips running in tandem -- what is known as parallel processing. Technically, data base software should run faster when a customer adds more processors to such computers, but System 10 cannot run on machines using more than four processors.</p>
+        <p>In the last 18 months, rivals like Informix and Oracle have introduced versions of their data base software that allow users to scale up to multiprocessor computers exceeding four chips. That put Sybase in the unaccustomed position of playing catch-up. While Sybase had been planning to offer these scaled-up capabilities in its next version, System 11, the company miscalculated how soon the technology would become important to corporate customers. Although most of those customers still use systems with two processors or less, they want to know that there is headroom for the future.</p>
+        <p>Oracle and Informix exploited Sybase's limitations in their advertising. "They put us in a box," Mr. Hoffman said. Sybase released a test version of System 11 at the beginning of the month, but the finished product is not expected to reach the market before the end of the year.</p>
+        <p>Having fallen behind, Sybase watched in dismay early this year when one of its largest customers, Delta Air Lines, decided to look elsewhere for its relational data base needs. Delta has narrowed its candidates to Oracle and Informix, and plans to pick a winner in September.</p>
+        <p>"Oracle and Informix changed the agenda and focused on the need for big systems," said Rich Edwards, an analyst with Robertson, Stephens in San Francisco.</p>
+        <p>Sybase's mistake, he said, was to not respond with a clear message. Customers want the ability to upgrade their data base software to work with powerful new machines, Mr. Edwards said. But for most businesses, that is more a future plan than a here-and-now need, he said, and by that reckoning System 11 will arrive in plenty of time.</p>
+        <p>Sybase "really does deliver today what customers need today," he continued. "This is as much a failure of marketing as it is about technology."</p>
+        <p>To address that, Mr. Hoffman in July replaced Sybase's longtime marketing vice president, Stewart Shuster, with Tom Herring, a marketer from Powersoft, which Sybase acquired for $940 million last November. It was one of several high-level management changes that Mr. Hoffman made in the last six months as he sought a new winning formula.</p>
+        <p>The integration of new companies "caused us to take our eye off the ball," Mr. Hoffman said.</p>
+        <p>Analysts expect a long-term payoff from Powersoft, which gave Sybase an instant edge in the market for software application-developments tools -- software that let customers, even those without advanced programming skills, use personal computers to develop custom programs for office networks.</p>
+        <p>Powersoft's products give Sybase some needed diversity. The company is also expanding into the emerging field of data warehousing -- software and services that allow customers to store and retrieve ever-vaster amounts of pure data. And Sybase has begun seeking opportunities in fields like interactive television; earlier this year it replaced Oracle as BellSouth's software supplier for a video-on-demand test.</p>
+        <p>Many analysts see Sybase's problems as serious, but fixable. "Last year, it was a two-horse race between Oracle and Sybase, and Informix was dead," says Andrew C. Brosseau of Cowen &amp; Company in Boston. "But Informix came back, and now it's supposed to be a two-horse race between Oracle and Informix. Sybase isn't dead, either."</p>
+        <p>Howard P. Sorgen, chief information officer at Merrill Lynch, said that before he awarded the $20 million contract to Sybase, he also considered Oracle and I.B.M. "When we did our technical evaluations, we found very little distinction between Oracle, Sybase and I.B.M.," he said. "But in terms of the vision and understanding of the business issues, we felt Sybase was the best choice."</p>
+        <p>Sybase's chairman, Mr. Hoffman, knows he will need more such deals to redeem the company's reputation. He is still smarting from the loss of several plum contracts, including deals with Holiday Inn and MCI, that Sybase lost to Informix. "We didn't articulate how things fit together and made sense," he said.</p>
+        <p>This year's slump has caused Sybase's stock to flag, making the company a suddenly more affordable takeover candidate in the current era of software-industry consolidation. In fact, the share price has been spiking upward lately on rumors that various companies -- including I.B.M., Microsoft, Computer Associates International and Sun Microsystems -- were taking a look. The shares closed at $32 on Friday, well below the 52-week high of $55.25 reached last October, but up from the $22 level it hit on May 26.</p>
+        <p>"We haven't talked to anyone," Mr. Hoffman said of the takeover rumors. "Our goal is to remain independent."</p>
+        <p>But if there are many more seasons like this summer, independence for Sybase may be harder and harder to afford.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

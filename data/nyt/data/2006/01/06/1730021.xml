@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   THURNER, JOSEPH J.</title>
+    <meta content="dn010606" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1730021"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <person class="indexing_service">THURNER, JOSEPH J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFD91E30F935A35752C0A9609C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   THURNER, JOSEPH J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THURNER--Joseph J., 85. Retired Professor and Chairman of the Chemistry Department at Colgate University, Hamilton, NY, died January 2. Survived by wife of 57 years, Jean; son, John; daughter, Laura; two grandsons; sister, Eileen Hall; brother, Robert. Memorial service will be held at the Colgate Chapel, Hamilton, NY, February 18th, 1PM. In lieu of flowers, donations to the Thurner Scholarship Fund at Colgate University.</p>
+      </block>
+      <block class="full_text">
+        <p>THURNER--Joseph J., 85. Retired Professor and Chairman of the Chemistry Department at Colgate University, Hamilton, NY, died January 2. Survived by wife of 57 years, Jean; son, John; daughter, Laura; two grandsons; sister, Eileen Hall; brother, Robert. Memorial service will be held at the Colgate Chapel, Hamilton, NY, February 18th, 1PM. In lieu of flowers, donations to the Thurner Scholarship Fund at Colgate University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

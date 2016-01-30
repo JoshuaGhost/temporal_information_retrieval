@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'My Bum Bill': Horrendously Demeaning?</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="637012"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOMELESS PERSONS</classifier>
+        <classifier class="indexing_service" type="descriptor">VAGRANCY AND VAGRANTS</classifier>
+        <person class="indexing_service">STILP, BENJAMIN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beggars</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D81431F935A1575AC0A965958260" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'My Bum Bill': Horrendously Demeaning?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In the Sept. 12 column called "Coping," Robert Lipsyte's reference to the man struggling to survive on a street corner as "My bum Bill" was horrendously demeaning.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In the Sept. 12 column called "Coping," Robert Lipsyte's reference to the man struggling to survive on a street corner as "My bum Bill" was horrendously demeaning.</p>
+        <p>Thousands of individuals are forced to live their lives in filth and poverty, scrounging for food and shelter. The author's colorful anecdote ignores their harsh reality, recklessly perpetuating the false image of persons living on the streets as mildly crazy, harmless characters who are incapable of understanding their circumstances. Then, after recognizing his own ignorance and callousness, Mr. Lipsyte self-centeredly indulges himself, assuming that readers will have sympathy for "how bad" he felt because Bill had lost a leg.</p>
+        <p>A column called "Coping" should feature genuine stories about coping in New York City, not mock the suffering of human beings by exploiting an issue about which we have become too numb. BENJAMIN STILP Manhattan</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

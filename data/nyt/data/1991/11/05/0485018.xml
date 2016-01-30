@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>W.B.C. Denies Sanction</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="485018"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: BOXING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOXING</classifier>
+        <org class="indexing_service">WORLD BOXING COUNCIL</org>
+        <person class="indexing_service">HOLYFIELD, EVANDER</person>
+        <person class="indexing_service">DAMIANI, FRANCESCO</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boxing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1531F936A35752C1A967958260" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>W.B.C. Denies Sanction</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The World Boxing Council said yesterday it would not sanction the Nov. 23 fight between the champion, EVANDER HOLYFIELD, and FRANCESCO DAMIANI as a heavyweight title bout.</p>
+      </block>
+      <block class="full_text">
+        <p>The World Boxing Council said yesterday it would not sanction the Nov. 23 fight between the champion, EVANDER HOLYFIELD, and FRANCESCO DAMIANI as a heavyweight title bout.</p>
+        <p>Holyfield signed to box Damiani at Atlanta when his scheduled Nov. 8 fight with MIKE TYSON was postponed because of Tyson's rib injury.</p>
+        <p>"The W.B.C. will only sanction a heavyweight championship fight if the champion makes his mandatory defense against the No. 1 of the world and the official challenger," the W.B.C. said. Tyson is ranked No. 1 by the W.B.C. Damiani is unranked by all three sanctioning bodies.</p>
+        <p>"We expected this," said KATHY DUVA, a spokesman for Main Events, who noted that Holyfield "will still be putting the I.B.F. and W.B.A. belts on the line." (AP)  SPORTS PEOPLE: BOXING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

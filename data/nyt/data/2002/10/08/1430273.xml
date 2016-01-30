@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HOFFMAN, COL. LEO L.</title>
+    <meta content="DN100802" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1430273"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">HOFFMAN, COL. LEO L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7DF113BF93BA35753C1A9649C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HOFFMAN, COL. LEO L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOFFMAN-Col. Leo L. In his 96th year, on October 6, 2002. Adored husband and extraordinary partner to his wife Grace. Loyal and loving to all who knew him. He was a valiant soldier, a brilliant lawyer and a faithful friend. Private services were held.</p>
+        <p>HOFFMAN-Leo. The Board of Directors of Camp Vacamas mourn the passing of Leo Hoffman, a past president and true friend. Leo Hoffman will be greatly missed. To Grace Hoffman, his loving and adoring wife, our hearts and thoughts are with you. Andrew Dunberg, President</p>
+      </block>
+      <block class="full_text">
+        <p>HOFFMAN-Col. Leo L. In his 96th year, on October 6, 2002. Adored husband and extraordinary partner to his wife Grace. Loyal and loving to all who knew him. He was a valiant soldier, a brilliant lawyer and a faithful friend. Private services were held.</p>
+        <p>HOFFMAN-Leo. The Board of Directors of Camp Vacamas mourn the passing of Leo Hoffman, a past president and true friend. Leo Hoffman will be greatly missed. To Grace Hoffman, his loving and adoring wife, our hearts and thoughts are with you. Andrew Dunberg, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction; Follow This Dog</title>
+    <meta content="RV151526" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1515783"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Lipsyte, Sam</person>
+        <person class="indexing_service">Rhodes, Dan</person>
+        <object.title class="indexing_service">Timoleon Vieta Come Home: A Sentimental Journey (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E2DD1739F932A0575BC0A9659C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction; Follow This Dog</hl1>
+      </hedline>
+      <byline class="print_byline">By Sam Lipsyte</byline>
+      <byline class="normalized_byline">Lipsyte, Sam</byline>
+      <abstract>
+        <p>Sam Lipsyte reviews book Timoleon Vieta Come Home: A Sentimental Journey by Dan Rhodes; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A recent pick for Granta magazine's list of the top 20 young British novelists, Dan Rhodes has made a leap from his clever short fiction to TIMOLEON VIETA COME HOME: A Sentimental Journey (Canongate, $23), a whimsical, menacing exploration of thwarted love. The Timoleon Vieta of the title is a stray mutt with an affectionate disposition and eyes ''as pretty as a little girl's.'' His latest master is Cockcroft, a washed-up gay composer whose lonely exile in Umbria is interrupted by the arrival of a young man known only as the Bosnian. This dour and rather sadistic fellow proves less adept at conversation than at the once-weekly sexual act with which he pays his rent. The Bosnian's hatred of dogs and Cockcroft's regrettable decision to choose man over man's best friend results in Timoleon's banishment, and it is the dog's arduous journey home, or rather the stories of those he encounters along the way, that constitute the second half of the novel. This cast includes a broken-hearted Welsh woman, a deaf Italian girl, a Chinese orphan and a tragic Cambodian family. Although these narratives seem pointlessly digressive at first, they accrue into a powerful pattern of love and loss among the damaged and doomed. The worldview here would not be unfamiliar to admirers of James Purdy, and Vien Thuc's witty dog illustrations, incorporated into the book, lend emotional shading to the tale. Rhodes's unadorned prose style is either translucent or plain, depending on your taste, but his presentation of the thorny dream of life is sad, funny and often riveting.</p>
+        <p>Sam Lipsyte</p>
+      </block>
+      <block class="full_text">
+        <p>A recent pick for Granta magazine's list of the top 20 young British novelists, Dan Rhodes has made a leap from his clever short fiction to TIMOLEON VIETA COME HOME: A Sentimental Journey (Canongate, $23), a whimsical, menacing exploration of thwarted love. The Timoleon Vieta of the title is a stray mutt with an affectionate disposition and eyes ''as pretty as a little girl's.'' His latest master is Cockcroft, a washed-up gay composer whose lonely exile in Umbria is interrupted by the arrival of a young man known only as the Bosnian. This dour and rather sadistic fellow proves less adept at conversation than at the once-weekly sexual act with which he pays his rent. The Bosnian's hatred of dogs and Cockcroft's regrettable decision to choose man over man's best friend results in Timoleon's banishment, and it is the dog's arduous journey home, or rather the stories of those he encounters along the way, that constitute the second half of the novel. This cast includes a broken-hearted Welsh woman, a deaf Italian girl, a Chinese orphan and a tragic Cambodian family. Although these narratives seem pointlessly digressive at first, they accrue into a powerful pattern of love and loss among the damaged and doomed. The worldview here would not be unfamiliar to admirers of James Purdy, and Vien Thuc's witty dog illustrations, incorporated into the book, lend emotional shading to the tale. Rhodes's unadorned prose style is either translucent or plain, depending on your taste, but his presentation of the thorny dream of life is sad, funny and often riveting.</p>
+        <p>Sam Lipsyte</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

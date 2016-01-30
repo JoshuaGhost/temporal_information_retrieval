@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Postcards From the Edge</title>
+    <meta content="01RHUB$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1388703"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Hubble Space Telescope</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hubble Space Telescope</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1D81431F932A35756C0A9649C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Postcards From the Edge</hl1>
+      </hedline>
+      <abstract>
+        <p>Photos of images taken by Hubble Space Telescope's new main camera</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

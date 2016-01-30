@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Weddings; Rachel L. Evans, Karl I. Lifchitz</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="684110"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">EVANS, RACHEL LESLIE</person>
+        <person class="indexing_service">LIFCHITZ, KARL ISAAC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EFD71730F932A35756C0A962958260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Weddings; Rachel L. Evans, Karl I. Lifchitz</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rachel Leslie Evans, the daughter of Judge Saralee Evans and Sanford Evans, both of New York, is to be married today to Karl Isaac Lifchitz, a son of Dr. Fima Lifchitz of New York and Linda Moscona of Great Neck, L.I. The bride's mother, a New York City Civil Court judge, is to officiate at Brooklyn Botanic Garden.</p>
+        <p>Ms. Evans, who is keeping keep her name, is a film and television actress. She and the bridegroom graduated from Hampshire College. Her father is a creative director at Mezzina/Brown Inc., a New York advertising agency.</p>
+      </block>
+      <block class="full_text">
+        <p>Rachel Leslie Evans, the daughter of Judge Saralee Evans and Sanford Evans, both of New York, is to be married today to Karl Isaac Lifchitz, a son of Dr. Fima Lifchitz of New York and Linda Moscona of Great Neck, L.I. The bride's mother, a New York City Civil Court judge, is to officiate at Brooklyn Botanic Garden.</p>
+        <p>Ms. Evans, who is keeping keep her name, is a film and television actress. She and the bridegroom graduated from Hampshire College. Her father is a creative director at Mezzina/Brown Inc., a New York advertising agency.</p>
+        <p>Mr. Lifchitz is an architect in Santa Monica, Calif. He received a master's degree in architecture from the University of California at Los Angeles. His father is the chairman of pediatrics at Maimonides Medical Center in Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

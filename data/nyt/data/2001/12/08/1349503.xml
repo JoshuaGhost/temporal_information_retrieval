@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Science And Health: Resignation At Weapons Lab</title>
+    <meta content="MB022032" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1349503"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Lawrence Livermore National Laboratory</org>
+        <person class="indexing_service">Tarter, C Bruce (Dr)</person>
+        <person class="indexing_service">Glanz, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFD7113CF93BA35751C1A9679C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Science And Health: Resignation At Weapons Lab</hl1>
+      </hedline>
+      <byline class="print_byline">By James Glanz (NYT)</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <abstract>
+        <p>Dr C Bruce Tarter to resign as Lawrence Livermore National Laboratory director; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. C. Bruce Tarter announced that he would step down as director of the Lawrence Livermore National Laboratory in California, one of the nation's three major weapons laboratories. During a seven-year tenure, Dr. Tarter presided over a major expansion of civilian research at Livermore, but also numerous disputes, including delays and overruns in a $4 billion laser project and complaints of racial and sex discrimination by employees. Saying the laser project was ''aggressively back on track,'' Dr. Tarter added that he had moved to deal with employee concerns.</p>
+        <p>James Glanz (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. C. Bruce Tarter announced that he would step down as director of the Lawrence Livermore National Laboratory in California, one of the nation's three major weapons laboratories. During a seven-year tenure, Dr. Tarter presided over a major expansion of civilian research at Livermore, but also numerous disputes, including delays and overruns in a $4 billion laser project and complaints of racial and sex discrimination by employees. Saying the laser project was ''aggressively back on track,'' Dr. Tarter added that he had moved to deal with employee concerns.</p>
+        <p>James Glanz (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

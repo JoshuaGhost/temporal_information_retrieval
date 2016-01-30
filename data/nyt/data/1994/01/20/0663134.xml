@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smith Corona Corp.  reports earnings for Qtr to Dec 31</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="663134"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE1DB1639F933A15752C0A962958260" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smith Corona Corp.  reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Smith Corona Corp.  (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Sales</p>
+        <p>93,600,000</p>
+        <p>86,700,000</p>
+        <p>Net inc</p>
+        <p>1,500,000</p>
+        <p>4,000,000</p>
+        <p>Share earns</p>
+        <p>.05</p>
+        <p>.13</p>
+        <p>6mo sales</p>
+        <p>187,400,000</p>
+        <p>168,000,000</p>
+        <p>Net inc</p>
+        <p>5,600,000</p>
+        <p>b1,100,000</p>
+        <p>Share earns</p>
+        <p>.18</p>
+        <p>(.04)</p>
+        <p>b-Net loss included an after-tax charge of $ 5.8 million, or 19 cents a share, for a change in accounting for income taxes. (Loss)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

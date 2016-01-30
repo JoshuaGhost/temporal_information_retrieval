@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="27CORR" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1577259"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Earth Day</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D6103AF934A15757C0A9629C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Apr 22 Op-Ed article on corporate sponsorship of Earth Day, regarding one corporate participant</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Op-Ed article on Thursday about corporate sponsorship of Earth Day incorrectly referred to a participant. Sierra Pacific Power Company helped sponsor events in northern Nevada, not Sierra Pacific Industries.</p>
+      </block>
+      <block class="full_text">
+        <p>An Op-Ed article on Thursday about corporate sponsorship of Earth Day incorrectly referred to a participant. Sierra Pacific Power Company helped sponsor events in northern Nevada, not Sierra Pacific Industries.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

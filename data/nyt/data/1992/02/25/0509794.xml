@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Depot Says It Had A 63% Gain</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="509794"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">HOME DEPOT INC</org>
+        <person class="indexing_service">STROM, STEPHANIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DE153DF936A15751C0A964958260" item-length="422" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Depot Says It Had A 63% Gain</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHANIE STROM</byline>
+      <byline class="normalized_byline">STROM, STEPHANIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Home Depot Inc., a chain of stores selling home-building and renovation supplies, yesterday reported a 63 percent gain in fourth-quarter earnings and record profits for the year.</p>
+        <p>The company, based in Atlanta, earned $67.6 million, or 31 cents a share, in the fiscal quarter that ended Feb. 2, compared with $41.5 million, or 23 cents a share, in the fourth quarter last year. Sales for the company, which now has 174 stores, rose 29 percent, to a record $1.30 billion, from $1.01 billion in the corresponding period in 1990.</p>
+      </block>
+      <block class="full_text">
+        <p>The Home Depot Inc., a chain of stores selling home-building and renovation supplies, yesterday reported a 63 percent gain in fourth-quarter earnings and record profits for the year.</p>
+        <p>The company, based in Atlanta, earned $67.6 million, or 31 cents a share, in the fiscal quarter that ended Feb. 2, compared with $41.5 million, or 23 cents a share, in the fourth quarter last year. Sales for the company, which now has 174 stores, rose 29 percent, to a record $1.30 billion, from $1.01 billion in the corresponding period in 1990.</p>
+        <p>The sales figure for stores open at least a year, the barometer that investment analysts use to evaluate a retailer's true growth, increased 12 percent in the winter quarter, which is typically the slowest of the year for home-building supply stores. 53% Gain for the Year</p>
+        <p>For the full fiscal year, Home Depot had record earnings of $249.2 million, or $1.20 a share, up 53 percent from $163.4 million, or 90 cents a share, in 1990. Sales rose 35 percent, to $5.14 billion, from $3.82 billion in the 1990 fiscal year, which was a week longer.</p>
+        <p>Ronald M. Brill, Home Depot's chief financial officer, said the company benefited in the fourth quarter from increased rebates from vendors and from its efforts to clamp down on shrinkage, which is the industry's term for unexplained losses resulting from errors in paperwork and shoplifting.</p>
+        <p>Manufacturers frequently give retailers rebates at the end of the fiscal year if sales reach certain predetermined levels. Sales in the average Home Depot store exceeded $30 million last year.</p>
+        <p>Wayne Hood, a retail analyst at Prudential Securities, said Home Depot was poised to do even better in the current quarter because of the apparent upturn in the housing market. He expects first-quarter earnings to increase about 31 percent, to 36 cents a share, from 28 cents a share in the first quarter of 1991.</p>
+        <p>"There's already been a pickup in sales of building materials and commodity lumber," he said. "And we're not even into the repair and remodeling market yet, which should boost their second-quarter results."</p>
+        <p>Mr. Brill said Home Depot had also benefited from the stagnation in the housing market.</p>
+        <p>"It used to be that people would jump from house to house because they knew they could sell their old house at a profit," he said. "That isn't necessarily the case anymore, and if you can't move, you're going to remodel or expand what you have."</p>
+        <p>Home Depot's share price was unchanged yesterday, at $61.625, on the New York Stock Exchange.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

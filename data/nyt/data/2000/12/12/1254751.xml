@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  RECKEWELL, CARL A.</title>
+    <meta content="DN121200" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1254751"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">RECKEWELL, CARL A.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1D7123FF931A25751C1A9669C8B63" item-length="45" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  RECKEWELL, CARL A.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RECKEWELL-Carl A., 65. On December 9, 2000, after a long illness. Loving husband of Joyce, beloved son of Dorothy, and brother of Elsa Gibbons. Services at Hawkins and Davis Funeral Home, Smithtown, from 7-9 PM. on December 11, and at 2 P.M. on Dec. 12th.</p>
+      </block>
+      <block class="full_text">
+        <p>RECKEWELL-Carl A., 65. On December 9, 2000, after a long illness. Loving husband of Joyce, beloved son of Dorothy, and brother of Elsa Gibbons. Services at Hawkins and Davis Funeral Home, Smithtown, from 7-9 PM. on December 11, and at 2 P.M. on Dec. 12th.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

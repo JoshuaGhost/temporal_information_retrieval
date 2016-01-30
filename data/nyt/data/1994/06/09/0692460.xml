@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets Give Way To Rangers</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="692460"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="STANLEY CUP FINALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <classifier class="indexing_service" type="descriptor">RADIO</classifier>
+        <classifier class="indexing_service" type="descriptor">PLAYOFF GAMES</classifier>
+        <org class="indexing_service">WFAN-AM (RADIO STATION) (NYC)</org>
+        <org class="indexing_service">NEW YORK RANGERS</org>
+        <org class="indexing_service">VANCOUVER CANUCKS</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Vancouver Canucks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDE123AF93AA35755C0A962958260" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets Give Way To Rangers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Call it Stanley Cup mania or simply a gesture of good will, but the Mets, whose games are normally broadcast over WFAN, have waived their rights to the station's 50,000-watt signal to allow WFAN to broadcast tonight's Game 5 of the National Hockey League championship series between the Rangers and the Vancouver Canucks at the Garden.</p>
+      </block>
+      <block class="full_text">
+        <p>Call it Stanley Cup mania or simply a gesture of good will, but the Mets, whose games are normally broadcast over WFAN, have waived their rights to the station's 50,000-watt signal to allow WFAN to broadcast tonight's Game 5 of the National Hockey League championship series between the Rangers and the Vancouver Canucks at the Garden.</p>
+        <p>With the Rangers on WFAN (660 AM), the Mets' home game against the Montreal Expos will be broadcast by WEVD (1050 AM), the station that carries Ranger games when there is a conflict.  STANLEY CUP FINALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

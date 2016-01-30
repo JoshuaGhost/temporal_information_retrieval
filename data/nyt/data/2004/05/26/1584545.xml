@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mixing Burgers And Bogeys</title>
+    <meta content="26PUTT$05" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1584545"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Michael Jordan's Steak House (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE6D8143EF935A15756C0A9629C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mixing Burgers And Bogeys</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Michael Jordan's outdoor cafe in Midtown Manhattan offers putting green for patrons; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To keep your golf game in top form, you can now practice putting on a 14-foot swath of artificial turf at Grand Central Terminal during a lunch break or at cocktail time. It has been set up at the outdoor cafe for Michael Jordan's: The Steak House N.Y.C., protected under the arches along Vanderbilt Avenue at 43rd Street. Anytime while having lunch or drinks, duffers can pick up a putter, or enter a putting contest for prizes.</p>
+      </block>
+      <block class="full_text">
+        <p>To keep your golf game in top form, you can now practice putting on a 14-foot swath of artificial turf at Grand Central Terminal during a lunch break or at cocktail time. It has been set up at the outdoor cafe for Michael Jordan's: The Steak House N.Y.C., protected under the arches along Vanderbilt Avenue at 43rd Street. Anytime while having lunch or drinks, duffers can pick up a putter, or enter a putting contest for prizes.</p>
+        <p>A menu of fried shrimp, lobster rolls, hamburgers, hot dogs, sandwiches and steaks is served at the cafe.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

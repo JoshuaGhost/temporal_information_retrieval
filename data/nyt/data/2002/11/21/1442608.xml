@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  EBAN, ABBA</title>
+    <meta content="DN112102" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1442608"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">EBAN, ABBA</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1DB1F30F932A15752C1A9649C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  EBAN, ABBA</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EBAN-Abba. The Charles H. Revson Foundation shares the sorrow of people all over the world at the passing of Abba Eban. One of the last witnesses from the pioneer generation of Israel's founding, he was a brilliant scholar and statesman, always using his unique and towering eloquence on behalf of ''the Jewish journey across the theater of history.'' We and many others came to know Eban during the creation of the PBS series, Heritage: Civilization and the Jews, which has become one of his most lasting legacies. Broadcast in nineteen countries around the world over the past two decades, and transformed into new technologies, it will help ensure that Eban will be one of the enduring voices of the Jewish people-in the 21st century as he was in the 20th century. Robert F. Rifkind, Chairman Eli N. Evans, President</p>
+      </block>
+      <block class="full_text">
+        <p>EBAN-Abba. The Charles H. Revson Foundation shares the sorrow of people all over the world at the passing of Abba Eban. One of the last witnesses from the pioneer generation of Israel's founding, he was a brilliant scholar and statesman, always using his unique and towering eloquence on behalf of ''the Jewish journey across the theater of history.'' We and many others came to know Eban during the creation of the PBS series, Heritage: Civilization and the Jews, which has become one of his most lasting legacies. Broadcast in nineteen countries around the world over the past two decades, and transformed into new technologies, it will help ensure that Eban will be one of the enduring voices of the Jewish people-in the 21st century as he was in the 20th century. Robert F. Rifkind, Chairman Eli N. Evans, President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

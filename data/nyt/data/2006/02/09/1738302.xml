@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Keyboard and Mouse Set Made to Match the Mac Mini</title>
+    <meta content="09keyboard" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/09/technology/circuits/09keyboard.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1738302"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="CIRCUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Apple Computer Inc</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DA143EF93AA35751C0A9609C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Keyboard and Mouse Set Made to Match the Mac Mini</hl1>
+        <hl2 class="online_headline">A Keyboard and Mouse Set Made to Match the Mac Mini</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN BIGGS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Steven P. Jobs introduced the Mac Mini, he expected customers to bring their own keyboard and mouse. But many keyboards -- salvaged from old family PC's -- clash with the look of Apple's austere products. The Logitech S530 addresses that issue handily.</p>
+        <p>This three-quarter-inch-thick keyboard and mouse combo comes in blinding white and is cordless. Both the mouse and the keyboard connect to the computer via an unobtrusive U.S.B. receiver.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Logitech S530 keyboard won't clash with the look of Apple's austere products.</p>
+      </block>
+      <block class="full_text">
+        <p>When Steven P. Jobs introduced the Mac Mini, he expected customers to bring their own keyboard and mouse. But many keyboards -- salvaged from old family PC's -- clash with the look of Apple's austere products. The Logitech S530 addresses that issue handily.</p>
+        <p>This three-quarter-inch-thick keyboard and mouse combo comes in blinding white and is cordless. Both the mouse and the keyboard connect to the computer via an unobtrusive U.S.B. receiver.</p>
+        <p>Logitech has included some nice features just for Mac users, including separate iTunes, iPhoto and Spotlight search buttons. There is also a dedicated Mail button, as well as dedicated scroll buttons for viewing Web pages.</p>
+        <p>The S530 is available online and at most stores for about $99.</p>
+        <p>The mouse has five programmable buttons and a scroll wheel that tilts from side to side for easier Web browsing and document editing.</p>
+        <p>The mouse requires two AA batteries and the keyboard requires two AAA batteries. Battery life is about six months. When they begin to fail, the keyboard and mouse both flash, and they will last 10 days before dying completely.</p>
+        <p>JOHN BIGGS</p>
+        <p>CIRCUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

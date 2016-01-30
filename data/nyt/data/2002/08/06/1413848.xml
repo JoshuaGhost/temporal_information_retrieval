@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: COMMODITIES</title>
+    <meta content="Y06COM$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1413848"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Commodities</classifier>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DA103BF935A3575BC0A9649C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: COMMODITIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Commodities column; natural gas falls because cooler weather is expected to reduce demand for power in Northeast; graphs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NATURAL GAS DROPS. Natural gas fell because cooler weather is expected to reduce demand for power in the Northeast. In New York, natural gas for September delivery fell 18 cents, or 6.3 percent, to $2.678 a million B.T.U.'s.</p>
+      </block>
+      <block class="full_text">
+        <p>NATURAL GAS DROPS. Natural gas fell because cooler weather is expected to reduce demand for power in the Northeast. In New York, natural gas for September delivery fell 18 cents, or 6.3 percent, to $2.678 a million B.T.U.'s.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

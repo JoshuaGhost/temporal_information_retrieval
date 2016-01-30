@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Station Renovation, Step by Step</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="717627"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <classifier class="indexing_service" type="descriptor">ELEVATORS AND ESCALATORS</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">METROPOLITAN TRANSPORTATION AUTHORITY (MTA)</org>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elevators and Escalators</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3D7163CF931A25753C1A962958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Station Renovation, Step by Step</hl1>
+      </hedline>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

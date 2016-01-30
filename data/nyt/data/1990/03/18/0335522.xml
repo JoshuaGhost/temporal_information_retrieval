@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NONFICTION</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="335522"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="IN SHORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">SHAPIRO, SUSAN</person>
+        <person class="indexing_service">BLACK, CHARLES</person>
+        <person class="indexing_service">HORSNELL, MICHAEL</person>
+        <object.title class="indexing_service">COUNTERFEITER: THE STORY OF A MASTER FORGER (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEED71338F93BA25750C0A966958260" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN SHAPIRO</byline>
+      <byline class="normalized_byline">SHAPIRO, SUSAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>COUNTERFEITER: The Story of a Master Forger. By Charles Black and Michael Horsnell. (St. Martin's, $15.95.) ''Successful counterfeiting requires not only skill, patience and a great deal of capital to buy the range of complex machinery which is the forger's stock-in-trade, but an intense appreciation of security.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>COUNTERFEITER: The Story of a Master Forger. By Charles Black and Michael Horsnell. (St. Martin's, $15.95.) ''Successful counterfeiting requires not only skill, patience and a great deal of capital to buy the range of complex machinery which is the forger's stock-in-trade, but an intense appreciation of security.</p>
+        <p>COUNTERFEITER: The Story of a Master Forger. By Charles Black and Michael Horsnell. (St. Martin's, $15.95.) ''Successful counterfeiting requires not only skill, patience and a great deal of capital to buy the range of complex machinery which is the forger's stock-in-trade, but an intense appreciation of security.'' So instructs Charles Black, a British master forger who in the 1970's devised and developed a sophisticated method of photolithographic counterfeiting. With Michael Horsnell of The Times of London, Mr. Black tells the strange saga of his escapades in counterfeiting, which began at his home in Kent, where he assembled a cedar shed that, he boasts, was ''the finest forger's den in the history of counterfeiting.'' Police officials later discovered the plates for dollar and pound notes and traveler's checks drawn on the Barclays, Lloyds and National Westminster banks, along with an offset litho machine, a hand letterpress printing machine, numbering boxes and a supply of magnetic ink. Mr. Black claims that his operation was the biggest forgery production center in the world. A set of his printing plates and a series of his forged bank notes are preserved in Scotland Yard's museum of criminal artifacts. However, the story of Mr. Black's techniques, goals and encounters with the law is less amusing than he and Mr. Horsnell seem to think. Mr. Black is a little too pleased with his accomplishments in ''the art of counterfeiting.'' He forgets that the ''art'' is also a threat to national security and international economies - and a felony.</p>
+        <p>IN SHORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

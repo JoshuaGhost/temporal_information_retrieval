@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Indians Only' Headline Gives the Wrong Message</title>
+    <meta content="LTR040945" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="895756"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Indians, American</classifier>
+        <person class="indexing_service">couteau, donna</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indians, American</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E2DC123EF936A25751C1A960958260" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Indians Only' Headline Gives the Wrong Message</hl1>
+      </hedline>
+      <abstract>
+        <p>Donna Couteau letter comments on Nov 24 Playing in the Neighborhood article noting American Indian harvest ceremony (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As the former artistic director of ''Harvest Ceremony: Beyond the Thanksgiving Myth'' (Playing in the Neighborhood, Nov. 24), I object to the negative messages in your headlines ''Native Festivals, Not the Pilgrims' '' and ''Indians-Only Harvest Festival.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As the former artistic director of ''Harvest Ceremony: Beyond the Thanksgiving Myth'' (Playing in the Neighborhood, Nov. 24), I object to the negative messages in your headlines ''Native Festivals, Not the Pilgrims' '' and ''Indians-Only Harvest Festival.''</p>
+        <p>Last year, Joe Cross and I adapted Marty Kreipe de Montano's program titled ''The First Thanksgiving: Diplomacy in New England,'' added the current title, pages of dialogue and emphasized inclusiveness as the central message in our staging.</p>
+        <p>To print a negative ''Indians only'' message and portray it as a Native American attitude hurts us professionally and, more important, all of us as human beings.</p>
+        <p>DONNA COUTEAU</p>
+        <p>Clinton</p>
+        <p>The writer is a member of the Sac and Fox Nation of Oklahoma.</p>
+        <p>East Side Garden of Eden  Has Attracted Evil</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adversarial Quality Of a Court TV Sale</title>
+    <meta content="MIFFLIN" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017955"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Court TV</org>
+        <org class="indexing_service">Time Warner Corp</org>
+        <org class="indexing_service">Liberty Media Corp</org>
+        <org class="indexing_service">National Broadcasting Co</org>
+        <person class="indexing_service">Mifflin, Lawrie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7DF1639F93BA25756C0A96E958260" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adversarial Quality Of a Court TV Sale</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRIE MIFFLIN</byline>
+      <byline class="normalized_byline">Mifflin, Lawrie</byline>
+      <abstract>
+        <p>Court TV, which has suffered ratings decline, remains unsure of its future as three co-owners haggle about how to sell it; owners are Time Warner, Liberty Media and NBC (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Having been tossed and kicked like a rugby ball for the last few weeks, the ratings-deflated Court TV remains unsure of its future as its three co-owners haggle about how to sell it. But one option now seems more unlikely than it did a week ago -- selling Court TV to Discovery Communications, which would convert it into something new, like a Discovery Health channel.</p>
+        <p>Discovery had offered about $350 million for Court TV, coveting its 33 million subscribers. But no one can arbitrarily switch a cable network's content without permission from the cable system operators who have purchased it; there are contracts and community sensitivities to consider. Some cable operators like Court TV for its public service value, despite its low Nielsen ratings. And one executive said that Time Warner, one of Court TV's owners, would not guarantee that Discovery, a competitor, could keep the eight million or so homes that get Court TV on Time Warner cable systems.</p>
+      </block>
+      <block class="full_text">
+        <p>Having been tossed and kicked like a rugby ball for the last few weeks, the ratings-deflated Court TV remains unsure of its future as its three co-owners haggle about how to sell it. But one option now seems more unlikely than it did a week ago -- selling Court TV to Discovery Communications, which would convert it into something new, like a Discovery Health channel.</p>
+        <p>Discovery had offered about $350 million for Court TV, coveting its 33 million subscribers. But no one can arbitrarily switch a cable network's content without permission from the cable system operators who have purchased it; there are contracts and community sensitivities to consider. Some cable operators like Court TV for its public service value, despite its low Nielsen ratings. And one executive said that Time Warner, one of Court TV's owners, would not guarantee that Discovery, a competitor, could keep the eight million or so homes that get Court TV on Time Warner cable systems.</p>
+        <p>Of Court TV's two other co-owners, one, Liberty Media, is the programming arm of Tele-Communications Inc., the nation's largest cable systems operator, which also owns 49 percent of Discovery. The other, NBC, now employs the leader of the other bidder for Court TV, Thomas S. Rogers, who presumably would leave NBC if he and Evercore Partners Inc. succeed with a $300 million offer to buy majority ownership. They plan to keep Court TV a legal affairs channel.</p>
+        <p>LAWRIE MIFFLIN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

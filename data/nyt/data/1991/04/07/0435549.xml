@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT/BASEBALL</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="435549"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <person class="indexing_service">ANDERSON, MICHAEL</person>
+        <person class="indexing_service">WEINBERGER, MIRO</person>
+        <person class="indexing_service">RILEY, DAN</person>
+        <object.title class="indexing_service">YANKEES READER, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D6173AF934A35757C0A967958260" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT/BASEBALL</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, MICHAEL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE YANKEES READER  Edited by Miro Weinberger and Dan Riley. Houghton Mifflin, Paper, $9.95.</p>
+      </block>
+      <block class="full_text">
+        <p>THE YANKEES READER  Edited by Miro Weinberger and Dan Riley. Houghton Mifflin, Paper, $9.95.</p>
+        <p>Yankee fans can be forgiven if they prefer to dwell on the franchise's heroic past rather than contemplate its dubious present. "The Yankees Reader," deftly edited by Miro Weinberger, a student at Yale University, and Dan Riley, the editor of "The Red Sox Reader" and "The Cubs Reader," presents tales from the glorious history of what once was baseball's most consistently successful team. Babe Ruth, Yogi Berra, Roger Maris, Reggie Jackson and Don Mattingly, among others, are celebrated by such writers as Grantland Rice, Red Smith, Shirley Povich and Thomas Boswell. Included are contemporary newspaper accounts of the opening of Yankee Stadium, the end of Lou Gehrig's iron-man streak and Don Larsen's perfect game in the 1956 World Series, as well as excerpts from players' memoirs, Hemingway's tribute to Joe DiMaggio in "The Old Man and the Sea" and Casey Stengel's hilarious testimony at a Senate subcommittee hearing on antitrust laws and professional sports in 1958.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

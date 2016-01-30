@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV102657" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1019653"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Newman, Judith</person>
+        <person class="indexing_service">Hess, Elizabeth</person>
+        <object.title class="indexing_service">Lost and Found (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E2DB1030F937A15756C0A96E958260" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Judith Newman</byline>
+      <byline class="normalized_byline">Newman, Judith</byline>
+      <abstract>
+        <p>Judith Newman reviews book Lost and Found: Dogs, Cats, and Everyday Heroes at a Country Animal Shelter by Elizabeth Hess (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lost and Found</p>
+        <p>Dogs, Cats, and Everyday Heroes</p>
+        <p>at a Country Animal Shelter.</p>
+        <p>By Elizabeth Hess.</p>
+        <p>Harcourt Brace, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>Lost and Found</p>
+        <p>Dogs, Cats, and Everyday Heroes</p>
+        <p>at a Country Animal Shelter.</p>
+        <p>By Elizabeth Hess.</p>
+        <p>Harcourt Brace, $23.</p>
+        <p>Elizabeth Hess does not wring humor or sentiment from her account of her volunteer work at a tiny, underfinanced animal shelter in upstate New York. Instead, she presents, simply and matter-of-factly, the innumerable ways people inflict cruelty on animals. There are the puppy-mill breeders, of course, and the ''collectors'' -- emotionally unbalanced people who take on animals but are unable to care for their most basic needs. But just as egregious are the fair-weather pet owners, who get all gooey at the sight of a bundle of fur, then abandon their charges when the animals prove to be the slightest bit inconvenient. (After reading ''Lost and Found,'' anyone who has ever found himself eyed suspiciously and grilled at a shelter before being allowed to take an animal home will be infinitely more sympathetic to the shelter workers' skepticism.) Hess is adept at exploding myths about shelter animals (for example, contrary to popular opinion, you really can teach an old dog new tricks, and adult animals often make better pets for children), and her discussion about the necessity of euthanasia in a country that's ignoring its pet-population explosion will make even the most fervent animal rights advocate think twice. ''As long as people can make money off of animals, things will never change,'' Hess writes. ''There's a pet industry driving an economy that is based on our insatiable desire for unconditional love.'' ''Lost and Found'' is a lot like the shelter pets that are its subject: not terribly stylish, perhaps, but intelligent, warmhearted and deserving of attention.</p>
+        <p>Judith Newman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

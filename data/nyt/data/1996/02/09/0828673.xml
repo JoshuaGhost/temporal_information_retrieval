@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Also of Note1</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="828673"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2DF1539F93AA35751C0A960958260" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Also of Note1</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Critics' choices of some other Manhattan art shows:</p>
+        <p>ARIANE LOPEZ-HUICI and MICHEL AUDER, AC Project Room, 15 Renwick Street, South Village (through Feb. 17). Michel Auder's 1976 video of the artist Hannah Wilke  talking on the phone and performing a wryly narcissistic striptease captures a moment when video, feminist art and Mr. Auder's own gentle voyeuristic style were young. By comparison, Ariane Lopez-Huici's recently minted video of her naked self interacting with a weight-training machine is something of a throwback. More arresting are her photographs of an obese naked woman proudly and unaffectedly striking a series of Venus-like poses (Roberta Smith).</p>
+      </block>
+      <block class="full_text">
+        <p>Critics' choices of some other Manhattan art shows:</p>
+        <p>ARIANE LOPEZ-HUICI and MICHEL AUDER, AC Project Room, 15 Renwick Street, South Village (through Feb. 17). Michel Auder's 1976 video of the artist Hannah Wilke  talking on the phone and performing a wryly narcissistic striptease captures a moment when video, feminist art and Mr. Auder's own gentle voyeuristic style were young. By comparison, Ariane Lopez-Huici's recently minted video of her naked self interacting with a weight-training machine is something of a throwback. More arresting are her photographs of an obese naked woman proudly and unaffectedly striking a series of Venus-like poses (Roberta Smith).</p>
+        <p>TWISTED SISTERS: DRAWING THE LINE, White Columns, 154 Christopher Street, West Village (through Feb. 18). This exhibition, which features works by 16 of today's most talented American female cartoonists and celebrates the recent publication of the second Twisted Sisters anthology, allows you to get up close  and personal with the book's original drawings -- all of which get up close and  personal with some phase of female life as we know it (Smith).</p>
+        <p>"SHATTERED LATITUDES," Lombard/ Freid Fine Arts, 470 Broome Street, SoHo (through Feb. 17). The spirit of Joseph Beuys is apparently alive and well in Lodz, Poland, home base for the four artists in this show. Jerzy Grzegorski's mysterious black panels on wrought-iron supports evoke a sense of unspeakable histories; Malgorzata Borek's gauze-wrapped objects, Adam Klimczak's photos-plus-tubing and Ryszard Wasko's wooden carts aim for but don't quite achieve the same combination of spiritual obscurity and historical resonance (Pepe Karmel).</p>
+        <p>SANG NAM LEE, Elga Wimmer, 560 Broadway, at Prince Street, SoHo (through Feb. 28). In Sang Nam Lee's elegantly understated paintings, concentric circles are ornamented with lines and dots suggesting musical notation. His drawings of spidery architectural constructions and colored circles seem freer and more seductive (Karmel).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

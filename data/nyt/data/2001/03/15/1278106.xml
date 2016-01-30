@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THALES INCREASES SALES</title>
+    <meta content="MB003331" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1278106"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Thales (Co)</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5D6163DF936A25750C0A9679C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THALES INCREASES SALES</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>Thales, French military company, says revenue totaled 8.6 billion euros in 2000, up 25 percent from year earlier; net income declined 27 percent, to 201 million euros (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thales, the French military electronics company, said revenue in 2000 benefited from acquisitions, although one-time charges related to those purchases caused a decline in net income for the year. The acquisitions of Racal Electronics of Britain, ADI of Australia and Thales Samsung of South Korea contributed 1 billion euros ($915 million) to revenue, which totaled 8.6 billion euros, up 25 percent from the year earlier. Net income declined 27 percent, to 201 million euros.</p>
+        <p>Suzanne Kapner</p>
+      </block>
+      <block class="full_text">
+        <p>Thales, the French military electronics company, said revenue in 2000 benefited from acquisitions, although one-time charges related to those purchases caused a decline in net income for the year. The acquisitions of Racal Electronics of Britain, ADI of Australia and Thales Samsung of South Korea contributed 1 billion euros ($915 million) to revenue, which totaled 8.6 billion euros, up 25 percent from the year earlier. Net income declined 27 percent, to 201 million euros.</p>
+        <p>Suzanne Kapner</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

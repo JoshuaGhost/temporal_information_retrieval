@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>British Steel Sets Deal in Alabama</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="402914"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">TUSCALOOSA STEEL CORP</org>
+        <org class="indexing_service">BRITISH STEEL PLC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DF1E39F931A15752C1A966958260" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>British Steel Sets Deal in Alabama</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LONDON, Nov. 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>British Steel P.L.C. said it had agreed to buy the 90.4 percent of the Tuscaloosa Steel Corporation that it did not own from the Alabama-based company's other shareholders. British Steel refused to disclose the price.</p>
+        <p>Tuscaloosa, which produces plate and hot-strip steel, was formed in 1984 as a venture by British Steel, Tippins International, O'Neal Steel Inc. and the American Cast Iron Pipe Company. British Steel is the primary supplier of semifinished steel slabs to the Tuscaloosa mill. Tuscaloosa has annual sales of about $150 million and net assets of about $21 million, British Steel said.</p>
+      </block>
+      <block class="full_text">
+        <p>British Steel P.L.C. said it had agreed to buy the 90.4 percent of the Tuscaloosa Steel Corporation that it did not own from the Alabama-based company's other shareholders. British Steel refused to disclose the price.</p>
+        <p>Tuscaloosa, which produces plate and hot-strip steel, was formed in 1984 as a venture by British Steel, Tippins International, O'Neal Steel Inc. and the American Cast Iron Pipe Company. British Steel is the primary supplier of semifinished steel slabs to the Tuscaloosa mill. Tuscaloosa has annual sales of about $150 million and net assets of about $21 million, British Steel said.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

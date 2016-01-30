@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ketchum Is Selected For Pacific Bell Account</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="855933"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <org class="indexing_service">PACIFIC BELL COMMUNICATIONS</org>
+        <org class="indexing_service">KETCHUM ADVERTISING</org>
+        <person class="indexing_service">ADELSON, ANDREA</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4DE1639F934A35755C0A960958260" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ketchum Is Selected For Pacific Bell Account</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrea Adelson</byline>
+      <byline class="normalized_byline">ADELSON, ANDREA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pacific Bell Communications, the new long-distance division of the Pacific Telesis Group, named Ketchum Advertising in San Francisco to introduce local, long-distance and other telecommunications services to California and Nevada. Billings were not disclosed, but trade publications estimated them at $80 million.</p>
+        <p>Mary Hancock, a spokeswoman for Pacific Bell in San Francisco, said yesterday that Ketchum Advertising, which was recently acquired by the Omnicom Group, was awarded the account after a 10-week review in which the other finalists were: Ammirati Puris Lintas in New York, a unit of the Interpublic Group of Companies; Lowe &amp; Partners/ SMS in New York, also owned by Interpublic; Highway One Communications in Los Angeles, with its affiliate D'Arcy Masius Benton &amp; Bowles in San Francisco, and Ogilvy &amp; Mather Los Angeles, a unit of the WPP Group that continues to handle direct marketing for Pacific Bell Communications.</p>
+      </block>
+      <block class="full_text">
+        <p>Pacific Bell Communications, the new long-distance division of the Pacific Telesis Group, named Ketchum Advertising in San Francisco to introduce local, long-distance and other telecommunications services to California and Nevada. Billings were not disclosed, but trade publications estimated them at $80 million.</p>
+        <p>Mary Hancock, a spokeswoman for Pacific Bell in San Francisco, said yesterday that Ketchum Advertising, which was recently acquired by the Omnicom Group, was awarded the account after a 10-week review in which the other finalists were: Ammirati Puris Lintas in New York, a unit of the Interpublic Group of Companies; Lowe &amp; Partners/ SMS in New York, also owned by Interpublic; Highway One Communications in Los Angeles, with its affiliate D'Arcy Masius Benton &amp; Bowles in San Francisco, and Ogilvy &amp; Mather Los Angeles, a unit of the WPP Group that continues to handle direct marketing for Pacific Bell Communications.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

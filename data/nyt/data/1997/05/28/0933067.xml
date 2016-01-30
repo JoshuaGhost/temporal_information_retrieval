@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hal Riney Wins Magazine Awards</title>
+    <meta content="ADZZ2801" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA" name="column_name"/>
+    <docdata>
+      <doc-id id-string="933067"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1DF153AF93BA15756C0A961958260" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hal Riney Wins Magazine Awards</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hal Riney &amp; Partners in San Francisco took top honors with three awards, including the $100,000 prize for general excellence, at the 16th annual M.P.A. Kelly Awards competition sponsored by the Magazine Publishers of America.</p>
+        <p>At a ceremony last night in New York to honor ads appearing in magazines during 1996, Riney won the $100,000 prize for a campaign for EV1, the electric car being leased by the General Motors Corporation through Saturn dealers in California and Arizona. That campaign also captured the prizes for best design and graphics and best at meeting the objectives of a campaign.</p>
+      </block>
+      <block class="full_text">
+        <p>Hal Riney &amp; Partners in San Francisco took top honors with three awards, including the $100,000 prize for general excellence, at the 16th annual M.P.A. Kelly Awards competition sponsored by the Magazine Publishers of America.</p>
+        <p>At a ceremony last night in New York to honor ads appearing in magazines during 1996, Riney won the $100,000 prize for a campaign for EV1, the electric car being leased by the General Motors Corporation through Saturn dealers in California and Arizona. That campaign also captured the prizes for best design and graphics and best at meeting the objectives of a campaign.</p>
+        <p>The award for best headline and copy went to Goodby, Silverstein &amp; Partners in San Francisco, a unit of Omnicom Group, for its Norwegian Cruise Line campaign. Coincidentally, the trade publication Adweek reported this week that new management at the cruise line was scrapping most of the Goodby, Silverstein work, replacing the agency's sensual campaign with retail-oriented print ads and commercials.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

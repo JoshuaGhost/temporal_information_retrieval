@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mercedes-Benz To Raise Output</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="404800"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRUCKS AND TRUCKING</classifier>
+        <classifier class="indexing_service" type="descriptor">PRODUCTION</classifier>
+        <org class="indexing_service">MERCEDES-BENZ AG</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Production</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DE163DF93AA15752C1A966958260" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mercedes-Benz To Raise Output</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>FRANKFURT, Nov. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mercedes-Benz A.G. said it wanted to increase production of commercial vehicles next year. The company, a unit of the German industrial giant Daimler-Benz A.G. said it wanted to step up worldwide production by 3.7 percent, to 270,000 units, in 1991.</p>
+        <p>Helmut Werner, a member of the company's management board, also announced a "wide-ranging, ambitious" cost-cutting program that was aimed at saving the company 1.8 billion marks, or about $1.2 billion, by the mid-1990's. Overseas sales of Mercedes vehicles, mainly in Brazil, South Africa and the United States, have begun to feel the effects of the worldwide economic downturn.</p>
+      </block>
+      <block class="full_text">
+        <p>Mercedes-Benz A.G. said it wanted to increase production of commercial vehicles next year. The company, a unit of the German industrial giant Daimler-Benz A.G. said it wanted to step up worldwide production by 3.7 percent, to 270,000 units, in 1991.</p>
+        <p>Helmut Werner, a member of the company's management board, also announced a "wide-ranging, ambitious" cost-cutting program that was aimed at saving the company 1.8 billion marks, or about $1.2 billion, by the mid-1990's. Overseas sales of Mercedes vehicles, mainly in Brazil, South Africa and the United States, have begun to feel the effects of the worldwide economic downturn.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

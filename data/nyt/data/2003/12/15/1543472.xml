@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Yonkers: Inquiries Begin For Mother Accused Of Fatal Beating</title>
+    <meta content="MB002435" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1543472"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Child Abuse and Neglect</classifier>
+        <location class="indexing_service">Yonkers (NY)</location>
+        <person class="indexing_service">Fuchs, Marek</person>
+        <person class="indexing_service">Smith, Uniqua</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Child Abuse and Neglect</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D9103CF936A25751C1A9659C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Yonkers: Inquiries Begin For Mother Accused Of Fatal Beating</hl1>
+      </hedline>
+      <byline class="print_byline">By Marek Fuchs (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Fuchs, Marek</byline>
+      <abstract>
+        <p>Authorities seek to learn how Uniqua Smith, Yonkers woman accused of beating her two-year-old daughter to death for urinating in her pants, could have received favorable reviews from public and private social service agencies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman accused of beating her 2-year-old to death for urinating in her pants is scheduled to appear in court today, as inquiries by social-service agencies have begun as to why the woman was given favorable reviews as a mother. Last week, the woman, Uniqua Smith, 20, of Yonkers, was charged with second-degree murder in the death of her daughter, Theresa. Ms. Smith is being held without bail at the county jail. Caseworkers from the Westchester County Department of Social Services and Westhab, a private social-service agency and housing provider, acknowledge writing favorable reports of Ms. Smith. In a meeting this week, the department will convene social workers and law enforcement officials for what is called a fatality review. It is not mandated, but is sometimes convened in special cases. New York State's Office of Children and Family Services will conduct its own investigation, which will take six months. The county is supposed to perform an investigation separate from the fatality review.</p>
+        <p>Marek Fuchs (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A woman accused of beating her 2-year-old to death for urinating in her pants is scheduled to appear in court today, as inquiries by social-service agencies have begun as to why the woman was given favorable reviews as a mother. Last week, the woman, Uniqua Smith, 20, of Yonkers, was charged with second-degree murder in the death of her daughter, Theresa. Ms. Smith is being held without bail at the county jail. Caseworkers from the Westchester County Department of Social Services and Westhab, a private social-service agency and housing provider, acknowledge writing favorable reports of Ms. Smith. In a meeting this week, the department will convene social workers and law enforcement officials for what is called a fatality review. It is not mandated, but is sometimes convened in special cases. New York State's Office of Children and Family Services will conduct its own investigation, which will take six months. The county is supposed to perform an investigation separate from the fatality review.</p>
+        <p>Marek Fuchs (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

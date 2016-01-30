@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catharsis at Grand Central</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="481306"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRANSIT SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">STATIONS AND TERMINALS (PASSENGER)</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBWAYS</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">GRAND CENTRAL TERMINAL (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Subways</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grand Central Terminal (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D7143AF93AA25753C1A967958260" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catharsis at Grand Central</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>"I hate you!" Sarah Bernstein screamed at a man who beat her by a step to a taxicab. "The city is crumbling right before our eyes," moaned Judith McDonald. "I may have to walk to work," cried Al Tripoli.</p>
+        <p>Look on the bright side, Sarah, Judith and Al. The city may be crumbling, but it sure knows how to pick up the crumbs in a hurry.</p>
+      </block>
+      <block class="full_text">
+        <p>"I hate you!" Sarah Bernstein screamed at a man who beat her by a step to a taxicab. "The city is crumbling right before our eyes," moaned Judith McDonald. "I may have to walk to work," cried Al Tripoli.</p>
+        <p>Look on the bright side, Sarah, Judith and Al. The city may be crumbling, but it sure knows how to pick up the crumbs in a hurry.</p>
+        <p>On Thursday, when a water main burst under 42d Street, Armageddon seemed briefly at hand. Tunnels flooded, subways stopped, traffic froze. And because commuters from all five boroughs converge on Grand Central Terminal, the pain radiated outward, clogging an entire city.</p>
+        <p>But yesterday the sun shone, the trains ran (mostly), and things didn't look quite so bad. In fact, some things looked better than ever. The Grand Central subway platforms were flushed as close to squeaky clean as they'll ever be. And the subway tracks, usually a fetid heap of cigarette butts and soda cans, were magically rubbish-free. It was as if someone had dumped a vat of detergent down there and turned on the spigot.</p>
+        <p>True, 42d Street is a mess and some nearby shops were badly damaged. Ceiling panels collapsed in the subway station. And the fact that a six-foot-high wall of water actually surged from Manhattan to Queens through the Steinway Tube (a lovely name for a lowly tunnel) will doubtless linger in the minds of those who make the daily journey on the No. 7 train under the East River.</p>
+        <p>But the subway station is not ruined; a chastened city survives. Cheers, then, to the city workers who battled the rats, pumped out the water, shoveled the mud and turned Armageddon into just another routinely stressful New York day.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

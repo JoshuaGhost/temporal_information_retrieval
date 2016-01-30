@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="351781"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DF1338F93AA35756C0A966958260" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * American Integrity Corp., Philadelphia, an insurance company, said it had retained Kidder, Peabody &amp; Co. to explore alternatives to increase its capital base.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * American Integrity Corp., Philadelphia, an insurance company, said it had retained Kidder, Peabody &amp; Co. to explore alternatives to increase its capital base.</p>
+        <p>* American Integrity Corp., Philadelphia, an insurance company, said it had retained Kidder, Peabody &amp; Co. to explore alternatives to increase its capital base.</p>
+        <p>* Cara Operations Ltd., Toronto, a food-service company, said it would purchase Grand &amp; Toy for about $105 million, or $90.3 million in United States currency.</p>
+        <p>* British Steel P.L.C. received authorization from the European Community Commission to acquire C. Walker &amp; Sons Ltd., Blackburn, England. Terms were not disclosed.</p>
+        <p>* W. R. Grace &amp; Co., New York, announced it was seeking to sell its 81.8 percent interest in the Del Taco Restaurants chain to Tico Taco Inc. for an undisclosed amount.</p>
+        <p>* Home Bank, Signal Hill, Calif., said it would acquire Torrance National Bank for more than $17 million, or $29 a share.</p>
+        <p>* Indevo A.B., a Swedish management consultancy, said it would merge with Bain &amp; Co., Inc., Boston, a management consulting firm, in a $50 million deal.</p>
+        <p>* Larmag Investments Group, Amsterdam, said it had acquired the Southland Center office and hotel complex in Dallas, in partnership with KTI Associates for $190 million.</p>
+        <p>* PCL Industries, Toronto, a furniture and home supplies company, said it would sell its furniture operations and equipment rental operations to Reeftor Industries for $44 million, or about $37.8 million in United States currency.</p>
+        <p>* Prince Manufacturing Inc., Princeton, N.J., a maker of tennis products, said it had retained Morgan Stanley &amp; Co. as its financial adviser for the possible sale of the company.</p>
+        <p>* Uniquad, Las Vegas, Nev., signed an agreement to open four casinos in the Soviet Union in a joint venture with the Soviet Government.</p>
+        <p>* Star Enterprises, Houston, a petroleum refiner and distributor, said it would acquire 128 gasoline and martket outlets in Florida from TOC Retail Inc. Terms were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

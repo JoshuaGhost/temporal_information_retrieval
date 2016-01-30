@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Team Gets a Record World Series Share</title>
+    <meta content="PL033801" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1067307"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: BASEBALL -- YANKEES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E3D71E3BF936A35751C1A96E958260" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Team Gets a Record World Series Share</hl1>
+      </hedline>
+      <byline class="print_byline">By MURRAY CHASE</byline>
+      <abstract>
+        <p>New York Yankees learn that their reward for winning World Series is record individual share of $312,042 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees keep on winning. They learned yesterday that their reward for winning the World Series was a record individual share of $312,042. Increased post-season ticket prices helped send the shares soaring from the previous record of $216,870 that the Yankees received in 1996.</p>
+        <p>Although the commissioner's office, in announcing the shares, did not disclose details other than the number awarded, a person with knowledge of the Yankees' share voting revealed details that showed some members of the team fared better from their post-season exploits than from their season salaries. In the days of lower salaries, before free agency, players often earned more from post-season shares than in salary.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees keep on winning. They learned yesterday that their reward for winning the World Series was a record individual share of $312,042. Increased post-season ticket prices helped send the shares soaring from the previous record of $216,870 that the Yankees received in 1996.</p>
+        <p>Although the commissioner's office, in announcing the shares, did not disclose details other than the number awarded, a person with knowledge of the Yankees' share voting revealed details that showed some members of the team fared better from their post-season exploits than from their season salaries. In the days of lower salaries, before free agency, players often earned more from post-season shares than in salary.</p>
+        <p>Homer Bush ($178,900), Jorge Posada ($250,000) and Ramiro Mendoza ($275,000) will receive more from their full shares than from salaries. The 55 percent share that Mike Buddie will receive based on the 99 days he spent with the Yankees in six separate visits computes to $171,623, more than the $170,000 major league minimum salary.</p>
+        <p>The San Diego Padres, who lost to the Yankees in four straight, gained a full share of $204,144. For finishing second in the National League East, the Mets earned a full share of $7,992.</p>
+        <p>MURRAY CHASS</p>
+        <p>PLUS: BASEBALL -- YANKEES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

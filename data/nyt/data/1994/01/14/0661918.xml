@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seymour S. Raven Orchestra and College Official, 75</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="661918"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">RAVEN, SEYMOUR S</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E0D81031F937A25752C0A962958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seymour S. Raven Orchestra and College Official, 75</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seymour S. Raven, a former general manager of the Chicago Symphony Orchestra, died on Wednesday at his home in Chicago. He was 75.</p>
+        <p>The cause was cancer, said his son Jonathan.</p>
+      </block>
+      <block class="full_text">
+        <p>Seymour S. Raven, a former general manager of the Chicago Symphony Orchestra, died on Wednesday at his home in Chicago. He was 75.</p>
+        <p>The cause was cancer, said his son Jonathan.</p>
+        <p>Mr. Raven became manager of the Chicago Symphony in 1959. He had previously been a drama and music critic for The Chicago Tribune. He held the orchestral post until 1964, when he resigned. From the 1960's on, he served in various executive positions at the University of Illinois at Chicago. When he retired in 1992, he was senior adviser to the chancellor.</p>
+        <p>In addition to his son Jonathan, he is survived by his wife of 50 years, Norma; three other sons, Jeremy, Joel and Marc, and four grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

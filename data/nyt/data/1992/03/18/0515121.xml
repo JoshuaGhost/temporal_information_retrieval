@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dow Up 19.68 on Favorable Economic Data</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="515121"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCK PRICES AND TRADING VOLUME</classifier>
+        <classifier class="indexing_service" type="descriptor">DOW JONES STOCK AVERAGE</classifier>
+        <person class="indexing_service">HURTADO, ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DC1731F93BA25750C0A964958260" item-length="645" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dow Up 19.68 on Favorable Economic Data</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT HURTADO</byline>
+      <byline class="normalized_byline">HURTADO, ROBERT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stocks closed with strong gains yesterday on the heels of new economic data that gave further evidence of an economic recovery and a manageable inflation rate. A slight bounce back in the Tokyo market from its steep selloff the previous day also helped lift American shares.</p>
+        <p>The Dow Jones industrial average rose 19.68 points, to 3,256.04. Traders said equity gains were underpinned by a firm bond market, which managed to erase its own earlier losses.</p>
+      </block>
+      <block class="full_text">
+        <p>Stocks closed with strong gains yesterday on the heels of new economic data that gave further evidence of an economic recovery and a manageable inflation rate. A slight bounce back in the Tokyo market from its steep selloff the previous day also helped lift American shares.</p>
+        <p>The Dow Jones industrial average rose 19.68 points, to 3,256.04. Traders said equity gains were underpinned by a firm bond market, which managed to erase its own earlier losses.</p>
+        <p>The Standard &amp; Poor's index of 500 stocks rose 3.19 points, to 409.58. Birinyi Associates, the Wall Street research firm, noted that the large block traders who were the big sellers on Monday were the big buyers of issues in the Dow and S.&amp; P. 500 yesterday, after the economic data fell within expectations. Other Gauges Higher</p>
+        <p>Trading on the American Stock Exchange pushed the composite index up 2.76 points, to 405.64, while the Nasdaq composite index rang up a 5.33-point gain, to 623.27, led by technology and health-care issues. The Russell 2,000 index of smaller company stocks gained 1.1 points, to 207.21.</p>
+        <p>Investor confidence was lifted another notch or two by the positive economic data and by some follow-through from Monday's blue-chip rally. Other positive factors included the Tokyo rebound and gains in London.</p>
+        <p>Volume on the New York Stock Exchange was a marked improvement over the previous day -- 188.8 million shares, up from Monday's 156 million, with gaining issues outpacing losing ones by 1,051 to 651.</p>
+        <p>The economic reports included stronger-than-expected February housing starts and Consumer Price Index data that were in line with forecasts. Industrial production was below expectations, and capacity utilization, while shy of predictions, still displayed some improvement.</p>
+        <p>Paul J. Kronlokken, the technical analyst at Piper, Jaffray &amp; Hopwood Inc. in Minneapolis, described the trading session as interesting, with a roller-coaster ride in bonds ending in a round trip that finally added some support to stocks.</p>
+        <p>He said, collectively, all the data were neutral, but individually they added early volatility to bonds, which limited the gains in stocks. Elan Corp. at $46.50</p>
+        <p>Among the issues posting gains yesterday, the Elan Corporation rose 1 5/8, to 46 1/2, on the Amex, after saying it would seek approval from the Food and Drug Administration by the end of the year for a new wearable drug delivery device called "panoject." It would be used to administer powerful pain-killers in hospitals, initially morphine and approved analgesics.</p>
+        <p>Telemex, known as Telefonos de Mexico, rose 1, to 55 1/8, after it said its board would recommend increasing the dividend at its April 10 meeting.</p>
+        <p>The company received a "buy" recommendation from Stephanie Georges, an analyst at Salomon Brothers Inc., who also liked Southwestern Bell, up 3/8, to 58 7/8, which owns 10 percent of Telemex and is part of a consortium with voting powers on the company's board.</p>
+        <p>Following its announcement late on Monday of a European restructuring, Federal Express gained 1 3/4, to 55 1/4. The package-delivery company said it was taking a $254 million charge for the restructuring. David Guthrie, an analyst at Morgan Keegan &amp; Company, said, "If this doesn't allow them to reach the break-even point for their international operations within a couple of years, nothing will."</p>
+        <p>Applebee's International rose 3, to 18 1/2, yesterday. Traders noted that on Monday the restaurant franchiser publicly offered 2.8 million common shares at $15 each through underwriters led by Piper, Jaffray and Montgomery Securities.</p>
+        <p>Microsoft jumped 3 3/4, to 128, based on expectations of a strong reception for a soon-to-be-introduced upgraded version of its graphical system software. The company expects the product to overshadow a rival system upgrade that I.B.M is expected to introduce on March 31.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

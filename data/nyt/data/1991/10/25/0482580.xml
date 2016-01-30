@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="482580"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">ART SHOWS</classifier>
+        <person class="indexing_service">SMITH, ROBERTA</person>
+        <person class="indexing_service">ZORACH, MARGUERITE (1887-1973)</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DD133AF936A15753C1A967958260" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">SMITH, ROBERTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Marguerite Zorach: Cubism and Beyond'  Kraushaar Galleries 724 Fifth Avenue (near 57th Street) Through Nov. 2</p>
+        <p>While Marguerite Zorach (1887-1973) exhibited in New York City intermittently throughout her life, this often delightful show of paintings and drawings is something of a rarity.</p>
+        <p>Its title and brochure emphasize her Cubist works, and perhaps for good reason, since she lived in Europe between 1908 and 1912 and absorbed its revolution first hand. But the show's real strengths lie unequivocally in the areas beyond Cubism, those moments when Zorach stopped trying to look quite so up to date and simply sprinkled Cubist touches into essentially realistic scenes. The results are a series of small, delicately structured landscapes dotted with flat little squares that signal houses and roofs or, when she draws the East River, piers and factories. They have an endearing, almost naive charm that doesn't obscure their essential sophistication.</p>
+        <p>The sophisticated and the naive achieve a more muscular alliance in the warmly colored "Man and Woman" of 1936, thought to be a painting of Zorach's first dealer, Edith Greogor Halpert, and a collector; it is the best figurative painting in the show. Also good are three little portrait drawings from 1913, their subjects outlined in a few deft but solid strokes of colored pencil. Altogether, this show sketches in the intriguing career, interrupted by children and other obligations, of an artist who improved as she ventured away from the mainstream and who deserves to be better known.</p>
+      </block>
+      <block class="full_text">
+        <p>'Marguerite Zorach: Cubism and Beyond'  Kraushaar Galleries 724 Fifth Avenue (near 57th Street) Through Nov. 2</p>
+        <p>While Marguerite Zorach (1887-1973) exhibited in New York City intermittently throughout her life, this often delightful show of paintings and drawings is something of a rarity.</p>
+        <p>Its title and brochure emphasize her Cubist works, and perhaps for good reason, since she lived in Europe between 1908 and 1912 and absorbed its revolution first hand. But the show's real strengths lie unequivocally in the areas beyond Cubism, those moments when Zorach stopped trying to look quite so up to date and simply sprinkled Cubist touches into essentially realistic scenes. The results are a series of small, delicately structured landscapes dotted with flat little squares that signal houses and roofs or, when she draws the East River, piers and factories. They have an endearing, almost naive charm that doesn't obscure their essential sophistication.</p>
+        <p>The sophisticated and the naive achieve a more muscular alliance in the warmly colored "Man and Woman" of 1936, thought to be a painting of Zorach's first dealer, Edith Greogor Halpert, and a collector; it is the best figurative painting in the show. Also good are three little portrait drawings from 1913, their subjects outlined in a few deft but solid strokes of colored pencil. Altogether, this show sketches in the intriguing career, interrupted by children and other obligations, of an artist who improved as she ventured away from the mainstream and who deserves to be better known.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

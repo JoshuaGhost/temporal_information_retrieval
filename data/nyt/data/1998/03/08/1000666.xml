@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gristede's Sign Fails The Zoning Test</title>
+    <meta content="LTR013819" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1000666"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Canopies</classifier>
+        <classifier class="indexing_service" type="descriptor">Zoning</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Upper West Side (Manhattan)</location>
+        <org class="indexing_service">Gristedes Sloan's Inc</org>
+        <person class="indexing_service">Simon, Arlene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoning</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E6DF1730F93BA35750C0A96E958260" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gristede's Sign Fails The Zoning Test</hl1>
+      </hedline>
+      <abstract>
+        <p>Arlene Simon letter says Gristede's canopy on Upper West Side is not legal in accordance with New York City zoning (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As president of Landmark West, a community organization working to preserve the architectural heritage of the Upper West Side of Manhattan, I read the article ''What Went Up Must Go Down, Critics of Sign Say'' (Feb. 8) with great interest.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As president of Landmark West, a community organization working to preserve the architectural heritage of the Upper West Side of Manhattan, I read the article ''What Went Up Must Go Down, Critics of Sign Say'' (Feb. 8) with great interest.</p>
+        <p>I strongly disagree with the Buildings Department's statement that the Gristede's canopy is a legal sign. The department is charged with enforcing the City Zoning Resolution which, among other things, regulates signage. In the C6-4A zoning district where this 86th Street Gristede's is located, Zoning Resolution Section 32-652 prohibits signs from projecting more than 18 inches over the sidewalk, and Section 32-653 prohibits canopy signage from covering more than 12 square feet, having letters more than 12 inches, being illuminated or saying anything more than the name and address.</p>
+        <p>Even if the Gristede's canopy has the required Transportation Department permit, its signage clearly violates the Zoning Resolution.</p>
+        <p>ARLENE SIMON  Upper West Side</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

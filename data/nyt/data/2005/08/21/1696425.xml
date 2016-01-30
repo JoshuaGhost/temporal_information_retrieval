@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>M.B.A. Programs Devised for Health Care</title>
+    <meta content="21librie-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1696425"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="IN BRIEF: HOFSTRA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EED7103EF932A1575BC0A9639C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>M.B.A. Programs Devised for Health Care</hl1>
+      </hedline>
+      <byline class="print_byline">By Stewart Ain</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To keep abreast of changes in the health-care industry, Hofstra University in Hempstead and the North Shore-Long Island Jewish Health System have developed two new master's of business administration programs. One has a concentration in health-services management and the other in quality management.</p>
+        <p>Herman A. Berliner, the university's provost and senior vice president for academic affairs, said that Hofstra had long considered introducing a master's program in health-services management and that it decided to do it after North Shore-L.I.J. suggested that they team up for a master's in quality management.</p>
+      </block>
+      <block class="full_text">
+        <p>To keep abreast of changes in the health-care industry, Hofstra University in Hempstead and the North Shore-Long Island Jewish Health System have developed two new master's of business administration programs. One has a concentration in health-services management and the other in quality management.</p>
+        <p>Herman A. Berliner, the university's provost and senior vice president for academic affairs, said that Hofstra had long considered introducing a master's program in health-services management and that it decided to do it after North Shore-L.I.J. suggested that they team up for a master's in quality management.</p>
+        <p>Michael J. Dowling, North Shore-L.I.J.'s president and chief executive, said in a statement that tremendous changes in the health-care industry in the last decade had caused its institutions to rethink the way they deliver services.</p>
+        <p>''Health-care executives need to have the skill sets to address both the service and business dynamic, while also establishing an organizational culture in which patient safety is centermost in all business and policy decisions,'' he said.</p>
+        <p>Faculty members from the university and North Shore-L.I.J. will teach the courses at the Frank G. Zarb School of Business at Hofstra.</p>
+        <p>Stewart Ain</p>
+        <p>IN BRIEF: HOFSTRA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

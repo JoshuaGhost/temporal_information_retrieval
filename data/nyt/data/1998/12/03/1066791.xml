@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: COMMODITIES</title>
+    <meta content="Y03COM$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1066791"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Silver</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Silver</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DC123BF930A35751C1A96E958260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: COMMODITIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Silver prices fall sharply amid concern about rising United States inventories; silver for Dec delivery falls 18.8 cents, to $4.664 an ounce; graphs; table of other commodities prices (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SILVER FALLS.  Silver prices fell sharply amid concern about rising United States inventories even before the holiday jewelry-making period ends. In New York, silver for December delivery fell 18.8 cents, to $4.664 an ounce.</p>
+      </block>
+      <block class="full_text">
+        <p>SILVER FALLS.  Silver prices fell sharply amid concern about rising United States inventories even before the holiday jewelry-making period ends. In New York, silver for December delivery fell 18.8 cents, to $4.664 an ounce.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

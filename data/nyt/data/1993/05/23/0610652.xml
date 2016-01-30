@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carrie Bickford, Richard Lougee</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="610652"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BICKFORD, CARRIE LYNN (CARRIE LYNN LOUGEE)</person>
+        <person class="indexing_service">LOUGEE, RICHARD WILLIAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D7103BF930A15756C0A965958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carrie Bickford, Richard Lougee</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carrie Lynn Bickford, a daughter of Mr. and Mrs. Richard O. Bickford of Gilmanton Iron Works, N.H., was married yesterday to Richard William Lougee, a son of Mary E. Lougee of West Lebanon, N.H., and the late Col. Laurence W. Lougee. Rev. Jeffrey Collins performed the ceremony at the Park Street Baptist Church in Pittsfield, Mass.</p>
+        <p>Mrs. Lougee is a contract administrator at Thomas K. Dyer Inc., an engineering firm in Lexington, Mass. She graduated cum laude from New Hampshire College.</p>
+      </block>
+      <block class="full_text">
+        <p>Carrie Lynn Bickford, a daughter of Mr. and Mrs. Richard O. Bickford of Gilmanton Iron Works, N.H., was married yesterday to Richard William Lougee, a son of Mary E. Lougee of West Lebanon, N.H., and the late Col. Laurence W. Lougee. Rev. Jeffrey Collins performed the ceremony at the Park Street Baptist Church in Pittsfield, Mass.</p>
+        <p>Mrs. Lougee is a contract administrator at Thomas K. Dyer Inc., an engineering firm in Lexington, Mass. She graduated cum laude from New Hampshire College.</p>
+        <p>Mr. Lougee is a project assistant in Concord, N.H., for Senator Judd Gregg, Republican of New Hampshire. He also owns and operates Wheeler's Cafe and Grill in Manchester, N.H. He graduated from Dartmouth College. His father served as the staff judge advocate of the First Army on Governors Island, N.Y.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>J. Bailey Harvey, Professor, 85</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="432098"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">HARVEY, J BAILEY</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DF1F3CF930A15750C0A967958260" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>J. Bailey Harvey, Professor, 85</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>J. Bailey Harvey, a professor emeritus of speech at the City College of New York and a former director of the Columbia University Glee Club, died on March 16 at the Jersey Shore Medical Center in Neptune, N.J. He was 85 years old and lived in Belmar, N.J.</p>
+        <p>He died of heart disease, a funeral home representative said.</p>
+      </block>
+      <block class="full_text">
+        <p>J. Bailey Harvey, a professor emeritus of speech at the City College of New York and a former director of the Columbia University Glee Club, died on March 16 at the Jersey Shore Medical Center in Neptune, N.J. He was 85 years old and lived in Belmar, N.J.</p>
+        <p>He died of heart disease, a funeral home representative said.</p>
+        <p>A 1925 graduate of City College, Dr. Harvey taught speech there for 41 years and retired in 1974. He directed the Columbia University Glee Club from 1952 to 1969 and the Kings Glee Club in Brooklyn from 1931 to 1955. He also conducted the General Motors Chorus in Manhattan from 1947 to 1972 and was a member of the University Glee Club. He was a past president of the Intercollegiate Music Council.</p>
+        <p>He is survived by a son, Stephen, of Long Valley, N.J.; a daughter, Susan Hand of East Brunswick, N.J., and four grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

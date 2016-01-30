@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Owners Approve Labor Deal</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="788881"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <classifier class="indexing_service" type="descriptor">LOCKOUTS</classifier>
+        <org class="indexing_service">NATIONAL BASKETBALL ASSN (NBA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lockouts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D81731F935A2575AC0A963958260" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Owners Approve Labor Deal</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new six-year labor agreement was ratified by National Basketball Association owners yesterday, meaning the league's lockout will end Monday.</p>
+        <p>The 29 owners voted by 24-5 to approve the agreement. A three-quarters majority, or 22 votes, was needed for approval. Teams will be allowed to make trades and sign free agents starting at noon Eastern time Monday. Rookie and free agent camps may also be convened. Training camps open Oct. 6, and the regular season begins Nov. 3.</p>
+      </block>
+      <block class="full_text">
+        <p>A new six-year labor agreement was ratified by National Basketball Association owners yesterday, meaning the league's lockout will end Monday.</p>
+        <p>The 29 owners voted by 24-5 to approve the agreement. A three-quarters majority, or 22 votes, was needed for approval. Teams will be allowed to make trades and sign free agents starting at noon Eastern time Monday. Rookie and free agent camps may also be convened. Training camps open Oct. 6, and the regular season begins Nov. 3.</p>
+        <p>Russ Granik, the N.B.A.'s deputy commissioner, said he was confident that any challenges to the agreement would be thwarted. A group of 17 players in favor of decertifying the players union might challenge the Sept. 12 election in which players voted to keep their union. And Mitch Richmond of the Sacramento Kings has filed an unfair labor practice charge against the league, charging N.B.A. Commissioner David Stern with coercive tactics.</p>
+        <p>"It's our view and our lawyers' view that there's no merit to the Richmond charge or any other challenge," said Granik.  PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

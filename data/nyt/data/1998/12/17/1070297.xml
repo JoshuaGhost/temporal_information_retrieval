@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First Dome, Then Dish, A Drum Born of Protest</title>
+    <meta content="17DRUM" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1070297"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Steel Drums</classifier>
+        <location class="indexing_service">Trinidad and Tobago</location>
+        <person class="indexing_service">Pierre-Pierre, Garry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Trinidad</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Trinidad and Tobago/Tobago</classifier>
+        <classifier class="online_producer" type="general_descriptor">Musical Instruments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E3DB133DF934A25751C1A96E958260" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First Dome, Then Dish, A Drum Born of Protest</hl1>
+      </hedline>
+      <byline class="print_byline">By GARRY PIERRE-PIERRE</byline>
+      <byline class="normalized_byline">Pierre-Pierre, Garry</byline>
+      <abstract>
+        <p>Article discusses history of steel drums, national instrument of Trinidad (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The first things any steel drum enthusiast would tell you is that it is the last instrument invented in this century and it came from Trinidad, where it is the national instrument, and it is becoming more and more popular the world over.</p>
+        <p>But the history of the steel drum reflects how Trinidadians have traditionally used various instruments, from goat skin drums to bamboo sticks, as calls for violence as much as for musical entertainment.</p>
+      </block>
+      <block class="full_text">
+        <p>The first things any steel drum enthusiast would tell you is that it is the last instrument invented in this century and it came from Trinidad, where it is the national instrument, and it is becoming more and more popular the world over.</p>
+        <p>But the history of the steel drum reflects how Trinidadians have traditionally used various instruments, from goat skin drums to bamboo sticks, as calls for violence as much as for musical entertainment.</p>
+        <p>So when the steel drum, a 55-gallon oil drum, became popular in the 1940's, a turbulent and violent time for Trinidad's poor people who were looking for a way to express themselves musically, the British colonial masters suppressed the instrument and jailed people for playing it in the street.</p>
+        <p>''It was an instrument born out of revolution,'' said Earl King, president of J'ouvert City International, a steel band group in Brooklyn. ''It was the music of the gangs and street musicians.''</p>
+        <p>The first steel drum dates back to early 1930's when poor Trinidadians began to beat on empty tin biscuit container which gave the current instrument its common name of ''pan.'' About a decade later, the oil drum became popular after someone discovered that a dented section of a barrel head could produce a tone. Among enthusiasts it is widely believed that Ellie Manette was the first to dish out a pan and give the steel drum its current form. Originally, the drums were like a dome rather than a dish, longtime steel drum players say.</p>
+        <p>The steel drum in its present form was invented in 1946. It was discovered that a dented section of barrel head could produce a tone. A handful of people began to build more and more drums. Musical competitions, which started during Carnival, gave way to the street fights. But its identity as a protest instrument remained intact, well after the instrument had shed its violent past. And until recently, it was played mostly by the poor and mostly black Trinidadians.</p>
+        <p>Over the years, the steel drum has evolved from a rhythmic, monotone instrument to one with a more melodious and harmonious sound. The voices produced by the instrument range from soprano to bass.</p>
+        <p>''Pan has defined the history of Trinidad,'' said Roy Pierre, leader of the steel band Roy Pierre and Associates. ''You can't talk about one without the other.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

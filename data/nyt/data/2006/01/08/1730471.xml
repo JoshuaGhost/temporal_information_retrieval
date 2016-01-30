@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Quieter Call to Action?</title>
+    <meta content="08back-1" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1730471"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Vicari, Elisa</person>
+        <person class="indexing_service">Morgenson, Gretchen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2D81E30F93BA35752C0A9609C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Quieter Call to Action?</hl1>
+      </hedline>
+      <abstract>
+        <p>Elisa Vicari letter on Gretchen Morgenson's December 25 column on new proxy statement rules proposed by Securities and Exchange Commission</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Severance Pay Doesn't Go Better With Coke'' (Gretchen Morgenson, Dec. 25), which showed the potential power of shareholder proposals at companies:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Severance Pay Doesn't Go Better With Coke'' (Gretchen Morgenson, Dec. 25), which showed the potential power of shareholder proposals at companies:</p>
+        <p>The column made me wonder, however, whether a new Securities and Exchange Commission proposal might signal a silencing of the shareholder voice. Under the proposal, a company would be able to post proxy materials on the Internet as an alternative to mailing them, if it first notified shareholders how to find them.</p>
+        <p>But will shareholders vote without the powerful call to action that is inspired by the appearance of the proxy materials in their mailboxes? Will corporate governance suffer in the name of saving a relatively small expense for companies?</p>
+        <p>Elisa Vicari  East Northport, N.Y., Dec. 28</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The New Language for Jurors in California: Plain English</title>
+    <meta content="28calif" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/08/28/national/28calif.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1697968"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Jury System</classifier>
+        <classifier class="online_producer" type="descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">English Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jury System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD91F3EF93BA1575BC0A9639C8B63" item-length="429" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The New Language for Jurors in California: Plain English</hl1>
+        <hl2 class="online_headline">The New Language for Jurors in California: Plain English</hl2>
+      </hedline>
+      <byline class="print_byline">By DEAN E. MURPHY</byline>
+      <dateline>SAN FRANCISCO, Aug. 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Californians have a knack for mangling the English language -- you know, like, chill, dude -- but they are suddenly sounding more like its guardians. At least in the halls of justice.</p>
+        <p>''Willfully false'' is now simply ''lied.'' ''Innocent misrecollection'' is the plainer ''honestly forget.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Judicial Council of California has approved new criminal jury instructions intended to make "plain language" the norm in courtrooms.</p>
+      </block>
+      <block class="full_text">
+        <p>Californians have a knack for mangling the English language -- you know, like, chill, dude -- but they are suddenly sounding more like its guardians. At least in the halls of justice.</p>
+        <p>''Willfully false'' is now simply ''lied.'' ''Innocent misrecollection'' is the plainer ''honestly forget.''</p>
+        <p>After spending eight years rewriting more than seven decades of tangled legalese, the Judicial Council of California has approved 2,048 pages of new criminal jury instructions intended to make ''plain language'' the norm in courtrooms.</p>
+        <p>The changes not only wipe out many Middle English words and obscure legal phrases, but also usher the instructions into the 21st century by way of present-day cultural sensibilities, albeit with a California twist.</p>
+        <p>An admonition not to discuss a trial with ''spiritual advisers or therapists'' may puzzle jurors in other states but is considered long overdue here. The change was prompted by a case in which jurors said they did not understand that keeping quiet applied to ''confidential relationships.''</p>
+        <p>''Well, this is California,'' said Ronald M. George, the chief justice of the Supreme Court of California and the main instigator behind the exhaustive revisions approved at a meeting here on Friday. ''I suppose you could add gurus and others, too.''</p>
+        <p>An instruction on setting aside ''any bias or prejudice'' lists the familiar -- gender, race, religion -- but also provides a fill-in-the-blank option for customized bigotries. ''Insert any other impermissible bias as appropriate,'' it says.</p>
+        <p>The revisions are part of a push to make the jury experience more bearable in California, which has a judicial system that state officials say is second in size worldwide only to the United States federal system.</p>
+        <p>''Although the primary motivation is to improve service for jurors,'' the judge said, ''I think this will have the incidental benefit to improve the administration of justice by not having juries ask so many questions of trial judges.''</p>
+        <p>Even ordinary topics, like the weather, have been used to explain the arcane. An instruction on circumstantial evidence uses the example of someone who enters a building ''wearing a raincoat covered with drops of water.'' That evidence, the instruction says, ''may support a conclusion that it was raining outside.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

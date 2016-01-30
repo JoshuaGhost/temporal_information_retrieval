@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="578915"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <person class="indexing_service">HARRIS, JEAN</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">TARNOWER, HERMAN (DR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DE163FF936A15751C1A964958260" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JEAN S. HARRIS, the former girls' school headmistress who is serving 15 years to life in prison for murdering Dr. Herman Tarnower, the cardiologist and diet doctor, has been hospitalized after complaining of chest pains.</p>
+        <p>James Flateau, a spokesman for the New York State Department of Correctional Services, said yesterday: "She went to the infirmary on Wednesday evening at about 9:15 complaining of pressure on her chest, was examined and taken to Northern Westchester Hospital Center in Mount Kisco by prison vehicle. She is in stable condition." He would not answer any questions about Mrs. Harris's condition.</p>
+      </block>
+      <block class="full_text">
+        <p>JEAN S. HARRIS, the former girls' school headmistress who is serving 15 years to life in prison for murdering Dr. Herman Tarnower, the cardiologist and diet doctor, has been hospitalized after complaining of chest pains.</p>
+        <p>James Flateau, a spokesman for the New York State Department of Correctional Services, said yesterday: "She went to the infirmary on Wednesday evening at about 9:15 complaining of pressure on her chest, was examined and taken to Northern Westchester Hospital Center in Mount Kisco by prison vehicle. She is in stable condition." He would not answer any questions about Mrs. Harris's condition.</p>
+        <p>Michael Kennedy, Mrs. Harris's lawyer, said that physicians at the hospital suspected that she had suffered a heart attack. She has had two in the past, both while in prison. Mr. Kennedy said she was expected to stay in the hospital for several days awaiting the results of tests.</p>
+        <p>Mrs. Harris, the former headmistress of the Madeira School for Girls in McLean, Va., was convicted of murdering Dr. Tarnower, her longtime lover and the author of a best-selling diet book, at his home in Purchase, N.Y., on March 10, 1980. Gov. Mario M. Cuomo has turned down several requests for clemency, and another petition has been submitted to him. In June, a Federal judge denied a request for a new trial.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

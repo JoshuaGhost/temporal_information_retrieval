@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Passaic Track to Be Dedicated</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="804229"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SPORTS PEOPLE: TRACK AND FIELD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRACK AND FIELD</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">PERRY, SAM</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDC1E3BF93BA15753C1A963958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Passaic Track to Be Dedicated</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the early 1960's, SAM PERRY was a champion sprinter at Passaic High School in New Jersey. In 1965, running for Fordham, he twice equaled the world indoor record of 5.9 seconds for the 60-yard dash. He became a lawyer, the first black elected to the Passaic City Council and a member of the William Paterson College board of trustees. He is now vice president and general counsel of the American Kennel Club. Today, before a Homecoming Day football game against Bloomfield, his old high school will dedicate its new all-weather track at Boverini Stadium in his name.</p>
+      </block>
+      <block class="full_text">
+        <p>In the early 1960's, SAM PERRY was a champion sprinter at Passaic High School in New Jersey. In 1965, running for Fordham, he twice equaled the world indoor record of 5.9 seconds for the 60-yard dash. He became a lawyer, the first black elected to the Passaic City Council and a member of the William Paterson College board of trustees. He is now vice president and general counsel of the American Kennel Club. Today, before a Homecoming Day football game against Bloomfield, his old high school will dedicate its new all-weather track at Boverini Stadium in his name.  SPORTS PEOPLE: TRACK AND FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

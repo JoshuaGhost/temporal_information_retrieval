@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Manhattan, Third Suspect Is Held in Embassy Bombings</title>
+    <meta content="12TERR$05" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1045715"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <location class="indexing_service">Kenya</location>
+        <location class="indexing_service">Tanzania</location>
+        <person class="indexing_service">Weiser, Benjamin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Tanzania</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Kenya</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DF1431F931A2575AC0A96E958260" item-length="528" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Manhattan, Third Suspect Is Held in Embassy Bombings</hl1>
+      </hedline>
+      <byline class="print_byline">By BENJAMIN WEISER</byline>
+      <byline class="normalized_byline">Weiser, Benjamin</byline>
+      <abstract>
+        <p>Federal authorities in New York charge another, unidentified, suspect in probe of terrorist bombings of US embassies in Kenya and Tanzania (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Federal authorities in Manhattan charged another suspect yesterday in a continuing investigation into terrorism in the wake of the bombings last month of the United States Embassies in Kenya and Tanzania.</p>
+        <p>The suspect, whose identity was not disclosed, was taken before a Federal magistrate judge in Manhattan late in the afternoon for a closed court proceeding. Reporters and others were asked to leave the courtroom, and the magistrate, Andrew J. Peck, said afterward that the record would remain sealed.</p>
+      </block>
+      <block class="full_text">
+        <p>Federal authorities in Manhattan charged another suspect yesterday in a continuing investigation into terrorism in the wake of the bombings last month of the United States Embassies in Kenya and Tanzania.</p>
+        <p>The suspect, whose identity was not disclosed, was taken before a Federal magistrate judge in Manhattan late in the afternoon for a closed court proceeding. Reporters and others were asked to leave the courtroom, and the magistrate, Andrew J. Peck, said afterward that the record would remain sealed.</p>
+        <p>Magistrate Peck refused to explain why he had sealed the case, and it was not clear who had sought the secrecy, whether either the prosecution or the defense had objected, or what the charges were. The defense lawyer appointed to the case, James Roth, declined to comment after the hearing, saying only, ''My lips are sealed.''</p>
+        <p>The suspect is the third known to have been charged in the United States after being arrested in connection with the investigations of the embassy bombings and of Osama bin Laden, a Saudi-born businessman suspected of having inspired and supported the attacks, as well as other acts of terrorism. The Aug. 7 bombings killed more than 250 people, including 12 Americans.</p>
+        <p>Officials with knowledge of the case suggested that the new suspect was linked to the broader investigation into the activities of Mr. bin Laden, and was not necessarily tied directly to the embassy attacks. A sealed indictment against Mr. bin Laden was filed earlier this year; it is said to charge him in connection with other terrorist acts against Americans abroad.</p>
+        <p>Federal authorities said yesterday that it was unclear whether this new development would prove to be a significant breakthrough in the terrorism investigation. The significance of the third defendant may depend on whether the suspect cooperates with the Government and what information is provided to prosecutors. A spokesman for the United States Attorney's office in Manhattan declined to comment last night.</p>
+        <p>Federal prosecutors sometimes seek secrecy in such proceedings as a prelude to a deal in which a defendant or others may agree to cooperate with a Federal investigation. The secrecy is critical because prosecutors do not want to tip off other suspects to the direction of the Government's investigation or the role or identity of the cooperator.</p>
+        <p>Officials said the most recent suspect was arrested in the United States, unlike the other two defendants in the embassy attacks, who were arrested overseas and brought to the United States to face charges.</p>
+        <p>Those two defendants, Mohammed Saddiq Odeh and Mohamed Rashed Daoud al-'Owhali, are being held in jail in Manhattan pending further court proceedings. Prosecutors have said in court papers that both men have acknowledged being followers of Mr. bin Laden.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

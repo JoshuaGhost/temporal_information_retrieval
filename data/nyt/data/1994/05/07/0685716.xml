@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="685716"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <org class="indexing_service">FRIARS CLUB</org>
+        <person class="indexing_service">WALTERS, BARBARA</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DB1439F934A35756C0A962958260" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The guest list has hit 1,000, the dais will hold 42 people, and there will be nine speakers when the New York Friars Club honors BARBARA WALTERS this evening at its 1994 Tribute Dinner at the Waldorf-Astoria.</p>
+        <p>Considering the logistics involved in putting it together, DAVID TEBET, the chairman of the event, and Ms. Walters were sounding pretty relaxed yesterday. "The biggest challenge is not to antagonize anyone as you can do when you're dealing with important people," Mr. Tebet said.</p>
+      </block>
+      <block class="full_text">
+        <p>The guest list has hit 1,000, the dais will hold 42 people, and there will be nine speakers when the New York Friars Club honors BARBARA WALTERS this evening at its 1994 Tribute Dinner at the Waldorf-Astoria.</p>
+        <p>Considering the logistics involved in putting it together, DAVID TEBET, the chairman of the event, and Ms. Walters were sounding pretty relaxed yesterday. "The biggest challenge is not to antagonize anyone as you can do when you're dealing with important people," Mr. Tebet said.</p>
+        <p>There will be no dearth of "important people" in the crowd. The speakers include Henry A. Kissinger, Diane Sawyer, Sam Donaldson, Carol Channing and Sharon Stone, and because the event is a tribute, not a roast, they are presumably going to say lots of nice things about Ms. Walters.</p>
+        <p>She said she had agreed to be honored more than a year ago in memory of her father, Lou Walters, the owner of the Latin Quarter nightclub who died in 1977. "He was a great showman and a member of the Friars club for many years," she said. "I never felt he had a memorial, so the tribute is for him."</p>
+        <p>Noting the eclectic mix of people expected, she said, "My childhood was the world of show business, and my adult life is the world of news -- and finally the two will meet."  NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

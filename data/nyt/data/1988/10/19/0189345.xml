@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Comings and Goings</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="189345"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <org class="indexing_service">MIAMI DOLPHINS</org>
+        <person class="indexing_service">FRANKLIN, TONY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Miami Dolphins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDC163EF93AA25753C1A96E948260" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Comings and Goings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Miami Dolphins have agreed to contract terms with the kicker Tony Franklin, a nine-year veteran released by the New England Patriots during preseason. Franklin made a club record 32 of 41 field goals in 1986 but only 15 of 26 last year. ''I'm looking forward to playing in Miami,'' the barefooted kicker said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Miami Dolphins have agreed to contract terms with the kicker Tony Franklin, a nine-year veteran released by the New England Patriots during preseason. Franklin made a club record 32 of 41 field goals in 1986 but only 15 of 26 last year. ''I'm looking forward to playing in Miami,'' the barefooted kicker said.</p>
+        <p>The Miami Dolphins have agreed to contract terms with the kicker Tony Franklin, a nine-year veteran released by the New England Patriots during preseason. Franklin made a club record 32 of 41 field goals in 1986 but only 15 of 26 last year. ''I'm looking forward to playing in Miami,'' the barefooted kicker said. ''I always wanted to play here because of the great weather. . . . Roberto Duran of Panama, a former world lightweight and welterweight champion, was charged with a felony in Miami for threatening ''to beat up all American police officers,'' George Law, a police spokesman said yesterday. Duran became irate after the car in which he was riding was pulled over for a traffic violation, Law said, and the former boxer was charged with making threats against a police officer, a felony, and disorderly conduct. . . . Charles Thompson, who rushed for 123 yards and three touchdowns against Kansas State last Saturday, will start at quarterback against Colorado this week, Coach Barry Switzer of Oklahoma said. ''Jamelle's not well,'' Switzer said of Jamelle Holieway, who sprained an ankle against Texas two games ago, then reinjured the ankle against Kansas State.(AP)  SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

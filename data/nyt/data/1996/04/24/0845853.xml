@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Magazine Award to Business Week</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="845853"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MAGAZINES</classifier>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">BUSINESS WEEK (MAGAZINE)</org>
+        <org class="indexing_service">NATIONAL MAGAZINE AWARDS</org>
+        <person class="indexing_service">SMITH, DINITIA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0D81F39F937A15757C0A960958260" item-length="479" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Magazine Award to Business Week</hl1>
+      </hedline>
+      <byline class="print_byline">By DINITIA SMITH</byline>
+      <byline class="normalized_byline">SMITH, DINITIA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Business Week won the National Magazine Award for general excellence yesterday, in the category for publications with a circulation of more than one  million. At the ceremony at the Waldorf-Astoria, the magazine's editor in chief, Stephen B. Shepard, spoke of its successful fight against a Federal judge's attempt to stop it from publishing an article unfavorable to Bankers Trust Company. He called the court case "a classic First Amendment battle." It was the second time in three years that Business Week won for general excellence.</p>
+        <p>The New Yorker, with seven nominations, more than any other magazine, won for reporting, with "The Politics of Perception," an article on Newt Gingrich by Connie Bruck. The magazine also won for essays and 'rt criticism by Simon Schama. Tina Brown, editor in chief of The New Yorker, told the audience that when Mr. Schama, a professor at Columbia University, took the job with the magazine, he was worried about making weekly deadlines. But, said Ms. Brown, inside the historian was "an art critic waiting to get out."</p>
+      </block>
+      <block class="full_text">
+        <p>Business Week won the National Magazine Award for general excellence yesterday, in the category for publications with a circulation of more than one  million. At the ceremony at the Waldorf-Astoria, the magazine's editor in chief, Stephen B. Shepard, spoke of its successful fight against a Federal judge's attempt to stop it from publishing an article unfavorable to Bankers Trust Company. He called the court case "a classic First Amendment battle." It was the second time in three years that Business Week won for general excellence.</p>
+        <p>The New Yorker, with seven nominations, more than any other magazine, won for reporting, with "The Politics of Perception," an article on Newt Gingrich by Connie Bruck. The magazine also won for essays and 'rt criticism by Simon Schama. Tina Brown, editor in chief of The New Yorker, told the audience that when Mr. Schama, a professor at Columbia University, took the job with the magazine, he was worried about making weekly deadlines. But, said Ms. Brown, inside the historian was "an art critic waiting to get out."</p>
+        <p>For the second year, GQ won for feature writing, and with the same writer, Philip Junod, whose winning article this year was about a man who raped children.</p>
+        <p>One surprise was the success of a relative newcomer, the two-year-old Saveur, a food magazine edited by Dorothy Kalins, which had three nominations, and garnered two awards, for photography and for a special-interest article, on Cajun food. Another food magazine, Bon Appetit, won for a single-topic issue, on Mediterranean food.</p>
+        <p>The 30-year-old American Society of Magazine Editors, which sponsors the awards, and the Columbia Graduate School of Journalism, which administers them,  inaugurated Hall of Fame Awards this year. Among the five winners, only two are still editing magazines: Helen Gurley Brown, editor of Cosmopolitan, and Ruth Whitney, editor of Glamour. The three other winners were Osborn Elliott, former editor and chief executive officer of Newsweek; Clay Felker, founder of New York Magazine, now director of the Felker Magazine Center at the University  of California, Berkeley, and Richard Stolley, founder of People, now senior editorial adviser of Time Inc.</p>
+        <p>Outside won the award for general excellence among magazines with circulation between 400,000 and one million. Civilization, a magazine started in 1994 and edited by Stephen Smith, a former editor of Newsweek, won for a magazine with a  circulation of 100,000 to 400,000. The Sciences won among those with circulation under 100,000.</p>
+        <p>The public interest award went to Texas Monthly, for an article about a doctor battling the health care system. The award for design went to Wired.</p>
+        <p>Harper's won the fiction award, for three stories: "The Wood Carver's Tale,"  by Mark Slouka; "Bounty," by George Saunders, and "The Lost Girl," by Tova Reich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

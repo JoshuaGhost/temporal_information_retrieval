@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ethicist</title>
+    <meta content="LTR124658" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1489702"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dogs</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Cohen, Randy</person>
+        <person class="indexing_service">Lellis, Annette</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dogs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE6D7133FF93BA25756C0A9659C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ethicist</hl1>
+      </hedline>
+      <abstract>
+        <p>Annette Lellis letter argues ending old dog's life peacefully is more humane than putting it in shelter (May 4, The Ethicist)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This dog has lived with A.K.'s wife for what one can assume is all its life. To take it away from the only person and family it knows and to put it in a shelter where it will be confined to a cage for very likely the rest of its life is heartbreaking and is certainly much more inhumane than peacefully ending its life in the familiar, if not very comforting, office of its veterinarian.</p>
+        <p>Annette Lellis  Brooklyn Heights, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>This dog has lived with A.K.'s wife for what one can assume is all its life. To take it away from the only person and family it knows and to put it in a shelter where it will be confined to a cage for very likely the rest of its life is heartbreaking and is certainly much more inhumane than peacefully ending its life in the familiar, if not very comforting, office of its veterinarian.</p>
+        <p>Annette Lellis  Brooklyn Heights, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

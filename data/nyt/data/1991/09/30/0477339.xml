@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lennar Corp. reports earnings for Qtr to Aug 31</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="477339"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6D6153BF933A0575AC0A967958260" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lennar Corp. reports earnings for Qtr to Aug 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Lennar Corp. (NYSE)</p>
+        <p>Qtr to Aug 31</p>
+        <p>1991</p>
+        <p>1990</p>
+        <p>Revenue</p>
+        <p>80,545,000</p>
+        <p>87,648,000</p>
+        <p>Net inc</p>
+        <p>5,237,000</p>
+        <p>3,254,000</p>
+        <p>Share earns</p>
+        <p>.52</p>
+        <p>.32</p>
+        <p>9mo rev</p>
+        <p>226,410,000</p>
+        <p>255,611,000</p>
+        <p>Net inc</p>
+        <p>15,423,000</p>
+        <p>10,263,000</p>
+        <p>Share earns</p>
+        <p>1.54</p>
+        <p>1.02</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THEATER IN REVIEW</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="730247"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">MILLER, TIM</person>
+        <person class="indexing_service">BRANTLEY, BEN</person>
+        <object.title class="indexing_service">NAKED BREATH (PLAY)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D71039F933A25751C1A962958260" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THEATER IN REVIEW</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN BRANTLEY</byline>
+      <byline class="normalized_byline">BRANTLEY, BEN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Celebrating Oneself And One's Road Through Life  'Naked Breath' Performance Space 122</p>
+      </block>
+      <block class="full_text">
+        <p>Celebrating Oneself And One's Road Through Life  'Naked Breath' Performance Space 122</p>
+        <p>In an age in which promiscuity has come under stigmatizing fire, Tim Miller, best known as one of four performance artists whose grants were revoked by the National Endowment for the Arts in 1990, remains a defiant, sunny cheerleader for sexual experimentation as a means of exploring and confirming gay identity.</p>
+        <p>In "Naked Breath," his autobiographical solo work at Performance Space 122 (150 First Avenue, at 10th Street, East Village) through Dec. 18, he intones the words "safe sex" as though they began a Te Deum. And throughout the piece, with which he has toured the country, he pursues the idea of the intersection of the spiritual and the carnal, wherein erotic encounters become revelatory, like "the magic decoder ring at the bottom of the box of Cracker Jacks."</p>
+        <p>Two such encounters, which took place a decade apart on the same street in the East Village, form the axis of the work. The performer takes a connection-forging journey from his early days as a carpenter in Manhattan, extrapolates that "we all have a street inside us, a place where things happen" and, as usual, takes off his clothes.</p>
+        <p>Mr. Miller, who has the lithe-bodied, adolescent exuberance of a dancer from "West Side Story," works overtime drawing broader patterns from personal experience, turning images of blood and semen into poetic prophecy. There's no denying the emotional vitality of the piece, but its lyrical text, which places a Whitmanesque emphasis on a democracy of desire, can seem strained, stale and curiously abstract. (The descriptions of sex are as enthusiastic and generic as passages from pulp romances.) "Naked Breath" lacks the originality and specificity of detail and language to lift it beyond the status of sermon, though this evangelist's kinetic charm goes a fair distance in camouflaging the fact.  BEN BRANTLEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bells of Christmas</title>
+    <meta content="17BTW.$03" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1256105"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BY THE WAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFD61E3FF934A25751C1A9669C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bells of Christmas</hl1>
+      </hedline>
+      <byline class="print_byline">By SAM LUBELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For more than 25 years the Bedford Bellringers, an English handbell choir,  has been performing Christmas concerts at the John Jay Homestead Historic Site in Katonah. They will be back today for programs at 1:30 and 3:30 p.m.</p>
+        <p>''People just love this concert,'' the choir's co-director, Heidi Michaels, said. ''I'm always really touched that people take the time out to see us.''</p>
+      </block>
+      <block class="full_text">
+        <p>For more than 25 years the Bedford Bellringers, an English handbell choir,  has been performing Christmas concerts at the John Jay Homestead Historic Site in Katonah. They will be back today for programs at 1:30 and 3:30 p.m.</p>
+        <p>''People just love this concert,'' the choir's co-director, Heidi Michaels, said. ''I'm always really touched that people take the time out to see us.''</p>
+        <p>During the concerts, choir members will talk about the techniques of playing the handbells, like shaking, using mallets and tapping the bells on tables. They will also discuss the history of bell ringing.</p>
+        <p>Afterward, audience members will be invited to take a close-up look at the bells, which range in size from a few ounces to more than 10 pounds. The bells were all made by the Whitechapel Bell Foundry in London, the same company that made the Liberty Bell.</p>
+        <p>The concerts take place in the grand ballroom of the house, which seats 150. For reservations and information, call (914) 232-5651.</p>
+        <p>SAM LUBELL</p>
+        <p>BY THE WAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ALBOM, EDWARD</title>
+    <meta content="DN091403" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1519735"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">ALBOM, EDWARD</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2DD1F3BF937A2575AC0A9659C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ALBOM, EDWARD</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALBOM--Edward. The Service Guild Long Island Jewish Medical Center, wishes to extend to Isabel, President of the Guild, and the entire Albom family, its sincere condolences.</p>
+        <p>ALBOM -- Edwin. Beloved husband of Isabel, loving father of Larry and Jody, Barbara, Jerry and Jennifer, and John and Jane. Proud grandfather of Alexa, Danielle, Jordan, Zachary, Siva, Benjamin and Zoe, passed away September 12, 2003. Ed was a retired engineer who served as an executive in the construction industry for nearly 50 years. A past president of Shelter Rock Jewish Center, a mentor at SCORE, and a devoted member of the Democratic party. Funeral services will be held at Shelter Rock Jewish Center, Roslyn, NY. Please call Riverside Memorial Chapel for further information; 212-362-6600.</p>
+      </block>
+      <block class="full_text">
+        <p>ALBOM--Edward. The Service Guild Long Island Jewish Medical Center, wishes to extend to Isabel, President of the Guild, and the entire Albom family, its sincere condolences.</p>
+        <p>ALBOM -- Edwin. Beloved husband of Isabel, loving father of Larry and Jody, Barbara, Jerry and Jennifer, and John and Jane. Proud grandfather of Alexa, Danielle, Jordan, Zachary, Siva, Benjamin and Zoe, passed away September 12, 2003. Ed was a retired engineer who served as an executive in the construction industry for nearly 50 years. A past president of Shelter Rock Jewish Center, a mentor at SCORE, and a devoted member of the Democratic party. Funeral services will be held at Shelter Rock Jewish Center, Roslyn, NY. Please call Riverside Memorial Chapel for further information; 212-362-6600.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

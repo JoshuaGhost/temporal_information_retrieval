@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="753531"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D71F3CF934A35757C0A963958260" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ARJO WIGGINS APPLETON, London, a pulp and paper maker, said its U.S. Appleton Papers Inc. unit has a joint venture with Ponderosa Fibres of America Inc., Baltimore, a producer of de-inked pulp, to build a $190 million recycled fiber pulp mill in the United States. MAGIC RESTAURANTS INC., Yonkers, which operates a chain of restaurants, and 17 of its subsidiaries filed for Chapter 11 bankruptcy protection in Delaware, to restructure all its debt.</p>
+      </block>
+      <block class="full_text">
+        <p>ARJO WIGGINS APPLETON, London, a pulp and paper maker, said its U.S. Appleton Papers Inc. unit has a joint venture with Ponderosa Fibres of America Inc., Baltimore, a producer of de-inked pulp, to build a $190 million recycled fiber pulp mill in the United States. MAGIC RESTAURANTS INC., Yonkers, which operates a chain of restaurants, and 17 of its subsidiaries filed for Chapter 11 bankruptcy protection in Delaware, to restructure all its debt.</p>
+        <p>STARBUCKS CORP., Seattle, a wholesale and retail coffee company, said it planned to open at least 110 more stores by the end of September, when its fiscal year ends.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

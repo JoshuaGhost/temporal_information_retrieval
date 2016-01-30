@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Relative Value Of the Chief Executive</title>
+    <meta content="LTR220119" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1555362"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <classifier class="indexing_service" type="descriptor">Corporations</classifier>
+        <person class="indexing_service">Wilson, Gregg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2D71E38F932A35751C0A9629C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Relative Value Of the Chief Executive</hl1>
+      </hedline>
+      <abstract>
+        <p>Gregg Wilson letter says executive pay is issue between executives and owners of business, and problem is that corporate owners, shareholders, are not being represented in negotiations</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Explaining (or Not) Why the Boss Is Paid So Much,'' (Market Watch, Jan. 25), which noted how the pay of American chief executives might be hundreds of times that of the average hourly worker:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Explaining (or Not) Why the Boss Is Paid So Much,'' (Market Watch, Jan. 25), which noted how the pay of American chief executives might be hundreds of times that of the average hourly worker:</p>
+        <p>The level of executive pay has nothing to do with the compensation of other workers. It is an issue between the executives and the owners of the business. The problem with our corporate structure is that the owners of the business are not being represented in the negotiations. Instead, we have allowed the executive class to set its own compensation, partly through control of boards.</p>
+        <p>There is an obvious solution. Require shareholders to approve executive compensation packages in the annual proxy vote. And require it at all companies -- not just those where the C.E.O. makes more than 100 times the average worker's pay, as a fund company chairman proposed in the article.</p>
+        <p>If shareholders reject the package, executives would receive their previous salary without option grants, other special monetary benefits or golden parachutes until a new vote was taken.</p>
+        <p>Gregg Wilson  Cos Cob, Conn., Jan. 26</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

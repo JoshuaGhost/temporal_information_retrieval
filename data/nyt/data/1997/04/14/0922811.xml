@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Meditrust to Buy Santa Anita Companies</title>
+    <meta content="14BUY" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="922811"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Santa Anita Cos</org>
+        <org class="indexing_service">Meditrust</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970414T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E5D81F3CF937A25757C0A961958260" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Meditrust to Buy Santa Anita Companies</hl1>
+      </hedline>
+      <abstract>
+        <p>Meditrust will merge with Santa Anna Companies in order to broaden its scope from owning real estate to operating businesses; stock swap will be tax-free transaction valued at $383 million (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Meditrust, the nation's largest health care real estate investment trust, said yesterday that it would merge with another trust in order to broaden its scope from owning real estate to operating businesses.</p>
+        <p>In the deal, a tax-free transaction valued at $383 million, 0.83 Meditrust shares would be exchanged for each share of the Santa Anita Companies.</p>
+      </block>
+      <block class="full_text">
+        <p>Meditrust, the nation's largest health care real estate investment trust, said yesterday that it would merge with another trust in order to broaden its scope from owning real estate to operating businesses.</p>
+        <p>In the deal, a tax-free transaction valued at $383 million, 0.83 Meditrust shares would be exchanged for each share of the Santa Anita Companies.</p>
+        <p>The deal would allow Meditrust, based in Needham Heights, Mass., to expand its focus. Instead of simply owning the land and buildings of hospitals and other facilities, the unusual tax status of Santa Anita would allow Meditrust to operate those businesses, Abraham D. Gosman, Meditrust's chief executive, said.</p>
+        <p>Santa Anita, which operates a famous racetrack of the same name 20 miles east of Los Angeles, is one of four real estate investment trusts that can both be landlords and operate businesses, Mr. Gosman said.</p>
+        <p>Federal tax law requires real estate investment trusts to obtain 95 percent of their revenues from rental properties. Santa Anita is exempt from that rule because it did both before the law changed in 1979.</p>
+        <p>''We want to broaden our universe,'' Mr. Gosman said, adding that the deal will help Meditrust ''continue its historic performance in dividends.'' Meditrust, with $2.4 billion in assets, has raised its dividend for 45 consecutive quarters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

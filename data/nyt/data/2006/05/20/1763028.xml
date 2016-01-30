@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transformer Fire Clogs Traffic</title>
+    <meta content="20fire" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/05/20/sports/baseball/20fire.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1763028"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Grand Central Parkway (NYC)</location>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">New York Yankees</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+        <org class="online_producer">New York Yankees</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EFDA133EF933A15756C0A9609C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transformer Fire Clogs Traffic</hl1>
+        <hl2 class="online_headline">Transformer Fire Clogs Traffic</hl2>
+      </hedline>
+      <abstract>
+        <p>Transformer fire breaks out on Grand Central Parkway (NYC), creating traffic for baseball fans headed to see matchup between New York Mets and New York Yankees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A large transformer fire broke out yesterday on the Grand Central Parkway in Queens, shutting down parts of the highway and snarling traffic for hours as baseball fans headed to the Mets-Yankees game at Shea Stadium.</p>
+        <p>The fire started about 3 p.m. in a transformer vault at 167th Street in Kew Gardens, causing flames to reach a busy overpass nearby at the height of the afternoon commuter rush, fire officials said. At least three lanes were closed in both directions, and traffic had to be diverted to local streets for several hours as firefighters worked.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A large transformer fire broke out yesterday on the Grand Central Parkway in Queens, shutting down parts of the highway and snarling traffic for hours as baseball fans headed to the Mets-Yankees game at Shea Stadium.</p>
+      </block>
+      <block class="full_text">
+        <p>A large transformer fire broke out yesterday on the Grand Central Parkway in Queens, shutting down parts of the highway and snarling traffic for hours as baseball fans headed to the Mets-Yankees game at Shea Stadium.</p>
+        <p>The fire started about 3 p.m. in a transformer vault at 167th Street in Kew Gardens, causing flames to reach a busy overpass nearby at the height of the afternoon commuter rush, fire officials said. At least three lanes were closed in both directions, and traffic had to be diverted to local streets for several hours as firefighters worked.</p>
+        <p>No mass transit disruptions or injuries were reported, but a spokesman for the State Department of Transportation said the agency was trying to determine if the overpass had sustained any damage.</p>
+        <p>A Hazmat team was also called in to determine if the transformer contained asbestos or other toxic chemicals.</p>
+        <p>A spokeswoman for the transportation department said that the eastbound section of the parkway was reopened by the end of the game. But westbound lanes remained closed while investigators inspected the overpass, and it was unclear when they would reopen.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

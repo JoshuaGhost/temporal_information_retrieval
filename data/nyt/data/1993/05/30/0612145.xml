@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa D. Bing, C. Kenneth Ewell</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="612145"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BING, LISA DANIELLE (LISA DANIELLE EWELL)</person>
+        <person class="indexing_service">EWELL, C. KENNETH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEED8143DF933A05756C0A965958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa D. Bing, C. Kenneth Ewell</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lisa Danielle Bing, a daughter of Mr. and Mrs. William Bing of Harrisburg, Pa., was married yesterday to C. Kenneth Ewell, a son of Mr. and Mrs. Clarence Ewell of Miami. The Rev. John A. Ferguson performed the Baptist ceremony at the Mill Creek Farm in Buckingham, Pa.</p>
+        <p>Mrs. Ewell is a computer systems consultant with Andersen Consulting in Florham Park, N.J. She graduated from Northwestern University and received an M.B.A. degree from New York University. Her father retired as the manager of operations at Fedway Associates, a wholesale wine and liquor distributor in Kearny, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Lisa Danielle Bing, a daughter of Mr. and Mrs. William Bing of Harrisburg, Pa., was married yesterday to C. Kenneth Ewell, a son of Mr. and Mrs. Clarence Ewell of Miami. The Rev. John A. Ferguson performed the Baptist ceremony at the Mill Creek Farm in Buckingham, Pa.</p>
+        <p>Mrs. Ewell is a computer systems consultant with Andersen Consulting in Florham Park, N.J. She graduated from Northwestern University and received an M.B.A. degree from New York University. Her father retired as the manager of operations at Fedway Associates, a wholesale wine and liquor distributor in Kearny, N.J.</p>
+        <p>Mr. Ewell is a manager at Bell Atlantic in Philadelphia. He graduated from Hampton University. His mother, Arcie Ewell, is the dean of administration for Miami-Dade Community College in Miami. His father is the Dade County, Florida, corrections administrator in Miami.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

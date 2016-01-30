@@ -26,15 +26,20 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 import model.ResultDoc;
+import model.SampleDataPost;
+import model.XmlDocAdapter;
+import model.XmlPostNodeAdapter;
+import controler.MyFileFilters;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.filefilter.TrueFileFilter;
 
 public class LuceneRetriever {
 
-	private int build(String indexPath, String dataDir) throws Exception {
+	public int build(String indexPath, String dataPath) throws Exception {
 		Directory indexDir = FSDirectory.open(Paths.get(indexPath));
 
 		Analyzer analyzer = new StandardAnalyzer();
@@ -44,60 +49,34 @@ public class LuceneRetriever {
 
 		IndexWriter indexWriter = new IndexWriter(indexDir, cfg);
 
-		File fd = new File(dataDir);
-		for (File file:fd.listFiles()) {
-			model.XmlDoc xd = new model.XmlDoc(file);
-			NodeList docs = xd.getElementsByTagName("doc");
+		File fd = new File(dataPath);
+		for (File file : FileUtils.listFiles(fd, new MyFileFilters(), TrueFileFilter.INSTANCE)) {
+			System.out.println(file.getName());
+			XmlDocAdapter xd = (XmlDocAdapter) new model.SampleDataDoc(file);
+			NodeList posts = xd.getPostsNodeList();
 
-			for (int docnum = 0; docnum<docs.getLength(); docnum++) {
-				Node doc = docs.item(docnum);
-				Document indexedDoc = new Document();
+			for (int postnum = 0; postnum < posts.getLength(); postnum++) {
+				XmlPostNodeAdapter post = (XmlPostNodeAdapter) new SampleDataPost(posts.item(postnum));
+				Document currentDoc = new Document();
 
-				indexedDoc.add(new StringField("filename", file.getName(), Field.Store.YES));
-				indexedDoc.add(new StringField("fullpath", file.getCanonicalPath(),	Field.Store.YES));
-
-				Node metaInfoNode = doc.getFirstChild();
-				//because of format of the input data, the first child of 
-				//each doc is \n or null, instead of meta-info
-				while (metaInfoNode.getNodeType() != Node.ELEMENT_NODE) {
-					metaInfoNode = metaInfoNode.getNextSibling();
-				}
-				Node childOfMetaInfoNode = metaInfoNode.getFirstChild();
-
-				while (childOfMetaInfoNode.getNextSibling() != null) {
-					childOfMetaInfoNode = childOfMetaInfoNode.getNextSibling();
-					if (childOfMetaInfoNode.getNodeType() == Node.ELEMENT_NODE) {
-						Element childElement = (Element) childOfMetaInfoNode;
-						if (childElement.getAttribute("name").equals("date")) {
-							indexedDoc.add(new StringField("date",
-									childElement.getFirstChild().getNodeValue(),
-									Field.Store.YES));
-						} else if (childElement.getAttribute("name").equals("title")) {
-							indexedDoc.add(new StringField("title",
-									childElement.getFirstChild().getNodeValue(),
-									Field.Store.YES));
-						}
-					}
-				}
-
-				Node textNode = metaInfoNode.getNextSibling();
-				while (textNode.getNodeType() != Node.ELEMENT_NODE) {
-					textNode = textNode.getNextSibling();
-				}
-				indexedDoc.add(new TextField("text",
-						textNode.getTextContent(),
-						Field.Store.YES));
-				indexWriter.addDocument(indexedDoc);
+				currentDoc.add(new StringField("filename", 	file.getName(), 							Field.Store.YES));
+				currentDoc.add(new StringField("fullpath", 	file.getCanonicalPath(), 	Field.Store.YES));
+				currentDoc.add(new StringField("date", 			post.getDate(),   					Field.Store.YES));
+				currentDoc.add(new StringField("title",			post.getTitle(),  					Field.Store.YES));
+				
+				currentDoc.add(new TextField("content",post.getContent(),Field.Store.NO));
 			}
 		}
 		int numDocs = indexWriter.numDocs();
+		indexWriter.commit();
 		indexWriter.close();
-		return numDocs;		
+		return numDocs;
 	}
 
-
-	public List<model.ResultDoc> search(String indexPath, String queryString, int numTopDocs) throws ParseException, IOException {
-		Directory indexDir =  FSDirectory.open(Paths.get(indexPath));
+	public List<model.ResultDoc> search(String indexPath, String queryString, int numTopDocs)
+	        throws ParseException, IOException {
+		Directory indexDir = FSDirectory.open(Paths.get(indexPath));
+		System.out.println(indexPath);
 		IndexReader indexReader = DirectoryReader.open(indexDir);
 
 		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
@@ -108,16 +87,15 @@ public class LuceneRetriever {
 		ScoreDoc[] sds = tds.scoreDocs;
 		System.out.println(indexSearcher.explain(query, 1).toHtml());
 		System.out.println(sds.length);
-		System.out.println(tds.getMaxScore()-sds[sds.length-1].score);
+		System.out.println(tds.getMaxScore() - sds[sds.length - 1].score);
 		List<model.ResultDoc> res = new ArrayList<model.ResultDoc>();
-		for (ScoreDoc sd:sds) {
+		for (ScoreDoc sd : sds) {
 			Document d = indexSearcher.doc(sd.doc);
 			res.add(new ResultDoc(d.get("title"), d.get("date"), d.get("text")));
 		}
 		indexReader.close();
 		return res;
 	}
-
 
 	public void excute(String[] argv) throws Exception {
 
@@ -137,7 +115,7 @@ public class LuceneRetriever {
 			break;
 
 		case "search":
-			//search(indexPath, argv[2], Integer.valueOf(argv[3]));
+			// search(indexPath, argv[2], Integer.valueOf(argv[3]));
 			break;
 
 		case "exit":
@@ -146,22 +124,22 @@ public class LuceneRetriever {
 		}
 	}
 
-	public Hashtable<String, Integer> temporalTrend(String query, String indexPath,
-			String startTime, String endTime) throws ParseException, IOException {
+	public Hashtable<String, Integer> temporalTrend(String query, String indexPath, String startTime, String endTime)
+	        throws ParseException, IOException {
 		Hashtable<String, Integer> trend = new Hashtable<String, Integer>();
 		List<model.ResultDoc> resultDocs = null;
-		//String indexPath = "E:\\Users\\Assassin\\workspace\\temporal_information_retrieval\\indexes";
+		// String indexPath =
+		// "E:\\Users\\Assassin\\workspace\\temporal_information_retrieval\\indexes";
 		resultDocs = search(indexPath, query, 1000);
 		for (model.ResultDoc resultDoc : resultDocs) {
-			//"2011-08-13".compareTo("2011-08-14") == -1
-			if ((resultDoc.getDate().compareTo(startTime)  >= 0) &
-					(resultDoc.getDate().compareTo(endTime)<= 0)) {
+			// "2011-08-13".compareTo("2011-08-14") == -1
+			if ((resultDoc.getDate().compareTo(startTime) >= 0) & (resultDoc.getDate().compareTo(endTime) <= 0)) {
 				String[] date = resultDoc.getDate().split("-");
 				if (date == null) {
 					break;
 				}
-				String month = date[0]+"-"+date[1];
-				if (trend.get(month) == null){
+				String month = date[0] + "-" + date[1];
+				if (trend.get(month) == null) {
 					trend.put(month, 1);
 					continue;
 				}

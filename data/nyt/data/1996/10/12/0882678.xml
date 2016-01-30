@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TV Inquiry Is Needed</title>
+    <meta content="LVACCO$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="882678"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Cable Television</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Time Warner Corp</org>
+        <org class="indexing_service">Turner Broadcasting System Inc</org>
+        <person class="indexing_service">Vacco, Dennis (Atty Gen)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cable Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DE103EF931A25753C1A960958260" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TV Inquiry Is Needed</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by New York Atty Gen Dennis Vacco rebuts recent editorial positions with regard to his office and Time Warner-Turner Broadcasting merger; says his office began investigation to make sure Time Warner does not deprive New Yorkers of access to independent programming (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Oct. 9 editorial (''Cable Interference'') on my involvement in the proposed merger between Time Warner and Turner Broadcasting System ignores your earlier views on the issue.</p>
+        <p>In a Sept. 19 editorial, ''Misgivings Over a Media Merger,'' you contended that the Time Warner deal, which gives control of a wide array of broadcast and news reporting facilities to a single conglomerate, ''will offer consumers no major benefit and could in fact harm them'' because it ''might well lead to higher cable prices and a smaller choice of programs.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Oct. 9 editorial (''Cable Interference'') on my involvement in the proposed merger between Time Warner and Turner Broadcasting System ignores your earlier views on the issue.</p>
+        <p>In a Sept. 19 editorial, ''Misgivings Over a Media Merger,'' you contended that the Time Warner deal, which gives control of a wide array of broadcast and news reporting facilities to a single conglomerate, ''will offer consumers no major benefit and could in fact harm them'' because it ''might well lead to higher cable prices and a smaller choice of programs.''</p>
+        <p>The current investigation of Time Warner was initiated by my office to make sure that the company does not deprive New Yorkers of access to independent programming available elsewhere. As the state's principal enforcer of antitrust and consumer protection laws, I am obligated to investigate possible violations.</p>
+        <p>Contrary to your assertion that my office ''until now . . . never displayed much interest in cable programming,'' Time Warner has long been a concern because of its potential monopoly on news and entertainment.</p>
+        <p>DENNIS  C. VACCO</p>
+        <p>Albany, Oct. 9, 1996</p>
+        <p>Attorney General, New York State</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

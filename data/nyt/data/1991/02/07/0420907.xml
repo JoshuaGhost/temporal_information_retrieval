@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cascade Natural Gas Corp. reports earnings for Qtr to Dec 31</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="420907"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6D6163DF934A35751C0A967958260" item-length="49" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cascade Natural Gas Corp. reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Cascade Natural Gas Corp. (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Revenue</p>
+        <p>50,332,000</p>
+        <p>50,026,000</p>
+        <p>Net inc</p>
+        <p>4,202,000</p>
+        <p>2,547,000</p>
+        <p>Share earns</p>
+        <p>.95</p>
+        <p>.58</p>
+        <p>Yr rev</p>
+        <p>160,515,000</p>
+        <p>173,486,000</p>
+        <p>Net inc</p>
+        <p>8,376,000</p>
+        <p>8,482,000</p>
+        <p>Share earns</p>
+        <p>1.89</p>
+        <p>1.93</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

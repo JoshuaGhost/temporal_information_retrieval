@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Computer Screen For Your Eyes Only</title>
+    <meta content="04PARTY" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1339696"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="RESPONSIBLE PARTY/ALFRED HILDEBRAND"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Inviso Inc</org>
+        <person class="indexing_service">Hildebrand, Alfred</person>
+        <person class="indexing_service">Carroll, Kathleen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2DA1639F937A35752C1A9679C8B63" item-length="387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Computer Screen For Your Eyes Only</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHLEEN CARROLL</byline>
+      <byline class="normalized_byline">Carroll, Kathleen</byline>
+      <abstract>
+        <p>Inviso Inc will soon introduce eShades, computer display that looks like pair of oversized sunglasses; Alfred Hildebrand, developer and co-founder of Inviso, comments; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IF you use a laptop computer while traveling, other people may be looking over your shoulder. But eShades, which look like a pair of oversized sunglasses, let you switch off the laptop monitor and view sensitive material privately. And to the outside world, you might just look like Joe Cool.</p>
+        <p>When plugged into a laptop, eShades offer a large-screen viewing experience: the images look as if they are on a 19-inch monitor two and a half feet away.</p>
+      </block>
+      <block class="full_text">
+        <p>IF you use a laptop computer while traveling, other people may be looking over your shoulder. But eShades, which look like a pair of oversized sunglasses, let you switch off the laptop monitor and view sensitive material privately. And to the outside world, you might just look like Joe Cool.</p>
+        <p>When plugged into a laptop, eShades offer a large-screen viewing experience: the images look as if they are on a 19-inch monitor two and a half feet away.</p>
+        <p>Alfred Hildebrand, the chairman of the eShades maker, Inviso Inc., a privately held company in Sunnyvale, Calif., has founded or worked with several companies involved in laser or optical technology. He was a co-founder of InViso in 1994, when he was a venture capital investor.</p>
+        <p>To combine the benefits of the fax machine and his pager's portability, Mr. Hildebrand developed small screens to allow a pager to receive a fax message. As portable communications devices proliferated, he then redesigned the displays for personal digital assistants and laptop computers. Mr. Hildebrand produced a final eShades prototype in May 2000. The glasses will be sold starting early next year.</p>
+        <p>The displays in eShades work much like traditional laptop displays. Liquid crystal is sandwiched between two pieces of glass, and a silicon chip imbedded in the glass transmits electronic signals that cue the crystal to create the desktop image. The flat-panel liquid crystal display is about an inch from each eye; an optical magnifier creates the feeling of a large display. ''It's like looking at a big-screen TV,'' Mr. Hildebrand said. Because the lighted image is so small, the battery uses only about a quarter of the power of conventional laptop displays.</p>
+        <p>EShades, which weigh about twice as much as regular sunglasses, will cost about $500, but Mr. Hildebrand expects the price to drop to about $300 ''sometime later on,'' he said.</p>
+        <p>KATHLEEN CARROLL</p>
+        <p>RESPONSIBLE PARTY/ALFRED HILDEBRAND</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

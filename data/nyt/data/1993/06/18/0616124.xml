@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Daylight for Dark Angel</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="616124"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TENNIS</classifier>
+        <org class="indexing_service">SAFE PASSAGE FOUNDATION</org>
+        <person class="indexing_service">ASHE, ARTHUR</person>
+        <person class="indexing_service">MCENROE, JOHN</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D71E3CF93BA25755C0A965958260" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Daylight for Dark Angel</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arthur Ashe's dark angel stepped into the light yesterday. JOHN McENROE, whose trademark on-court outbursts had provided Ashe a vicarious outlet for his own repressed feelings, announced that he had taken his friend's place as chairman and chief angel of Ashe's favorite children's charity.</p>
+        <p>"Arthur and I had a closer relationship than people realized," McEnroe said as he accepted responsibility for the Safe Passage Foundation, the Newark-based project Ashe had established in 1990 to use tennis instruction and personal counseling to keep inner-city children in school.</p>
+      </block>
+      <block class="full_text">
+        <p>Arthur Ashe's dark angel stepped into the light yesterday. JOHN McENROE, whose trademark on-court outbursts had provided Ashe a vicarious outlet for his own repressed feelings, announced that he had taken his friend's place as chairman and chief angel of Ashe's favorite children's charity.</p>
+        <p>"Arthur and I had a closer relationship than people realized," McEnroe said as he accepted responsibility for the Safe Passage Foundation, the Newark-based project Ashe had established in 1990 to use tennis instruction and personal counseling to keep inner-city children in school.</p>
+        <p>Ashe, who died of AIDS in February, had noted the strength of their friendship in his new book, "Days of Grace," describing McEnroe as "a kind of darker angel to my own tightly restrained spirit."</p>
+        <p>In agreeing to provide a continuing outlet for Ashe's charitable impulses, McEnroe, who has generally been secretive about his own philanthropic activities, made clear he will be more than a fund raiser.</p>
+        <p>SPORTS PEOPLE: TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

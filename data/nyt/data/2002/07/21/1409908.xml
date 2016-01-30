@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Question Of Accounting Has No Easy Answer</title>
+    <meta content="21VIEW$04" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/21/business/yourmoney/21VIEW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1409908"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="ECONOMIC VIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Fringe Benefits</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="indexing_service" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <person class="indexing_service">Altman, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic View</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Accounting</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stock Options and Purchase Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fringe Benefits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Securities and Exchange Commission</org>
+        <org class="online_producer">Financial Accounting Standards Board</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E2DF1139F932A15754C0A9649C8B63" item-length="785" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Question Of Accounting Has No Easy Answer</hl1>
+        <hl2 class="online_headline">A Question of Accounting Has No Easy Answer</hl2>
+      </hedline>
+      <byline class="print_byline">By DANIEL ALTMAN</byline>
+      <byline class="normalized_byline">Altman, Daniel</byline>
+      <abstract>
+        <p>Daniel Altman Economic View column notes extreme difficulty of evaluating stock options granted by companies to their employees because of options' long lifespan; cites ramifications of various accounting treatments of these options in company financial statements and, hence, on investors and investment capital; graph of value of options granted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WASHINGTON and Wall Street are buzzing with speculation that companies may soon be required to treat stock options as expenses. The options are worth something, because they give employees a chance to buy company stock at a discount in the future. Calling them expenses, of course, would take a bite out of reported earnings. Yet much of the debate has lacked careful consideration of the question that matters most: How would the decision affect the economy as a whole?</p>
+        <p>Economists' knee-jerk answer is ''not at all.'' Companies have been offering options as compensation for years. One has only to read and understand the footnotes in reports by publicly traded companies to the Securities and Exchange Commission to learn how many options were granted in a year. Simply calling the options expenses changes the accountant's bottom line, economists say, but it doesn't change the economic bottom line. There is no free lunch; investors should know that the company will bear the cost of the options either way.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Simply calling stock options expenses changes the accountant's bottom line, economists say, but it doesn't change the economic bottom line.</p>
+      </block>
+      <block class="full_text">
+        <p>WASHINGTON and Wall Street are buzzing with speculation that companies may soon be required to treat stock options as expenses. The options are worth something, because they give employees a chance to buy company stock at a discount in the future. Calling them expenses, of course, would take a bite out of reported earnings. Yet much of the debate has lacked careful consideration of the question that matters most: How would the decision affect the economy as a whole?</p>
+        <p>Economists' knee-jerk answer is ''not at all.'' Companies have been offering options as compensation for years. One has only to read and understand the footnotes in reports by publicly traded companies to the Securities and Exchange Commission to learn how many options were granted in a year. Simply calling the options expenses changes the accountant's bottom line, economists say, but it doesn't change the economic bottom line. There is no free lunch; investors should know that the company will bear the cost of the options either way.</p>
+        <p>Unfortunately, it's not quite that simple. Even though the information is readily available, not everyone puts in the time and effort to read all the footnotes.</p>
+        <p>Robert Willens, a managing director specializing in taxes and accounting at Lehman Brothers, was surprised at how few of the specifics his clients knew. ''They weren't quite as familiar with the procedures and the amounts as I thought they might have been,'' he said. ''I'm finding that they weren't familiar with the footnote or they weren't aware of the information.''</p>
+        <p>To the extent that investors are surprised by the amount of options that companies grant, those companies would indeed suffer reversals. The investors would lower their expectations for earnings, and share prices could take a one-time hit. That could limit companies' ability to grow by acquisition.</p>
+        <p>That said, the hit might not be very big. Mr. Willens does not expect companies to dole out fewer options, he said, because they would still cost slightly less than grants of stock. ''Even expensing, you still get something of a break compared with other forms of compensation,'' he said.</p>
+        <p>Without a change in compensation, employees still have an incentive to work hard, leaving a company's prospects intact. There would be no reason for share prices to fall. Investors would then see price-to-earnings ratios rise, but with no cause for concern.</p>
+        <p>This still sounds fairly rosy, but there's one more fly in the ointment. Figuring out how much those options are worth is downright difficult, and it could open the door to more problems.</p>
+        <p>Mark Rubinstein, a finance professor at the University of California at Berkeley, explained it this way: To figure the value of an option when it's granted, you have to estimate the company's future ability to generate dividends and the volatility of its share price. These tasks are manageable for the kind of short-lived options that trade like wildfire in over-the-counter derivatives markets, but they're not at all easy for the sort of long-term options companies use to pay their employees.</p>
+        <p>''The percentage error that you make in dividends isn't too important for a short-lived option, but for a long-lived option it affects the value much more,'' Professor Rubinstein said.</p>
+        <p>In the case of volatility, he added, ''if you go out longer, of course it gets harder to estimate.'' The combination of these problems means that two people, using the same formula for an option's value but with varying assumptions, would reach different estimates.</p>
+        <p>THAT kind of uncertainty could make investors less willing to invest, which could ultimately reduce the amount of capital available to a company. Companies in need of capital to grow might shy away from options and remove performance incentives from pay packages. Workers might put in less effort, reducing productivity and slowing the rate of economic growth.</p>
+        <p>One way to encourage a company to get the options valuation right, Professor Rubinstein said, is to bind it to its mistakes. A company would have to declare as an expense its estimate of an option's value on the date an employee could exercise it and buy the stock. If the guess proved too low, the company would have to book extra expenses to make up the difference.</p>
+        <p>This solution could lead to some pretty complicated accounting. Any alternative, though, could be better than the present situation. As Robert H. Herz, the new chairman of the Financial Accounting Standards Board, put it, ''When you have accounting that masks reality, you're going to get all sorts of strange things happening.''</p>
+        <p>ECONOMIC VIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

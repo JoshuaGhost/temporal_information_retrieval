@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A. S. McWilliams, 77, Comic Strip Cartoonist</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597961"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">CARTOONS AND CARTOONISTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <person class="indexing_service">MCWILLIAMS, ALDEN S</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cartoons and Cartoonists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3D7163CF936A15750C0A965958260" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A. S. McWilliams, 77, Comic Strip Cartoonist</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alden S. McWilliams, a cartoonist and co-creator of the first black lead character in an American comic strip, died last Friday at a hospital in Stamford, Conn. He was 77 and a resident of Darien, Conn., and Eastham, Mass.</p>
+        <p>The cause was respiratory failure, his family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Alden S. McWilliams, a cartoonist and co-creator of the first black lead character in an American comic strip, died last Friday at a hospital in Stamford, Conn. He was 77 and a resident of Darien, Conn., and Eastham, Mass.</p>
+        <p>The cause was respiratory failure, his family said.</p>
+        <p>For 55 years, he drew and wrote for syndicated strips and comic books. Noted for his realistic style, he won the Cartoonist Society's 1978 award as the Best Story Cartoonist.</p>
+        <p>In 1968 he and the writer John Saunders introduced Danny Raven as the black co-star of "Dateline: Danger," a strip about two reporters. Eventually other regular black roles began appearing on the previously segregated comic page, where they had been relegated to bit parts and stereotypes like cannibals.</p>
+        <p>The idea for a black-and-white pair originated with Mr. McWilliams's work on the "I Spy" comic book, based on the television serial's interracial cast of Bill Cosby and Robert Culp.</p>
+        <p>The comic books he worked on were Military Comics, Crack Comics, Airboy, Star Trek, The Wild West, Buck Rogers, Flash Gordon and He-Man. Among the syndicated strips, he was the co-producer of "Twin Earths" and also drew "Davy Jones," "Rip Kirby," "Curly Kayoe," "On Stage" and "Dan Flagg."</p>
+        <p>He served in the Army in World War II.</p>
+        <p>Surviving are his wife of 46 years, the former Ruth Jensen; two sons, Chris J., of Westford, Mass., and A. Richard, of Millbrook, N.Y.; a sister, Faith Dargay of Riverside, Conn., and four grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

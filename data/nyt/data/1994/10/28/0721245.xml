@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Interest Seen In Another Ziff Holding</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="721245"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <org class="indexing_service">ZIFF-DAVIS PUBLISHING CO</org>
+        <org class="indexing_service">FORSTMANN LITTLE &amp; CO</org>
+        <org class="indexing_service">INTERCHANGE ONLINE NETWORK</org>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E3DA133FF93BA15753C1A962958260" item-length="399" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Interest Seen In Another Ziff Holding</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The $1.4 billion sale of the Ziff-Davis Publishing Company to Forstmann Little &amp; Company yesterday still leaves three of the Ziff family's operations on the block, including the much-anticipated Interchange Online Network, an electronic publishing system.</p>
+        <p>Interchange, scheduled to begin final testing next week with more than 12,000 users nationwide, has been characterized as a new type of on-line information network whose technological capabilities go beyond those of America Online, Compuserve and Prodigy. Unlike those older services, Interchange was designed to take advantage of powerful, multimedia computers now available at relatively low cost.</p>
+      </block>
+      <block class="full_text">
+        <p>The $1.4 billion sale of the Ziff-Davis Publishing Company to Forstmann Little &amp; Company yesterday still leaves three of the Ziff family's operations on the block, including the much-anticipated Interchange Online Network, an electronic publishing system.</p>
+        <p>Interchange, scheduled to begin final testing next week with more than 12,000 users nationwide, has been characterized as a new type of on-line information network whose technological capabilities go beyond those of America Online, Compuserve and Prodigy. Unlike those older services, Interchange was designed to take advantage of powerful, multimedia computers now available at relatively low cost.</p>
+        <p>"There is interest from technology companies, publishing companies and from communications companies," said Michael Kolowich, president of Interchange, when asked to comment on potential buyers.</p>
+        <p>Bidding closed at 5 P.M. on Interchange and the other properties, and bidders were not identified.</p>
+        <p>"It's natural that the universe of interested buyers would be broader for Interchange than for the publishing company," Mr. Kolowich said, in part because of the lower price for the smaller companies and because so many companies were seeking a way to distribute information products and services electronically.</p>
+        <p>Because the buyer of Interchange would automatically get an advanced publishing system and a stable of known information providers, interest is expected to be especially keen from older on-line services that have struggled to update their aging systems. Potential bidders whose names have surfaced include H &amp; R Block Inc., which operates the Compuserve network, and Knight-Ridder Inc., which has been seeking to expand its electronic publishing.</p>
+        <p>One rumor circulating last night involved Rupert Murdoch's News Corporation, whose Delphi Internet Services Inc. is in the same neighborhood in Cambridge, Mass., as Interchange and is most in need of a quick facelift.</p>
+        <p>In preparation for the expected sale, Ziff executives forged a 10-year agreement that would link Interchange with the electronic content of Ziff's many computer magazines, developed by the Ziff-Davis Interactive division being sold to Forstmann Little.</p>
+        <p>The remaining divisions, which could be sold individually or together, include the Ziff-Davis Exposition and Conference Company and the Information Access Company, both of Foster City, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

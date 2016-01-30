@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wolfpack Strikes Quickly</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="835204"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">NORTH CAROLINA STATE UNIVERSITY</org>
+        <org class="indexing_service">FLORIDA STATE UNIVERSITY ATLANTICCOAST CONFERENCE</org>
+        <org class="indexing_service">FLORIDA STATE UNIVERSITY</org>
+        <org class="indexing_service">NORTH CAROLINA STATE UNIVERSITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E2D91F39F93BA35750C0A960958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wolfpack Strikes Quickly</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>GREENSBORO, N.C., March 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Danny Strong scored 10 of North Carolina State's points during a 19-0 game-opening run in the first round of the Atlantic Coast Conference tournament  as the Wolfpack handled Florida State, 80-65, tonight.</p>
+        <p>N.C. State (15-15) broke a six-game A.C.C. losing streak to advance to the quarterfinals Friday against top-seeded Georgia Tech.</p>
+      </block>
+      <block class="full_text">
+        <p>Danny Strong scored 10 of North Carolina State's points during a 19-0 game-opening run in the first round of the Atlantic Coast Conference tournament  as the Wolfpack handled Florida State, 80-65, tonight.</p>
+        <p>N.C. State (15-15) broke a six-game A.C.C. losing streak to advance to the quarterfinals Friday against top-seeded Georgia Tech.</p>
+        <p>Todd Fuller led N.C. State with 15 points. Florida State (13-14), which missed its first 10 shots, has now lost five straight A.C.C. post-season games and has not advanced past the quarterfinals in four seasons.</p>
+        <p>BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

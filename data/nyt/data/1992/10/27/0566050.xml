@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Classical Music in Review</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="566050"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">GOLDEN FLEECE LTD</org>
+        <person class="indexing_service">ROSS, ALEX</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDC113CF934A15753C1A964958260" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Classical Music in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX ROSS</byline>
+      <byline class="normalized_byline">ROSS, ALEX</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Golden Fleece Ltd.</p>
+        <p>Sanford Meisner Theater Chelsea</p>
+        <p>The staging of new music-theater works is a hazardous business. Golden Fleece Ltd. fought the odds by presenting three new pieces on Thursday night. Only one of them, "The Bear," by Peter Foley, could be judged successful on its own terms.</p>
+      </block>
+      <block class="full_text">
+        <p>Golden Fleece Ltd.</p>
+        <p>Sanford Meisner Theater Chelsea</p>
+        <p>The staging of new music-theater works is a hazardous business. Golden Fleece Ltd. fought the odds by presenting three new pieces on Thursday night. Only one of them, "The Bear," by Peter Foley, could be judged successful on its own terms.</p>
+        <p>The program began with "Wishing Bone," a ballet on Cree Indian poems by Thomas Fraioli. The poems were full of arresting images ("the moon will think you are the moon"), and Susanne Williams's choreography was vivid, but Mr. Fraioli's synthesized score seemed more suited to film or television than to live performance.</p>
+        <p>Mr. Foley's creation was a lively setting of the Chekhov play. The music had the imprint of vaudeville or cabaret, teasing absurdity from the text. Veronica Burke, a veteran of Golden Fleece productions, vibrantly impersonated Mme. Popov.</p>
+        <p>The second half of the evening was taken up by John David Earnest's chamber opera "A Desperate Waltz." While Mr. Earnest's score began promisingly with a skewy waltz in the manner of Schnittke, the fatigue of Mervyn Goldstein's libretto soon deadened the action. The plot was an operatic "Husbands and Wives," with two marriages dissolving and intertwining. Mr. Earnest's music had versatility and energy to spare, but no dramatic footing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

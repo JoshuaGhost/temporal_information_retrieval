@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Century and a Half of Hope</title>
+    <meta content="18SAT3$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/10/18/opinion/18SAT3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1528084"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Children's Aid Society</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <location class="online_producer">New York City</location>
+        <org class="online_producer">Children's Aid Society</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEEDB123EF93BA25753C1A9659C8B63" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Century and a Half of Hope</hl1>
+        <hl2 class="online_headline">A Century and a Half of Hope</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial on efforts of Children's Aid Society, which has worked for one hundred fifty years to improve lives of children in New York City; editorial notes that Society now helps 150,000 families every year</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One hundred and fifty years ago, the notion that street children could be rescued must have seemed out of reach. There were so many of them -- more than 10,000 in a city of fewer than a million inhabitants. The boys hawked newspapers to stay alive. The girls sang in the streets. Abuse of these children, orphaned or turned out of their homes by parents who could not afford them, was rampant.</p>
+        <p>Their plight led a group of reformers headed by Charles Loring Brace to form the Children's Aid Society. The agency first found homes for children, placing many on Midwestern farms. Over the years, while continuing to help the young and homeless, it also began to address the needs of families in the city's poorest communities. Inspired by the idealism of board members like Eleanor Roosevelt, the agency started innovative programs like free school lunches, parent-teacher associations, child care for working parents, visiting nurses and day school for disabled children.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Childrens Aid Society is committed to help, giving heart to young lives and the whole of the city.</p>
+      </block>
+      <block class="full_text">
+        <p>One hundred and fifty years ago, the notion that street children could be rescued must have seemed out of reach. There were so many of them -- more than 10,000 in a city of fewer than a million inhabitants. The boys hawked newspapers to stay alive. The girls sang in the streets. Abuse of these children, orphaned or turned out of their homes by parents who could not afford them, was rampant.</p>
+        <p>Their plight led a group of reformers headed by Charles Loring Brace to form the Children's Aid Society. The agency first found homes for children, placing many on Midwestern farms. Over the years, while continuing to help the young and homeless, it also began to address the needs of families in the city's poorest communities. Inspired by the idealism of board members like Eleanor Roosevelt, the agency started innovative programs like free school lunches, parent-teacher associations, child care for working parents, visiting nurses and day school for disabled children.</p>
+        <p>Today, the Children's Aid Society, a nonsectarian agency that is one of the oldest and largest in the nation, helps some 150,000 families every year at 38 locations citywide. It also provides medical and dental treatment for tens of thousands of poor and immigrant children. Philip Coltoff, the agency's chief executive, notes that while the composition of communities has changed, sometimes several times, over the years, the needs remain constant.</p>
+        <p>And as long as they do, the Children's Aid Society is committed to help, giving heart to young lives and the whole of the city.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

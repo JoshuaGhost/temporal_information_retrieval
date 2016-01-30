@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dow Rises 14.11 in a Sharp Turnaround</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="406221"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCK PRICES AND TRADING VOLUME</classifier>
+        <classifier class="indexing_service" type="descriptor">DOW JONES STOCK AVERAGE</classifier>
+        <person class="indexing_service">COLE, ROBERT J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D81138F936A35751C1A966958260" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dow Rises 14.11 in a Sharp Turnaround</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT J. COLE</byline>
+      <byline class="normalized_byline">COLE, ROBERT J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market came to life in the final half-hour of trading yesterday after unconfirmed reports that Iraq might be ready to leave Kuwait if certain conditions were met.</p>
+        <p>The Dow Jones industrial average had been moving sharply lower in slugglish trading for practically the entire day. But minutes after the Reuters news service carried the 3:28 P.M. report on Iraq, volume soared and the Dow bounced back sharply, ending the day at 2,579.70, up 14.11 points.</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market came to life in the final half-hour of trading yesterday after unconfirmed reports that Iraq might be ready to leave Kuwait if certain conditions were met.</p>
+        <p>The Dow Jones industrial average had been moving sharply lower in slugglish trading for practically the entire day. But minutes after the Reuters news service carried the 3:28 P.M. report on Iraq, volume soared and the Dow bounced back sharply, ending the day at 2,579.70, up 14.11 points.</p>
+        <p>Surprisingly, the price of crude oil, which has been moving in the opposite direction of stocks, also rose, climbing $1.51, to $30.66 a barrel.</p>
+        <p>Birinyi Associates, which monitors program trading, said that three minutes after the Mideast report, heavy waves of program buying lasting eight minutes lifted the Dow nearly 33 points. Heavy selling earlier in the day, however, trimmed the net gain for the day to 13 points. Data reported by the New York Stock Exchange show that program trading typically accounts for about 10 percent of activity.</p>
+        <p>Around the time of the Iraq report, the Dow was down more than 25 points. But as the news spread, it recovered almost instantly, posting its third advance in three sessions.</p>
+        <p>Airline stocks showed modest gains in the wake of the announcement Monday by Continental Airlines that it filed for bankruptcy protection. Banking stocks showed strong gains after the Federal Reserve eliminated reserve requirements on certain kinds of commercial bank deposits.</p>
+        <p>Trading volume grew from 177 million shares on Monday to 185.8 million yesterday, with more than 36 million coming in the final half-hour. Showing that the rise was fairly broad, 907 stocks advanced while only 639 fell. Moreover, 28 rose to new highs while 39 fell to new lows.</p>
+        <p>Among the financial stocks, the first three of the 10-most-active Big Board stocks were banking companies. The interest in First Chicago, No. 1 on the actives list with 9.2 million shares traded, and First Bank System of Minneapolis, No. 2 with 6.7 million shares, appeared to be related to collecting dividends and then reselling the stocks. First Chicago rose 1, to 18 3/4, while First Bank rose 7/8, to 13 3/4. Tokyo Stocks Rise</p>
+        <p>TOKYO, Wednesday, Dec. 5 (Reuters) -- Stocks in Tokyo were higher at midday today. The 225-share Nikkei index was up 246.33 points, or 1.1 percent, to 22,108.94.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

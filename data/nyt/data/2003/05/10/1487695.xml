@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="10TRANS" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1487695"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2D8153FF933A25756C0A9659C8B63" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Sports transactions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  DETROIT TIGERS--Purchased the contract of LHP Steve Avery from Toledo of the IL. Assigned RHP Matt Anderson to Toledo.  MINNESOTA TWINS--Activated INF Denny Hocking from the 15-day disabled list. Optioned OF Michael Cuddyer to Rochester of the IL.  TAMPA BAY DEVIL RAYS--Called up LHP John Rocker and INF Felix Escalona from Orlando of the Southern League and OF Jason Tyner from Durham of the IL. Activated LHP Jim Parque from the 15-day disabled list. Placed RHP Steve Parris on the 15-day disabled list. Optioned RHP Victor Zambrano to Durham. Designated 3B Chris Truby and OF George Lombard for assignment.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  DETROIT TIGERS--Purchased the contract of LHP Steve Avery from Toledo of the IL. Assigned RHP Matt Anderson to Toledo.  MINNESOTA TWINS--Activated INF Denny Hocking from the 15-day disabled list. Optioned OF Michael Cuddyer to Rochester of the IL.  TAMPA BAY DEVIL RAYS--Called up LHP John Rocker and INF Felix Escalona from Orlando of the Southern League and OF Jason Tyner from Durham of the IL. Activated LHP Jim Parque from the 15-day disabled list. Placed RHP Steve Parris on the 15-day disabled list. Optioned RHP Victor Zambrano to Durham. Designated 3B Chris Truby and OF George Lombard for assignment.</p>
+        <p>National League  CHICAGO CUBS--Traded RHP Alan Benes to the Texas Rangers for a player to be named.  FLORIDA MARLINS--Placed RHP Josh Beckett on the 15-day disabled list. Sent OF Gerald Williams outright to Albuquerque of the PCL. Purchased the contract of LHP Dontrelle Willis from Carolina of the Southern League. Recalled RHP Blaine Neal from Albuquerque.  HOUSTON ASTROS--Waived SS Julio Lugo.  SAN DIEGO PADRES--Placed RHP Adam Eaton on the 15-day disabled list, retroactive to May 5. Purchased the contract of LHP Roger Deago from Mobile of the SL. Transferred OF Phil Nevin from the 15- to the 60-day disabled list.  SAN FRANCISCO GIANTS--Placed OF Marvin Benard on the 15-day disabled list, retroactive to May 5. Optioned LHP Chad Zerbe to Fresno of the PCL. Recalled RHP Ryan Jensen and OF Jason Ellison from Fresno.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  BOSTON CELTICS--Named Danny Ainge head of basketball operations.  Women's Bational Basketball Association  SEATTLE STORM--Waived G Jamie Redd and G Felicia Ragland.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  MINNESOTA VIKINGS--Agree to terms with QB Daunte Culpepper on a 10-year contract extension.  NEW ENGLAND PATRIOTS--Signed S Aric Morris and KR Scott Farley.  ST. LOUIS RAMS--Announced the retirement of Rick Smith, vice president of public relations.  TAMPA BAY BUCCANEERS--Released WR Onome Ojo and WR Jermaine White.  Arena Football League  INDIANA FIREBIRDS--Signed QB Damian Phillips, WR-DB Tyrone Brown, and DS Malcom Moore from the practice squad.  LOS ANGELES AVENGERS--Signed OL/DL Oscar Sturgis.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  VANCOUVER CANUCKS--Assigned D Nolan Baumgartner and F Brandon Reid to Manitoba of the AHL.</p>
+        <p>COLLEGES</p>
+        <p>GEORGIA TECH--Announced freshman F Chris Bosh will enter the NBA draft.  MICHIGAN STATE--Announced freshman F Erazem Lorbek will enter the NBA draft.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

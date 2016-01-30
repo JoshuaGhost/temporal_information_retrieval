@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Menace, Be It Smooth or Chunky</title>
+    <meta content="LTR013152" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1050061"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Peanut Butter</classifier>
+        <classifier class="indexing_service" type="descriptor">Allergies</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <classifier class="indexing_service" type="descriptor">Lunch and Breakfast Programs</classifier>
+        <person class="indexing_service">Warren, Jane</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lunch and Breakfast Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lunch and Breakfast Programs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DB1039F93BA1575AC0A96E958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Menace, Be It Smooth or Chunky</hl1>
+      </hedline>
+      <abstract>
+        <p>Jane Warren letter on Sept 23 article holds parents pressing to ban peanut butter in schools should instead press for programs to teach people with special health-care needs how to make informed choices; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Nothing Is Safe: Some Schools Ban Peanut Butter as Allergy Threat'' (front page, Sept. 23): Education is about the ability to make informed choices. The Americans With Disabilities Act is about the opportunity to make those choices.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Nothing Is Safe: Some Schools Ban Peanut Butter as Allergy Threat'' (front page, Sept. 23): Education is about the ability to make informed choices. The Americans With Disabilities Act is about the opportunity to make those choices.</p>
+        <p>The mothers who have advocated for the ban on peanut butter in their children's schools are obviously astute, politically savvy and concerned parents. Their energy and that of the team of pediatric allergists would best be used to create an educational program and support system to teach people with special health-care needs how to make informed choices. Bees and air are going to be tough to ban!</p>
+        <p>JANE WARREN  Brooklyn, Sept. 23, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

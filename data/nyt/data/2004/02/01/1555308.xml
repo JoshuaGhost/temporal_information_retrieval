@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Champagne And Cocoa</title>
+    <meta content="01PART$11" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040208T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1555308"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EEDE1E38F932A35751C0A9629C8B63" item-length="557" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Champagne And Cocoa</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of some recent benefit parties in New York (Evening Hours column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>EVENING HOURS  Correction:  February 8, 2004, Sunday  A picture caption in the Evening Hours column last Sunday about a birthday party for Lewis B. Cullman at the American Museum of Natural History on Jan. 26 misspelled the name of a guest shown with her husband and fellow artist, Christo. She is Jeanne-Claude, not Jean-Claude.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 8, 2004, Sunday</p>
+        <p>A picture caption in the Evening Hours column last Sunday about a birthday party for Lewis B. Cullman at the American Museum of Natural History on Jan. 26 misspelled the name of a guest shown with her husband and fellow artist, Christo. She is Jeanne-Claude, not Jean-Claude.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jennifer Babbin Weds</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="443599"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BABBIN, JENNIFER A. (JENNIFER A. CLARK)</person>
+        <person class="indexing_service">CLARK, WILLIAM M.</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DF103FF935A35756C0A967958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jennifer Babbin Weds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jennifer Ann Babbin, the daughter of Mr. and Mrs. Malcolm J. Babbin of Riverdale, the Bronx, and William M. Clark, the son of Mr. and Mrs. William Clark of Clarklake, Mich., were married yesterday at the Harmonie Club in New York by Rabbi Burt Aaron Siegel. Mrs. Clark, 29 years old, is an associate at the Boston law firm of Sullivan &amp; Worcester. She is a magna cum laude graduate of Brandeis University. She and her husband, 30, received law degrees in 1986 from Boston University. The bridegroom is an associate at the Law Offices of Thomas S. Francis in Boston. He is a cum laude graduate of the University of Michigan.</p>
+      </block>
+      <block class="full_text">
+        <p>Jennifer Ann Babbin, the daughter of Mr. and Mrs. Malcolm J. Babbin of Riverdale, the Bronx, and William M. Clark, the son of Mr. and Mrs. William Clark of Clarklake, Mich., were married yesterday at the Harmonie Club in New York by Rabbi Burt Aaron Siegel. Mrs. Clark, 29 years old, is an associate at the Boston law firm of Sullivan &amp; Worcester. She is a magna cum laude graduate of Brandeis University. She and her husband, 30, received law degrees in 1986 from Boston University. The bridegroom is an associate at the Law Offices of Thomas S. Francis in Boston. He is a cum laude graduate of the University of Michigan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

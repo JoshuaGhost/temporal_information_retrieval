@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  TERBELL, MARGARET NICOLL</title>
+    <meta content="DN091701" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1325884"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">TERBELL, MARGARET NICOLL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E1D7173BF934A2575AC0A9679C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  TERBELL, MARGARET NICOLL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TERBELL-Margaret Nicoll. Widow of Thomas Terbell, passed away on September 10 of pneumonia at age 90. She is survived by a daughter, Margaret Gerli Whittelsey, a son, John E. Gerli Jr.; a step-daughter, Joan Knowles and a step-son, Thomas G. Terbell Jr. She is also survived by 4 grandchildren, five great-grandchildren and nine step-grandchildren. A memorial service will be held on October 18 at 3 PM at Christ Church, Greenwich. In lieu of flowers, contributions may be made to Greenwich Hospital, Greenwich, CT. 06830.</p>
+      </block>
+      <block class="full_text">
+        <p>TERBELL-Margaret Nicoll. Widow of Thomas Terbell, passed away on September 10 of pneumonia at age 90. She is survived by a daughter, Margaret Gerli Whittelsey, a son, John E. Gerli Jr.; a step-daughter, Joan Knowles and a step-son, Thomas G. Terbell Jr. She is also survived by 4 grandchildren, five great-grandchildren and nine step-grandchildren. A memorial service will be held on October 18 at 3 PM at Christ Church, Greenwich. In lieu of flowers, contributions may be made to Greenwich Hospital, Greenwich, CT. 06830.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ART IN REVIEW</title>
+    <meta content="RV020846" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1018973"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">Johnson, Ken</person>
+        <person class="indexing_service">Weems, Carrie Mae</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDE1139F931A15756C0A96E958260" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ART IN REVIEW</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews exhibition of work by Carrie Mae Weems, at Whitney Museum of American Art at Philip Morris, 120 Park Avenue (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carrie Mae Weems  'Who What When Where'  Whitney Museum of American Art at Philip Morris  120 Park Avenue, at 43d Street  Manhattan  Through July 10</p>
+        <p>Carrie Mae Weems seems to have been possessed by the spirit of Barbara Kruger. Ms. Weems is best known for photo and text works that explore issues of race and gender through domestic images and personal narratives. So her new installation comes as a surprise, for it contains no direct references to the experiences of African-Americans or women; and rather than speaking through private channels, it broadcasts subversive ideology through commercial-style signs and re-creations of well-known art-history monuments.</p>
+      </block>
+      <block class="full_text">
+        <p>Carrie Mae Weems  'Who What When Where'  Whitney Museum of American Art at Philip Morris  120 Park Avenue, at 43d Street  Manhattan  Through July 10</p>
+        <p>Carrie Mae Weems seems to have been possessed by the spirit of Barbara Kruger. Ms. Weems is best known for photo and text works that explore issues of race and gender through domestic images and personal narratives. So her new installation comes as a surprise, for it contains no direct references to the experiences of African-Americans or women; and rather than speaking through private channels, it broadcasts subversive ideology through commercial-style signs and re-creations of well-known art-history monuments.</p>
+        <p>A call to democratic action, the installation revolves around a reproduction of Vladimir Tatlin's ''Monument to the Third International.'' This famous symbol of revolutionary art and politics is opposed by a large banner bearing a photograph of graduation at West Point and the sardonic text, ''Hip hip hooray once again capitalism is saved.'' To either side hang four large photographs printed on canvas depicting a typewriter, a book, a clock and a globe with the captions ''Who,'' ''What,'' ''When'' and ''Where.'' These words implicitly ask, Who will wield power, the military-industrial complex or creative leftists?</p>
+        <p>Ms. Weems has her own handsome, subdued way with design, but her message is so obvious and the approach so glaringly derivative of Ms. Kruger you may wonder if she can really be serious. Maybe she means to parody a certain fatuous, high-end species of political art.</p>
+        <p>KEN JOHNSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

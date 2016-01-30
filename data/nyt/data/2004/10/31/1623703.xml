@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WELL, IT'S BACK TO THE PADDOCK</title>
+    <meta content="MB001012" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1623703"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="BRIEFINGS: SPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Horse Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Meadowlands Race Track</classifier>
+        <classifier class="indexing_service" type="descriptor">Monmouth Park (NJ Racetrack)</classifier>
+        <classifier class="indexing_service" type="descriptor">Renting and Leasing</classifier>
+        <classifier class="indexing_service" type="descriptor">Privatization</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Codey, Richard J (Sen)</person>
+        <person class="indexing_service">Golway, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privatization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Renting and Leasing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E2DA113DF932A05753C1A9629C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WELL, IT'S BACK TO THE PADDOCK</hl1>
+      </hedline>
+      <byline class="print_byline">By Terry Golway</byline>
+      <byline class="normalized_byline">Golway, Terry</byline>
+      <abstract>
+        <p>New Jersey State Sen Richard Codey, slated to become acting governor in November, says he plans to suspend plan to lease Meadowlands Racetrack and Monmouth Park to private operator (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a significant policy change, State Senator Richard J. Codey, who becomes governor next month, said he plans to suspend a plan to lease the Meadowlands Racetrack and Monmouth Park to a private operator. The two tracks are owned and operated by the New Jersey Sports and Exposition Authority, a state agency. The move signals a premature end to a proposal embraced by the McGreevey administration. The Sports and Exposition Authority announced in late July, a few weeks before the governor's Aug. 12 resignation speech, that it would entertain proposals from private companies interested in leasing the two tracks. The agency had hoped to take in as much as $300 million through a long-term lease.</p>
+        <p>George Zoffinger, president of the Sports and Exposition Authority, said at the time that he expected a strong response from the casino industry, suggesting a marriage between two wary competitors, the gambling halls of Atlantic City and the keepers of the sport of kings. Such a merger of convenience would clear the way for slot-machine operations at the racetracks, a change the racing industry believes it needs to compete with similar operations in neighboring states.</p>
+      </block>
+      <block class="full_text">
+        <p>In a significant policy change, State Senator Richard J. Codey, who becomes governor next month, said he plans to suspend a plan to lease the Meadowlands Racetrack and Monmouth Park to a private operator. The two tracks are owned and operated by the New Jersey Sports and Exposition Authority, a state agency. The move signals a premature end to a proposal embraced by the McGreevey administration. The Sports and Exposition Authority announced in late July, a few weeks before the governor's Aug. 12 resignation speech, that it would entertain proposals from private companies interested in leasing the two tracks. The agency had hoped to take in as much as $300 million through a long-term lease.</p>
+        <p>George Zoffinger, president of the Sports and Exposition Authority, said at the time that he expected a strong response from the casino industry, suggesting a marriage between two wary competitors, the gambling halls of Atlantic City and the keepers of the sport of kings. Such a merger of convenience would clear the way for slot-machine operations at the racetracks, a change the racing industry believes it needs to compete with similar operations in neighboring states.</p>
+        <p>The state received only five responses to the privatization proposal, and extended the deadline until Oct. 21. Five days later, Mr. Codey, a racing fan and former racehorse owner, stepped in with a three-word idea of his own: Forget about it. Mr. Codey's decision shouldn't come as much of a surprise. He opposed the leasing plan in the Senate before relenting over the summer, and as recently as several weeks ago signaled that he remained concerned about the fate of racetrack workers under a private operator.</p>
+        <p>Terry Golway</p>
+        <p>BRIEFINGS: SPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

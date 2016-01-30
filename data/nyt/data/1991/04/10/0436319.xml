@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Irwin Sobel, 89, Dies; Pediatrician-Novelist</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436319"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">SOBEL, IRWIN PHILIP (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDA1738F933A25757C0A967958260" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Irwin Sobel, 89, Dies; Pediatrician-Novelist</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Irwin Philip Sobel, a pediatrician and novelist, died yesterday at St. Barnabas Hospital in the Bronx. He was 89 years old and lived in Manhattan.</p>
+        <p>He died of prostate cancer, said his son, Michael.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Irwin Philip Sobel, a pediatrician and novelist, died yesterday at St. Barnabas Hospital in the Bronx. He was 89 years old and lived in Manhattan.</p>
+        <p>He died of prostate cancer, said his son, Michael.</p>
+        <p>Dr. Sobel was affiliated with Lenox Hill Hospital for six decades and was head of its pediatrics department from 1962 to 1967. In that time he helped invent a three-way valve that sharply reduced the time required for a transfusion to exchange the blood of a newborn infant.</p>
+        <p>He was also chief of pediatrics at the Lenox Hill School for the Deaf for 25 years. He retired in 1981.</p>
+        <p>Dr. Sobel was the author of two novels, "The Hospital Makers," published in 1972, and "The Virus Killer" (1975), both of which dealt in an irreverent manner with goings-on in a supposedly fictitious metropolitan hospital.</p>
+        <p>He was born in Manhattan and was a graduate of Columbia College and of Columbia's College of Physicians and Surgeons. In World War II, as a lieutenant colonel in the Army Medical Corps, he was chief of medicine at the 112th General Hospital in England.</p>
+        <p>Dr. Sobel's only immediate survivor is his son, who lives in Manhattan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

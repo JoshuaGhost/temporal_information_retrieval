@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making a Difference; Is There A Doctor On the Set?</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="588447"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">DOCTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">ENTERTAINMENT MEDICAL SPECIALISTS INC</org>
+        <person class="indexing_service">ARNOLD, STEVEN (DR)</person>
+        <person class="indexing_service">KARLIN, SUSAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DA1338F934A35751C0A965958260" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making a Difference; Is There A Doctor On the Set?</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN KARLIN</byline>
+      <byline class="normalized_byline">KARLIN, SUSAN</byline>
+      <dateline>LOS ANGELES</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT WAS probably inevitable that after putting himself through medical school by acting in films and commercials, Steven Arnold would find a way to use his medical practice to get himself back on the movie set.</p>
+        <p>Mr. Arnold's four-year-old bicoastal medical service, Entertainment Medical Specialists Inc., provides makers of films and television shows with on-set doctors, risk and safety analysis, and insurance exams for cast members. A subsidiary, Riskbusters, provides risk consulting for dangerous camera shots, such as those done underwater, in helicopters or involving fires.</p>
+      </block>
+      <block class="full_text">
+        <p>IT WAS probably inevitable that after putting himself through medical school by acting in films and commercials, Steven Arnold would find a way to use his medical practice to get himself back on the movie set.</p>
+        <p>Mr. Arnold's four-year-old bicoastal medical service, Entertainment Medical Specialists Inc., provides makers of films and television shows with on-set doctors, risk and safety analysis, and insurance exams for cast members. A subsidiary, Riskbusters, provides risk consulting for dangerous camera shots, such as those done underwater, in helicopters or involving fires.</p>
+        <p>The production company for Oliver Stone's next film, "Heaven and Earth," flew Dr. Arnold to Thailand to make sure the filming location had safe drinking water and adequate emergency medical care at the local hospitals.</p>
+        <p>With branches in New York and Beverly Hills and overseas affiliates, E.M.S. also includes a private family and sports medicine practice whose patients come mainly from the entertainment industry. Last year, Mr. Arnold, 42, opened his own production company, A+ Entertainment Inc., now developing several film and television projects.</p>
+        <p>"There isn't a day that goes by that I don't see a patient on the cover of a magazine," he says. "I'm always talking production with patients and gotten jobs for a lot of them."</p>
+        <p>Acting runs in Dr. Arnold's family back to vaudeville (actor Paul Muni was a cousin), and his contacts landed him many of his jobs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

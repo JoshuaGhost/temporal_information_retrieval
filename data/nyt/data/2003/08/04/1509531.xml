@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oprah Magazine to Give a Home Supplement a Trial in Its October Issue</title>
+    <meta content="04OPRA$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/08/04/business/media/04OPRA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1509531"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="MEDIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <org class="indexing_service">O: the Oprah Magazine</org>
+        <org class="indexing_service">Hearst Magazines</org>
+        <person class="indexing_service">Carr, David</person>
+        <person class="indexing_service">Winfrey, Oprah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <org class="online_producer">Hearst Magazines</org>
+        <org class="online_producer">Audit Bureau of Circulations</org>
+        <person class="online_producer">Winfrey, Oprah</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7D6103EF937A3575BC0A9659C8B63" item-length="410" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oprah Magazine to Give a Home Supplement a Trial in Its October Issue</hl1>
+        <hl2 class="online_headline">Oprah Magazine to Give a Home Supplement a Trial</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>O, the Oprah Magazine, to publish separate 48-page publication called O at Home, which will be bagged with magazine and mailed to its subscribers; Hearst Magazines, which co-owns magazine with Oprah Winfrey, says it has no plans for separate magazine, but will monitor success of 'outsert' (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oprah Winfrey already has a place in millions of American homes, thanks to her television show and magazine. Now, she wants to help people decorate those rooms with something besides her likeness.</p>
+        <p>In October, O, the Oprah Magazine will publish a separate 48-page publication called O at Home, which will be bagged with the magazine and mailed to its 1.5 million subscribers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In October, the Oprah Magazine will publish a separate 48-page publication called O at Home.</p>
+      </block>
+      <block class="full_text">
+        <p>Oprah Winfrey already has a place in millions of American homes, thanks to her television show and magazine. Now, she wants to help people decorate those rooms with something besides her likeness.</p>
+        <p>In October, O, the Oprah Magazine will publish a separate 48-page publication called O at Home, which will be bagged with the magazine and mailed to its 1.5 million subscribers.</p>
+        <p>O at Home, an extension of Comfort Zone, the section in the magazine that deals with decorating, is the first editorial supplement to the magazine.</p>
+        <p>If readers respond to the idea, executives at Hearst Magazines, which co-owns the magazine with Ms. Winfrey, could be persuaded to turn O at Home into a stand-alone publication. Although Hearst executives said there were no plans for a separate magazine, they will be monitoring the success of the ''outsert,'' as the new publication is called.</p>
+        <p>''We were really inspired by our December 2002 issue, which had an expanded home section and was one of our best-selling issues ever,'' Jill Seelig, the publisher of O, said.</p>
+        <p>Amy Gross, the editor in chief of O, said she expected readers to make a place for O at Home.</p>
+        <p>''Oprah is house crazy,'' Ms. Gross said. ''She loves decorating and she loves working with decorators, picking out fringe and hinges. This is a natural for her.''</p>
+        <p>Ms. Winfrey's power to sell products and causes cannot be overestimated. Her television show continues to thrive.</p>
+        <p>The magazine grew rapidly after its debut three years ago, but circulation plummeted more than 10 percent in the last half of 2002. Sales have reignited this year, though.</p>
+        <p>Figures provided to the Audit Bureau of Circulations by Hearst executives will show that overall circulation rose 10 percent in the first half of 2003. And newsstand sales, a good indicator of consumer interest, increased more than 35 percent.</p>
+        <p>Then there is Ms. Winfrey's ranking in VH1's recent ''200 Greatest Pop Culture Icons'' special. Ms. Winfrey finished first, ahead of Superman, who came in second, and Elvis Presley, who had to settle for third.</p>
+        <p>MEDIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

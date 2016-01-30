@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rocking the Meadowlands</title>
+    <meta content="21TUE4" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/05/21/opinion/21TUE4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1394098"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New Jersey Nets</org>
+        <org class="indexing_service">Boston Celtics</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <location class="online_producer">New Jersey</location>
+        <org class="online_producer">New Jersey Nets</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE7DC1238F932A15756C0A9649C8B63" item-length="329" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rocking the Meadowlands</hl1>
+        <hl2 class="online_headline">Rocking the Meadowlands</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial lauds New Jersey Nets basketball team for advancing to NBA's Eastern Conference finals for first time in its history (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New Jersey Nets basketball team started this season playing in a half-empty arena in the Meadowlands before fans who expected so little that they seemed hesitant to even cheer. The arena began to fill up as the Nets surged through the season. It was jam-packed and rocking this week when the team, in the Eastern Conference finals for the first time in its history, bulled its way past the Boston Celtics to take the first game of this series. The process that took the Nets from doormat to juggernaut offers lessons for the venerable but ailing New York Knicks, who failed to make the playoffs after a dismal season that sent basketball fans streaming across the Hudson River into New Jersey.</p>
+        <p>While the Knicks were standing pat with a team of aging stars, the Nets made strong draft choices and courageous trades. When the team seemed too soft, it acquired the roughhouse power forward Kenyon Martin, whose mental toughness was just what the doctor ordered. When the Nets seemed to be standing around watching each other on the court, the front office traded a star player for Jason Kidd, whose passing skills have forced this once-wooden team to actually get out and run. Also crucial was Byron Scott, whose performance made him a contender for the coach of the year award.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While the Knicks were standing pat with a team of aging stars, the Nets made strong draft choices and courageous trades.</p>
+      </block>
+      <block class="full_text">
+        <p>The New Jersey Nets basketball team started this season playing in a half-empty arena in the Meadowlands before fans who expected so little that they seemed hesitant to even cheer. The arena began to fill up as the Nets surged through the season. It was jam-packed and rocking this week when the team, in the Eastern Conference finals for the first time in its history, bulled its way past the Boston Celtics to take the first game of this series. The process that took the Nets from doormat to juggernaut offers lessons for the venerable but ailing New York Knicks, who failed to make the playoffs after a dismal season that sent basketball fans streaming across the Hudson River into New Jersey.</p>
+        <p>While the Knicks were standing pat with a team of aging stars, the Nets made strong draft choices and courageous trades. When the team seemed too soft, it acquired the roughhouse power forward Kenyon Martin, whose mental toughness was just what the doctor ordered. When the Nets seemed to be standing around watching each other on the court, the front office traded a star player for Jason Kidd, whose passing skills have forced this once-wooden team to actually get out and run. Also crucial was Byron Scott, whose performance made him a contender for the coach of the year award.</p>
+        <p>To represent the East in the N.B.A. finals, the Nets must defeat an explosive Boston Celtics team that is also on the upswing after years in the doldrums. Whatever the outcome, the series should make for more crowded nights in the Meadowlands.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

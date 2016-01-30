@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Security System for Internet Purchases Has Its Doubters</title>
+    <meta content="24CARD$07" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="975490"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit Cards and Accounts</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Internet and World Wide Web</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <person class="indexing_service">Hansell, Saul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4D8113BF937A15752C1A961958260" item-length="1732" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Security System for Internet Purchases Has Its Doubters</hl1>
+      </hedline>
+      <byline class="print_byline">By SAUL HANSELL</byline>
+      <byline class="normalized_byline">Hansell, Saul</byline>
+      <abstract>
+        <p>Credit card industry is readying elaborate system meant to improve security of making purchases over Internet, but it is already being criticized for being too slow, too expensive and far too cumbersome for shoppers to use; system, called Secure Electronic Transaction, or SET, promises to make it harder for someone to steal credit card number sent over Internet; it will make it easier for shoppers to verify that on-line merchants are legitimate, and for merchants to authenticate identity of shoppers; but existing browsers already have ability to prevent hackers from eavesdropping, and consumers seem less concerned about credit card security; controversy over whether SET is practical or even needed highlights how problems that seem insurmountable--such as consumers' fear of using cards on Internet--can vanish in months, potentially rendering research into solutions an expensive exercise in futility; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After two years of development and dozens of trials around the world, the credit card industry is readying an elaborate system meant to improve the security of making purchases over the Internet.</p>
+        <p>The system, called Secure Electronic Transaction, is to be introduced early next year and promises to make it harder for someone to steal a credit card number sent over the Internet. It will also make it easier for shoppers to verify that the on-line merchants they are dealing with are legitimate and for the merchants to authenticate the identity of the shoppers.</p>
+      </block>
+      <block class="full_text">
+        <p>After two years of development and dozens of trials around the world, the credit card industry is readying an elaborate system meant to improve the security of making purchases over the Internet.</p>
+        <p>The system, called Secure Electronic Transaction, is to be introduced early next year and promises to make it harder for someone to steal a credit card number sent over the Internet. It will also make it easier for shoppers to verify that the on-line merchants they are dealing with are legitimate and for the merchants to authenticate the identity of the shoppers.</p>
+        <p>Yet, after the system's proponents, including perhaps a dozen financial and software firms, have invested tens of millions of dollars in its development, they are finding there is a growing backlash among bankers and companies doing business on the Internet. The system, which is often called by the acronym SET, is too slow, too expensive and far too cumbersome for shoppers to use, the critics say.</p>
+        <p>''SET is not a panacea and it ain't cheap,'' said Allan A. Weinberg, senior vice president of the First Data Corporation, the country's largest credit card processor, which handles such big Internet merchants as the Dell Computer Corporation and Amazon.com Inc., the on-line bookstore. ''If you want to sell more sweaters or greeting cards on the Internet today, you are just not going to get a return from your SET investment.''</p>
+        <p>First Data is grudgingly building the capability to accept SET transactions because some of its clients have asked it to do so, Mr. Weinberg said. But he predicted that two years from now, a ''relatively small'' portion of Internet transactions would use SET.</p>
+        <p>The controversy is yet another reminder that electronic commerce, like the rest of the Internet, has flourished on simple technology developed in small steps by millions of users, rather than by complex systems designed over years by committees of experts. And it highlights how problems that seem insurmountable -- such as consumers' fear of using cards on the Internet -- can vanish in months, potentially rendering research into solutions an expensive exercise in futility.</p>
+        <p>''Last year, we did a survey and three-quarters of our customers said credit card security was an issue,'' said Chris McCann, senior vice president of 1-800-Flowers, which does 10 percent of its business on line. ''Today less than one-third see it as an issue.''</p>
+        <p>What's more, the added security of SET is hardly needed when fraud on the Internet is minuscule and existing browsers already have more than adequate ability to prevent hackers from eavesdropping.</p>
+        <p>''Credit card shopping on the Internet is going like gangbusters today,'' said Cliff Conneighton, chief executive of the Internet Commerce Services Corporation, which runs shopping sites on the World Wide Web for the Panasonic Consumer Electronics Corporation and Random House Inc. ''The fear of shopping is diminishing rapidly. It's always good to have truth on your side, and the truth is that it's not very risky.''</p>
+        <p>Credit card companies argue that the reason they are pushing SET now is precisely to stay ahead of the criminals who will eventually find ways to exploit the weaknesses of the current system.</p>
+        <p>''As a bank, we just can't say, 'Let's chose the option that is less secure,' '' said Gary S. Roboff, senior vice president of the Chase Manhattan Bank, which is testing SET with Wal-Mart Stores Inc. ''The reason SET will happen is that it's truly in everyone's best interest to make it happen,'' he said. ''Consumers will have a degree of security they can't have any other way, and the merchants will have lower fraud losses.''</p>
+        <p>Yet in return, it is much more complicated for a shopper to use SET than the security automatically built into today's browsers.</p>
+        <p>First, a customer must get a special program, known as an electronic wallet, which works in conjunction with Internet browser software. The Netscape Communications Corporation and the Microsoft Corporation include such electronic wallets in their latest browsers, but credit card companies plan to offer their own versions. Any SET wallet will be able to handle five different credit card accounts; debit cards will be added in a future release.</p>
+        <p>Before going shopping, consumers will need an electronic certificate -- effectively a digital identification card -- associated with each credit card. They will either receive this on a disk or by downloading it from their card company's Web site.</p>
+        <p>To shop, users would do as they do today, browsing a store's Web site and selecting items to purchase. At the end of a shopping spree, the user would press an on-screen button to pay using SET, automatically starting the wallet program.</p>
+        <p>The shopper would select which credit card to use, and the wallet would transmit the card number, purchase details, and the unique identifying information in the certificate to the merchant's Web site, in an encrypted form.</p>
+        <p>What happens when the transaction reaches the merchant is how SET differs from the current browser systems. The credit card number itself is passed while still encrypted right to the processing bank. That means that a sophisticated electronic thief tapping into the system, or a crooked employee snooping in the system, will not find any valid card numbers. (This is one of the biggest risks of the current system.)</p>
+        <p>Moreover, by validating the electronic certificate, the merchant can be much more certain of the cardholder's identity. That means that someone who steals a credit card from someone's wallet cannot use it to make purchases on the Internet.</p>
+        <p>Similarly, the shopper's wallet software will examine the digital certificate of the merchant, automatically providing a warning if the merchant is not authorized to accept credit cards.</p>
+        <p>''SET gives people the confidence to shop with people they don't know,'' argued Steve Herz, senior vice president of Visa International Inc.</p>
+        <p>Merchants have often been the victims of what little fraud there has been on the Internet. Yet even the merchants that have been most hurt by this fraud say that SET is not the solution to their problems.</p>
+        <p>''It's not clear to me that SET is compelling enough for either consumers or merchants to go out and use it,'' said William S. McKiernan, chief executive of Cybersource, which runs an on-line software store that had huge losses from fake credit cards.</p>
+        <p>The biggest issue, he said, is what will encourage consumers to get wallet software and then download the required certificate. At first, only the largest banks will be set up to issue the certificates at all, meaning that millions of people will not be able to use SET even if they want to.</p>
+        <p>The big banks may be wary of pushing SET too hard, because it will cost an estimated $3 to $5 a customer for them to sign people up for SET.  Companies like the GTE Corporation are hoping to charge the banks as much as $1 each just for the digital certificates. Most card companies are expected to absorb these costs, although some may pass them on to their cardholders.</p>
+        <p>Similarly, the banks that provide credit card processing services to merchants will have to spend as much as $1 million each to set up the software they need to process SET transactions.</p>
+        <p>And all that money gets a system that many people who have used it say is hardly ready for prime time. ''It's so slow it will lead to the electronic equivalent of arterial sclerosis,'' said Mr. Roboff. In Chase's tests, SET transactions take 30 to 40 seconds. ''If you have millions of people out there trying to use it, it will collapse under its own weight.''</p>
+        <p>The delays arise from the time it takes to encrypt the information. Moreover, the resulting information transmissions are many times longer than those that are not encrypted.</p>
+        <p>Even more troublesome, the SET standard published by Mastercard International Inc. and Visa is so loose that versions of SET software written by different companies are not compatible with each other, forcing two of the biggest companies looking to cash in on the SET software market, I.B.M. and the Verifone Inc. unit of the Hewlett-Packard Company, to announce that they would work together to create a true standard within the SET standard.</p>
+        <p>The card companies say they are working to speed up SET software and resolve the compatibility issue. The bigger question is whether they will provide tangible incentives for merchants to use it. ''To get the merchants on board, the card associations have to put their money where their mouths are,'' said Karen Epper, an analyst at Forrester Research.</p>
+        <p>Visa has decided to change its price structure in ways that are likely to reduce the fee merchants pay for SET transactions by 3 cents to 5 cents, but this is hardly enough encouragement, analysts said. Possibly more significant, Visa has said merchants will have less liability for fraud in transactions using SET than with other Internet transactions.</p>
+        <p>Yet even if merchants do want to encourage SET, experts say they would be crazy to turn away paying customers who do not use it. And as a result, it may do little to halt the sort of fraud it was meant to prevent.</p>
+        <p>''SET will not have 100 percent market share for a long period of time,'' Mr. Weinberg of First Data said. ''You'll just move the crooks over to non-SET transactions.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

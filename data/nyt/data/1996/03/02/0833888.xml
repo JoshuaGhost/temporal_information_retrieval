@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Mercedes Factory</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="833888"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="INTERNATIONAL BRIEFS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CAPITAL INVESTMENT</classifier>
+        <location class="indexing_service">STUTTGART (GERMANY)</location>
+        <org class="indexing_service">MERCEDES-BENZ AG</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany/Stuttgart</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0DE1439F931A35750C0A960958260" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Mercedes Factory</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mercedes-Benz A.G. said yesterday that it was planning to invest around 1 billion marks ($680 million) to build a new motor factory near Stuttgart, Germany. In addition to 750 million marks to replace an existing factory, Mercedes will spend about 250 million marks to move some production elsewhere and remove obsolete fixtures, a company spokesman said. Mercedes-Benz is the largest division in the Daimler-Benz A.G. group. Mercedes-Benz, with far-flung truck operations, also owns the Freightliner Corporation.</p>
+        <p>(AP)</p>
+      </block>
+      <block class="full_text">
+        <p>Mercedes-Benz A.G. said yesterday that it was planning to invest around 1 billion marks ($680 million) to build a new motor factory near Stuttgart, Germany. In addition to 750 million marks to replace an existing factory, Mercedes will spend about 250 million marks to move some production elsewhere and remove obsolete fixtures, a company spokesman said. Mercedes-Benz is the largest division in the Daimler-Benz A.G. group. Mercedes-Benz, with far-flung truck operations, also owns the Freightliner Corporation.</p>
+        <p>(AP)</p>
+        <p>INTERNATIONAL BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

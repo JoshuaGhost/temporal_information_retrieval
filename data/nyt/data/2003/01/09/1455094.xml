@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Athlete's Heart Falters, a Monitor Dials for Help</title>
+    <meta content="09NEXT" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/09/technology/circuits/09next.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1455094"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Paging Systems</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="descriptor">Heart</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Running</classifier>
+        <classifier class="online_producer" type="descriptor">Jogging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paging Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jogging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Running</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E0DE113EF93AA35752C0A9659C8B63" item-length="1112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Athlete's Heart Falters, a Monitor Dials for Help</hl1>
+        <hl2 class="online_headline">When the Athlete's Heart Falters, a Monitor Dials for Help</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Wearable heart monitors now being developed are linked to cellphones that can alert doctor, family members or Web site at first signs of heart attack; another system collects more extensive electrocardiogram data and sends information by cellphone to Web site or pager; such systems might be useful not only for emergency alerts, but also for remote collection of more benign information; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE American Heart Association advises people to dial 911 at the first warning signs of a heart attack. ''The faster you get help,'' one of its ads says, ''the better your chances of survival and complete recovery.''</p>
+        <p>Soon, machines may be able to do some of this emergency dialing on their own. Manufacturers are working on wearable heart monitors linked to cellphones that can sound an alert automatically, contacting a doctor, family member or Web site when trouble beckons.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>During a jog or a bike ride, wireless signals to a cellphone can warn of cardiac distress or simply record routine data.</p>
+      </block>
+      <block class="full_text">
+        <p>THE American Heart Association advises people to dial 911 at the first warning signs of a heart attack. ''The faster you get help,'' one of its ads says, ''the better your chances of survival and complete recovery.''</p>
+        <p>Soon, machines may be able to do some of this emergency dialing on their own. Manufacturers are working on wearable heart monitors linked to cellphones that can sound an alert automatically, contacting a doctor, family member or Web site when trouble beckons.</p>
+        <p>Some of the monitoring devices keep track of heart rate, so in the future, for instance, a cellphone tucked into a runner's pocket could call a doctor if the runner's heart rate exceeded a preset limit. Another system collects more extensive electrocardiogram data and sends the information by cellphone to a Web site or pager.</p>
+        <p>Monitoring systems like these might be useful one day not only for emergency alerts, but also for the remote collection of more benign information: statistics on the performance of members of a cycling team, for example, or the heart rates of dozens of people enrolled in clinical trials.</p>
+        <p>A prototype for one of the new systems that connects heart monitors to wireless networks was designed by Bryan Striemer, a senior engineer at I.B.M. in Rochester, Minn. Mr. Striemer, who in his free time logs 4,000 miles a year on his bicycle, was interested in the technical problem of how bicyclists could use their cellphones to collect training data.</p>
+        <p>Many cyclists and others who exercise currently keep track of their heart rate by wearing monitors. These devices, strapped to the chest, sense the electrical signals generated by the nervous system in controlling the beating of the heart. The heartbeat data is sent wirelessly to a watchlike device, usually on the wrist, that displays an average heart rate to the wearer.</p>
+        <p>''We wanted to take the process one step further and have the device communicate with a cellphone,'' Mr. Striemer said. He analyzed the signal that a standard chest monitor makes and built a demonstration device: a small adapter the size of a pack of chewing gum that picks up information wirelessly from the chest strap and transmits it to a cellphone by using Bluetooth, a short-range radio technology. The cellphone could be programmed to initiate an emergency call, for example, if the heart rate exceeded a certain limit.</p>
+        <p>The adapter needs to be within three feet or so of the heart-rate monitor to get the signal, and within 100 feet of the cellphone to transmit it. (If Mr. Striemer's demonstration device were used by a cyclist, the cyclist would have to carry a cellphone).</p>
+        <p>Dirk Husemann, a computer scientist who works at I.B.M.'s Zurich Research Lab, developed the software for the model. ''We can set the device with two thresholds,'' he said. At one threshold, if the heart rate exceeds the normal measure by, say, 30 percent, an alarm is generated. Then, if the heart rate goes down, a second threshold generates an all-clear notice.</p>
+        <p>Dr. Husemann said that other sensors could easily be attached, including, for instance, ones to measure blood pressure or blood sugar. ''There is a lot of interest from health service companies that we've talked to in Europe,'' he said, including a pharmaceutical company that is considering using such devices to automate the collection of data from participants in medical trials.</p>
+        <p>For now, the I.B.M. researchers are using a hand-held organizer adapted for use on a cellphone network to demonstrate their system. ''In the future we hope that manufacturers will integrate these functions directly into standard cellphones,'' Mr. Striemer said.</p>
+        <p>Dr. Todd D. Miller, a marathon runner and cyclist who practices cardiovascular medicine at the Mayo Clinic, said that monitors like the one designed at I.B.M. might prove useful. ''In particular,'' he said, ''this might be a way to see if there is any correlation between symptoms people are experiencing and the way their heart is beating.''</p>
+        <p>Dr. Miller said he did not think the device would be of much benefit, though, for normal exercisers. ''There's a constant argument about how useful these heart-rate monitoring devices are for healthy people,'' he said.</p>
+        <p>He, for instance, has been running for more than 30 years and never checks his heart rate. ''But for people with heart disease or who have symptoms they need to document or explain, it's a different matter,'' he said.</p>
+        <p>Remote monitoring might also save lives. Dr. Miller used as an example the runner and influential fitness enthusiast Jim Fixx, who died in 1984 while jogging. ''If devices like this were linked to a Global Positioning System, it's conceivable they might help in situations like Fixx's,'' he said.</p>
+        <p>Mr. Striemer's system currently uses only heart-rate information. To detect and transmit more complex information about the heart's functioning, VTTi, a small company whose research arm is in Moss Beach, Calif., is developing a system to relay electrocardiogram data by cellphone. Tim Clark, vice president for engineering at the company, said that its prototype uses a small, portable electrocardiogram recorder with three leads. The recorder is worn strapped to the upper body; a cellphone plugs into it by serial cable.</p>
+        <p>The cellphones in the prototypes use Java software from Sun Microsystems to translate the data and send it to wireless networks and Web servers. ''Doctors can view graphical representations of the EKG data on a Web page,'' Mr. Clark said. The company is preparing an application for the Food and Drug Administration for approval of the device, which he said was already being used by a handful of doctors.</p>
+        <p>A simpler VTTi system, which transmits heartbeat data from a chest strap monitor, will be available early this year, Mr. Clark said. An antenna that plugs into the bottom of the cellphone picks up radio signals from the chest strap.</p>
+        <p>Dr. Charles L. Schulman, a cardiologist at Beth Israel Deaconess Medical Center in Boston and president of the American Running Association, said that devices that detect potentially life-threatening disturbances in heart rhythm could be helpful, but only if their designers are able to eliminate false alarms.</p>
+        <p>''When you exercise, you bounce and jiggle, and that could create electrical signals that give a false reading, leading to a lot of false calls,'' he said.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

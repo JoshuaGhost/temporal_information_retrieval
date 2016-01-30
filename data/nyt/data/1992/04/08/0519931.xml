@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dispute on Search For a Missing Boy</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="519931"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">LOST, MISSING AND RUNAWAY CHILDREN</classifier>
+        <person class="indexing_service">WILTSEY, TIMOTHY</person>
+        <person class="indexing_service">LODZINSKI, MICHELLE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lost, Missing and Runaway Children</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lost, Missing and Runaway Children</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missing Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED71E3DF93BA35757C0A964958260" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dispute on Search For a Missing Boy</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SOUTH AMBOY, N.J., April 7</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The mother of a 6-year-old boy who vanished at a carnival last spring has quit the five-member board of the nonprofit group organized to find the child.</p>
+        <p>The mother, Michelle Lodzinski, 25, said her son, Timothy Wiltsey, disappeared May 25 in Sayreville.</p>
+      </block>
+      <block class="full_text">
+        <p>The mother of a 6-year-old boy who vanished at a carnival last spring has quit the five-member board of the nonprofit group organized to find the child.</p>
+        <p>The mother, Michelle Lodzinski, 25, said her son, Timothy Wiltsey, disappeared May 25 in Sayreville.</p>
+        <p>She resigned from the group on Monday over differences on the pace and type of efforts to help track down the child, she said.</p>
+        <p>Members of the group, Friends of Timmy, say they will continue. Ms. Lodzinski resigned following a disagreement at the five-month-old group's meeting Thursday, when she announced a fund-raising baseball game featuring Chippendale's dancers in Linden April 26.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

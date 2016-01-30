@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan's Plan on Brokerages</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="457369"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <org class="indexing_service">NOMURA SECURITIES CO</org>
+        <org class="indexing_service">DAIWA SECURITIES CO LTD</org>
+        <org class="indexing_service">NIKKO SECURITIES CO</org>
+        <org class="indexing_service">YAMAICHI SECURITIES CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DF1E3AF937A35754C0A967958260" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan's Plan on Brokerages</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Japanese Ministry of Finance will ask the country's four leading brokerages to suspend business with corporate clients for several days in the wake of a scandal that has shaken the securities industry, a Japanese financial newspaper reported in today's issue.</p>
+        <p>The Nomura Securities Company, Daiwa Securities Company, Nikko Securities Company and Yamaichi Securities Company will be ordered to refrain from doing business with corporate clients for two or more days next week, the newspaper, Nihon Keizai Shimbun, reported.</p>
+      </block>
+      <block class="full_text">
+        <p>The Japanese Ministry of Finance will ask the country's four leading brokerages to suspend business with corporate clients for several days in the wake of a scandal that has shaken the securities industry, a Japanese financial newspaper reported in today's issue.</p>
+        <p>The Nomura Securities Company, Daiwa Securities Company, Nikko Securities Company and Yamaichi Securities Company will be ordered to refrain from doing business with corporate clients for two or more days next week, the newspaper, Nihon Keizai Shimbun, reported.</p>
+        <p>The Japanese Government, under fire for lax supervision of the securities business, last week pledged to make changes in the financial markets after Nomura and Nikko were involved in payback scandals and reported to be linked to organized crime.</p>
+        <p>The Finance Ministry will not ask the brokerages to stop doing business with individual investors, the newspaper said. But it will ban them from managing client funds at the brokerages' own discretion.</p>
+        <p>The newspaper quoted officials within the ministry's securities department as saying they wanted to limit the suspension to two days so as not to cause confusion in the markets. But other ministry officials, the newspaper reported, urged a stricter enforcement.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

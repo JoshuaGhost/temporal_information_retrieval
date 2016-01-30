@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York State Buys 24 Acres For Preserve on Staten Island</title>
+    <meta content="21STAT$04" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="917131"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Staten Island (NYC)</location>
+        <org class="indexing_service">Conventual Franciscan Friars</org>
+        <person class="indexing_service">Ravo, Nick</person>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DB173BF932A15750C0A961958260" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York State Buys 24 Acres For Preserve on Staten Island</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK RAVO</byline>
+      <byline class="normalized_byline">Ravo, Nick</byline>
+      <abstract>
+        <p>New York State, in what Gov George Pataki bills as largest expenditure ever made from State Environmental Protection Fund, purchases 24 acres of Staten Island woodlands and wetlands for $10 million from Conventual Franciscan Friars; map (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In what Gov. George E. Pataki billed as the largest expenditure ever made from the State Environmental Protection Fund, New York State bought 24 acres of Staten Island woodlands and wetlands yesterday for $10 million.</p>
+        <p>The state bought the land, the St. Francis Seminary Woodlands on Todt Hill, from the Conventual Franciscan Friars, who will retain ownership of the building complex next to the site. The property will become part of the 2,500-acre Staten Island Greenbelt, one of the nation's largest urban nature preserves.</p>
+      </block>
+      <block class="full_text">
+        <p>In what Gov. George E. Pataki billed as the largest expenditure ever made from the State Environmental Protection Fund, New York State bought 24 acres of Staten Island woodlands and wetlands yesterday for $10 million.</p>
+        <p>The state bought the land, the St. Francis Seminary Woodlands on Todt Hill, from the Conventual Franciscan Friars, who will retain ownership of the building complex next to the site. The property will become part of the 2,500-acre Staten Island Greenbelt, one of the nation's largest urban nature preserves.</p>
+        <p>''The acquisition of St. Francis Seminary Woodlands is a shining example of why we need a healthy State Environmental Protection Fund,'' Mr. Pataki said. ''The fund allows New York to protect our incredible bounty of outdoor and natural resources and continue our longstanding conservation tradition.''</p>
+        <p>The Governor added that buying the St. Francis Seminary Woodlands was one of 90 projects identified as priorities in the state's Open Space Conservation Plan, and was included in the environmental fund's current $100 million budget.</p>
+        <p>The property forms the crest of a watershed within the Greenbelt; water drains from Todt Hill and flows through the state-owned Richmond Country Club.</p>
+        <p>The land is next to the state-owned Henry Kaufman Camp and the William H. Pouch Camp, owned by the Boy Scouts of America.</p>
+        <p>It contains a deciduous swamp with red maple, sour-gum and American elm trees, set deep in a wooded upland of mature sweet gum, hickory, hornbeam, spicebush and white pine. More than 30 species of birds are known to breed on the site, and a vernal pond supports a locally rare population of spring peepers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

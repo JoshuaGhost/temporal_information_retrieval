@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jeannine Iverson, Glenn Strovilas</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="60" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725118"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">IVERSON, JEANNINE MARIE (JEANNINE MARIE STROVILAS)</person>
+        <person class="indexing_service">STROVILAS, GLENN CHARLES</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6D91F3EF930A25752C1A962958260" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jeannine Iverson, Glenn Strovilas</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jeannine Marie Iverson, a daughter of Gretchen and Jesse Iverson of Norwalk, Conn., was married on Friday to Glenn Charles Strovilas, a son of Jackie and Dr. Crist Strovilas of Toronto, Ohio. The Rev. John Wall performed the ceremony at Old St. Patrick's Roman Catholic Church in Chicago.</p>
+        <p>Mrs. Strovilas, 32, graduated from Iona College. She is a technical specialist with the Marine Office of America Corporation, an insurance company, in Chicago. Her father was formerly the vice president and publisher of the American Homestyle Group/Gruner &amp; Jahr USA Publishing.</p>
+      </block>
+      <block class="full_text">
+        <p>Jeannine Marie Iverson, a daughter of Gretchen and Jesse Iverson of Norwalk, Conn., was married on Friday to Glenn Charles Strovilas, a son of Jackie and Dr. Crist Strovilas of Toronto, Ohio. The Rev. John Wall performed the ceremony at Old St. Patrick's Roman Catholic Church in Chicago.</p>
+        <p>Mrs. Strovilas, 32, graduated from Iona College. She is a technical specialist with the Marine Office of America Corporation, an insurance company, in Chicago. Her father was formerly the vice president and publisher of the American Homestyle Group/Gruner &amp; Jahr USA Publishing.</p>
+        <p>Mr. Strovilas, 28, graduated from Ohio State University. He is an account manager with Nationsway Transport Inc., a shipping company in Chicago. His father is a general practitioner in Toronto.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

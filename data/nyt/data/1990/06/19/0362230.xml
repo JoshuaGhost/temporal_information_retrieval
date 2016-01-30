@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Great Western Buys Branches</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="362230"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <org class="indexing_service">CARTERET SAVINGS BANK</org>
+        <org class="indexing_service">GREAT WESTERN FINANCIAL CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D9123AF93AA25755C0A966958260" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Great Western Buys Branches</hl1>
+      </hedline>
+      <byline class="print_byline">Special to The New York Times</byline>
+      <dateline>LOS ANGELES, June 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Great Western Financial Corporation, parent company of the Great Western Bank, said today that it had agreed to acquire 13 branches and $700 million in deposits from Carteret Savings Bank in Florida.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Great Western Financial Corporation, parent company of the Great Western Bank, said today that it had agreed to acquire 13 branches and $700 million in deposits from Carteret Savings Bank in Florida.</p>
+        <p>The Great Western Financial Corporation, parent company of the Great Western Bank, said today that it had agreed to acquire 13 branches and $700 million in deposits from Carteret Savings Bank in Florida.</p>
+        <p>Great Western, a savings and loan association based in Beverly Hills, Calif., will pay a premium of $26.5 million for the deposits. That means Great Western will assume Carteret's $700 million in deposits, which are counted as liabilities, but will receive a check for only $673.5 million. Carteret said it would also receive $8.4 million for the offices.</p>
+        <p>The transaction, subject to regulatory approval, will increase Great Western's Florida deposits to $2.4 billion and give it more than 60 retail branches in the state.</p>
+        <p>Carteret, a New Jersey savings and loan company owned by the Ambase Corporation, will retain 10 Florida branches.</p>
+        <p>It said it had chosen to sell 13 branches to focus more on its core New Jersey operations.</p>
+        <p>While Carteret said it exceeded all regulatory capital requirements, the company noted the transaction would bolster its capital position.</p>
+        <p>Analysts said Carteret needed to raise capital because of problems in the commercial real estate market in New Jersey and other Middle Atlantic States.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

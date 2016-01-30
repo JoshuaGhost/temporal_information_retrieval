@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The President and the C.I.A. Leak</title>
+    <meta content="l08leak-3" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1752915"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <location class="indexing_service">Iraq</location>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Peck, Sarah</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Libby, I Lewis Jr</person>
+        <person class="indexing_service">Wilson, Joseph C Iv</person>
+        <person class="indexing_service">Wilson, Valerie Plame</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Iraq</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060408T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EFD71130F93BA35757C0A9609C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The President and the C.I.A. Leak</hl1>
+      </hedline>
+      <abstract>
+        <p>Sarah Peck letter about CIA leak case holds that Americans should be outraged at Pres Bush's disregard for honesty and security</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>President Bush does in fact have the legal right to declassify information at any time. This does not make his disclosure morally defensible.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>President Bush does in fact have the legal right to declassify information at any time. This does not make his disclosure morally defensible.</p>
+        <p>The president claimed that any person responsible for this leak would be removed from his administration. Is the president willing to stay true to his words, and admit the seriousness of his own offense?</p>
+        <p>Americans should be outraged at this reckless disregard for both honesty and security.</p>
+        <p>Sarah Peck  Somerville, Mass., April 7, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

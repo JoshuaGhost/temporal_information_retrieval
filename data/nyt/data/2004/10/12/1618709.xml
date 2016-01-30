@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Doctor Is Incorrect</title>
+    <meta content="LTR003629" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1618709"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Atwood, Mike</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E7D9113BF931A25753C1A9629C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Doctor Is Incorrect</hl1>
+      </hedline>
+      <abstract>
+        <p>Mike Atwood letter on Oct 5 article about decisions doctors face treating patients holds that patients know what is best for them (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Give Up? No Way. On a Matter of Life or Death, a Patient Is Overruled.'' (Oct. 5): According to the column, medical ethics apparently permits a team of doctors to hold down a screaming but fully rational patient, sedate him and shove a tube down his throat.</p>
+        <p>The patient was no doubt aware that once that tube was in place, it would be almost impossible for his family to direct its removal.</p>
+        <p>Forcible treatment in the face of energetic, rational opposition by a patient is not only unethical, it is probably illegal.</p>
+        <p>MIKE ATWOOD  Palo Alto, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Give Up? No Way. On a Matter of Life or Death, a Patient Is Overruled.'' (Oct. 5): According to the column, medical ethics apparently permits a team of doctors to hold down a screaming but fully rational patient, sedate him and shove a tube down his throat.</p>
+        <p>The patient was no doubt aware that once that tube was in place, it would be almost impossible for his family to direct its removal.</p>
+        <p>Forcible treatment in the face of energetic, rational opposition by a patient is not only unethical, it is probably illegal.</p>
+        <p>MIKE ATWOOD  Palo Alto, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

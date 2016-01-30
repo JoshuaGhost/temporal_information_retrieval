@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Serv-Tech Inc. reports earnings for 2d qtr to Jun 30</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="779931"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E2D61E3FF930A3575BC0A963958260" item-length="37" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Serv-Tech Inc. reports earnings for 2d qtr to Jun 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Serv-Tech Inc.</p>
+        <p>2d qtr to Jun 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Revenue</p>
+        <p>65,747,796</p>
+        <p>32,210,355</p>
+        <p>Net inc</p>
+        <p>666,288</p>
+        <p>500,738</p>
+        <p>Share earns</p>
+        <p>.10</p>
+        <p>.08</p>
+        <p>Shares outst</p>
+        <p>6,734,343</p>
+        <p>6,050,682</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anna Weber, Martin Schapiro</title>
+    <meta content="10WEBE$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/02/10/fashion/weddings/10WEBE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1366543"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">WEBER, ANNA REBECCA (ANNA REBECCA SCHAPIRO)</person>
+        <person class="indexing_service">DR. SCHAPIRO, MARTIN BRUCE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DA173CF933A25751C0A9649C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anna Weber, Martin Schapiro</hl1>
+        <hl2 class="online_headline">Anna Weber and Martin Schapiro</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anna Rebecca Weber and Dr. Martin Bruce Schapiro are to be married today in Manhattan by Rabbi Daniel Wolk at the Regent Wall Street hotel.</p>
+        <p>The bride, 35, is the director of program planning and administration at Carnegie Hall in New York. She graduated from Cornell and also from the executive M.B.A. program at Columbia.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Anna Rebecca Weber and Dr. Martin Bruce Schapiro are to be married today in Manhattan at the Regent Wall Street hotel.</p>
+      </block>
+      <block class="full_text">
+        <p>Anna Rebecca Weber and Dr. Martin Bruce Schapiro are to be married today in Manhattan by Rabbi Daniel Wolk at the Regent Wall Street hotel.</p>
+        <p>The bride, 35, is the director of program planning and administration at Carnegie Hall in New York. She graduated from Cornell and also from the executive M.B.A. program at Columbia.</p>
+        <p>She is a daughter of Dr. Joan Weber and Dr. Carl Weber of Purchase, N.Y. The bride's father is a general surgeon with Weber, Homan &amp; Weber, a group practice in White Plains, and a former director of the surgical department at White Plains Hospital. Her mother is an assistant superintendent of schools in Scarsdale, N.Y., and a school board member of the Hawthorne Cedar Knolls Union Free School District in Hawthorne, N.Y.</p>
+        <p>The bridegroom, 49, is a dentist practicing privately in Hartsdale, N.Y. He graduated from the University of Pennsylvania and received a D.D.S. degree from New York University. He is the son of Regina Schapiro and Dr. Bertram Schapiro of White Plains. The bridegroom's father, a retired dentist, had a private practice in Scarsdale, which his wife managed.</p>
+        <p>The bridegroom was a widower.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

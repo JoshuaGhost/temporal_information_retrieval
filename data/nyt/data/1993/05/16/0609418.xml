@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>K. M. Rosbrook, Thomas Hayden</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="609418"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ROSBROOK, KATHLEEN MICHELE (KATHLEEN MICHELE HAYDEN)</person>
+        <person class="indexing_service">HAYDEN, THOMAS GERARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D81F3EF935A25756C0A965958260" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>K. M. Rosbrook, Thomas Hayden</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kathleen Michele Rosbrook, a daughter of Mr. and Mrs. William B. Rosbrook of Skaneateles, N.Y., was married there yesterday to Thomas Gerard Hayden, a son of Mr. and Mrs. Raymond P. Hayden of Huntington, L.I. The Rev. James H. Carey performed the Roman Catholic ceremony at St. Mary's of the Lake Church.</p>
+        <p>Mrs. Hayden graduated from Hamilton College. Until recently, she was a sales associate for national accounts at the Macmillan Publishing Company in New York. Her father is a lawyer in Syracuse.</p>
+      </block>
+      <block class="full_text">
+        <p>Kathleen Michele Rosbrook, a daughter of Mr. and Mrs. William B. Rosbrook of Skaneateles, N.Y., was married there yesterday to Thomas Gerard Hayden, a son of Mr. and Mrs. Raymond P. Hayden of Huntington, L.I. The Rev. James H. Carey performed the Roman Catholic ceremony at St. Mary's of the Lake Church.</p>
+        <p>Mrs. Hayden graduated from Hamilton College. Until recently, she was a sales associate for national accounts at the Macmillan Publishing Company in New York. Her father is a lawyer in Syracuse.</p>
+        <p>Mr. Hayden graduated from Colgate University. He is an assistant vice president in the Detroit office of Johnson &amp; Higgins, an insurance brokerage. His father is a senior partner in the law firm of Hill Rivkins Loesberg O'Brien Mulroy &amp; Hayden in New York.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

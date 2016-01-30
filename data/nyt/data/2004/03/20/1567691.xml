@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Justice in a Bind</title>
+    <meta content="20SAT3" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/20/opinion/20SAT3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1567691"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Energy and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Hunting and Trapping</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Supreme Court (US)</org>
+        <person class="indexing_service">Scalia, Antonin (Assoc Justice)</person>
+        <person class="indexing_service">Cheney, Dick (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunting and Trapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Scalia, Antonin</person>
+        <person class="online_producer">Cheney, Dick</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E3DE1131F933A15750C0A9629C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Justice in a Bind</hl1>
+        <hl2 class="online_headline">Justice in a Bind</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial contends that Supreme Court Justice Antonin Scalia, in angry memorandum, went to unbecoming lengths to justify his refusal to withdraw from case challenging secrecy surrounding energy task force headed by Vice Pres Dick Cheney, his duck-hunting companion; holds that Scalia comes across as more concerned with defending his right to accept 'social courtesies' than with protecting Supreme Court's integrity; asserts that Scalia had no business vacationing with prominent litigant</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an angry 21-page memorandum fired off on Thursday, Justice Antonin Scalia went to unbecoming lengths to justify his refusal to withdraw from a case challenging the secrecy surrounding the energy task force headed by Vice President Dick Cheney, his duck-hunting companion.</p>
+        <p>Using the dismissive tone he usually reserves for dissents, the justice comes across as more concerned with defending his right to accept ''social courtesies,'' like rides on the vice president's jet, than with protecting the Supreme Court's integrity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Justice Antonin Scalia comes across as more concerned with defending his right to accept social courtesies, than with protecting the Supreme Courts integrity.</p>
+      </block>
+      <block class="full_text">
+        <p>In an angry 21-page memorandum fired off on Thursday, Justice Antonin Scalia went to unbecoming lengths to justify his refusal to withdraw from a case challenging the secrecy surrounding the energy task force headed by Vice President Dick Cheney, his duck-hunting companion.</p>
+        <p>Using the dismissive tone he usually reserves for dissents, the justice comes across as more concerned with defending his right to accept ''social courtesies,'' like rides on the vice president's jet, than with protecting the Supreme Court's integrity.</p>
+        <p>Justice Scalia defensively noted that he had invited Mr. Cheney, his longtime friend, to participate in the annual duck hunt in Louisiana, held by another friend, before the case made its way up to the Supreme Court. But instead of backing out of the trip once the case was pending, Justice Scalia accepted free rides on the small jet serving as Air Force Two -- not for himself and a daughter, as widely and erroneously reported, including by this page -- but for himself, a son and a son-in-law. Justice Scalia says he ended up having to buy round-trip tickets anyway, thus saving no money.</p>
+        <p>He also points out, rather sarcastically, that he and the vice president neither shared a room nor a hunting blind, and did not discuss the case at the meals for the group of 13 or at other times. That misses the point. He had no business vacationing with a prominent litigant.</p>
+        <p>Justice Scalia concedes that it might be appropriate to recuse himself if Mr. Cheney were being sued as an individual. His argument for staying in the case boils down to the disingenuous claim that this is a ''run of the mill'' legal matter that merely involves the vice president in his official capacity. The case is hardly a garden-variety government lawsuit. Should Mr. Cheney lose in the Supreme Court, there is the potential for deep personal and political embarrassment. Justice Scalia, having lowered the bar for judicial ethics by refusing to acknowledge the reasonableness of questions about his impartiality, has guaranteed that the Supreme Court will end up embarrassed, no matter which way it rules.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

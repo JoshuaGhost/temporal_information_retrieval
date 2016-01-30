@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Theater in Review</title>
+    <meta content="RV005759" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="958597"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Van Gelder, Lawrence</person>
+        <person class="indexing_service">Barabas, Gabor</person>
+        <person class="indexing_service">Barabas, SuzAnne</person>
+        <object.title class="indexing_service">Find Me a Voice (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D81038F93BA2575AC0A961958260" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Theater in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+      <byline class="normalized_byline">Van Gelder, Lawrence</byline>
+      <abstract>
+        <p>Lawrence Van Gelder Find Me a Voice, play by SuzAnne Barabas and Gabor Barabas at Producers Club II (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Search for Words to Express The Horrors of the Holocaust</p>
+        <p>'Find Me a Voice'  Producers Club II</p>
+        <p>Good intentions do not make good plays. And when a play that ventures to grapple with the Holocaust falls short, the danger arises that its good intentions may come to resemble vainglorious effort.</p>
+        <p>In ''Find Me a Voice,'' the husband-and-wife dramatists SuzAnne Barabas and Gabor Barabas marshal prose, poetry, dance, masks, slides of victims and mounds of shoes, eyeglasses and luggage in their attempt to convey the enormity of the Holocaust. But its horrific essence eludes them and their cast of five, despite the accuracy of the play's details and a superior performance by Harlan Tuckman in a variety of roles.</p>
+      </block>
+      <block class="full_text">
+        <p>A Search for Words to Express The Horrors of the Holocaust</p>
+        <p>'Find Me a Voice'  Producers Club II</p>
+        <p>Good intentions do not make good plays. And when a play that ventures to grapple with the Holocaust falls short, the danger arises that its good intentions may come to resemble vainglorious effort.</p>
+        <p>In ''Find Me a Voice,'' the husband-and-wife dramatists SuzAnne Barabas and Gabor Barabas marshal prose, poetry, dance, masks, slides of victims and mounds of shoes, eyeglasses and luggage in their attempt to convey the enormity of the Holocaust. But its horrific essence eludes them and their cast of five, despite the accuracy of the play's details and a superior performance by Harlan Tuckman in a variety of roles.</p>
+        <p>''Find Me a Voice,'' running through Sept. 28 at the Producers Club II, 616 Ninth Avenue, between 42d and 43d Streets, Manhattan, is constructed around a character called the Writer (Christopher Casoria), who is haunted by the ghosts of relatives who perished at Auschwitz and who plead with him to find them a voice to tell their story.</p>
+        <p>The play progresses through scenes in which, for example, a mother attempts to explain the banality of evil to her little girl (''Monsters don't look like monsters''); a doomed, bitter music director prepares a performance of Verdi's ''Requiem'' for an audience of Nazi officers at a concentration camp; a mother fated to die guides her daughter toward survival at a death camp; lovers are killed, and a slick young man delivers a speech that insists that the Holocaust was an invention of Jews to attract sympathy, gain power and take over the world.</p>
+        <p>But that scene, like several others, ends by becoming overwrought. By the time ''Find Me a Voice'' comes to its conclusion, the Writer seems not so much haunted by history, as he proclaims, as determined to hitch a ride on it. Though it means well, ''Find Me a Voice'' proves unequal to its daunting task.</p>
+        <p>LAWRENCE VAN GELDER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

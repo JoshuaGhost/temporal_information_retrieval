@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wagner Stott To Sell a Unit</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="856929"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">WAGNER STOTT MERCATOR</org>
+        <org class="indexing_service">FIDELITY INVESTMENT CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E2DE1739F932A25755C0A960958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wagner Stott To Sell a Unit</hl1>
+      </hedline>
+      <byline class="print_byline">Dow Jones</byline>
+      <dateline>BOSTON, June 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fidelity Capital Markets, the institutional brokerage trading arm of the Fidelity Investment Company, said today that it planned to acquire the Nasdaq trading division of Wagner Stott Mercator.</p>
+        <p>Terms of the deal were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>Fidelity Capital Markets, the institutional brokerage trading arm of the Fidelity Investment Company, said today that it planned to acquire the Nasdaq trading division of Wagner Stott Mercator.</p>
+        <p>Terms of the deal were not disclosed.</p>
+        <p>At the close of business on Friday, Fidelity Capital will assume control of  Wagner Stott's Nasdaq trading operations, including its 25 employees, equity positions and office space at 14 Wall Street.</p>
+        <p>Next Monday, Fidelity Capital will take buy and sell orders for all of the 950 Nasdaq-listed stocks currently being handled by Wagner Stott.  Wagner Stott, a 71-year-old Wall Street securities firm, will keep its other brokerage operations.</p>
+        <p>Fidelity Investment, a unit of the FMR Corporation, is the nation's largest mutual fund company. .</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

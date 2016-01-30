@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Valerie Townsend, K. M. Hansen</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="783834"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">TOWNSEND, VALERIE JOYCE (VALERIE JOYCE HANSEN)</person>
+        <person class="indexing_service">HANSEN, KRISTOPHER MARTIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DB1730F933A1575BC0A963958260" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Valerie Townsend, K. M. Hansen</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Valerie Joyce Townsend, the daughter of Kathe Menick Townsend of Danbury, Conn., and Dr. Gary L. Townsend of Brookfield, Conn., was married yesterday to Kristopher Martin Hansen, the son of Mr. and Mrs. Martin R. Hansen of Lanoka Harbor, N.J. The Rev. Robert P. Morrissey performed the ceremony at St. Mary's Roman Catholic Church in Ridgefield, Conn.</p>
+        <p>The couple graduated from Fordham University, from which the bridegroom also received a law degree.</p>
+      </block>
+      <block class="full_text">
+        <p>Valerie Joyce Townsend, the daughter of Kathe Menick Townsend of Danbury, Conn., and Dr. Gary L. Townsend of Brookfield, Conn., was married yesterday to Kristopher Martin Hansen, the son of Mr. and Mrs. Martin R. Hansen of Lanoka Harbor, N.J. The Rev. Robert P. Morrissey performed the ceremony at St. Mary's Roman Catholic Church in Ridgefield, Conn.</p>
+        <p>The couple graduated from Fordham University, from which the bridegroom also received a law degree.</p>
+        <p>Mrs. Hansen, 26, is the stepdaughter of Dr. Joan P. Draper. The bride is studying for a master's degree in art history at Hunter College.</p>
+        <p>Mr. Hansen, 25, is to become an associate at Stroock &amp; Stroock &amp; Lavan, the New York law firm, next month.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

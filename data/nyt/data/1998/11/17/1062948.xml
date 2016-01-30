@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What About Soft Science?</title>
+    <meta content="LTR005224" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1062948"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="RESOLVING THAT SCIENCE IS AT AN END? NOT SO FAST."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Sociology</classifier>
+        <person class="indexing_service">Belden, David</person>
+        <person class="indexing_service">Horgan, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sociology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DF1F31F934A25752C1A96E958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What About Soft Science?</hl1>
+      </hedline>
+      <abstract>
+        <p>David Belden letter says John Horgan's Nov 10 article on the limits of science did not address the soft sciences like sociology</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The debate featured here last week regarding science and the limits of what can be learned (''Resolved: Science Is at an End. Or Is It?'') provoked a volley of letters from readers. Most begged to differ with John Horgan, author of ''The End of Science'' (Helix Books, 1996), who argued, ''We are down to the details now.'' Instead, many threw their weight with Sir John Maddox, former editor of the journal Nature, who asserted, ''Nobody can tell what lies ahead.''</p>
+        <p>To the Editor:</p>
+        <p>As a sociologist and science fiction writer I am wholly unequipped to argue with John Horgan about hard science. But the social or soft sciences can almost by definition never end. There are simply too many potential variables in any sociological analysis. The greatest challenge for humanity, the thing that may give most meaning to our lives in the future, is how to live together and in harmony with our planet. We are babes in this regard at the moment, and the soft sciences will likely come into their own as the most exciting area of science once they become more sophisticated and we learn how to use them more seriously as guides for living.</p>
+        <p>DAVID BELDEN  Accord, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>The debate featured here last week regarding science and the limits of what can be learned (''Resolved: Science Is at an End. Or Is It?'') provoked a volley of letters from readers. Most begged to differ with John Horgan, author of ''The End of Science'' (Helix Books, 1996), who argued, ''We are down to the details now.'' Instead, many threw their weight with Sir John Maddox, former editor of the journal Nature, who asserted, ''Nobody can tell what lies ahead.''</p>
+        <p>To the Editor:</p>
+        <p>As a sociologist and science fiction writer I am wholly unequipped to argue with John Horgan about hard science. But the social or soft sciences can almost by definition never end. There are simply too many potential variables in any sociological analysis. The greatest challenge for humanity, the thing that may give most meaning to our lives in the future, is how to live together and in harmony with our planet. We are babes in this regard at the moment, and the soft sciences will likely come into their own as the most exciting area of science once they become more sophisticated and we learn how to use them more seriously as guides for living.</p>
+        <p>DAVID BELDEN  Accord, N.Y.</p>
+        <p>RESOLVING THAT SCIENCE IS AT AN END? NOT SO FAST.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

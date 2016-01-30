@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Jersey Daily Briefing;Charges in an E-Mail Deluge</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="812280"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <org class="indexing_service">MONMOUTH COLLEGE</org>
+        <person class="indexing_service">LASCALA, DOMINICK S</person>
+        <person class="indexing_service">KELLER, SUSAN JO</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6DD1139F93AA15752C1A963958260" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Jersey Daily Briefing;Charges in an E-Mail Deluge</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN JO KELLER</byline>
+      <byline class="normalized_byline">KELLER, SUSAN JO</byline>
+      <dateline>WEST LONG BRANCH</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Monmouth University student sent an "E-mail bomb" to get even with officials who had revoked his computer privileges, Federal prosecutors said yesterday. The "bomb," 24,000 computer messages sent in just three hours, temporarily disabled the university's electronic mail system. The student, Dominick S. LaScala, 21, of Bethpage, L.I., faces both felony and misdemeanor charges.</p>
+      </block>
+      <block class="full_text">
+        <p>A Monmouth University student sent an "E-mail bomb" to get even with officials who had revoked his computer privileges, Federal prosecutors said yesterday. The "bomb," 24,000 computer messages sent in just three hours, temporarily disabled the university's electronic mail system. The student, Dominick S. LaScala, 21, of Bethpage, L.I., faces both felony and misdemeanor charges.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

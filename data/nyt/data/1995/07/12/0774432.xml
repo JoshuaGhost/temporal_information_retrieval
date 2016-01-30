@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stocks Pull Back, With Dow Falling 21.79 Points</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="774432"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES (FARES, FEES AND RATES)</classifier>
+        <classifier class="indexing_service" type="descriptor">DOW JONES STOCK AVERAGE</classifier>
+        <person class="indexing_service">SLOANE, LEONARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDE1431F931A25754C0A963958260" item-length="539" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stocks Pull Back, With Dow Falling 21.79 Points</hl1>
+      </hedline>
+      <byline class="print_byline">By LEONARD SLOANE</byline>
+      <byline class="normalized_byline">SLOANE, LEONARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The stock market pulled back yesterday, with many traders taking profits in issues that have had strong run-ups this year.</p>
+        <p>"It was a drifting market," said Robert N. Gordon, president of Twenty-First Securities Corporation. "Selling was predominant all day, but it wasn't anything major. A real correction would have been a lot more."</p>
+      </block>
+      <block class="full_text">
+        <p>The stock market pulled back yesterday, with many traders taking profits in issues that have had strong run-ups this year.</p>
+        <p>"It was a drifting market," said Robert N. Gordon, president of Twenty-First Securities Corporation. "Selling was predominant all day, but it wasn't anything major. A real correction would have been a lot more."</p>
+        <p>After the market closed, the Federal Reserve announced that consumer borrowing in May rose at a faster pace than economists had expected. Consumer installment credit gained $11.5 billion for the month, led by heavy credit card use and marking the 24th straight monthly increase. Some analysts believe that this continuing spree might be a sign of economic distress if consumers are borrowing to meet their routine expenses.</p>
+        <p>The Dow Jones industrial average fell 21.79 points, to 4,680.60.</p>
+        <p>Most other major indexes also fell, with the Standard &amp; Poor's 500-stock index dropping 2.41 points, to 554.78, and the Nasdaq composite index declining 6.41 points, to 970.22. But the American Stock Exchange market value index rose 2.88 points, to a record high of 509.05.</p>
+        <p>Declines on the New York Stock Exchange topped advances by 1,332 to 1,045. Big Board turnover fell to 376.8 million shares, from 409.7 million shares on Monday.</p>
+        <p>Paper stocks, which have jumped almost 33 percent since the end of January, tumbled yesterday. Morgan Stanley downgraded four companies in this industry from a strong buy to outperform. The companies were Mead, off 3 1/8, to 60 1/2; Champion International, off 2 3/4, to 56 1/4; Consolidated Papers, off 1/8, to 59 1/8, and Bowater, off 2 3/8, to 51 1/8. International Paper, which said its second-quarter earnings more than tripled, still came under selling pressure, with its shares dropping 4 1/8, to 86 5/8.</p>
+        <p>Auto issues also fell, partly attributable to an announcement by Chrysler late Monday that it will take a $143 million after-tax charge against its second-quarter earnings. Chrysler was down 1 1/8, to 48 7/8; Ford was off 5/8, to 32 1/4, and General Motors was off 1 1/4, to 50 1/2.</p>
+        <p>Many technology stocks, part of a group that has led the stock market for many months, were off yesterday. Advanced Micro Devices reported unexpectedly weak second-quarter profits late Monday and eased 1/4 yesterday, to 34 3/8. Microsoft declined 2 3/8, to 96 1/2; Compaq fell 1 1/8, to 45 7/8, and VMark Software dropped 5 1/8, to 15 5/8. The semiconductor industry's new orders report is scheduled to be released tomorrow.</p>
+        <p>Brokerage and other financial-services stocks sunk amid losses in the bond market, which pushed the yield on the bellwether 30-year Treasury bond to 6.58 percent, from 6.52 percent Monday. A standout was Salomon, which dropped 3 5/8, to 37 1/4, after saying that it anticipates a second-quarter loss of around $65 million.</p>
+        <p>Some issues bucked the downward trend, however. United Technologies picked up 7/8, to 81 3/8, after Prudential Securities raised its 12-month target price for the stock to $100 from $84. Sensormatic gained 1 1/4, to 25 7/8, following a report by Raymond James that upgraded the issue to a buy from neutral. And Greenbrier, which reported a sharp increase in third-quarter earnings, jumped 2 1/8, to 15.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

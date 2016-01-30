@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="464262"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">REAL ESTATE</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECLOSURES</classifier>
+        <person class="indexing_service">BOESKY, IVAN F</person>
+        <person class="indexing_service">BOESKY, SEEMA</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreclosures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D7153CF932A3575BC0A967958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN HELLER ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IVAN F. BOESKY, the Wall Street speculator, has been accused by his estranged wife of defaulting on promissory notes worth more than $2.3 million.</p>
+        <p>The Associated Press reported yesterday that SEEMA BOESKY filed a foreclosure action in Hawaii state court on July 19, seeking possession of Mr. Boesky's Yacht Harbor Towers condominium in Honolulu. It asserts that he failed to meet interest payments on two loans: a $2 million note made in April 1987, and a $320,518 note issued in August 1988.</p>
+      </block>
+      <block class="full_text">
+        <p>IVAN F. BOESKY, the Wall Street speculator, has been accused by his estranged wife of defaulting on promissory notes worth more than $2.3 million.</p>
+        <p>The Associated Press reported yesterday that SEEMA BOESKY filed a foreclosure action in Hawaii state court on July 19, seeking possession of Mr. Boesky's Yacht Harbor Towers condominium in Honolulu. It asserts that he failed to meet interest payments on two loans: a $2 million note made in April 1987, and a $320,518 note issued in August 1988.</p>
+        <p>The loans, with annual interest of 9 percent, were used to finance Mr. Boesky's purchase of the condominium, the suit said.</p>
+        <p>Mr. Boesky bought the condominium in July 1986 for about $2.9 million, a few months before he agreed to pay $100 million to settle Securities and Exchange Commission charges that he had illegally traded stocks using inside information. He later served two years of a three-year Federal prison term after pleading guilty to a criminal charge.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

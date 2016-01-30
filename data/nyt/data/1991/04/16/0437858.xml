@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mitchell Is Suspended</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="437858"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINES (PENALTIES)</classifier>
+        <org class="indexing_service">SAN FRANCISCO GIANTS</org>
+        <org class="indexing_service">NATIONAL LEAGUE</org>
+        <org class="indexing_service">SAN DIEGO PADRES</org>
+        <person class="indexing_service">MITCHELL, KEVIN</person>
+        <person class="indexing_service">WHITE, BILL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Francisco Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/San Diego Padres</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DD1731F935A25757C0A967958260" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mitchell Is Suspended</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KEVIN MITCHELL of the San Francisco Giants was suspended for two games and fined an undisclosed amount by National League President Bill White yesterday for his role in a brawl on April 10 in San Diego.</p>
+        <p>The suspension is set to begin today, when the Giants play Los Angeles at San Francisco. Mitchell could delay the suspension by filing an appeal with White. If an appeal is filed, any penalty would not be imposed until after a hearing.</p>
+      </block>
+      <block class="full_text">
+        <p>KEVIN MITCHELL of the San Francisco Giants was suspended for two games and fined an undisclosed amount by National League President Bill White yesterday for his role in a brawl on April 10 in San Diego.</p>
+        <p>The suspension is set to begin today, when the Giants play Los Angeles at San Francisco. Mitchell could delay the suspension by filing an appeal with White. If an appeal is filed, any penalty would not be imposed until after a hearing.</p>
+        <p>"We're going to make decision in the morning," Mitchell's agent, JOE SROBA, said yesterday.</p>
+        <p>Mitchell, whose five home runs lead the major leagues, was brushed back by Padres pitcher BRUCE HURST in the fourth inning of last Wednesday's game after hitting a homer in his first time at bat.</p>
+        <p>Mitchell was restrained from going after Hurst after the brushback pitch, but charged the mound when the next pitch bounced and hit him in the foot. Mitchell hit Hurst with a body block before being tackled by Padres' FRED MCGRIFF and was ejected from the game. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

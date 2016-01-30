@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ann Harrington Wed in Vermont</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="64" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="379487"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HARRINGTON, ANN (ANN SHILLING)</person>
+        <person class="indexing_service">SHILLING, GEOFFREY B</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D9143FF935A1575BC0A966958260" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ann Harrington Wed in Vermont</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Ann Marie Harrington, the daughter of Mr. and Mrs. Ray D. Harrington of Hancock, N.H., was married yesterday to Geoffrey Blandford Shilling, a son of Dr. and Mrs. A. Gary Shilling of Short Hills, N.J. The Rev. Charles Fox performed the ceremony at the Old First Congregational Church in Old Bennington,</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Ann Marie Harrington, the daughter of Mr. and Mrs. Ray D. Harrington of Hancock, N.H., was married yesterday to Geoffrey Blandford Shilling, a son of Dr. and Mrs. A. Gary Shilling of Short Hills, N.J. The Rev. Charles Fox performed the ceremony at the Old First Congregational Church in Old Bennington,</p>
+        <p>Ann Marie Harrington, the daughter of Mr. and Mrs. Ray D. Harrington of Hancock, N.H., was married yesterday to Geoffrey Blandford Shilling, a son of Dr. and Mrs. A. Gary Shilling of Short Hills, N.J. The Rev. Charles Fox performed the ceremony at the Old First Congregational Church in Old Bennington, Vt.</p>
+        <p>Mrs. Shilling, 24 years old, graduated from Bates College and is a graduate student in Chinese language and literature at the University of Washington. Her father is an engineering manager at the Digital Equipment Corporation in Merrimack, N.H. Her mother, Marian Harrington, was a Republican member of the New Hampshire House of Representatives from 1982 to 1988 and is a former Selectman in Hancock.</p>
+        <p>The bridegroom, 25, a cum laude graduate of Bates College, is a computer software engineer at Microsoft in Seattle. His mother, Margaret B. Shilling, is a district sales manager in Short Hills for the Carlisle Collection, a women's clothing company in New York. His father is the president of A. Gary Shilling &amp; Company, economic consultants and asset managers in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

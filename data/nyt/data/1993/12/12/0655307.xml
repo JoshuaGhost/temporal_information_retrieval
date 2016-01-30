@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THERE'S NO SIMPLE SUICIDE</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="655307"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUICIDES AND SUICIDE ATTEMPTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUICIDES AND SUICIDE ATTEMPTS</classifier>
+        <person class="indexing_service">BELKIN, LISA</person>
+        <person class="indexing_service">BELKIN, LISA</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D91239F931A25751C1A965958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THERE'S NO SIMPLE SUICIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I see Ralph Mero and the Compassion in Dying organization as taking a step in the right direction, but only a baby step, because they act in the shadows.</p>
+      </block>
+      <block class="full_text">
+        <p>I see Ralph Mero and the Compassion in Dying organization as taking a step in the right direction, but only a baby step, because they act in the shadows.</p>
+        <p>I see Jack Kevorkian as trying to take the giant step that would require the public to recognize that assisted suicides are occurring and should be permitted by law. I'm reluctant to endorse Kevorkian's confrontational style, but I regard his speaking out as necessary to his being heard. DON R. WILSON Bridgman, Mich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

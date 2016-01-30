@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TBR: Inside the List</title>
+    <meta content="04besthard.1-1" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="74" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/04/books/review/04tbr.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1722122"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="TBR"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Banville, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EEDD1731F937A35751C1A9639C8B63" item-length="524" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TBR: Inside the List</hl1>
+        <hl2 class="online_headline">Inside the list</hl2>
+      </hedline>
+      <byline class="print_byline">By Dwight Garner</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAKING BOOKER: John Banville's Booker Prize-winning novel, ''The Sea'' is No. 28 on this week's extended hardcover fiction list, and it seems unlikely to climb much higher -- making it the third Booker selection in a row, after DBC Pierre's ''Vernon God Little'' (2003) and Alan Hollinghurst's ''Line of Beauty'' (2004) not to rise into The Times's top 15. The last Booker winner to make a deep impression on this country's readers was Yann Martel's ''Life of Pi'' (2002), which spent three months on the Times list in hardcover. Banville's novel is selling well in independent bookstores -- if this week's list were based only on sales from indie booksellers, omitting the chain stores, ''The Sea'' would move up 20 spots to No. 8. Banville's novel has taken a beating since the Booker announcement. (Writing in The Independent of London, Boyd Tonkin said the jury made ''the most perverse and perhaps the most indefensible choice in the 36-year history of the contest.'') Banville didn't help his case when he said, while accepting his award, ''It's nice to see a work of art winning the Booker Prize.'' Banville, at this point, may feel some sympathy with Pierre, who accepted his 2003 Booker by commenting, ''As Lloyd Bridges said, 'I think I picked the wrong week to give up sniffing glue.' ''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>John Banville makes Booker; George R. R. Martin, the American Tolkien.</p>
+      </block>
+      <block class="full_text">
+        <p>MAKING BOOKER: John Banville's Booker Prize-winning novel, ''The Sea'' is No. 28 on this week's extended hardcover fiction list, and it seems unlikely to climb much higher -- making it the third Booker selection in a row, after DBC Pierre's ''Vernon God Little'' (2003) and Alan Hollinghurst's ''Line of Beauty'' (2004) not to rise into The Times's top 15. The last Booker winner to make a deep impression on this country's readers was Yann Martel's ''Life of Pi'' (2002), which spent three months on the Times list in hardcover. Banville's novel is selling well in independent bookstores -- if this week's list were based only on sales from indie booksellers, omitting the chain stores, ''The Sea'' would move up 20 spots to No. 8. Banville's novel has taken a beating since the Booker announcement. (Writing in The Independent of London, Boyd Tonkin said the jury made ''the most perverse and perhaps the most indefensible choice in the 36-year history of the contest.'') Banville didn't help his case when he said, while accepting his award, ''It's nice to see a work of art winning the Booker Prize.'' Banville, at this point, may feel some sympathy with Pierre, who accepted his 2003 Booker by commenting, ''As Lloyd Bridges said, 'I think I picked the wrong week to give up sniffing glue.' ''</p>
+        <p>AMERICAN TOLKIEN: Lev Grossman, who reviews books for Time magazine, is among this country's smartest and most reliable critics, but he's particularly good on fantasy novels -- and he likes what he sees in ''A Feast for Crows,'' the new novel from George R. R. Martin (below left). ''This is as good a time as any,'' Grossman wrote a few weeks ago, ''to proclaim him the American Tolkien.'' In his review, Grossman notes Martin's fondness for ''sacked castles, bear pits . . . duels to the death, ambushes in forests and corpses left rotting in green hedgerows.'' All of which is enough to persuade me, despite my admiration for Grossman's stuff, to run as far from Martin's novel as I can. (I'm a confirmed fantasy avoider, but Martin doesn't need me -- his novel is No. 7 on this week's hardcover list, after making its debut last week at No. 1.) I am a fan, though, of Martin's friendly and encyclopedic Web site, which includes, among other things, photographs of the author's extensive collection of toy knights and medieval miniatures. Martin also files periodic posts on what he's reading and watching, and he's a rowdy, come-as-you-are cultural critic. This summer he called ''Empire,'' ABC's Roman-themed mini-series, ''excruciating and hilarious'' and added: '' 'Xena: Warrior Princess' was a History Channel documentary compared to this thing.'' About Steven Spielberg's remake of ''War of the Worlds,'' Martin had mixed feelings. But, he wrote, ''I did enjoy seeing the aliens destroy my hometown. That's Bayonne, New Jersey, in the opening sequences.''</p>
+        <p>Dwight Garner</p>
+        <p>TBR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Are Split on Case of Plague Expert</title>
+    <meta content="03PLAG$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1540217"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Plague</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Perjury</classifier>
+        <org class="indexing_service">Texas Tech University</org>
+        <person class="indexing_service">Butler, Thomas C (Prof)</person>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Perjury</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plague</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DF163DF930A35751C1A9659C8B63" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Are Split on Case of Plague Expert</hl1>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Scientists and lawyers are divided in reaction t</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A day after after a federal jury in Texas convicted a respected plague researcher on 47 counts but cleared him of the most serious charges of research misconduct, scientists and lawyers were as divided in their opinions yesterday as the verdict itself.</p>
+        <p>Some said the prosecution of the scientist, Dr. Thomas C. Butler of Texas Tech University, would deter research involving bioterrorism. Others said it would spur researchers to be more careful in handling dangerous organisms.</p>
+      </block>
+      <block class="full_text">
+        <p>A day after after a federal jury in Texas convicted a respected plague researcher on 47 counts but cleared him of the most serious charges of research misconduct, scientists and lawyers were as divided in their opinions yesterday as the verdict itself.</p>
+        <p>Some said the prosecution of the scientist, Dr. Thomas C. Butler of Texas Tech University, would deter research involving bioterrorism. Others said it would spur researchers to be more careful in handling dangerous organisms.</p>
+        <p>''The Butler trial sent mixed and, in many ways, unfortunate messages'' that will discourage researchers, said Dr. Tara O'Toole, who heads the Center for Biosecurity at the University of Pittsburgh Medical Center.</p>
+        <p>Dr. Butler was largely acquitted of misconduct in his research. Most of the counts on which he was convicted involved what the prosecutors called shadow contracts, in which half of the grant money for clinical trials went directly to him instead of through university accounts. The jury also convicted him of three counts relating to a shipment of plague samples to collaborators in Tanzania without the proper permit.</p>
+        <p>''We're very satisfied the jury has held him accountable the on export violations and defrauding his employer,'' said Robert Webster, a federal attorney prosecuting the case.</p>
+        <p>In January, Dr. Butler reported 30 vials of plague missing from his laboratory at Texas Tech, in Lubbock. He later signed an affidavit saying he had accidentally destroyed the vials, then lied to investigators. The jury acquitted him of the charges directly arising from that incident.</p>
+        <p>Dr. Peter C. Agre, a professor of biological chemistry and medicine at Johns Hopkins University who shared this year's Nobel Prize in Chemistry and is a former student of Dr. Butler, criticized the prosecution.</p>
+        <p>''My sense is he's cleared of the serious charges,'' Dr. Agre said. Dr. Agre was one of four Nobel winners who issued a statement criticizing the case.</p>
+        <p>Dr. Ronald M. Atlas, a professor of biology at the University of Louisville and former president of the American Society for Microbiology, said reaction within the field had been more muted and added, ''Scientists are not above the law.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

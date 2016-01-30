@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Illinois Power Co. reports earnings for Qtr to Dec 31</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="422747"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6D6143DF930A25751C0A967958260" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Illinois Power Co. reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Illinois Power Co. (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Revenue</p>
+        <p>349,226,000</p>
+        <p>313,144,000</p>
+        <p>Net loss</p>
+        <p>12,832,000</p>
+        <p>1,169,000</p>
+        <p>Shares outst</p>
+        <p>75,649,896</p>
+        <p>75,544,681</p>
+        <p>Yr rev</p>
+        <p>1,395,690,000</p>
+        <p>1,312,630,000</p>
+        <p>Net inc</p>
+        <p>58,479,000</p>
+        <p>b288,432,000</p>
+        <p>Share earns</p>
+        <p>.29</p>
+        <p>--</p>
+        <p>Shares outst</p>
+        <p>75,612,759</p>
+        <p>75,052,141</p>
+        <p>b-Net loss and included a writeoff of $ 346 million. Per share results were after payment of preferred dividends.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

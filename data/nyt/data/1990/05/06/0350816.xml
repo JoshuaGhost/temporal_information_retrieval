@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unfair to Frogs</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="350816"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="HEADLINERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BIOLOGY AND BIOCHEMISTRY</classifier>
+        <classifier class="indexing_service" type="descriptor">FROGS</classifier>
+        <org class="indexing_service">STATE UNIVERSITY AT STONY BROOK (SUNY)</org>
+        <person class="indexing_service">ROUTH, JENNIFER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amphibians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DB123AF935A35756C0A966958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unfair to Frogs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A would-be biochemistry major has moved the debate over frog dissection from its familiar high-school forum to the university. Jennifer Routh, a sophomore at the State University of New York at Stony Brook who is considering a career in medicine, is suing the school over the frog dissection requirement in an introductory biology course.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A would-be biochemistry major has moved the debate over frog dissection from its familiar high-school forum to the university. Jennifer Routh, a sophomore at the State University of New York at Stony Brook who is considering a career in medicine, is suing the school over the frog dissection requirement in an introductory biology course.</p>
+        <p>A would-be biochemistry major has moved the debate over frog dissection from its familiar high-school forum to the university. Jennifer Routh, a sophomore at the State University of New York at Stony Brook who is considering a career in medicine, is suing the school over the frog dissection requirement in an introductory biology course. Ms. Routh, a vegetarian, also rejected the option of observing a partner's work. The course is a requirement for biology and biochemistry majors. In her suit, Ms. Routh argues that the requirement violates her First Amendment right to exercise her moral and religious beliefs. Ms. Routh's lawyer, Gary Francione, said the lawsuit is the first time a university has been sued over participation in dissection, although many high schools have been successfully sued. Mr. Francione said he hoped the case ''would finally crystalize what is a clear rule of law, that the state can never make a person engage in conduct inimical to religious and moral beliefs under these sorts of circumstances.''  HEADLINERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

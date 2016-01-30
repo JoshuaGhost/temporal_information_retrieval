@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Fat Comedy' to Close</title>
+    <meta content="17LOVE" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1054550"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <person class="indexing_service">Bartlett, Rob</person>
+        <object.title class="indexing_service">More to Love: A Big Fat Comedy (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDA113AF934A25753C1A96E958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Fat Comedy' to Close</hl1>
+      </hedline>
+      <abstract>
+        <p>More to Love: A Big Fat Comedy, play by Rob Bartlett, to close Oct 17 (S)t</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''More to Love: A Big Fat Comedy,'' a play by Rob Bartlett, is to close after this evening's performance at the Eugene O'Neill Theater, 230 West 49th Street, Manhattan. The show, directed by Jack O'Brien, will have run for 17 previews and four regular performances.</p>
+      </block>
+      <block class="full_text">
+        <p>''More to Love: A Big Fat Comedy,'' a play by Rob Bartlett, is to close after this evening's performance at the Eugene O'Neill Theater, 230 West 49th Street, Manhattan. The show, directed by Jack O'Brien, will have run for 17 previews and four regular performances.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Market Place; Information was the key in the selloff of BJ Services stock.</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="631192"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS (CORPORATE)</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCLOSURE OF INFORMATION</classifier>
+        <org class="indexing_service">BJ SERVICES CO</org>
+        <person class="indexing_service">EICHENWALD, KURT</person>
+        <object.title class="indexing_service">MARKET PLACE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Market Place</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D71E3EF934A1575BC0A965958260" item-length="644" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Market Place; Information was the key in the selloff of BJ Services stock.</hl1>
+      </hedline>
+      <byline class="print_byline">By Kurt Eichenwald</byline>
+      <byline class="normalized_byline">EICHENWALD, KURT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SELL on the rumor, buy on the news. That's Wall Street's advice for individual investors. But the pros have a different refrain: sell when company officials tell you the news, buy when they tell everyone else.</p>
+        <p>Such was the case the last two days with the BJ Services Company, an oil and gas services concern. After rising fairly steadily since the middle of last month, the price of BJ stock began to fall precipitously on Wednesday, dropping $1.875 to close at $26 a share in trading on the New York Stock Exchange. The selloff continued yesterday morning, with the shares falling as much as $4.25, to $21.75, before trading was halted.</p>
+      </block>
+      <block class="full_text">
+        <p>SELL on the rumor, buy on the news. That's Wall Street's advice for individual investors. But the pros have a different refrain: sell when company officials tell you the news, buy when they tell everyone else.</p>
+        <p>Such was the case the last two days with the BJ Services Company, an oil and gas services concern. After rising fairly steadily since the middle of last month, the price of BJ stock began to fall precipitously on Wednesday, dropping $1.875 to close at $26 a share in trading on the New York Stock Exchange. The selloff continued yesterday morning, with the shares falling as much as $4.25, to $21.75, before trading was halted.</p>
+        <p>Individual investors in the stock must have been perplexed. No news had been announced that would account for the collapse that by early yesterday cost investors $612.50 in paper losses for every hundred shares they owned.</p>
+        <p>What happened? The company decided that it was not going to meet analysts' revenue estimates, and began telling analysts in telephone conversations on Wednesday afternoon. Anybody who got to hear that news probably sold at a good price; as for everyone else, well, too bad.</p>
+        <p>Even with the stock in a power dive, trading was not halted until 11:05 A.M., Eastern time, yesterday, when the number of sell orders swamped the buy orders. Only at 11:25, long after analysts first learned that their revenue estimates were too high, did an announcement come across the wire that news was pending.</p>
+        <p>The news was a dilly. The company said that its earnings would be lower than expected because of weakness in the drilling industry. In the announcement, BJ, based in Houston, said it expected fourth-quarter per-share operating earnings in the range of 24 cents to 28 cents, far below the earlier estimate by analysts of 35 cents a share. Nonrecurring tax benefits are expected to lift total earnings to the range of 30 cents to 35 cents.</p>
+        <p>Much of the troubles stemmed from overseas business. Some analysts were told yesterday that BJ contracts with customers in Trinidad, the North Sea and Asia had been delayed for a variety of reasons. Those delays involve everything from scheduling problems that left equipment for the North Sea in dry dock to operational problems in Trinidad that slowed business.</p>
+        <p>Once the news was finally out, individual investors who may have finally caught up with the situation had a dilemma: if the news made them want to sell, then they probably should wait -- the market was headed back up.</p>
+        <p>The shares reopened at 12:48 P.M., up $1.75 from when trading was halted. The share price crawled upward much of the rest of the trading session to close at $24.125, down only $1.875. More than 1.6 million shares, or 10 percent of the total outstanding, changed hands yesterday. By the end of yesterday's session, an individual investor with 100 shares of the stock lost $375 on paper over two days simply because of a lack of access to the information the analysts had.</p>
+        <p>Executives with BJ said yesterday that the information disclosed to some analysts on Wednesday was general, and did not include any of the specific numbers. But, by yesterday morning, the analysts knew not only that the revenue estimates were high, but also that the company would be coming out with an announcement saying so.</p>
+        <p>The information was disclosed during telephone conversations in response to individual analysts' questions. "They are constantly calling, asking how things are going, and they said they heard about weakness," Dow Heard, general counsel for BJ, said. "We felt like we were getting enough questions that we needed to say our revenue projections were down about 5 to 6 percent."</p>
+        <p>Though they believe the company did nothing wrong, executives implied they would be more careful next time. "The idea was not to give an advantage to somebody over somebody else," Mr. Heard said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

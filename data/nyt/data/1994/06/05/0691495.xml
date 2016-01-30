@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Big Roller Coaster</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="691495"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="TRAVEL ADVISORY: SKYWARD"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AMUSEMENT PARKS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">ROLLER COASTERS</classifier>
+        <location class="indexing_service">SANDUSKY (OHIO)</location>
+        <location class="indexing_service">OHIO</location>
+        <org class="indexing_service">CEDAR POINT AMUSEMENT PARK (SANDUSKY, OHIO)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roller Coasters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Amusement and Theme Parks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tableware</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DA133BF936A35755C0A962958260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Big Roller Coaster</hl1>
+      </hedline>
+      <byline class="print_byline">By Terry Trucco</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The new Raptor ride at Cedar Point amusement park in Sandusky, Ohio, is billed as the tallest, fastest and steepest inverted roller coaster in the world. The steel coaster, which uses ski-lift like chairs suspended from an overhead track, is 137 feet high, has a 45-degree, 119-foot drop and hits speeds of 57 miles an hour as it takes riders through a 100-foot-tall vertical loop, two inverted corkscrews and a zero-gravity roll, all in 2 minutes and 16 seconds. Riders must be at least 54 inches tall to ride the Raptor.</p>
+      </block>
+      <block class="full_text">
+        <p>The new Raptor ride at Cedar Point amusement park in Sandusky, Ohio, is billed as the tallest, fastest and steepest inverted roller coaster in the world. The steel coaster, which uses ski-lift like chairs suspended from an overhead track, is 137 feet high, has a 45-degree, 119-foot drop and hits speeds of 57 miles an hour as it takes riders through a 100-foot-tall vertical loop, two inverted corkscrews and a zero-gravity roll, all in 2 minutes and 16 seconds. Riders must be at least 54 inches tall to ride the Raptor.</p>
+        <p>Cedar Point is open daily to Labor Day, from 10 A.M. to 10 P.M., and will stay open until midnight on Fridays and Saturdays from July 1 to Aug. 20. Admission is $25.95 for ages 4 through 59, 48 inches and taller; $4.95 for ages 4 and older under 48 inches tall; $14.95 for seniors age 60 and older. Information: (419) 627-2350. TERRY TRUCCO  TRAVEL ADVISORY: SKYWARD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

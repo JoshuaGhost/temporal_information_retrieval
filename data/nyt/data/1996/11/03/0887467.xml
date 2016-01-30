@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ALSO INSIDE</title>
+    <meta content="03INDE$03" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="887467"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2DB1638F930A35752C1A960958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ALSO INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAKING IT WORK</p>
+        <p>3  What's in store for the Brooklyn Academy of Music? Harvey Lichtenstein looks to the future.</p>
+        <p>NEW YORKERS &amp; CO.</p>
+        <p>4  Herald Price Fahringer, counselor to adult entertainment businesses, holds his nose while he fights against sex zones.</p>
+        <p>MOVIE CLOCK</p>
+        <p>16  What's showing at the local movie houses, today through Thursday.</p>
+        <p>PLAYING IN THE NEIGHBORHOOD</p>
+        <p>18  Blues guitar and coffee in Park Slope; cooking for charity in Harlem; the history of Broad Channel.</p>
+        <p>GOOD EATING</p>
+        <p>18  Meals in Midtown: Swedish favorites at Aquavit; Mogul cuisine at Darbar; California-style cooking at Michael's.</p>
+        <p>SOAPBOX</p>
+        <p>19  In defense of home-grown culture. And letters.</p>
+      </block>
+      <block class="full_text">
+        <p>MAKING IT WORK</p>
+        <p>3  What's in store for the Brooklyn Academy of Music? Harvey Lichtenstein looks to the future.</p>
+        <p>NEW YORKERS &amp; CO.</p>
+        <p>4  Herald Price Fahringer, counselor to adult entertainment businesses, holds his nose while he fights against sex zones.</p>
+        <p>MOVIE CLOCK</p>
+        <p>16  What's showing at the local movie houses, today through Thursday.</p>
+        <p>PLAYING IN THE NEIGHBORHOOD</p>
+        <p>18  Blues guitar and coffee in Park Slope; cooking for charity in Harlem; the history of Broad Channel.</p>
+        <p>GOOD EATING</p>
+        <p>18  Meals in Midtown: Swedish favorites at Aquavit; Mogul cuisine at Darbar; California-style cooking at Michael's.</p>
+        <p>SOAPBOX</p>
+        <p>19  In defense of home-grown culture. And letters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

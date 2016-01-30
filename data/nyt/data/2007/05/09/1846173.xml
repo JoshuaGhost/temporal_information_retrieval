@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Africa: Lesotho: 39 Die In Bus Crash</title>
+    <meta content="09briefs-6" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1846173"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Trucks and Trucking</classifier>
+        <classifier class="indexing_service" type="descriptor">Speed Limits and Speeding</classifier>
+        <location class="indexing_service">Lesotho</location>
+        <person class="indexing_service">Wines, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Lesotho</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speed Limits and Speeding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E3DA1731F93AA35756C0A9619C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Africa: Lesotho: 39 Die In Bus Crash</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL WINES</byline>
+      <byline class="normalized_byline">Wines, Michael</byline>
+      <abstract>
+        <p>Thirty nine people die in northern Lesotho when bus carrying 103 textile workers collides with tractor-trailer truck; one or both vehicles may have been speeding (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At least 39 people died late Monday when a bus carrying 103 textile workers collided with a tractor-trailer truck in northern Lesotho, a police spokesman said. The accident occurred while the bus, traveling between Maputsoe, a garment-making center on the South Africa border, and Fobane, a village about 15 miles south, was on a winding road. One or both vehicles may have been speeding, the police said.</p>
+        <p>MICHAEL WINES</p>
+      </block>
+      <block class="full_text">
+        <p>At least 39 people died late Monday when a bus carrying 103 textile workers collided with a tractor-trailer truck in northern Lesotho, a police spokesman said. The accident occurred while the bus, traveling between Maputsoe, a garment-making center on the South Africa border, and Fobane, a village about 15 miles south, was on a winding road. One or both vehicles may have been speeding, the police said.</p>
+        <p>MICHAEL WINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Asia: South Korea: Hanaro Stake Raised</title>
+    <meta content="MB005030" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1518574"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <location class="indexing_service">South Korea</location>
+        <org class="indexing_service">Lg Group</org>
+        <org class="indexing_service">Hanaro Telecom</org>
+        <org class="indexing_service">American International Group</org>
+        <org class="indexing_service">Newbridge Capital</org>
+        <person class="indexing_service">Kirk, Don</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DF123BF933A2575AC0A9659C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Asia: South Korea: Hanaro Stake Raised</hl1>
+      </hedline>
+      <byline class="print_byline">By Don Kirk (NYT)</byline>
+      <byline class="normalized_byline">Kirk, Don</byline>
+      <abstract>
+        <p>South Korea's LG Group holds 18 percent of shares of Hanaro Telecom after buying additional 1.1 million shares in apparent effort to deter takeover bid by American International Group and Newbridge Capital (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The LG Group, a Korean conglomerate, holds 18 percent of the shares of Hanaro Telecom after buying an additional 1.1 million shares in a move seen as part of an effort to deter a takeover bid by the American International Group and Newbridge Capital.</p>
+        <p>Don Kirk (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The LG Group, a Korean conglomerate, holds 18 percent of the shares of Hanaro Telecom after buying an additional 1.1 million shares in a move seen as part of an effort to deter a takeover bid by the American International Group and Newbridge Capital.</p>
+        <p>Don Kirk (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

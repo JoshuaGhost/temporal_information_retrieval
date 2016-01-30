@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   HOLZINGER, CLAIRE</title>
+    <meta content="DN022404" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1561517"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">HOLZINGER, CLAIRE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7D9143CF937A15751C0A9629C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   HOLZINGER, CLAIRE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOLZINGER -- Claire, died peacefully on February 15, 2004 in North Salem, New York at age 91. Her husband John F. Holzinger predeceased her. She is survived by her daughter Dana Dyas and grandchildren Linsey and Tamesin of Montignysur-Loing, France as well as by her son John F. Holzinger Jr. and granddaughters Kimberly and Victoria of North Salem, New York. She was much Loved and will be missed by her immediate and extended Family and Friends.</p>
+      </block>
+      <block class="full_text">
+        <p>HOLZINGER -- Claire, died peacefully on February 15, 2004 in North Salem, New York at age 91. Her husband John F. Holzinger predeceased her. She is survived by her daughter Dana Dyas and grandchildren Linsey and Tamesin of Montignysur-Loing, France as well as by her son John F. Holzinger Jr. and granddaughters Kimberly and Victoria of North Salem, New York. She was much Loved and will be missed by her immediate and extended Family and Friends.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

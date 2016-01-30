@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Managed-Care Limits</title>
+    <meta content="LHANAU" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="928988"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Maintenance Organizations and Managed Care</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicare</classifier>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <person class="indexing_service">Hanauer, Lonnie B (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4DF1539F932A25756C0A961958260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Managed-Care Limits</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Lonnie B Hanauer letter notes that Medicare patients, especially the sick ones, are rejecting blandishments of managed-care because they know their medical choices will be limited (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Robert Reischauer suggests in ''What Medicare Reform?'' (Op-Ed, May 8) that Medicare patients be given a choice between ''inexpensive plans with limited choice'' and ''expensive coverage'' with ''additional premiums.'' That choice already exists. Managed-care plans regularly advertise ''no deductible, no co-pay, free pharmacy.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Robert Reischauer suggests in ''What Medicare Reform?'' (Op-Ed, May 8) that Medicare patients be given a choice between ''inexpensive plans with limited choice'' and ''expensive coverage'' with ''additional premiums.'' That choice already exists. Managed-care plans regularly advertise ''no deductible, no co-pay, free pharmacy.''</p>
+        <p>Most Medicare patients, especially the sick ones, are rejecting these blandishments because they also know this means limited choice of physicians, limited care options and a limited drug formulary.</p>
+        <p>Younger employees frequently get no choice about their ''managed'' care, but Medicare patients know better.</p>
+        <p>LONNIE B. HANAUER, M.D.  Millburn, N.J., May 8, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

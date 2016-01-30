@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Food Stamps for Job Seekers</title>
+    <meta content="03MON2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="913000"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Welfare (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Food Stamps</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Stamps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Welfare (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE5DF1F31F930A35750C0A961958260" item-length="504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Food Stamps for Job Seekers</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial praises Gov George E Pataki for applying for waiver from regulation in new Federal welfare law that would deny food stamps to adults unable to find work, but says his plan is flawed since it is temporary waiver that would end in November 1997 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. George Pataki of New York has done a sensible thing by applying for a waiver from the new Federal welfare law that would deny food stamps to adults who cannot find work. But his plan is flawed because it is a temporary waiver that would end on Nov. 21.</p>
+        <p>The new Federal law bars able-bodied, childless adults under 50 from collecting food stamps for more than three months in any three-year period unless they work at least 20 hours a week. This harsh rule applies even to those actively seeking work but unable to find a job who have no other means of support. The maximum amount of food stamps individuals in this category can receive is low to begin with, just $120 a month.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. George Pataki of New York has done a sensible thing by applying for a waiver from the new Federal welfare law that would deny food stamps to adults who cannot find work. But his plan is flawed because it is a temporary waiver that would end on Nov. 21.</p>
+        <p>The new Federal law bars able-bodied, childless adults under 50 from collecting food stamps for more than three months in any three-year period unless they work at least 20 hours a week. This harsh rule applies even to those actively seeking work but unable to find a job who have no other means of support. The maximum amount of food stamps individuals in this category can receive is low to begin with, just $120 a month.</p>
+        <p>Last November Governor Pataki filed for a waiver from the new rules for areas in the state with an unemployment rate of more than 10 percent. That applied only to the Bronx and Hamilton County in the Adirondacks, leaving thousands of food-stamp recipients in other areas without relief. Simply living in a county with a lower unemployment rate does not necessarily make it easier for a low-skilled worker to find a job.</p>
+        <p>Under pressure from anti-hunger advocates, the Governor has now broadened his waiver request to include all communities where the unemployment rate is at least 20 percent above the national average of 5.4 percent. Federal law does not allow a waiver for areas that do not meet this criterion.</p>
+        <p>Communities eligible for the waiver will get only temporary relief from the food-stamp cutoffs. Come November, individuals dependent on food stamps in those areas would once again be threatened with a loss of aid. Governor Pataki says the purpose of the temporary waiver is to give cities and counties time to develop enough workfare or volunteer slots so that all recipients can find work to qualify under the new food-stamp rules. But communities will be hard pressed to find enough workfare slots for all the single mothers who currently receive cash welfare benefits. Childless food-stamp recipients will inevitably be pushed to the back of the line.</p>
+        <p>The Governor thinks recipients can find community service work if they want to eat. But in practice, unpaid volunteer jobs are rare in the private sector. The bulk of community service work is in nonprofit agencies. In most communities, those organizations will not be able to supervise all the food-stamp recipients who need work credit.</p>
+        <p>The issue is not whether to compel able-bodied adults to work. Anyone who refuses to accept a job or a workfare slot automatically loses food-stamp benefits, even with a waiver in place. A waiver protects only those who show they want to work from going hungry. Governor Pataki has said that ''No one should be penalized because they're able-bodied and willing to work.'' Unfortunately, his humane sentiment runs out in November.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

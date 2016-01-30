@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HERZ, STEPHEN, JR.</title>
+    <meta content="DN081001" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1316216"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">HERZ, STEPHEN, JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DB123FF933A2575BC0A9679C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HERZ, STEPHEN, JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HERZ-Stephen, Jr. Of New York City. Died August 9, 2001 in New Canaan, Connecticut. Husband of the late Marie Kohler Herz. Father of Marcia Cornel. Grandfather of Hallee Branin. Friend of Dorothy Umanski. Service will be held on Saturday, August 11, 10:30 AM at the Church of Heavenly Rest, 2 East 90th Street at Fifth Avenue. Contributions in his memory to the Waveny Care Center, 3 Farm Road, New Canaan, CT.</p>
+      </block>
+      <block class="full_text">
+        <p>HERZ-Stephen, Jr. Of New York City. Died August 9, 2001 in New Canaan, Connecticut. Husband of the late Marie Kohler Herz. Father of Marcia Cornel. Grandfather of Hallee Branin. Friend of Dorothy Umanski. Service will be held on Saturday, August 11, 10:30 AM at the Church of Heavenly Rest, 2 East 90th Street at Fifth Avenue. Contributions in his memory to the Waveny Care Center, 3 Farm Road, New Canaan, CT.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

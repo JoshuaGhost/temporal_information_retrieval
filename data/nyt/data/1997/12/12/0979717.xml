@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ABC Analyst To Join CNN</title>
+    <meta content="Y12CNN" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="979717"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Cable News Network</org>
+        <org class="indexing_service">Abc Inc</org>
+        <person class="indexing_service">Greenfield, Jeff</person>
+        <person class="indexing_service">Greenfield, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4DF113CF931A25751C1A961958260" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ABC Analyst To Join CNN</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeff Greenfield, who has been ABC News's best-known political analyst for 14 years, is leaving ABC in January to join Cable News Network (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jeff Greenfield, who has been ABC News's best-known political analyst for 14 years, is leaving ABC next month to join the Cable News Network, CNN's new president, Richard Kaplan, announced yesterday.</p>
+        <p>Mr. Greenfield, who in addition to his prominent role covering politics also served as media critic and as a regular contributor to ''Nightline,'' said yesterday that he had been lured to CNN by the opportunity for more work. He said he expected to be the anchor or co-anchor of a new prime-time news magazine; to fill in for Larry King on Mr. King's interview show, and to report long-form stories and perhaps documentaries.</p>
+      </block>
+      <block class="full_text">
+        <p>Jeff Greenfield, who has been ABC News's best-known political analyst for 14 years, is leaving ABC next month to join the Cable News Network, CNN's new president, Richard Kaplan, announced yesterday.</p>
+        <p>Mr. Greenfield, who in addition to his prominent role covering politics also served as media critic and as a regular contributor to ''Nightline,'' said yesterday that he had been lured to CNN by the opportunity for more work. He said he expected to be the anchor or co-anchor of a new prime-time news magazine; to fill in for Larry King on Mr. King's interview show, and to report long-form stories and perhaps documentaries.</p>
+        <p>Mr. Greenfield took pains to say his departure was no reflection on ABC News but was ''more a reflection of what CNN was offering.''</p>
+        <p>Mr. Kaplan, who also came to CNN from a long career at ABC News, also announced the hiring of Judd Rose, a correspondent for ABC's ''Prime Time Live'' since 1989. Both Mr. Rose and Mr. Greenfield will remain based in New York. CNN's headquarters are in Atlanta.</p>
+        <p>THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

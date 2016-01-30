@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Times of Rejoicing and Lamenting</title>
+    <meta content="23KOL" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="DANCE REVIEW" name="column_name"/>
+    <docdata>
+      <doc-id id-string="879008"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Rambert Dance Co</org>
+        <person class="indexing_service">Anderson, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E2D8133DF930A1575AC0A960958260" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Times of Rejoicing and Lamenting</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jack</byline>
+      <abstract>
+        <p>Jack Anderson reviews third program offered by Rambert Dance Company at Joyce Theater; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Rambert Dance Company rejoiced and lamented on Friday night, when it offered the third program of its engagement at the Joyce Theater.</p>
+        <p>Everyone swaggered through a repeat performance of ''Rooster,'' Christopher Bruce's saucy suite to recordings by the Rolling Stones, and had a revel in Didy Veldman's ''Kol Simcha (Voice of Celebration),'' which received its New York premiere.</p>
+      </block>
+      <block class="full_text">
+        <p>The Rambert Dance Company rejoiced and lamented on Friday night, when it offered the third program of its engagement at the Joyce Theater.</p>
+        <p>Everyone swaggered through a repeat performance of ''Rooster,'' Christopher Bruce's saucy suite to recordings by the Rolling Stones, and had a revel in Didy Veldman's ''Kol Simcha (Voice of Celebration),'' which received its New York premiere.</p>
+        <p>The stage was filled with crates and stepladders, and the dancers seemed to be gathered at an informal party during which they kept taking swigs out of bottles. Adam Gorb's taped score evoked both the melodic lilt of jolly folk tunes and the rhythmic bounce of klezmer music.</p>
+        <p>As if drawn by these sounds, Patricia Hines walked down the aisle and onto the stage, where she joined in the merriment. Yet the woman she portrayed had enough common sense to preserve her sobriety.</p>
+        <p>Ms. Veldman, a member of the London-based troupe, displayed a knack for creating off-balance steps that made boozy staggers amusing rather than alarming. Although her festivity, like some parties in real life, occasionally threatened to go on forever, this was pleasant carousing.</p>
+        <p>The program turned serious with Robert Cohan's ''Stabat Mater,'' to Vivaldi's setting, for alto and orchestra, of the Latin poem about Mary's grief at the Crucifixion. Mr. Cohan, an American choreographer who was once a principal dancer with Martha Graham's company, is the former director of the London Contemporary Dance Theater, now defunct, which offered ''Stabat Mater'' at its American debut at the American Dance Festival in 1977.</p>
+        <p>A ritual of grief for nine women, who were led by Sara Matthews, ''Stabat Mater'' has many moments of sculptural beauty, and it received a polished performance. Too polished, perhaps. The dancers, so admirably fleet of foot in other works, needed to invest this elegy with a greater sense of effort and weight. Both physical and emotional gravity should have appeared to be pulling these women down. Nevertheless, ''Stabat Mater'' revealed what a well-honed ensemble the Rambert company has become.</p>
+        <p>The season continues through Sunday night at the Joyce, 175 Eighth Avenue, at 19th Street, Chelsea.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

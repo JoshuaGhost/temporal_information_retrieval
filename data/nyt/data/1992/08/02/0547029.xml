@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Naomi Ishido and Gregory J. Lipper</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="547029"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="ENGAGEMENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ISHIDO, NAOMI</person>
+        <person class="indexing_service">LIPPER, GREGORY JENSEN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEEDD173FF931A3575BC0A964958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Naomi Ishido and Gregory J. Lipper</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. Tadashi Ishido of Tokyo have announced the engagement of their daughter Naomi Ishido to Gregory Jensen Lipper, a son of Mr. and Mrs. Arthur Lipper 3d of White Plains. A September wedding is planned.</p>
+        <p>Ms. Ishido, 27 years old, is a ground attendant for Cathay Pacific Airways in Tokyo. She graduated from Gadsden State Junior College. Her father is a real-estate investor in Tokyo. Her mother, Hideko Ishido, manages the family's dry-cleaning business there.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. Tadashi Ishido of Tokyo have announced the engagement of their daughter Naomi Ishido to Gregory Jensen Lipper, a son of Mr. and Mrs. Arthur Lipper 3d of White Plains. A September wedding is planned.</p>
+        <p>Ms. Ishido, 27 years old, is a ground attendant for Cathay Pacific Airways in Tokyo. She graduated from Gadsden State Junior College. Her father is a real-estate investor in Tokyo. Her mother, Hideko Ishido, manages the family's dry-cleaning business there.</p>
+        <p>Mr. Lipper, 25, is a manager for new business development for Mitsubishi International Corporation in Atlanta. He graduated from Babson College. His father is a venture investment banker in New York.</p>
+        <p>ENGAGEMENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Albany: Jenna's Law Aftermath</title>
+    <meta content="MB023308" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1323204"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <location class="indexing_service">Albany (NY)</location>
+        <person class="indexing_service">Perez-Pena, Richard</person>
+        <person class="indexing_service">Grieshaber, Jenna</person>
+        <person class="indexing_service">Pryor, Nicholas Eugene</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Albany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DE1139F934A3575AC0A9679C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Albany: Jenna's Law Aftermath</hl1>
+      </hedline>
+      <byline class="print_byline">By Richard P�rez-Pe�a (NYT) (Compiled by Anthony Ramirez)</byline>
+      <abstract>
+        <p>New York Court of Appeals refuses to hear appeal of family of murder victim Jenna Grieshaber in civil suit against Albany police, who waited to enter her apartment because of barking dog and may have failed to take sufficient actions to save her life; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a case that prompted a major change in parole for felons, a civil lawsuit by a murder victim's family has ended in failure. In 1997, Nicholas Eugene Pryor, a parolee, stabbed and strangled Jenna Grieshaber, a murder that led to passage of Jenna's Law, eliminating parole for violent felons. Yesterday, the Court of Appeals refused to hear an appeal of the Grieshaber family's suit, which had been dismissed. The family sued the Albany police, who waited more than 40 minutes to enter Ms. Grieshaber's apartment because of a barking dog and then did not immediately move a bed crushing her neck, though signs were later found that she might still have been alive. The city argued that she would have died, regardless of police actions.</p>
+        <p>Richard Pérez-Peña (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>In a case that prompted a major change in parole for felons, a civil lawsuit by a murder victim's family has ended in failure. In 1997, Nicholas Eugene Pryor, a parolee, stabbed and strangled Jenna Grieshaber, a murder that led to passage of Jenna's Law, eliminating parole for violent felons. Yesterday, the Court of Appeals refused to hear an appeal of the Grieshaber family's suit, which had been dismissed. The family sued the Albany police, who waited more than 40 minutes to enter Ms. Grieshaber's apartment because of a barking dog and then did not immediately move a bed crushing her neck, though signs were later found that she might still have been alive. The city argued that she would have died, regardless of police actions.</p>
+        <p>Richard Pérez-Peña (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

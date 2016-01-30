@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Repairs at Nuclear Plant</title>
+    <meta content="NJ005403" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="NEW JERSEY DAILY BRIEFING" name="column_name"/>
+    <docdata>
+      <doc-id id-string="925125"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Oyster Creek Nuclear Power Plant</classifier>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6DD113EF937A15757C0A961958260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Repairs at Nuclear Plant</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>FORKED RIVER</dateline>
+      <abstract>
+        <p>Oyster Creek Nuclear Generating Station will be shut down for a few days to two weeks while repairs are made to control rods that failed to operate quickly enough during regular weekend test (New Jersey Daily Briefing) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Oyster Creek Nuclear Generating Station will be shut down for a few days to two weeks while repairs are made to control rods that failed to operate quickly enough during a regular weekend test, officials said yesterday.</p>
+        <p>The control rods are used to adjust the power level of the plant or to shut it down during routine or emergency situations. The rods, which are supposed to be inserted into the reactor core in less than half a second, fell short by a tenth of a second, said Suzanne D'Ambrosio, a spokeswoman for the generating station, which is owned by Jersey Central Power and Light Company.</p>
+      </block>
+      <block class="full_text">
+        <p>The Oyster Creek Nuclear Generating Station will be shut down for a few days to two weeks while repairs are made to control rods that failed to operate quickly enough during a regular weekend test, officials said yesterday.</p>
+        <p>The control rods are used to adjust the power level of the plant or to shut it down during routine or emergency situations. The rods, which are supposed to be inserted into the reactor core in less than half a second, fell short by a tenth of a second, said Suzanne D'Ambrosio, a spokeswoman for the generating station, which is owned by Jersey Central Power and Light Company.</p>
+        <p>The problem is considered serious, but it did not pose a danger to the public, Diane Screnci, a spokeswoman for the Nuclear Regulatory Commission, said.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

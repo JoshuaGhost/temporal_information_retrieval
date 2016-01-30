@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="655206"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D7123DF932A25751C1A965958260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOCKHEED CORP., Calabasas, Calif., a military and space systems concern, said the Air Force's fleet of Lockheed C-141B Starlifters, which has been operating with restrictions because of cracks discovered in the transports' wings, will be 100 percent operational by the end of 1994. BROWNING-FERRIS CORP., Houston, a waste management concern, plans to increase its capital spending by 27 percent in 1994 to $962 million and is looking for acquisitions.</p>
+      </block>
+      <block class="full_text">
+        <p>LOCKHEED CORP., Calabasas, Calif., a military and space systems concern, said the Air Force's fleet of Lockheed C-141B Starlifters, which has been operating with restrictions because of cracks discovered in the transports' wings, will be 100 percent operational by the end of 1994. BROWNING-FERRIS CORP., Houston, a waste management concern, plans to increase its capital spending by 27 percent in 1994 to $962 million and is looking for acquisitions.</p>
+        <p>WEST POINT-PEPPERELL INC., West Point, Ga., a woven and knitted apparel concern, completed its merger with Valley Fashions Corp. after shareholders approved a buyout. The surviving corporation, West Point Stevens Inc., also completed a $1.5 billion refinancing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

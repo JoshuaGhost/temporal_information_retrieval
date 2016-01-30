@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="26CX.$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="918366"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7DD1F3BF935A15750C0A961958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article yesterday about the E-Z Pass system for paying tolls in New York referred imprecisely to the amount of the tolls. They range from $1.75 to $3.50 each way, and E-Z Pass users save 50 cents per trip. (The Verrazano-Narrows Bridge has a $7 toll in one direction only, and E-Z Pass users save $1).</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article yesterday about the E-Z Pass system for paying tolls in New York referred imprecisely to the amount of the tolls. They range from $1.75 to $3.50 each way, and E-Z Pass users save 50 cents per trip. (The Verrazano-Narrows Bridge has a $7 toll in one direction only, and E-Z Pass users save $1).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

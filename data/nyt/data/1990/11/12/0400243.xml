@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="400243"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DB113FF931A25752C1A966958260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By KIM FOLTZ</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Flavio Correa, president of Ogilvy &amp; Mather, Latin America, has given up his role as head of the Brazil sector to Ronald Assumpcao. Newton Guerra has been named new vice president of Ogilvy &amp; Mather, Latin America. * Marjorie R. Porter has been named vice president and account director at D'Arcy Masius Benton &amp; Bowles, New York. * Appointed as account management representatives at Ogilvy &amp; Mather, New York were: Bill Gray, Neve Savage, Michael Vaughn, David Warden and Jack Reed. * Virginia Kraus has joined Wells, Rich, Greene, New York, as senior vice president and director of local broadcast. * Robert Cook has been named senior vice president of marketing for Columbia Pictures Television.</p>
+      </block>
+      <block class="full_text">
+        <p>* Flavio Correa, president of Ogilvy &amp; Mather, Latin America, has given up his role as head of the Brazil sector to Ronald Assumpcao. Newton Guerra has been named new vice president of Ogilvy &amp; Mather, Latin America. * Marjorie R. Porter has been named vice president and account director at D'Arcy Masius Benton &amp; Bowles, New York. * Appointed as account management representatives at Ogilvy &amp; Mather, New York were: Bill Gray, Neve Savage, Michael Vaughn, David Warden and Jack Reed. * Virginia Kraus has joined Wells, Rich, Greene, New York, as senior vice president and director of local broadcast. * Robert Cook has been named senior vice president of marketing for Columbia Pictures Television.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Plan to Fight Breast Cancer</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="841041"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CANCER</classifier>
+        <classifier class="indexing_service" type="descriptor">BREAST</classifier>
+        <classifier class="indexing_service" type="descriptor">WOMEN</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">NEW JERSEY, USA</location>
+        <person class="indexing_service">PRISTIN, TERRY</person>
+        <person class="indexing_service">WHITMAN, CHRISTINE TODD (GOV) CHRISTINE TODD WHITMAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Breast</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5D81239F931A35757C0A960958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Plan to Fight Breast Cancer</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">PRISTIN, TERRY;</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With 1,800 deaths a year from breast cancer, New Jersey ranks the third highest among the states in the number of women who die of the disease. Gov. Christine Todd Whitman yesterday announced a series of goals developed by the Department of Health and several cancer research groups.</p>
+      </block>
+      <block class="full_text">
+        <p>With 1,800 deaths a year from breast cancer, New Jersey ranks the third highest among the states in the number of women who die of the disease. Gov. Christine Todd Whitman yesterday announced a series of goals developed by the Department of Health and several cancer research groups.</p>
+        <p>The plan calls for improving the quality of mammography screening and the collection of data, increasing the number of women who receive regular screenings, and heightening awareness of prevention and treatment methods, especially among black and poor women.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

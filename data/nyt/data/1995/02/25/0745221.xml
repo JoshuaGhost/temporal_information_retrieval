@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gily Bard-Staroben, Plant Scientist, 70</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="745221"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">BARD-STAROBEN, GILY</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DB153DF936A15751C0A963958260" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gily Bard-Staroben, Plant Scientist, 70</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Gily Epstein Bard-Staroben, a plant scientist at the City University of New York for some 30 years, died on Wednesday at a nursing home in Gaithersburg, Md. A longtime resident of Tuckahoe, N.Y., she was 70.</p>
+        <p>The cause was Alzheimer's disease, her family said.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Gily Epstein Bard-Staroben, a plant scientist at the City University of New York for some 30 years, died on Wednesday at a nursing home in Gaithersburg, Md. A longtime resident of Tuckahoe, N.Y., she was 70.</p>
+        <p>The cause was Alzheimer's disease, her family said.</p>
+        <p>Dr. Bard specialized in plant succession, the natural changes in the vegetation of a site over time. She was an expert on secondary succession of woodlands, about which she wrote several papers.</p>
+        <p>She was born in Berlin and came as a child to the United States with her parents. She graduated from Hunter College and received a master's degree in soil science from Cornell University and a doctorate in plant physiology from Rutgers University. She started teaching at Hunter in the 1950's and was also on the faculties of Lehman College and the CUNY Graduate Center.</p>
+        <p>Dr. Bard directed a doctoral program in plant sciences offered by the Graduate Center and the New York Botanical Garden. She retired from teaching about five years ago.</p>
+        <p>She was a past editor of the Bulletin of the Torrey Botanical Club, a botanical journal. She was a trustee of the Mianus River Gorge Reservation in Connecticut, and helped in the 1950's to save from development Mettler's Woods in New Brunswick, N.J., now the William L. Hutcheson Memorial Forest.</p>
+        <p>Dr. Bard is survived by her second husband, Irving Staroben of Stamford, Conn.; a son, Doron D. Bard of Gaithersburg; a sister, Nurie Relis of Manhattan, and a grandson. Her first husband, Seldon Bard, and a son, Etan R., died in a 1974 terrorist bombing of a Rome-bound T.W.A. airliner over the Agean Sea.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

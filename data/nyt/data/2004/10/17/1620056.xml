@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Guardian of Sorts For the Unclaimed</title>
+    <meta content="MB223207" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1620056"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="WORTH NOTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Funerals</classifier>
+        <classifier class="indexing_service" type="descriptor">Cremation</classifier>
+        <location class="indexing_service">Danbury (Conn)</location>
+        <org class="indexing_service">Tomlinson-Homestead Funeral Home (Danbury, Conn)</org>
+        <person class="indexing_service">Blumenthal, Richard (Atty Gen)</person>
+        <person class="indexing_service">Holtz, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7DA153AF934A25753C1A9629C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Guardian of Sorts For the Unclaimed</hl1>
+      </hedline>
+      <abstract>
+        <p>Connecticut Attorney Gen Richard Blumenthal is seeking locations for cremated remains of 87 persons left unclaimed at Tomlinson-Homestead Funeral Home in Danbury (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Attorney General Richard Blumenthal is trying to find locations for the cremated remains of 87 persons left unclaimed at a Danbury funeral home that closed two years ago.</p>
+        <p>He said the remains, mostly from the 1980's and 1990's, were found at the Tomlinson-Homestead Funeral Home, which closed when the owner, David Harrison, lost his state embalming license.</p>
+      </block>
+      <block class="full_text">
+        <p>Attorney General Richard Blumenthal is trying to find locations for the cremated remains of 87 persons left unclaimed at a Danbury funeral home that closed two years ago.</p>
+        <p>He said the remains, mostly from the 1980's and 1990's, were found at the Tomlinson-Homestead Funeral Home, which closed when the owner, David Harrison, lost his state embalming license.</p>
+        <p>Mr. Blumenthal said he was not investigating how or why the remains were left unclaimed.</p>
+        <p>''There are no claims that criminal violations or unfair trade practices took place,'' he said.</p>
+        <p>Mr. Blumenthal said the remains were being held by a vault company, which he said did not wish to be identified. He said anyone wishing to claim them should contact his office or the State Board of Examiners, Funeral Directors and Embalmers.</p>
+        <p>WORTH NOTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

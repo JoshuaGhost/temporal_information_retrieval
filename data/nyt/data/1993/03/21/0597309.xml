@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Gavin, David A. Scott</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597309"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="ENGAGEMENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GAVIN, ELIZABETH ANNE</person>
+        <person class="indexing_service">SCOTT, DAVID ANDREW</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930321T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3D81731F932A15750C0A965958260" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Gavin, David A. Scott</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. John H. Gavin of Rumson, N.J., have announced the engagement of their daughter, Elizabeth Anne Gavin, to David Andrew Scott, a son of Anne Scott of Point Pleasant, N.J., and the late Jack H. Scott. A June wedding is planned.</p>
+        <p>Miss Gavin, 25, is a marketing coordinator in the corporate division at Tiffany &amp; Company in New York. She graduated from Rosemont College. Her father is a quality manager at the American Telephone and Telegraph Company in Basking Ridge, N.J. Her mother, Suzanne E. Gavin, is a kindergarten teacher at the Deane-Porter School in Rumson.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. John H. Gavin of Rumson, N.J., have announced the engagement of their daughter, Elizabeth Anne Gavin, to David Andrew Scott, a son of Anne Scott of Point Pleasant, N.J., and the late Jack H. Scott. A June wedding is planned.</p>
+        <p>Miss Gavin, 25, is a marketing coordinator in the corporate division at Tiffany &amp; Company in New York. She graduated from Rosemont College. Her father is a quality manager at the American Telephone and Telegraph Company in Basking Ridge, N.J. Her mother, Suzanne E. Gavin, is a kindergarten teacher at the Deane-Porter School in Rumson.</p>
+        <p>Mr. Scott, 28, is an assistant regional underwriting manager at National Union Fire Insurance Company in New York. He graduated from Lafayette College. His father was a stockbroker at Beare &amp; Moynahan Inc., a former brokerage house in Spring Lake, N.J.</p>
+        <p>ENGAGEMENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

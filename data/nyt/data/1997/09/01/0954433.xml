@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hopping Across Time And Space</title>
+    <meta content="01LIND" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="FESTIVAL REVIEW/DANCE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="954433"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="FESTIVAL REVIEW/DANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Lincoln Center Out of Doors Festival</classifier>
+        <org class="indexing_service">Jiving Lindy Hoppers</org>
+        <org class="indexing_service">Sin E Band</org>
+        <person class="indexing_service">Dunning, Jennifer</person>
+        <person class="indexing_service">Walker, Dianne</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDA1E31F932A3575AC0A961958260" item-length="420" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hopping Across Time And Space</hl1>
+      </hedline>
+      <byline class="print_byline">By JENNIFER DUNNING</byline>
+      <byline class="normalized_byline">Dunning, Jennifer</byline>
+      <abstract>
+        <p>Jennifer Dunning reviews performances by Jiving Lindy Hoppers, tapdancer Dianne Walker and Sin E band during Lincoln Center Out of Doors Festival at Damrosch Park; photo (M)9</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>How much do the shim sham and the step-dance have in common? As much as anyone wants them to, to judge by the lively and entertaining ''Afroceltic Connection: Flying Home,'' a program presented by Lincoln Center Out of Doors on Thursday night at Damrosch Park by the Jiving Lindy Hoppers from England, the Sin E band from Ireland and Dianne Walker, an American tap-dancer.</p>
+        <p>The accent was on fusion, with a vengeance, and most of the time the idea worked. The best numbers were the splashiest. European court dancing became a stylish cakewalk, which in turn became a stylized bout of Lindy Hopping in ''The Breton,'' choreographed by Pepsi Bethel, Frankie Manning and Norma Miller, all American specialists in popular black American dance forms.</p>
+      </block>
+      <block class="full_text">
+        <p>How much do the shim sham and the step-dance have in common? As much as anyone wants them to, to judge by the lively and entertaining ''Afroceltic Connection: Flying Home,'' a program presented by Lincoln Center Out of Doors on Thursday night at Damrosch Park by the Jiving Lindy Hoppers from England, the Sin E band from Ireland and Dianne Walker, an American tap-dancer.</p>
+        <p>The accent was on fusion, with a vengeance, and most of the time the idea worked. The best numbers were the splashiest. European court dancing became a stylish cakewalk, which in turn became a stylized bout of Lindy Hopping in ''The Breton,'' choreographed by Pepsi Bethel, Frankie Manning and Norma Miller, all American specialists in popular black American dance forms.</p>
+        <p>Other highlights included the effervescent ''Shim Sham Hornpipe,'' a group piece choreographed by Ms. Walker and Leonard Reed, and ''The Rights of Man,'' a three-part voyage from Irish folk-flavored modern dance to Lindy Hopping via step-dancing, with choreography and restaging by Ciara Gill, George Sullivan, Lee Moats, Dickie Harris and members of the Jiving Lindy Hoppers. Most of the dance numbers, including these three, were set to traditional Irish music.</p>
+        <p>There were times when the synthesized dance forms were uncomfortably not one thing or another, as in the women's duet from ''The Rights of Man'' and a long solo choreographed and performed by Francis Angol that looked like a vogue-dancer doing the traditional African ostrich dance. And the first half of the evening had an oddly circumscribed feeling. When rain began to fall during the second half, a little much-needed disorder broke through, along with more spirited group tap-style numbers.</p>
+        <p>Ms. Gill, a guest step-dancer, stood out for the endearingly Road Runnerish look of her speedy skipping and sudden bounding jumps and high kicks from the knee, all performed with a fierce but blithe concentration. Ms. Walker's ground-skimming tap style provided a fine complement to the dancing of the Lindy Hoppers (Carolene Hinds, Warren Heyes, Russell Sargeant, Teresa Jackson, Maxine Green and Mr. Angol) who stood out for the supple but focused look of everything they danced.</p>
+        <p>The music was a startling mix of the traditional and the new, featuring haunting vocals by Taz Alexander, a fiddle solo by Teresa Heanue and the sounds of folk and modern instruments from Ireland and Africa. The band was led by Steafan Hannigan.</p>
+        <p>FESTIVAL REVIEW/DANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

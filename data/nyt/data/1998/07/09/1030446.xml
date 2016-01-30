@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hard Drive by Any Other Name Might Make Its Owner Blush</title>
+    <meta content="09NAME$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1030446"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <person class="indexing_service">Kushner, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02EFD6113EF93AA35754C0A96E958260" item-length="608" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hard Drive by Any Other Name Might Make Its Owner Blush</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KUSHNER</byline>
+      <byline class="normalized_byline">Kushner, David</byline>
+      <abstract>
+        <p>Trends in the naming of computer hard drives are detected by repair technicians; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY so often there's news about the most popular baby names -- Chelsea, Dylan, Diana and the like -- which are thought to reflect the cultural moment, the Zeitgeist. The pressure a parent feels in naming a child can be tremendous; after all, once the name is on the birth certificate, it's there forever.</p>
+        <p>As part of the effort to humanize technology, some people are choosing monikers for their computers -- or, more specifically, for their computers' hard drives, the data storage mechanisms that are represented on screens by tiny, customizable icons.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY so often there's news about the most popular baby names -- Chelsea, Dylan, Diana and the like -- which are thought to reflect the cultural moment, the Zeitgeist. The pressure a parent feels in naming a child can be tremendous; after all, once the name is on the birth certificate, it's there forever.</p>
+        <p>As part of the effort to humanize technology, some people are choosing monikers for their computers -- or, more specifically, for their computers' hard drives, the data storage mechanisms that are represented on screens by tiny, customizable icons.</p>
+        <p>Buy a PC, and on the desktop you'll see a gray computer box with the words ''My Computer'' underneath; buy a Mac, and there's a little box labeled ''Macintosh HD.'' Click on either and the field shades over,  waiting like an infant to be named.</p>
+        <p>There is no official registry of hard drive names, and there are no birth certificates for laptops, so it's hard to know exactly who's naming a machine what. The best indication comes from those at the front lines of computer culture -- repair technicians. At J &amp; R Computer World in Manhattan, where hundreds of customers bring in their machines every month, sports star names are said to be popular.</p>
+        <p>Tekserve, a Macintosh repair shop in Manhattan, reports that cartoon characters from ''The Simpsons'' or ''Dilbert'' are hot.</p>
+        <p>Dilbert's creator, Scott Adams, finds the trend flattering, though he hasn't been inspired to personalize his own hard drive. ''I like my computer to be as uncustomized as possible,'' he said. ''I don't want it to have a personality. Sooner or later, I'm going to have to drop-kick it out the window, and I don't want to have to feel like I'm scolding a child.''</p>
+        <p>Douglas Adams, whose ''Hitchhiker's Guide to the Galaxy'' novels provide fodder for countless screen savers and drive names, also disdains high-tech anthropomorphisms. ''My hard drives tend to be called boring things like 'Mac G3 HD' and 'WORK,' '' he said in an E-mail message. ''I gave up cute names about a decade ago.''</p>
+        <p>Douglas Coupland, the author of the novels ''Generation X'' and ''Microserfs,'' enthusiastically named his hard drive Ziggy Stardust after one of David Bowie's alter egos. ''I think a definite tendency is for people to give hard drives names that are simultaneously romantic and doomed and ironic,'' he said in an E-mail message. ''The other tendency is to give hard drives the names of the characters they'd most liked to be dressed as on Halloween.''</p>
+        <p>This infusion of emotions is all part of the plan, said Peter Lowe, a MacOS product line manager at Apple Computer. Renaming a hard drive, he explained, fulfills the same purpose as other personal touches, like an ''X-Files'' pattern for a desktop or a particular voice for a text-to-speech program.</p>
+        <p>''Esthetic customization is a very important part of interface design,'' he said. ''How someone feels about their computer is going to impact the time they spend using it.''</p>
+        <p>Some people give their hard drives the names of people significant in their lives. Of course, that can have drawbacks. Consider the jazz executive who was laughed out of a computer repair shop when he went to pick up his PC. As he walked out the door, the techies snickered. ''Bye-bye, Wootie Wootie,'' they said. The lesson to be learned: naming a computer can indeed be like naming a child: don't choose something that will get ridiculed at school.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

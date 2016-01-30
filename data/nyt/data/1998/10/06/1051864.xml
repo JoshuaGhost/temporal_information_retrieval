@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Butterflies' Energy</title>
+    <meta content="06QNA" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1051864"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Butterflies and Moths</classifier>
+        <classifier class="indexing_service" type="descriptor">Migration</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Butterflies and Moths</classifier>
+        <classifier class="online_producer" type="general_descriptor">Migration</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E3D91E38F935A35753C1A96E958260" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Butterflies' Energy</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question &amp; Answer column on how monarch butterflies muster energy for migration of 1,800 miles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  With its small body mass, how does a monarch butterfly obtain enough energy to migrate 1,800 miles?</p>
+        <p>A.  The energy is gathered from nectar, and the butterflies that make the trip, those born in the early fall, are able to convert nectar into fat.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  With its small body mass, how does a monarch butterfly obtain enough energy to migrate 1,800 miles?</p>
+        <p>A.  The energy is gathered from nectar, and the butterflies that make the trip, those born in the early fall, are able to convert nectar into fat.</p>
+        <p>''Those born in September know to tank up on nectar,'' said Dr. David Marriott, founder of the Monarch Program, a nonprofit research and education organization based in Encinitas, Calif. ''Their abdomens get really large.''</p>
+        <p>Unlike the other generations, these monarchs, he explained, have a little area of fatty tissue where the sugar of the nectar is converted into fat. They can live off this cushion in winter and need only water to rehydrate their bodies.</p>
+        <p>Monarchs born in September or late August live seven or eight months, sometimes nine, Dr. Marriott said. Their children, grandchildren and great-grandchildren live just a month. ''By the time you get to the great-great-grandchildren it puts us back to September again,'' Dr. Marriott continued.</p>
+        <p>The butterflies also feed while migrating, he said.</p>
+        <p>This year's migrating population will be as much as 50 percent smaller than last year's, Dr. Marriott said, but last year saw more monarchs than ever before recorded. Their current ranks have been reduced by disease. Information for the public on observing the migration is available from the Monarch Program at (760) 944-7113.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

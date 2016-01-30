@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Richard Koontz, 56, a Printing Executive</title>
+    <meta content="23KOON$03" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="891371"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Bowne &amp; Co</org>
+        <person class="indexing_service">Koontz, Richard H</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E0DF153DF930A15752C1A960958260" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Richard Koontz, 56, a Printing Executive</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard H Koontz, longtime executive of Bowne &amp; Co, one of the world's largest financial printers, dies at age 56 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard H. Koontz, a longtime executive at Bowne &amp; Company, one of the world's largest financial printers, died at his home in Ridgewood, N.J., on Wednesday. He was 56.</p>
+        <p>He died of thyroid cancer, Al Marold, a spokesman for Bowne said.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard H. Koontz, a longtime executive at Bowne &amp; Company, one of the world's largest financial printers, died at his home in Ridgewood, N.J., on Wednesday. He was 56.</p>
+        <p>He died of thyroid cancer, Al Marold, a spokesman for Bowne said.</p>
+        <p>Mr. Koontz worked for 23 years at Bowne, which prints financial documents and provides electronic filing services.</p>
+        <p>He began in 1973 as controller of  Bowne &amp; Company, which is based in Manhattan, and later was executive vice president and chief operating officer.</p>
+        <p>In 1992, he was named president, chairman and chief executive, positions he held until October 1995 when he retired from active management but remained chairman until June 1996.</p>
+        <p>During his career, Bowne grew from a company with roughly $35 million in revenues to a $500 million company with 3,200 employees and record earnings.</p>
+        <p>He was a graduate of Pennsylvania State University.</p>
+        <p>Mr. Koontz is survived by his wife, Ann Mirche Koontz; two children, Carisa R. Koontz of Manhattan and Clifton R. Koontz, a student at Colorado College in Colorado Springs; his parents, Rose Imler Koontz of Bedford, Pa., and Ray Shaefer Koontz of McConnellsburg, Pa.; four sisters, Lena Fox of Bedford, Pa., Jane Smith of Katonah, N.Y., Betty Calhoun of Bedford, and Renee Brink of Chambersburg, Pa., and a brother, Robert, of McConnellsburg.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

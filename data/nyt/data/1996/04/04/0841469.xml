@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Siebe Offers to Buy The Rest of Unitech</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="841469"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="INTERNATIONAL BRIEFS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">UNITECH PLC</org>
+        <org class="indexing_service">SIEBE PLC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2DE1339F937A35757C0A960958260" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Siebe Offers to Buy The Rest of Unitech</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Siebe P.L.C. offered yesterday to buy the 75 percent of Unitech P.L.C. that it did not own for L520 million ($796 million) in a move that would help its growth in Asia. Unitech's board agreed to back the offer. Siebe bought 25 percent of Unitech in mid-March. The new purchase would make Siebe the world's biggest manufacturer of power-supply converters, which are used in electronic equipment, with 6 percent of the market.</p>
+        <p>(Bloomberg Business News)</p>
+      </block>
+      <block class="full_text">
+        <p>Siebe P.L.C. offered yesterday to buy the 75 percent of Unitech P.L.C. that it did not own for L520 million ($796 million) in a move that would help its growth in Asia. Unitech's board agreed to back the offer. Siebe bought 25 percent of Unitech in mid-March. The new purchase would make Siebe the world's biggest manufacturer of power-supply converters, which are used in electronic equipment, with 6 percent of the market.</p>
+        <p>(Bloomberg Business News)</p>
+        <p>INTERNATIONAL BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

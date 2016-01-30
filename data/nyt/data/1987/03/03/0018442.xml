@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CONCERT: ANDRAS SCHIFF AT TULLY HALL</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="18442"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <person class="indexing_service">CRUTCHFIELD, WILL</person>
+        <person class="indexing_service">SCHIFF, ANDRAS</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D71F30F930A35750C0A961948260" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CONCERT: ANDRAS SCHIFF AT TULLY HALL</hl1>
+      </hedline>
+      <byline class="print_byline">Will Crutchfield</byline>
+      <byline class="normalized_byline">CRUTCHFIELD, WILL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''THE WELL-TEMPERED CLAVIER,'' Bach's monument at once to the art of keyboard playing and to the system of tuning that had opened limitless harmonic possibilities for its exercise, was never meant as a concert work, but has increasingly been treated as one. Andras Schiff, one of our finest young pianists, played all 24 preludes and fugues of Book I Sunday at Alice Tully Hall, in a long concert with two intermissions.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''THE WELL-TEMPERED CLAVIER,'' Bach's monument at once to the art of keyboard playing and to the system of tuning that had opened limitless harmonic possibilities for its exercise, was never meant as a concert work, but has increasingly been treated as one. Andras Schiff, one of our finest young pianists, played all 24 preludes and fugues of Book I Sunday at Alice Tully Hall, in a long concert with two intermissions.</p>
+        <p>''THE WELL-TEMPERED CLAVIER,'' Bach's monument at once to the art of keyboard playing and to the system of tuning that had opened limitless harmonic possibilities for its exercise, was never meant as a concert work, but has increasingly been treated as one. Andras Schiff, one of our finest young pianists, played all 24 preludes and fugues of Book I Sunday at Alice Tully Hall, in a long concert with two intermissions. It was a commanding, expert, devoted and occasionally imaginative traversal, but not a charged, incandescent, tender or inspired one, and it did not change the opinion of a listener who finds marathon exposure an unsatisfying way to experience the riches of Bach's compendium.</p>
+        <p>An inevitable point of reference in describing Mr. Schiff's style is that of Glenn Gould, who changed the face of Bach-playing three decades ago and who has clearly been an inspiration to the Hungarian pianist. The basic delivery is detached: occasional slurs appear against a non-legato background, whereas the norm had been (and with many players still is) a smooth background with occasional separations for articulation. Like Gould, Mr. Schiff occasionally takes tempos that are especially fast or slow. And as with the earlier pianist, his tonal palette can be marvelously light, but can also turn clattery at medium dynamic levels and quite hard at a full forte.</p>
+        <p>Gould also had a way of overstating his slurs and articulations, calling attention to them; Mr. Schiff does not do that, which removes a potential irritant but also lowers the interpretive profile. And for all his impressive independence of contrapuntal technique (and thought), he does not show the almost demonic force of rhythmic direction that can make this music thrill in concert.</p>
+        <p>If the foregoing dwells overmuch on comparison, it is in part because an impression of Mr. Schiff's individual character as a Bach-player was a little difficult to form. The movements he played quickly and softly -especially preludes 3, 9 (limpid and lyrically beautiful), 13, 15 (brilliant and very Gouldish) - were a joy. The slow ones often became ponderous, especially at cadences. The best of his ''big'' playing was represented by the 10th fugue, whose magnificent, careering subject he took with abandon. Mr. Schiff's understanding of Bach is certainly one from which we should benefit in concert, but perhaps not exactly this way.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lawyers Title reports earnings for Qtr to Dec 31</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="511621"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E5D61638F936A35750C0A964958260" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lawyers Title reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Lawyers Title</p>
+        <p>Qtr to Dec 31</p>
+        <p>1991</p>
+        <p>1990</p>
+        <p>Revenue</p>
+        <p>108,500,000</p>
+        <p>100,900,000</p>
+        <p>Net loss</p>
+        <p>4,000,000</p>
+        <p>5,000,000</p>
+        <p>Yr rev</p>
+        <p>387,400,000</p>
+        <p>401,600,000</p>
+        <p>Net loss</p>
+        <p>22,700,000</p>
+        <p>21,800,000</p>
+        <p>The company said results for 1991 were benefited by the recognition of capital gains of about $ 4.5 million as Lawyers Title moved a portion of its bond portfolio from tax-free issues into taxable issues, and recognized other gains in its common stock portfolio. This compares with capital gains of $ 700,000 in the fourth quarter of 1990.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

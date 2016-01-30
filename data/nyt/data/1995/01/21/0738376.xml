@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="738376"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <person class="indexing_service">FUCHS, JOSEPH</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DF113FF932A15752C0A963958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If a violinist has good hands and a sharp mind, age is irrelevant, in the view of JOSEPH FUCHS. He should know: at 94, he is still performing and teaching. And on Wednesday evening, the Juilliard School celebrated his forthcoming 95th birthday (on April 26) with a concert.</p>
+        <p>Dozens of Mr. Fuchs's present and former students assembled to play or listen. Mr. Fuchs, who started studying at the school in 1907, still teaches there three times a week.</p>
+      </block>
+      <block class="full_text">
+        <p>If a violinist has good hands and a sharp mind, age is irrelevant, in the view of JOSEPH FUCHS. He should know: at 94, he is still performing and teaching. And on Wednesday evening, the Juilliard School celebrated his forthcoming 95th birthday (on April 26) with a concert.</p>
+        <p>Dozens of Mr. Fuchs's present and former students assembled to play or listen. Mr. Fuchs, who started studying at the school in 1907, still teaches there three times a week.</p>
+        <p>"Whatever I was endowed with, both the left hand and the right hand are still working," he said yesterday.  "So is the equipment in my head. Today, people talk about younger artists all the time, but experience only comes from trial and error all your life. More attention should be paid to people who have accumulated a lifetime of experience."</p>
+        <p>Mr. Fuchs was more than a spectator at the event in his honor. He took to the stage to play the Bach Concerto in D Minor for Two Violins with GLENN DICTEROW, the concertmaster of the New York Philharmonic. "Most people put the violin down at 70 or 75, but he still sounds terrific," Mr. Dicterow said. "I jumped at the chance to play with him."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

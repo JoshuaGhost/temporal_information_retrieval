@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="729532"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">AUCHINCLOSS, LOUIS</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4D61739F936A35751C1A962958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOUIS AUCHINCLOSS , the author of books about the upper-crust world of the Social Register, is not too impressed that he has just published his 50th book.</p>
+        <p>"There is no great virtue in quantity," he said the other day. "I remind myself that Emily Bronte wrote a single novel -- and then she died at 29."</p>
+      </block>
+      <block class="full_text">
+        <p>LOUIS AUCHINCLOSS , the author of books about the upper-crust world of the Social Register, is not too impressed that he has just published his 50th book.</p>
+        <p>"There is no great virtue in quantity," he said the other day. "I remind myself that Emily Bronte wrote a single novel -- and then she died at 29."</p>
+        <p>Tomorrow evening, Houghton Mifflin, the publisher of 41 of his 50 works, is giving him a dinner at its headquarters in Boston to celebrate "The Collected Stories of Louis Auchincloss" and the milestone it signifies.</p>
+        <p>Many pieces in the anthology, written from 1949 to 1994, include "a lot of stories which were moldering in out-of-print editions," he said. "I went through all my books and selected the ones I thought were best. They simply jumped out at me."</p>
+        <p>Mr. Auchincoloss, 77, retired from the practice of law in 1987 and is now teaching literature courses at New York University. And then there is book No. 51: "I've just submitted my new novel, called "The Education of Oscar Fairfax," he said. NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spacelabs Medical (NMS) reports earnings for Qtr to Sept 24</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="640879"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4D6173FF930A25753C1A965958260" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spacelabs Medical (NMS) reports earnings for Qtr to Sept 24</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Spacelabs Medical (NMS)</p>
+        <p>Qtr to Sept 24</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>59,431,000</p>
+        <p>62,797,000</p>
+        <p>Net inc</p>
+        <p>5,078,000</p>
+        <p>5,042,000</p>
+        <p>Share earns</p>
+        <p>.45</p>
+        <p>.45</p>
+        <p>Shares outst</p>
+        <p>11,175,000</p>
+        <p>11,299,000</p>
+        <p>9mo rev</p>
+        <p>187,353,000</p>
+        <p>186,954,000</p>
+        <p>Net inc</p>
+        <p>13,984,000</p>
+        <p>11,484,000</p>
+        <p>Share earns</p>
+        <p>1.24</p>
+        <p>1.06</p>
+        <p>Shares outst</p>
+        <p>11,257,000</p>
+        <p>10,812,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

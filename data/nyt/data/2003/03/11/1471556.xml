@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR010040" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1471556"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Metropolitan Museum of Art (NYC)</org>
+        <person class="indexing_service">Manet, Edouard (1832-83)</person>
+        <person class="indexing_service">Velazquez, Diego Rodriguez De Silva Y (1599-1660)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DE143EF932A25750C0A9659C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of March 8 art review of exhibition 'Manet/Velazquez' at Metropolitan Museum of Art</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An art review in Weekend on Friday about ''Manet/Velázquez'' at the Metropolitan Museum misidentified the Manet painting paired with Velázquez's portrait ''The Jester Pablo de Valladolid'' at the beginning of the exhibition. It is ''Tragic Actor (Rouvière as Hamlet),'' not ''Faure in the Role of Hamlet,'' which is also in the show.</p>
+      </block>
+      <block class="full_text">
+        <p>An art review in Weekend on Friday about ''Manet/Velázquez'' at the Metropolitan Museum misidentified the Manet painting paired with Velázquez's portrait ''The Jester Pablo de Valladolid'' at the beginning of the exhibition. It is ''Tragic Actor (Rouvière as Hamlet),'' not ''Faure in the Role of Hamlet,'' which is also in the show.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

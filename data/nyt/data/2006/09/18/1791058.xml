@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critics' Choice: New CD's</title>
+    <meta content="18choi-3" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1791058"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7DF1031F93BA2575AC0A9609C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critics' Choice: New CD's</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cibelle  ''The Shine of Dried Electric Leaves'' (Six Degrees)</p>
+        <p>Looking for the epitome of a freak-folk song? Try ''Flying High'' on ''The Shine of Dried Electric Leaves,'' the second album by Cibelle. The song twinkles along for six minutes with glockenspiel and piano, as Cibelle's airy voice intones ''So many good times,'' and all sorts of other elements -- electronics, static, instruments running backwards and countless overdubbed Cibelles -- drift in and out of her hazy contentment. Or try ''Phoenix,'' in which Cibelle wants to ''glide up like little birds'' amid music boxes, synthesized peeps and neo-Baroque cello.</p>
+      </block>
+      <block class="full_text">
+        <p>Cibelle  ''The Shine of Dried Electric Leaves'' (Six Degrees)</p>
+        <p>Looking for the epitome of a freak-folk song? Try ''Flying High'' on ''The Shine of Dried Electric Leaves,'' the second album by Cibelle. The song twinkles along for six minutes with glockenspiel and piano, as Cibelle's airy voice intones ''So many good times,'' and all sorts of other elements -- electronics, static, instruments running backwards and countless overdubbed Cibelles -- drift in and out of her hazy contentment. Or try ''Phoenix,'' in which Cibelle wants to ''glide up like little birds'' amid music boxes, synthesized peeps and neo-Baroque cello.</p>
+        <p>But Cibelle (pronounced see-BELL-ee) is no hippie space case; she's a canny pop amalgamator, experimenting with soundscapes but never forgetting about tunes. She is Brazilian, from São Paulo, and now lives in London. True to Brazilian tradition, she absorbs and enhances whatever music charms her.</p>
+        <p>Half the songs on the album are in Portuguese, half in English, and in either language she sings about longing. The Portuguese songs look to Brazil, with radical remakes of Caetano Veloso and Antonio Carlos Jobim alongside her own material. In her ''Instante de Dois'' and a song she wrote with Seu Jorge, ''Arrête Là, Menina,'' delicate guitar picking and vocals just above a whisper meet Brazilian percussion, psychedelic feedback and electronic zaps. Even when her music is most borderless and surreal, she never sounds disoriented. She navigates with a melodic grace that's purely Brazilian.</p>
+        <p>Cibelle is to perform on Friday night at Joe's Pub.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

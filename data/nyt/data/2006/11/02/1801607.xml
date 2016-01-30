@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wiring Development</title>
+    <meta content="02thu3" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/11/02/opinion/02thu3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1801607"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <location class="indexing_service">Latin America</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Latin America</location>
+        <location class="online_producer">United States</location>
+        <org class="online_producer">Inter-American Development Bank</org>
+        <org class="online_producer">World Bank</org>
+        <org class="online_producer">International Monetary Fund</org>
+        <org class="online_producer">Group of Eight</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DB133FF931A35752C1A9609C8B63" item-length="307" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wiring Development</hl1>
+        <hl2 class="online_headline">Wiring Development</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Latin American migrants working in US sent $45 billion to their families back home this year, representing largest poverty reduction program in region; says if banks and politicians urged recipients to save and invest remittances this would be much more effective fight against poverty</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Inter-American Development Bank announced last month that Latin American migrants working in the United States will send a record $45 billion to their families back home this year. At that level, remittances represent the largest and most direct poverty reduction program in the region, topping by far the amounts of foreign aid provided by the United States. Most of the cash arrives in monthly wire transfers of about $300 apiece, and is spent on basics like food, shelter and health care. But development bankers estimate that some $10 billion of remittances could be saved or invested -- if people had access to banks and were encouraged to use them.</p>
+        <p>By banking part of their remittances, recipient families could earn interest, establish credit and provide money for local investment. The result would be more resources to help pay for schooling, starting small businesses or home ownership. Such saving and investment lead to economic growth. And growth at the bottom of the economic scale is the surest way to actually lift people out of poverty.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Unless the billions in remittances that migrants working in the United States send home each year are banked, money that could fight poverty will be left on the table.</p>
+      </block>
+      <block class="full_text">
+        <p>The Inter-American Development Bank announced last month that Latin American migrants working in the United States will send a record $45 billion to their families back home this year. At that level, remittances represent the largest and most direct poverty reduction program in the region, topping by far the amounts of foreign aid provided by the United States. Most of the cash arrives in monthly wire transfers of about $300 apiece, and is spent on basics like food, shelter and health care. But development bankers estimate that some $10 billion of remittances could be saved or invested -- if people had access to banks and were encouraged to use them.</p>
+        <p>By banking part of their remittances, recipient families could earn interest, establish credit and provide money for local investment. The result would be more resources to help pay for schooling, starting small businesses or home ownership. Such saving and investment lead to economic growth. And growth at the bottom of the economic scale is the surest way to actually lift people out of poverty.</p>
+        <p>As it is now, most banks in Latin America that receive remittances simply dole out the sums to recipients, after collecting part of the fee paid by the sender. They make no attempt to turn the recipients into bank customers. Bank officials and the politicians that oversee them need to do more to educate the poor about banking and to offer them services. Banks need to be reminded that such lending can be profitable -- and will further broader national goals for economic growth. To that end, remittances deserve a more prominent place on the agenda at the meetings of the World Bank, the International Monetary Fund and the Group of 8 leading industrialized nations. Unless those billions in remittances are banked, money that could fight poverty is not being used to its fullest potential.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

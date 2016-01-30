@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | Calendar: Tomorrow: Regulation Of Airspace Over New York</title>
+    <meta content="MB031802" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1510080"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEFDF1631F935A3575BC0A9659C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | Calendar: Tomorrow: Regulation Of Airspace Over New York</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Anthony Ramirez</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Aviation Administration plans a public briefing on its plans for directing air traffic over New York, New Jersey and Pennsylvania. New Jersey Institute of Technology, Rooms 3730 and 3740 of the GITC building, 218 Central Avenue in Newark, 1 p.m. Information: (609) 777-2600.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Aviation Administration plans a public briefing on its plans for directing air traffic over New York, New Jersey and Pennsylvania. New Jersey Institute of Technology, Rooms 3730 and 3740 of the GITC building, 218 Central Avenue in Newark, 1 p.m. Information: (609) 777-2600.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

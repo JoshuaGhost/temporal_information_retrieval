@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reds Trade Milligan to the Indians</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="629480"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">TRADES (SPORTS)</classifier>
+        <org class="indexing_service">CINCINNATI REDS</org>
+        <org class="indexing_service">CLEVELAND INDIANS</org>
+        <person class="indexing_service">MILLIGAN, RANDY</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cleveland Indians</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cincinnati Reds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DC1538F93BA2575BC0A965958260" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reds Trade Milligan to the Indians</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cincinnati Reds traded first baseman-outfielder RANDY MILLIGAN to the Cleveland Indians yesterday for a player to be named. Milligan, 31, hit .274 with 6 homers and 29 runs batted in in 83 games for the Reds this season. He spent four years with the Baltimore Orioles before signing with Cincinnati as a free agent in February.</p>
+        <p>The Reds' general manager, JIM BOWDEN, said that Milligan had requested a trade more than a month ago.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cincinnati Reds traded first baseman-outfielder RANDY MILLIGAN to the Cleveland Indians yesterday for a player to be named. Milligan, 31, hit .274 with 6 homers and 29 runs batted in in 83 games for the Reds this season. He spent four years with the Baltimore Orioles before signing with Cincinnati as a free agent in February.</p>
+        <p>The Reds' general manager, JIM BOWDEN, said that Milligan had requested a trade more than a month ago.</p>
+        <p>The Reds recalled TIM COSTO from Class AAA Indianapolis to take Milligan's place on the roster. Costo, a 24-year-old infielder-outfielder, hit .326 in Indianapolis with 11 homers and 57 r.b.i. in 106 games. This is his third stint with the Reds this year. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

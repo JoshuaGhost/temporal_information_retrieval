@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   GIRALDI, LOUISE A.</title>
+    <meta content="DN011705" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1642882"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <person class="indexing_service">GIRALDI, LOUISE A.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DD1238F934A25752C0A9639C8B63" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   GIRALDI, LOUISE A.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GIRALDI--Louise A. On January 14, 2005. Beloved wife of the late Raymond. Cherished aunt of Robert Swanton. Mass of Christian Burial will be celebrated at the Epiphany Church (22nd Street and 2nd Avenue), on Wednesday, January 19, 2005, at 11 am. Interment Holy Cross Cemetery, Brooklyn, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>GIRALDI--Louise A. On January 14, 2005. Beloved wife of the late Raymond. Cherished aunt of Robert Swanton. Mass of Christian Burial will be celebrated at the Epiphany Church (22nd Street and 2nd Avenue), on Wednesday, January 19, 2005, at 11 am. Interment Holy Cross Cemetery, Brooklyn, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

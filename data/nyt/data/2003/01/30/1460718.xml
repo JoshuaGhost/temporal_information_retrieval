@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sophisticated Subjects For a Family Audience</title>
+    <meta content="RV001228" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1460718"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="IN PERFORMANCE: DANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Graham, Martha, Dance Co</org>
+        <person class="indexing_service">Anderson, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0DB1F39F933A05752C0A9659C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sophisticated Subjects For a Family Audience</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jack</byline>
+      <abstract>
+        <p>Jack Anderson reviews Martha Graham Dance Company matinee performance aimed at young audience (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Martha Graham Dance Company  Joyce Theater</p>
+        <p>No one ever called Martha Graham's choreography kid stuff. Yet much of it can be enjoyed by young people, as the Martha Graham Dance Company demonstrated when it presented what it called a Family Matinee Program on Saturday afternoon.</p>
+      </block>
+      <block class="full_text">
+        <p>Martha Graham Dance Company  Joyce Theater</p>
+        <p>No one ever called Martha Graham's choreography kid stuff. Yet much of it can be enjoyed by young people, as the Martha Graham Dance Company demonstrated when it presented what it called a Family Matinee Program on Saturday afternoon.</p>
+        <p>It included repeat performances of ''Frontier,'' ''Satyric Festival Song,'' ''Lamentation,'' ''Heretic,'' ''Errand Into the Maze'' and ''Maple Leaf Rag.'' Not one of them is choreographic baby talk. Yet the many children in the audience appeared to watch them all intently. It's not hard to understand why.</p>
+        <p>However deeply she may have been influenced by mythology, history and psychoanalytical theory, Graham created her theatrical effects through the power of movement. One doesn't have to be acquainted with the Greek myth of the Minotaur to appreciate ''Errand Into the Maze.'' Miki Orihara was compelling as she trembled with fear and then resolutely confronted the monster portrayed by Gary Galbraith. Any child who knows a few scary fairy tales can respond to a struggle with a monster.</p>
+        <p>The basic dramatic situations of ''Frontier,'' ''Lamentation'' and ''Heretic'' are also apparent, and the preposterous comic movements in ''Satyric Festival Song'' and ''Maple Leaf Rag'' should amuse everyone.</p>
+        <p>The performance featured debuts in two solo works. As the pioneer woman in ''Frontier,'' Jennifer Conley stood imposingly tall as she stretched her arms outward across the plains and upward into the skies. Such actions revealed this woman's fortitude. And although a few pensive, less forceful, moments suggested that even the bravest pioneer can be troubled, Ms. Conley's fundamental assurance as a dancer made it clear that the pioneering spirit would prevail.</p>
+        <p>Blakeley White-McGuire giddily jumped, swiveled and wiggled through ''Satyric Festival Song.'' Her feet pattered. Her toes twitched. There were times when her entire body seemed to be giggling. And the young and old dance lovers in the audience giggled happily in response.</p>
+        <p>JACK ANDERSON</p>
+        <p>IN PERFORMANCE: DANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

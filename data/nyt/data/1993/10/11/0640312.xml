@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Apple to Offer Disk Product</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="640312"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CD-ROM (COMPACT DISK-READ ONLY MEMORY)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">APPLE COMPUTER INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Memory</classifier>
+        <classifier class="online_producer" type="general_descriptor">CD-ROM (Compact Disk-Read Only Memory)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D8133DF932A25753C1A965958260" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Apple to Offer Disk Product</hl1>
+      </hedline>
+      <dateline>SAN FRANCISCO, Oct. 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Apple Computer Inc. plans to announce on Monday that it will begin marketing software for Macintosh and Windows-based computers delivered on a CD-ROM disk.</p>
+        <p>The new system will allow personal computer users to try demonstration programs on their systems, then call an 800 number and receive a numeric unlocking key upon purchase of the application.</p>
+      </block>
+      <block class="full_text">
+        <p>Apple Computer Inc. plans to announce on Monday that it will begin marketing software for Macintosh and Windows-based computers delivered on a CD-ROM disk.</p>
+        <p>The new system will allow personal computer users to try demonstration programs on their systems, then call an 800 number and receive a numeric unlocking key upon purchase of the application.</p>
+        <p>The new service, called Software Dispatch, will be available in November for Macintosh users and early next year for Windows systems.</p>
+        <p>One of the issues in the new system of software distribution involves developing ways to distribute documentation along with the software. Apple is using a system it developed internally called Docviewer on the Macintosh version and Adobe Systems' Acrobat Reader technology for the Windows CD-ROM. This permits computer users to view documentation on the screen or print it out.</p>
+        <p>After sputtering for years, CD-ROM systems have become more popular among computer users recently. They are preferred to floppy disks for software distribution by some publishers because they lower manufacturing costs.</p>
+        <p>THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

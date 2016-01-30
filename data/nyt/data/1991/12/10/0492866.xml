@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mackovic May Get Post</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="492866"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">COACHES AND MANAGERS</classifier>
+        <org class="indexing_service">UNIVERSITY OF TEXAS</org>
+        <person class="indexing_service">MACKOVIC, JOHN</person>
+        <person class="indexing_service">MCWILLIAMS, DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDC123AF933A25751C1A967958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mackovic May Get Post</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOHN MACKOVIC, the head coach at Illinois, appears to be the leading candidate to succeed DAVID McWILLIAMS as the next University of Texas coach and could be interviewed for the job as early as today.</p>
+        <p>The Austin American-Statesman said Texas athletic director DeLOSS DODDS was expected to be in New York for the College Football Hall of Fame awards dinner tonight and might interview Mackovic. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>JOHN MACKOVIC, the head coach at Illinois, appears to be the leading candidate to succeed DAVID McWILLIAMS as the next University of Texas coach and could be interviewed for the job as early as today.</p>
+        <p>The Austin American-Statesman said Texas athletic director DeLOSS DODDS was expected to be in New York for the College Football Hall of Fame awards dinner tonight and might interview Mackovic. (AP)  SPORTS PEOPLE: FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Federated's Net Rises 11%; May's Is Up 9%</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="22773"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">FEDERATED DEPARTMENT STORES INC</org>
+        <org class="indexing_service">MAY DEPARTMENT STORES CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DB153AF93AA25750C0A961948260" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Federated's Net Rises 11%; May's Is Up 9%</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>CINCINNATI, March 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Federated Department Stores Inc. said today that its fourth-quarter earnings rose 11 percent. The May Department Stores Company, meanwhile, reported a 9 percent profit increase.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Federated Department Stores Inc. said today that its fourth-quarter earnings rose 11 percent. The May Department Stores Company, meanwhile, reported a 9 percent profit increase.</p>
+        <p>Federated Department Stores Inc. said today that its fourth-quarter earnings rose 11 percent. The May Department Stores Company, meanwhile, reported a 9 percent profit increase.</p>
+        <p>Federated said its fourth-quarter earnings totaled $171.2 million, or $3.64 a share, up from $154 million, or $3.16 a share, a year ago. Sales were $3.44 billion, a 6.5 percent increase from $3.23 billion for the corresponding quarter of 1985, the retailer said.</p>
+        <p>Earnings for the fiscal year ended Jan. 31 were $287.6 million, or $5.94 a share, up three-tenths of 1 percent from earnings of $286.6 million, or $5.88 a share, in the previous year. Sales were $10.51 billion, an increase of 5.3 percent over 1985 sales of $9.98 billion.</p>
+        <p>Profit figures reflected a $14.3 million charge resulting from the early retirement of $297 million in debt, the retailer said. They also reflect $15.7 million spent on the merger of Federated's Foley's and Sanger-Harris divisions in Texas. Federated's holdings include the Burdine's, Bullock's-Wilshire, Bloomingdale's, Filene's and Rich's chains.</p>
+        <p>May reported fourth-quarter earnings of $213 million, or $1.38 a share, up from $195 million, or $1.24 a share. Sales for the quarter were $3.36 billion, up 8 percent from $3.1 billion.</p>
+        <p>For the full year, May reported earnings of $381 million, or $2.44 a share, up nearly 10 percent from $347 million, or $2.20 a share, in 1985. Sales for the year totaled a record $10.33 billion, up nearly 9 percent from $9.49 billion in 1985.</p>
+        <p>May, which late last year acquired the Associated Dry Goods Corporation, operates the Lord &amp; Taylor, Caldor, Volume Shoe, Venture, Hecht, Famous Barr and Loehmann's chains.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

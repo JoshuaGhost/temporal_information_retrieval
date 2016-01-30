@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Europeans Push Peace</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="479482"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INDEPENDENCE MOVEMENTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CIVIL WAR AND GUERRILLA WARFARE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL RELATIONS</classifier>
+        <location class="indexing_service">YUGOSLAVIA</location>
+        <org class="indexing_service">EUROPEAN COMMUNITY</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Serbia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Montenegro</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="general_descriptor">Civil War and Guerrilla Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DB1F3AF933A25753C1A967958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Europeans Push Peace</hl1>
+      </hedline>
+      <dateline>BRUSSELS, Oct. 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emboldened by the early success of its latest cease-fire in Yugoslavia, the European Community decided today to step up the work of its faltering peace conference in The Hague.</p>
+        <p>The Netherlands, which holds the rotating presidency of the community, announced that three major leaders from Yugoslavia would travel to The Hague on Thursday for a meeting with Hans van den Broek, the Dutch Foreign Minister. They are the Serbian leader, Slobodan Milosevic; the President of the Croatian republic, Franjo Tudjman; and Veljko Kadijevic, the Yugoslav Defense Minister.</p>
+      </block>
+      <block class="full_text">
+        <p>Emboldened by the early success of its latest cease-fire in Yugoslavia, the European Community decided today to step up the work of its faltering peace conference in The Hague.</p>
+        <p>The Netherlands, which holds the rotating presidency of the community, announced that three major leaders from Yugoslavia would travel to The Hague on Thursday for a meeting with Hans van den Broek, the Dutch Foreign Minister. They are the Serbian leader, Slobodan Milosevic; the President of the Croatian republic, Franjo Tudjman; and Veljko Kadijevic, the Yugoslav Defense Minister.</p>
+        <p>On Monday at The Hague there is to be a session of the peace conference attended by representatives of all 6 Yugoslav republics and the 12 members of the European Community.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

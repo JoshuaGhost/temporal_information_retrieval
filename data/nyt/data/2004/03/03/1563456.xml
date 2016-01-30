@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="03INSI$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20040310T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1563456"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7D6153FF930A35750C0A9629C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Another New Design  Santiago Calatrava, who designed the World Trade Center transportation hub, is planning a residential tower in Lower Manhattan.</p>
+        <p>PAGE B1</p>
+        <p>Estrogen Study Halted  A large study of estrogen therapy in postmenopausal women was stopped because estrogen increased the risk of stroke.</p>
+        <p>PAGE A15</p>
+      </block>
+      <block class="full_text">
+        <p>Another New Design  Santiago Calatrava, who designed the World Trade Center transportation hub, is planning a residential tower in Lower Manhattan.</p>
+        <p>PAGE B1</p>
+        <p>Estrogen Study Halted  A large study of estrogen therapy in postmenopausal women was stopped because estrogen increased the risk of stroke.</p>
+        <p>PAGE A15</p>
+        <p>Haiti Confusion Deepens  A rebel leader in Haiti proclaimed himself chief of a revived army and threatened to jail the prime minister.</p>
+        <p>PAGE A8</p>
+        <p>Correction:  March 10, 2004, Wednesday  An architectural rendering on March 3 with an article about a design by Santiago Calatrava for an apartment tower in Lower Manhattan, and another version with a front-page contents entry, carried an incomplete credit. (The error occurred again in some editions yesterday.) While Mr. Calatrava's studio created the image of the building, the background photograph was by David Sundberg/Esto.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: March 10, 2004, Wednesday</p>
+        <p>An architectural rendering on March 3 with an article about a design by Santiago Calatrava for an apartment tower in Lower Manhattan, and another version with a front-page contents entry, carried an incomplete credit. (The error occurred again in some editions yesterday.) While Mr. Calatrava's studio created the image of the building, the background photograph was by David Sundberg/Esto.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

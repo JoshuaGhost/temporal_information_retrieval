@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  JENKINS, JULIA HODGES</title>
+    <meta content="DN061602" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1401268"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">JENKINS, JULIA HODGES</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DB113CF935A25755C0A9649C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  JENKINS, JULIA HODGES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JENKINS-Julia Hodges. We are deeply saddened by the death of our beloved member. A winner in 1999 of our Distinguished Service Award, Judy was a mainstay of our club and a leading figure in the design world for decades. We will miss her terribly. Our deepest sympathies to her daughter, Hutsien Brown, and her family. The Decorators Club</p>
+      </block>
+      <block class="full_text">
+        <p>JENKINS-Julia Hodges. We are deeply saddened by the death of our beloved member. A winner in 1999 of our Distinguished Service Award, Judy was a mainstay of our club and a leading figure in the design world for decades. We will miss her terribly. Our deepest sympathies to her daughter, Hutsien Brown, and her family. The Decorators Club</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

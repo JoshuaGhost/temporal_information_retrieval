@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Australia: Australia: Profit Falls At Winemaker</title>
+    <meta content="MB011142" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1468035"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Southcorp</org>
+        <person class="indexing_service">Shaw, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6DC143CF935A15751C0A9659C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Australia: Australia: Profit Falls At Winemaker</hl1>
+      </hedline>
+      <byline class="print_byline">By John Shaw (NYT)</byline>
+      <byline class="normalized_byline">Shaw, John</byline>
+      <abstract>
+        <p>Southcorp, Australia's largest wine producer and exporter, reports decline of 97 percent in after-tax profit for half-year; says sales increased 2 percent, to 728 million Australian dollars ($440 million), while net profits dropped to 5.7 million Australian dollars ($3.5 million) from 210 million Australian dollars (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The country's largest wine producer and exporter, Southcorp, reported a decline of 97 percent in after-tax profit for the half-year. Sales increased 2 percent, to 728 million Australian dollars ($440 million) in the period, but costs, divestments, currency hedging, discounting and lower margins cut net profits to 5.7 million Australian dollars ($3.5 million) from 210 million Australian dollars. Southcorp shares fell 16 percent. The British beverage group Allied Domecq and the Australian brewer Fosters have been named in media and market reports as possible bidders for Southcorp, whose big brands are Penfolds, Rosemount and Lindemans. But the executive chairman, Brian Finn, said the company had not received or requested any offers.</p>
+        <p>John Shaw (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The country's largest wine producer and exporter, Southcorp, reported a decline of 97 percent in after-tax profit for the half-year. Sales increased 2 percent, to 728 million Australian dollars ($440 million) in the period, but costs, divestments, currency hedging, discounting and lower margins cut net profits to 5.7 million Australian dollars ($3.5 million) from 210 million Australian dollars. Southcorp shares fell 16 percent. The British beverage group Allied Domecq and the Australian brewer Fosters have been named in media and market reports as possible bidders for Southcorp, whose big brands are Penfolds, Rosemount and Lindemans. But the executive chairman, Brian Finn, said the company had not received or requested any offers.</p>
+        <p>John Shaw (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

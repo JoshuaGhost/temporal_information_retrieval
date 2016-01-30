@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Officer Is Dismissed in a Child Pornography Case</title>
+    <meta content="07KID" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993512"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pornography and Obscenity</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Kocieniewski, David</person>
+        <person class="indexing_service">Safir, Howard (Comr)</person>
+        <person class="indexing_service">Matthews, Brian (Police Officer)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pornography and Obscenity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7DD103DF934A35751C0A96E958260" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Officer Is Dismissed in a Child Pornography Case</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KOCIENIEWSKI</byline>
+      <byline class="normalized_byline">Kocieniewski, David</byline>
+      <abstract>
+        <p>New York City Police Comr Howard Safir orders dismissal of police officer Brian Matthews for ordering child pornography through mail; Matthews' lawyer says client is innocent; notes Federal authorities declined to prosecute him (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A city police officer has been dismissed for ordering child pornography through the mail, Police Department officials said yesterday.</p>
+        <p>Police Commissioner Howard Safir this week ordered the dismissal of the officer, Brian Matthews, 35, who has been on modified assignment since August 1995, after he was linked to a child pornography ring.</p>
+      </block>
+      <block class="full_text">
+        <p>A city police officer has been dismissed for ordering child pornography through the mail, Police Department officials said yesterday.</p>
+        <p>Police Commissioner Howard Safir this week ordered the dismissal of the officer, Brian Matthews, 35, who has been on modified assignment since August 1995, after he was linked to a child pornography ring.</p>
+        <p>According to testimony during a Police Department administrative trial last fall, Canadian investigators were conducting a sting operation using the mailing list of a child pornographer when they received an order from Mr. Matthews's address in New Hyde Park, N.Y. Postal inspectors said the order contained $48 in cash and a form requesting three videotapes depicting sexual acts involving boys as young as 7.</p>
+        <p>The name on the order form was that of a former resident at Mr. Matthews's home, but a handwriting analyst testified at the departmental trial that Mr. Matthews had written the request. A fingerprint expert testified that two prints on the order form appeared to match Mr. Matthews's index finger and thumb.</p>
+        <p>Although police investigators had previously stated that Mr. Matthews was arrested after signing for the tapes under the bogus name, postal inspectors said that he was never arrested and that the tapes were never delivered.</p>
+        <p>Mr. Matthews was a 15-year police veteran. His lawyer, Marvyn Kornberg, said Mr. Matthews denied any involvement with the order, and hepointed out that Federal authorities had declined to prosecute.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

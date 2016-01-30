@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nets Continue to Sink</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="8841"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <org class="indexing_service">PORTLAND TRAIL BLAZERS</org>
+        <org class="indexing_service">NEW JERSEY NETS</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New Jersey Nets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Portland Trail Blazers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DA1F3BF932A05752C0A961948260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nets Continue to Sink</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PORTLAND, Ore., Jan. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Kiki Vandeweghe scored 28 points and Clyde Drexler added 20 tonight to lead the Portland Trail Blazers to a 125-107 victory over the Nets.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Kiki Vandeweghe scored 28 points and Clyde Drexler added 20 tonight to lead the Portland Trail Blazers to a 125-107 victory over the Nets.</p>
+        <p>Kiki Vandeweghe scored 28 points and Clyde Drexler added 20 tonight to lead the Portland Trail Blazers to a 125-107 victory over the Nets.</p>
+        <p>Vandeweghe scored 20 points in the first half as the Blazers built a 60-47 lead. Portland hit 15 of 18 shots from the field in the third quarter to turn the game into a rout.</p>
+        <p>Drexler hit all six of his field-goal attempts and scored 14 in the third-quarter outburst as the Trail Blazers built a 99-74 lead. Drexler, who had been 8 for 31 from the field in his previous two games, was 9 for 11 against the Nets.</p>
+        <p>Caldwell Jones started at power forward for Portland in place of Kenny Carr and finished with a game-high 14 rebounds, 12 of them in the first half. Kevin Duckworth added 15 points for the Blazers.</p>
+        <p>Orlando Woolridge led New Jersey with 21 points, while Pearl Washington added 18. The Nets lost their fourth in a row and eighth straight on the road.</p>
+        <p>Their record dropped to 11-32, the second-poorest in the league.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

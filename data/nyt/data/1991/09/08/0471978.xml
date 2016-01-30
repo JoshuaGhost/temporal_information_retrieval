@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Earlier Incarnation</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Leisure Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="471978"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="'HELLO, DOLLY!'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <person class="indexing_service">SOLTERS, LEE</person>
+        <object.title class="indexing_service">HELLO, DOLLY (PLAY)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDB1539F93BA3575AC0A967958260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Earlier Incarnation</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I should like to add to Barry Wells's letter about Thornton Wilder and his comedy "The Matchmaker," on which the musical "Hello, Dolly!" is based  [ "The Original Merchant of Yonkers," Aug. 25 ] .</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I should like to add to Barry Wells's letter about Thornton Wilder and his comedy "The Matchmaker," on which the musical "Hello, Dolly!" is based  [ "The Original Merchant of Yonkers," Aug. 25 ] .</p>
+        <p>Wilder's "Merchant of Yonkers," starring Jane Cowl and produced by the Theater Guild, had a short run on Broadway in 1938. He then rewrote the play as "The Matchmaker." That version, starring Ruth Gordon and produced by the Theater Guild in London in 1954, was very favorably received.</p>
+        <p>The night Wilder saw David Merrick's "Hello, Dolly!" I took him backstage to visit Carol Channing. On the way, he said about her performance, "That's my Dolly!" In fact, the two became fast friends. LEE SOLTERS Los Angeles  'HELLO, DOLLY!'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

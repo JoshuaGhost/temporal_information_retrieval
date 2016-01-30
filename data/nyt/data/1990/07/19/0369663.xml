@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESULTS PLUS</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="369663"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TENNIS</classifier>
+        <object.title class="indexing_service">SOVRAN BANK CLASSIC TENNIS TOURNAMENT</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDA1F3CF93AA25754C0A966958260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESULTS PLUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:</p>
+        <p>TENNIS</p>
+        <p>Agassi Struggles to Victory</p>
+        <p>Top-seeded Andre Agassi, playing for the first time since his loss in the French Open final, struggled through a first-set tie breaker before defeating Brad Pearce, 7-6, 6-3, yesterday in the second round of the Sovran Bank Classic in Washington. Agassi, ranked fourth in the world, trailed, 4-2, in the first set and faced a set point in the tie breaker before winning it, 9-7.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:</p>
+        <p>TENNIS</p>
+        <p>Agassi Struggles to Victory</p>
+        <p>Top-seeded Andre Agassi, playing for the first time since his loss in the French Open final, struggled through a first-set tie breaker before defeating Brad Pearce, 7-6, 6-3, yesterday in the second round of the Sovran Bank Classic in Washington. Agassi, ranked fourth in the world, trailed, 4-2, in the first set and faced a set point in the tie breaker before winning it, 9-7.</p>
+        <p>TENNIS</p>
+        <p>Agassi Struggles to Victory</p>
+        <p>Top-seeded Andre Agassi, playing for the first time since his loss in the French Open final, struggled through a first-set tie breaker before defeating Brad Pearce, 7-6, 6-3, yesterday in the second round of the Sovran Bank Classic in Washington. Agassi, ranked fourth in the world, trailed, 4-2, in the first set and faced a set point in the tie breaker before winning it, 9-7. Pearce kept up the pressure in the second set before he netted two volleys that gave Agassi the crucial break in the sixth game. Fifth-seeded Michael Chang also moved into the third round of the $415,800 tournament, the first in the American hard-court season heading into the United States Open, with a 6-2, 7-6 victory over Steve Bryan. Derrick Rostagno set up a rematch with John McEnroe, the man he beat in the first round at Wimbledon, by upsetting 13th-seeded Gary Muller of South Africa, 4-6, 6-3, 6-2. Rostagno and McEnroe will meet in the third round.(AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

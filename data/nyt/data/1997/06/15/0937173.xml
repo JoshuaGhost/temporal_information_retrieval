@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patricia Goldman, Timothy Perini</title>
+    <meta content="15GOLD$04" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="WEDDINGS" name="column_name"/>
+    <docdata>
+      <doc-id id-string="937173"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GOLDMAN, PATRICIA LYNN (PATRICIA LYNN PERINI)</person>
+        <person class="indexing_service">PERINI, TIMOTHY SEBASTIAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDE173FF936A25755C0A961958260" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patricia Goldman, Timothy Perini</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patricia Lynn Goldman, a daughter of Gay and Carl Goldman of New York, was married last evening to Timothy Sebastian Perini, the son of Eileen and David Perini of Dover, Mass. Cantor Raymond Smolover performed the ceremony at Lyndhurst, the Jay Gould house in Tarrytown, N.Y. The Rev. Michael Guarino, a Roman Catholic priest, took part in the ceremony.</p>
+        <p>The couple graduated from Harvard University.</p>
+      </block>
+      <block class="full_text">
+        <p>Patricia Lynn Goldman, a daughter of Gay and Carl Goldman of New York, was married last evening to Timothy Sebastian Perini, the son of Eileen and David Perini of Dover, Mass. Cantor Raymond Smolover performed the ceremony at Lyndhurst, the Jay Gould house in Tarrytown, N.Y. The Rev. Michael Guarino, a Roman Catholic priest, took part in the ceremony.</p>
+        <p>The couple graduated from Harvard University.</p>
+        <p>The bride, 27, is a producer for the Internet service of the Fox News Channel in New York. She received a master's degree in theater from the University of Southern California. Her father is the president of Corporate Capital Consultants, an investment bank in New York. Her mother is the chairwoman of the Manhattan Theater Club Patrons Council and a member of theater's board.</p>
+        <p>Mr. Perini, , 30, is a civil engineer, in New York for the Perini Corporation, a construction company in Framingham, Mass., headed by his father. The bridegroom received a master's degree in civil engineering from the University of California at Berkeley. His mother is a psychotherapist for Boston College's counseling services in Chestnut Hill, Mass.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

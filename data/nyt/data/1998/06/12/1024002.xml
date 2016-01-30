@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; New Office for Publisher</title>
+    <meta content="MB015251" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1024002"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <org class="indexing_service">Miller Sports Group</org>
+        <person class="indexing_service">Ravo, Nick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3D61E3AF931A25755C0A96E958260" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; New Office for Publisher</hl1>
+      </hedline>
+      <byline class="print_byline">By NICK RAVO</byline>
+      <byline class="normalized_byline">Ravo, Nick</byline>
+      <abstract>
+        <p>Miller Sports Group, publisher of several sports and leisure magazines, is consolidating its business operations, now at 1120 Avenue of Americas in Manhattan, and its editorial offices, in Trumbull, Conn, in 21,000 square feet of space at 810 Seventh Avenue in Manhattan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Miller Sports Group, publisher of several sports and leisure magazines, is consolidating its business operations, now at 1120 Avenue of the Americas in Manhattan, and its editorial offices, in Trumbull, Conn., in 21,000 square feet of space at 810 Seventh Avenue in Manhattan.</p>
+        <p>''Following its acquisition of four magazine titles from The New York Times Company late last year, Miller Sports Group needed more space,'' said Joseph J. Simone, president of Tishman Real Estate Services, which acted as the broker for Miller Sports Group, a unit of Miller Publishing Group of Los Angeles. The building's owner is Tower Realty Trust.</p>
+      </block>
+      <block class="full_text">
+        <p>The Miller Sports Group, publisher of several sports and leisure magazines, is consolidating its business operations, now at 1120 Avenue of the Americas in Manhattan, and its editorial offices, in Trumbull, Conn., in 21,000 square feet of space at 810 Seventh Avenue in Manhattan.</p>
+        <p>''Following its acquisition of four magazine titles from The New York Times Company late last year, Miller Sports Group needed more space,'' said Joseph J. Simone, president of Tishman Real Estate Services, which acted as the broker for Miller Sports Group, a unit of Miller Publishing Group of Los Angeles. The building's owner is Tower Realty Trust.</p>
+        <p>The move, Mr. Simone said, will allow the company to provide adequate space for the editorial group. Miller Sports Group publishes four consumer magazines, Mountain Sports and  Living (formerly Snow Country), Tennis, Sailing World and Cruising World.</p>
+        <p>Miller Sports Group will occupy the fourth floor of 810 Seventh Avenue, at the northeast corner of West 52d Street.</p>
+        <p>NICK RAVO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

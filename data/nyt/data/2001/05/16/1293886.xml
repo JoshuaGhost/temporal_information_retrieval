@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business Briefing | BASF Clears Out</title>
+    <meta content="MB011604" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1293886"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">West Windsor (NJ)</location>
+        <org class="indexing_service">Basf Ag</org>
+        <person class="indexing_service">Strunsky, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DA123AF935A25756C0A9679C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business Briefing | BASF Clears Out</hl1>
+      </hedline>
+      <byline class="print_byline">By Steve Strunsky (NYT)</byline>
+      <byline class="normalized_byline">Strunsky, Steve</byline>
+      <abstract>
+        <p>BASF, less than year after it began leasing site, announces it will close its sprawling research facility in West Windsor, NJ, and will begin eliminating 500 jobs there this fall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Less than a year after it began leasing the site, BASF, the worldwide agricultural and industrial products giant, announced it will close its sprawling research facility in West Windsor, N.J., and will begin eliminating the 500 jobs there this fall. BASF leases the 640-acre property, with 700,000 feet of laboratory and other space, at Route 1 and Quakerbridge Road from American Home Products. The lease, which includes a purchase option, runs out in February 2003, but BASF has not decided what to do with the property, said Bill Pagano, a BASF spokesman in Mount Olive, N.J. About 300 researchers will keep working in West Windsor until late 2003, when their functions will move to labs in Ludwigshafen/Limburgerhof, Germany and to Research Triangle Park, N.C., Mr. Pagano said. About 200 support workers will be laid off starting in October. BASF employs 103,000 workers worldwide and had sales totaling $34 billion in 2000, with profits of $1.2 billion, Mr. Pagano said.</p>
+        <p>Steve Strunsky (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Less than a year after it began leasing the site, BASF, the worldwide agricultural and industrial products giant, announced it will close its sprawling research facility in West Windsor, N.J., and will begin eliminating the 500 jobs there this fall. BASF leases the 640-acre property, with 700,000 feet of laboratory and other space, at Route 1 and Quakerbridge Road from American Home Products. The lease, which includes a purchase option, runs out in February 2003, but BASF has not decided what to do with the property, said Bill Pagano, a BASF spokesman in Mount Olive, N.J. About 300 researchers will keep working in West Windsor until late 2003, when their functions will move to labs in Ludwigshafen/Limburgerhof, Germany and to Research Triangle Park, N.C., Mr. Pagano said. About 200 support workers will be laid off starting in October. BASF employs 103,000 workers worldwide and had sales totaling $34 billion in 2000, with profits of $1.2 billion, Mr. Pagano said.</p>
+        <p>Steve Strunsky (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

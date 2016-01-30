@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jazz Sign Chambers</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="628451"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <org class="indexing_service">UTAH JAZZ</org>
+        <person class="indexing_service">CHAMBERS, TOM</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Utah Jazz</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3D9153AF930A2575BC0A965958260" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jazz Sign Chambers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TOM CHAMBERS, a forward whose contract was paid off after last season by the Phoenix Suns, signed yesterday with the Utah Jazz.</p>
+        <p>"It's nice to have this day finally come about," the 6-foot-10-inch Chambers said. "It's great to be able to come home and play in front of my family and my children." (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>TOM CHAMBERS, a forward whose contract was paid off after last season by the Phoenix Suns, signed yesterday with the Utah Jazz.</p>
+        <p>"It's nice to have this day finally come about," the 6-foot-10-inch Chambers said. "It's great to be able to come home and play in front of my family and my children." (AP)  SPORTS PEOPLE: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

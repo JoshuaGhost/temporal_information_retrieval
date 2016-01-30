@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="691141"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DD1E3BF930A35755C0A962958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.N. Panel Accuses Serbs Of Genocide in Bosnia</p>
+        <p>Ending a long inquiry, a United Nations commission accused Bosnian Serbs of "crimes against humanity" and "genocide" against Muslims and Croats. Its findings go to a war-crimes tribunal. Page A3.  Rostenkowski Seeks Lawyer</p>
+        <p>Dan Rostenkowski is replacing the lawyer who last week failed to persuade him to accept a plea agreement with Federal prosecutors. Page A18. Warning on Teacher Layoffs</p>
+        <p>District superintendents say Mayor Giuliani's budget will mean laying off hundreds of teachers. Page B1. Rangers Tie Series</p>
+        <p>Glenn Anderson's shorthanded goal sparked the Rangers to a 3-1 victory over the Canucks. Page B11.  Graf Upset in French Open</p>
+        <p>Mary Pierce beat Steffi Graf in the semifinals, halting Graf's string of Grand Slam titles at four. Page B11.</p>
+      </block>
+      <block class="full_text">
+        <p>U.N. Panel Accuses Serbs Of Genocide in Bosnia</p>
+        <p>Ending a long inquiry, a United Nations commission accused Bosnian Serbs of "crimes against humanity" and "genocide" against Muslims and Croats. Its findings go to a war-crimes tribunal. Page A3.  Rostenkowski Seeks Lawyer</p>
+        <p>Dan Rostenkowski is replacing the lawyer who last week failed to persuade him to accept a plea agreement with Federal prosecutors. Page A18. Warning on Teacher Layoffs</p>
+        <p>District superintendents say Mayor Giuliani's budget will mean laying off hundreds of teachers. Page B1. Rangers Tie Series</p>
+        <p>Glenn Anderson's shorthanded goal sparked the Rangers to a 3-1 victory over the Canucks. Page B11.  Graf Upset in French Open</p>
+        <p>Mary Pierce beat Steffi Graf in the semifinals, halting Graf's string of Grand Slam titles at four. Page B11.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

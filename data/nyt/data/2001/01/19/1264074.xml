@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Blocks 2 Shelters Intended to Avoid Taxes</title>
+    <meta content="Y19TAX$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/19/business/19TAX.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1264074"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax-Sheltered Investments</classifier>
+        <classifier class="indexing_service" type="descriptor">Tax Evasion</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Gains Tax</classifier>
+        <classifier class="indexing_service" type="descriptor">Corporations</classifier>
+        <org class="indexing_service">Internal Revenue Service</org>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax Evasion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tax-Sheltered Investments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Gains Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5DC173CF93AA25752C0A9679C8B63" item-length="531" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Blocks 2 Shelters Intended to Avoid Taxes</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>Internal Revenue Service auditors find and disallow two techniques that companies used to manipulate tax rules to avoid paying capital gains; one technique is called contingent liability tax shelter, and the other is known as intermediary transaction tax shelter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two more corporate tax shelters came under assault yesterday from the Clinton administration's Treasury Department, its third and probably last effort to protect the integrity of the corporate income tax system from aggressive tax avoidance schemes.</p>
+        <p>A senior Treasury official said Internal Revenue Service auditors had found, and disallowed, two techniques that companies had used to manipulate tax rules and avoid paying capital gains. One technique required the cooperation of a tax-exempt entity like a pension plan or an Indian tribe, while the other allowed a capital loss to be deducted twice.</p>
+      </block>
+      <block class="full_text">
+        <p>Two more corporate tax shelters came under assault yesterday from the Clinton administration's Treasury Department, its third and probably last effort to protect the integrity of the corporate income tax system from aggressive tax avoidance schemes.</p>
+        <p>A senior Treasury official said Internal Revenue Service auditors had found, and disallowed, two techniques that companies had used to manipulate tax rules and avoid paying capital gains. One technique required the cooperation of a tax-exempt entity like a pension plan or an Indian tribe, while the other allowed a capital loss to be deducted twice.</p>
+        <p>The official said he thought these techniques were being widely sold by a variety of tax shelter promoters, but he would not estimate how many such tax shelters might have been created or how much money was involved.</p>
+        <p>Treasury Secretary Lawrence H. Summers has called abusive corporate tax shelters ''the most serious problem'' in the tax system.</p>
+        <p>The Treasury Department and the I.R.S. issued notices yesterday requiring corporations that use either transaction to disclose it, a requirement that should reduce the burden on the shrunken I.R.S. auditing staff.</p>
+        <p>One technique, called a contingent liability tax shelter, is being sold to companies that owe a capital gains tax and that have a deferred tax loss on their books. The company creates a subsidiary shell company into which it puts two assets, the right to take a deduction at a future date and an amount of cash equal to the deduction. It then sells the subsidiary and under complex tax rules is allowed to take the income tax deduction immediately.</p>
+        <p>This technique typically allows the deduction to be taken twice, the senior Treasury tax official said.</p>
+        <p>''Essentially they are accelerating a deferred tax loss,'' the official said. ''This is an abuse that Congress thought serious enough that it passed legislation last year, retroactive to the end of 1999, to help stop this.''</p>
+        <p>The second technique, called an intermediary transaction tax shelter, also helps companies avoid capital gains taxes. In this case, assets in which significant deductions can be taken but that a company cannot immediately use for other reasons are passed through an intermediary that does not pay federal corporate income taxes, like an Indian tribe, and then passed to a company that can use the deductions.</p>
+        <p>One intermediary case is already before the United States Tax Court.</p>
+        <p>John H. Phipps Inc. shifted a $161.4 million capital gain from the sale of two television stations to First America Media, an entity owned by the Iowa Tribe, which has 467 members in Oklahoma and is not subject to federal corporate income taxes. The I.R.S. is seeking $55 million in additional taxes plus $24.5 million in penalties and interest.</p>
+        <p>In another notice, the I.R.S. said it would not require routine leasing transactions to file disclosure statements as tax shelters. The senior Treasury official said, ''a very high percentage'' of the 2,500 tax shelters disclosed to the I.R.S. in recent weeks under an earlier crackdown were found to be routine leasing arrangements, which he said the Treasury Department did not consider to be abusive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dealing With the High Price of Gas</title>
+    <meta content="l27gas-5" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757472"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Transit Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Budgets and Budgeting</classifier>
+        <person class="indexing_service">Kosman, William D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EEDB133FF934A15757C0A9609C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dealing With the High Price of Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>William D Kosman letter says one way to kick oil addiction is to support all forms of public transportation, which are starved for money and have cut back services and routes (April 26 editorial)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''How Not to Cure an Addiction'' (editorial, April 26):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''How Not to Cure an Addiction'' (editorial, April 26):</p>
+        <p>In fact, Americans' addiction to oil is largely tied to our addictive love of personal vehicles, which clog our cities and highways, pollute our environment, and consume a lion's share of imported oil.</p>
+        <p>One immediate way that President Bush and other elected officials can help us kick our oil addiction is to support all forms of public transportation, from Amtrak and regional rail and bus systems, to innovative auto-rental and sharing plans and new ways to use taxi fleets to allow greater use by multiple clients.</p>
+        <p>As crazy as it sounds, while gasoline prices are already having a negative effect on our economy, public transportation systems are starved for money and have cut back services and routes, cutbacks that simply push more personal cars, S.U.V.'s and trucks onto roadways and drive up gasoline consumption.</p>
+        <p>William D. Kosman  Philadelphia, April 26, 2006</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

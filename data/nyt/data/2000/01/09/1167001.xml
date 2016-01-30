@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction &amp; Poetry</title>
+    <meta content="RV084631" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1167001"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hall, Emily</person>
+        <person class="indexing_service">Arnow, Harriette Simpson</person>
+        <object.title class="indexing_service">Between the Flowers (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DD1338F93AA35752C0A9669C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction &amp; Poetry</hl1>
+      </hedline>
+      <byline class="print_byline">By Emily Hall</byline>
+      <byline class="normalized_byline">Hall, Emily</byline>
+      <abstract>
+        <p>Emily Hall reviews book Between the Flowers by Harriette Simpson Arnow (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Between the Flowers</p>
+        <p>By Harriette Simpson Arnow.</p>
+        <p>Michigan State University, $34.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Between the Flowers</p>
+        <p>By Harriette Simpson Arnow.</p>
+        <p>Michigan State University, $34.95.</p>
+        <p>It's one of the oldest stories there is -- man and land, how the one is pulled by the other. Harriette Simpson Arnow (1908-86) knows this story well; her novels, especially those that are held to be her masterpieces -- The Dollmaker'' (1954) and ''Hunter's Horn'' (1949) -- chronicle the plight of Appalachian mountain people during and between the world wars. Some stayed home and battled drought, floods and falling crop prices; others suffered in Northern factories where the alien city ways baffled and defeated them. Detailed and crammed with local dialect, Arnow's novels are meditations on the idea of regionalism itself. ''Between the Flowers'' is Arnow's previously unpublished second novel, written in the 1930's, and it takes up her signal themes. The novel takes place in rural Kentucky, in an area so isolated that to leave it is tantamount to fleeing the country. Delph Costello dreams of such an escape; she wants to go away to school, or to work in Chicago or New York. Instead, she is swept off her feet by Marsh Gregory, an oilman who promises to take her to South America. This dream falls through when Gregory buys a run-down farm and begins the difficult process of getting the land into shape. Their marriage is sorely tested, and Delph is torn apart by her conflicting desires. It's not a surprising story. Of course a woman who pins her hopes of escape on marriage is going to be disappointed. Of course she is going to feel the pull of her roots despite her aspirations. Although ''Between the Flowers'' drags a bit toward the end, it is an intimate, compassionate book, rich with character. Arnow's narrative is attuned to the farm's seasons, and the wait for rain or money creates pressures that seem difficult to recognize today. The slow build makes the tragedies more tragic, the happiness more of a relief.</p>
+        <p>Emily Hall</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

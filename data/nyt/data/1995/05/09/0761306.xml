@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mascotech Inc.(MSX,N) reports earnings for Qtr to Mar 31</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="761306"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E2D61538F93AA35756C0A963958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mascotech Inc.(MSX,N) reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Mascotech Inc.(MSX,N)</p>
+        <p>Qtr to Mar 31</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Sales</p>
+        <p>445,010,000</p>
+        <p>412,410,000</p>
+        <p>Net inc</p>
+        <p>13,460,000</p>
+        <p>b26,300,000</p>
+        <p>Share earns</p>
+        <p>.18</p>
+        <p>.34</p>
+        <p>b-Included gains aggregating approximately $ 9.8 million pretax, or about 7 cents a share after-tax, from the sale by the company of stock of an equity affiliate. Income after preferred dividends in the latest first quarter was $ 10.2 million, or 18 cents a share, compared with $ 23.1 million, or 32 cents a share, in year-ago period. Sales are net sales. Mascotech said its first-quarter earnings were hurt by unspecified restructuring costs and results from certain operations it plans to divest. the company also said it had increased costs associated with its capital investment programs, launch costs for new products and increased steel costs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

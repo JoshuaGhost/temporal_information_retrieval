@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Can Corp. (NMS) reports earnings for Qtr to April 4</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="607110"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4D6123EF935A35756C0A965958260" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Can Corp. (NMS) reports earnings for Qtr to April 4</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*U.S. Can Corp. (NMS)</p>
+        <p>Qtr to April 4</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Sales</p>
+        <p>109,612,000</p>
+        <p>97,891,000</p>
+        <p>Net loss</p>
+        <p>b1,527,000</p>
+        <p>c12,690,000</p>
+        <p>Shares outst</p>
+        <p>6,241,000</p>
+        <p>4,399,000</p>
+        <p>b-Included an extraordinary loss of $ 3,402,000 from the early extinguishment of debt. c-Included an extraordinary charge of $ 12,537,000 from a change in accounting for postretirement benefits other than pensions. The results included charges from warrant accretion equaled to 4 cents a share in the latest first quarter and 6 cents a share in the year-ago period.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

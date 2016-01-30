@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muntean/Rosenblum</title>
+    <meta content="RV012549" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1184615"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Roberta</person>
+        <person class="indexing_service">Rosenblum, Adi</person>
+        <person class="indexing_service">Muntean, Markus</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000317T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFDE143AF934A25750C0A9669C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muntean/Rosenblum</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">Smith, Roberta</byline>
+      <abstract>
+        <p>Roberta Smith reviews Markus Muntean and Adi Rosenblum collaborative exhibition at Jack Tilton Gallery (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jack Tilton Gallery  49 Greene Street  SoHo  Through tomorrow</p>
+        <p>Markus Muntean, who is Austrian, and Adi Rosenblum, who is Israeli, met at art school in Vienna in the late 1980's and have collaborated on art, as well as on an art gallery, since the early 1990's. Their New York gallery debut includes paintings, photographs and comic books that reflect a strange blend of early 1970's Conceptualism and late 1990's sincerity.</p>
+        <p>As artists like Elizabeth Peyton, Karen Kilimnik and Wolfgang Tillmans do, Muntean/Rosenblum focus on youth, but their work feels youthful and undeveloped. Their photo-based paintings depict adolescents doing nothing much: hanging out at home or in a park (either way, plants and trees are frequent props). Each image has a caption: ''Misery doesn't want company, happiness does'' or ''We are not entirely unfaithful, we are just faithful to something else.''</p>
+      </block>
+      <block class="full_text">
+        <p>Jack Tilton Gallery  49 Greene Street  SoHo  Through tomorrow</p>
+        <p>Markus Muntean, who is Austrian, and Adi Rosenblum, who is Israeli, met at art school in Vienna in the late 1980's and have collaborated on art, as well as on an art gallery, since the early 1990's. Their New York gallery debut includes paintings, photographs and comic books that reflect a strange blend of early 1970's Conceptualism and late 1990's sincerity.</p>
+        <p>As artists like Elizabeth Peyton, Karen Kilimnik and Wolfgang Tillmans do, Muntean/Rosenblum focus on youth, but their work feels youthful and undeveloped. Their photo-based paintings depict adolescents doing nothing much: hanging out at home or in a park (either way, plants and trees are frequent props). Each image has a caption: ''Misery doesn't want company, happiness does'' or ''We are not entirely unfaithful, we are just faithful to something else.''</p>
+        <p>Painted at near life size in thin, wholesome colors, the images have a similarly remote, all-purpose feeling, like the ones John Baldessari commissioned sign painters to make from photographs in the early 1970's.</p>
+        <p>The team's low-affect style acquires a bit more edge in some large color photographs of teenagers whose faces and limbs are coated with a shiny gel, as if playing to the current taste for mannequin sculptures. And it seems most convincing in their comic books, which reduce the captioned images to page size. But ultimately the work feels too passive and inert, and tends to make you wonder what the artists want to be when they grow up.</p>
+        <p>ROBERTA SMITH</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

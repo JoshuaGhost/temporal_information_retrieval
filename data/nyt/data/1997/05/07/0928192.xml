@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Petroleum Data</title>
+    <meta content="07PETR" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="928192"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">PETROLEUM DATA (NYT COLUMN)</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EEDB1130F934A35756C0A961958260" item-length="74" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Petroleum Data</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In millions of barrels except refinery utilization</p>
+        <p>May 2</p>
+        <p>Apr. 25</p>
+        <p>May 3</p>
+        <p>1997</p>
+        <p>1997</p>
+        <p>1996</p>
+        <p>Gasoline production, daily</p>
+        <p>7.8</p>
+        <p>7.7</p>
+        <p>7.7</p>
+        <p>Distillate production, daily</p>
+        <p>3.6</p>
+        <p>3.3</p>
+        <p>3.2</p>
+        <p>Gasoline stocks</p>
+        <p>190.5</p>
+        <p>194.2</p>
+        <p>203.8</p>
+        <p>Distillate stocks</p>
+        <p>97.6</p>
+        <p>94.9</p>
+        <p>89.9</p>
+        <p>Crude imports, daily</p>
+        <p>8.1</p>
+        <p>8.0</p>
+        <p>7.3</p>
+        <p>Product imports, daily</p>
+        <p>2.0</p>
+        <p>2.2</p>
+        <p>1.6</p>
+        <p>Crude stocks</p>
+        <p>315.7</p>
+        <p>314.7</p>
+        <p>300.5</p>
+        <p>Crude production, daily</p>
+        <p>6.4</p>
+        <p>6.4</p>
+        <p>6.4</p>
+        <p>Refinery utilization (%)</p>
+        <p>94.5</p>
+        <p>93.5</p>
+        <p>93.4</p>
+        <p>Source: American Petroleum Institute</p>
+      </block>
+      <block class="full_text">
+        <p>In millions of barrels except refinery utilization</p>
+        <p>May 2</p>
+        <p>Apr. 25</p>
+        <p>May 3</p>
+        <p>1997</p>
+        <p>1997</p>
+        <p>1996</p>
+        <p>Gasoline production, daily</p>
+        <p>7.8</p>
+        <p>7.7</p>
+        <p>7.7</p>
+        <p>Distillate production, daily</p>
+        <p>3.6</p>
+        <p>3.3</p>
+        <p>3.2</p>
+        <p>Gasoline stocks</p>
+        <p>190.5</p>
+        <p>194.2</p>
+        <p>203.8</p>
+        <p>Distillate stocks</p>
+        <p>97.6</p>
+        <p>94.9</p>
+        <p>89.9</p>
+        <p>Crude imports, daily</p>
+        <p>8.1</p>
+        <p>8.0</p>
+        <p>7.3</p>
+        <p>Product imports, daily</p>
+        <p>2.0</p>
+        <p>2.2</p>
+        <p>1.6</p>
+        <p>Crude stocks</p>
+        <p>315.7</p>
+        <p>314.7</p>
+        <p>300.5</p>
+        <p>Crude production, daily</p>
+        <p>6.4</p>
+        <p>6.4</p>
+        <p>6.4</p>
+        <p>Refinery utilization (%)</p>
+        <p>94.5</p>
+        <p>93.5</p>
+        <p>93.4</p>
+        <p>Source: American Petroleum Institute</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The New York Times Guide to Rotisserie Leagues; Price and Prejudice to Aid in the American League Action</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="515990"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES</classifier>
+        <classifier class="indexing_service" type="descriptor">AUCTIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">GAMBLING</classifier>
+        <org class="indexing_service">AMERICAN LEAGUE</org>
+        <person class="indexing_service">BELINKIE, PAUL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gambling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFD6153CF931A15750C0A964958260" item-length="302" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The New York Times Guide to Rotisserie Leagues; Price and Prejudice to Aid in the American League Action</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL BELINKIE</byline>
+      <byline class="normalized_byline">BELINKIE, PAUL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rotisserie baseball is a game made up of teams composed of real players who are selected at an auction draft at the beginning of the season. Each team is made up of 23 players taken from the active rosters of American or National League teams.</p>
+        <p>A team consists of five outfielders, two catchers, one second baseman, one shortstop, one middle infielder (either a second baseman or a shortstop), one first baseman, one third baseman, one corner man (either a first baseman or a third baseman), nine pitchers and one utility player (a designated hitter in an American League Rotisserie league, although some leagues now allow a 10th pitcher to occupy this slot).</p>
+      </block>
+      <block class="full_text">
+        <p>Rotisserie baseball is a game made up of teams composed of real players who are selected at an auction draft at the beginning of the season. Each team is made up of 23 players taken from the active rosters of American or National League teams.</p>
+        <p>A team consists of five outfielders, two catchers, one second baseman, one shortstop, one middle infielder (either a second baseman or a shortstop), one first baseman, one third baseman, one corner man (either a first baseman or a third baseman), nine pitchers and one utility player (a designated hitter in an American League Rotisserie league, although some leagues now allow a 10th pitcher to occupy this slot).</p>
+        <p>Cumulative team performances are tabulated each week in four offensive and four pitching categories: composite batting average, total home runs, total runs batted in, total stolen bases, composite earned run average, composite ratio (the number of walks plus hits divided by innings pitched), total number of games won and total saves. Defense does not count.</p>
+        <p>Teams are ranked from first to last in each of the eight categories weekly. In a 10-team National Rotisserie League, the first-place team receives 10 points for finishing first in a category and the last-place team receives 1 point. In a 12-team or American Rotisserie League, the first-place teams receives 12 points for finishing first in a category. The team with the most points in the eight categories at the end of the season is the winner.</p>
+        <p>Originally, leagues had a limit of $260 for purchasing players, with a minimum of a dollar per player. In many leagues, however, teams now have a limit of $26 per team, with a minimum of 10 cents per player.</p>
+        <p>The accompanying prices indicate the approximate cost that will be needed to purchase a particular player at an auction.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

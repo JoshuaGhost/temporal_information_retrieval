@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jeff de Lange, Diamond Importer, 51</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="180945"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">DE LANGE, JEFF</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2D7153CF933A1575AC0A96E948260" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jeff de Lange, Diamond Importer, 51</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Jeff de Lange, president of the Diamond Manufacturers and Importers Association of America, died of a heart attack last Thursday at the St. Clare's Hospital and Health Center. He was 51 years old and lived in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Jeff de Lange, president of the Diamond Manufacturers and Importers Association of America, died of a heart attack last Thursday at the St. Clare's Hospital and Health Center. He was 51 years old and lived in Manhattan.</p>
+        <p>Jeff de Lange, president of the Diamond Manufacturers and Importers Association of America, died of a heart attack last Thursday at the St. Clare's Hospital and Health Center. He was 51 years old and lived in Manhattan.</p>
+        <p>Mr. de Lange, who was born in Antwerp, Belgium, immigrated here in World War II. He earned a bachelor's degree at Oberlin College.</p>
+        <p>He became a diamond importer and, when he died, was president of Haber-Worth Enterprises.</p>
+        <p>Surviving are his wife, Sylvia, and a son, David,</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

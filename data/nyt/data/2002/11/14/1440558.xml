@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Market for Human Organs?</title>
+    <meta content="LTR235105" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1440558"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Transplants</classifier>
+        <person class="indexing_service">Reisman, Lewis (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E3D71630F937A25752C1A9649C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Market for Human Organs?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dr Lewis Reisman says if money is given to encourage organ transplants, altruistic donations will dry up, middlemen and scalpers will get involved, and there will be loss of equality of opportunity for recipients; says this has happened in other countries; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am opposed to Nicholas D. Kristof's proposal for the introduction of payments for donor kidneys for transplantation (column, Nov. 12).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am opposed to Nicholas D. Kristof's proposal for the introduction of payments for donor kidneys for transplantation (column, Nov. 12).</p>
+        <p>Enormous ethical and legal problems arise. If money is given to encourage transplantation, altruistic donation will dry up, middlemen and scalpers will get involved, and there will be a loss of equality of opportunity for recipients. We have seen all of this happen in other countries where organ donation for money is permitted.</p>
+        <p>LEWIS REISMAN, M.D.  Livingston, N.J., Nov. 12, 2002</p>
+        <p>The writer is director of pediatric nephrology and transplantation, St. Barnabas Medical Center.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

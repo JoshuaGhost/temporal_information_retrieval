@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Zimmerman, William Vanderhoof</title>
+    <meta content="05ZIMM$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/05/fashion/weddings/05ZIMM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1632299"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">ZIMMERMAN, SARAH MIDORI</person>
+        <person class="indexing_service">VANDERHOOF, WILLIAM BRUCE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E3DA1631F936A35751C1A9629C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Zimmerman, William Vanderhoof</hl1>
+        <hl2 class="online_headline">Sarah Zimmerman, William Vanderhoof</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Midori Zimmerman, a daughter of Michi Itami of New York and Dr. Michael P. Zimmerman of Richmond, Calif., was married in New York yesterday to William Bruce Vanderhoof, a son of Audrey and William H. Vanderhoof of Fort Worth. The Rev. Erik Kolbell performed the ceremony at St. Paul's Chapel at Columbia.</p>
+        <p>Ms. Zimmerman, 39, is keeping her name. She is a senior writer of speeches and business proposals at Rubenstein Communications, a public relations firm in New York. She graduated from Yale and received a master's degree in English from New York University. Her father is a professor of English at San Francisco State University and is a psychoanalyst with a private practice in Berkeley, Calif. Her mother is an artist and a professor of art at the City College of New York.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sarah Zimmerman,.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Midori Zimmerman, a daughter of Michi Itami of New York and Dr. Michael P. Zimmerman of Richmond, Calif., was married in New York yesterday to William Bruce Vanderhoof, a son of Audrey and William H. Vanderhoof of Fort Worth. The Rev. Erik Kolbell performed the ceremony at St. Paul's Chapel at Columbia.</p>
+        <p>Ms. Zimmerman, 39, is keeping her name. She is a senior writer of speeches and business proposals at Rubenstein Communications, a public relations firm in New York. She graduated from Yale and received a master's degree in English from New York University. Her father is a professor of English at San Francisco State University and is a psychoanalyst with a private practice in Berkeley, Calif. Her mother is an artist and a professor of art at the City College of New York.</p>
+        <p>Mr. Vanderhoof, 40, is a consultant in New York for companies in the energy field. He graduated from the University of Pennsylvania. His mother, who is retired, was a librarian at Texas Christian University in Fort Worth, where his father is an assistant professor of education.</p>
+        <p>The bridegroom's previous marriage ended in divorce.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

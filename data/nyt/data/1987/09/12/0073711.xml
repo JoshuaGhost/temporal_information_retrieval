@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EDWARD H. ROGERS</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="73711"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">ROGERS, EDWARD H</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DD1630F931A2575AC0A961948260" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EDWARD H. ROGERS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Edward H. Rogers, an insurance and banking executive of Westhampton Beach, L.I., died of lung cancer yesterday at his home in the village of Westhampton Beach. He was 68 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Edward H. Rogers, an insurance and banking executive of Westhampton Beach, L.I., died of lung cancer yesterday at his home in the village of Westhampton Beach. He was 68 years old.</p>
+        <p>Edward H. Rogers, an insurance and banking executive of Westhampton Beach, L.I., died of lung cancer yesterday at his home in the village of Westhampton Beach. He was 68 years old.</p>
+        <p>Mr. Rogers, a lifelong resident of Westhampton Beach whose ancestors helped found the village, was president of the Westhampton Agency, an insurance concern. For many years he was on the board of directors of the Long Island Trust Company, formerly the Seaside Bank. A naval officer in World War II, he took part in the invasions of Iwo Jima and Guadalcanal.</p>
+        <p>He is survived by his wife, Blair; a son, Peter; a daughter, Susan Rogers, all of Westhampton Beach, and a sister, Henriette Eagan, of Westhampton, and three grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

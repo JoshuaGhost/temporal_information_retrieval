@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. Shifts Chief of PC's For Consumer</title>
+    <meta content="Y23BLUE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1033754"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Neuron Data Co</org>
+        <org class="indexing_service">Xerox Corp</org>
+        <person class="indexing_service">Hansell, Saul</person>
+        <person class="indexing_service">Firestone, James A</person>
+        <person class="indexing_service">Braun, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDB1439F930A15754C0A96E958260" item-length="440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. Shifts Chief of PC's For Consumer</hl1>
+      </hedline>
+      <byline class="print_byline">By SAUL HANSELL</byline>
+      <byline class="normalized_byline">Hansell, Saul</byline>
+      <abstract>
+        <p>James A Firestone, who heads consumer personal computer business unit at IBM, will leave to take similar position at Xerox; IBM has hired Michael Braun, chief executive of Neuron Data, to replace Firestone (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. replaced the executive in charge of its consumer personal computer business yesterday in an effort to turn around a division that has lagged even as the consumer market has shown steady growth.</p>
+        <p>James A. Firestone, 43, who had headed the unit since August 1995, will leave to take a similar position at Xerox. In his place, the International Business Machines Corporation hired Michael Braun, the chief executive of Neuron Data, a software company. Mr. Braun, 48, spent more than 20 years at I.B.M. before being assigned to run Kaleida Labs, a joint venture by I.B.M. and Apple Computer to make multimedia software.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. replaced the executive in charge of its consumer personal computer business yesterday in an effort to turn around a division that has lagged even as the consumer market has shown steady growth.</p>
+        <p>James A. Firestone, 43, who had headed the unit since August 1995, will leave to take a similar position at Xerox. In his place, the International Business Machines Corporation hired Michael Braun, the chief executive of Neuron Data, a software company. Mr. Braun, 48, spent more than 20 years at I.B.M. before being assigned to run Kaleida Labs, a joint venture by I.B.M. and Apple Computer to make multimedia software.</p>
+        <p>''Firestone never got things going,'' said Gary Helmig, an analyst with Soundview Financial. ''The con sumer business had a good year in 1996, and it has been a drag ever since.''</p>
+        <p>I.B.M.'s share of the consumer PC market fell from 12 percent at the start of 1997 to 3 percent last October, according to ZD Market Intelligence. Analysts attributed much of that drop to I.B.M.'s failure to foresee the rise of computers priced under $1,000. It has since added less costly models, and its retail share has bounced back to 16 percent. But it still trails Hewlett-Packard, with 24 percent of the market, and Compaq, with 22 percent, ZD says.</p>
+        <p>Compaq and Hewlett-Packard have emphasized selling low-cost machines to the mass market. I.B.M., while focusing on higher-margin, feature-packed machines aimed at demanding, high-end users, has been wary of competing for market share in the volatile consumer market. But in a memorandum to employees announcing the appointment of Mr. Braun, David Thomas, the head of I.B.M.'s overall personal computer division, said the company's goal was to become the No. 1 seller of consumer PC's.</p>
+        <p>When he joined I.B.M., Mr. Firestone was put in charge of an ambitious effort by the company's chairman, Louis V. Gerstner Jr., to capitalize on I.B.M.'s brand recognition. In addition to computers, he was to introduce software, games and on-line products. Over the years, most of these consumer initiatives have been scaled back or closed.</p>
+        <p>Before joining I.B.M., Mr. Firestone ran the home services unit of the Ameritech Corporation. Before that, he worked at American Express, with Mr. Gerstner and G. Richard Thoman, who eventually headed I.B.M.'s PC business. Mr. Thoman is now the chief operating officer at Xerox, which has been expanding its consumer marketing with products like small copiers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

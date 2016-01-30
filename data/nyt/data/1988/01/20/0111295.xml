@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Executives</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="111295"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0D61E3AF933A15752C0A96E948260" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Executives</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * Abraham &amp; Straus Department Stores, Brooklyn, a division of Federated Department Stores Inc. named Joseph Pennacchio senior vice president and general merchandise manager.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * Abraham &amp; Straus Department Stores, Brooklyn, a division of Federated Department Stores Inc. named Joseph Pennacchio senior vice president and general merchandise manager.</p>
+        <p>* Abraham &amp; Straus Department Stores, Brooklyn, a division of Federated Department Stores Inc. named Joseph Pennacchio senior vice president and general merchandise manager.</p>
+        <p>* Berkey Inc., White Plains, which makes diversified photographic equipment, elected Margit Pearson director and president, replacing Jack Hozman as president; he plans to continue as vice chairman. It also named Lowell Huber controller.</p>
+        <p>* California Energy Co., San Francisco, named Michael Heys president and chief operating officer, succeeding Harold Robinson, who becomes chairman.</p>
+        <p>* Financial News Network, Santa Monica, Calif., promoted Michael Wheeler, John Berentson, Arnie Rosenthal and C. Steven Bolen to executive vice presidents.</p>
+        <p>* Frankford Trust Co., Horsham, Pa., appointed George L. Lyon senior vice president and trust manager.</p>
+        <p>* May Department Stores, St. Louis, named Anthony J. Torcasio president and chief executive of its subsidiary L. S. Ayres, Indianapolis. Mr. Torcasio succeeds Robert E. Friedman, who has been named president and chief executive of Famous-Barr Co.</p>
+        <p>* Ogden Allied Services Corp., an aviation, building, food and industrial services company, promoted William H. Willis to executive vice president, industrial services.</p>
+        <p>* Prudential Insurance Co., Newark, elected Robert M. Chmely senior vice president and actuary.</p>
+        <p>* Samuel Montagu &amp; Co. Ltd., the U.S. arm of the British investment banking subsidiary of Midland Bank P.L.C. named Anthony Hass a director and senior adviser, responsible for international acquisitions and mergers.</p>
+        <p>* Rockwell International, a diversified company, appointed James A. McDivitt senior vice president-government operations.</p>
+        <p>* Sequel Corp., New Canaan, Conn., a provider of orthopedic rehabilitation services, named Ivan R. Sabel president and chief operating officer.</p>
+        <p>* Suffolk Bancorp, Riverhead, L.I., promoted Edward J. Merz to president and chief executive and Victro F. Bozuhoski Jr. to executive vice president, comptroller and treasurer.</p>
+        <p>* Tesseract Corp., San Francisco, a vendor of fully integrated human resource management systems whose parent company is Prudential Insurance Co. of America, appointed William R. Leckonby president.</p>
+        <p>* United Jersey Banks, Princeton, N.J., named John R. Haggerty and Stephen H. Paneyko senior executive vice presidents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

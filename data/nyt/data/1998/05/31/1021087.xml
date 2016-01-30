@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Kidwell, C. S. Borghesani</title>
+    <meta content="31KIDW$04" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1021087"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KIDWELL, SARAH ELIZABETH</person>
+        <person class="indexing_service">BORGHESANI, CHRISTOPHER SCOTT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDB1138F932A05756C0A96E958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Kidwell, C. S. Borghesani</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Elizabeth Kidwell and Christopher Scott Borghesani were married yesterday. The Rev. Richard S. DenUyl Jr., a Congregational minister, officiated at the Allen's Neck Friends Meeting House in South Dartmouth, Mass.</p>
+        <p>The bride is a field producer in the New York bureau of NBC News, and the bridegroom is a freelance cameraman based in Westport Point, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Elizabeth Kidwell and Christopher Scott Borghesani were married yesterday. The Rev. Richard S. DenUyl Jr., a Congregational minister, officiated at the Allen's Neck Friends Meeting House in South Dartmouth, Mass.</p>
+        <p>The bride is a field producer in the New York bureau of NBC News, and the bridegroom is a freelance cameraman based in Westport Point, Mass.</p>
+        <p>The bride, who is keeping her name, graduated from Princeton University. She is a daughter of Doris B. Kidwell of Bedminster, N.J., and Dr. Allyn P. Kidwell of Sun City, Ariz. Her father is a retired internist who practiced in Andover, N.J. Her mother is a retired nurse.</p>
+        <p>The bridegroom graduated from Framingham State College. He is a son of Cynthia and Robert Borghesani of Kansas City, Mo., where his mother is a public-relations consultant. His father, now retired, was a mechanical engineer in Waltham, Mass., for the Polaroid Corporation.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

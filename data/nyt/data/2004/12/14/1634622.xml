@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thomas Thacher, 88, Lawyer And Public Gardens President</title>
+    <meta content="14THAC$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/14/obituaries/14thacher.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1634622"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Law</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Thomas Thacher</classifier>
+        <person class="indexing_service">Thacher, Thomas</person>
+        <person class="indexing_service">Saxon, Wolfgang</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EFDF1630F937A25751C1A9629C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thomas Thacher, 88, Lawyer And Public Gardens President</hl1>
+        <hl2 class="online_headline">Thomas Thacher, 88, Lawyer and Public Gardens President, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By WOLFGANG SAXON</byline>
+      <byline class="normalized_byline">Saxon, Wolfgang</byline>
+      <abstract>
+        <p>Thomas Thacher, 88, Lawyer And Public Gardens P</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thomas Thacher, a New York lawyer who was state insurance commissioner in the 1960's and was a founder and former president of the Wave Hill public gardens in the northwest Bronx, died last Friday in North Branford, Conn. He was 88 and formerly lived in Riverdale, the Bronx, and New Canaan, Conn.</p>
+        <p>His death was announced by his family.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Thomas Thacher helped develop Wave Hill, a 28-acre estate overlooking the Hudson and the Palisades, for public use.</p>
+      </block>
+      <block class="full_text">
+        <p>Thomas Thacher, a New York lawyer who was state insurance commissioner in the 1960's and was a founder and former president of the Wave Hill public gardens in the northwest Bronx, died last Friday in North Branford, Conn. He was 88 and formerly lived in Riverdale, the Bronx, and New Canaan, Conn.</p>
+        <p>His death was announced by his family.</p>
+        <p>Mr. Thacher, who was long active in civic affairs and the Riverdale Community Planning Association, joined with Gilbert Kerlin in the 1960's to save Wave Hill, a 28-acre estate overlooking the Hudson and the Palisades, for public use as an environmental and educational complex of gardens, greenhouses and urban woodlands.</p>
+        <p>Mr. Thacher was a crucial ally of Mr. Kerlin in persuading the estate's private owners, who were considering selling it to an apartment building developer, to donate it to the city instead in 1961. They later helped convert the estate to a public arboretum and center for art and environmental science.</p>
+        <p>Mr. Thacher was the board president of Wave Hill into the mid-1980's. Mr. Kerlin died last April.</p>
+        <p>A native New Yorker, Thomas Thacher graduated from Yale in 1938 and from its law school in 1942. He served in the Navy in World War II in the North Atlantic, the Pacific and the Caribbean, leaving the service as a lieutenant in 1945.</p>
+        <p>He was an associate and partner in Simpson Thacher &amp; Bartlett, a law firm founded by his grandfather, from 1946 until 1959, when he was appointed state superintendent of insurance, a position he held until 1963.</p>
+        <p>In the 1960's he also sat on Mayor John V. Lindsay's Committee on Rent Stabilization, and he was a former member of the New York City Public Events Commission.</p>
+        <p>From 1964 until his retirement in 1984 he was a partner in and then of counsel to the law firm of Patterson, Belknap, Webb &amp; Tyler.</p>
+        <p>Mr. Thacher is survived by his wife of 62 years, Barbara Auchincloss Thacher; two daughters, Dr. Barbara T. Plimpton of Brooklyn, and Elizabeth Hawn of Orono, Minn.; four sons, Thomas D. II of Bedford, N.Y., Hugh A. of San Francisco, Peter A. of Dhahran, Saudi Arabia, and Andrew, of Barrington, R.I.; and seven grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

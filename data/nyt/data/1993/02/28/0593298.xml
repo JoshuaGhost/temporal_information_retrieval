@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>S. Gregg Renfrew, William D. Orr</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="593298"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="ENGAGEMENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">RENFREW, SUSAN GREGG</person>
+        <person class="indexing_service">ORR, WILLIAM DENNISON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DC1E3DF93BA15751C0A965958260" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>S. Gregg Renfrew, William D. Orr</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Susan G. Renfrew and Robert M. Bender of New York have announced the engagement of Mrs. Renfrew's daughter, Susan Gregg Renfrew, to William Dennison Orr, a son of Mr. and Mrs. Thomas Orr of Darien, Conn. A July wedding is planned.</p>
+        <p>Miss Renfrew, 24, is known as S. Gregg. She is a marketing representative for CCA Financial Services Inc., a computer and industrial-equipment leasing company in Richmond. She is also the daughter of Reno Bartlett Renfrew of Dallas. Her mother is the president of Carnegie Hill Properties Inc., a real-estate agency in New York. The prospective bride's stepfather is the chief executive of the American Red Cross in Greater New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Susan G. Renfrew and Robert M. Bender of New York have announced the engagement of Mrs. Renfrew's daughter, Susan Gregg Renfrew, to William Dennison Orr, a son of Mr. and Mrs. Thomas Orr of Darien, Conn. A July wedding is planned.</p>
+        <p>Miss Renfrew, 24, is known as S. Gregg. She is a marketing representative for CCA Financial Services Inc., a computer and industrial-equipment leasing company in Richmond. She is also the daughter of Reno Bartlett Renfrew of Dallas. Her mother is the president of Carnegie Hill Properties Inc., a real-estate agency in New York. The prospective bride's stepfather is the chief executive of the American Red Cross in Greater New York.</p>
+        <p>Mr. Orr, 24, is a bond trader at Craigie Inc., an investment banking concern in Richmond. He graduated from St. Lawrence University. His father owns Tom Orr Medical Publications, a magazine distribution company in Darien.</p>
+        <p>ENGAGEMENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

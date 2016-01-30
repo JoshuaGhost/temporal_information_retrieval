@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Wrestling Sticking With XFL</title>
+    <meta content="PL033136" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1276372"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="PLUS: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">World Wrestling Federation</org>
+        <org class="indexing_service">Xfl Football</org>
+        <org class="indexing_service">National Broadcasting Co</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <person class="indexing_service">McMahon, Linda</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DA163AF93BA35750C0A9679C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Wrestling Sticking With XFL</hl1>
+      </hedline>
+      <byline class="print_byline">By Richard Sandomir</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>World Wrestling Federation Entertainment is not abandoning its partnership in XFL with NBC; Linda McMahon, company's president, comments (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>World Wrestling Federation Entertainment is not abandoning its partnership in the XFL with NBC, Linda McMahon, the company's president, said yesterday.</p>
+        <p>Comments attributed to her from an investment conference held Monday were taken out of context to make it seem as if W.W.F.E. were looking to bail out of the XFL after this season, an XFL spokesman said.</p>
+      </block>
+      <block class="full_text">
+        <p>World Wrestling Federation Entertainment is not abandoning its partnership in the XFL with NBC, Linda McMahon, the company's president, said yesterday.</p>
+        <p>Comments attributed to her from an investment conference held Monday were taken out of context to make it seem as if W.W.F.E. were looking to bail out of the XFL after this season, an XFL spokesman said.</p>
+        <p>''While the World Wrestling Federation Entertainment continues to evaluate the XFL on a weekly basis,'' McMahon said in a statement, ''we stand committed to our long-term goal of making the XFL a viable brand of alternative football.''</p>
+        <p>The XFL's Nielsen rating on NBC last Saturday fell to a 2.4, from a 2.6 the previous week, the smallest drop since the season began.</p>
+        <p>Richard Sandomir</p>
+        <p>PLUS: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

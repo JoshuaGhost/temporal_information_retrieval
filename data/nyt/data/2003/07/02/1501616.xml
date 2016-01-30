@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Russia: Oil Venture</title>
+    <meta content="MB005155" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1501616"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Refineries</classifier>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Caspian Sea</location>
+        <location class="indexing_service">Kazakhstan</location>
+        <org class="indexing_service">Lukoil</org>
+        <org class="indexing_service">Gazprom (Russian Co)</org>
+        <org class="indexing_service">Kazmunaigaz</org>
+        <person class="indexing_service">Tavernise, Sabrina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Kazakhstan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E1DA133AF931A35754C0A9659C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Russia: Oil Venture</hl1>
+      </hedline>
+      <byline class="print_byline">By Sabrina Tavernise (NYT)</byline>
+      <byline class="normalized_byline">Tavernise, Sabrina</byline>
+      <abstract>
+        <p>Russian oil producer Lukoil sets up joint venture with country's natural gas monopoly Gazprom to develop large oil and gas field in Caspian Sea; each company will own half of new concern, which will work together with Kazakhstan's natural gas company Kazmunaigaz to develop field (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Russian oil producer Lukoil set up a joint venture with the country's natural gas monopoly, Gazprom, to develop a large oil and gas field in the Caspian Sea. Each company will own half of the new concern, which will work together with Kazakhstan's natural gas company, Kazmunaigaz, to develop the field. The field, near the border between Russia and Kazakhstan in the waters of the Caspian, is estimated to contain about 3.8 billion barrels of oil equivalent, Lukoil said in a statement.</p>
+        <p>Sabrina Tavernise (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The Russian oil producer Lukoil set up a joint venture with the country's natural gas monopoly, Gazprom, to develop a large oil and gas field in the Caspian Sea. Each company will own half of the new concern, which will work together with Kazakhstan's natural gas company, Kazmunaigaz, to develop the field. The field, near the border between Russia and Kazakhstan in the waters of the Caspian, is estimated to contain about 3.8 billion barrels of oil equivalent, Lukoil said in a statement.</p>
+        <p>Sabrina Tavernise (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

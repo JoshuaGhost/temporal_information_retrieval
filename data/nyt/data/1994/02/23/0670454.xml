@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Second Chance For D.M.B.&amp; B.</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="670454"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <org class="indexing_service">KRAFT GENERAL FOODS INC</org>
+        <org class="indexing_service">D'ARCY MASIUS BENTON &amp; BOWLES INC</org>
+        <org class="indexing_service">OGILVY &amp; MATHER</org>
+        <person class="indexing_service">ELLIOTT, STUART</person>
+        <object.title class="indexing_service">ADVERTISING (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DD113BF930A15751C0A962958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Second Chance For D.M.B.&amp; B.</hl1>
+      </hedline>
+      <byline class="print_byline">By STUART ELLIOTT</byline>
+      <byline class="normalized_byline">ELLIOTT, STUART</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kraft General Foods yesterday granted D'Arcy Masius Benton &amp; Bowles of New York a second chance to handle advertising for the Crystal Light sugar-free powdered drink mix brand. The account, with billings estimated at $10 million to $15 million, had been at Ogilvy &amp; Mather New York for nine months after leaving D.M.B.&amp; B. in April.</p>
+      </block>
+      <block class="full_text">
+        <p>Kraft General Foods yesterday granted D'Arcy Masius Benton &amp; Bowles of New York a second chance to handle advertising for the Crystal Light sugar-free powdered drink mix brand. The account, with billings estimated at $10 million to $15 million, had been at Ogilvy &amp; Mather New York for nine months after leaving D.M.B.&amp; B. in April.</p>
+        <p>D.M.B.&amp; B. was awarded the account after a two-month review that was limited to Ogilvy and two other Kraft General Foods agencies: Grey Advertising and Young &amp; Rubicam, both of New York. D.M.B.&amp; B.'s appointment is the second recent account gain for the agency from Kraft General Foods, reversing a trend during which the company had been withdrawing accounts, including Crystal Light, from the agency.  THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

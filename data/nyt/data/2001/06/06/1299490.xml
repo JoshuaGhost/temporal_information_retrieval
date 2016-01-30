@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HOAGLAND, ALEXANDER C.</title>
+    <meta content="DN060601" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1299490"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">HOAGLAND, ALEXANDER C.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E1D6103FF935A35755C0A9679C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HOAGLAND, ALEXANDER C.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOAGLAND-Alexander C. June 4, 2001. Beloved husband of Teresa, loving father of Valente, Antonio (Lupe) and Valeria (Luis). Cherished grandfather of Anna, Teresa, Alejandro, Felipe, Maria and Mariana. He will be deeply missed by all who knew and loved him. Friends may call at Frank E. Campbell, 1076 Madison Ave, corner of 81st Street. Friday, June 8th, 2-5 and 7-9pm. Mass of Christian Burial Saturday, June 9th, 10:30am at St. Jean Baptiste Church, Lexington Ave at 76 St.</p>
+      </block>
+      <block class="full_text">
+        <p>HOAGLAND-Alexander C. June 4, 2001. Beloved husband of Teresa, loving father of Valente, Antonio (Lupe) and Valeria (Luis). Cherished grandfather of Anna, Teresa, Alejandro, Felipe, Maria and Mariana. He will be deeply missed by all who knew and loved him. Friends may call at Frank E. Campbell, 1076 Madison Ave, corner of 81st Street. Friday, June 8th, 2-5 and 7-9pm. Mass of Christian Burial Saturday, June 9th, 10:30am at St. Jean Baptiste Church, Lexington Ave at 76 St.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

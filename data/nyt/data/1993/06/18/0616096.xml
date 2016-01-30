@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="616096"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACCOUNT CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2D9123CF93BA25755C0A965958260" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Helix Technologies Inc. and its CTI-Cryogencis division, Mansfield, Mass., to Encompass Communications, Boston, to handle its accounts, previously handled on a project basis by various agencies. Billings were estimated at $1.2 million. * BBC Enterprises, London, to BSB Dorland, London, to handle a worldwide marketing campaign for "The People's Century," a 26-part BBC television series. Billings were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>* Helix Technologies Inc. and its CTI-Cryogencis division, Mansfield, Mass., to Encompass Communications, Boston, to handle its accounts, previously handled on a project basis by various agencies. Billings were estimated at $1.2 million. * BBC Enterprises, London, to BSB Dorland, London, to handle a worldwide marketing campaign for "The People's Century," a 26-part BBC television series. Billings were not disclosed.</p>
+        <p>* The Sullivan County Catskills, Monticello, N.Y., to Pace Advertising, New York, to handle its tourism account, previously at Lipman, Richmond, Greene, New York. Billings were not disclosed. * Novatt Advertising Inc., New York, was awarded three accounts, with combined billings estimated to exceed $2 million: Bodum A.G., Racine, Wis., as the first agency to handle advertising for the Melior French press coffee makers in the United States; Paris Chocolates Inc., Montclair, N.J., as the first agency to handle advertising for Flyer Candy Bars, and Art Leather Inc., Elmhurst, Queens, to handle the account of the wedding and special-event photo album manufacturer.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WELLS FARGO FILES HOSTILE BID FOR FIRST INTERSTATE</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="812074"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <org class="indexing_service">FIRST INTERSTATE BANCORP</org>
+        <org class="indexing_service">WELLS FARGO &amp; CO</org>
+        <org class="indexing_service">FIRST BANK SYSTEM INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7DF1139F93BA15752C1A963958260" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WELLS FARGO FILES HOSTILE BID FOR FIRST INTERSTATE</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wells Fargo &amp; Company outlined its $10.83 billion hostile bid yesterday for First Interstate Bancorp in a Securities and Exchange Commission filing. First Interstate has already agreed to a friendly $10.23 billion offer from First Bank System Inc. Wells Fargo is offering 0.67 share for each First Interstate share,  based on yesterday's stock prices, and First Bank System is offering 2.6 shares  for each First Interstate share. In New York Stock Exchange trading yesterday, shares of Wells Fargo rose $1.125, to $213.375. Shares of First Interstate rose  62.5 cents, to $135, and shares of First Bank System rose 62.5 cents, to $52.25. Wells Fargo has indicated that it will present its plan to First Interstate shareholders and try to oust the company board. If either offer is accepted, it  will be the biggest merger deal in history.</p>
+      </block>
+      <block class="full_text">
+        <p>Wells Fargo &amp; Company outlined its $10.83 billion hostile bid yesterday for First Interstate Bancorp in a Securities and Exchange Commission filing. First Interstate has already agreed to a friendly $10.23 billion offer from First Bank System Inc. Wells Fargo is offering 0.67 share for each First Interstate share,  based on yesterday's stock prices, and First Bank System is offering 2.6 shares  for each First Interstate share. In New York Stock Exchange trading yesterday, shares of Wells Fargo rose $1.125, to $213.375. Shares of First Interstate rose  62.5 cents, to $135, and shares of First Bank System rose 62.5 cents, to $52.25. Wells Fargo has indicated that it will present its plan to First Interstate shareholders and try to oust the company board. If either offer is accepted, it  will be the biggest merger deal in history.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

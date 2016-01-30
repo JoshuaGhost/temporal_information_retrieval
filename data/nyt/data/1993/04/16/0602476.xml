@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enron Oil &amp; Gas Co.  reports earnings for Qtr to March 31</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="602476"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930416T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4D6123BF935A25757C0A965958260" item-length="40" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enron Oil &amp; Gas Co.  reports earnings for Qtr to March 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Enron Oil &amp; Gas Co.  (NYSE)</p>
+        <p>Qtr to March 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>136,820,000</p>
+        <p>98,630,000</p>
+        <p>Net inc</p>
+        <p>30,208,000</p>
+        <p>22,287,000</p>
+        <p>Share earns</p>
+        <p>.38</p>
+        <p>.29</p>
+        <p>Shares outst</p>
+        <p>80,000,000</p>
+        <p>75,900,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

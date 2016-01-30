@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CHURN</title>
+    <meta content="30churn" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/03/30/business/30churn.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1836678"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="The Churn"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Human Resources</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070330T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EED71030F933A05750C0A9619C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CHURN</hl1>
+        <hl2 class="online_headline">People</hl2>
+      </hedline>
+      <abstract>
+        <p>The Churn column on some recent corporate appointments (M)d</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People</p>
+        <p>Laura D'Andrea Tyson, who served as an economic adviser to President Bill Clinton, has joined the strategic advisory firm LECG as a director. She will be based in the firm's headquarters in Emeryville, Calif.</p>
+        <p>Aquiline Holdings, an investment firm that focuses on the financial services industry, has named Sandra S. Wijnberg chief administrative officer. She was chief financial officer of Marsh &amp; McLennan. Aquiline's chairman, Jeffrey W. Greenberg, is a former chief executive of Marsh &amp; McLennan.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>People.</p>
+      </block>
+      <block class="full_text">
+        <p>People</p>
+        <p>Laura D'Andrea Tyson, who served as an economic adviser to President Bill Clinton, has joined the strategic advisory firm LECG as a director. She will be based in the firm's headquarters in Emeryville, Calif.</p>
+        <p>Aquiline Holdings, an investment firm that focuses on the financial services industry, has named Sandra S. Wijnberg chief administrative officer. She was chief financial officer of Marsh &amp; McLennan. Aquiline's chairman, Jeffrey W. Greenberg, is a former chief executive of Marsh &amp; McLennan.</p>
+        <p>Jim Johnston has joined BNP Paribas as part of the creation of an Americas pensions team in New York. He joins from Mercer Investment Consulting. The bank has also hired John Bohan, formerly of Deutsche Bank, as a managing director and head of United States equity execution trading in its equities and derivatives business.</p>
+        <p>Bear Stearns has hired Jonathan Firester to be a senior managing director in its corporate strategy group. Mr. Firester had been head of strategy for the global equities division of Lehman Brothers.</p>
+        <p>Arnold Owen has joined C. E. Unterberg, Towbin as a managing director and head of its San Francisco office. Mr. Owen previously worked at Merriman Curhan Ford, where he oversaw the firm's private placements.</p>
+        <p>Deutsche Bank has appointed John Butler as a managing director and head of the index strategy group. Mr. Butler, formerly of Lehman Brothers, will be based in London.</p>
+        <p>Robert Claassen, formerly of Wilson Sonsini Goodrich &amp; Rosati, has joined the capital markets practice of Paul, Hastings, Janofsky &amp; Walker as a partner in the Palo Alto, Calif., office.</p>
+        <p>David M. Bonner has been appointed chief executive of Americas outsourcing services at Capgemini.</p>
+        <p>Sheon Karol has joined Mesirow Financial Consulting. Mr. Karol, who was previously a managing director at XRoads, will be based in New York.</p>
+        <p>Leo Puri is joining Warburg Pincus as a managing director. He will eventually be based in Mumbai, working to expand the firm's business in India.</p>
+        <p>The Churn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

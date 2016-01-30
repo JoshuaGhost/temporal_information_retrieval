@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Acquittal for Rabbi's Wife</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="721004"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">KIDNAPPING</classifier>
+        <classifier class="indexing_service" type="descriptor">TRIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">JEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">HASIDISM</classifier>
+        <person class="indexing_service">HELBRANS, SHLOMO (RABBI)</person>
+        <person class="indexing_service">RHEUVEN, SHAI FHIMA</person>
+        <person class="indexing_service">HELBRANS, MALKA</person>
+        <person class="indexing_service">OWENS, THADDEUS E (JUDGE)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hasidism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6DA123FF934A15753C1A962958260" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Acquittal for Rabbi's Wife</hl1>
+      </hedline>
+      <dateline>The judge in the trial of an ultra-Orthodox rabbi and his wife accused of kidnapping a Jewish youth said yesterday that he would annul any jury verdict that convicted the wife.
+&lt;p&gt;
+The judge, Justice Thaddeus Owens of State Supreme Court in Brooklyn, said he had "misgivings" about the evidence against the wife, Malka Helbrans. He did not refer to her husband, Rabbi Shlomo Helbrans.</dateline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>The judge made his comments after the prosecution rested its case. The Helbranses have been on trial since Oct. 3 on charges of kidnapping Shai Fhima Reuven, who was 13 when he disappeared in April 1992 after his mother had sent him for bar mitzvah instruction to the Hasidic yeshiva that Rabbi Helbrans then ran in Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

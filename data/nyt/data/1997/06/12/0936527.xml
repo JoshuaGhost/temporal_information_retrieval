@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pharmacia Moves 2 New Brands</title>
+    <meta content="PHARMACIA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA" name="column_name"/>
+    <docdata>
+      <doc-id id-string="936527"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Pharmacia &amp; Upjohn Inc</org>
+        <org class="indexing_service">Doner, W B, &amp; Co</org>
+        <org class="indexing_service">Mccann-Erickson Worldwide</org>
+        <org class="indexing_service">Susan Spindler Advertising</org>
+        <person class="indexing_service">Canedy, Dana</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E3DB163FF931A25755C0A961958260" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pharmacia Moves 2 New Brands</hl1>
+      </hedline>
+      <byline class="print_byline">By Dana Canedy</byline>
+      <byline class="normalized_byline">Canedy, Dana</byline>
+      <abstract>
+        <p>Accounts of two pharmaceutical brands being acquired by Pharmacia &amp; Upjohn Inc from units of Johnson &amp; Johnson have been awarded to W B Doner &amp; Co; Doner is named to handle Micatin line of antifungal products, which had been handled by McCann-Erickson Worldwide; Doner is awarded Pediacare line of cough and cold products, which had been handled by Susan Spindler Advertising (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The accounts of two pharmaceutical brands being acquired by Pharmacia &amp; Upjohn Inc. from units of Johnson &amp; Johnson have been awarded to W. B. Doner &amp; Company in Southfield, Mich., a roster agency of Pharmacia &amp; Upjohn.</p>
+      </block>
+      <block class="full_text">
+        <p>The accounts of two pharmaceutical brands being acquired by Pharmacia &amp; Upjohn Inc. from units of Johnson &amp; Johnson have been awarded to W. B. Doner &amp; Company in Southfield, Mich., a roster agency of Pharmacia &amp; Upjohn.</p>
+        <p>Doner was named to handle the Micatin line of antifungal products, which had been handled by the McCann-Erickson Worldwide unit of the Interpublic Group of Companies in New York. Though billings were not disclosed, Advertising Age estimated them at $9.5 million. Doner was also awarded the Pediacare line of cough and cold products for children, which had been handled by Susan Spindler Advertising in Weston, Conn. Billings were not disclosed.</p>
+        <p>The two brands were among several swapped last week by Pharmacia &amp; Upjohn and Johnson &amp; Johnson. Doner will lose the account of one brand, Motrin pain reliever, acquired by the McNeil Consumer Products unit of Johnson &amp; Johnson from Pharmacia &amp; Upjohn. Advertising Age, which estimated Motrin spending last year at $16.6 million, reported that Motrin might be shifted to Saatchi &amp; Saatchi Health Care Connection, a unit of Cordiant P.L.C. in New York, or Ammirati Puris Lintas in New York, an Interpublic agency.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

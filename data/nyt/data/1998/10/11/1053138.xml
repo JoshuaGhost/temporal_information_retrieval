@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Edgar Pew, Christiane Mahoney</title>
+    <meta content="11MAHO" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1053138"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MAHONEY, CHRISTIANE MARIE (CHRISTIANE MARIE PEW)</person>
+        <person class="indexing_service">PEW, JAMES EDGAR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1DA123BF932A25753C1A96E958260" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Edgar Pew, Christiane Mahoney</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Christiane Marie Mahoney, a daughter of Mr. and Mrs. David J. Mahoney of Upper Saddle River, N.J., was married yesterday to James Edgar Pew, a son of Sally Chinn Pew and George L. Pew Jr. of Villanova, Pa. The Rev. Giles Spoonhour performed the ceremony at St. George's Episcopal Church in New York.</p>
+        <p>Mrs. Pew, 32, is a marketing manager for Autodesk, a computer software development company in San Rafael, Calif. She graduated from Villanova University.</p>
+      </block>
+      <block class="full_text">
+        <p>Christiane Marie Mahoney, a daughter of Mr. and Mrs. David J. Mahoney of Upper Saddle River, N.J., was married yesterday to James Edgar Pew, a son of Sally Chinn Pew and George L. Pew Jr. of Villanova, Pa. The Rev. Giles Spoonhour performed the ceremony at St. George's Episcopal Church in New York.</p>
+        <p>Mrs. Pew, 32, is a marketing manager for Autodesk, a computer software development company in San Rafael, Calif. She graduated from Villanova University.</p>
+        <p>The bride's father, who retired as a senior counsel in New York for the Exxon Corporation, is a senior partner in Waters, McPherson &amp; McNeill, a law firm in Secaucus, N.J. Her mother, Margaret G. Mahoney, is a real estate agent in the Saddle River, N.J., office of Coldwell Banker.</p>
+        <p>Mr. Pew, 34, is known as Edgar. He is a computer software product developer at the Lawgic Publishing Company in Novato, Calif. He graduated from Yale University and received a law degree from Columbia University.</p>
+        <p>His mother was until 1996 a trustee of Planned Parenthood of Southeastern Pennsylvania. His father, a former management consultant, is the vice chairman of the Independence Seaport Museum in Philadelphia and a trustee of the Island Institute, a conservation organization in Rockland, Me.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

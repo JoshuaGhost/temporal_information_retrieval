@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Mahon, Antonio Fiol-Silva</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="83" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="731876"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MAHON, ELIZABETH MARY</person>
+        <person class="indexing_service">SILVA, ANTONIO JAVIER FIOL-</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE7D91438F93BA25751C1A962958260" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Mahon, Antonio Fiol-Silva</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth Mary Mahon, a daughter of Kathleen and John J. Mahon of Edison, N.J., was married yesterday to Antonio Javier Fiol-Silva, the son of the late Petrin Silva de Fiol and Antonio Fiol-Bigas. The Rev. Edward C. Puleo officiated at St. Francis of Assisi Roman Catholic Cathedral in Metuchen, N.J.</p>
+        <p>The bride, who is keeping her name, is a partner in Mahon Wong Associates: Architects, in Cambridge, Mass. She graduated cum laude from the University of Pennsylvania and received a master's degree in architecture from Yale University.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth Mary Mahon, a daughter of Kathleen and John J. Mahon of Edison, N.J., was married yesterday to Antonio Javier Fiol-Silva, the son of the late Petrin Silva de Fiol and Antonio Fiol-Bigas. The Rev. Edward C. Puleo officiated at St. Francis of Assisi Roman Catholic Cathedral in Metuchen, N.J.</p>
+        <p>The bride, who is keeping her name, is a partner in Mahon Wong Associates: Architects, in Cambridge, Mass. She graduated cum laude from the University of Pennsylvania and received a master's degree in architecture from Yale University.</p>
+        <p>The bridegroom is a senior urban designer at Domenech Hicks &amp; Krockmalnic, an architectural firm in Boston. He is currently working in San Juan, P.R., as the manager of urban design for the Tren Urbano Project, a new mass-transit system in San Juan. He graduated from Cornell University and received a master's of architecture degree in urban design from Harvard University. He was a Fulbright Fellow in Barcelona, Spain, from 1992 to 1993.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

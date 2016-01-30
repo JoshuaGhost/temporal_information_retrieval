@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lisa Michaelis and Billy Schlosser, Musicians, Wed</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="57" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="355112"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">MICHAELIS, LISA</person>
+        <person class="indexing_service">SCHLOSSER, WILLIAM C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DD1530F933A15756C0A966958260" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lisa Michaelis and Billy Schlosser, Musicians, Wed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Lisa Cecile Michaelis was married yesterday to William Coxe Schlosser at the Mark Hotel in New York by the Rev. Lisa Ward, a Unitarian minister. The bride is the daughter of Marianne Zelnicker of Mobile, Ala., and Arnold Michaelis of New York. Mr. Schlosser is a son of Leonard B. Schlosser and Mary Coxe Schlosser, both of New</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Lisa Cecile Michaelis was married yesterday to William Coxe Schlosser at the Mark Hotel in New York by the Rev. Lisa Ward, a Unitarian minister. The bride is the daughter of Marianne Zelnicker of Mobile, Ala., and Arnold Michaelis of New York. Mr. Schlosser is a son of Leonard B. Schlosser and Mary Coxe Schlosser, both of New</p>
+        <p>Lisa Cecile Michaelis was married yesterday to William Coxe Schlosser at the Mark Hotel in New York by the Rev. Lisa Ward, a Unitarian minister. The bride is the daughter of Marianne Zelnicker of Mobile, Ala., and Arnold Michaelis of New York. Mr. Schlosser is a son of Leonard B. Schlosser and Mary Coxe Schlosser, both of New York.</p>
+        <p>The bride, a singer, pianist and actress who will keep her name, and her husband, a drummer, compose and perform together under the name Billy and Lisa. The bride attended the Dalton School and the Diller-Quaile School of Music. Her father is a television producer.</p>
+        <p>The bridegroom graduated from St. Paul's School in Concord, N.H., and attended Vassar College and the Berkeley School of Music. His father, who is retired, was chairman of the Lindenmeyr Paper Corporation in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

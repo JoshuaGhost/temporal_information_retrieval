@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VF Corp. reports earnings for Qtr to June 29</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="460496"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6D61E38F934A25754C0A967958260" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VF Corp. reports earnings for Qtr to June 29</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*VF Corp. (NYSE)</p>
+        <p>Qtr to June 29</p>
+        <p>1991</p>
+        <p>1990</p>
+        <p>Sales</p>
+        <p>654,010,000</p>
+        <p>634,686,000</p>
+        <p>Net inc</p>
+        <p>30,651,000</p>
+        <p>22,400,000</p>
+        <p>Share earns</p>
+        <p>.52</p>
+        <p>.37</p>
+        <p>Shares outst</p>
+        <p>57,058,000</p>
+        <p>56,996,000</p>
+        <p>6mo sales</p>
+        <p>1,267,318,000</p>
+        <p>1,201,874,000</p>
+        <p>Net inc</p>
+        <p>59,180,000</p>
+        <p>45,616,000</p>
+        <p>Share earns</p>
+        <p>1.00</p>
+        <p>.76</p>
+        <p>Shares outst</p>
+        <p>57,038,000</p>
+        <p>57,231,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

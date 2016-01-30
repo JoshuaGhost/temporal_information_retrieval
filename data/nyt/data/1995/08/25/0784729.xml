@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="784729"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">COTTER, HOLLAND</person>
+        <person class="indexing_service">LOWE, JEAN</person>
+        <person class="indexing_service">MACCONNEL, KIM</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D61630F936A1575BC0A963958260" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">COTTER, HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jean Lowe and Kim MacConnel 'Bull Story'  Holly Solomon Gallery 172 Mercer Street SoHo Through Sept. 30</p>
+        <p>The title of this odd, charming show refers to Hindu mythology and the bull named Nandi, who carries the god Shiva on his back. Although a gentle creature, he embodies the propulsive forces of nature, and his image guards the entrance to Shiva temples, alert to the presence of the deity within.</p>
+      </block>
+      <block class="full_text">
+        <p>Jean Lowe and Kim MacConnel 'Bull Story'  Holly Solomon Gallery 172 Mercer Street SoHo Through Sept. 30</p>
+        <p>The title of this odd, charming show refers to Hindu mythology and the bull named Nandi, who carries the god Shiva on his back. Although a gentle creature, he embodies the propulsive forces of nature, and his image guards the entrance to Shiva temples, alert to the presence of the deity within.</p>
+        <p>Nandi has arrived at the Holly Solomon gallery in a big way this summer in the form of a spectacular, room-filling statue molded by Jean Lowe and Kim MacConnel from papier mache, painted jet black with white floral filigree. In addition, they've painted the surrounding walls in vertical red and white stripes in imitation of a South Indian temple exterior.</p>
+        <p>It's a preposterous, joyous ensemble in the style of much Indian popular art. But the show takes a darker turn with the presence of cartoonlike papier mache books stacked on shelves nearby: the titles on their bindings -- "Heavy Leather," "Decorating With Pony Skin, L.A.-Style" -- suggest another culture's predatory attitude toward nature. As admonishing jokes they make their point, but in this show Nandi himself commands center stage and serenely triumphs over all. HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

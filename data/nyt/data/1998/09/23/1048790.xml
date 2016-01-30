@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NBC Makes Deal For New Auto Race</title>
+    <meta content="PL034428" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1048790"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: TV SPORTS -- WINSTON CUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Jiffy Lube Miami 400 (Auto Race)</classifier>
+        <org class="indexing_service">National Broadcasting Co</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DE1F30F930A1575AC0A96E958260" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NBC Makes Deal For New Auto Race</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>NBC Sports announces three-year deal to televise new Nascar Winston Cup auto race, Jiffy Lube Miami 400, from Homestead Miami Speedway, starting in November 1999 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NBC Sports, which no longer has pro football in the fall, announced a three-year deal yesterday to carry a new Nascar Winston Cup race, the Jiffy Lube Miami 400, from the Homestead Miami Speedway, starting in November 1999.</p>
+        <p>NBC's annual rights fee, though undisclosed, is believed to be between $5 million and $6 million, similar to prices for other new Winston Cup races.</p>
+      </block>
+      <block class="full_text">
+        <p>NBC Sports, which no longer has pro football in the fall, announced a three-year deal yesterday to carry a new Nascar Winston Cup race, the Jiffy Lube Miami 400, from the Homestead Miami Speedway, starting in November 1999.</p>
+        <p>NBC's annual rights fee, though undisclosed, is believed to be between $5 million and $6 million, similar to prices for other new Winston Cup races.</p>
+        <p>Once we made the decision not to be involved with football, we started looking at a series of other properties and first on our list was Nascar, said Ken Schanzer, president of NBC Sports.</p>
+        <p>The deal will start Nov. 13, 1999, with NBC's telecast of the Miami 300, a Nascar Busch Series race, followed Nov. 14 by the Jiffy Lube 400. The Busch race will be shown this year on CBS, the last time before NBC takes over.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>PLUS: TV SPORTS -- WINSTON CUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

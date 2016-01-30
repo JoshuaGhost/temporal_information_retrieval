@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scouts in the Solar System</title>
+    <meta content="13SCOU$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1415530"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <person class="indexing_service">Marsh, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3DB103AF930A2575BC0A9649C8B63" item-length="856" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scouts in the Solar System</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL MARSH</byline>
+      <byline class="normalized_byline">Marsh, Bill</byline>
+      <abstract>
+        <p>Charts and diagrams display information about spacecraft from Earth: when they were launched, where they have gone, what they have discovered and where they are heading (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Space near Earth swarms with hundreds of satellites like bees around a hive, tracking the weather, routing phone calls and beaming ''SpongeBob SquarePants'' to homes everywhere. Others ply the same altitudes with loftier missions: the Hubble Space Telescope looks for light nearly as old as time itself.</p>
+        <p>Far fewer spacecraft are sent beyond the swarm. Just 16 active missions zip around the solar system outside of Earth orbit, tailing comets, scouting out planets, and blinking at the Sun.</p>
+      </block>
+      <block class="full_text">
+        <p>Space near Earth swarms with hundreds of satellites like bees around a hive, tracking the weather, routing phone calls and beaming ''SpongeBob SquarePants'' to homes everywhere. Others ply the same altitudes with loftier missions: the Hubble Space Telescope looks for light nearly as old as time itself.</p>
+        <p>Far fewer spacecraft are sent beyond the swarm. Just 16 active missions zip around the solar system outside of Earth orbit, tailing comets, scouting out planets, and blinking at the Sun.</p>
+        <p>Two of them, Stardust and Genesis, will return to the hive, their haul of pollen in the form of comet dust that carries clues to life's origins and particles flung from the Sun that may reveal how it formed.</p>
+        <p>But most missions are one-way trips, though with very complicated directions. Their engines too small to go the distance, they rely on the gravitational force of planets to catapult them onward, snapping pictures along the journey.</p>
+        <p>Two Voyagers are racing toward the solar system's frontier, the first human-made objects to leave the protective bubble of solar winds for interstellar space, as scientists await the first faint signals from a new realm.</p>
+        <p>BILL MARSH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

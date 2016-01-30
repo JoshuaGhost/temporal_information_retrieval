@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sister Nancy Salisbury, 74, Headmistress</title>
+    <meta content="31SALI$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/31/obituaries/31salisbury.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1623658"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Sister Nancy Salisbury</classifier>
+        <person class="indexing_service">Salisbury, Nancy (Sister)</person>
+        <person class="indexing_service">Bayot, Jennifer</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="descriptor">Nuns</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuns</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <org class="online_producer">Roman Catholic Church</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DC113DF932A05753C1A9629C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sister Nancy Salisbury, 74, Headmistress</hl1>
+        <hl2 class="online_headline">Sister Nancy Salisbury, 74, Headmistress, Dies</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER BAYOT</byline>
+      <byline class="normalized_byline">Bayot, Jennifer</byline>
+      <abstract>
+        <p>Sister Nancy Salisbury, longtime headmistress of New York's Convent of the Sacred Heart, dies at age 74 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sister Nancy Salisbury, longtime headmistress of New York's oldest independent school for girls, the Convent of the Sacred Heart, died on Sept. 27 in Atherton, Calif. She was 74.</p>
+        <p>The cause was respiratory failure after a kidney infection, according to an announcement by the United States Province of the Society of the Sacred Heart, the Roman Catholic religious order she entered in 1952; according the practice of the order, she was known as Sister Salisbury.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Sister Nancy Salisbury was the longtime headmistress of New York's oldest independent school for girls, the Convent of the Sacred Heart.</p>
+      </block>
+      <block class="full_text">
+        <p>Sister Nancy Salisbury, longtime headmistress of New York's oldest independent school for girls, the Convent of the Sacred Heart, died on Sept. 27 in Atherton, Calif. She was 74.</p>
+        <p>The cause was respiratory failure after a kidney infection, according to an announcement by the United States Province of the Society of the Sacred Heart, the Roman Catholic religious order she entered in 1952; according the practice of the order, she was known as Sister Salisbury.</p>
+        <p>In her 20 years as headmistress of Sacred Heart, which runs from prekindergarten to 12th grade, Sister Salisbury overhauled the school's curriculum, upgraded its facilities and nearly doubled its enrollment. In 1990, the school received a Blue Ribbon Award for Academic Excellence from the United States Department of Education.</p>
+        <p>Sister Salisbury was also vice chairwoman of the board of the New York State Association of Independent Schools and head of its accreditation commission.</p>
+        <p>Sister Salisbury was born May 15, 1930, in New York and attended the Convent of the Sacred Heart in Overbrook, Pa., one of several schools across the country founded by the Society of the Sacred Heart.</p>
+        <p>She received a bachelor's degree in history from Manhattanville College in 1962 and a master's degree in mathematics from the University of Detroit in 1968.</p>
+        <p>After teaching math at a Sacred Heart school in Grosse Pointe, Mich., she became head of the middle school of the Convent of the Sacred Heart in Greenwich, Conn. She was then headmistress for 10 years, starting in 1970.</p>
+        <p>In 1980, she became headmistress in New York. After retiring in 2000, she was a mentor to novice nuns in Chicago.</p>
+        <p>Over the years, Sister Salisbury also sat on the boards of Sacred Heart schools in Albany, Miami and Greenwich.</p>
+        <p>No immediate family members survive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Germany Says Exports Fueled Economic Growth</title>
+    <meta content="IN000153" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="INTERNATIONAL BRIEFS" name="column_name"/>
+    <docdata>
+      <doc-id id-string="889745"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="INTERNATIONAL BRIEFS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Gross Domestic Product (Gdp)</classifier>
+        <location class="indexing_service">Germany</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gross Domestic Product</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leading Economic Indicators</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E1DB1F3BF937A25752C1A960958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Germany Says Exports Fueled Economic Growth</hl1>
+      </hedline>
+      <abstract>
+        <p>German Economics Ministry reports growth in Germany stayed on track in third quarter, with gross domestic product rising 2 percent, but country's recovery is still driven by foreign orders as domestic investment lags (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Growth in Germany stayed on track in the third quarter, but the country's recovery was still driven by foreign orders as domestic investment lagged, the Economics Ministry said yesterday. German gross domestic product probably rose 2 percent in real terms in the third quarter from the comparable period last year after an expansion of 1.2 percent in the second quarter, the ministry said in its monthly report.</p>
+      </block>
+      <block class="full_text">
+        <p>Growth in Germany stayed on track in the third quarter, but the country's recovery was still driven by foreign orders as domestic investment lagged, the Economics Ministry said yesterday. German gross domestic product probably rose 2 percent in real terms in the third quarter from the comparable period last year after an expansion of 1.2 percent in the second quarter, the ministry said in its monthly report.</p>
+        <p>Independent economists said the figures showed that the recovery was intact, but they were concerned that the estimate came so soon after the release of weak September output and orders data, which were not yet revised.</p>
+        <p>(Reuters)</p>
+        <p>INTERNATIONAL BRIEFS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

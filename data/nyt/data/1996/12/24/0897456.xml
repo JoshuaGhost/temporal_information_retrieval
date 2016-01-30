@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suit on Landfill Is Dismissed</title>
+    <meta content="NJ003343" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="NEW JERSEY DAILY BRIEFING" name="column_name"/>
+    <docdata>
+      <doc-id id-string="897456"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gambling</classifier>
+        <classifier class="indexing_service" type="descriptor">Landfill</classifier>
+        <classifier class="indexing_service" type="descriptor">Casinos</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Atlantic City (NJ)</location>
+        <person class="indexing_service">Wynn, Stephen A</person>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Atlantic City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Landfill</classifier>
+        <classifier class="online_producer" type="general_descriptor">Casinos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gambling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFD61131F937A15751C1A960958260" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suit on Landfill Is Dismissed</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>ATLANTIC CITY</dateline>
+      <abstract>
+        <p>Suit seeking to stop Atlantic City from giving 150-acre abandoned landfill to casino developer Stephen A Wynn is dismissed by Superior Court judge (S) (New Jersey Daily Briefing)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A suit seeking to stop Atlantic City from giving a 150-acre abandoned landfill to a casino developer, Stephen A. Wynn, was dismissed yesterday by a Superior Court judge. The plaintiffs are residents of a neighborhood whose homes would be demolished to make way for a tunnel to serve the site. They claimed that the city had no right to give public land to a private developer and should have included a plan to relocate them in its agreement with Mr. Wynn. But the judge, L. Anthony Gibson, ruled that the public benefits of the land transfer -- a mammoth casino that is projected to create 5,000 jobs and pay $127 million a year in taxes to local and state authorities -- justified the deal, especially since the city had been unable to sell the property.</p>
+        <p>TERRY PRISTIN</p>
+      </block>
+      <block class="full_text">
+        <p>A suit seeking to stop Atlantic City from giving a 150-acre abandoned landfill to a casino developer, Stephen A. Wynn, was dismissed yesterday by a Superior Court judge. The plaintiffs are residents of a neighborhood whose homes would be demolished to make way for a tunnel to serve the site. They claimed that the city had no right to give public land to a private developer and should have included a plan to relocate them in its agreement with Mr. Wynn. But the judge, L. Anthony Gibson, ruled that the public benefits of the land transfer -- a mammoth casino that is projected to create 5,000 jobs and pay $127 million a year in taxes to local and state authorities -- justified the deal, especially since the city had been unable to sell the property.</p>
+        <p>TERRY PRISTIN</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

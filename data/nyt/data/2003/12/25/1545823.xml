@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With the Slightest of Movements, a Pilot's World Rotates</title>
+    <meta content="25DOTT$02" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/12/25/technology/circuits/25dott.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1545823"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="NEWS WATCH: SIMULATORS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Flight Simulators</classifier>
+        <org class="indexing_service">Natural Point (Co)</org>
+        <person class="indexing_service">Herold, Charles</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="descriptor">Pilots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pilots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DE163EF936A15751C1A9659C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With the Slightest of Movements, a Pilot's World Rotates</hl1>
+        <hl2 class="online_headline">With the Slightest of Movements, a Pilots World Rotates</hl2>
+      </hedline>
+      <byline class="print_byline">By Charles Herold</byline>
+      <byline class="normalized_byline">Herold, Charles</byline>
+      <abstract>
+        <p>Natural Point TrackIR2 enhances flight simulator games using device that follows head movement by tracking dot placed on forehead; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Flight simulator software has its limits. You can use your joystick to raise the wing flaps or open the throttle, but looking out a side window involves pushing a knob, which is certainly not what pilots do in a real plane. A new device from Natural Point, TrackIR2, makes simulation just a little more realistic by enabling you to look around your virtual plane just by turning your head.</p>
+        <p>Unlike tracking devices that require you to wear a headset to broadcast your head movements to your computer, the TrackIR2 uses an infrared device that rests on your monitor and tracks head movements by means of a reflective dot that you place on your forehead or a hat. The device, available for $129 at www.trackir.com, translates a small movement of the head into a much larger movement on screen, so turning an inch to the right is enough to look out the right window of your cockpit, and two inches is enough to twist your virtual view 180 degrees to face the rear.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Flight simulator software has its limits. You can use your joystick to raise the wing flaps or open the throttle, but looking out a side window involves pushing a knob, which is certainly not what pilots do in a real plane. A new device from Natural Point, TrackIR2, makes simulation just a little more realistic by enabling you to look around your virtual plane just by turning your head.</p>
+      </block>
+      <block class="full_text">
+        <p>Flight simulator software has its limits. You can use your joystick to raise the wing flaps or open the throttle, but looking out a side window involves pushing a knob, which is certainly not what pilots do in a real plane. A new device from Natural Point, TrackIR2, makes simulation just a little more realistic by enabling you to look around your virtual plane just by turning your head.</p>
+        <p>Unlike tracking devices that require you to wear a headset to broadcast your head movements to your computer, the TrackIR2 uses an infrared device that rests on your monitor and tracks head movements by means of a reflective dot that you place on your forehead or a hat. The device, available for $129 at www.trackir.com, translates a small movement of the head into a much larger movement on screen, so turning an inch to the right is enough to look out the right window of your cockpit, and two inches is enough to twist your virtual view 180 degrees to face the rear.</p>
+        <p>With some tweaking, it is also possible to use the device to look around the room in first-person shooter games, though the Web site does not explain how. Even if you never figure that out, the TrackIR2 gives looking out the window a satisfyingly high-tech gloss.</p>
+        <p>Charles Herold</p>
+        <p>NEWS WATCH: SIMULATORS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

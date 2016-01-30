@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials  CARLSSON, MAGNUS</title>
+    <meta content="DN102201" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1336228"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">CARLSSON, MAGNUS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEED81F3EF931A15753C1A9679C8B63" item-length="18" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials  CARLSSON, MAGNUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CARLSSON-Magnus. SGI Culture Center, 7 East 15 Street, 2nd floor, on Thursday, October 25, 2001, at 7:30 PM.</p>
+      </block>
+      <block class="full_text">
+        <p>CARLSSON-Magnus. SGI Culture Center, 7 East 15 Street, 2nd floor, on Thursday, October 25, 2001, at 7:30 PM.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

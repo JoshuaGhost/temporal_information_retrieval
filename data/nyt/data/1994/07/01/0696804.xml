@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eagles Sign Giants' Jackson</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="696804"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">PHILADELPHIA EAGLES  NEW YORK GIANTS</org>
+        <org class="indexing_service">PHILADELPHIA EAGLES</org>
+        <person class="indexing_service">JACKSON, GREG</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Giants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Philadelphia Eagles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E1DC1739F932A35754C0A962958260" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eagles Sign Giants' Jackson</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PHILADELPHIA, June 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Philadelphia Eagles filled a void in the defensive backfield today by signing the veteran free-agent safety Greg Jackson to two one-year contracts. Financial terms weren't disclosed. Jackson was paid $650,000 last season with the Giants.</p>
+        <p>Jackson, 27, played for the Giants for the past five seasons. A third-round pick out of L.S.U. in 1989, he started 59 games, amassing 311 tackles and 14 interceptions.</p>
+      </block>
+      <block class="full_text">
+        <p>The Philadelphia Eagles filled a void in the defensive backfield today by signing the veteran free-agent safety Greg Jackson to two one-year contracts. Financial terms weren't disclosed. Jackson was paid $650,000 last season with the Giants.</p>
+        <p>Jackson, 27, played for the Giants for the past five seasons. A third-round pick out of L.S.U. in 1989, he started 59 games, amassing 311 tackles and 14 interceptions.</p>
+        <p>Considering our situation, safety is an area where we felt we needed some help, we're doing all that we can to upgrade the safety positions," Eagles Coach Rich Kotite said. "Greg has been a solid starter with the Giants and he's a guy  who should be able to come in here and help us."</p>
+        <p>Jackson, a 6-foot-1-inch, 210-pound native of Miami, started 16 regular-season and two post-season games at free safety for New York last season and tied for the team lead with four interceptions.</p>
+        <p>"Greg's a young, proven veteran who can play either safety spot if he has to. He's a big hitter who also brings a lot of poise and leadership to the ball club," Kotite said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="545503"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6DC103EF935A15754C0A964958260" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baseball American League</p>
+      </block>
+      <block class="full_text">
+        <p>Baseball American League</p>
+        <p>TEXAS RANGERS -- Recalled Ray Stephens, catcher, from Oklahoma City of the American Association. Sent David Hulse, outfielder, to Oklahoma. National League  NEW YORK METS -- Signed Hipolito Pena, pitcher, to a minor-league contact and assigned him to Tidewater of the International League. Football National Football League  CINCINNATI BENGALS -- Signed Darryl Williams, safety, and Leonard Wheeler, cornerback.</p>
+        <p>DETROIT LIONS -- Agreed to terms with Robert Porcher, defensive end, and Willie Clay, cornerback.</p>
+        <p>NEW ORLEANS SAINTS -- Agreed to terms with Dalton Hilliard, tailback, on a one-year contract.</p>
+        <p>SAN DIEGO CHARGERS -- Released Rich Andrews, kicker; Keith McAfee, running back, and Mitch Kaaialii and Donald Walkinshaw, offensive lineman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

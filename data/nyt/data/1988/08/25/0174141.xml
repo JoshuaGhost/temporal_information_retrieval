@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japan Defense Minister Quits In Wake of Submarine Crash</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="174141"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHIPS AND SHIPPING</classifier>
+        <classifier class="indexing_service" type="descriptor">SUBMARINES</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <person class="indexing_service">KAWARA, TSUTOMU</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Submarines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DC1531F936A1575BC0A96E948260" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japan Defense Minister Quits In Wake of Submarine Crash</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>TOKYO, Aug. 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Japan's Defense Minister resigned tonight after taking responsibility for a submarine accident last month in which 30 civilians died and which brought the military here under harsh criticism.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Japan's Defense Minister resigned tonight after taking responsibility for a submarine accident last month in which 30 civilians died and which brought the military here under harsh criticism.</p>
+        <p>Japan's Defense Minister resigned tonight after taking responsibility for a submarine accident last month in which 30 civilians died and which brought the military here under harsh criticism.</p>
+        <p>The resignation of the official, Tsutomu Kawara, had been expected. However, Mr. Kawara awaited completion of an inquiry that largely blamed the vessel's captain for the collision with a fishing craft and concluded that Japan's submarines are ill-equipped to navigate in Tokyo Bay. Mr. Kawara was replaced by Kichiro Tazawa, former head of the Agriculture Ministry.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

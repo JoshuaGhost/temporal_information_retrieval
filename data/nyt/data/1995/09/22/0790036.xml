@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mencken's Heart Belonged to Baltimore Paper</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="790036"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NEWSPAPERS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <org class="indexing_service">BALTIMORE SUN (NEWSPAPER)</org>
+        <person class="indexing_service">BAKER, RUSSELL</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DE1E39F931A1575AC0A963958260" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mencken's Heart Belonged to Baltimore Paper</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Russell Baker (column, Sept. 19) appropriately laments the passing of the Baltimore Evening Sun and recalls that it was the "monument" of that most singular of all American journalists, H. L. Mencken.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Russell Baker (column, Sept. 19) appropriately laments the passing of the Baltimore Evening Sun and recalls that it was the "monument" of that most singular of all American journalists, H. L. Mencken.</p>
+        <p>The Evening Sun of the 1920's in particular might aptly be called the House That Mencken Built, and he remained loyal to it even when his views departed irreconcilably from those of the owners and editors. A 25-year retrospective written by him in its pages in 1935 provides an assessment that serves as a worthy epitaph 60 years later. Mencken wrote of The Evening Sun:</p>
+        <p>"Some of these days, I hope the history of this one will be told in more or less detail. It will be a story of a hard and long fight against depressing odds, carried on with magnificent devotion by a gang of strictly non-messianic and very amusing fellows, and ending in an extraordinary success."  JOHN NORTON  Professor of Political Science Lebanon Valley College Annville, Pa., Sept. 19, 1995</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

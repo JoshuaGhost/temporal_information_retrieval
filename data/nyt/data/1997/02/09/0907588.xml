@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE CLINTON PRINCIPLE</title>
+    <meta content="LTR004348" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Washington; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="907588"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Wills, Garry</person>
+        <person class="indexing_service">Sutter, David A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2D8173CF93AA35751C0A961958260" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE CLINTON PRINCIPLE</hl1>
+      </hedline>
+      <abstract>
+        <p>Leter by David A Sutter on Garry Wills' Jan 19 article on beliefs of Pres Clinton (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In ''The Clinton Principle'' (Jan. 19), Garry Wills implies that Clinton as President is making it up as he goes. But improvisation is the nature and strength of a democratic society. The initial architects of our nation -- Washington, Jefferson, Adams -- improvised from day to day, year to year, to keep our ship of state afloat.</p>
+      </block>
+      <block class="full_text">
+        <p>In ''The Clinton Principle'' (Jan. 19), Garry Wills implies that Clinton as President is making it up as he goes. But improvisation is the nature and strength of a democratic society. The initial architects of our nation -- Washington, Jefferson, Adams -- improvised from day to day, year to year, to keep our ship of state afloat.</p>
+        <p>To quote Shakespeare, ''We are but warriors for the working-day.''</p>
+        <p>DAVID A. SUTTER  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

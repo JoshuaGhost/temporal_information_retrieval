@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ticket Exchange In Order After Rain</title>
+    <meta content="MB013303" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1420591"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="TENNIS: NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Open (Tennis)</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <org class="indexing_service">United States Tennis Assn</org>
+        <person class="indexing_service">Clarey, Christopher</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DF1E3FF931A3575AC0A9649C8B63" item-length="454" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ticket Exchange In Order After Rain</hl1>
+      </hedline>
+      <byline class="print_byline">By CHRISTOPHER CLAREY</byline>
+      <byline class="normalized_byline">Clarey, Christopher</byline>
+      <abstract>
+        <p>USTA will decide how, if at all, to refund or compensate ticketholders for US Open matches missed due to rain (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was a long time to wait -- more than five hours -- for one very short match. And fans who bought tickets to see a full day's play at Arthur Ashe Stadium yesterday at the United States Open were hardly universally delighted at having paid a minimum of $48 to see Serena Williams swat Daja Bedanova in 41 minutes.</p>
+        <p>''The women should play three out of five sets,'' said Millie Hallow, 56, of Crofton, Md.</p>
+      </block>
+      <block class="full_text">
+        <p>It was a long time to wait -- more than five hours -- for one very short match. And fans who bought tickets to see a full day's play at Arthur Ashe Stadium yesterday at the United States Open were hardly universally delighted at having paid a minimum of $48 to see Serena Williams swat Daja Bedanova in 41 minutes.</p>
+        <p>''The women should play three out of five sets,'' said Millie Hallow, 56, of Crofton, Md.</p>
+        <p>Her husband, Ralph, 64, said, ''Especially the Williamses,'' and also lobbied for a roof to be installed over Ashe Stadium.</p>
+        <p>The Hallows did not actually see the match. They waited in their Manhattan hotel until they saw the players go on court on television, then took the shuttle to the stadium. When they arrived, the match was over, and when they walked over to Louis Armstrong Stadium to watch Pete Sampras face Greg Rusedski, Sampras and Rusedski were already walking off because of rain.</p>
+        <p>Under the Open's policy, ticket-holders are entitled to only a comparable ticket to the next year's Open if no match is completed during a session on a stadium court. That means Williams's demolition of Bedanova potentially saved Open organizers tens of thousands of dollars.</p>
+        <p>At Wimbledon, if there is less than an hour's play on any day, ticket-holders are given a full refund. Between one hour and two hour's play gets them a 50 percent refund.</p>
+        <p>In an attempt to console the paying public, the United States Tennis Association allowed grounds pass-holders to enter Ashe Stadium for Williams's match. It remains unclear how that gesture will affect the ability of yesterday's grounds pass-holders to exchange their tickets. Technically, because no matches were completed on the outside courts, they should be entitled to exchange them.</p>
+        <p>The U.S.T.A. has not determined how it will deal with the issue and may decide to offer exchanges to all who had tickets yesterday. ''We've have had longstanding policies; we've never been in this situation before,'' said Arlen Katarian, the U.S.T.A.'s chief executive for professional tennis. ''We'll do what's right for the fan. We'll take reason into account.''</p>
+        <p>What is clear is that individual ticket-holders to last night's session are entitled to an exchange, because the session was canceled.</p>
+        <p>TENNIS: NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

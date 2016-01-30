@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pension Gain Spurs Hughes</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="8225"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <org class="indexing_service">HUGHES TOOL CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2DC113FF93AA15752C0A961948260" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pension Gain Spurs Hughes</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>DALLAS, Jan. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Hughes Tool Company said today that, because of a one-time gain from the use of excess pension funds, it earned $31.7 million, or 57 cents a share, up 56-fold from $560,000, or one cent a share, a year ago. Revenue dropped 31.2 percent, to $215.7 million, from $313.6 million a year ago.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Hughes Tool Company said today that, because of a one-time gain from the use of excess pension funds, it earned $31.7 million, or 57 cents a share, up 56-fold from $560,000, or one cent a share, a year ago. Revenue dropped 31.2 percent, to $215.7 million, from $313.6 million a year ago.</p>
+        <p>The Hughes Tool Company said today that, because of a one-time gain from the use of excess pension funds, it earned $31.7 million, or 57 cents a share, up 56-fold from $560,000, or one cent a share, a year ago. Revenue dropped 31.2 percent, to $215.7 million, from $313.6 million a year ago.</p>
+        <p>The company, which pulled $55.8 million from the overfunded plan, said it would have otherwise recorded a loss for the latest three months.</p>
+        <p>Hughes, a large oilfield services concern in Houston, has been struggling to overcome the sharp drop in oil-field drilling activity over the past year. The company, which is the world's largest drill-bit maker, announced in October that it planned to merge with the Baker International Corporation, another supplier of oil-field services.</p>
+        <p>Earlier this week, however, the Justice Department said that it would oppose the merger, citing antitrust considerations in the two companies' oilfield drilling bit and electric submersible pump businesses. Hughes said it was in talks with the Justice Department in efforts to resolve the objection. BAKER REPORTS LOSS</p>
+        <p>The Associated Press Baker International, based in Orange, Calif., yesterday reported a $34.2 million loss for its first fiscal quarter, compared with a profit of $16.3 million, or 23 cents a share, in the year-earlier quarter. First-quarter revenue fell 32.8 percent, to $297.7 million, from $442.7 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

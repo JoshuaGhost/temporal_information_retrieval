@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FAME'S PERMUTATIONS</title>
+    <meta content="14SUN4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="957244"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="SUNDAY: SEPTEMBER 14, 1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beer</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Miller Brewing Co</org>
+        <person class="indexing_service">Barnes, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E5D71739F937A2575AC0A961958260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FAME'S PERMUTATIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Comment on Jeff Barnes, 27-year-old Seattle bartender who appears in Miller Lite ads as supposed creator of ad campaign (Sunday column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You've probably seen the Miller Lite ads that feature a photo of a red-haired goof named Dick, supposedly the creative genius behind the campaign. It turns out that Dick is Jeff Barnes, 27, a Seattle bartender who was chosen after a nationwide ''talent'' search. Latest: Barnes is stepping out qua himself. He plays in a rock band, and grants interviews only after getting Miller's approval, all as part of Miller's plan to keep Dick going (as long as the public will have him). Why does this man bewitch us? ''He's an average Joe,'' says a Miller spokeswoman, ''who seems to have something on his mind.''</p>
+      </block>
+      <block class="full_text">
+        <p>You've probably seen the Miller Lite ads that feature a photo of a red-haired goof named Dick, supposedly the creative genius behind the campaign. It turns out that Dick is Jeff Barnes, 27, a Seattle bartender who was chosen after a nationwide ''talent'' search. Latest: Barnes is stepping out qua himself. He plays in a rock band, and grants interviews only after getting Miller's approval, all as part of Miller's plan to keep Dick going (as long as the public will have him). Why does this man bewitch us? ''He's an average Joe,'' says a Miller spokeswoman, ''who seems to have something on his mind.''</p>
+        <p>SUNDAY: SEPTEMBER 14, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

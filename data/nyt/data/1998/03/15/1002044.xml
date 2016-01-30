@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  ASEN, DOROTHY</title>
+    <meta content="DN031598" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1002044"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">ASEN, DOROTHY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E6DF1639F936A25750C0A96E958260" item-length="23" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  ASEN, DOROTHY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ASEN-Dorothy. Devoted, beloved wife of Emanuel; loving mother, grandmother, daughter, sister, aunt, friend. Funeral today 12:30 PM, I.J. Morris, 1895 Flatbush Avenue, Brooklyn.</p>
+      </block>
+      <block class="full_text">
+        <p>ASEN-Dorothy. Devoted, beloved wife of Emanuel; loving mother, grandmother, daughter, sister, aunt, friend. Funeral today 12:30 PM, I.J. Morris, 1895 Flatbush Avenue, Brooklyn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

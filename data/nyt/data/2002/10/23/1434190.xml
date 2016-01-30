@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Vinegar Substitute, With Half the Pucker</title>
+    <meta content="23VERJ" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1434190"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Verjus (Unfermented Grape Juice)</classifier>
+        <org class="indexing_service">Wolffer Estate</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Juices</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6DF163CF930A15753C1A9649C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Vinegar Substitute, With Half the Pucker</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Wolffer Estate on Long Island produces verjuice, pale gold juice pressed from unripe white grapes, which can be used in sauces and as less acidic substitute for vinegar in salads; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Verjuice is traditionally pressed from unripe white grapes, yielding a tart, pale gold juice to use in sauces and as a less acidic substitute for vinegar in salads. Roman Roth, the winemaker at Wölffer Estate in Sagaponack, N.Y., decided to make its ''verjus'' using unripe red grapes. The result, with the faintest blush, offers a sweet-sour balance of alluring delicacy. Try the verjuice for briefly poaching flounder fillets, then garnishing the fish with pink grapefruit segments. Cook down the pan juices, add a little butter and you have a lovely sauce. Wölffer verjus is $9.99 at the winery for a 750-milliliter bottle and $4.99 for half that size. The larger size is $14 at Dean &amp; DeLuca in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Verjuice is traditionally pressed from unripe white grapes, yielding a tart, pale gold juice to use in sauces and as a less acidic substitute for vinegar in salads. Roman Roth, the winemaker at Wölffer Estate in Sagaponack, N.Y., decided to make its ''verjus'' using unripe red grapes. The result, with the faintest blush, offers a sweet-sour balance of alluring delicacy. Try the verjuice for briefly poaching flounder fillets, then garnishing the fish with pink grapefruit segments. Cook down the pan juices, add a little butter and you have a lovely sauce. Wölffer verjus is $9.99 at the winery for a 750-milliliter bottle and $4.99 for half that size. The larger size is $14 at Dean &amp; DeLuca in New York.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

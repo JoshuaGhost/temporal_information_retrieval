@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Malakhov Out 6 Weeks</title>
+    <meta content="SP020840" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="SPORTS PEOPLE: HOCKEY" name="column_name"/>
+    <docdata>
+      <doc-id id-string="897628"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <org class="indexing_service">Montreal Canadiens</org>
+        <person class="indexing_service">Malakhov, Vladimir</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Montreal Canadiens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DA1F31F936A15751C1A960958260" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Malakhov Out 6 Weeks</hl1>
+      </hedline>
+      <abstract>
+        <p>Vladimir Malakhov of Montreal Canadiens will miss six weeks of play because of broken thumb (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Montreal Canadiens said defenseman VLADIMIR MALAKHOV would be out at least six weeks after breaking his right thumb during a fight in Monday's 6-0 loss to the Ottawa Senators. Malakhov is Montreal's top-scoring defenseman this season with 3 goals and 15 assists.</p>
+        <p>(Bloomberg)</p>
+      </block>
+      <block class="full_text">
+        <p>The Montreal Canadiens said defenseman VLADIMIR MALAKHOV would be out at least six weeks after breaking his right thumb during a fight in Monday's 6-0 loss to the Ottawa Senators. Malakhov is Montreal's top-scoring defenseman this season with 3 goals and 15 assists.</p>
+        <p>(Bloomberg)</p>
+        <p>SPORTS PEOPLE: HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

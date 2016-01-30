@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trash Fantasy</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="637696"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GARBAGE</classifier>
+        <person class="indexing_service">EVANS, LOIS</person>
+        <person class="indexing_service">EVANS, DAN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DA1E3FF933A0575AC0A965958260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trash Fantasy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Home Section:</p>
+        <p>Since the 1960's, my husband and I have discovered many "Treasures From the Trash" (Sept. 9), much to the embarrassment of our sons who had to stand by while we dug in the trash.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Home Section:</p>
+        <p>Since the 1960's, my husband and I have discovered many "Treasures From the Trash" (Sept. 9), much to the embarrassment of our sons who had to stand by while we dug in the trash.</p>
+        <p>We have lugged innumerable chairs home that needed to be caned, including an Eames-style chair from the International Center of Photography. Some of our finds were Italian ceramic tiles, an embossed folding screen (which a driver allowed us to carry on the bus), a steamer trunk that included the patents of an inventor and I think what may be the most unusual find, a wooden ox yoke with handmade nails found in a wire New York City trash can on East 84th Street.</p>
+        <p>Our biggest fantasy is to own a van and drive up and down the streets looking for treasures. LOIS AND DAN EVANS  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

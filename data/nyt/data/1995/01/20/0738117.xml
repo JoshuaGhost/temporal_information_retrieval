@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crosby Bonsall, 74, Children's Author</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="738117"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">BONSALL, CROSBY</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DC1F3AF933A15752C0A963958260" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crosby Bonsall, 74, Children's Author</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Crosby Newell Bonsall, the author and illustrator of more than 40 children's books, died on Jan. 10 at Massachusetts General Hospital in Boston, where she lived. She was 74.</p>
+        <p>The cause was a stroke, said Barbara Phillips, her niece.</p>
+      </block>
+      <block class="full_text">
+        <p>Crosby Newell Bonsall, the author and illustrator of more than 40 children's books, died on Jan. 10 at Massachusetts General Hospital in Boston, where she lived. She was 74.</p>
+        <p>The cause was a stroke, said Barbara Phillips, her niece.</p>
+        <p>Ms. Bonsall began her career at an advertising agency, where she sold the rights to one of her drawings to a doll manufacturer. She then created a family of dolls, which were used as characters in her first book, "Tell Me Some More," which was published in 1961.</p>
+        <p>Although she began as an illustrator, she quickly turned to writing.  "Tell Me Some More," illustrated by Fritz Siebel, was published by Harper &amp; Row as part of its I Can Read series, which is still in print. She wrote the text for the photographer Ylla's "I'll Show You Cats" (1964), an award-winning children's book.</p>
+        <p>She was born in Kew Gardens, Queens, and studied at the New York University School of Architecture and the American School of Design.</p>
+        <p>In addition to Ms. Phillips of Paterson, N.J., she is survived by her husband, George, and a sister, Marion Phillips of Manahawkin, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boundary Runs Record To 5 in Row</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="690472"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="HORSE RACING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HORSE RACING</classifier>
+        <classifier class="indexing_service" type="descriptor">BELMONT PARK RACE TRACK</classifier>
+        <person class="indexing_service">DURSO, JOSEPH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DF123BF93AA15756C0A962958260" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boundary Runs Record To 5 in Row</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH DURSO</byline>
+      <byline class="normalized_byline">DURSO, JOSEPH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Belmont Park ran up the curtain on a glittering holiday weekend of racing yesterday with an upset and a winning streak: Boundary, the undefeated but lightly raced son of Danzig made it five straight when he outran the favorites and won the Roseben Handicap by nearly three lengths.</p>
+        <p>It was the first stakes performance for Boundary, and he took the step upward with grace. He charged through the homestretch, took the lead under John Velasquez and got to the wire two and three-quarters lengths in front of Chief Desire, who saved second place by the length of his neck over Julie Krone and Birdonthewire. They had two lengths on the favored Demaloot Demashoot.</p>
+      </block>
+      <block class="full_text">
+        <p>Belmont Park ran up the curtain on a glittering holiday weekend of racing yesterday with an upset and a winning streak: Boundary, the undefeated but lightly raced son of Danzig made it five straight when he outran the favorites and won the Roseben Handicap by nearly three lengths.</p>
+        <p>It was the first stakes performance for Boundary, and he took the step upward with grace. He charged through the homestretch, took the lead under John Velasquez and got to the wire two and three-quarters lengths in front of Chief Desire, who saved second place by the length of his neck over Julie Krone and Birdonthewire. They had two lengths on the favored Demaloot Demashoot.</p>
+        <p>The winner ran the six furlongs in 1:093/5 , paid $9.20 for a $2 wager and went home with $50,715. The 4-year-old colt is owned by Mrs. William Haggin Perry and the Claiborne Farm and trained by Bill Mott, and he has raced flawlessly since his debut 13 months ago. His timetable was interrupted by knee surgery last May, and he stayed on the sidelines for seven months.</p>
+        <p>"I kept the horse in the clear because he gets intimidated on the inside," Velasquez said. "At the half-mile post, I went to the outside, got in the clear and the horse did it all."</p>
+        <p>For an encore, Belmont Park will stage two of the season's all-star races: the Peter Pan with the undefeated 3-year-old Twining today and the Metropolitan Mile tomorrow, when some of the best handicap horses in the country are challenged by Holy Bull, resting since he ran 12th as the beaten favorite in the Kentucky Derby. As a 3-year-old running against older horses, he carries only 110 pounds, which is 16 pounds less than he carried in the Derby and 12 pounds less than Devil His Due, the old warhorse, and Colonial Affair, winner of last year's Belmont Stakes.</p>
+        <p>The early line cuts it microscopically. Devil His Due and his stablemate Virginia Rapids, trained by Allen Jerkens, are the 5-2 favorite. Then comes Colonial Affair at 3-1, Holy Bull at 4-1, Cherokee Run at 9-2 and West by West and Tinners Way, 6-1.  HORSE RACING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

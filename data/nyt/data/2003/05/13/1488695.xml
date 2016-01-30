@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cause of Death Unknown For Cowboys' Haywood</title>
+    <meta content="13COWBOYS" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/13/sports/football/13cowboys.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1488695"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Autopsies</classifier>
+        <org class="indexing_service">Dallas Cowboys</org>
+        <person class="indexing_service">Caldwell, Dave</person>
+        <person class="indexing_service">Haywood, Ennis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Dallas Cowboys</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Dallas Cowboys</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DF113FF930A25756C0A9659C8B63" item-length="478" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cause of Death Unknown For Cowboys' Haywood</hl1>
+        <hl2 class="online_headline">Cause of Death Unknown for Cowboys' Haywood</hl2>
+      </hedline>
+      <byline class="print_byline">By DAVE CALDWELL</byline>
+      <byline class="normalized_byline">Caldwell, Dave</byline>
+      <abstract>
+        <p>Dallas Cowboys running back Ennis Haywood's cause of death is unknown, after autopsy comes up inconclusive; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An autopsy yesterday on Ennis Haywood, the Dallas Cowboys running back who died Sunday at a hospital in Arlington, Tex., did not determine the cause of death.</p>
+        <p>Toxicology and tissue tests have been ordered, said Linda Anderson, a spokeswoman for the medical examiner's office in Tarrant County. She said that such tests normally take six to eight weeks but that an effort would be made to have their results in two to three weeks.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A spokesman for the Cowboys said the team would not comment on the investigation into the death of Ennis Haywood, the Dallas Cowboys running back who died Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>An autopsy yesterday on Ennis Haywood, the Dallas Cowboys running back who died Sunday at a hospital in Arlington, Tex., did not determine the cause of death.</p>
+        <p>Toxicology and tissue tests have been ordered, said Linda Anderson, a spokeswoman for the medical examiner's office in Tarrant County. She said that such tests normally take six to eight weeks but that an effort would be made to have their results in two to three weeks.</p>
+        <p>A spokesman for the Cowboys, Rich Dalrymple, said the team would not comment on the investigation into Haywood's death. Carol Haywood, his mother, told The Fort Worth Star-Telegram that Haywood might have had an asthma attack.</p>
+        <p>The Cowboys are being coached for the first time by Bill Parcells, who has worked his players hard in their two minicamps. But Tony Alford, an assistant coach at Iowa State, said Haywood was the toughest player he had ever coached.</p>
+        <p>Haywood, 23, a 5-foot-10, 224-pound running back in his second professional season, had participated in the Cowboys' three-day minicamp last week at their training facility in Irving, Tex., about 25 miles from the South Dallas neighborhood where he grew up.</p>
+        <p>Haywood, who spent last season on the Cowboys' practice squad, had completed a conditioning drill Friday with his teammates in which he ran four 300-yard sprints with 90 seconds between each sprint.</p>
+        <p>Angela Jernigan, Haywood's sister-in-law, told The Morning News that Haywood began to vomit in his sleep at 4 a.m. Saturday and stopped breathing at 6 a.m., at which time he was taken to the hospital. He died at 3:27 p.m. Sunday. His family requested that he be taken off life support, The Star-Telegram reported.</p>
+        <p>Haywood, whose wife, Crystal, was expecting the couple's second child, had signed a one-year contract with the Cowboys that would have paid him $300,000 had he made the team. He was a star running back and was an honor-roll student at Carter High School in Dallas, then had a fine career at Iowa State after major colleges in Texas had not shown much interest.</p>
+        <p>He led the Big 12 Conference in rushing with 1,237 yards in the 2000 season. As a senior in 2001, Haywood rushed for 1,169 yards and scored 14 touchdowns and was a semifinalist for the Doak Walker Award, presented annually to the nation's top running back. Haywood was not drafted but secured a spot on the Cowboys' practice roster after leading the team with 120 yards rushing during the 2002 preseason.</p>
+        <p>PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

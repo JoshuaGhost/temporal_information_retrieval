@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Intel Prototype May Herald a New Age of Processing</title>
+    <meta content="12chip" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/02/12/technology/12chip.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1825690"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">International Solid State Circuits Conference</classifier>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conventions and Conferences</classifier>
+        <org class="online_producer">Intel Corp</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DF1F3FF931A25751C0A9619C8B63" item-length="1017" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Intel Prototype May Herald a New Age of Processing</hl1>
+        <hl2 class="online_headline">Intel Prototype May Herald a New Age of Processing</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>SAN FRANCISCO, Feb. 11</dateline>
+      <abstract>
+        <p>Intel plans to demonstrate, at International Solid States Circuits conference in San Francisco, experimental computer chip with 80 separate cores that it hopes will become model for commercial chips used widely in standard desktop, laptop and server computers within five years; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Intel will demonstrate on Monday an experimental computer chip with 80 separate processing engines, or cores, that company executives say provides a model for commercial chips that will be used widely in standard desktop, laptop and server computers within five years.</p>
+        <p>The new processor, which the company first described as a Teraflop Chip at a conference last year, will be detailed in a technical paper to be presented on the opening day of the International Solid States Circuits Conference, beginning here on Monday.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new experimental chip from Intel could house asmany as 80 separate processing engines, or cores.</p>
+      </block>
+      <block class="full_text">
+        <p>Intel will demonstrate on Monday an experimental computer chip with 80 separate processing engines, or cores, that company executives say provides a model for commercial chips that will be used widely in standard desktop, laptop and server computers within five years.</p>
+        <p>The new processor, which the company first described as a Teraflop Chip at a conference last year, will be detailed in a technical paper to be presented on the opening day of the International Solid States Circuits Conference, beginning here on Monday.</p>
+        <p>While the chip is not compatible with Intel's current chips, the company said it had already begun design work on a commercial version that would essentially have dozens or even hundreds of Intel-compatible microprocessors laid out in a tiled pattern on a single chip.</p>
+        <p>The chip's design is meant to exploit a new generation of manufacturing technology the company introduced last month. Intel said that it had changed the basic design of transistors in such a way that it would be able to continue to shrink them to smaller sizes -- offering lower power and higher speeds -- for at least a half-decade or more.</p>
+        <p>During a briefing on Thursday in a hotel room here, Nitin Borkar, one of the chip's designers, showed an air-cooled computer based on the chip running a simple scientific calculation at speeds above one trillion mathematical calculations a second.</p>
+        <p>Such computing power matches the performance speed of the world's fastest supercomputer of just a decade ago. However, Intel acknowledged that the experimental chip was not a complete system necessary to do real computing work.</p>
+        <p>During the demonstration, Justin R. Rattner, the company's chief technology officer, showed several futuristic computing applications that he said the new chip design would help make possible. One of the applications was an automated video editing tool that would, for example, allow a computer to create a digital sports highlights video featuring a user's favorite players.</p>
+        <p>A second demonstration showed motion capture technology -- a technique widely used by the videogame industry to reproduce human forms in action -- relying only on digital video cameras and computers. Conventional motion capture technology requires a complex array of sensors pinned to an actor's body and face to record a digital video that can be used interactively.</p>
+        <p>In the future, Mr. Rattner said, it will be possible to blend synthesized and real-time video.</p>
+        <p>''Imagine learning to dance with a virtual instructor,'' he said.</p>
+        <p>In leaping beyond the two- and four-core microprocessors that are being manufactured by Intel and its chief PC industry competitor, Advanced Micro Devices, Intel is following a design trend that is sweeping the computing world.</p>
+        <p>Already, computer networking companies and the makers of PC graphics cards are moving to processor designs that have hundreds of computing engines, but only for special applications.</p>
+        <p>For example, Cisco Systems now uses a chip called Metro with 192 cores in its high-end network routers. Last November Nvidia introduced its most powerful graphics processor, the GeForce 8800, which has 128 cores. The Intel demonstration suggests that the technology may come to dominate mainstream computing in the future.</p>
+        <p>The shift toward systems with hundreds or even thousands of computing cores is both an opportunity and a potential crisis, computer scientists said, because no one has proved how to program such chips for many applications.</p>
+        <p>''If we can figure out how to program thousands of cores on a chip, the future looks rosy,'' said David A. Patterson, a University of California, Berkeley computer scientist who is a co-author of one of the standard textbooks on microprocessor design. ''If we can't figure it out, then things look dark.''</p>
+        <p>Mr. Patterson is one of a group of Berkeley computer scientists who recently issued a challenge to the chip industry, demanding that companies like Intel begin designing processors with thousands of cores per chip.</p>
+        <p>In a white paper  published last December, the scientists said that without a software breakthrough to take advantage of hundreds of cores, the industry, which is now pursuing a more incremental approach of increasing the number of cores on a computer chip, is likely to hit a wall of diminishing returns -- where adding more cores does not offer a significant increase in performance.</p>
+        <p>During the briefing last week Mr. Rattner essentially endorsed the Berkeley view, saying that the company believed that its Teraflop chip was the best way to solve a set of computing problems he described as ''recognition, mining and synthesis,'' computing techniques that use artificial intelligence.</p>
+        <p>In addition to new kinds of computing applications, Mr. Rattner said that the so-called network-on-chip Teraflop processor would be ideal for the kind of heterogeneous computing that is increasingly common in the corporate world.</p>
+        <p>Large data centers now routinely use a software technique called virtualization to run many operating systems on a single processor in order to gain computing efficiency. Having hundreds or thousands of cores available would vastly increase the power of this style of computing.</p>
+        <p>One of the most impressive technical achievements made by the Intel researchers was the speed with which they are able to move data among the separate processors on the chip, Mr. Patterson said.</p>
+        <p>The Teraflop chip, which consumes just 62 watts at teraflop speeds and which is air-cooled, contains an internal data packet router in each processor tile. It is able to move data among tiles in as little as 1.25 nanoseconds, making it possible to transfer 80 billion bytes a second among the internal cores.</p>
+        <p>The chip also contains an interface capability that would make it possible for Intel, in the future, to package a memory chip stacked directly on top of the microprocessor. Such a design would make it possible to move data back and forth between memory and processor many times faster than today's chips.</p>
+        <p>At the conference on Monday, both Intel and Advanced Micro Devices will describe new power-saving features that will make it possible for entire sections of future microprocessors to be shut down when they are not being used. The A.M.D. technology will be used in its four-core microprocessor, code-named Barcelona, which the company said would be commercially available by midyear.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

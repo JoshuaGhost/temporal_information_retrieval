@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>180 Maiden Lane Fills Up</title>
+    <meta content="BBR2" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Metro Business" name="column_name"/>
+    <docdata>
+      <doc-id id-string="930084"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Metro Business"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E2DC1438F936A25756C0A961958260" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>180 Maiden Lane Fills Up</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID M. HALBFINGER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IBJ Schroder Bank and Trust Company, the American investment banking arm of one of Japan's largest banks, is moving its headquarters to 180 Maiden Lane in lower Manhattan, real estate executives said yesterday.</p>
+        <p>The company, which now occupies 234,000 square feet at One State Street Plaza, is close to signing a lease for 193,000 square feet at 180 Maiden Lane, owned by the CNA Financial Corporation, which in turn is controlled by Loews. IBJ Schroder would ultimately occupy as much as 300,000 square feet there, the executives said.</p>
+      </block>
+      <block class="full_text">
+        <p>IBJ Schroder Bank and Trust Company, the American investment banking arm of one of Japan's largest banks, is moving its headquarters to 180 Maiden Lane in lower Manhattan, real estate executives said yesterday.</p>
+        <p>The company, which now occupies 234,000 square feet at One State Street Plaza, is close to signing a lease for 193,000 square feet at 180 Maiden Lane, owned by the CNA Financial Corporation, which in turn is controlled by Loews. IBJ Schroder would ultimately occupy as much as 300,000 square feet there, the executives said.</p>
+        <p>Executives said that under the deal, which they placed at about $30 per square foot, the 41-story building at Maiden Lane and South Street may be renamed for IBJ Schroder, a subsidiary of the Industrial Bank of Japan. The building has been known as the Continental Center, for an insurance company that built it in 1983. CNA Financial, based in Chicago, bought Continental in 1995 for $1.1 billion and reduced its occupancy of the building from 14 floors to 5.</p>
+        <p>The deal brings 180 Maiden Lane nearly to full occupancy.</p>
+        <p>DAVID M. HALBFINGER</p>
+        <p>Metro Business</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

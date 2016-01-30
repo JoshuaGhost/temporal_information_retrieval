@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Welcoming In the Young Wine</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726603"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="GOOD EATING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RESTAURANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">WINES</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Good Eating</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E6D81031F933A15752C1A962958260" item-length="961" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Welcoming In the Young Wine</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The end of November revolves around turkey dinners and family get-togethers. And, to a lesser but still noticeable extent, there is a holiday tradition imported from France: the arrival of beaujolais nouveau. This fresh, fruity, two-month-old red wine from south of Burgundy arrives in Paris on the third Thursday in November, where it finds its main market among the solid, casual bistros. A selection is listed here.  CAFE DE PARIS  + (212) 486-1411; 924 Second Avenue, at 49th Street; $; all major credit cards</p>
+      </block>
+      <block class="full_text">
+        <p>The end of November revolves around turkey dinners and family get-togethers. And, to a lesser but still noticeable extent, there is a holiday tradition imported from France: the arrival of beaujolais nouveau. This fresh, fruity, two-month-old red wine from south of Burgundy arrives in Paris on the third Thursday in November, where it finds its main market among the solid, casual bistros. A selection is listed here.  CAFE DE PARIS  + (212) 486-1411; 924 Second Avenue, at 49th Street; $; all major credit cards</p>
+        <p>Simple, satisfying, homey fare is what this little French cafe specializes in. The limited menu features appetizers of mussels mariniere; cured salmon with dill sauce, and escargots in a sauce of Pernod and gratineed with cheese. Main courses include entrecote with the house's secret Charolaise sauce and french fries; grilled skirt steak with shallot sauce; roast chicken Basque-style, and roast rack of lamb. (Article: 11/ 3/89; revisited: 11/16/94) CAFE DES SPORTS</p>
+        <p>GOOD EATING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

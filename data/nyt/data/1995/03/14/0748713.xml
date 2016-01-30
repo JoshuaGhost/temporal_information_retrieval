@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Your Broker or the Other Guy's?</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="748713"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">LAWYERS</classifier>
+        <classifier class="indexing_service" type="descriptor">LEGAL PROFESSION</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <person class="indexing_service">STOUT, DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DC143AF937A25750C0A963958260" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Your Broker or the Other Guy's?</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID STOUT</byline>
+      <byline class="normalized_byline">STOUT, DAVID</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Home buyers do not have to have a lawyer assist in the closing of a sale, the State Supreme Court ruled yesterday. But the court said brokers who help close deals must disclose potential conflicts of interest, such as representing the seller, too. And it said that buyers and sellers must be warned of the pitfalls of proceeding without a lawyer.</p>
+        <p>What people do now often depends on where they are buying a home. In South Jersey, 60 percent of home buyers and 65 percent of the sellers do not use lawyers. In North Jersey, more than 99 percent of the buyers and 86 percent of the sellers have lawyers at closings.</p>
+      </block>
+      <block class="full_text">
+        <p>Home buyers do not have to have a lawyer assist in the closing of a sale, the State Supreme Court ruled yesterday. But the court said brokers who help close deals must disclose potential conflicts of interest, such as representing the seller, too. And it said that buyers and sellers must be warned of the pitfalls of proceeding without a lawyer.</p>
+        <p>What people do now often depends on where they are buying a home. In South Jersey, 60 percent of home buyers and 65 percent of the sellers do not use lawyers. In North Jersey, more than 99 percent of the buyers and 86 percent of the sellers have lawyers at closings.</p>
+        <p>Lawyers contend that South Jersey brokers have dissuaded buyers from hiring attorneys and given buyers the false impression that they are representing them, when the brokers are actually representing the seller of a home. The New Jersey Bar Association contended that this represents an unauthorized practice of law.  NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

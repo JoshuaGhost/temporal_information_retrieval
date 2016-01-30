@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quality Candidates Only</title>
+    <meta content="KRULL" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="On Choosing Judges, Pataki Creates Problems" name="column_name"/>
+    <docdata>
+      <doc-id id-string="890078"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="On Choosing Judges, Pataki Creates Problems"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Judges</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Krull, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DE153AF935A25752C1A960958260" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quality Candidates Only</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Ben Krull objecting to Nov 11 editorial, which characterized judicial elections in New York State as 'clubhouse-dominated' system (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As someone who has served as a delegate to several Democratic Party judicial conventions in Manhattan, I contest your assertion that judicial elections in New York State are a ''clubhouse-dominated'' system (editorial, Nov. 11).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As someone who has served as a delegate to several Democratic Party judicial conventions in Manhattan, I contest your assertion that judicial elections in New York State are a ''clubhouse-dominated'' system (editorial, Nov. 11).</p>
+        <p>During the heyday of Tammany Hall, judicial elections were decided in back-room deals. In the 1970's, however, reformers took over Manhattan's Democratic Party organization and set up independent screening panels to evaluate candidates in Supreme Court and Civil Court races. The unwritten rule since then has been that the party will support only those candidates found qualified by the panels.</p>
+        <p>The screening panels have limited the role of politics in judicial elections. Two years ago, for example, Manhattan's Democratic Party leader announced his support for one of the candidates vying for a Civil Court seat. Before the panel system's introduction, this endorsement would have been tantamount to election. But when the leader's choice was rejected by a screening panel, the party decided to back a more qualified candidate, who eventually won the judgeship.</p>
+        <p>The problem with the judicial election system is that many counties in New York State operate without independent screening panels. Nonetheless, Manhattan's experience shows that judicial elections, supplemented by independent screening panels, stress merit over politics without eliminating the people's right to choose their judges.</p>
+        <p>BEN KRULL</p>
+        <p>New York, Nov. 13, 1996</p>
+        <p>On Choosing Judges, Pataki Creates Problems</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

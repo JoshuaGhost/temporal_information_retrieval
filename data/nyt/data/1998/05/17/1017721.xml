@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Margaret Van Orman, Todd Higgins</title>
+    <meta content="17VANO$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017721"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">VAN ORMAN, MARGARET JANE (MARGARET JANE HIGGINS)</person>
+        <person class="indexing_service">HIGGINS, TODD BRYANT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DA1030F934A25756C0A96E958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Margaret Van Orman, Todd Higgins</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Margaret Jane Van Orman, a daughter of Mr. and Mrs. Philip Van Orman of Brooklyn Heights, was married yesterday to Todd Bryant Higgins, a son of Mr. and Mrs. Robert Higgins of Sands Point, N.Y. The Rev. Harry J. Erdlen performed the ceremony at the Roman Catholic Church of Our Saviour in Manhattan.</p>
+        <p>Mrs. Higgins, 25, is an associate in the marketing department at the Chase Manhattan Bank. She graduated cum laude from Princeton University, where she was the captain of the women's squash team. Her father retired as the executive director of the Federal Reserve Employee Benefits System in Manhattan. Her mother, Mary Rodgers Van Orman, is an administrative law judge for the Health and Finance Departments of New York City..</p>
+      </block>
+      <block class="full_text">
+        <p>Margaret Jane Van Orman, a daughter of Mr. and Mrs. Philip Van Orman of Brooklyn Heights, was married yesterday to Todd Bryant Higgins, a son of Mr. and Mrs. Robert Higgins of Sands Point, N.Y. The Rev. Harry J. Erdlen performed the ceremony at the Roman Catholic Church of Our Saviour in Manhattan.</p>
+        <p>Mrs. Higgins, 25, is an associate in the marketing department at the Chase Manhattan Bank. She graduated cum laude from Princeton University, where she was the captain of the women's squash team. Her father retired as the executive director of the Federal Reserve Employee Benefits System in Manhattan. Her mother, Mary Rodgers Van Orman, is an administrative law judge for the Health and Finance Departments of New York City..</p>
+        <p>Mr. Higgins, 24, is a stock trader at Donaldson, Lufkin &amp; Jenrette, the investment bank in Manhattan. He also graduated from Princeton, where he was captain of the men's varsity lacrosse team. His mother, Judith Higgins, owns Memory Lane Antiques in Port Washington, N.Y., and Manhattan. His father is a partner in the Herald Realty Company in Manhattan and the president of University Childcare, an operator of day-care centers, also in Manhattan.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

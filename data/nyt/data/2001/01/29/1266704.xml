@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Media Talk; Mock Logos, Talk of Feud and CNN Layoffs</title>
+    <meta content="29CNN.$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/29/business/29CNN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1266704"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">New York Post</org>
+        <org class="indexing_service">Cable News Network</org>
+        <org class="indexing_service">News Corp</org>
+        <person class="indexing_service">Kilgannon, Corey</person>
+        <person class="indexing_service">Elsen, Jon</person>
+        <person class="indexing_service">Murdoch, Rupert</person>
+        <person class="indexing_service">Turner, Ted</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DE103FF93AA15752C0A9679C8B63" item-length="372" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Media Talk; Mock Logos, Talk of Feud and CNN Layoffs</hl1>
+      </hedline>
+      <byline class="print_byline">By COREY KILGANNON</byline>
+      <byline class="normalized_byline">Kilgannon, Corey</byline>
+      <abstract>
+        <p>Media Talk: Mock Logos, Talk of Feud and CNN Layoffs**New York Post business editor Jon Elsen denies coverage of Cable News Network is biased by Rupert Murdoch, whose News Corp owns Post and who has long feuded with CNN founder Ted Turner; defends illustrations with stories on CNN layoffs that mocked CNN as Cheap News Network and Cruel News Network (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As did other news media companies, The New York Post covered last week's announcement of 400 layoffs at the Cable News Network.</p>
+        <p>But there was a difference. On Tuesday, an article about the layoffs was illustrated with a mock CNN logo, ''Cheap News Network.'' The next day, the logo was ''Cruel News Network.''</p>
+      </block>
+      <block class="full_text">
+        <p>As did other news media companies, The New York Post covered last week's announcement of 400 layoffs at the Cable News Network.</p>
+        <p>But there was a difference. On Tuesday, an article about the layoffs was illustrated with a mock CNN logo, ''Cheap News Network.'' The next day, the logo was ''Cruel News Network.''</p>
+        <p>The Cruel News Network logo accompanied an opinion column in the business section decrying how the layoffs were carried out, but the Cheap News Network logo ran with a news article.</p>
+        <p>Seeking possible bias in the Post articles about Ted Turner, the CNN founder, has almost become a parlor game.</p>
+        <p>The News Corporation, The Post's parent, is controlled by Rupert Murdoch, who as well as being a competitor of Mr. Turner happens to have a long-running feud with him.</p>
+        <p>The game can be tricky. For example, some at the Fox News Channel, the Murdoch-owned cable news competitor of CNN, often snip that their corporate cousins at The Post do not give them enough coverage.</p>
+        <p>Last week, Jon Elsen, The Post's business editor, said the newspaper's coverage of CNN had ''nothing to do'' with the feud.</p>
+        <p>''There's no connection at all,'' Mr. Elsen said.</p>
+        <p>''It's an important, dramatic story, regardless of who's involved. Obviously Fox is competing with CNN, but we have nothing to do with that. We have nothing against them.''</p>
+        <p>''We decided to have some fun with it,'' he said of the logo. ''We called them the Cheap News Network because of the layoffs, and then we found out about the brutality with which the whole thing was being handled, and we changed it to the Cruel News Network. We feel bad for the people who were laid off.''</p>
+        <p>A spokeswoman for CNN, part of AOL Time Warner, Christa Robinson, declined to comment.</p>
+        <p>COREY KILGANNON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

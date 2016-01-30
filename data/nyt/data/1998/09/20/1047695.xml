@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carried Away</title>
+    <meta content="LTR105128" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1047695"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <person class="indexing_service">lamb, judith noelle</person>
+        <person class="indexing_service">Kummer, Corby</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DC1031F933A1575AC0A96E958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carried Away</hl1>
+      </hedline>
+      <abstract>
+        <p>Judith Noelle Lamb letter on Corby Kummer's Aug 30 article on bottled water; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I couldn't help smiling through most of Kummer's article, and bought my New York Times with companion purchases of Evian water and Yoplait yogurt, cultural hangovers from trips to France to visit a high-school pen pal. Sadly, the smile disappeared from my face when Kummer told us he used his bare hands to drink water from Panna's source -- without regard for the consequences. Was his ''audacity'' worth the possibility of contamination?</p>
+        <p>Judith Noelle Lamb  Boston</p>
+      </block>
+      <block class="full_text">
+        <p>I couldn't help smiling through most of Kummer's article, and bought my New York Times with companion purchases of Evian water and Yoplait yogurt, cultural hangovers from trips to France to visit a high-school pen pal. Sadly, the smile disappeared from my face when Kummer told us he used his bare hands to drink water from Panna's source -- without regard for the consequences. Was his ''audacity'' worth the possibility of contamination?</p>
+        <p>Judith Noelle Lamb  Boston</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

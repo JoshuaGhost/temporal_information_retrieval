@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In a Survey, the F.D.A. Is Accused of Hasty Approval of Drugs</title>
+    <meta content="03DRUG" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1066857"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Standards and Standardization</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">Public Citizen's Health Research Group</org>
+        <person class="indexing_service">Grady, Denise</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E1D6123BF930A35751C1A96E958260" item-length="566" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In a Survey, the F.D.A. Is Accused of Hasty Approval of Drugs</hl1>
+      </hedline>
+      <byline class="print_byline">By DENISE GRADY</byline>
+      <byline class="normalized_byline">Grady, Denise</byline>
+      <abstract>
+        <p>Public Citizen's Health Research Group, releasing survey of doctors who work for Food and Drug Administration, accuses agency of lowering its standards for safety and efficacy, working too hastily and approving drugs that should never have been allowed on market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Releasing its own survey of doctors who work for the Food and Drug Administration, an advocacy group yesterday accused the agency of lowering its standards for safety and efficacy, working too hastily and approving drugs that should never have been allowed on the market.</p>
+        <p>The report has drawn a scathing rebuttal from the drug industry, an oblique defense from the agency and  criticism from representatives of chronically ill people who advocate swifter drug approval.</p>
+      </block>
+      <block class="full_text">
+        <p>Releasing its own survey of doctors who work for the Food and Drug Administration, an advocacy group yesterday accused the agency of lowering its standards for safety and efficacy, working too hastily and approving drugs that should never have been allowed on the market.</p>
+        <p>The report has drawn a scathing rebuttal from the drug industry, an oblique defense from the agency and  criticism from representatives of chronically ill people who advocate swifter drug approval.</p>
+        <p>But some scientists said the report raised significant concerns.</p>
+        <p>The survey, announced at a news conference, was conducted by the Public Citizen's Health Research Group of Washington, which is directed by Dr. Sidney Wolfe and was founded by the consumer advocate Ralph Nader in 1971. The organization has criticized the pharmaceutical industry and, more recently, the drug-approval process, which Congress accelerated in 1992 and 1997.</p>
+        <p>The people surveyed were medical officers, agency employees assigned to oversee individual drugs being evaluated for approval. The survey was anonymous, and completed by only 53 of the 172 people to whom it was mailed.</p>
+        <p>Among its findings were these:</p>
+        <p>*Nineteen medical officers identified 27 new drugs that were approved even though the officers thought they should not be.</p>
+        <p>*Seventeen said the food and drug agency's safety and efficacy standards were lower than in the past.</p>
+        <p>*Nineteen said they felt more pressure to approve drugs from within the agency and from Congress and the pharmaceutical industry.</p>
+        <p>But a majority of the medical officers did not answer the survey, and a majority of those who did answer did not complain, making it impossible to tell whether the survey found genuine problems or merely provided malcontents an outlet for gripes.</p>
+        <p>In a statement, the drug agency said in part, ''The public should rest assured that the F.D.A. maintains the highest standards in the world for approving drugs.''</p>
+        <p>Agency officials declined to be interviewed, and the statement from  Dr. Janet Woodcock, director of the agency's Center for Drug Evaluation and Research, did not specifically address issues raised in the report.</p>
+        <p>Jeff Trewhitt, a spokesman for an industry group, the Pharmaceutical Research and Manufacturers of America, said, ''It is highly irresponsible to issue a so-called study based on clandestine communications with faceless, anonymous sources.''</p>
+        <p>Virginia Ladd, president of the American Autoimmune Related Diseases Association, in Detroit, said, ''We worked for F.D.A. reform to speed up the process.'' She said new drugs that became available through speeded approvals were very helpful to her group.</p>
+        <p>Dr. Kenneth Kaitin, who studies drug regulation at the Tufts University Center for the Study of Drug Development, in Boston, said, ''The research is shoddy, the survey is inconclusive and equivocal, and by no stretch does it support the conclusions.''</p>
+        <p>But Dr. Charles Flexner, an associate professor of medicine in clinical pharmacology at Johns Hopkins University, said the report raised important issues. Accelerated approvals have helped people with H.I.V. and cancer, he said, but more recently the process has gone too far.</p>
+        <p>''I think we've lost sight of the valuable role that the F.D.A. serves as a guardian of public health and safety,'' Dr. Flexner said, ''and not simply a regulatory hurdle for bringing new drugs to market.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

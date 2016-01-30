@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A. R. Mottola, 75; Led Polar Bear Club</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="531522"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">MOTTOLA, ALEXANDER R</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DC123AF936A15756C0A964958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A. R. Mottola, 75; Led Polar Bear Club</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alexander R. Mottola, a retired businessman and longtime president of the Polar Bear Club, died on Saturday at Staten Island University Hospital. He was 75 years old and lived on Staten Island.</p>
+        <p>He died of cancer, his family said.</p>
+        <p>For 27 years, Mr. Mottola led the Polar Bears, the intrepid men and women who met every Sunday to plunge in the Coney Island surf, even in the depth of winter, with water temperatures as low as 30 degrees. For a beer commercial, he performed this feat in December in a Minnesota lake, where the air temperature was 25 degrees below zero and workers chopped through ice to reach the water, his wife, Irene, said.</p>
+      </block>
+      <block class="full_text">
+        <p>Alexander R. Mottola, a retired businessman and longtime president of the Polar Bear Club, died on Saturday at Staten Island University Hospital. He was 75 years old and lived on Staten Island.</p>
+        <p>He died of cancer, his family said.</p>
+        <p>For 27 years, Mr. Mottola led the Polar Bears, the intrepid men and women who met every Sunday to plunge in the Coney Island surf, even in the depth of winter, with water temperatures as low as 30 degrees. For a beer commercial, he performed this feat in December in a Minnesota lake, where the air temperature was 25 degrees below zero and workers chopped through ice to reach the water, his wife, Irene, said.</p>
+        <p>Mr. Mottola owned and operated Paramount Business Machines, an office equipment company in Brooklyn, until his retirement five years ago. He was a past president of the New York Office Machine Dealers Association.</p>
+        <p>He was also a self-taught organist and president of the Hammond Organ Society of Elizabeth, N.J.</p>
+        <p>His first marriage ended in divorce. He is survived by his wife of nearly 26 years, the former Irene Ellenbogen; five daughters, Portia Mottola, Mary Ann Jackson and Sandra Perlmutter, all of Los Angeles, and Birdie Mottola and Robyn Ellenbogen, both of Staten Island; a son, Joseph of Staten Island; a brother, Philip, of Endicott, N.Y.; a sister, Paulette Sbordone of Brooklyn, and eight grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

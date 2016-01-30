@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Island Tale: Past, Present and Future</title>
+    <meta content="22JANE" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1003998"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="NEIGHBORHOOD REPORT: GREENWICH VILLAGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Streets</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Greenwich Village (NYC)</location>
+        <org class="indexing_service">Transportation Department (NYC)</org>
+        <person class="indexing_service">Allon, Janet</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFD61F39F931A15750C0A96E958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Island Tale: Past, Present and Future</hl1>
+      </hedline>
+      <byline class="print_byline">By JANET ALLON</byline>
+      <byline class="normalized_byline">Allon, Janet</byline>
+      <abstract>
+        <p>New York City Transportation Department will create more pedestrian-friendly traffic island with greenery at triangular intersection of Jane Street, Eighth Avenue and West Fourth Street; responds to complaints from Greenwich Village about bare-bones site; photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>About a month ago, a raised traffic triangle at the confusing intersection of Jane Street, Eighth Avenue and West Fourth Street suddenly appeared, surrounded by two layers of S-shaped bicycle racks to prevent anyone from standing on it. Some residents found it to be a strange and hostile construction (photo at right).</p>
+        <p>After a chorus of complaints, the Department of Transportation announced that the triangle was a work in progress. Then the bike racks were removed and replaced with a temporary fence (photo below), to protect passers-by from falling into a pit where a tree would be planted.</p>
+      </block>
+      <block class="full_text">
+        <p>About a month ago, a raised traffic triangle at the confusing intersection of Jane Street, Eighth Avenue and West Fourth Street suddenly appeared, surrounded by two layers of S-shaped bicycle racks to prevent anyone from standing on it. Some residents found it to be a strange and hostile construction (photo at right).</p>
+        <p>After a chorus of complaints, the Department of Transportation announced that the triangle was a work in progress. Then the bike racks were removed and replaced with a temporary fence (photo below), to protect passers-by from falling into a pit where a tree would be planted.</p>
+        <p>Last week, at an informal meeting with Community Board 2's traffic committee, the department unveiled a preliminary plan for an extended, more pedestrian-friendly triangle, which might be expanded north and east, with more greenery and additional crosswalks added (rendering at bottom). Northbound traffic might be rerouted from West Fourth Street to Eighth Avenue.</p>
+        <p>The plan was greeted enthusiastically. ''It's a welcome development,'' said Arthur Strickler, district manager of Board 2.</p>
+        <p>JANET ALLON</p>
+        <p>NEIGHBORHOOD REPORT: GREENWICH VILLAGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

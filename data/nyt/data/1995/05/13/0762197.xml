@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transactions</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="762197"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONTRACTS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDA1F3DF930A25756C0A963958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transactions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baseball  National League CINCINNATI REDS -- Placed Benito Santiago, catcher, on the 15-day disabled list, retroactive to May 8. Optioned John Courtright and Matt Grott, pitchers, to Indianapolis of the American Association. HOUSTON ASTROS -- Activated Chris Donnels, infielder, from the 15-day disabled list. Optioned Ricky Gutierrez, shortstop, to Tucson of the Pacific Coast League. MONTREAL EXPOS -- Signed Kash Beauchamp, outfielder, and assigned him to Harrisburg of the Eastern League. Football  National Football League ARIZONA CARDINALS -- Named Craig Cason scout. CINCINNATI BENGALS -- Announced the retirement of Tom Waddle, wide receiver. Hockey  National Hockey League N.H.L. -- Fined New Jersey Devils left wing Mike Peluso $1,000 for throwing an elbow at Boston Bruins center Jozef Stumpel during Wednesday night's playoff game. EDMONTON OILERS -- Announced they purchased the remaining 50 percent share of their A.H.L. affiliate from Sydney, Nova Scotia, and are now sole owners of the team.</p>
+      </block>
+      <block class="full_text">
+        <p>Baseball  National League CINCINNATI REDS -- Placed Benito Santiago, catcher, on the 15-day disabled list, retroactive to May 8. Optioned John Courtright and Matt Grott, pitchers, to Indianapolis of the American Association. HOUSTON ASTROS -- Activated Chris Donnels, infielder, from the 15-day disabled list. Optioned Ricky Gutierrez, shortstop, to Tucson of the Pacific Coast League. MONTREAL EXPOS -- Signed Kash Beauchamp, outfielder, and assigned him to Harrisburg of the Eastern League. Football  National Football League ARIZONA CARDINALS -- Named Craig Cason scout. CINCINNATI BENGALS -- Announced the retirement of Tom Waddle, wide receiver. Hockey  National Hockey League N.H.L. -- Fined New Jersey Devils left wing Mike Peluso $1,000 for throwing an elbow at Boston Bruins center Jozef Stumpel during Wednesday night's playoff game. EDMONTON OILERS -- Announced they purchased the remaining 50 percent share of their A.H.L. affiliate from Sydney, Nova Scotia, and are now sole owners of the team.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

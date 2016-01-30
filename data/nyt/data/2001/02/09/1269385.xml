@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinking Aloud About Movement: All the Rest Is Talk</title>
+    <meta content="09KITC" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/09/arts/09KITC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1269385"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cummings, Blondell</person>
+        <person class="indexing_service">Anderson, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DA1431F93AA35751C0A9679C8B63" item-length="403" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinking Aloud About Movement: All the Rest Is Talk</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jack</byline>
+      <abstract>
+        <p>Jack Anderson reviews Talking Dance programs at the Kitchen; photo of Blondell Cummings (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A great tradition of blending dance and words goes back to Renaissance spectacles that combined movement with music and poetry. And dancers still talk. That's being demonstrated in ''Talking Dance,'' a series of programs at the Kitchen. Both the dancing and the talking were good there last Friday night.</p>
+        <p>Sometimes the union of speech and movement made dancing resemble thinking. In a film by Jonathan Demme of Trisha Brown's ''Accumulation With Talking Plus Water Motor,'' Ms. Brown spoke about making dances as she performed increasingly complicated steps. Her solo thereby became an image of the creative process.</p>
+      </block>
+      <block class="full_text">
+        <p>A great tradition of blending dance and words goes back to Renaissance spectacles that combined movement with music and poetry. And dancers still talk. That's being demonstrated in ''Talking Dance,'' a series of programs at the Kitchen. Both the dancing and the talking were good there last Friday night.</p>
+        <p>Sometimes the union of speech and movement made dancing resemble thinking. In a film by Jonathan Demme of Trisha Brown's ''Accumulation With Talking Plus Water Motor,'' Ms. Brown spoke about making dances as she performed increasingly complicated steps. Her solo thereby became an image of the creative process.</p>
+        <p>Blondell Cummings paced, as if brooding, in her ''Just a Coupla Boomers Sitting Around Chillin.'' As she did so, a film of a swaying body was projected, taped voices discussed growing older, and restless actions symbolized mental restlessness.</p>
+        <p>Ann Carlson also paced restlessly while talking about everyday problems in ''The Dog Inside the Man Inside.'' While she fretted, a handsome black dog named Zulu just lolled about, and its relaxation was amusingly contrasted with human tension.</p>
+        <p>Valda Setterfield reminisced about dances of the past while performing David Gordon's ''Short History.'' Douglas Dunn and Grazia Della-Terza looked worried as they danced to a text about worry by Jim Neu in Mr. Dunn's ''Aerobia.''</p>
+        <p>Emotional distress dominated the untitled solo Bill T. Jones offered in place of the work he had originally scheduled. At first his movements were deceptively casual. But as his steps grew more agitated, he told a poignant story about a violent death. In both speech and movement he seemed to pour out feelings he could not keep bottled.</p>
+        <p>As Michael Lomeka recited an essay by Vladimir Nabokov about the development of a butterfly in Yvonne Rainer's ''Talking Solo,'' his squirmings and flutterings suggested that he was becoming a butterfly.</p>
+        <p>Lucy Sexton, a performance artist who calls herself the Factress, introduced the works with vocal and gestural assistance from other performers. But the dances really spoke for themselves. Programs continue through tomorrow at the Kitchen, 512 West 19th Street, Chelsea.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JVC Plant in Sacramento</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="793929"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RECORDINGS (VIDEO)</classifier>
+        <classifier class="indexing_service" type="descriptor">FACTORIES AND INDUSTRIAL PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPACT DISKS</classifier>
+        <location class="indexing_service">SACRAMENTO (CALIF)</location>
+        <location class="indexing_service">SACRAMENTO, CA, USA</location>
+        <org class="indexing_service">MATSUSHITA ELECTRIC INDUSTRIAL CO</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Sacramento</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E1D61539F936A35753C1A963958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JVC Plant in Sacramento</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SACRAMENTO, Calif., Oct. 4</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Japanese electronics maker JVC, a unit of the Matsushita Electric Industrial Company, has selected Sacramento for a plant that will produce a new  generation of compact disks, according to state officials. The $40 million digital videodisk plant is expected to open in 1996 and will initially employ 250, said Julie Wright, secretary of trade and commerce. By 2000, the company plans to expand the project to $400 million and employ 1,000. The new five-inch  digital videodisks are expected to offer superior audio and video quality and store up to 20 times as much information as existing CD's and CD-ROM's.</p>
+      </block>
+      <block class="full_text">
+        <p>The Japanese electronics maker JVC, a unit of the Matsushita Electric Industrial Company, has selected Sacramento for a plant that will produce a new  generation of compact disks, according to state officials. The $40 million digital videodisk plant is expected to open in 1996 and will initially employ 250, said Julie Wright, secretary of trade and commerce. By 2000, the company plans to expand the project to $400 million and employ 1,000. The new five-inch  digital videodisks are expected to offer superior audio and video quality and store up to 20 times as much information as existing CD's and CD-ROM's.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

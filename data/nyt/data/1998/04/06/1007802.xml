@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Titanic,' After 15 Weeks, Bows to 'Lost in Space'</title>
+    <meta content="06TITA" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1007802"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <object.title class="indexing_service">Lost in Space (Movie)</object.title>
+        <object.title class="indexing_service">Titanic (Movie)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DE103AF935A35757C0A96E958260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Titanic,' After 15 Weeks, Bows to 'Lost in Space'</hl1>
+      </hedline>
+      <dateline>HOLLYWOOD, April 5</dateline>
+      <abstract>
+        <p>Lost in Space displaces Titanic as nation's No. 1 film, a ranking Titanic held for 15 weeks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After 15 weeks as the No. 1 film in the nation, ''Titanic'' was finally toppled at the box office over the weekend by ''Lost in Space,'' a science-fiction movie based on the 1960's television series.</p>
+        <p>The new film grossed an estimated $20 million, far ahead of ''Titanic,'' the James Cameron blockbuster, which took in about $11.6 million over the weekend. In third place was ''Mercury Rising,'' a Bruce Willis action film, which grossed an estimated $10.9 million, a disappointment to its studio, Universal.</p>
+      </block>
+      <block class="full_text">
+        <p>After 15 weeks as the No. 1 film in the nation, ''Titanic'' was finally toppled at the box office over the weekend by ''Lost in Space,'' a science-fiction movie based on the 1960's television series.</p>
+        <p>The new film grossed an estimated $20 million, far ahead of ''Titanic,'' the James Cameron blockbuster, which took in about $11.6 million over the weekend. In third place was ''Mercury Rising,'' a Bruce Willis action film, which grossed an estimated $10.9 million, a disappointment to its studio, Universal.</p>
+        <p>'' 'Titanic' is finally dethroned -- bound to happen one day,'' John Krier, president of the Exhibitor Relations Company, which monitors the box office, said this morning. He said, '' 'Lost in Space,' had a tremendous amount of publicity, a lot of hoopla.''</p>
+        <p>The big-screen adaptation of ''Lost in Space,'' which cost about $75 million and is the most expensive film ever made by New Line, a division of Time Warner, is based on the 1965-68 CBS science-fiction series about a 21st-century astrophysicist who takes his family on a trip through the cosmos. The film version received unenthusiastic reviews from critics.</p>
+        <p>''Titanic,'' which won 11 Academy Awards, including best picture, has grossed more than $530 million in the United States, a record. The film opened on Dec. 19. The epic, which cost about $200 million and was financed by two studios, 20th Century Fox and Paramount, has taken in an estimated $1.2 billion around the world.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

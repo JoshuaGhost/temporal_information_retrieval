@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Exuberance In the Midst Of Sadness</title>
+    <meta content="03FOLK" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/03/arts/music/03FOLK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1586422"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="ROCK REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">My Morning Jacket (Music Group)</org>
+        <person class="indexing_service">Sanneh, Kelefa</person>
+        <person class="indexing_service">Ward, M</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Music</classifier>
+        <classifier class="online_producer" type="descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Folk Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E0D81431F930A35755C0A9629C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Exuberance In the Midst Of Sadness</hl1>
+        <hl2 class="online_headline">Exuberance in the Midst of Sadness</hl2>
+      </hedline>
+      <byline class="print_byline">By KELEFA SANNEH</byline>
+      <byline class="normalized_byline">Sanneh, Kelefa</byline>
+      <abstract>
+        <p>Kelefa Sanneh reviews concert by singer M Ward and My Morning Jacket at Irving Plaza (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why does M. Ward sing like that? It seems to be a put-on, at first: that grainy, muted-trumpet voice wafting elegantly out of that awkward, maybe even uncomfortable guy who's pacing the stage, trying to rock his acoustic guitar to sleep.</p>
+        <p>More than a year ago Mr. Ward (the M stands for Matt) released ''The Transfiguration of Vincent'' (Merge), a sleepily seductive CD in the eccentric folk tradition of John Fahey and Karen Dalton. The album, gorgeous but slightly incomplete, grabs hold slowly and insistently: by the time you decide that you love it, you may find that you've already memorized half the songs.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>M. Ward's eight-song set at Irving Plaza on Tuesday night was a minor masterpiece, eerie and astonishing.</p>
+      </block>
+      <block class="full_text">
+        <p>Why does M. Ward sing like that? It seems to be a put-on, at first: that grainy, muted-trumpet voice wafting elegantly out of that awkward, maybe even uncomfortable guy who's pacing the stage, trying to rock his acoustic guitar to sleep.</p>
+        <p>More than a year ago Mr. Ward (the M stands for Matt) released ''The Transfiguration of Vincent'' (Merge), a sleepily seductive CD in the eccentric folk tradition of John Fahey and Karen Dalton. The album, gorgeous but slightly incomplete, grabs hold slowly and insistently: by the time you decide that you love it, you may find that you've already memorized half the songs.</p>
+        <p>At Irving Plaza on Tuesday night Mr. Ward opened for My Morning Jacket. And his eight-song set was a minor masterpiece, eerie and astonishing. At the start he transformed his ''Duet for Guitars, No. 3'' into a single breakneck (and defiantly messy) orgy of finger-picking.</p>
+        <p>During ''Outta My Head,'' Jim James, the singer for My Morning Jacket, slid his impossibly sad, straight notes behind Mr. Ward's curled phrases. The rest of My Morning Jacket joined in on a raucous run through ''Vincent O'Brien,'' emphasizing the bitter exuberance of the lyrics: ''He only sings when he's sad/But he's sad all the time/So he sings the whole night through/Yeah, he sings in the daytime, too.''</p>
+        <p>Mr. Ward is a wistful, quizzical narrator who doesn't quite believe his own daydreams. ''I'm just a guy from Portland, Ore.,'' he said. ''Then you wake up and there's your band, My Morning Jacket. Who do you have to thank?'' After a moment he answered his own question: ''New York City.'' A pause. ''Maybe.''</p>
+        <p>There was one misstep: a dawdling cover of David Bowie's ''Let's Dance.'' But everything else was lovely, especially the finale, a hushed ''Undertaker.'' Mr. Ward began the chorus with a voice like smoke: ''Oh, but if you're gonna leave . . .'' Then a sideways glance, as if he were measuring his words, and the croaked falsetto conclusion: ''Better call the undertaker/Take me under, undertaker/Take me home.''</p>
+        <p>ROCK REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Americas: Canada: Fires Spread Across West</title>
+    <meta content="MB001648" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1509820"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firefighters</classifier>
+        <classifier class="indexing_service" type="descriptor">Forest and Brush Fires</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">British Columbia (Canada)</location>
+        <location class="indexing_service">Alberta (Canada)</location>
+        <person class="indexing_service">Campbell, Colin</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/Alberta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/British Columbia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forest and Brush Fires</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501EFDA1E3EF936A3575BC0A9659C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Americas: Canada: Fires Spread Across West</hl1>
+      </hedline>
+      <byline class="print_byline">By Colin Campbell (NYT)</byline>
+      <byline class="normalized_byline">Campbell, Colin</byline>
+      <abstract>
+        <p>Western Canada continues to be ravaged by quick moving forest fires, some of which have been buring for more than one week; thousands of people have been forced to evacuate in British Columbia and Alberta; estimated 380 fires are burning (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thousands of people in western Canada were forced to evacuate their homes because of fast-spreading forest fires, considered the worst in the last half-century. In one area of southern British Columbia, near Kamloops, about 180 miles northeast of Vancouver, 10,000 people from mostly rural communities were evacuated, while forecasts for more hot, dry weather stoked fears that the fires could spread. Nearly 2,000 residents from the mountainous region of southwestern Alberta have also been evacuated. Hundreds of firefighters from around the country have been called in to fight the 380 fires, some of them burning for more than a week.</p>
+        <p>Colin Campbell (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Thousands of people in western Canada were forced to evacuate their homes because of fast-spreading forest fires, considered the worst in the last half-century. In one area of southern British Columbia, near Kamloops, about 180 miles northeast of Vancouver, 10,000 people from mostly rural communities were evacuated, while forecasts for more hot, dry weather stoked fears that the fires could spread. Nearly 2,000 residents from the mountainous region of southwestern Alberta have also been evacuated. Hundreds of firefighters from around the country have been called in to fight the 380 fires, some of them burning for more than a week.</p>
+        <p>Colin Campbell (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

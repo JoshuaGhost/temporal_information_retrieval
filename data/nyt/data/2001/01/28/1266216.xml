@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>John V. Lindsay, Pierre Trudeau</title>
+    <meta content="LTR130937" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1266216"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Mayors</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lindsay, John V</person>
+        <person class="indexing_service">Violett, Ellen M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mayors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DA113CF93BA15752C0A9679C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>John V. Lindsay, Pierre Trudeau</hl1>
+      </hedline>
+      <abstract>
+        <p>Ellen M Violett letter in tribute to late John V Lindsay (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>So he got sick. He didn't get rich. Richard Reeves writes him off as a failure (''When Charisma Was King''). The real John V. Lindsay outlives his obits. He was special from his earliest days on Long Island, at St. Paul's School, at Yale, in the service, in a young marriage, in Congress, as mayor of New York, as a hero in Harlem. He was extra-special as a Republican, the only one except Roy Goodman most old Democrats ever voted for -- even before he joined us. John Lindsay was a golden boy.</p>
+        <p>Ellen M. Violett  New York</p>
+      </block>
+      <block class="full_text">
+        <p>So he got sick. He didn't get rich. Richard Reeves writes him off as a failure (''When Charisma Was King''). The real John V. Lindsay outlives his obits. He was special from his earliest days on Long Island, at St. Paul's School, at Yale, in the service, in a young marriage, in Congress, as mayor of New York, as a hero in Harlem. He was extra-special as a Republican, the only one except Roy Goodman most old Democrats ever voted for -- even before he joined us. John Lindsay was a golden boy.</p>
+        <p>Ellen M. Violett  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

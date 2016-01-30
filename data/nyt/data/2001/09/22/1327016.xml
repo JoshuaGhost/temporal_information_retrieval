@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Francis Donnelly, 74, Psychotherapist</title>
+    <meta content="22DONN" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1327016"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Donnelly, Francis E</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DA1F3BF931A1575AC0A9679C8B63" item-length="332" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Francis Donnelly, 74, Psychotherapist</hl1>
+      </hedline>
+      <abstract>
+        <p>Francis E Donnelly, psychotherapist and co-founder of Studio Museum in Harlem, dies at 74 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Francis E. Donnelly, a psychotherapist and co-founder of the Studio Museum in Harlem, died at his home in Manhattan on Sept. 13. He was 74.</p>
+        <p>He died in his sleep of natural causes, said his partner, Michael Kahn.</p>
+      </block>
+      <block class="full_text">
+        <p>Francis E. Donnelly, a psychotherapist and co-founder of the Studio Museum in Harlem, died at his home in Manhattan on Sept. 13. He was 74.</p>
+        <p>He died in his sleep of natural causes, said his partner, Michael Kahn.</p>
+        <p>Mr. Donnelly was born in Jersey City and was educated at Columbia University and the Sorbonne in Paris. He later earned a master's degree in social work from Hunter College, and until his death worked as a psychotherapist in New York.</p>
+        <p>After the Sept. 11 attack on the World Trade Center, Mr. Donnelly had been volunteering as a grief counselor, Mr. Kahn said.</p>
+        <p>Mr. Donnelly worked as a social worker in Harlem for the Citizens' Committee for Children of New York, the organization founded by Eleanor Roosevelt in 1945, and later served as its executive director. He was on the board of directors for the Alvin Ailey Dance Company and the Dance Theater of Harlem, and on the junior council for the Museum of Modern Art.</p>
+        <p>In 1967 he and several other members of the junior council at the Modern chartered the Studio Museum in Harlem, which opened the following year on Fifth Avenue and 125th Street; it later moved to its current location on 125th Street between Lenox and Seventh Avenues.</p>
+        <p>A play by Mr. Donnelly, ''Queen of Clubs,'' was produced at the Church Street Theater in Washington last year, and another play, ''Two Little Indians,'' is planned for Off Broadway in the spring.</p>
+        <p>Mr. Donnelly also published a novel, ''East Sixties.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

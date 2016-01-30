@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Modern and Contemporary Portraits'</title>
+    <meta content="RV012707" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1463065"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Glueck, Grace</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0DD153BF934A35751C0A9659C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Modern and Contemporary Portraits'</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews show of modern portraits at Forum Gallery (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forum Gallery  745 Fifth Avenue, at 57th Street  Manhattan  Through March 1</p>
+        <p>A formidable assemblage of faces has been gathered for this ambitious portrait jam, organized by Townsend Wolfe, former director and chief curator of the Arkansas Art Center in Little Rock. The subjects range from a demure but vivid young thing known as ''Mady'' (1948), by Alice Neel, to the belligerent, what's-it-to-you countenance of the painter Francesco Clemente, seen in a woodcut he did in 1982.</p>
+      </block>
+      <block class="full_text">
+        <p>Forum Gallery  745 Fifth Avenue, at 57th Street  Manhattan  Through March 1</p>
+        <p>A formidable assemblage of faces has been gathered for this ambitious portrait jam, organized by Townsend Wolfe, former director and chief curator of the Arkansas Art Center in Little Rock. The subjects range from a demure but vivid young thing known as ''Mady'' (1948), by Alice Neel, to the belligerent, what's-it-to-you countenance of the painter Francesco Clemente, seen in a woodcut he did in 1982.</p>
+        <p>In between are close to 60 others, some quirky and antic like Red Grooms's 1980 version of Salvador Dalí, a dimensional print with Ping- Pong balls for eyes; others ultra-traditional, like the amazingly realistic rendition of an unknown bluestocking done in 1918 by Mark Tobey, known now only for his calligraphic abstractions. A pastiche that may put you in mind of ''The Sopranos'' is Kent Bellows's 2000 canvas ''Self-Portrait With Wine Glass (Gluttony),'' in which the artist wallows in a Lucullan feast borrowed from old master still lifes.</p>
+        <p>Literati are present in Bernard Perlin's silverpoint drawing of the reticent E. M. Forster (1947) and in an undated ink-on-paper impression of a dour James Joyce by Pavel Tchelitchew. Political powerhouses are paraded here, too, with Ben Shahn's gouache of Josef Goebbels caught in full rant and Robert Arneson's 1991 portrait on paper of the first President Bush, titled ''Most Evil No. 2,'' in which the president is quite as mockingly observed.</p>
+        <p>In short, dull moments are few and far between in this engrossing show, which more than occasionally goes beyond the facts of its faces to real insights.</p>
+        <p>GRACE GLUECK</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

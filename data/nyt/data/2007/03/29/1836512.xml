@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Service Benefits Kids</title>
+    <meta content="l29service" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1836512"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volunteers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DE1030F93AA15750C0A9619C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Service Benefits Kids</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''A Better Society? Or a Better Résumé?'' (Week in Review, March 25):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''A Better Society? Or a Better Résumé?'' (Week in Review, March 25):</p>
+        <p>As a student at a private school that requires students to accumulate nearly 100 hours of community service before graduation, I'm well aware that many of my peers are not serving food at homeless shelters or sorting books for underprivileged schools out of the goodness of their hearts. They're doing it because they want diplomas.</p>
+        <p>But do the people who receive the benefits of our required service question our motives? Do the recipients of houses built by wealthy students really care if their homes were built by kids padding their résumés for college? They have a roof over their heads; they didn't before. End of story.</p>
+        <p>If overprivileged private school kids see that there are people in the world less fortunate than they are, that is undoubtedly a good thing.</p>
+        <p>Gabrielle Hoyt-Disick  Tenafly, N.J., March 25, 2007</p>
+        <p>The writer is an eighth grader at Riverdale Country School in the Bronx.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

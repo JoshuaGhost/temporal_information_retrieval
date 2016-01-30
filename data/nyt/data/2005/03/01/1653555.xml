@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="01QNA.$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1653555"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bone Marrow</classifier>
+        <classifier class="indexing_service" type="descriptor">Transplants</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Transplants</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Bone Marrow</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transplants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0D7153DF932A35750C0A9639C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q &amp; A column discussed registration for bone marrow donation; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marrow Donor Registries</p>
+        <p>Q. Years ago, I registered as a potential bone marrow donor with the HLA Registry Foundation Inc. But I have since become aware that there are many different registries. Do I need to reregister?</p>
+        <p>A. The HLA Registry is one of many; several were founded for specific ethnic groups, and some were started to help individual patients find the best matches among unrelated donors. But you do not need to reregister.</p>
+      </block>
+      <block class="full_text">
+        <p>Marrow Donor Registries</p>
+        <p>Q. Years ago, I registered as a potential bone marrow donor with the HLA Registry Foundation Inc. But I have since become aware that there are many different registries. Do I need to reregister?</p>
+        <p>A. The HLA Registry is one of many; several were founded for specific ethnic groups, and some were started to help individual patients find the best matches among unrelated donors. But you do not need to reregister.</p>
+        <p>All the data on you and on other potential donors that the foundation and most other domestic registries have collected are available on computer through the National Marrow Donor Program in Minneapolis, said Dr. Samuel M. Silver of the University of Michigan Cancer Center, who is on the board of the American Society of Hematology.</p>
+        <p>A second resource for coordinators of searches for donors is the Caitlin Raymond International Registry in Worcester, Mass., which compiles the data in most international registries. Between these bodies, most worldwide donor data are available, Dr. Silver said. Also, many of the same names are on each registry.</p>
+        <p>There is also a computer compilation called Bone Marrow Donors Worldwide, which taps some smaller foreign registries as well.</p>
+        <p>''If there is a hit on this data, the coordinator would have to go directly to the smaller registry not only to identify the donor but also to get the donor tested further, etc.,'' Dr. Silver said. The other two umbrella registries provide such additional services.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Best Classical CD's of 2004; MACHAUT: MOTETS</title>
+    <meta content="MB222833" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1634200"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <org class="indexing_service">Hilliard Ensemble (Music Group)</org>
+        <person class="indexing_service">Eichler, Jeremy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEFD61031F931A25751C1A9629C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Best Classical CD's of 2004; MACHAUT: MOTETS</hl1>
+      </hedline>
+      <byline class="print_byline">By JEREMY EICHLER</byline>
+      <byline class="normalized_byline">Eichler, Jeremy</byline>
+      <abstract>
+        <p>Jeremy Eichler reviews CD of motets by 14th-century composer Machaut performed by Hilliard Ensemble; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The classical recording business still has its problems, and it is anyone's guess how the Sony-BMG merger will affect the industry, but obituaries are still premature. Perhaps more labels are beginning to find virtue in the necessity to live small. For whatever reason, the number of truly excellent CD's seems to have risen over the last year or two. So it is with pleasure that the classical music critics of The NewYork Times here list some of their favorite CD's from 2004.</p>
+        <p>Hilliard Ensemble (ECM New Series) This 14th-century poet and composer wrote music whose spare and haunting beauty can at first seem disorienting to modern ears. These motets, in a sumptuous performance by the Hilliard Ensemble, make a wonderful introduction, with their undulating polyphony, shivery dissonances and supple vocal lines, each built around its own poetic text.</p>
+        <p>JEREMY EICHLER</p>
+      </block>
+      <block class="full_text">
+        <p>The classical recording business still has its problems, and it is anyone's guess how the Sony-BMG merger will affect the industry, but obituaries are still premature. Perhaps more labels are beginning to find virtue in the necessity to live small. For whatever reason, the number of truly excellent CD's seems to have risen over the last year or two. So it is with pleasure that the classical music critics of The NewYork Times here list some of their favorite CD's from 2004.</p>
+        <p>Hilliard Ensemble (ECM New Series) This 14th-century poet and composer wrote music whose spare and haunting beauty can at first seem disorienting to modern ears. These motets, in a sumptuous performance by the Hilliard Ensemble, make a wonderful introduction, with their undulating polyphony, shivery dissonances and supple vocal lines, each built around its own poetic text.</p>
+        <p>JEREMY EICHLER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

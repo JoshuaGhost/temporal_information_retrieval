@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="486547"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC1F31F931A25752C1A967958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.S. Agency Will Insure Investment in Soviet Union</p>
+        <p>A Federal agency will provide partial insurance against expropriation and violence for a $250 million investment in Soviet defense affiliates. Page D1.</p>
+        <p>Of $45 billion pledged to Eastern Europe by wealthy nations since 1989, 20 percent has been paid out. Page D9. Parliament Overrides Yeltsin</p>
+        <p>The Russian Parliament overturned Boris N. Yeltsin's declaration of emergency in Chechen-Ingushetia and authorized talks. Page A10. Questions at the C.I.A.</p>
+        <p>The Central Intelligence Agency gets a new leader today, and his effect on morale at the agency remains very much in dispute. Page A20. Ex-Episcopal Bishop Dies</p>
+        <p>The Right Rev. Horace W. B. Donegan, the Episcopal Bishop of New York from 1950 until 1972, is dead. He was 91 years old. Page B8. Gotti Aide Said to Defect</p>
+        <p>John Gotti's right-hand man will testify against him at a Federal racketeering trial, law-enforcement officials said. Page B3.</p>
+      </block>
+      <block class="full_text">
+        <p>U.S. Agency Will Insure Investment in Soviet Union</p>
+        <p>A Federal agency will provide partial insurance against expropriation and violence for a $250 million investment in Soviet defense affiliates. Page D1.</p>
+        <p>Of $45 billion pledged to Eastern Europe by wealthy nations since 1989, 20 percent has been paid out. Page D9. Parliament Overrides Yeltsin</p>
+        <p>The Russian Parliament overturned Boris N. Yeltsin's declaration of emergency in Chechen-Ingushetia and authorized talks. Page A10. Questions at the C.I.A.</p>
+        <p>The Central Intelligence Agency gets a new leader today, and his effect on morale at the agency remains very much in dispute. Page A20. Ex-Episcopal Bishop Dies</p>
+        <p>The Right Rev. Horace W. B. Donegan, the Episcopal Bishop of New York from 1950 until 1972, is dead. He was 91 years old. Page B8. Gotti Aide Said to Defect</p>
+        <p>John Gotti's right-hand man will testify against him at a Federal racketeering trial, law-enforcement officials said. Page B3.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

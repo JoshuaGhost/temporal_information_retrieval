@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="22INSI" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1537330"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDE133BF931A15752C1A9659C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hepatitis Linked to Scallions  Contaminated scallions were almost certainly the cause of a large outbreak of hepatitis A in Western Pennsylvania, federal health officials said.</p>
+        <p>PAGE A13</p>
+        <p>New Tape in Sniper Trial  In an audiotaped confession, Lee Malvo, the 18-year-old suspect in the Washington sniper killings, let go with giggles and belly laughs as he described the attacks.</p>
+        <p>PAGE A10</p>
+      </block>
+      <block class="full_text">
+        <p>Hepatitis Linked to Scallions  Contaminated scallions were almost certainly the cause of a large outbreak of hepatitis A in Western Pennsylvania, federal health officials said.</p>
+        <p>PAGE A13</p>
+        <p>New Tape in Sniper Trial  In an audiotaped confession, Lee Malvo, the 18-year-old suspect in the Washington sniper killings, let go with giggles and belly laughs as he described the attacks.</p>
+        <p>PAGE A10</p>
+        <p>Pulitizer Prize Will Stand  The Pulitzer Prize board said it would not revoke a 1932 prize to Walter Duranty of The New York Times for discredited articles about the Soviet Union.</p>
+        <p>PAGE A13</p>
+        <p>The Mutant in the Pet Shop  A Texas company said that it would soon start selling what it called a ''miracle of science,'' a genetically engineered aquarium fish that glows in the dark.</p>
+        <p>PAGE A12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

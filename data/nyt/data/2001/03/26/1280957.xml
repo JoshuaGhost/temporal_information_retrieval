@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Look at Race in the States</title>
+    <meta content="26RAC" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1280957"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Census</classifier>
+        <org class="indexing_service">Census Bureau</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E6DE113CF935A15750C0A9679C8B63" item-length="476" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Look at Race in the States</hl1>
+      </hedline>
+      <abstract>
+        <p>Table of state population figures, by race and ethnicity, released by Census Bureau</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This month, the Census Bureau is releasing state population figures by race and ethnicity. Categories in 2000 are not directly comparable to those in 1990 because the 2000 questionnaire was the first to let people identify themselves with more than one race. Figures listed here were made public last week.</p>
+      </block>
+      <block class="full_text">
+        <p>This month, the Census Bureau is releasing state population figures by race and ethnicity. Categories in 2000 are not directly comparable to those in 1990 because the 2000 questionnaire was the first to let people identify themselves with more than one race. Figures listed here were made public last week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

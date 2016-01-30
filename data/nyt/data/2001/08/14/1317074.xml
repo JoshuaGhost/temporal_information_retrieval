@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brazil Ends Caps on Fares To Aid Its Domestic Airlines</title>
+    <meta content="14BRAZ" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/08/14/business/worldbusiness/14BRAZ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1317074"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <location class="indexing_service">Brazil</location>
+        <person class="indexing_service">Rich, Jennifer L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Brazil</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Brazil</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010814T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E3DB1E3FF937A2575BC0A9679C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brazil Ends Caps on Fares To Aid Its Domestic Airlines</hl1>
+        <hl2 class="online_headline">Brazil Ends Caps on Fares to Aid Its Domestic Airlines</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER L. RICH</byline>
+      <byline class="normalized_byline">Rich, Jennifer L</byline>
+      <dateline>S�O PAULO, Brazil, Aug. 13</dateline>
+      <abstract>
+        <p>Brazilian government, in bid to aid Brazil's money-losing, debt-ridden domestic airlines, removes ceilings on ticket prices for flights within Brazil; hopes move will also encourage new entries in domestic market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a bid to aid Brazil's money-losing, debt-ridden domestic airlines, the government has removed ceilings on ticket prices for flights within Brazil.</p>
+        <p>The move, sought by the airlines for years, allows them for the first time to adopt the widespread industry practice of charging last-minute travelers and those who fly at peak times higher fares, while offering discounts to those who book in advance or fly during off hours.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a bid to aid Brazil's debt-ridden domestic airlines, the government has removed ceilings on ticket prices for flights within Brazil</p>
+      </block>
+      <block class="full_text">
+        <p>In a bid to aid Brazil's money-losing, debt-ridden domestic airlines, the government has removed ceilings on ticket prices for flights within Brazil.</p>
+        <p>The move, sought by the airlines for years, allows them for the first time to adopt the widespread industry practice of charging last-minute travelers and those who fly at peak times higher fares, while offering discounts to those who book in advance or fly during off hours.</p>
+        <p>Under government price ceilings, the airlines said, they could not afford to offer discounts to fill empty seats because they could not charge full-fare customers enough to compensate.</p>
+        <p>As a result, though in-country tourism is growing, only about one Brazilian in five has ever flown; the rest ride for days on buses or drive to move around the country.</p>
+        <p>The government had been reluctant to remove fare ceilings for fear of price gouging by the airlines. But an experimental freeing of prices on 11 routes in April found that average fares remained at or below the former ceilings. The new policy, announced on Friday, took effect today.</p>
+        <p>Brazil does not regulate fares on international flights.</p>
+        <p>The government hopes the move will also encourage new entries in the domestic market. Industry experts point to the success of Gol, which began flying in January and models itself on low-cost regional carriers like Southwest Airlines in the United States. With deeply discounted tickets sold largely over the Internet, Gol is expected to capture 9 percent of the domestic market this year.</p>
+        <p>But the added competition has further eroded the finances of established carriers, which may force consolidation in the industry.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

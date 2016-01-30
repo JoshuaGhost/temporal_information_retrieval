@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TBS Executive Joins Whittle</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="351426"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">WHITTLE EDUCATIONAL NETWORK</org>
+        <person class="indexing_service">REYNOLDS, FARRELL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DB1F3FF93BA35756C0A966958260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TBS Executive Joins Whittle</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Farrell Reynolds, president of Turner Broadcasting Sales, is joining Whittle Communications as chairman and chief executive of its newly restructured Whittle Educational Network.</p>
+        <p>At the unit of the Turner</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Farrell Reynolds, president of Turner Broadcasting Sales, is joining Whittle Communications as chairman and chief executive of its newly restructured Whittle Educational Network.</p>
+        <p>At the unit of the Turner</p>
+        <p>Farrell Reynolds, president of Turner Broadcasting Sales, is joining Whittle Communications as chairman and chief executive of its newly restructured Whittle Educational Network.</p>
+        <p>At the unit of the Turner</p>
+        <p>Broadcasting System, Mr. Reynolds had overall responsibiity for advertising sales for all company networks including the superstation TBS, Turner Network Television, Cable News Network and Headline News.</p>
+        <p>At Whittle, based in Knoxville, Tenn., he will oversee a unit that has several advertising-based properties, including two television channels, a magazine and a sampling operation.</p>
+        <p>Christopher Whittle, chairman of Whittle Communications, said on Friday that the education network was expected to become one of the company's largest business units, with revenues of $125 million by 1991.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Washington Bond Rating Falls, Adding to City's Fiscal Woes</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="743684"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <classifier class="indexing_service" type="descriptor">RATINGS AND RATING SYSTEMS</classifier>
+        <location class="indexing_service">WASHINGTON (DC)</location>
+        <org class="indexing_service">MOODY'S INVESTORS SERVICE INC</org>
+        <org class="indexing_service">STANDARD &amp; POOR'S INC</org>
+        <person class="indexing_service">BARRY, MARION</person>
+        <person class="indexing_service">JANOFSKY, MICHAEL</person>
+        <person class="indexing_service">KELLY, SHARON PRATT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFDC153FF935A25751C0A963958260" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Washington Bond Rating Falls, Adding to City's Fiscal Woes</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL JANOFSKY,</byline>
+      <byline class="normalized_byline">JANOFSKY, MICHAEL</byline>
+      <dateline>WASHINGTON, Feb. 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Expressing serious doubt that city leaders can balance the municipal budget in the current fiscal year, Moody's Investors Service, a Wall Street credit rating firm, today lowered Washington's rating to junk bond status.</p>
+        <p>The decision by Moody's to drop the city's rating on about $1 billion in general obligation bonds to below investment-grade levels followed similar action on Tuesday by Standard &amp; Poor's Corporation, which lowered the District of Columbia's rating to one level above junk bond status.</p>
+      </block>
+      <block class="full_text">
+        <p>Expressing serious doubt that city leaders can balance the municipal budget in the current fiscal year, Moody's Investors Service, a Wall Street credit rating firm, today lowered Washington's rating to junk bond status.</p>
+        <p>The decision by Moody's to drop the city's rating on about $1 billion in general obligation bonds to below investment-grade levels followed similar action on Tuesday by Standard &amp; Poor's Corporation, which lowered the District of Columbia's rating to one level above junk bond status.</p>
+        <p>With Washington facing a projected budget deficit of $722 million and Congress poised to wrest more control of the city's finances, the rating changes have a double-barreled impact. The city will have to pay higher interest on future loans, and Mayor Marion S. Barry Jr. will have more trouble restructuring the city's current debt to save $70 million, as outlined in his deficit-reduction plan earlier this month.</p>
+        <p>Mr. Barry today declared himself helpless to fight the rating changes and, in his strongest language yet, blamed his predecessor, Sharon Pratt Kelly, for the crisis.</p>
+        <p>"I have been in office for one month and 14 days," he said at an afternoon news conference. "As you look at all these problems, please refer to the one who was in office when they occurred."</p>
+        <p>He chided Mrs. Kelly for failing to make deeper budget cuts or conduct yearly audits.</p>
+        <p>Mrs. Kelly, now a fellow at Harvard University, did not return a telephone message seeking comment. She has said that she managed the best she could, given the $300 million deficit she said she inherited from Mr. Barry, who had served as Mayor the previous 12 years before his imprisonment on a drug charge.</p>
+        <p>The rating changes increase the likelihood that city leaders will be forced to ask the Federal Government for help. Mr. Barry has said he wants to avoid that step, knowing that financial relief from Congress would reduce his autonomy.</p>
+        <p>With the lower ratings, Mr. Barry acknowledged that the city would have difficulty going back into the bond market, especially after city officials had to wage a strong campaign in December to secure $250 million in loans. That transaction is under investigation by the Securities and Exchange Commission because the deficit, described in the prospectus as $40 million for 1994, is now said to be $631 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

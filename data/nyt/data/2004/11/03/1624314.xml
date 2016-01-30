@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arts, Briefly; Winners, on Field and Tube</title>
+    <meta content="MB215926" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1624314"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">New York Jets</org>
+        <org class="indexing_service">Miami Dolphins</org>
+        <person class="indexing_service">Aurthur, Kate</person>
+        <object.title class="indexing_service">Monday Night Football (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Columns/Arts Briefly</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/New York Jets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Miami Dolphins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DF163CF930A35752C1A9629C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arts, Briefly; Winners, on Field and Tube</hl1>
+      </hedline>
+      <byline class="print_byline">By KATE AURTHUR; Compiled by Lawrence Van Gelder</byline>
+      <byline class="normalized_byline">Aurthur, Kate</byline>
+      <abstract>
+        <p>Arts, Briefly column; ABC's Monday Night Football game between Jets and Dolphins reportedly edges out other networks with 13.67 million viewers; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monday was a close night for the big three networks in total viewers. Though the rivalry between the Jets and the Dolphins has provided dramatic installments of ''Monday Night Football'' over the years, the 41-14 Jets victory, left, was not one of them. Despite the blowout, ABC edged out a victory in the ratings game for the night, with 13.67 million viewers tuning in to watch football, according to Nielsen's overnight numbers. The CBS lineup came in second over all, though it featured an evening of repeats. A repeat of the season premiere of ''CSI: Miami'' was the night's most-watched show, attracting an audience of 14.41 million at 10 p.m. But during that hour, NBC's special, ''Saturday Night Live Presidential Bash 2004: The Great Debates,'' was No. 1 with the 18-to-49 set, bringing in 13.06 million viewers. NBC was also strong earlier in the night with ''Fear Factor'': A total of 12.15 million people watched the gross-out competition.</p>
+        <p>KATE AURTHUR</p>
+      </block>
+      <block class="full_text">
+        <p>Monday was a close night for the big three networks in total viewers. Though the rivalry between the Jets and the Dolphins has provided dramatic installments of ''Monday Night Football'' over the years, the 41-14 Jets victory, left, was not one of them. Despite the blowout, ABC edged out a victory in the ratings game for the night, with 13.67 million viewers tuning in to watch football, according to Nielsen's overnight numbers. The CBS lineup came in second over all, though it featured an evening of repeats. A repeat of the season premiere of ''CSI: Miami'' was the night's most-watched show, attracting an audience of 14.41 million at 10 p.m. But during that hour, NBC's special, ''Saturday Night Live Presidential Bash 2004: The Great Debates,'' was No. 1 with the 18-to-49 set, bringing in 13.06 million viewers. NBC was also strong earlier in the night with ''Fear Factor'': A total of 12.15 million people watched the gross-out competition.</p>
+        <p>KATE AURTHUR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

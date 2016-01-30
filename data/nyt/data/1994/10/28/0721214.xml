@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>N.B.A. Truce Snaps Fans' Losing Streak</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="721214"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <org class="indexing_service">NATIONAL BASKETBALL ASSN (NBA)</org>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DB133FF93BA15753C1A962958260" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>N.B.A. Truce Snaps Fans' Losing Streak</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eight days before the regular season is scheduled to open, the National Basketball Association and its players' union averted the kind of labor strife that has shut down baseball for the last 11 weeks and hockey for the last four.</p>
+        <p>Under the condition that the league would not lock out players and the union would not strike, both sides agreed to play the season to completion while trying to reach a new collective bargaining agreement.</p>
+      </block>
+      <block class="full_text">
+        <p>Eight days before the regular season is scheduled to open, the National Basketball Association and its players' union averted the kind of labor strife that has shut down baseball for the last 11 weeks and hockey for the last four.</p>
+        <p>Under the condition that the league would not lock out players and the union would not strike, both sides agreed to play the season to completion while trying to reach a new collective bargaining agreement.</p>
+        <p>The sides remain far apart on several issues, however, primarily a salary cap.</p>
+        <p>Article, page B7.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Outbreak of Deadly Ebola Virus Is Feared in Congo Republic</title>
+    <meta content="14CONG$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/05/14/health/14congo.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1672226"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Angola</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Congo, The Democratic Republic of</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ebola Virus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Viruses</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Angola</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Congo, The Democratic Republic of the</classifier>
+        <classifier class="online_producer" type="descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Congo</location>
+        <location class="online_producer">Angola</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E6DF1E30F937A25756C0A9639C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Outbreak of Deadly Ebola Virus Is Feared in Congo Republic</hl1>
+        <hl2 class="online_headline">New Outbreak of Deadly Ebola Virus Is Feared in Congo Republic</hl2>
+      </hedline>
+      <byline class="print_byline">By SHARON LaFRANIERE</byline>
+      <dateline>JOHANNESBURG, May 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nine people have died in the Congo Republic since late April from what appears to be an outbreak of the Ebola virus, the second episode of a deadly hemorrhagic fever to strike the region this year, a spokesman for the World Health Organization said Friday.</p>
+        <p>The latest outbreak is taking place as the Congo Republic's southern neighbor, Angola, battles an epidemic of Marburg virus, a hemorrhagic fever closely related to Ebola. So far, 280 people have died in that epidemic, which has yet to be contained eight weeks after the virus was first identified.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest outbreak is taking place as the Congo Republic's southern neighbor, Angola, battles an epidemic of Marburg virus.</p>
+      </block>
+      <block class="full_text">
+        <p>Nine people have died in the Congo Republic since late April from what appears to be an outbreak of the Ebola virus, the second episode of a deadly hemorrhagic fever to strike the region this year, a spokesman for the World Health Organization said Friday.</p>
+        <p>The latest outbreak is taking place as the Congo Republic's southern neighbor, Angola, battles an epidemic of Marburg virus, a hemorrhagic fever closely related to Ebola. So far, 280 people have died in that epidemic, which has yet to be contained eight weeks after the virus was first identified.</p>
+        <p>Health officials in two Congolese cities already have mobilized to battle the suspected outbreak of Ebola, which has repeatedly surfaced in central Africa in the past five years. Epidemiologists are tracking 52 people who had contact with those who died, the officials said.</p>
+        <p>''We don't have lab confirmation yet,'' Dick Thompson, the medical officer for the World Health Organization, said Friday in a telephone interview from Geneva. ''But it has all the features of an Ebola outbreak.''</p>
+        <p>Ebola and Marburg are considered to be two of the world's deadliest viral diseases. Victims suffer high fevers, diarrhea, vomiting and often severe internal bleeding that can lead to a catastrophic drop in blood pressure. While both diseases can be treated, about 50 to 90 percent of the victims in Africa die.</p>
+        <p>Unlike officials in Angola, who allowed the Marburg outbreak to rage for weeks and possibly months, health authorities in the Congo Republic have moved rapidly to investigate and curb the disease. Mr. Thompson said the quick response suggested that the nation's health authorities were learning how to deal with such episodes on their own.</p>
+        <p>The deaths occurred between April 27 and May 11 in Etoumbi and in Mbomo, a town 440 miles north of the capital, Brazzaville, and the site of a previous Ebola outbreak in late 2003. Mr. Thompson said the first victims were hunters who probably had come in contact with dead monkeys in the bush.</p>
+        <p>The Marburg epidemic in Angola has proved particularly hard to contain.</p>
+        <p>Typically, international medical experts who had spent eight weeks battling an epidemic of hemorrhagic fever would be preparing to leave the remaining work in the hands of local and national authorities, according to Mr. Thompson.</p>
+        <p>But the World Health Organization has no plans yet to withdraw its team of more than 20 people from Uíge, the northern Angola province that is the center of the outbreak.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

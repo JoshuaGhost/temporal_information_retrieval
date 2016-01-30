@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bank of Boston Corp.  reports earnings for Qtr to Dec 31</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="663344"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE2DB1639F932A15752C0A962958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bank of Boston Corp.  reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Bank of Boston Corp.  (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Net inc</p>
+        <p>102,500,000</p>
+        <p>c79,500,000</p>
+        <p>Per share</p>
+        <p>.88</p>
+        <p>.68</p>
+        <p>Shares outst</p>
+        <p>105,644,000</p>
+        <p>104,548,000</p>
+        <p>Yr net inc</p>
+        <p>b299,000,000</p>
+        <p>c278,900,000</p>
+        <p>Per share</p>
+        <p>2.51</p>
+        <p>2.54</p>
+        <p>Shares outst</p>
+        <p>105,336,000</p>
+        <p>101,977,000</p>
+        <p>b-Included a gain of $ 24,200,000, or 23 cents a share, from an accounting adjustment. c-Included an extraordinary tax benefit of $ 17,300,000, or 16 cents a share, in the quarter and $ 73,000,000, or 72 cents a share, in the year. Fiscal 1993's income from continuing operations of $ 274,800,000, or $ 2.28 a share, included $ 85 million restructuring charge.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

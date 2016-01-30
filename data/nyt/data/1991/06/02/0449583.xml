@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Give Us a Break, Ms. Paglia</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="449583"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CULTURE</classifier>
+        <person class="indexing_service">KELLMAN, STEVEN G</person>
+        <person class="indexing_service">PAGLIA, CAMILLE</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DB1E39F931A35755C0A967958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Give Us a Break, Ms. Paglia</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Camille Paglia's rhapsodic diatribe against Francophilic dullards embodies the personality of the American popular culture she praises as "rude, vital, brassy." Yet for all the vitally brassy rudeness of dismissing Foucault as "an absolute ninny" and university leftists as "strutting wannabes, timorous nerds," Ms. Paglia calls for a return to "the old German style -- sober, practical, precise, lucid and learned." The fact that her own prose is nothing of the kind is nowhere more evident than in her adulation of Elvis Presley, who any sober analysis would concede was a sottish and ignorant boor.  STEVEN G. KELLMAN  San Antonio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Camille Paglia's rhapsodic diatribe against Francophilic dullards embodies the personality of the American popular culture she praises as "rude, vital, brassy." Yet for all the vitally brassy rudeness of dismissing Foucault as "an absolute ninny" and university leftists as "strutting wannabes, timorous nerds," Ms. Paglia calls for a return to "the old German style -- sober, practical, precise, lucid and learned." The fact that her own prose is nothing of the kind is nowhere more evident than in her adulation of Elvis Presley, who any sober analysis would concede was a sottish and ignorant boor.  STEVEN G. KELLMAN  San Antonio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

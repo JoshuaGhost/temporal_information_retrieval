@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soviet Grain Imports Off</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418778"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GRAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS (USSR)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DC103DF93AA15752C0A967958260" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soviet Grain Imports Off</hl1>
+      </hedline>
+      <byline class="print_byline">REUTERS</byline>
+      <dateline>MOSCOW, Jan. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Soviet Union imported 32 million metric tons of grains in 1990, 5 million tons less than in 1989, according to official figures quoted last week by the Tass press agency. After processing, the 1990 Soviet grain harvest totaled 218 million tons, just short of the 1978 record of 222.5 million tons. The gross harvest was 240 million tons, compared with 211 million in 1989.</p>
+      </block>
+      <block class="full_text">
+        <p>The Soviet Union imported 32 million metric tons of grains in 1990, 5 million tons less than in 1989, according to official figures quoted last week by the Tass press agency. After processing, the 1990 Soviet grain harvest totaled 218 million tons, just short of the 1978 record of 222.5 million tons. The gross harvest was 240 million tons, compared with 211 million in 1989.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

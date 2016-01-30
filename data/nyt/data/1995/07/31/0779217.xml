@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trimas Corp.(TMS,N) reports earnings for 2d qtr to Jun 30</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="779217"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950731T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2D6113AF932A05754C0A963958260" item-length="39" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trimas Corp.(TMS,N) reports earnings for 2d qtr to Jun 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Trimas Corp.(TMS,N)</p>
+        <p>2d qtr to Jun 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Sales</p>
+        <p>151,920,000</p>
+        <p>146,940,000</p>
+        <p>Net inc</p>
+        <p>16,560,000</p>
+        <p>14,940,000</p>
+        <p>Share earns</p>
+        <p>.45</p>
+        <p>.40</p>
+        <p>Shares outst</p>
+        <p>37,001,000</p>
+        <p>37,038,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

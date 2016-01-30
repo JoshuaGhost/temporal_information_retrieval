@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Request Is Denied</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="324001"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE: PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <org class="indexing_service">NATIONAL FOOTBALL LEAGUE (NFL)</org>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D71730F935A35751C0A966958260" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Request Is Denied</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A National Football League request for an injunction prohibiting individual players from filing lawsuits against the league's free-agency restrictions was denied yesterday by United States District Court Judge David S. Doty, sitting in Minneapolis.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A National Football League request for an injunction prohibiting individual players from filing lawsuits against the league's free-agency restrictions was denied yesterday by United States District Court Judge David S. Doty, sitting in Minneapolis.</p>
+        <p>A National Football League request for an injunction prohibiting individual players from filing lawsuits against the league's free-agency restrictions was denied yesterday by United States District Court Judge David S. Doty, sitting in Minneapolis.</p>
+        <p>Doty also formally dismissed requests by the players' association to end the N.F.L.'s first-refusal compensation system, the college draft and player contracts. He also threw out union claims of damages resulting from the first-refusal compensation system. (AP)  SPORTS PEOPLE: PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Inquires Into Report of Faulty Chryslers</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="417392"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">CONSUMER PROTECTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <org class="indexing_service">NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION</org>
+        <org class="indexing_service">CHRYSLER CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Motoring</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D71639F937A15752C0A967958260" item-length="420" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Inquires Into Report of Faulty Chryslers</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, Jan. 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Government is investigating reports of transmission problems in Chrysler front-wheel-drive vehicles a decade after halting a similar inquiry into Ford automobiles over the protests of consumer advocates.</p>
+        <p>The National Highway Traffic Safety Administration said Tuesday that its inquiry would cover 4.4 million Chrysler vehicles manufactured from 1981 to 1990. They range from compacts to full-size cars and include the popular minivans.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Government is investigating reports of transmission problems in Chrysler front-wheel-drive vehicles a decade after halting a similar inquiry into Ford automobiles over the protests of consumer advocates.</p>
+        <p>The National Highway Traffic Safety Administration said Tuesday that its inquiry would cover 4.4 million Chrysler vehicles manufactured from 1981 to 1990. They range from compacts to full-size cars and include the popular minivans.</p>
+        <p>The agency said it has received 269 complaints, all pertaining to vehicles with front-wheel drive, automatictransmission and a gear shift mounted on the steering column.</p>
+        <p>Owners reported the transmission slips from the "park" position to "reverse" and sometimes to "drive" and begins to roll. They have blamed the problem for 4 deaths and 92 injuries, said an agency spokesman, Tim Hurd.</p>
+        <p>A consumer advocacy group, the Center for Auto Safety, asked for the Government investigation last July.</p>
+        <p>"We're pleased they are looking into this and we hope it will lead to a recall, which will reduce the deaths and injuries associated with the problem," said Clarence Ditlow, the center's executive director. He said the group hadreports of seven deaths attributed to the transmission slippage.</p>
+        <p>A spokesman for the Chrysler Corporation, Tom Jakobowski, said: "We're confident we don't have a problem. We're cooperating as best we can with the agency."</p>
+        <p>The agency is conducting an engineering analysis, in which the possibly defective parts are examined. If the investigation produces evidence of a widespread problem, a recall could be ordered.</p>
+        <p>Reports of similar transmission problems in automobiles manufactured by the Ford Motor Company prompted a government investigationin the 1970's. The safety agency and Ford reached an agreement under which no recall was ordered, but owners were mailed dashboard stickers warning them not to leave the cars unattended while running and in "park."</p>
+        <p>The center filed a lawsuit in 1985 to get the investigation reopened, saying the problem was continuing to cause deaths and injuries. A Federal judge rejected the suit.</p>
+        <p>The safety agency also said that it had stepped up an investigation of seat belt problems in the 1990 Ford Taurus. The inquiry began as a preliminary evaluation, involving mostly paperwork, and has been reclassified as an engineering analysis. There have been 19 complaints that the seat belt buckles will not release once locked, Mr. Hurd said. An estimated 308,650 of the vehicles are on the road.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

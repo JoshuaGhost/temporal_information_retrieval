@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SCHULTHESS, ERNEST W.</title>
+    <meta content="DN120304" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1631864"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">SCHULTHESS, ERNEST W.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7DA1631F930A35751C1A9629C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SCHULTHESS, ERNEST W.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHULTHESS--Ernest W., of Bronxville, on December 1, 2004. Father of Liane Douglas and Lynne Schulthess. Grandfather of two. Beloved long time partner of Ida Duarte. Memorial service at the Fred H. McGrath &amp; Son, Inc., Funeral Home, Bronxville on Sunday December 5, at 3PM. In lieu of flowers please make contributions to the charity of your choice.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHULTHESS--Ernest W., of Bronxville, on December 1, 2004. Father of Liane Douglas and Lynne Schulthess. Grandfather of two. Beloved long time partner of Ida Duarte. Memorial service at the Fred H. McGrath &amp; Son, Inc., Funeral Home, Bronxville on Sunday December 5, at 3PM. In lieu of flowers please make contributions to the charity of your choice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

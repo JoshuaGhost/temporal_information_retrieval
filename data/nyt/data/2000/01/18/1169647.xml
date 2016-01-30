@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  REESE, WILLIAM WILLIS</title>
+    <meta content="DN011800" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1169647"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">REESE, WILLIAM WILLIS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1DE163DF93BA25752C0A9669C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  REESE, WILLIAM WILLIS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REESE-William Willis. The New York Society of the Second War with Great Britain (1812) records its profound sorrow at the untimely passing of our dear friend, longtime member and Treasurer, and sends its deepest sympathy to his beloved wife, Sonia, his mother, and the entire family. A Memorial Service will be held tomorrow, Wednesday, January 19, at 4:00 PM, at St. Bartholomew's Church, Park Ave. and 50th St. Thomas E. Bird, President John Mauk Hilliard, Secretary/Registrar</p>
+      </block>
+      <block class="full_text">
+        <p>REESE-William Willis. The New York Society of the Second War with Great Britain (1812) records its profound sorrow at the untimely passing of our dear friend, longtime member and Treasurer, and sends its deepest sympathy to his beloved wife, Sonia, his mother, and the entire family. A Memorial Service will be held tomorrow, Wednesday, January 19, at 4:00 PM, at St. Bartholomew's Church, Park Ave. and 50th St. Thomas E. Bird, President John Mauk Hilliard, Secretary/Registrar</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

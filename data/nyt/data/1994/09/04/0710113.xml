@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leslie Lucchina, Thomas MacGillivray</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="710113"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">LUCCHINA, LESLIE CAROLINE (LESLIE CAROLINE MACGILLIVRAY)</person>
+        <person class="indexing_service">MACGILLIVRAY, THOMAS EDWARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D71438F937A3575AC0A962958260" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leslie Lucchina, Thomas MacGillivray</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Leslie Caroline Lucchina, a resident in dermatology at Massachusetts General Hospital in Boston, is to be married today to Dr. Thomas Edward MacGillivray, a resident in general surgery at the hospital. The Rev. Gerard L. Dorgan is to perform the Roman Catholic ceremony at St. Mary of the Annunciation Church in Danvers, Mass.</p>
+        <p>The bride, 31, graduated cum laude from the University of Vermont, where she was elected to Phi Beta Kappa and from which she received her medical degree. She is a daughter of Claire P. Lucchina of Barre, Vt. and the late Dr. George G. Lucchina. Her father, an internist, was a United States Navy flight surgeon assigned to the Mercury program at NASA. Her mother is a registered nurse in the Orange County school district in Vermont.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Leslie Caroline Lucchina, a resident in dermatology at Massachusetts General Hospital in Boston, is to be married today to Dr. Thomas Edward MacGillivray, a resident in general surgery at the hospital. The Rev. Gerard L. Dorgan is to perform the Roman Catholic ceremony at St. Mary of the Annunciation Church in Danvers, Mass.</p>
+        <p>The bride, 31, graduated cum laude from the University of Vermont, where she was elected to Phi Beta Kappa and from which she received her medical degree. She is a daughter of Claire P. Lucchina of Barre, Vt. and the late Dr. George G. Lucchina. Her father, an internist, was a United States Navy flight surgeon assigned to the Mercury program at NASA. Her mother is a registered nurse in the Orange County school district in Vermont.</p>
+        <p>The bridegroom, 33, graduated cum laude from Tufts University, from which he also received his medical degree. He is a son of Dr. and Mrs. Dougald C. MacGillivray of Danvers. His father is the associate chief surgeon at North Shore Medical Center-Salem Hospital in Salem, Mass.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

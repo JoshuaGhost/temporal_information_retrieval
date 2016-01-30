@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MICHALOS, DAPHNE</title>
+    <meta content="DN091697" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="957981"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <person class="indexing_service">MICHALOS, DAPHNE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2D61638F935A2575AC0A961958260" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MICHALOS, DAPHNE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MICHALOS-Daphne. Age 68. On September 15. Beloved mother of Renie Karidas, Dr. Peter Michalos, M.D., and George Michalos. Beloved wife of Argirios. Beloved sister of Penelope, Joanne and Lambrini. Grandmother of Dimos, Daphne, Irene, Arie and Peter. You were the best, loving and compassionate mother in the world. Your example will live in our hearts forever. For information on service, call Dahill Funeral Home: 718-336-2900.</p>
+      </block>
+      <block class="full_text">
+        <p>MICHALOS-Daphne. Age 68. On September 15. Beloved mother of Renie Karidas, Dr. Peter Michalos, M.D., and George Michalos. Beloved wife of Argirios. Beloved sister of Penelope, Joanne and Lambrini. Grandmother of Dimos, Daphne, Irene, Arie and Peter. You were the best, loving and compassionate mother in the world. Your example will live in our hearts forever. For information on service, call Dahill Funeral Home: 718-336-2900.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

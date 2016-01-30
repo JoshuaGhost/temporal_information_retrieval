@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Credit Where Credit Is Due</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="658258"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="WORLD'S FAIRS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EXPOSITIONS AND FAIRS</classifier>
+        <classifier class="indexing_service" type="descriptor">WORLD'S FAIRS</classifier>
+        <classifier class="indexing_service" type="descriptor">EXPOSITIONS AND FAIRS</classifier>
+        <classifier class="indexing_service" type="descriptor">WORLD'S FAIRS</classifier>
+        <person class="indexing_service">LOWE, DAVID GARRARD</person>
+        <person class="indexing_service">GOLDBERG, VICKI</person>
+        <person class="indexing_service">LOWE, DAVID GARRARD</person>
+        <person class="indexing_service">GOLDBERG, VICKI</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4D9173CF935A15751C1A965958260" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Credit Where Credit Is Due</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her essay "Meet Me in St. Louis, and Paris, London, Chicago . . ."  [ Dec. 12 ] , Vicki Goldberg reviewed at some length the current photography exhibition at the Gallery of the New York School of Interior Design, "The Great Age of Fairs." She failed to mention, though, that the show was curated by me, with the assistance of Sally Forbes, assistant director of the gallery. DAVID GARRARD LOWE  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her essay "Meet Me in St. Louis, and Paris, London, Chicago . . ."  [ Dec. 12 ] , Vicki Goldberg reviewed at some length the current photography exhibition at the Gallery of the New York School of Interior Design, "The Great Age of Fairs." She failed to mention, though, that the show was curated by me, with the assistance of Sally Forbes, assistant director of the gallery. DAVID GARRARD LOWE  New York  WORLD'S FAIRS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

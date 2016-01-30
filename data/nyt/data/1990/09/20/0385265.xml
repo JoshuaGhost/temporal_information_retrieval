@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thomas Raleigh, 63, A Senior Executive At Price Waterhouse</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="385265"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">RALEIGH, THOMAS L JR</person>
+        <person class="indexing_service">FOWLER, GLENN</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DD153DF933A1575AC0A966958260" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thomas Raleigh, 63, A Senior Executive At Price Waterhouse</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN FOWLER</byline>
+      <byline class="normalized_byline">FOWLER, GLENN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Thomas L. Raleigh Jr., a former co-chairman of operations and deputy senior partner of Price Waterhouse-U.S., died Sunday at the New England Medical Center in Boston. He was 63 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Thomas L. Raleigh Jr., a former co-chairman of operations and deputy senior partner of Price Waterhouse-U.S., died Sunday at the New England Medical Center in Boston. He was 63 years old.</p>
+        <p>Thomas L. Raleigh Jr., a former co-chairman of operations and deputy senior partner of Price Waterhouse-U.S., died Sunday at the New England Medical Center in Boston. He was 63 years old.</p>
+        <p>A spokesman for the accounting company said he died after a stroke.</p>
+        <p>Mr. Raleigh, a longtime resident of Boston, moved to Jaffrey, N.H., when he retired in 1988.</p>
+        <p>He joined Price Waterhouse in 1953 and was admitted to the partnership in 1962. A decade later he was put in charge of the company's Boston office, and he moved up to head its Northeast region in 1981. He became co-chairman and deputy senior partner in 1986.</p>
+        <p>He was captain of the basketball and tennis teams at Princeton University in the 1949-50 season. He won several New England men's singles and doubles championships in tennis and was ranked among the region's top five players over the age of 35 and then over 45.</p>
+        <p>Mr. Raleigh, who was born in Syracuse and graduated from Phillips Andover Academy, received a bachelor's degree from Princeton and a master's degree in business administration from Syracuse University. He served in the Navy at the end of World War II.</p>
+        <p>He is survived by his wife, the former Ann McChesney; two sons, Thomas Raleigh 3d of Orlando, Fla., and John Raleigh of Manhattan; two daughters, Katherine Thigpen of Lula, Ga., and Nancy Van Siclen of Moraga, Calif., and five grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

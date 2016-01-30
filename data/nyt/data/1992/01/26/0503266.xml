@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'A Chinese Odyssey'</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="503266"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">TUNG, TIMOTHY</person>
+        <person class="indexing_service">SHAPIRO, JUDITH</person>
+        <person class="indexing_service">THURSTON, ANNE F</person>
+        <object.title class="indexing_service">CHINESE ODYSSEY, A (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDD123BF935A15752C0A964958260" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'A Chinese Odyssey'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>If Judith Shapiro gets the impression that Ni Yuxian is "a thoroughly unpalatable character -- abrasive, unfaithful, opportunistic and arrogant, a man who even as a dissident disappoints us," she is not too far off the mark. In the eyes of most Chinese intellectuals in America, Mr. Ni is but a self-promoting, opportunistic individual who became someone only because Liu Binyan made him a hero in his essay "A Second Kind of Loyalty."</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>If Judith Shapiro gets the impression that Ni Yuxian is "a thoroughly unpalatable character -- abrasive, unfaithful, opportunistic and arrogant, a man who even as a dissident disappoints us," she is not too far off the mark. In the eyes of most Chinese intellectuals in America, Mr. Ni is but a self-promoting, opportunistic individual who became someone only because Liu Binyan made him a hero in his essay "A Second Kind of Loyalty."</p>
+        <p>Shortly after the Tiananmen tragedy in the summer of 1989, Mr. Ni started his own one-man organization called the Committee for the Promotion of Democracy in China. He placed a half-page advertisement in Chinese newspapers in New York, appealing for contributions and affixing the names of a dozen well-known Chinese-American professors and writers alongside his own as his "co-sponsors" before their consent was given. Armed with this ad, he even traveled to Hong Kong to solicit money. Later, when some contributors became suspicious and demanded an account, he hedged. The unwitting dozen (this writer included) had to issue a statement to Chinese newspapers to disclaim their support of Mr. Ni.</p>
+        <p>The world is full of wayward dissidents. Individuals such as Ni Yuxian need to be exposed, but one wonders why Anne F. Thurston found it necessary to write an entire volume about such an insignificant person.  TIMOTHY TUNG New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

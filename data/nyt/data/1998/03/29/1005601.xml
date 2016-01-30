@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business Class As a Way of Life</title>
+    <meta content="LTR121909" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1005601"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">hughson, dean</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980329T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7D81038F93AA15750C0A96E958260" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business Class As a Way of Life</hl1>
+      </hedline>
+      <abstract>
+        <p>Dean Hughson letter on Mar 8 New York Times Magazine issue on frequent business travelers; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A lot of my fellow road warriors join me in saying thank you for noticing the life style of some of us (''Business Class as a Way of Life,'' A Special Issue, March 8). It is a difficult life style, but one that is getting easier with E-mail and cellular phones that can follow you. In the early 80's, when businessmen like myself would go into mainland China or Russia or even Mexico, it was as if we were going into outer space. No one could find us. I knew that a new era had begun the day I was driving in a rural area in the state of Jalisco, Mexico, and my cellular phone rang. It was a friend in Europe calling from his cellular phone and it sounded as if he were next door.</p>
+      </block>
+      <block class="full_text">
+        <p>A lot of my fellow road warriors join me in saying thank you for noticing the life style of some of us (''Business Class as a Way of Life,'' A Special Issue, March 8). It is a difficult life style, but one that is getting easier with E-mail and cellular phones that can follow you. In the early 80's, when businessmen like myself would go into mainland China or Russia or even Mexico, it was as if we were going into outer space. No one could find us. I knew that a new era had begun the day I was driving in a rural area in the state of Jalisco, Mexico, and my cellular phone rang. It was a friend in Europe calling from his cellular phone and it sounded as if he were next door.</p>
+        <p>The untold story, though, of people on the road is the loss of marriages, the loneliness and the feeling of being virtual that comes when E-mail is your only connection to family and friends. Thank you for this great issue that lets others into our world.</p>
+        <p>Dean Hughson  Las Vegas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB015757" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1629501"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising and Marketing</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE7DE173EF930A15752C1A9629C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Roundup of recent advertising account changes (S)�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jamaica Tourist Board, Kingston, decided after a required review to keep Foote Cone &amp; Belding, New York, part of the Interpublic Group of Companies, as agency of record on its account for another three years. Billings were estimated at $15 million.</p>
+        <p>Yahoo, Sunnydale, Calif., to OgilvyOne, New York, part of the Ogilvy &amp; Mather Worldwide division of the WPP Group, to handle the interactive part of its account. Spending has not been determined.</p>
+      </block>
+      <block class="full_text">
+        <p>Jamaica Tourist Board, Kingston, decided after a required review to keep Foote Cone &amp; Belding, New York, part of the Interpublic Group of Companies, as agency of record on its account for another three years. Billings were estimated at $15 million.</p>
+        <p>Yahoo, Sunnydale, Calif., to OgilvyOne, New York, part of the Ogilvy &amp; Mather Worldwide division of the WPP Group, to handle the interactive part of its account. Spending has not been determined.</p>
+        <p>Beazer Homes, Atlanta, a home builder, to Fitzgerald &amp; Company, Atlanta, part of the Interpublic Group of Companies, as agency of record. Spending was estimated at $10 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

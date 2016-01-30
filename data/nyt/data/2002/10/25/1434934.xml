@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rangers Prospect Returns to Russia</title>
+    <meta content="MB022217" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/10/25/sports/hockey/25PLUS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1434934"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="N.H.L.: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <location class="indexing_service">Russia</location>
+        <org class="indexing_service">New York Rangers</org>
+        <person class="indexing_service">Diamos, Jason</person>
+        <person class="indexing_service">Tjutin, Fedor</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DE113CF936A15753C1A9649C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rangers Prospect Returns to Russia</hl1>
+        <hl2 class="online_headline">Rangers Prospect Returns to Russia</hl2>
+      </hedline>
+      <byline class="print_byline">By Jason Diamos</byline>
+      <byline class="normalized_byline">Diamos, Jason</byline>
+      <abstract>
+        <p>New York Rangers prospect Fedor Tjutin returns to team in Russia to play remainder of Russian League season (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fedor Tjutin, a 19-year-old defenseman regarded as the top prospect in the Rangers' organization, returned to his team in St. Petersburg, Russia, earlier this week so he could play the remainder of the Russian League season.</p>
+        <p>The Rangers would have preferred to have Tjutin play with their top minor league affiliate in Hartford. Tjutin separated a shoulder in a minor league exhibition game and missed the Wolf Pack's first four games.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Fedor Tjutin, a 19-year-old defenseman regarded as the top prospect in the Rangers' organization, has returned to his team in St. Petersburg.</p>
+      </block>
+      <block class="full_text">
+        <p>Fedor Tjutin, a 19-year-old defenseman regarded as the top prospect in the Rangers' organization, returned to his team in St. Petersburg, Russia, earlier this week so he could play the remainder of the Russian League season.</p>
+        <p>The Rangers would have preferred to have Tjutin play with their top minor league affiliate in Hartford. Tjutin separated a shoulder in a minor league exhibition game and missed the Wolf Pack's first four games.</p>
+        <p>''But because he was not a first-round pick, and he is 18 or 19, he must be offered back to his European club before he can be sent to the minor leagues,'' Don Maloney, the Rangers' assistant general manager, said of Tjutin, the Rangers' second-round pick in the 2001 entry draft. ''If they didn't want him, we could have sent him anywhere.''</p>
+        <p>Maloney said that Tjutin, who is eligible to play in the world junior championships this winter, could be recalled by the Rangers anytime before the March 11 trading deadline. ''This is just a temporary setback,'' he said.</p>
+        <p>Jason Diamos</p>
+        <p>N.H.L.: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

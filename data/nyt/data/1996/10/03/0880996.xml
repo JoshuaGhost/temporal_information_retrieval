@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gore to Explain V-Chip</title>
+    <meta content="NJ235216" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="NEW JERSEY DAILY BRIEFING" name="column_name"/>
+    <docdata>
+      <doc-id id-string="880996"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex</classifier>
+        <classifier class="indexing_service" type="descriptor">Violence</classifier>
+        <person class="indexing_service">Pristin, Terry</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E3D6143FF930A35753C1A960958260" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gore to Explain V-Chip</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>GARFIELD</dateline>
+      <abstract>
+        <p>Vice President Al Gore will explain V-chip and its effect on television to children and their parents during campaign stop in Garfield, NJ (New Jersey Daily Briefing) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Clinton Administration's technology buff, Vice President Al Gore, will explain the V-chip and its effect on television to children and their parents during a campaign stop today at the Garfield Free Library, a spokeswoman said.</p>
+      </block>
+      <block class="full_text">
+        <p>The Clinton Administration's technology buff, Vice President Al Gore, will explain the V-chip and its effect on television to children and their parents during a campaign stop today at the Garfield Free Library, a spokeswoman said.</p>
+        <p>Elsewhere on the campaign trail, former President George M. Bush and his wife, Barbara, attended a fund-raiser yesterday in Cresskill for Representative Richard A. Zimmer, who is running for the Senate.</p>
+        <p>TERRY PRISTIN</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

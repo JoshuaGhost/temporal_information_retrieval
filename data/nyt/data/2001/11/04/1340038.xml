@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Winning Wine List</title>
+    <meta content="04VINE$03" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1340038"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="LONG ISLAND VINES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <org class="indexing_service">American Hotel (Sag Harbor, Ny)</org>
+        <org class="indexing_service">Wine Spectator</org>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E1DD1330F937A35752C1A9679C8B63" item-length="402" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Winning Wine List</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard Goldberg column on American Hotel in Sag Harbor, Long Island, which Wine Spectator has cited for 20th consecutive year as one of small number of winners of Grand Award for wine lists (Long Island Vines column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the 20th straight year, the wine list at the American Hotel in Sag Harbor has been cited by Wine Spectator as one of the world's great wine lists.</p>
+        <p>During the Spectator's 25th anniversary celebration last Sunday, Harvey Steiman, the editor at large, identified the hotel as one of only a small number of winners of its Grand Award for wine lists.</p>
+      </block>
+      <block class="full_text">
+        <p>For the 20th straight year, the wine list at the American Hotel in Sag Harbor has been cited by Wine Spectator as one of the world's great wine lists.</p>
+        <p>During the Spectator's 25th anniversary celebration last Sunday, Harvey Steiman, the editor at large, identified the hotel as one of only a small number of winners of its Grand Award for wine lists.</p>
+        <p>He spoke at a banquet that concluded the 20th annual Wine Experience, sponsored by the Wine Spectator Scholarship Foundation. The Experience consisted of three days of tastings and seminars, attended by 5,000, at the Marriott Marquis Hotel in Manhattan.</p>
+        <p>Since 1981, Wine Spectator has handed out 2,753 awards for restaurant lists. Of these, 2,289 have been its basic Award of Excellence; 373, its midlevel Best of Award of Excellence; and 91, its Grand Award.</p>
+        <p>The American Hotel has won the Grand Award every time. Only Sparks Steak House in Manhattan, among a total of nine winners in New York State, has held the award equally long.</p>
+        <p>Generally, restaurants winning the Grand Award offer more than 1,250 selections, ''backed by cellars holding many times that in reserve,'' Wine Spectator said. The list must contain ''wine from top producers in great vintages.''</p>
+        <p>Wine Spectator said the American Hotel offered 1,600 wine selections and 30,000 bottles in its cellar.</p>
+        <p>The American Hotel's owner, Ted Conklin, was called to the platform along with representatives of the other winners, which included such restaurants as La Tour d'Argent and Taillevent in Paris, Alain Ducasse's Louis XV in Monte Carlo, Le Cirque 2000 in Manhattan and Charlie Trotter's in Chicago.</p>
+        <p>The American Hotel, the program said, has the ''best stocked wine cellar on Long Island.'' It added: The ''extensive wine list is especially strong on France. . . . Alternatives range from Napa Valley to New Zealand, with surprise stopovers in Lebanon and Corsica. The fast-developing Long Island wine industry is also well represented.''</p>
+        <p>Marvin R. Shanken is the editor and publisher of Wine Spectator, which together with its sister publication Hamptons Country sponsored this year's Long Island barrel tasting, at Martha Clara.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>LONG ISLAND VINES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

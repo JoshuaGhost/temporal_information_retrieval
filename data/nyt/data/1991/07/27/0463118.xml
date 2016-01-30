@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Music in Review</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="463118"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <org class="indexing_service">MOSTLY MOZART FESTIVAL ORCHESTRA</org>
+        <person class="indexing_service">HOLLAND, BERNARD</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDB143FF934A15754C0A967958260" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Music in Review</hl1>
+      </hedline>
+      <byline class="print_byline">BY BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">HOLLAND, BERNARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mostly Mozart Festival Orchestra  Avery Fisher Hall</p>
+      </block>
+      <block class="full_text">
+        <p>Mostly Mozart Festival Orchestra  Avery Fisher Hall</p>
+        <p>In more sullen moments, orchestra musicians like to dispute the influence of those who direct them, often citing the mythical conductor's score that reads: "Wave your arms until the music stops. Then turn around and bow." Yet Thursday's visit by Armin Jordan with the Mostly Mozart Festival Orchestra offered one more tangible piece of evidence that a persuasive leader can not only give music an idiosyncratic shape but on short notice can give a talented ensemble a distinctive sound as well.</p>
+        <p>In this evening of Haydn and Mozart, the Mostly Mozart players, both in timbre and depth, bore a remarkable likeness to Mr. Jordan's Orchestre de la Suisse Romande in their recent visit to Carnegie Hall. Even in the martial sonorities of Mozart's C major Piano Concerto (K. 503), there was a broadness to the wind choirs, and in the strings a weight of sonority that still seemed to float on cushions of air.</p>
+        <p>The impression is all the more noteworthy considering it was made in music that, until the "Haffner" Symphony at the end, made much more of sharp brilliance than it did of anything else. Haydn's Symphony No. 24 is full of hard-bitten energy and is warmed mainly by its slow movement, an extended flute solo. Scott Goff played it with a minimum of vibrato and an emphasis on precisely drawn short phrases.</p>
+        <p>Emanuel Ax played the solos in the Piano Concerto with a beauty of tone and a penchant for hesitating, expressive effects that seemed at times almost to smother the music in elegance. Cho-Liang Lin's violin in Mozart's early Concerto in B flat gave the piece the bright directness it perhaps deserves. For all its sense of adventure, this music represents an art not fully formed. The Mozartean ambiguities of happy versus sad have not yet arrived.</p>
+        <p>The "Haffner" is another matter. The optimistic octave leap at its beginning and the flourishes that follow play wonderfully against the plaintive, questioning counterthemes of the first movement. The finale is a high-speed chase filled with equally high humor. Mr. Jordan's tempos and balancing of instruments explained to listeners just why Mozart's explicit detail was in general making them feel so good.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

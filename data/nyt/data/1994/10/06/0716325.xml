@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="716325"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EEDB123DF935A35753C1A962958260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Giuliani v. Legal Aid Society</p>
+        <p>Striking lawyers voted to accept a new contract, but Mayor Giuliani insisted he would not restore the Legal Aid Society to the role of primary defender of the poor. Page B1. A Medical Giant Emerges</p>
+        <p>A $5 billion merger of Columbia/ HCA and Healthtrust will create a medical behemoth with annual revenues of $15 billion, about five times those of the nearest rival. Page D1. Trade Vote Is Postponed</p>
+        <p>House leaders decided to postpone a vote on a new global trade pact until after the elections. Speaker Thomas S. Foley insisted, however, "It is going to become law." Page D1. Met Museum Thinks Big</p>
+        <p>The Metropolitan Museum of Art announced a $300 million capital fund-raising campaign, the largest such campaign ever for an American museum. Page C17. Thank God It's Thursday</p>
+        <p>At many restaurants and clubs, especially in New York, Thursday night has become the big social night of the week. Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>Giuliani v. Legal Aid Society</p>
+        <p>Striking lawyers voted to accept a new contract, but Mayor Giuliani insisted he would not restore the Legal Aid Society to the role of primary defender of the poor. Page B1. A Medical Giant Emerges</p>
+        <p>A $5 billion merger of Columbia/ HCA and Healthtrust will create a medical behemoth with annual revenues of $15 billion, about five times those of the nearest rival. Page D1. Trade Vote Is Postponed</p>
+        <p>House leaders decided to postpone a vote on a new global trade pact until after the elections. Speaker Thomas S. Foley insisted, however, "It is going to become law." Page D1. Met Museum Thinks Big</p>
+        <p>The Metropolitan Museum of Art announced a $300 million capital fund-raising campaign, the largest such campaign ever for an American museum. Page C17. Thank God It's Thursday</p>
+        <p>At many restaurants and clubs, especially in New York, Thursday night has become the big social night of the week. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Late Victory for the Power</title>
+    <meta content="Y11POWE" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/11/sports/soccer/11POWE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1488111"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Power 3, Breakers 2"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Soccer</classifier>
+        <org class="indexing_service">New York Power</org>
+        <org class="indexing_service">Boston Breakers</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="descriptor">Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+        <org class="online_producer">New York Power</org>
+        <org class="online_producer">Boston Breakers</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1D9123FF932A25756C0A9659C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Late Victory for the Power</hl1>
+        <hl2 class="online_headline">A Late Victory for the Power</hl2>
+      </hedline>
+      <dateline>UNIONDALE, N.Y., May 10</dateline>
+      <abstract>
+        <p>New York Power defeats Boston Breakers, 3-2 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For Krista Davey, late-game heroics are becoming routine.</p>
+        <p>Davey, who scored the winning goal last week in the 91st minute at Philadelphia, took advantage of a misplay by Kate Sobrero of the Boston Breakers tonight and scored in the 89th minute, giving the Power a 3-2 victory at Mitchel Field. Davey had entered the game in the 73rd minute.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The Power's Krista Davey took advantage of a misplay by Kate Sobrero of the Boston Breakers and scored in the 89th minute.</p>
+      </block>
+      <block class="full_text">
+        <p>For Krista Davey, late-game heroics are becoming routine.</p>
+        <p>Davey, who scored the winning goal last week in the 91st minute at Philadelphia, took advantage of a misplay by Kate Sobrero of the Boston Breakers tonight and scored in the 89th minute, giving the Power a 3-2 victory at Mitchel Field. Davey had entered the game in the 73rd minute.</p>
+        <p>''We sent her in because her pace and energy definitely add a different dimension to our offense,'' Coach Tom Sermanni said of Davey, who was also a late-game substitution last week. ''A win like this is great because it gives them a lot of confidence, but it doesn't do me any good.''</p>
+        <p>Davey's goal was a product of good positioning and luck. Margaret Tietjen of the Power played a long ball across the field that bounced over Sobrero's foot. Davey ran to the ball in the penalty area, played the bouncing ball off her chin, and fired a shot past goalkeeper Karina LeBlanc. ''I just kept thinking, 'Play the mistake,' '' Davey said. ''It was unlucky for Kate, but we'll take it.''</p>
+        <p>Christie Welsh and Joanne Peters also scored for the Power. Maren Meinert scored twice for the Breakers.</p>
+        <p>After losing their first three games of the season, the Power (3-3) has won three straight. Boston fell to 3-2-1.</p>
+        <p>Power 3, Breakers 2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

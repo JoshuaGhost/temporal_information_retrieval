@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sierra Pacific Resources (SRP,N) reports earnings for Qtr to Sept 30</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="723900"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDC1639F93BA35752C1A962958260" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sierra Pacific Resources (SRP,N) reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Sierra Pacific Resources (SRP,N)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Revenue</p>
+        <p>158,180,000</p>
+        <p>130,103,000</p>
+        <p>Net inc</p>
+        <p>15,301,000</p>
+        <p>b15,539,000</p>
+        <p>Share earns</p>
+        <p>.46</p>
+        <p>.51</p>
+        <p>Shares outst</p>
+        <p>29,269,445</p>
+        <p>26,502,540</p>
+        <p>9mo rev</p>
+        <p>448,133,000</p>
+        <p>392,486,000</p>
+        <p>Net inc</p>
+        <p>43,914,000</p>
+        <p>b38,211,000</p>
+        <p>Share earns</p>
+        <p>1.30</p>
+        <p>1.22</p>
+        <p>Shares outst</p>
+        <p>29,170,827</p>
+        <p>26,194,132</p>
+        <p>b-Included gain of 4 cents a share on the sale of oil and natural gas properties in both the quarter and 9 months.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cynthia Campbell Plans a Wedding</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="60" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="396302"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">CAMPBELL, CYNTHIA ANNE</person>
+        <person class="indexing_service">CROCHIERE, BRIAN CURTIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4D9113EF93BA15753C1A966958260" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cynthia Campbell Plans a Wedding</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. Frank J. Campbell 3d of Gladwyne, Pa., have announced December wedding plans for Mr. Campbell's daughter, Cynthia Anne Campbell, and Brian Curtis Crochiere, the son of Mr. and Mrs. William H. Crochiere Jr. of Malvern, Pa.</p>
+        <p>Miss Campbell, 25 years old, is a daughter also of the late Dorothy Robb Campbell. She graduated from the Agnes Irwin School and the University of Pennsylvania. Her father is a founder and a managing director of the Pennsylvania Merchant Group, an investment banking firm in Radnor, Pa., and a former governor of the Philadelphia, Baltimore and Washington Stock Exchange.</p>
+        <p>Mr. Crochiere, 25, graduated from the Haverford School and the University of Virginia. He is a commercial insurance broker with Posse-Walsh Inc., in Blue Bell, Pa. His father, who is retired, is a former eastern sales manager of Liftex Inc., in Ivyland, Pa., manufacturers of industrial slings.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. Frank J. Campbell 3d of Gladwyne, Pa., have announced December wedding plans for Mr. Campbell's daughter, Cynthia Anne Campbell, and Brian Curtis Crochiere, the son of Mr. and Mrs. William H. Crochiere Jr. of Malvern, Pa.</p>
+        <p>Miss Campbell, 25 years old, is a daughter also of the late Dorothy Robb Campbell. She graduated from the Agnes Irwin School and the University of Pennsylvania. Her father is a founder and a managing director of the Pennsylvania Merchant Group, an investment banking firm in Radnor, Pa., and a former governor of the Philadelphia, Baltimore and Washington Stock Exchange.</p>
+        <p>Mr. Crochiere, 25, graduated from the Haverford School and the University of Virginia. He is a commercial insurance broker with Posse-Walsh Inc., in Blue Bell, Pa. His father, who is retired, is a former eastern sales manager of Liftex Inc., in Ivyland, Pa., manufacturers of industrial slings.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

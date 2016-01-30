@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Torre Is Not Talking About Boss</title>
+    <meta content="14torre" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1694861"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050814T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFD6153EF937A2575BC0A9639C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Torre Is Not Talking About Boss</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>George Steinbrenner has not been able to draw Manager Joe Torre into a public war of words. Torre would not respond yesterday to the latest assessment from Steinbrenner, the principal owner.</p>
+        <p>Asked before Friday's game if the team needed to acquire more pitching, Steinbrenner said: ''How many pitchers can I keep getting? I'm paying my manager $6 million a year to handle it. He'll handle it.''</p>
+      </block>
+      <block class="full_text">
+        <p>George Steinbrenner has not been able to draw Manager Joe Torre into a public war of words. Torre would not respond yesterday to the latest assessment from Steinbrenner, the principal owner.</p>
+        <p>Asked before Friday's game if the team needed to acquire more pitching, Steinbrenner said: ''How many pitchers can I keep getting? I'm paying my manager $6 million a year to handle it. He'll handle it.''</p>
+        <p>Before yesterday's game, Torre said: ''I'm still shrugging it off. It's not important to what we're doing. Not that what he's saying isn't important, but that involves me. I'm trying to stay involved with the players and have that be the main focus..''</p>
+        <p>Steinbrenner declined to answer questions before yesterday's game, and said little after it. Asked what would happen if the Yankees did not make the playoffs, Steinbrenner said only, ''We'll see.''</p>
+        <p>When Steinbrenner commented Friday, it was the second time in four days that he had mentioned Torre. On Tuesday, he said he was not happy with Torre for using the left-hander Alan Embree against a right-handed slugger, Paul Konerko of the Chicago White Sox, who homered.</p>
+        <p>The Yankees play their next series in St. Petersburg, Fla., against the Devil Rays. Steinbrenner, a Tampa resident, usually attends the Yankees' games there. But Torre said he was not aware of any meetings scheduled with Steinbrenner and his Tampa-based executives.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

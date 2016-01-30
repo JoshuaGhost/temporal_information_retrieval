@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="470291"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <person class="indexing_service">HUDSON, ROCK</person>
+        <person class="indexing_service">CHRISTIAN, MARC</person>
+        <person class="indexing_service">DANIELS, LEE A</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D81039F932A0575BC0A967958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By LEE A. DANIELS</byline>
+      <byline class="normalized_byline">DANIELS, LEE A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The lawsuit filed by Rock Hudson's male lover against the late actor's estate ended last week with a settlement, said the lawyer for MARC CHRISTIAN, who was Mr. Hudson's companion. The lawyer, KENT L. RICHLAND, said yesterday that the amount of the settlement would not be disclosed.</p>
+        <p>Mr. Christian had sued the estate shortly after the actor's death at the age of 58 in October 1985. He charged that Mr. Hudson had concealed from him the fact that he had AIDS.</p>
+        <p>In 1989, a Los Angeles Superior Court jury awarded $21.75 million to Mr. Christian. That amount was later reduced to $5.5 million, a figure that was upheld after an appeal by lawyers for Hudson's estate.</p>
+        <p>Mr. Christian had also sued Mr. Hudson's personal secretary, MARK MILLER, charging that he had conspired with Mr. Hudson to conceal his illness. That suit was settled separately.</p>
+      </block>
+      <block class="full_text">
+        <p>The lawsuit filed by Rock Hudson's male lover against the late actor's estate ended last week with a settlement, said the lawyer for MARC CHRISTIAN, who was Mr. Hudson's companion. The lawyer, KENT L. RICHLAND, said yesterday that the amount of the settlement would not be disclosed.</p>
+        <p>Mr. Christian had sued the estate shortly after the actor's death at the age of 58 in October 1985. He charged that Mr. Hudson had concealed from him the fact that he had AIDS.</p>
+        <p>In 1989, a Los Angeles Superior Court jury awarded $21.75 million to Mr. Christian. That amount was later reduced to $5.5 million, a figure that was upheld after an appeal by lawyers for Hudson's estate.</p>
+        <p>Mr. Christian had also sued Mr. Hudson's personal secretary, MARK MILLER, charging that he had conspired with Mr. Hudson to conceal his illness. That suit was settled separately.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

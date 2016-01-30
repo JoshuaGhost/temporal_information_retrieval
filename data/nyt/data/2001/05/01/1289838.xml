@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  KOEHN, ANDRE O.</title>
+    <meta content="DN050101" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1289838"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">KOEHN, ANDRE O.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E5D61638F932A35756C0A9679C8B63" item-length="45" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  KOEHN, ANDRE O.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KOEHN-Andre O. Of Manhattan on April 27, 2001 at age 86. Beloved husband of Brenda (nee Timpson). Loving stepfather of Lars Potter of Corpus Christi, TX. and Hope Woodward of Andover, MA and four grandchildren. Memorial service Wednesday 9:30 AM at Madison Avenue Presbyterian Church.</p>
+      </block>
+      <block class="full_text">
+        <p>KOEHN-Andre O. Of Manhattan on April 27, 2001 at age 86. Beloved husband of Brenda (nee Timpson). Loving stepfather of Lars Potter of Corpus Christi, TX. and Hope Woodward of Andover, MA and four grandchildren. Memorial service Wednesday 9:30 AM at Madison Avenue Presbyterian Church.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

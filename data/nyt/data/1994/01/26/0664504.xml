@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Smith (A.O.) (A) reports earnings for Qtr to Dec 31</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664504"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFDD1639F935A15752C0A962958260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Smith (A.O.) (A) reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Smith (A.O.) (A)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>309,154,000</p>
+        <p>265,356,000</p>
+        <p>Net inc</p>
+        <p>9,107,000</p>
+        <p>6,175,000</p>
+        <p>Share earns</p>
+        <p>.44</p>
+        <p>.30</p>
+        <p>Shares outst</p>
+        <p>20,663,218</p>
+        <p>20,666,010</p>
+        <p>Yr rev</p>
+        <p>1,193,870,000</p>
+        <p>1,046,345,000</p>
+        <p>Net inc</p>
+        <p>42,678,000</p>
+        <p>b17,316,000</p>
+        <p>Share earns</p>
+        <p>2.08</p>
+        <p>(.84)</p>
+        <p>Shares outst</p>
+        <p>20,538,940</p>
+        <p>20,526,702</p>
+        <p>b-Net loss, which included an accounting gain of $ 1.6 million, or 8 cents a share, from F.A.S.B. 109, and a charge of $ 46,122,000, or $ 2.25 a share, from a change in accounting for postretirement benefits. Share earnings and shares outstanding are fully diluted. Due to the absense of any materially dilutive securities, the fully diluted earnings-per-share amounts are the same as the primary earnings-per-share amounts for 1993. (Loss)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Belief and Unbelief, Side by Side</title>
+    <meta content="LTR001526" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1636078"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Meyers, Ron</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6DB1230F93AA25751C1A9629C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Belief and Unbelief, Side by Side</hl1>
+      </hedline>
+      <abstract>
+        <p>Ron Meyers letter holds that idea of opposition between religion and science is fallacy.</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The idea of an opposition between religion and science is a fallacy. The synagogues I have belonged to have been filled with scientists. The intimate knowledge of nature's wonders that science provides is a source of religious inspiration.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The idea of an opposition between religion and science is a fallacy. The synagogues I have belonged to have been filled with scientists. The intimate knowledge of nature's wonders that science provides is a source of religious inspiration.</p>
+        <p>Many people in religious groups have great uncertainties as to the nature of God. What each religion provides is a rich tradition of scriptures, practices and community through which we may contemplate our ultimate concerns.</p>
+        <p>Ron Meyers  New York, Dec. 12, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

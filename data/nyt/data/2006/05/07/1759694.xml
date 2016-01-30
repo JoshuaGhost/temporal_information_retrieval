@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Remix; Turning Tables | Hangar-7</title>
+    <meta content="t--l--22--remix--clam--hot--hang---3" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="T: Living Magazine" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1759694"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Ikarus (Salzburg, Austria, Restaurant)</org>
+        <person class="indexing_service">Williams, Gisela</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/T: Style Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE3DC143FF934A35756C0A9609C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Remix; Turning Tables | Hangar-7</hl1>
+      </hedline>
+      <byline class="print_byline">By Gisela Williams</byline>
+      <byline class="normalized_byline">Williams, Gisela</byline>
+      <abstract>
+        <p>Ikarus, restaurant in Salzburg, Austria, rotates famous guest chefs for month at a time; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's a restaurant concept that only someone wired on a high-caffeine energy drink could conceive: each month, a famous guest chef creates the menu. It's fitting, then, that the proprietor of this place, Ikarus, is Dietrich Mateschitz, the Austrian owner of Red Bull. The restaurant has glass walls overlooking the antique planes in Red Bull's Hangar-7, near the airport in Salzburg, Austria. Past chefs include Gray Kunz, Xavier Pellicer (of Abac in Barcelona) and Christian Delouvrier. Go to www.hangar-7.com.</p>
+        <p>GISELA WILLIAMS</p>
+      </block>
+      <block class="full_text">
+        <p>It's a restaurant concept that only someone wired on a high-caffeine energy drink could conceive: each month, a famous guest chef creates the menu. It's fitting, then, that the proprietor of this place, Ikarus, is Dietrich Mateschitz, the Austrian owner of Red Bull. The restaurant has glass walls overlooking the antique planes in Red Bull's Hangar-7, near the airport in Salzburg, Austria. Past chefs include Gray Kunz, Xavier Pellicer (of Abac in Barcelona) and Christian Delouvrier. Go to www.hangar-7.com.</p>
+        <p>GISELA WILLIAMS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

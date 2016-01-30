@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yankees Trade Reliever White to Reds</title>
+    <meta content="19TRAD$03" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/19/sports/baseball/19TRAD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1590572"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Trades (Sports)</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Cincinnati Reds</org>
+        <person class="indexing_service">White, Gabe</person>
+        <person class="indexing_service">Manning, Charlie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Cincinnati Reds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Yankees</org>
+        <org class="online_producer">Cincinnati Reds</org>
+        <person class="online_producer">White, Gabe</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDF1539F93AA25755C0A9629C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yankees Trade Reliever White to Reds</hl1>
+        <hl2 class="online_headline">Yankees Trade White to Reds</hl2>
+      </hedline>
+      <dateline>LOS ANGELES, June 18</dateline>
+      <abstract>
+        <p>New York Yankees trade pitcher Gabe White to Cincinnati Reds for pitcher Charlie Manning (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The sudden emergence of Bret Prinz in the Yankees' bullpen made the left-hander Gabe White expendable, and the Yankees traded White on Friday to the Cincinnati Reds for the minor league left-hander Charlie Manning.</p>
+        <p>The Yankees also included $700,000 in the deal. They will pay $200,000 more if the Reds decline White's 2005 option; if the Reds pick up the option, the Yankees will send them a minor leaguer.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>LOS ANGELES, June 18  The sudden emergence of Bret Prinz in the Yankees' bullpen made the left-hander Gabe White expendable, and the Yankees traded White on Friday to the Cincinnati Reds for the minor league left-hander Charlie Manning.</p>
+      </block>
+      <block class="full_text">
+        <p>The sudden emergence of Bret Prinz in the Yankees' bullpen made the left-hander Gabe White expendable, and the Yankees traded White on Friday to the Cincinnati Reds for the minor league left-hander Charlie Manning.</p>
+        <p>The Yankees also included $700,000 in the deal. They will pay $200,000 more if the Reds decline White's 2005 option; if the Reds pick up the option, the Yankees will send them a minor leaguer.</p>
+        <p>White had an 8.27 earned run average in 24 appearances, and opponents have hit .355 against him. The move allows the Yankees to fit the left-hander Brad Halsey into their 40-man roster in time for Halsey's major league debut at Dodger Stadium on Saturday. General Manager Brian Cashman said the performance of Prinz, a right-hander, inspired the deal. Prinz has a 2.92 E.R.A. in 10 games.</p>
+        <p>''Prinz has done so well that despite being a right-hander, he's moved ahead of Gabe as someone we have confidence going out there for us,'' Cashman said. ''The more Gabe struggled, the less opportunity he had to work out of it.''</p>
+        <p>White, who came to the Yankees in a trade from Cincinnati last July 31, said he suffered from inactivity, but he said he did not blame Manager Joe Torre. ''There's just limited work,'' White said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

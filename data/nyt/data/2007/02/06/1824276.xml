@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Treatment for Minor Injuries</title>
+    <meta content="06lett-3" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1824276"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Feet</classifier>
+        <classifier class="indexing_service" type="descriptor">Pain</classifier>
+        <classifier class="indexing_service" type="descriptor">Doctors</classifier>
+        <person class="indexing_service">Strelnick, Hal (Dr)</person>
+        <person class="indexing_service">Kolata, Gina</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Feet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Doctors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D7133FF935A35751C0A9619C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Treatment for Minor Injuries</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Hal Strelnick letter on January 30 Cases column agrees with diagnosis of Gina Kolata's foot pain</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Regarding Gina Kolata's ''When the Simple Solution is the Right One'' (Cases, Jan. 30), often the simple physician is the right one, too. Unlike most general internists, family physicians are trained to diagnose and treat minor injuries based on careful histories and physical exams. Tendon sheath injections have saved many of my patients from expensive diagnostic and painful surgical procedures. After seeing many orthopedic surgeons without relief, several said of the simple injection, ''Doc, it's a miracle!''</p>
+        <p>Hal Strelnick, M.D.  Bronx</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Regarding Gina Kolata's ''When the Simple Solution is the Right One'' (Cases, Jan. 30), often the simple physician is the right one, too. Unlike most general internists, family physicians are trained to diagnose and treat minor injuries based on careful histories and physical exams. Tendon sheath injections have saved many of my patients from expensive diagnostic and painful surgical procedures. After seeing many orthopedic surgeons without relief, several said of the simple injection, ''Doc, it's a miracle!''</p>
+        <p>Hal Strelnick, M.D.  Bronx</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Perversely, Higher Rates Hurt The Dollar</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="685808"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="MARKET WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CURRENCY</classifier>
+        <classifier class="indexing_service" type="descriptor">INTEREST RATES</classifier>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <person class="indexing_service">NORRIS, FLOYD</person>
+        <person class="indexing_service">CLINTON, BILL (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Gretchen Morgenson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EFDC1739F93BA35756C0A962958260" item-length="513" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Perversely, Higher Rates Hurt The Dollar</hl1>
+      </hedline>
+      <byline class="print_byline">By Floyd Norris</byline>
+      <byline class="normalized_byline">NORRIS, FLOYD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE United States Government went on the record last week, firmly declaring it was against a collapse of the dollar. Supported by unified central bank intervention, the lowly buck rallied a bit.</p>
+        <p>That it was necessary -- and newsworthy -- for Lloyd Bentsen, the Treasury Secretary, to say nice things about the dollar is another indication just how confused things have become. Mr. Bentsen had once indicated he would welcome a weaker dollar, and it had not been clear that his opinion had changed.</p>
+      </block>
+      <block class="full_text">
+        <p>THE United States Government went on the record last week, firmly declaring it was against a collapse of the dollar. Supported by unified central bank intervention, the lowly buck rallied a bit.</p>
+        <p>That it was necessary -- and newsworthy -- for Lloyd Bentsen, the Treasury Secretary, to say nice things about the dollar is another indication just how confused things have become. Mr. Bentsen had once indicated he would welcome a weaker dollar, and it had not been clear that his opinion had changed.</p>
+        <p>The Clinton Administration's foreign economic policies, like its other foreign policies, too often seem reminiscent of the old line about New England weather: if you don't like it, wait five minutes and it will change. Whether on Haiti or trade with China, the impression that is left is of a vacillating Administration unsure of which of its conflicting goals is more important but sensitive to any indication of public opinion.</p>
+        <p>But in this case it is easy to understand the Administration's hurried decision to intervene to support the dollar. When a patient is given the prescribed remedy and proceeds to get a lot worse, it is clearly time for desperate action. And at least the Fed's first intervention, on April 29, came before Wall Street was clamoring for action.</p>
+        <p>The bad medicine in this case was the Fed's decision to raise interest rates. In normal times that ought to help the dollar by attracting foreign funds.</p>
+        <p>In this case, though, the opposite happened. From the Fed's first tightening to its decision to buy bucks, the rate on six-month Treasury bills rose more than a full percentage point. At the same time, the similar German rate fell a quarter point. And the dollar lost 6 percent of its value against the mark.</p>
+        <p>That perverse reaction is another indication of the truly massive speculation that had been going on regarding American interest rates. No one knows just how large, or how leveraged, were all the bets on the bond bull market. In some cases, like Procter &amp; Gamble's misadventure with interest rate swaps, it appears that even the gamblers did not understand how big their bet was.</p>
+        <p>Those bets are now being unwound. Rising interest rates are a reason to get out of the bond market, and, with American short-term rates still under European ones, there is a temptation for those abandoning Treasury bonds to get out of dollars as well.</p>
+        <p>The unwinding of that speculation helps to explain why everything can fall at the same time, as happened Friday when a surprisingly strong employment report sent bonds plunging -- pushing the yield on 30-year Treasury bonds above 7.5 percent for the first time in the Clinton Administration -- while both stocks and the dollar suffered along with it.</p>
+        <p>None of that has much to do with economic fundamentals, which is one reason why intervention in foreign exchange markets is easier to justify now than at other times. But simply because there was so much speculation on ever-declining interest rates, it is hard to tell how long the perverse effects of unwinding that speculation will last.  MARKET WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

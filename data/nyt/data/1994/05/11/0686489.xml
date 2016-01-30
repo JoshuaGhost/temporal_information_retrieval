@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Canadian Utilities reports earnings for Qtr to Mar 31</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="686489"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DF1639F932A25756C0A962958260" item-length="39" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Canadian Utilities reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Canadian Utilities</p>
+        <p>Qtr to Mar 31</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Revenue</p>
+        <p>528,777,000</p>
+        <p>428,023,000</p>
+        <p>Net inc</p>
+        <p>70,034,000</p>
+        <p>63,361,000</p>
+        <p>Share earns</p>
+        <p>.93</p>
+        <p>.81</p>
+        <p>Results are in Canadian dollars.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

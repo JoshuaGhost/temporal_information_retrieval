@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Bean Show Must Go On</title>
+    <meta content="NJ025822" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="NEW JERSEY DAILY BRIEFING" name="column_name"/>
+    <docdata>
+      <doc-id id-string="883436"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beans</classifier>
+        <location class="indexing_service">Cape May County (NJ)</location>
+        <location class="indexing_service">west cape may (NJ)</location>
+        <org class="indexing_service">hanover foods</org>
+        <person class="indexing_service">Newman, Andy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey/Cape May</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DE1631F937A25753C1A960958260" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Bean Show Must Go On</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDY NEWMAN</byline>
+      <byline class="normalized_byline">Newman, Andy</byline>
+      <dateline>WEST CAPE MAY</dateline>
+      <abstract>
+        <p>Annual West Cape May Lima Bean Festival is big success despite sudden collapse of Cape May County, NJ, bean economy; Hanover Foods, longtime buyer of nearly all of county's lima beans, has taken its business elsewhere (NJ Daily Briefing) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nothing, it seems, can dampen the spirits of what organizers call the nation's only lima bean festival -- not even the sudden collapse of the local bean economy. Earlier this year, Hanover Foods, longtime buyer of nearly all of Cape May County's Ford Hook lima beans, announced that it would take its business elsewhere, forcing farmers to stop growing the beans. But though the beans in the soup and the bean-toss were store-bought, organizers of the West Cape May Lima Bean Festival reported that Saturday's jamboree was the biggest ever, drawing more than 7,000 bean lovers.</p>
+      </block>
+      <block class="full_text">
+        <p>Nothing, it seems, can dampen the spirits of what organizers call the nation's only lima bean festival -- not even the sudden collapse of the local bean economy. Earlier this year, Hanover Foods, longtime buyer of nearly all of Cape May County's Ford Hook lima beans, announced that it would take its business elsewhere, forcing farmers to stop growing the beans. But though the beans in the soup and the bean-toss were store-bought, organizers of the West Cape May Lima Bean Festival reported that Saturday's jamboree was the biggest ever, drawing more than 7,000 bean lovers.</p>
+        <p>And a farmer, Les Rea, who converted 500 acres to soybeans, corn and pumpkins this year, said yesterday that his two remaining acres of lima beans were selling as fast as his fieldhands could pick them.</p>
+        <p>ANDY NEWMAN</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

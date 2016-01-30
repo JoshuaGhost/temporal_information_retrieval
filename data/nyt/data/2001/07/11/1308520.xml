@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Saturday Postal Delivery To Continue</title>
+    <meta content="MB010136" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1308520"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Postal Service</classifier>
+        <classifier class="indexing_service" type="descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Postal Service</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DA1F38F932A25754C0A9679C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Saturday Postal Delivery To Continue</hl1>
+      </hedline>
+      <abstract>
+        <p>US Postal Service says it will continue delivering mail six days a week after weighing elimination of Saturday delivery as way of saving money (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States Postal Service said it would continue to deliver mail six days a week, after having  considered eliminating Saturday delivery as a way of saving money. The proposed service reduction was criticized by members of Congress who said it would inconvenience customers and threaten the economy.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States Postal Service said it would continue to deliver mail six days a week, after having  considered eliminating Saturday delivery as a way of saving money. The proposed service reduction was criticized by members of Congress who said it would inconvenience customers and threaten the economy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

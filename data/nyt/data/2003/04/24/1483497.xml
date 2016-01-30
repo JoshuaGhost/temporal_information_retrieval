@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: France: Consumer Spending Rises</title>
+    <meta content="MB232147" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1483497"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment</classifier>
+        <location class="indexing_service">France</location>
+        <person class="indexing_service">Shaw, Kerry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E7D61F3AF937A15757C0A9659C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: France: Consumer Spending Rises</hl1>
+      </hedline>
+      <byline class="print_byline">By Kerry Shaw (NYT)</byline>
+      <byline class="normalized_byline">Shaw, Kerry</byline>
+      <abstract>
+        <p>Consumer spending in France increased 0.3 percent in March after falling 0.7 percent in February, while consumer prices rose 0.5 percent month-on-month in March; unemployment rose to 9.2 percent in February (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite rising unemployment and concerns about pension reform, consumer spending in France rose slightly in March, according to the national statistics institute, Insee. Consumer spending increased 0.3 percent last month after falling 0.7 percent in February, while consumer prices rose 0.5 percent month-on-month in March. The report follows another Insee survey that stated that consumer confidence last month fell to a seven-year low. In February, unemployment in France rose to 9.2 percent.</p>
+        <p>Kerry Shaw (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Despite rising unemployment and concerns about pension reform, consumer spending in France rose slightly in March, according to the national statistics institute, Insee. Consumer spending increased 0.3 percent last month after falling 0.7 percent in February, while consumer prices rose 0.5 percent month-on-month in March. The report follows another Insee survey that stated that consumer confidence last month fell to a seven-year low. In February, unemployment in France rose to 9.2 percent.</p>
+        <p>Kerry Shaw (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

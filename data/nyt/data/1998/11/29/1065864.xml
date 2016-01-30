@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ho! Ho! Ho! Boohoo-hoo!</title>
+    <meta content="29JOB" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1065864"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DB1039F93AA15752C1A96E958260" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ho! Ho! Ho! Boohoo-hoo!</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The holiday season seems to bring out the best and the worst in bosses. We've all heard stories about workers who are fired on Christmas Eve, but then again, Scrooge himself ended up giving the long-suffering Bob Cratchit a raise. What holiday horror stories have emerged from your workplace? Or, to give the management world's guardian angels their due, how have the holidays melted the coldest corporate hearts? Send your anecdotes to On the Job, Money and Business, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Or send them by E-mail to onthejob@nytimes.com. Include your telephone number. All submissions become the property of The Times and may be republished in any medium.</p>
+      </block>
+      <block class="full_text">
+        <p>The holiday season seems to bring out the best and the worst in bosses. We've all heard stories about workers who are fired on Christmas Eve, but then again, Scrooge himself ended up giving the long-suffering Bob Cratchit a raise. What holiday horror stories have emerged from your workplace? Or, to give the management world's guardian angels their due, how have the holidays melted the coldest corporate hearts? Send your anecdotes to On the Job, Money and Business, The New York Times, 229 West 43d Street, New York, N.Y. 10036. Or send them by E-mail to onthejob@nytimes.com. Include your telephone number. All submissions become the property of The Times and may be republished in any medium.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

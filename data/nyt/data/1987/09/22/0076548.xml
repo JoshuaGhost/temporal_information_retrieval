@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soccer Team Bus Attacked by Fans</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="76548"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCCER</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <location class="indexing_service">KIEV (USSR)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DA143CF931A1575AC0A961948260" item-length="39" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soccer Team Bus Attacked by Fans</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>MOSCOW, Sept. 21</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Soccer fans in Kiev, angered by their team's loss to a Moscow squad, attacked a train carrying Moscow players and fans, hurling bottles and rocks and smashing windows, Izvestia, the Soviet government newspaper, reported today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Soccer fans in Kiev, angered by their team's loss to a Moscow squad, attacked a train carrying Moscow players and fans, hurling bottles and rocks and smashing windows, Izvestia, the Soviet government newspaper, reported today.</p>
+        <p>Soccer fans in Kiev, angered by their team's loss to a Moscow squad, attacked a train carrying Moscow players and fans, hurling bottles and rocks and smashing windows, Izvestia, the Soviet government newspaper, reported today.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

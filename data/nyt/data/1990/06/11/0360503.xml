@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Singer Back in South Africa</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="360503"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BLACKS (NON-US)</classifier>
+        <classifier class="indexing_service" type="descriptor">REFUGEES AND EXPATRIATES</classifier>
+        <location class="indexing_service">SOUTH AFRICA</location>
+        <person class="indexing_service">MAKEBA, MIRIAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/South Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DE163CF932A25755C0A966958260" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Singer Back in South Africa</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>JOHANNESBURG, June 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The singer Miriam Makeba, who won international acclaim during her 31 years in exile from her native South Africa, received an emotional homecoming today.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The singer Miriam Makeba, who won international acclaim during her 31 years in exile from her native South Africa, received an emotional homecoming today.</p>
+        <p>The singer Miriam Makeba, who won international acclaim during her 31 years in exile from her native South Africa, received an emotional homecoming today.</p>
+        <p>Miss Makeba left South Africa in 1959 and has lived in the United States, France and Guinea and most recently in Belgium.</p>
+        <p>''I'm very happy to be home,'' she said at an airport news conference. ''But I think I'll be even happier when I can come back to sing before my people, where I'll not have to explain my songs because they will understand.''</p>
+        <p>Miss Makeba, who said she would spend one or two weeks visiting family and friends, did not plan officially to perform during her stay.</p>
+        <p>She was greeted by a crowd of fans and friends, including leading South African musicians who joined her in singing ''God Bless Africa,'' the anthem of the anti-apartheid movement.</p>
+        <p>Miss Makeba is best known for songs that emphasize traditional African rhythms. She often toured with Harry Belafonte during the 1960's, and in 1987 she performed with Paul Simon on his Graceland concert tour.</p>
+        <p>While living in Guinea, she represented the West African country at the United Nations.</p>
+        <p>After she made a 1976 speech there denouncing apartheid, South African radio and television networks refused to broadcast her songs until last year.</p>
+        <p>Miss Makeba tried to return to South Africa in 1960 for the funeral of her mother, but her passport was revoked and she was not allowed to enter the country.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

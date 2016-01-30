@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mackenzie Kaplan, Ian Sandler</title>
+    <meta content="10KAPL" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/11/10/fashion/weddings/10KAPL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1439372"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KAPLAN, MACKENZIE DARIEL (MACKENZIE DARIEL SANDLER)</person>
+        <person class="indexing_service">SANDLER, IAN JEREMY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4D91F3EF933A25752C1A9649C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mackenzie Kaplan, Ian Sandler</hl1>
+        <hl2 class="online_headline">Mackenzie Kaplan and Ian Sandler</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mackenzie Dariel Kaplan, the daughter of Terry and Lonnie Kaplan of Coconut Grove, Fla., was married last evening in Miami Beach to Ian Jeremy Sandler, a son of Nina and Julian Sandler of Dix Hills, N.Y. Rabbi Mark S. Kram officiated at the Loews Miami Beach Hotel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mackenzie Kaplan, Ian Sandler Mackenzie Dariel Kaplan, the daughter of Terry and Lonnie Kaplan of Coconut Grove, Fla., was married last evening in Miami Beach to Ian Jeremy Sandler, a son of Nina and Julian Sandler ofDix Hills, N.Y. Rabbi Mark S. Kram officiated at the Loews Miami Beach Hotel.</p>
+      </block>
+      <block class="full_text">
+        <p>Mackenzie Dariel Kaplan, the daughter of Terry and Lonnie Kaplan of Coconut Grove, Fla., was married last evening in Miami Beach to Ian Jeremy Sandler, a son of Nina and Julian Sandler of Dix Hills, N.Y. Rabbi Mark S. Kram officiated at the Loews Miami Beach Hotel.</p>
+        <p>Mr. and Mrs. Sandler are associates at Kramer Levin Naftalis &amp; Frankel, a New York law firm. The bride, 26, graduated summa cum laude from the University of Pennsylvania and received a law degree from Harvard. The bridegroom, 28, graduated from the University of Michigan and the University of Pennsylvania School of Law.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

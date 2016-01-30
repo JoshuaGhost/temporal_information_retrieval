@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Executive Computer; Kodak Combines a Network Printer With a Copier</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418415"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">PRINTING AND ALLIED TRADES</classifier>
+        <org class="indexing_service">INTERNATIONAL BUSINESS MACHINES CORP (IBM)</org>
+        <org class="indexing_service">EASTMAN KODAK CO</org>
+        <person class="indexing_service">LEWIS, PETER H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Printing and Allied Trades</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DA1131F934A15752C0A967958260" item-length="1136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Executive Computer; Kodak Combines a Network Printer With a Copier</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter H. Lewis</byline>
+      <byline class="normalized_byline">LEWIS, PETER H</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Making its first major thrust into the desktop computer printer market, the Eastman Kodak Company last week introduced a 16-page-a-minute laser-quality printer that also functions as a simple photocopying machine.</p>
+        <p>The printer-copier, called the Ektaplus 7016, can handle data from a variety of computers, including personal computers made by the International Business Machines Corporation and other companies and Apple Macintoshes, on several office networks at once. It is a high-speed, multipurpose printing machine that appears to be well suited for the mixed-computer networks that are increasingly common in businesses.</p>
+      </block>
+      <block class="full_text">
+        <p>Making its first major thrust into the desktop computer printer market, the Eastman Kodak Company last week introduced a 16-page-a-minute laser-quality printer that also functions as a simple photocopying machine.</p>
+        <p>The printer-copier, called the Ektaplus 7016, can handle data from a variety of computers, including personal computers made by the International Business Machines Corporation and other companies and Apple Macintoshes, on several office networks at once. It is a high-speed, multipurpose printing machine that appears to be well suited for the mixed-computer networks that are increasingly common in businesses.</p>
+        <p>With a base price of $5,495, the Ektaplus 7016 is more expensive than the most popular laser printers, which sell for $2,000 to $4,000.  However, the lasers operate at half the Ektaplus's speed, have less memory than the Ektaplus's 2 megabytes, cannot work as copiers and cannot work with a variety of printer and page description languages.</p>
+        <p>For an additional $1,500, Kodak offers the Ektaplus 7016PS, which includes an Adobe Postscript co-processor board with 4 megabytes of memory and a Motorola 68020 microprocessor. Kodak says this setup will greatly speed the printing of complex Postscript documents.</p>
+        <p>"For the price, it's a very good deal," said Marc G. Boer, an analyst with the research and consulting firm BISCAP International of Norwell, Mass. Mr. Boer said beating the competition to a copier-printer combination was a "really smart move on Kodak's part."</p>
+        <p>Other companies better known in the printer business, including the Hewlett-Packard Company and Texas Instruments Inc., are expected to weigh in soon with their own network printers -- probably at lower cost but almost certainly without the copier feature. "I expect there will be more," said Michael V. Howard, a network analyst with Infonetics Research Institute Inc. of San Jose, Calif.</p>
+        <p>Office laser printers, including Hewlett-Packard's best-selling Laserjet, are typically attached to a local area network through a dedicated personal computer called a print server. The server functions as a traffic cop, managing print requests from users on a single network, or data highway.</p>
+        <p>The Ektaplus, in theory, does not require a dedicated server; it can manage traffic from as many as four lanes at once. Companies with heavy printing loads, including lots of graphics that tie up a printer for a long time, may prefer to use a server anyway.</p>
+        <p>"It's not just network-capable, it's networks, plural, capable," said Mr. Howard of Infonetics. "You can have four different kinds of networks attached at once."</p>
+        <p>The current generation of laser printers was designed to serve individual users, not groups of workers. As more and more companies install local area networks, however, heavy-duty printers are needed.</p>
+        <p>"The key characteristics of network printers are higher speeds, but more important, higher duty cycles," said Jonathan Seybold, president of Seybold Seminars of Malibu, Calif., in a reference to how much work a printer can do before it needs maintenance. "Network printers also require significantly improved paper handling, the ability to cope with multiple languages, and the ability to run off networks."</p>
+        <p>Today's most popular laser printers operate at speeds of four or eight pages a minute, but new generations are expected to reach the market soon with speeds of 16 to 20 pages a minute. The higher speeds will be needed to keep waiting lines short when the printers are shared by many users. (For really short lines, some companies choose even faster printers. Kodak already makes a 92-page-a-minute electrophotographic Postscript printer, but it costs at least $100,000 more than the new Ektaplus 7016.)</p>
+        <p>Kodak's new Ektaplus is an LED printer, using a light-emitting diode, and it differs from laser printers in several ways, though not in the finished look of the printed page. In a laser printer, a small laser beam flashes off a spinning mirror and "writes" its image on a rotating drum. In an LED printer, the complex laser and mirror system is replaced by a semiconductor diode that glows when it is electrically charged. In all, the printer-copier has only 20 parts, all replaceable by a field technician, and Kodak promises that no service call will last more than 30 minutes. That is very good news for an office that depends on paper.</p>
+        <p>Kodak says the Ektaplus 7016 has a duty cycle of 15,000 pages a month, or about 750 sheets a day for an average 20-day work month. Unlike printers that send a page around internal rollers, the Kodak's paper path is short and straight, reducing the likelihood of paper jams and breakdowns.</p>
+        <p>A potential drawback is that the device has a 100-sheet output tray, so if some print-happy worker decides to put out a long report, other workers may find their reports spilling onto the floor. The printer-copier has two paper trays with a capacity of 250 sheets each feeding the output tray. Legal and A4 paper sizes are available as an option.</p>
+        <p>A particularly nice touch is the control panel, which tells the user in English (versions in six other languages are available) if the printer is out of paper, or there is some other problem -- instead of signalling some obscure error code that no one remembers.</p>
+        <p>For people who want to make a photocopy or two -- at 10 seconds a copy this feature is designed merely for convenience,</p>
+        <p>not</p>
+        <p>for big copying jobs -- the Ektaplus interrupts the network printing queue temporarily. At the conclusion of the copying job, it picks up where it left off.</p>
+        <p>The Ektaplus is ambitious in its automatic handling of a variety of common printer and page description languages, including HP-PCL (Laserjet), HP-GL (plotter), Epson FX-80, Diablo 630 and I.B.M. Proprinter, plus the optional Postscript. The Ektaplus comes with special software that can be loaded into computers on the network in order to tag each print request with a language request. This enables the printer to change emulation on the fly.</p>
+        <p>Until now, the only office printer able to adapt to commands from a PC or a Mac, for instance, was the $2,795 QMS 410, a four-page-a-minute laser from QMS Inc. of Mobile, Ala.</p>
+        <p>"The reason for multiple languages is that an increasing number of users are working in a heterogenous environment," Mr. Seybold said. "They want the ability to send a document from the desktop to the printer and not have to worry about what language the printer is running or how it is configured."</p>
+        <p>While the Ektaplus is better suited for network applications than other printers today, there is room for improvement. Several forthcoming printers are expected to attach directly to a network through a built-in Ethernet board or some other arrangement, instead of through parallel or serial ports as the Ektaplus does.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

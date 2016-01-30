@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="518888"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ABORTION</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920404T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDB1539F937A35757C0A964958260" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ms. Sarandon may not be going to the capital, but there will be plenty of other celebrities tomorrow at the rally billed as a "March for Women's Lives."</p>
+        <p>Officials of the Hollywood Women's Political Campaign, for example, said that its delegation would number 330, up from 220 two years ago. Among those expected are JONATHAN DEMME, fresh from his triumph at the Academy Awards, where he won an Oscar as best director, FAYE DUNAWAY, JANE FONDA, CYBILL SHEPHERD, MOLLY RINGWALD, JOANNE WOODWARD, JILL EIKENBERRY and MICHAEL TUCKER.</p>
+      </block>
+      <block class="full_text">
+        <p>Ms. Sarandon may not be going to the capital, but there will be plenty of other celebrities tomorrow at the rally billed as a "March for Women's Lives."</p>
+        <p>Officials of the Hollywood Women's Political Campaign, for example, said that its delegation would number 330, up from 220 two years ago. Among those expected are JONATHAN DEMME, fresh from his triumph at the Academy Awards, where he won an Oscar as best director, FAYE DUNAWAY, JANE FONDA, CYBILL SHEPHERD, MOLLY RINGWALD, JOANNE WOODWARD, JILL EIKENBERRY and MICHAEL TUCKER.</p>
+        <p>On Sunday morning before the march, the committee and the National Abortion Rights Action League are to sponsor a breakfast for 700 people, including abortion-rights supporters in Congress.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

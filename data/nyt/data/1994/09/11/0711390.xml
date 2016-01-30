@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hudson Rafting</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="711390"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">RAFTS</classifier>
+        <location class="indexing_service">HUDSON RIVER</location>
+        <location class="indexing_service">NEW YORK STATE</location>
+        <person class="indexing_service">ENGELER, AMY</person>
+        <person class="indexing_service">HASKELL, MARY E</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E7DC1F38F932A2575AC0A962958260" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hudson Rafting</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Amy Engeler's article may have been more aptly titled "On an Ego Trip, Running Into Trouble."</p>
+        <p>She speaks of her group of 16 "neophyte rafters" who exhibited varying degrees of optimism and bravado. Sadly, they did not exhibit common sense. The rapids she speaks of are designated Class 4 and 5 for a reason. These are not meant for beginners.  The rating system is not meant as a marketing ploy to lure unwitting city dwellers, but to rate the degree of difficulty in navigating.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Amy Engeler's article may have been more aptly titled "On an Ego Trip, Running Into Trouble."</p>
+        <p>She speaks of her group of 16 "neophyte rafters" who exhibited varying degrees of optimism and bravado. Sadly, they did not exhibit common sense. The rapids she speaks of are designated Class 4 and 5 for a reason. These are not meant for beginners.  The rating system is not meant as a marketing ploy to lure unwitting city dwellers, but to rate the degree of difficulty in navigating.</p>
+        <p>As is typical of our society today, when something goes wrong we look to place blame elsewhere, in this case on the outfitters who run these trips. They may be responsible for making clear the dangers, but I believe it is up to individuals to assess their abilities. MARY E. HASKELL  Ludlow, Vt. The author responds: Ms. Haskell should note that the participants in my group included many experienced outdoorsmen, among them a professional ice-skater and a tennis pro, who, with competent guidance, are the equal of demanding rapids. It seems reasonable to expect outfitters' guides to be responsible both for letting rafters know of potential danger and, more significant, for knowing each whirlpool, barely submerged rock and bend in the river before venturing out so they may direct the rafters away from constantly shifting dangers and not toward them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

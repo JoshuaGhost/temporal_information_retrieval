@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV105632" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1045852"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hughes, Carolyn T</person>
+        <person class="indexing_service">Allin, Michael</person>
+        <object.title class="indexing_service">Zarafa (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DA1F3FF930A2575AC0A96E958260" item-length="378" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Carolyn T. Hughes</byline>
+      <byline class="normalized_byline">Hughes, Carolyn T</byline>
+      <abstract>
+        <p>Carolyn T Hughes reviews book Zarafa: A Giraffe's True Story, From Deep in Africa to the Heart of Paris by Michael Allin (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Zarafa</p>
+        <p>A Giraffe's True Story, From Deep</p>
+        <p>in Africa to the Heart of Paris.</p>
+        <p>By Michael Allin.</p>
+        <p>Walker, $22.</p>
+      </block>
+      <block class="full_text">
+        <p>Zarafa</p>
+        <p>A Giraffe's True Story, From Deep</p>
+        <p>in Africa to the Heart of Paris.</p>
+        <p>By Michael Allin.</p>
+        <p>Walker, $22.</p>
+        <p>On Tuesday, Oct. 31, 1826, a giraffe set foot in France for the first time. The 12-foot-2-inch animal was a gift from Muhammad Ali, the Ottoman viceroy of Egypt, to King Charles X. In ''Zarafa,'' Michael Allin does a terrific job of chronicling the giraffe's remarkable pilgrimage from Egypt to Paris, as well as analyzing the profound effect the animal had on the French people and on relations between France and Egypt. Zarafa (Allin's own name for the animal, from the Arabic for ''giraffe'') sailed to Marseilles on a specially constructed ship with ''a hole . . . cut in the deck . . . to allow Zarafa to stand upright below.'' Since Zarafa drank only milk, three milking cows made the trip as well. At times, Allin's first book reads like a fairy tale, never more so than when he describes Zarafa's journey from Marseilles to Paris. Her two Egyptian handlers, along with Etienne Geoffroy Saint-Hilaire, the founder of the Paris zoo, decided the safest way for the giraffe to journey to the capital was to walk, so they all walked with her, along with several gendarmes and an antelope (another gift from Ali). The 550-mile procession took 41 days. By the time Zarafa arrived in Lyons, she was greeted by a crowd of 30,000. Zarafa stayed in the Paris zoo until she died in 1845. Such is Allin's devotion to the animal that he tracked her body down to a museum in La Rochelle, on the west coast of France. There, some 153 years after her death, she stands at the top of a stairwell, where, Allin writes, ''she is silhouetted as though . . . aboard her felucca sailing down the Nile.''</p>
+        <p>Carolyn T. Hughes</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

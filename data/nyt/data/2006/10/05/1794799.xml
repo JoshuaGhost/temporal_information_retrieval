@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   NONACK, VICTOR Z.</title>
+    <meta content="dn100506" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1794799"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <person class="indexing_service">NONACK, VICTOR Z.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00EFDD153AF936A35753C1A9609C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   NONACK, VICTOR Z.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NONACK--Victor Z., of Huntington, NY, died suddenly September 17 at age 88. Born in Great Neck, he grew up in Waterbury, CT, where he attended local schools. He graduated from RPI in 1942 with a degree in mechanical engineering. After graduation, he worked for Sperry Gyroscope and then for Nabisco, retiring in 1985. He was an avid golfer and sports fan. His wife, Grace (Semon) Nonack, died in 1981. Mr. Nonack is survived by his son Stephen, and son-in-law Christopher Saheed, of Hull, MA, and by his son Peter, daughter-in-law Ruth, and grandsons Christopher and Henry, of Swarthmore, PA.</p>
+      </block>
+      <block class="full_text">
+        <p>NONACK--Victor Z., of Huntington, NY, died suddenly September 17 at age 88. Born in Great Neck, he grew up in Waterbury, CT, where he attended local schools. He graduated from RPI in 1942 with a degree in mechanical engineering. After graduation, he worked for Sperry Gyroscope and then for Nabisco, retiring in 1985. He was an avid golfer and sports fan. His wife, Grace (Semon) Nonack, died in 1981. Mr. Nonack is survived by his son Stephen, and son-in-law Christopher Saheed, of Hull, MA, and by his son Peter, daughter-in-law Ruth, and grandsons Christopher and Henry, of Swarthmore, PA.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Asterisk Defended</title>
+    <meta content="LTR052603" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1034642"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <person class="indexing_service">Ruth, George Herman (Babe) (1895-1948)</person>
+        <person class="indexing_service">Maris, Roger</person>
+        <person class="indexing_service">McMorrow, Tom</person>
+        <person class="indexing_service">Frick, Ford (Comr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E3D91E39F935A15754C0A96E958260" item-length="213" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Asterisk Defended</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Tom McMorrow says Roger Maris never broke Babe Ruth's home run record and defends then baseball Comr Ford Frick's decision to place asterisk beside Maris's record, indicating '162 games' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>In all the articles about the probability that a new home run record will be set this season, one name is never mentioned: that of a fellow named Babe Ruth. This is atrociously bad reporting since Babe Ruth's home run record has never been broken.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>In all the articles about the probability that a new home run record will be set this season, one name is never mentioned: that of a fellow named Babe Ruth. This is atrociously bad reporting since Babe Ruth's home run record has never been broken.</p>
+        <p>As one who was on the scene at the time that Roger Maris hit 61 home runs, I remember that after playing 154 games in that 1961 season, Maris had hit 59. Playing eight extra games, he hit two more. While he exceeded Ruth's record, he did not break it, and that was why Commissioner Ford Frick correctly ruled that an asterisk be placed beside this record, indicating ''162 games.'' In 1927, Ruth was hitting one in about every two and a half games. The law of averages indicates that in eight more games, the Babe would have hit three more, for a total of 63.</p>
+        <p>Almost certainly both records will be broken this year, but let us honor the incomparable Babe Ruth by observing them as separate records.</p>
+        <p>TOM McMORROW  Manhattan</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

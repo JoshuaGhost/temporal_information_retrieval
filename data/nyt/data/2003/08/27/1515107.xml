@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Americas: Canada: Banks Post Profits</title>
+    <meta content="MB010642" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1515107"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Royal Bank of Canada</org>
+        <org class="indexing_service">Bank of Nova Scotia</org>
+        <org class="indexing_service">Bank of Montreal</org>
+        <person class="indexing_service">Simon, Bernard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E4D61039F934A1575BC0A9659C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Americas: Canada: Banks Post Profits</hl1>
+      </hedline>
+      <byline class="print_byline">By Bernard Simon (NYT)</byline>
+      <byline class="normalized_byline">Simon, Bernard</byline>
+      <abstract>
+        <p>Royal Bank of Canada improved net income 7 percent, to 776 million Canadian dollars ($554 million) in fiscal quarter ended July 31; Bank of Nova Scotia's earnings rose 11 percent, to 626 million Canadian dollars ($447 million), and Bank of Montreal reports 46 percent increase in earnings to 504 million Canadian dollars ($360 million) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three of Canada's big five banks reported higher quarterly earnings today, with improved investment banking business and lower loan-loss provisions offsetting the strong Canadian dollar on revenues from American operations. The Royal Bank of Canada improved net income 7 percent, to 776 million Canadian dollars ($554 million). The Bank of Nova Scotia's earnings rose 11 percent, to 626 million Canadian dollars ($447 million), and the Bank of Montreal reported a 46 percent increase in earnings to 504 million Canadian dollars ($360 million). The period, which ended July 31, was their fiscal third quarter. Royal Bank and Bank of Montreal raised their quarterly dividends. Bank of Nova Scotia increased its payout earlier this year.</p>
+        <p>Bernard Simon (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Three of Canada's big five banks reported higher quarterly earnings today, with improved investment banking business and lower loan-loss provisions offsetting the strong Canadian dollar on revenues from American operations. The Royal Bank of Canada improved net income 7 percent, to 776 million Canadian dollars ($554 million). The Bank of Nova Scotia's earnings rose 11 percent, to 626 million Canadian dollars ($447 million), and the Bank of Montreal reported a 46 percent increase in earnings to 504 million Canadian dollars ($360 million). The period, which ended July 31, was their fiscal third quarter. Royal Bank and Bank of Montreal raised their quarterly dividends. Bank of Nova Scotia increased its payout earlier this year.</p>
+        <p>Bernard Simon (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

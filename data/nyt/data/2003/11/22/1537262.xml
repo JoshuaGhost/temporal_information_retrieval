@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Blame Home Schooling?</title>
+    <meta content="L22HOME" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1537262"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Home Schooling</classifier>
+        <person class="indexing_service">Warshaw, Meredith</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E7DF123BF931A15752C1A9659C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Blame Home Schooling?</hl1>
+      </hedline>
+      <abstract>
+        <p>Meredith Warshaw letter on Nov 15 editorial defends home schooling and scores implication that schools are safer than home for children</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Make Home Schooling Safe for Children'' (editorial, Nov. 15):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Make Home Schooling Safe for Children'' (editorial, Nov. 15):</p>
+        <p>You imply that home schooling is the reason three boys in New Jersey were not rescued from starvation. But the family was not isolated from the community, and many people had the opportunity to get help for the boys.</p>
+        <p>Furthermore, many abused children attend public school without having their abuse noticed.</p>
+        <p>You also say the Individuals With Disabilities Education Act ''requires the states to seek out disabled children to ensure that they get the services and education they need.''</p>
+        <p>Many home-schooling families pull their children from public schools that are unwilling to provide needed services. Others home-school because their children were abused or bullied in school.</p>
+        <p>To imply that schools are safer than home for children is an affront to the large community of caring home-schooling parents.</p>
+        <p>MEREDITH WARSHAW  Newton Highlands, Mass.  Nov. 18, 2003</p>
+        <p>The writer is a home-schooler and a special-needs education adviser.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

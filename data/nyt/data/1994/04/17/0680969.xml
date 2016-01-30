@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PHANTOM RIVAL</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="680969"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CANCER</classifier>
+        <person class="indexing_service">REESE, KATHLEEN</person>
+        <person class="indexing_service">GREENBERG, MARILYN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DF1E3EF934A25757C0A962958260" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PHANTOM RIVAL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I am not Marilyn Greenberg's tennis lady, but I've heard a lot about her since I was diagnosed with breast cancer last fall and started this odd adventure with surgery, reconstruction and chemotherapy. I have heard a lot about the tennis lady's opposite number, too -- the one who is so much worse off than I am. "You're just having six chemo treatments?" someone will say. "My next-door neighbor's best friend had to go in twice a week for six months."</p>
+      </block>
+      <block class="full_text">
+        <p>I am not Marilyn Greenberg's tennis lady, but I've heard a lot about her since I was diagnosed with breast cancer last fall and started this odd adventure with surgery, reconstruction and chemotherapy. I have heard a lot about the tennis lady's opposite number, too -- the one who is so much worse off than I am. "You're just having six chemo treatments?" someone will say. "My next-door neighbor's best friend had to go in twice a week for six months."</p>
+        <p>Congratulations to Greenberg for managing to keep her sense of humor, her sense of the absurd, her sense that the world is always going to be somewhat out of kilter and we might as well make the best of it. KATHLEEN REESE Dallas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

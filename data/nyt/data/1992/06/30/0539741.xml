@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times; A Doctor's Life</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="539741"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <person class="indexing_service">SMULEWICZ, JAN J</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D6103FF933A05755C0A964958260" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times; A Doctor's Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Jan Jakob Smulewicz died of heart failure in New York last week at the age of 69. He was not famous. He never made the gossip magazines or TV talk shows. Before yesterday's obituary, he'd been mentioned in The Times only once. Judging from that obituary, he was a man worth knowing.</p>
+        <p>Dr. Smulewicz was the only member of his family to survive the Holocaust. He survived concentration camps and three death sentences. Nazi guards changed their minds twice, and the third time Dr. Smulewicz, a medic and nurse in the camps, put his numbered prison uniform on an inmate who had died of typhus and compatriots said the body was his. The guards were afraid to inspect the corpse.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Jan Jakob Smulewicz died of heart failure in New York last week at the age of 69. He was not famous. He never made the gossip magazines or TV talk shows. Before yesterday's obituary, he'd been mentioned in The Times only once. Judging from that obituary, he was a man worth knowing.</p>
+        <p>Dr. Smulewicz was the only member of his family to survive the Holocaust. He survived concentration camps and three death sentences. Nazi guards changed their minds twice, and the third time Dr. Smulewicz, a medic and nurse in the camps, put his numbered prison uniform on an inmate who had died of typhus and compatriots said the body was his. The guards were afraid to inspect the corpse.</p>
+        <p>The doctor escaped and helped liberate other camps. Later he immigrated to Israel, where he won a combat medal as an army doctor, and in 1957 came to the United States, where he taught, wrote about medicine and revamped the radiology departments of three hospitals. He also helped those further down the medical ladder, encouraging orderlies to become doctors and cleaners to become technicians, and founded a program at Harlem Hospital to help local youths become X-ray technicians.</p>
+        <p>Dr. Jan Jakob Smulewicz, of southeast Poland, Germany, Israel and Manhattan, lived a life worth noting not so much because he survived unimaginable horrors but because he gave meaning to his survival.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

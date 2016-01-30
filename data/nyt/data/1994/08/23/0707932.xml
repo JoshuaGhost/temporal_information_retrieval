@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Intel and AT&amp;T Join Forces on Video Telephone</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="707932"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="COMPANY REPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEPHONES AND TELECOMMUNICATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">VIDEOPHONES</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">JOINT VENTURES AND CONSORTIUMS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">STANDARDS AND STANDARDIZATION</classifier>
+        <org class="indexing_service">INTEL CORP</org>
+        <org class="indexing_service">AT&amp;T CORP</org>
+        <person class="indexing_service">MARKOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDB1539F930A1575BC0A962958260" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Intel and AT&amp;T Join Forces on Video Telephone</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF,</byline>
+      <byline class="normalized_byline">MARKOFF, JOHN</byline>
+      <dateline>SAN FRANCISCO, Aug. 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In an effort to overcome barriers to the acceptance of the video telephone, Intel and AT&amp;T announced an alliance today designed to accelerate the growth of personal computer-based video-conferencing systems.</p>
+        <p>The two companies said they would work together to build standards based on an AT&amp;T video-conferencing network known as Worldworx and on Intel's Proshare desktop video-conferencing system.</p>
+      </block>
+      <block class="full_text">
+        <p>In an effort to overcome barriers to the acceptance of the video telephone, Intel and AT&amp;T announced an alliance today designed to accelerate the growth of personal computer-based video-conferencing systems.</p>
+        <p>The two companies said they would work together to build standards based on an AT&amp;T video-conferencing network known as Worldworx and on Intel's Proshare desktop video-conferencing system.</p>
+        <p>The video telephone has been a dream for decades, failing to materialize because of poor quality, product incompatibility and consumer indifference. 'Positive Step'</p>
+        <p>The Intel Corporation, however, has been pushing to generate a market for individual video conferencing rather than the group conferencing systems that now dominate the market. Intel has been marketing Proshare, which includes an inexpensive video camera and a telephone headset and is designed to work with digital telephone lines, since January.</p>
+        <p>"This is a positive step, but it's just a small one," said Bruce Ryon, a technology analyst at Dataquest, a San Jose, Calif., market research company. He said that a recent Dataquest market survey had shown that although Intel was trying to jump-start the market for desktop video conferencing, most companies were still more interested in group-oriented products. Such systems require users to travel to a specially equipped conference room and require longer setup times than a simple telephone call.</p>
+        <p>The video-conferencing market is about $500 million annually, but it is growing at about 30 percent in unit volume a year, according to Dataquest estimates.</p>
+        <p>The Intel Proshare product, which is designed to work with an Intel-compatible personal computer, usually sells for between $999 and $1,500. An AT&amp;T executive said the Worldworx network would be priced in the range of 50 cents to $1.50 a minute for a phone call. Some Limits</p>
+        <p>There are limits, however, to the development of widespread video telephones. Only about 1 percent of the nation's phone lines are now digital, and analysts said the growth rate would remain disappointing in the future.</p>
+        <p>Another limit is incompatible standards. Although there is an industry standard called H.320 that is supported by Picturetel, a competitor, and other industry players, the Intel Proshare system is currently a proprietary system.</p>
+        <p>The AT&amp;T Worldworx network is designed to translate between incompatible systems, and the companies plan a demonstration in December of the technology, which is planned for commercial availability in 1995.</p>
+        <p>But a number of technical experts remain skeptical about whether such technology will offer seamless connections between competing manufacturers' products.</p>
+        <p>"When you have to go to great lengths to show interoperability, then there probably are lots of problems," said Richard Doherty, president of the Envisioneering Group, a Seaford, L.I., consulting firm.</p>
+        <p>Mr. Doherty said several significant obstacles remained to the deployment of Integrated Services Digital Network, or I.S.D.N., telephone lines. More Employees Needed</p>
+        <p>To increase the growth rate of digital lines from 1 percent to just 2 percent it would be necessary to hire back thousands of telephone company employees, because it is very labor intensive to install I.S.D.N. telephone lines, he said.</p>
+        <p>Another significant obstacle to the acceptance of video telephone systems has been quality. Users must put up with foggy resolution and jerky picture movement because there is not enough carrying capacity in the telephone lines or processor speeds in the systems. But Intel executives said that the company would continue to improve performance more frequently than once a year.</p>
+        <p>"My answer, is if you don't like video telephones today just wait six months and we'll make them better," Pat Gelsinger, Intel's vice president, said.  COMPANY REPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

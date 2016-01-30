@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Milk of Evolution</title>
+    <meta content="14thu4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/14/opinion/14thu4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1811746"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Evolution</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dairy Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Evolution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503EFD91531F937A25751C1A9609C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Milk of Evolution</hl1>
+        <hl2 class="online_headline">The Milk of Evolution</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial, prompted by discovery that human genetic trait of lactose tolerance developed surprisingly recently, says it is striking to realize that cultural change causes genetic change</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Evolution is a process that most of us associate with a geological time scale -- the slow elucidation of life over the last 3.5 billion years. We also tend to assume that the most recent signs of continuing evolution must be happening in species with short life spans and rapid reproductive rates.</p>
+        <p>A team of scientists has now discovered that an important human genetic trait -- a tolerance in adults for the milk sugar called lactose -- might have developed in several East African ethnic groups 2,700 to 6,800 years ago. That is astonishingly recent.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The dynamism of human culture has always seemed to move faster than evolution itself, but a recent discovery suggests otherwise.</p>
+      </block>
+      <block class="full_text">
+        <p>Evolution is a process that most of us associate with a geological time scale -- the slow elucidation of life over the last 3.5 billion years. We also tend to assume that the most recent signs of continuing evolution must be happening in species with short life spans and rapid reproductive rates.</p>
+        <p>A team of scientists has now discovered that an important human genetic trait -- a tolerance in adults for the milk sugar called lactose -- might have developed in several East African ethnic groups 2,700 to 6,800 years ago. That is astonishingly recent.</p>
+        <p>It may also be the first genetic example of what researchers call convergent evolution in humans. In other words, lactose tolerance among African raisers of livestock arose independently of the same adaptive trait in northern European pastoralists. But there is something still more surprising about this discovery. The genetic change came about because of cultural change. The shift to cattle raising some 9,000 years ago gave an immediate survival advantage to adults who could digest milk, an ability infants usually lost as they aged.</p>
+        <p>We are used to the idea that species evolve because of changes in their natural environment. But part of the natural environment of humans is culture itself, and it is striking to think that genetic adaptation in humans has been driven, at least in part, by how humans have chosen to live. The dynamism of human culture has always seemed to move faster than evolution itself, but this discovery suggests otherwise. To understand this about ourselves is to realize how little we know about the long-term effects of the ways we choose to live.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

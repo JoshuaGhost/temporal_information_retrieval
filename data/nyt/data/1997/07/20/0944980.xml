@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR235622" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="13NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="944980"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bookbinding</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">Jefferson Township (NJ)</location>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bookbinding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDC1F38F933A15754C0A961958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 13 article on bookbinding shop in Jefferson Township, NJ, regarding work done on some book spines (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article last Sunday about a bookbinding shop in Jefferson Township referred incorrectly to the work done on some book spines and the function of the shop's Linotype machine. Workers cut smooth edges on the spines of textbooks, not those of rare volumes. The machine molds the lettering used for gold embossing; the embossing itself is done on a separate machine.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article last Sunday about a bookbinding shop in Jefferson Township referred incorrectly to the work done on some book spines and the function of the shop's Linotype machine. Workers cut smooth edges on the spines of textbooks, not those of rare volumes. The machine molds the lettering used for gold embossing; the embossing itself is done on a separate machine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

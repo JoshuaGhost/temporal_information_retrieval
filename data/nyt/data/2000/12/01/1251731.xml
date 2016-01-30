@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011150" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1251731"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E1DB113DF932A35751C1A9669C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A brief report in the Footlights column of the arts pages on Wednesday misstated the day of two events for children. A songfest by the folk singer Tom Chapin in the Just Kidding series at Symphony Space at 11 a.m. and a workshop afterward where children can make their own guitars at the Children's Museum of Manhattan will both be tomorrow, not on Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>A brief report in the Footlights column of the arts pages on Wednesday misstated the day of two events for children. A songfest by the folk singer Tom Chapin in the Just Kidding series at Symphony Space at 11 a.m. and a workshop afterward where children can make their own guitars at the Children's Museum of Manhattan will both be tomorrow, not on Sunday.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With the Internet, Everyone Is a Guide</title>
+    <meta content="15transgusto" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/15/travel/15transgusto.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1797161"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="IN TRANSIT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1DB1330F936A25753C1A9609C8B63" item-length="297" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With the Internet, Everyone Is a Guide</hl1>
+        <hl2 class="online_headline">With the Internet, Everyone Is a Guide</hl2>
+      </hedline>
+      <byline class="print_byline">By JENNIFER CONLIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Your cruise ship sank, and you're stranded on a deserted island. What three things do you need?,'' Gusto.com, a new social networking travel Web site, asks its members when they create a personal profile. ''A wind-up radio, beautiful woman and a guitar,'' one member wrote. ''A helicopter, helicopter pilot and pint of Guinness'' was another answer.</p>
+        <p>Welcome to the latest Web trend -- a combination of TripAdvisor reviews and MySpace personal profiles -- where members can upload photos, write blogs, bookmark their favorite destinations and post reviews on everything from their latest travel experiences (''the secrets of Bahía de Banderas'') to their best friend's wedding in Vail (complete with 20 party photos).</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The latest Web trend is a combination of TripAdvisor reviews and MySpace personal profiles.</p>
+      </block>
+      <block class="full_text">
+        <p>''Your cruise ship sank, and you're stranded on a deserted island. What three things do you need?,'' Gusto.com, a new social networking travel Web site, asks its members when they create a personal profile. ''A wind-up radio, beautiful woman and a guitar,'' one member wrote. ''A helicopter, helicopter pilot and pint of Guinness'' was another answer.</p>
+        <p>Welcome to the latest Web trend -- a combination of TripAdvisor reviews and MySpace personal profiles -- where members can upload photos, write blogs, bookmark their favorite destinations and post reviews on everything from their latest travel experiences (''the secrets of Bahía de Banderas'') to their best friend's wedding in Vail (complete with 20 party photos).</p>
+        <p>''I like to think of Gusto as a travel playground where people can share their favorite destinations,'' says Jeff Wasson, the site's founder. ''For people who are passionate about travel, it is a way to dream about going places and meeting people even while sitting at home.''</p>
+        <p>Gusto.com follows in the wake of Wayn.com (Where are you now?), started early last year to connect people who met while traveling. Now the site has reached six million viewers, many of whom look at the online map of the world to see where their friends are currently traveling.</p>
+        <p>TripConnect.com says its members have been to nearly 210,000 places -- and counting -- and posts an array of members' food photos to prove it, including a young girl serving a platter of ''pigeon on a stick'' in Shanghai and a close-up shot of a colorful ''paella in Marbella.''</p>
+        <p>Adventure travelers might prefer Tripmates.com, which bills itself as the site that ''gets you connected before you depart.'' Bloggers regularly post travel reviews from far-flung places like Kilimanjaro, Botswana and the Hindu Kush, a mountain range in northeast Afghanistan and Kashmir.</p>
+        <p>IN TRANSIT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

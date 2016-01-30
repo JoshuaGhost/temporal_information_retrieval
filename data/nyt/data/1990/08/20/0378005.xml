@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Foster Grant Bankruptcy</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="378005"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BANKRUPTCIES</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <org class="indexing_service">FOSTER GRANT CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D7123BF933A1575BC0A966958260" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Foster Grant Bankruptcy</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Foster Grant Corporation, the maker of sunglasses, filed for protection from its creditors on Thursday under Chapter 11 of the Federal Bankruptcy Code. In the filing in Tucson, Ariz., it reported total assets of about $25 million and liabilities of about $36 million, including nearly $19.3 million in unsecured debt.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Foster Grant Corporation, the maker of sunglasses, filed for protection from its creditors on Thursday under Chapter 11 of the Federal Bankruptcy Code. In the filing in Tucson, Ariz., it reported total assets of about $25 million and liabilities of about $36 million, including nearly $19.3 million in unsecured debt.</p>
+        <p>The Foster Grant Corporation, the maker of sunglasses, filed for protection from its creditors on Thursday under Chapter 11 of the Federal Bankruptcy Code. In the filing in Tucson, Ariz., it reported total assets of about $25 million and liabilities of about $36 million, including nearly $19.3 million in unsecured debt. Foster Grant, founded in 1919 by Sam Foster, was the first company to use abrasion-resistant lens coatings that blocked the sun's ultraviolet rays. The company said it sold more than $50 million worth of sunglasses, eyeglasses and related lens products in 1989, when total retail sales of nonprescription sunglasses in the United States was $1.7 billion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

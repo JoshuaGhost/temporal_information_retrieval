@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Cute Deer Go Bad</title>
+    <meta content="20SUN2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/20/opinion/20sun2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1658588"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hunting and Trapping</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Deer</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">New Jersey Audubon Society</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hunting and Trapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE6D7113CF933A15750C0A9639C8B63" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Cute Deer Go Bad</hl1>
+        <hl2 class="online_headline">When Cute Deer Go Bad</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports New Jersey Audubon Society report endorsing deer hunting as effective method to control abundant deer population in state</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forgive us if you are among the millions of gardeners, farmers, bird-watchers, drivers, fence builders, claims adjusters, body-shop operators, roadkill scrapers, 911 dispatchers, physical therapists and chiropractors who know this already.</p>
+        <p>White-tailed deer are a plague.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The plague of white-tailed deer is a prime example of how an ecosystem, in this case, our suburban landscapes, can go badly out of balance.</p>
+      </block>
+      <block class="full_text">
+        <p>Forgive us if you are among the millions of gardeners, farmers, bird-watchers, drivers, fence builders, claims adjusters, body-shop operators, roadkill scrapers, 911 dispatchers, physical therapists and chiropractors who know this already.</p>
+        <p>White-tailed deer are a plague.</p>
+        <p>In their overwhelming abundance, they are prime examples of an ecosystem badly out of balance. They denude forests, making life impossible for vulnerable native plants and birds while allowing invasive species to thrive. While deer profoundly vex suburban gardeners, that annoyance pales next to the lethal danger they pose to drivers.</p>
+        <p>Now, even bird lovers want the deer subdued. The New Jersey Audubon Society, in a report last week, urged the consideration of lethal means to solve the problem, arguing that fencing, contraception and other gentle tactics have proved largely ineffective. The group wants the government to rethink conservation policies it says are intended to maximize herds for hunters, and to consider -- especially in the suburbs, where hunting is too dangerous -- bringing in sharpshooters.</p>
+        <p>It may sound harsh, even strange coming from an organization whose mission is to foster ''environmental awareness and a conservation ethic.'' But the group -- which does not speak for the National Audubon Society -- has it exactly right.</p>
+        <p>Deer are simply heeding the biological imperative to go forth and multiply. With no natural predators, and the suburbs a year-round salad bar, they have slipped out of their ecological niche -- and it's our fault, not theirs. The deer did not ask human beings to create the kind of predator-free suburban landscapes in which they now thrive. But the mountain lion, gray wolf and bobcat are not about to return, and the houses and highways are staying put. People, therefore, must own up to their place in a compromised food chain, and assume the responsibility for managing it well.</p>
+        <p>Unfortunately, deer contradict our innate assumption that only ugly creatures can be vermin. As the recent release of the ''Bambi'' DVD reminds us, they seem miscast as villains. But wise conservation means looking at the environment as a whole -- from the smallest wildflower on forest floor to the biggest brown-eyed herbivore. The whole system -- not just the prettiest mammals -- needs protection.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

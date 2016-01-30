@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fathers' Crusade</title>
+    <meta content="LTR112309" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1674219"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DF1639F931A15756C0A9639C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fathers' Crusade</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Why would it be in the best interests of a child to turn over custody to a man who is driven to spend his nights on the ledges of tall buildings when he could better be home with the infant he already has in his custody? It isn't exactly clear what his vision is of the bond between parent and child. Isn't it about putting the interest of a child you love above your own? I didn't hear much of that from these guys. You could substitute ''Ferrari'' for ''child'' in much of their conversation, and it would have the same emotional content. It isn't about the kid; it's about winning.</p>
+        <p>Priscilla Robinson  Tucson</p>
+      </block>
+      <block class="full_text">
+        <p>Why would it be in the best interests of a child to turn over custody to a man who is driven to spend his nights on the ledges of tall buildings when he could better be home with the infant he already has in his custody? It isn't exactly clear what his vision is of the bond between parent and child. Isn't it about putting the interest of a child you love above your own? I didn't hear much of that from these guys. You could substitute ''Ferrari'' for ''child'' in much of their conversation, and it would have the same emotional content. It isn't about the kid; it's about winning.</p>
+        <p>Priscilla Robinson  Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

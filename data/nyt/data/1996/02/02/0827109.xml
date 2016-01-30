@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harper's Shares Electronic Profits With Authors</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="827109"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">ROYALTIES</classifier>
+        <classifier class="indexing_service" type="descriptor">WRITING AND WRITERS</classifier>
+        <classifier class="indexing_service" type="descriptor">MAGAZINES</classifier>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <org class="indexing_service">HARPER'S (MAGAZINE)</org>
+        <org class="indexing_service">NEW YORK TIMES</org>
+        <person class="indexing_service">CARMODY, DEIRDRE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4DB1739F931A35751C0A960958260" item-length="607" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harper's Shares Electronic Profits With Authors</hl1>
+      </hedline>
+      <byline class="print_byline">By DEIRDRE CARMODY</byline>
+      <byline class="normalized_byline">CARMODY, DEIRDRE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Harper's Magazine yesterday became the first publication to begin sharing its profits from electronic publishing with writers.</p>
+        <p>The decision represents a breakthrough for freelance writers in their continuing battle with publishers over who should profit when an article that has already appeared in print is published on an on-line service or on CD-ROM.</p>
+      </block>
+      <block class="full_text">
+        <p>Harper's Magazine yesterday became the first publication to begin sharing its profits from electronic publishing with writers.</p>
+        <p>The decision represents a breakthrough for freelance writers in their continuing battle with publishers over who should profit when an article that has already appeared in print is published on an on-line service or on CD-ROM.</p>
+        <p>Most publishing companies, including The New York Times, have in effect taken a hard line. They say that writers are paid for the work they produce but  that once an article is turned in by the author, the company can publish it electronically without paying royalties to the writer.</p>
+        <p>The Authors Guild and the American Society of Journalists and Authors, which  represent 8,000 writers between them, take the position that the publisher should share profits from any other publication of the piece with the writer.</p>
+        <p>"This is a very important breakthrough and the first publication I know of that has agreed to systematically pay writers," Paul Aiken, executive director of the Authors Guild, said of the move by Harper's, which is owned by the Harper's Magazine Foundation.</p>
+        <p>The magazine said that it would evenly split all CD-ROM and on-line royalties with authors. Harper's also said it would pay writers retroactively for electronic distribution of their articles since January 1994.</p>
+        <p>"We were in fact in violation of our contract, which promised writers a 50-50 split, because we were not paying them anything" for electronic versions of their work, said John R. MacArthur, who in addition to being president and publisher of Harper's is an author himself. "We are now giving them 50 percent of the revenue derived from electronic publication of their articles."</p>
+        <p>Mr. MacArthur said that the magazine had not previously granted its writers electronic rights because no one had been able to come up with an acceptable method of determining payments. On-line payments will now be determined by the number of times the material has been viewed.</p>
+        <p>Mr. MacArthur said that it was important to point out that the sums being paid were "hardly a huge amount of money." The 67 checks that will be sent out this week total $1,629.34. They range from payments of $2.72 to $150.36. These checks compensate authors for use of their material on CD-ROM. In about two weeks, checks will be mailed to writers that will also include royalties for on-line material.</p>
+        <p>As big a stumbling block as a way to determine payments was the publishers' resistance to the amount of bookkeeping involved in determining and sending out  payments. An Authors Registry has been established for just that purpose. It now represents 50,000 authors and agents. Although Harper's will send out its own checks this week, all royalty payments are set to be handled by the registry beginning in the middle of this month.</p>
+        <p>Dan Carlinsky, an author who has helped organize a protest by authors seeking payment for electronic versions of their work, said that in the past several magazine and newspaper publishers had paid individual writers for past use of electronic publication of articles on an ad hoc basis. Others are now drawing up contracts that agree to pay for future electronic use of articles. Harper's decision is noteworthy because it is paying writers retroactively as well as setting future policy.</p>
+        <p>Although access to Harper's can be made on line through other providers, it does not have its own World Wide Web site on the Internet.</p>
+        <p>THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Got 'Em, Got 'Em Need 'Em Tovarish</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="490967"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SIDELINES: ET CETERA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <person class="indexing_service">ESKENAZI, GERALD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DC1E39F931A35751C1A967958260" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Got 'Em, Got 'Em Need 'Em Tovarish</hl1>
+      </hedline>
+      <byline class="print_byline">By Gerald Eskenazi</byline>
+      <byline class="normalized_byline">ESKENAZI, GERALD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was bound to happen: For the first time, Soviet hockey stars (yes, there still are some who haven't taken jobs in North America) are featured on their own trading cards. The Upper Deck Company, which makes the cards, made capitalist-style deals with the skaters. The cards are printed in English, but the phrase "Soviet Stars" appears in Russian on both sides. Upper Deck is sending boxed sets to both MIKHAIL S. GORBACHEV, the Soviet President, and BORIS N. YELTSIN, the President of the Russian republic, said the company's vice president, TONY LOIACONO.</p>
+      </block>
+      <block class="full_text">
+        <p>It was bound to happen: For the first time, Soviet hockey stars (yes, there still are some who haven't taken jobs in North America) are featured on their own trading cards. The Upper Deck Company, which makes the cards, made capitalist-style deals with the skaters. The cards are printed in English, but the phrase "Soviet Stars" appears in Russian on both sides. Upper Deck is sending boxed sets to both MIKHAIL S. GORBACHEV, the Soviet President, and BORIS N. YELTSIN, the President of the Russian republic, said the company's vice president, TONY LOIACONO.</p>
+        <p>SIDELINES: ET CETERA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

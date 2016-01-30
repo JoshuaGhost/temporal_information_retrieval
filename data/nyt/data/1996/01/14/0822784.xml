@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Japanese Suicide Linked To Nuclear Plant Leak</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="822784"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATOMIC ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">SUICIDES AND SUICIDE ATTEMPTS</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <location class="indexing_service">JAPAN</location>
+        <person class="indexing_service">NISHIMURA, SHIGEO</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suicides and Suicide Attempts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EED61039F937A25752C0A960958260" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Japanese Suicide Linked To Nuclear Plant Leak</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>TOKYO, Jan. 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The official in charge of investigating a possible cover-up of Japan's worst  nuclear power accident committed suicide today by jumping from the roof of a Tokyo hotel, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>The official in charge of investigating a possible cover-up of Japan's worst  nuclear power accident committed suicide today by jumping from the roof of a Tokyo hotel, the police said.</p>
+        <p>A police spokesman identified the suicide as Shigeo Nishimura, 49, deputy general manager of the general affairs department of the Power Reactor and the Nuclear Fuel Development Corporation, the Government concern that runs the country's prototype fast-breeder reactor.</p>
+        <p>Officials of the corporation said that Mr. Nishimura was not involved in the cover-up but was distressed by evidence he had unearthed.</p>
+        <p>The accident, on Dec. 8, involved a major leak of coolant at Monju, at Tsuruga, 200 miles west of Tokyo.</p>
+        <p>Three tons of liquid sodium spilled from a pipe at the $6.2 billion reactor,  which has been closed indefinitely until the cause of the leak has been identified.</p>
+        <p>Mr. Nishimura leaped to his death the day after attending a news conference at which officials disclosed that the cover-up had extended from plant officials to company headquarters in Tokyo.</p>
+        <p>At the news conference, the officials acknowledged that a video of the accident had been heavily edited before it was given to news media to make the leak appear less serious.</p>
+        <p>The police said Mr. Nishimura had left three letters in his hotel room addressed to his wife and a number of colleagues.</p>
+        <p>Japan began the Monju project in 1985 to build a reactor that produced more nuclear fuel than it consumed, but it has had a series of problems.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

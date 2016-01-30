@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LUBELL, RUBY</title>
+    <meta content="DN081703" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1512949"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">LUBELL, RUBY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DE1330F934A2575BC0A9659C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LUBELL, RUBY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LUBELL--Ruby. August 12, 2003. She is survived by her beloved husand of 62 years, Nathan Lubell. Mother of Sharon (Ken) Bolog, Gail (Lyle) Gillis, Kathy (Martin) Randell and the late Ronnie Itzler (Ronald). Grandmother of Richard, Erik, Jason, Nicole, Felice, Jane, Hy, Heather, Corey and Bret. Greatgrandmother of ten. Funeral services were private.</p>
+      </block>
+      <block class="full_text">
+        <p>LUBELL--Ruby. August 12, 2003. She is survived by her beloved husand of 62 years, Nathan Lubell. Mother of Sharon (Ken) Bolog, Gail (Lyle) Gillis, Kathy (Martin) Randell and the late Ronnie Itzler (Ronald). Grandmother of Richard, Erik, Jason, Nicole, Felice, Jane, Hy, Heather, Corey and Bret. Greatgrandmother of ten. Funeral services were private.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

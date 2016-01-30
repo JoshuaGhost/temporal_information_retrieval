@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Detroit Unfazed By Japan Move</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="515388"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">QUOTAS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <org class="indexing_service">FORD MOTOR CO</org>
+        <org class="indexing_service">GENERAL MOTORS CORP</org>
+        <org class="indexing_service">CHRYSLER CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Quotas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D9123BF933A15750C0A964958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Detroit Unfazed By Japan Move</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>DETROIT, March 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Detroit's Big Three were not impressed today by Japan's announcement that it would reduce the number of cars it exports to the United States to 1.65 million a year, saying the Japanese are still not playing fair.</p>
+        <p>And the United States said it did not seek the cut in Japanese car exports. "It was the Japanese decision on their own," a White House official said.</p>
+      </block>
+      <block class="full_text">
+        <p>Detroit's Big Three were not impressed today by Japan's announcement that it would reduce the number of cars it exports to the United States to 1.65 million a year, saying the Japanese are still not playing fair.</p>
+        <p>And the United States said it did not seek the cut in Japanese car exports. "It was the Japanese decision on their own," a White House official said.</p>
+        <p>"They give the misleading impression that something meaningful is being done to reduce the U.S. trade deficit with Japan," the General Motors Corporation said in a statement.</p>
+        <p>The chairman of the Ford Motor Company, Harold Poling, said, "All that has happened is that the Japanese Government has proposed a voluntary level for 1992 at about the same volume their auto makers imported into the United States from Japan in 1991."</p>
+        <p>The current ceiling is 2.3 million a year but sales are running at 1.76 million.  The Chrysler Corporation said the quota should be slashed to one million vehicles a year to "get back to a level playing field for everybody.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

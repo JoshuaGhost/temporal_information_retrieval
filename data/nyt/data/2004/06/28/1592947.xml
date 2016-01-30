@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>White Sox Acquire Garcia</title>
+    <meta content="MB013701" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1592947"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="BASEBALL: NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Trades (Sports)</classifier>
+        <classifier class="indexing_service" type="descriptor">Minor Leagues</classifier>
+        <org class="indexing_service">Chicago White Sox</org>
+        <org class="indexing_service">Seattle Mariners</org>
+        <person class="indexing_service">Curry, Jack</person>
+        <person class="indexing_service">Reed, Jeremy</person>
+        <person class="indexing_service">Olivo, Miguel</person>
+        <person class="indexing_service">Garcia, Freddy</person>
+        <person class="indexing_service">Davis, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Chicago White Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Seattle Mariners</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trades (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minor Leagues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE4DC1438F93BA15755C0A9629C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>White Sox Acquire Garcia</hl1>
+      </hedline>
+      <byline class="print_byline">By Jack Curry</byline>
+      <byline class="normalized_byline">Curry, Jack</byline>
+      <abstract>
+        <p>Chicago White Sox trade catcher Miguel Olivo, outfielder Jeremy Reed and minor leaguer to Seattle Mariners for pitcher Freddy Garcia and catcher Ben Davis (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Before the Seattle Mariners traded Freddy Garcia to the Chicago White Sox yesterday, they called Yankees General Manager Brian Cashman to let him know they had a strong offer. A few hours later, the Mariners called again and said they were taking the White Sox' offer.</p>
+        <p>The Mariners sent Garcia, one of the best pitchers available on the trade market, and catcher Ben Davis to Chicago for catcher Miguel Olivo; outfielder Jeremy Reed, an elite prospect; and another minor leaguer. Cashman said Seattle did not believe the Yankees could make a superior offer, and he agreed.</p>
+      </block>
+      <block class="full_text">
+        <p>Before the Seattle Mariners traded Freddy Garcia to the Chicago White Sox yesterday, they called Yankees General Manager Brian Cashman to let him know they had a strong offer. A few hours later, the Mariners called again and said they were taking the White Sox' offer.</p>
+        <p>The Mariners sent Garcia, one of the best pitchers available on the trade market, and catcher Ben Davis to Chicago for catcher Miguel Olivo; outfielder Jeremy Reed, an elite prospect; and another minor leaguer. Cashman said Seattle did not believe the Yankees could make a superior offer, and he agreed.</p>
+        <p>''I'm very comfortable,'' he said. ''It's not like we had a situation where we lost out or let him slip through our hands. The White Sox put up an offer we couldn't match.''</p>
+        <p>Cashman would not say what George Steinbrenner said about the trade, although Steinbrenner said yesterday that the Yankees had to improve their pitching. Pittsburgh's Kris Benson has been available for weeks. The Yankees would love to obtain Arizona's Randy Johnson, but it is unlikely the Diamondbacks will make him available, and Johnson has a no-trade clause.</p>
+        <p>Instead of bemoaning Garcia's being scooped up by another team, Cashman spoke optimistically about José Contreras's revival and Kevin Brown's recovery from injury. Cashman, who said that Jon Lieber needed to regain some consistency, added that he was not close to trading for a pitcher. ''We're not in a situation, in my opinion, where we have to do anything,'' he said.</p>
+        <p>Jack Curry</p>
+        <p>BASEBALL: NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

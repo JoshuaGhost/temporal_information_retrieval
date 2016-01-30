@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="510399"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ART</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOWS (EXHIBITS)</classifier>
+        <person class="indexing_service">COTTER, HOLLAND</person>
+        <person class="indexing_service">SCARPITTA, SAL</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920228T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEFDD1430F93BA15751C0A964958260" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">HOLLAND COTTER</byline>
+      <byline class="normalized_byline">COTTER, HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sal Scarpitta  Leo Castelli Gallery 578 Broadway (near Prince Street) SoHo Through tomorrow Annina Nosei Gallery 100 Prince Street SoHo Through March 7</p>
+        <p>Sal Scarpitta has not been an easy artist to keep track of. Although he was born in New York in 1919, he has exhibited as frequently in Italy as in the United States, and his art has remained closer to European models than to American ones. (The influence of Lucio Fontana, among others, is discernible.) These two exhibitions offer a bookends view of his still very active career, with early work at Castelli, where he first showed in 1959, and more recent work at Nosei.</p>
+      </block>
+      <block class="full_text">
+        <p>Sal Scarpitta  Leo Castelli Gallery 578 Broadway (near Prince Street) SoHo Through tomorrow Annina Nosei Gallery 100 Prince Street SoHo Through March 7</p>
+        <p>Sal Scarpitta has not been an easy artist to keep track of. Although he was born in New York in 1919, he has exhibited as frequently in Italy as in the United States, and his art has remained closer to European models than to American ones. (The influence of Lucio Fontana, among others, is discernible.) These two exhibitions offer a bookends view of his still very active career, with early work at Castelli, where he first showed in 1959, and more recent work at Nosei.</p>
+        <p>The earliest piece at Castelli, titled "Isola (Bedroom Wall)," from 1957-1958, consists of a wall-dependent wooden stretcher completely encased in resin-sealed strips of stained canvas. Mr. Scarpitta's inflation of the traditional stretched canvas into sculpture is deftly handled, but at least as notable is his effort to give the art object a psychological charge as a thing bandaged or straitjacketed, and possibly concealing something under its wrappings.</p>
+        <p>In the 1991-92 pieces at Nosei, this format becomes more sculptural -- it incorporates metal components to supplement wood and canvas painted in metallic colors -- and the image created is disconcertingly literal. By inserting a paddlelike instrument into a central opening in each piece, Mr. Scarpitta creates the form of a baking oven, specifically a pizza oven. The "pizzas" themselves, looking gray and decomposed, are made of disks of steel wool or collaged scraps of cloth, often with the sole of a shoe planted in their center. These are certainly among the strangest objects this artist has yet produced. Are they emblems of the creative process, or of art as a hot fast food gone unappetizingly cold? Are they an ironic bow to the artist's Italian-American heritage, or a reminder of sinister political realities?</p>
+        <p>Like the other new works at Nosei, which include the freestanding sleds and skis that have become the artist's signature, the oven pieces look overly elaborate and ungainly compared to the more abstract work of his earlier years. Yet for this very reason they also seem more complex and disturbing. Whether they constitute a multi-layered joke or a shout in the dark is hard to say, but for Mr. Scarpitta to be able to provoke such puzzlement at this point in a long career is an accomplishment in itself.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

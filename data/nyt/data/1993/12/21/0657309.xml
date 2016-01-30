@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Elizabeth Coates, 44, A Connecticut Lawyer</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="657309"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">COATES, ELIZABETH L R</person>
+        <person class="indexing_service">COATES, ELIZABETH L R</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D81538F932A15751C1A965958260" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Elizabeth Coates, 44, A Connecticut Lawyer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth L. R. Coates, a Connecticut lawyer active in community affairs, died on Thursday at Brigham and Women's Hospital in Boston. She was 44 and lived in New Canaan, Conn.</p>
+        <p>The cause was a viral infection following a bone marrow transplant, said her husband, Charles E. Coates 3d.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth L. R. Coates, a Connecticut lawyer active in community affairs, died on Thursday at Brigham and Women's Hospital in Boston. She was 44 and lived in New Canaan, Conn.</p>
+        <p>The cause was a viral infection following a bone marrow transplant, said her husband, Charles E. Coates 3d.</p>
+        <p>Mrs. Coates was born in Salem, Mass., was an honors graduate of Wellesley College and received her law degree from Boston University. She worked for the General Electric Company as a lawyer for seven years before going into private practice in Greenwich, most recently with the firm of Hopper &amp; Krause.</p>
+        <p>She was a past president and board chairman of the New Canaan Community Nursery School, president of the Southern Connecticut Wellesley Club and an elder of the First Presbyterian Church of New Canaan. She also was a supporter of South School in New Canaan, where she was an officer of the Parent-Teacher Council.</p>
+        <p>Besides her husband, also a lawyer in Greenwich, Mrs. Coates's survivors are her three daughters, Susanna, Margaret and Catherine; her parents, Donald T. and Betty Richardson of Fairfield, Conn.; and her three sisters, Susan R. Duncan of Simsbury, Conn., Leslie B. Richardson of Yardley, Pa., and Lisa Richardson-Bach of Marblehead, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Weddings; Miss Delafield And Mr. Cox</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="688788"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DELAFIELD, CAROLINE MORTIMER (CAROLINE MORTIMER COX)</person>
+        <person class="indexing_service">COX JR., WILLIAM PRESTON</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E1D61438F931A15756C0A962958260" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Weddings; Miss Delafield And Mr. Cox</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caroline Mortimer Delafield, a daughter of Mr. and Mrs. John D. Delafield of New York, was married yesterday to William Preston Cox Jr., a son of Mr. and Mrs. Cox of Lexington, Ky. The Rev. Francis Huntington performed the Episcopal ceremony at St. Paul's Trinity Parish in Tivoli, N.Y.</p>
+        <p>The bride graduated from the College of Wooster and received a master's degree in educational administration at Teachers College of Columbia University, where she was a Klingenstein Fellow.</p>
+      </block>
+      <block class="full_text">
+        <p>Caroline Mortimer Delafield, a daughter of Mr. and Mrs. John D. Delafield of New York, was married yesterday to William Preston Cox Jr., a son of Mr. and Mrs. Cox of Lexington, Ky. The Rev. Francis Huntington performed the Episcopal ceremony at St. Paul's Trinity Parish in Tivoli, N.Y.</p>
+        <p>The bride graduated from the College of Wooster and received a master's degree in educational administration at Teachers College of Columbia University, where she was a Klingenstein Fellow.</p>
+        <p>The bridegroom is the chief financial officer and a vice president of the Specialty Meat Group, a wholesaler in Fort Mitchell, Ky. He graduated from the University of Kentucky.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

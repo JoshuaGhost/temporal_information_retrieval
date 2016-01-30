@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CLASSICAL MUSIC</title>
+    <meta content="MB004713" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055588"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="IN PERFORMANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Chamber Music Society of Lincoln Center</org>
+        <person class="indexing_service">Griffiths, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D8143DF933A15753C1A96E958260" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CLASSICAL MUSIC</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL GRIFFITHS</byline>
+      <byline class="normalized_byline">Griffiths, Paul</byline>
+      <abstract>
+        <p>Paul Griffiths reviews Chamber Music Society of Lincoln Center's first program of season, at Alice Tully Hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Individual Instruments  State Their Cases  Chamber Music Society  Alice Tully Hall</p>
+        <p>The chamber version of Mahler's ''Song of the Earth,'' planned by Schoenberg for his private performance society at the beginning of the 20's but realized only 15 years ago by the German conductor Rainer Riehn, is now a regular item on the concert calendar. On Sunday, it was the main work on the first program of the season given by the Chamber Music Society, which showed many of the reasons why it works.</p>
+      </block>
+      <block class="full_text">
+        <p>Individual Instruments  State Their Cases  Chamber Music Society  Alice Tully Hall</p>
+        <p>The chamber version of Mahler's ''Song of the Earth,'' planned by Schoenberg for his private performance society at the beginning of the 20's but realized only 15 years ago by the German conductor Rainer Riehn, is now a regular item on the concert calendar. On Sunday, it was the main work on the first program of the season given by the Chamber Music Society, which showed many of the reasons why it works.</p>
+        <p>In the first place, it is real chamber music, at least in the sense that individual instruments matter. Here they mattered a lot. The violinist Ani Kavafian and the oboist Stephen Taylor both played beautifully and brought even tiny solos to life. Ms. Kavafian was generous-toned but fine-lined and intense; Mr. Taylor's eloquent phrasing, totally unsentimental, was a joy. And there was good work, too, from Ransom Wilson on flute and piccolo, David Shifrin on clarinet and Gary Hoffmann on cello. Some of the other players were not in such good form. The horn had almost zero dynamic modulation, and the piano was also poorly integrated. But David Golub, conducting, kept the music moving well.</p>
+        <p>The vocal soloists were Anthony Dean Griffey and Lorraine Hunt. Mr. Griffey was unvaried and sometimes out of tune. Ms. Hunt also had problems in her first two songs, especially in the low register, perhaps because she was saving her strength for the half-hour finale, in which she was magnificent.</p>
+        <p>An obvious companion piece might have been some original Schoenberg, but here instead was Schumann's Piano Quartet, which is of limited interest outside its slow movement; and even there, nobody can think what to do but play the luscious tune again. Mr. Hoffmann played gloriously in this work as well, with Cho-Liang Lin, Paul Neubauer and Mr. Golub now on piano.</p>
+        <p>PAUL GRIFFITHS</p>
+        <p>IN PERFORMANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

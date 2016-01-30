@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>O'Brien's Reward</title>
+    <meta content="TV3" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="TV Notes" name="column_name"/>
+    <docdata>
+      <doc-id id-string="921675"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="TV Notes"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">National Broadcasting Co (NBC)</org>
+        <person class="indexing_service">Carter, Bill</person>
+        <person class="indexing_service">O'Brien, Conan</person>
+        <object.title class="indexing_service">Late Night With Conan O'Brien (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1D8143CF93AA35757C0A961958260" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>O'Brien's Reward</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>Conan O'Brien comments on signing five-year contract to continue as host of NBC-TV's Late Night show (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Conan O'Brien signed a five-year extension with NBC this week to continue his ''Late Night'' show, it was, he conceded, ''a true statement.''</p>
+        <p>The message: Conan is for real.</p>
+      </block>
+      <block class="full_text">
+        <p>When Conan O'Brien signed a five-year extension with NBC this week to continue his ''Late Night'' show, it was, he conceded, ''a true statement.''</p>
+        <p>The message: Conan is for real.</p>
+        <p>Having gone through at least a year, by most accounts a while longer, of facing extinction every 13 weeks, the long-term deal was the final confirmation that Mr. O'Brien, the onetime comedy writer who got a shot as host of ''Late Night'' with absolutely no performing experience, had won over the doubters.</p>
+        <p>The most important doubters resided in several NBC executive suites. Long after Mr. O'Brien started to fare reasonably well in the ratings, some network executives questioned his ability and that of his increasingly popular sidekick, Andy Richter.</p>
+        <p>But with the steady rise to dominance of Jay Leno's ''Tonight'' show providing a helpful lead-in, and a batch of appreciative reviews, Mr. O'Brien is doing better than ever.</p>
+        <p>The NBC offer arrived at a time when he might have held out to see if offers from other networks might pour in. But he said yesterday: ''NBC is sort of the grand old party of late-night television. Being a part of that tradition, that has a strong appeal to me.''</p>
+        <p>Mr. O'Brien, who is 33, said he was not certain how long he would want to continue on ''Late Night.'' ''But I'd love to be 50 years old someday and have some 25-year-old writer come up to me and say, 'You're the reason I got into television' -- to do what David Letterman did for me.''</p>
+        <p>BILL CARTER</p>
+        <p>TV Notes</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

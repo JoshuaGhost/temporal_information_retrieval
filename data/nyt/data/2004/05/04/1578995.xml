@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Be Safer, Turn On the Security</title>
+    <meta content="04BRIE" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Wireless Living" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Home and Garden" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/05/04/technology/techspecial/04BRIE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1578995"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="STANDARDS AND PRACTICES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Wireless Communications</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Brier, Steven E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="descriptor">Coffee</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coffee</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E2D8143DF937A35756C0A9629C8B63" item-length="555" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Be Safer, Turn On the Security</hl1>
+        <hl2 class="online_headline">To Be Safer, Turn On the Security</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVEN E. BRIER</byline>
+      <byline class="normalized_byline">Brier, Steven E</byline>
+      <abstract>
+        <p>Wireless industry experts estimate that no more than 20 percent of home wireless networks users activate security programs that come with networks; preventive measures for keeping network secure suggested (special section, Wireless Living) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT is security like for most wireless networks? Pretty much what it would be if four out of five homeowners did not lock their front door -- some because the lock was too complicated, some because they didn't know that it wasn't locked and some because they didn't know they had a door.</p>
+        <p>On the other hand, many wireless users feel protected simply by how inherently uninteresting their e-mail seems as a target for hackers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>What is security like for most wireless networks? Pretty much what it would be if four out of five homeowners did not lock their front door.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT is security like for most wireless networks? Pretty much what it would be if four out of five homeowners did not lock their front door -- some because the lock was too complicated, some because they didn't know that it wasn't locked and some because they didn't know they had a door.</p>
+        <p>On the other hand, many wireless users feel protected simply by how inherently uninteresting their e-mail seems as a target for hackers.</p>
+        <p>As a result, many in the wireless industry estimate that no more than 20 percent of home networks activate the security programs that come with the networks. Manufacturers acknowledge that the programs' complexity is a problem, but point to a more fundamental ignorance. Relatively few PC users are aware that a wireless network is a miniradio station programmed to shout ''Here I am'' to anyone with a receiver within the length of a football field.</p>
+        <p>The simplest way to prevent someone from piggybacking on your signal -- or using it to break into your computer -- is to turn off that broadcast feature, or activate the encryption program that will keep out anyone who does not know the password. But until recently, those features were not easy to find in most set-up programs, let alone activate.</p>
+        <p>On top of it, industry analysts say, the standard security features, known as Wired Equivalent Privacy or WEP, were not that good. ''WEP's goals were modest, and the results were modest,'' says David Cohen, security task group chairman for the Wi-Fi Alliance, an organization that works to set standards for Wi-Fi products.</p>
+        <p>A new standard, Wi-Fi Protected Address or W.P.A., has recently been introduced. Mr. Cohen called it ''more secure than WEP and easier to use.'' But he said that users should still take common-sense steps like choosing complicated passwords, since ''myolddogbenny79'' will always be harder to guess than ''benny.''</p>
+        <p>Businesses, which face different and more serious security threats, will be able to use a more stringent version of W.P.A. that randomly generates an access key for many users. The more difficult challenge, some experts say, is policing offices to prevent employees from setting up Wi-Fi networks on a company network that could cause security breaches.</p>
+        <p>Other issues come up for consumers using the Wi-Fi networks in a wireless hot spot like a park or coffee shop. Such networks are rarely encrypted, experts say. ''Today, most Wi-Fi hot spots are open and unsecure,'' Mr. Cohen said. ''It's like using a cellphone in a crowed public room.''</p>
+        <p>On the other hand, people using a coffee shop's network to connect to their office network using the same kind of security key they would use on a dial-up connection are as secure as they are on a land line. And the more worrisome Internet transactions, like credit card purchases, are routinely encrypted.</p>
+        <p>Security systems are bound to get better, experts say, but the question will be whether consumers care enough to use them. For instance, at Kaldi's Coffee House in St. Louis, patrons happily piggyback on a network located somewhere in the same building, without worrying about what risks they might be running, said Howard Lerner, one of its owners. ''I imagine that they are just so pleased that it works that they don't go any further than that.''</p>
+        <p>STANDARDS AND PRACTICES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

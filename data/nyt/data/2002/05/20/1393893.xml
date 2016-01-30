@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At I.B.M., a Tinier Transistor Outperforms Its Silicon Cousins</title>
+    <meta content="20NANO$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/05/20/technology/20NANO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1393893"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Carbon</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Nanotechnology</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">International Business Machines Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5D71438F933A15756C0A9649C8B63" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At I.B.M., a Tinier Transistor Outperforms Its Silicon Cousins</hl1>
+        <hl2 class="online_headline">At I.B.M., a Tinier Transistor Outperforms Its Silicon Cousins</hl2>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>International Business Machines Corp reseachers report creating carbon nanotube transistors that substantially outperform models of even advanced silicon devices without departing from most common design of silicon chips; say transistors also have higher capacity for carrying electrical current, measure related to transistor speed, than previous designs using nanotubes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. researchers have created carbon nanotube transistors that substantially outperform models of even advanced silicon devices without departing from the most common design of silicon chips.</p>
+        <p>The I.B.M. transistors also have a higher capacity for carrying electrical current -- a measure related to transistor speed -- than previously designs using nanotubes.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists have created nanotube transistors that can outperform silicon in chips. The discovery indicates that nanotubes, 50,000 times as thin as a hair, could be used when it is no longer possible to shrink silicon designs.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. researchers have created carbon nanotube transistors that substantially outperform models of even advanced silicon devices without departing from the most common design of silicon chips.</p>
+        <p>The I.B.M. transistors also have a higher capacity for carrying electrical current -- a measure related to transistor speed -- than previously designs using nanotubes.</p>
+        <p>Nanotubes are tube-shaped molecules of carbon 50,000 times as thin as a human hair. Although commercial products are probably years away, the research provides the strongest indicator yet that carbon nanotubes could be feasible successors to today's silicon devices when developers reach the point where it is impossible to improve microchips by shrinking silicon designs further, according to Dr. Phaedon Avouris, manager of nanoscale science at I.B.M. Research in Yorktown Heights, N.Y.</p>
+        <p>The research results are being reported today in the Journal of Applied Physics Letters.</p>
+        <p>Compared with previous designs for nanotube transistors, the I.B.M. models use a more conventional arrangement of the various elements of the transistor, like insulators and the gate that switches current on or off, found in conventional silicon chips. Such arrangements are thought to be well suited to combining many transistors into logic circuits and low power consumption.</p>
+        <p>I.B.M. said that the nanotube transistors it built also carried two to four times as much current as comparable silicon devices. The devices are commonly called Mosfets (for metal-oxide semiconductor field-effect transistors).</p>
+        <p>Dr. Avouris said that the nanotube's performance relative to silicon should improve as more is learned about how to build nanotube structures. In addition, I.B.M. expects to achieve big gains in nanotube performance simply by shrinking their dimensions. Right now, several important elements are currently 10 times the size of their counterparts in the silicon models.</p>
+        <p>''There are some obvious ways of improving the nanotubes,'' said Dr. Avouris. For all the progress, he said it would be two to three more years before I.B.M. was ready to work on prototypes of future nanotube chips and as many as 10 years before they would be commercially available.</p>
+        <p>''I don't think we'll see a sharp transition from silicon to nanotubes,'' said Dr. Avouris. ''We expect to move to hybrids first.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bats at the Arsenal</title>
+    <meta content="NJ001718" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="New Jersey Daily Briefing" name="column_name"/>
+    <docdata>
+      <doc-id id-string="942815"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="New Jersey Daily Briefing"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bats</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Picatinny Arsenal (NJ)</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E5DF1039F933A25754C0A961958260" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bats at the Arsenal</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <dateline>ROCKAWAY TOWNSHIP</dateline>
+      <abstract>
+        <p>Researchers will try to capture about 30 Indiana bats that were discovered in cave on grounds of Picatinny Arsenal; Indiana bat is classified as endangered species; researchers want to tag them with radio transmitters in hope of finding out why they have strayed so far from their usual habitat (New Jersey Daily Briefing) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Of the 50,000 bats that make their home on the grounds of the Picatinny Arsenal, one tiny group has attracted the attention of scientists -- and $400,000 in Federal money.</p>
+        <p>It is the Indiana bat, a palm-sized brown variety found in much greater numbers in the Midwest. About 30 were discovered in a cave on the grounds last year.</p>
+      </block>
+      <block class="full_text">
+        <p>Of the 50,000 bats that make their home on the grounds of the Picatinny Arsenal, one tiny group has attracted the attention of scientists -- and $400,000 in Federal money.</p>
+        <p>It is the Indiana bat, a palm-sized brown variety found in much greater numbers in the Midwest. About 30 were discovered in a cave on the grounds last year.</p>
+        <p>The Indiana bat is classified as an endangered species; there are only 500,000 left in the United States.</p>
+        <p>Today, a group of researchers led by Dr. Thomas Kunz, a biologist at Boston University, will attempt to capture some of the bats and tag them with radio transmitters. They hope to find out why they have strayed so far from their usual habitat.</p>
+        <p>The Indiana bat spends the winter in caves, where spelunkers often disturb its hibernation patterns, causing reproductive problems, Dr. Kunz said.</p>
+        <p>TERRY PRISTIN</p>
+        <p>New Jersey Daily Briefing</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

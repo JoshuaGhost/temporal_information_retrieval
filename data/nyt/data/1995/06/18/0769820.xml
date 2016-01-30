@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Williams Is Released by the Angels</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="769820"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SPORTS PEOPLE: BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASEBALL</classifier>
+        <org class="indexing_service">CALIFORNIA ANGELS</org>
+        <person class="indexing_service">WILLIAMS, MITCH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Los Angeles Angels</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DD1E30F93BA25755C0A963958260" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Williams Is Released by the Angels</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mitch Williams, unable to revive his career after a half-season retirement, was released yesterday by the California Angels. Williams, 30, the bullpen hero of Philadelphia's drive to the 1993 National League pennant, but the goat of the Phillies' loss to Toronto in the World Series, was 1-2 with a 6.75 earned run average in 20 games with the Angels. In 10 2/3 innings, Williams walked 21 and allowed 13 hits. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>Mitch Williams, unable to revive his career after a half-season retirement, was released yesterday by the California Angels. Williams, 30, the bullpen hero of Philadelphia's drive to the 1993 National League pennant, but the goat of the Phillies' loss to Toronto in the World Series, was 1-2 with a 6.75 earned run average in 20 games with the Angels. In 10 2/3 innings, Williams walked 21 and allowed 13 hits. (AP)  SPORTS PEOPLE: BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

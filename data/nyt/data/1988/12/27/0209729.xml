@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="209729"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED6113FF934A15751C1A96E948260" item-length="400" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Very few experts deserve to be described as creative in the auction. This is the ability to produce an unusual bid like a rabbit from a hat, prompted by the circumstances of the moment rather than by experience or partnership methods.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Very few experts deserve to be described as creative in the auction. This is the ability to produce an unusual bid like a rabbit from a hat, prompted by the circumstances of the moment rather than by experience or partnership methods.</p>
+        <p>Very few experts deserve to be described as creative in the auction. This is the ability to produce an unusual bid like a rabbit from a hat, prompted by the circumstances of the moment rather than by experience or partnership methods.</p>
+        <p>One member of this select group is Tom Smith of Greenwich, Conn., an executive of the Goren organization who has won three national team titles. On the diagramed deal, he held the East cards and contributed a bid that had a touch of exotic mystery. What was three diamonds about? The occasion was the final of the 1988 Von Zedtwitz Double Knockout Team Championship, played at the Cavendish Club Aug. 15 and 16. Smith was teamed with Claire and George Tornay, John Roberts and Judy Tucker. The title was on the line with 8 deals remaining. They trailed by 2 imps against David and Lisa Berkowitz, Larry Cohen, Mike Kamil and Joyce and Harold Lilie.</p>
+        <p>Kamil as South opened two clubs, strong and artificial, and the bidding proceeded normally until West had shown both his suits. Smith now recognized that his opponents must hold a vast number of diamonds and might uncover that fit at any moment. He therefore bid the suit himself, throwing a hostage to fortune.</p>
+        <p>On the face of it, three diamonds suggested a 6-card or longer diamond suit, and in theory it might have been passed out for down seven. But Smith knew this was most unlikely to happen, and it did not.</p>
+        <p>South had intended to bid four spades but now had second thoughts. With diamond length, apparently, on his right, there was a distinct danger of losing three diamond tricks and a heart in a four-spade contract. He judged to bid three no-trump, expecting to run nine tricks unless West found the unlikely lead of the heart ace.</p>
+        <p>He escaped this danger and received the lead of the diamond king: West was also taken in by the three-diamond bid. Attacking diamonds might not seem the best plan for the defense, but it did no great harm. South won with the ace and tried to run spades, winding up down two. West had parted with a potential heart trick in discarding on spades.</p>
+        <p>The result could have been down four, but that hardly mattered since North-South bid and made four spades in the replay. Smith's Machiavellian bid had earned 13 imps and set his team on the road to victory. The Berkowitz team wound up in second place, and a team led by Ira Herman finished third in the three-way playoff.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

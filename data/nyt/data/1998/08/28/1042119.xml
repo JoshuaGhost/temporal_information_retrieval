@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AUTOS ON FRIDAY/Technology; Shining Infrared Light On Objects in Shadows</title>
+    <meta content="28CARS$04" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1042119"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Headlights</classifier>
+        <org class="indexing_service">Cadillac Division of General Motors Corp</org>
+        <person class="indexing_service">Krebs, Michelle</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED8133CF93BA1575BC0A96E958260" item-length="1065" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AUTOS ON FRIDAY/Technology; Shining Infrared Light On Objects in Shadows</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELLE KREBS</byline>
+      <byline class="normalized_byline">Krebs, Michelle</byline>
+      <dateline>CARMEL, Calif.</dateline>
+      <abstract>
+        <p>Michelle Krebs Autos on Friday column about Cadillac's new Night Vivsion system, which uses infrared sensors to extend driver's vision further down road at night; drawings (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT wasn't a dark and stormy night, but it was a dark and winding road. There were no street lights along the mountain highway outside Carmel; there were only a few houses, widely spaced. Suddenly, a person in a black coat darted in front of the Cadillac DeVille prototype I was driving.</p>
+        <p>I could see him with my naked eye only when I was within several feet of him. By then, he was already across the road.</p>
+      </block>
+      <block class="full_text">
+        <p>IT wasn't a dark and stormy night, but it was a dark and winding road. There were no street lights along the mountain highway outside Carmel; there were only a few houses, widely spaced. Suddenly, a person in a black coat darted in front of the Cadillac DeVille prototype I was driving.</p>
+        <p>I could see him with my naked eye only when I was within several feet of him. By then, he was already across the road.</p>
+        <p>I breathed a sigh of relief that I had been aware of his presence. For I had actually spotted him sooner, while the car was several yards back down the road, thanks to the Cadillac's Night Vision display.</p>
+        <p>The fleeting figure who interrupted my test drive proved the point that General Motors' Cadillac Division was trying to make: that its Night Vision system allows a driver to see three to five times farther down the road than he or she would with only the low headlight beams. That extra distance gives the driver more time to react to an impending, dangerous situation.</p>
+        <p>Cadillac, which demonstrated the system recently in California and Washington, plans to be the world's first auto maker to offer a night vision system on a production vehicle. The system will be an option on the next-generation DeVille, which is scheduled to go on sale in about a year as a 2000 model.</p>
+        <p>The DeVille will be the only G.M. vehicle to have the system initially, though Cadillac executives acknowledged that the technology could be expanded to other models. Cadillac has historically led other G.M. divisions in the introduction of features like air bags, anti-lock brakes and stability controls.</p>
+        <p>Ed Zellner, chief engineer of the 2000 DeVille, noted that although nighttime driving represented only about a quarter of all driving, it accounted for more than half of all traffic deaths and 62 percent of pedestrian fatalities, according to the National Highway Traffic Safety Administration. In addition, vehicles often strike deer and other animals at night -- more than 300,000 collisions with deer are reported annually, and many others go unreported.</p>
+        <p>''Visibility is a major factor,'' Mr. Zellner said. Improving visibility by three to five times, as Cadillac says its night vision system does, means more time to react to a deer. At 60 miles an hour, reaction time increases from 3.5 seconds without night vision to nearly 15 seconds with it, he said.</p>
+        <p>''Nighttime is like drawing the curtain around a car,'' Mr. Zellner said. ''But Night Vision draws back the curtains.''</p>
+        <p>Night-vision technology was developed in the 1960's for the military. The earliest systems were very expensive -- about $1 million each -- and could not cope with the heat of an automobile engine. The technology has since been refined and the cost has dropped sharply; night-vision goggles are now on the shelves of discount stores.</p>
+        <p>During the Persian Gulf war, fighter pilots used the technology to home in on targets in the dark, a scene made familiar in newscasts. Since then, night vision has been adapted for use in law enforcement, like border patrols, as well as by fire departments and marine rescue missions.</p>
+        <p>In the DeVille prototype, a sensor that looks like a camera lens peeks out of the grille. The unit, developed by the Raytheon Systems Company, uses infrared technology to detect the heat emitted by objects -- like people, animals or moving vehicles -- that may be invisible to the eye. Indeed, the amount of background light is irrelevant, since the device ''sees'' only heat.</p>
+        <p>The heat-sensitive image is projected onto the lower portion of the DeVille's windshield, much like the heads-up display that gives a speedometer reading in cars like the Pontiac Grand Prix GTP. The image is in black and white, but in reverse. ''Hot'' objects, like animals and people, appear white; ''cool'' objects, like the trees lining the road, appear dark. The man in the dark coat who darted in front of me appeared as a bright white image on the display.</p>
+        <p>Because the system recognizes heat but not light, it ignores the approaching headlights that can produce a blinding glare. In the demonstration of the Cadillac system, a car came toward me with its high beams on, but Night Vision did not show the headlights at all. I could see the car, though, and because the image was glare-free, I could tell there was no other vehicle behind it. In rain and fog, engineers said, the picture may be more fuzzy, but the system still works, essentially seeing through the elements.</p>
+        <p>Night Vision powers up automatically. The headlights must be on, and the Twilight Sentinel feature, which turns the lights on when it detects darkness, must sense that it is nighttime. The projection on the windshield can be adjusted up or down to suit the height of the driver. Or it can be turned off if it is distracting or unneeded -- as it would be on well-lighted city streets.</p>
+        <p>The National Highway Traffic Safety Administration has not studied Cadillac's night vision system, a spokesman, Phil Frame, said. But a recent study done for the safety administration by Scientex, an Alexandria, Va., consulting firm that conducts studies on highway safety issues, indicated that a night vision system might indeed benefit drivers. Ken Gish, Scientex's senior human factors psychologist, said the studies showed that a driver using such a system could see 1,200 feet beyond the range of the naked eye.</p>
+        <p>In the tests, conducted with a video monitor instead of a heads-up display like Cadillac's, older drivers were less willing to use the system. Younger drivers were more likely to use it and realized the most benefit.</p>
+        <p>Ideally, Cadillac engineers said, the Night Vision system should be used as a backup. The driver should primarily rely on his or her own vision, and glance at the night display on occasion, as he or she would look at the rear view mirror. But I found myself focusing on the night vision screen, only occasionally looking up at the real world.</p>
+        <p>Cadillac did not disclose a price for its system, though it is likely to cost from $1,500 to $2,000. Executives said they expected about 5 percent of DeVilles to be ordered with it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

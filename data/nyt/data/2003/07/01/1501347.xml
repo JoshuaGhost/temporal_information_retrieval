@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Information Resources Sold for $98.4 Million</title>
+    <meta content="MB233728" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1501347"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <org class="indexing_service">Information Resources Inc</org>
+        <org class="indexing_service">Symphony Technology Group</org>
+        <org class="indexing_service">Tennenbaum Capital Partners</org>
+        <org class="indexing_service">Acnielsen Corp</org>
+        <org class="indexing_service">Vnu Nv</org>
+        <org class="indexing_service">Dun &amp; Bradstreet Corp</org>
+        <org class="indexing_service">Ims International</org>
+        <person class="indexing_service">Mehegan, Sean</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E7D6153AF932A35754C0A9659C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Information Resources Sold for $98.4 Million</hl1>
+      </hedline>
+      <byline class="print_byline">By Sean Mehegan</byline>
+      <byline class="normalized_byline">Mehegan, Sean</byline>
+      <abstract>
+        <p>Information Resources, which tracks consumer spending on packaged goods, agrees to be acquired and taken private by joint venture for $98.4 million; venture--between Symphony Technology II-A, part of Symphony Technology Group, and Tennenbaum Capital Partners--will also pay $10 million in litigation costs to help finance antitrust suit brought by Information Resources against ACNielsen unit of VNU, Dun &amp; Bradstreet and IMS International; takeover bid stipulates that shareholders will divide 60 percent of any proceeds if suit is successful after acquisition (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Information Resources in Chicago, which tracks consumer spending on packaged goods, has agreed to be acquired and taken private by a joint venture for $98.4 million, or $3.30 a share.</p>
+        <p>The venture -- between Symphony Technology II-A, part of the Symphony Technology Group in Palo Alto, Calif., and Tennenbaum Capital Partners in Los Angeles -- will also pay up to $10 million in litigation costs to help finance an antitrust suit brought by Information Resources against the ACNielsen unit of VNU, Dun &amp; Bradstreet and IMS International. If the suit is successful after the acquisition, the takeover bid stipulates, shareholders will divide 60 percent of any proceeds.</p>
+      </block>
+      <block class="full_text">
+        <p>Information Resources in Chicago, which tracks consumer spending on packaged goods, has agreed to be acquired and taken private by a joint venture for $98.4 million, or $3.30 a share.</p>
+        <p>The venture -- between Symphony Technology II-A, part of the Symphony Technology Group in Palo Alto, Calif., and Tennenbaum Capital Partners in Los Angeles -- will also pay up to $10 million in litigation costs to help finance an antitrust suit brought by Information Resources against the ACNielsen unit of VNU, Dun &amp; Bradstreet and IMS International. If the suit is successful after the acquisition, the takeover bid stipulates, shareholders will divide 60 percent of any proceeds.</p>
+        <p>Information Resources, known as IRI, hired William Blair &amp; Company in February to explore its options, two months after its largest client, Procter &amp; Gamble, gave notice that it was shifting its business to ACNielsen. Also in February, an investor called for IRI to put itself up for sale or fire the chairman and chief executive, Joseph P. Durrett.</p>
+        <p>The tender offer, expected to begin by July 14, was higher than the stock's closing price on Friday of $2.98 a share. The shares closed yesterday at $3.93, up 31.9 percent.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

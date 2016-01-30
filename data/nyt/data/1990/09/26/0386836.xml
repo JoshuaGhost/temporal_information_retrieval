@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keating Loses Bail Appeal</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="386836"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <classifier class="indexing_service" type="descriptor">BAIL</classifier>
+        <classifier class="indexing_service" type="descriptor">FRAUDS AND SWINDLING</classifier>
+        <classifier class="indexing_service" type="descriptor">SAVINGS AND LOAN ASSOCIATIONS</classifier>
+        <org class="indexing_service">LINCOLN SAVINGS &amp; LOAN ASSN (IRVINE, CALIF)</org>
+        <person class="indexing_service">KEATING, CHARLES H JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Savings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Savings and Loan Associations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDA1330F935A1575AC0A966958260" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keating Loses Bail Appeal</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LOS ANGELES, Sept. 25</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: An appeals court refused today to reduce the $5 million bail for Charles H. Keating Jr., the savings and loan executive accused of fraud in selling junk bonds of the American Continental Corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: An appeals court refused today to reduce the $5 million bail for Charles H. Keating Jr., the savings and loan executive accused of fraud in selling junk bonds of the American Continental Corporation.</p>
+        <p>An appeals court refused today to reduce the $5 million bail for Charles H. Keating Jr., the savings and loan executive accused of fraud in selling junk bonds of the American Continental Corporation.</p>
+        <p>California's Second District Court of Appeals said in a one-paragraph ruling that it considered an appeal filed Monday by Mr. Keating's lawyers and had examined transcripts of bail proceedings before Superior Court Judge Gary Klausner of Superior Court.</p>
+        <p>''The petition is denied,'' the three-judge panel wrote.</p>
+        <p>The court apparently rejected arguments by Mr. Keating that he is being made a scapegoat in a criminal fraud case involving sales of the bonds that became worthless through branches of Lincoln Savings and Loan of Irvine, Calif., where he was an executive. Lincoln, an American Continental subsidiary, has been seized by Federal regulators.</p>
+        <p>District Attorney Ira Reiner said he was pleased bail had been upheld.</p>
+        <p>''It is an exceptionally high bail and Mr. Keating is an exceptional defendant,'' Mr. Reiner said. ''The principal factor involved is risk of flight. You can't consider Mr. Keating without thinking of Robert Vesco.''</p>
+        <p>Mr. Vesco, a financier, fled the United States while being investigated by the authorities.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

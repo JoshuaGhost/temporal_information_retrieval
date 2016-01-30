@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Symantec Said To Be in Talks For Veritas</title>
+    <meta content="14SECU$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/12/14/technology/14secure.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1634687"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Symantec Corp</org>
+        <org class="indexing_service">Veritas Software Corp</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <person class="indexing_service">Flynn, Laurie J</person>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <org class="online_producer">Veritas Software Corporation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4DC1630F937A25751C1A9629C8B63" item-length="628" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Symantec Said To Be in Talks For Veritas</hl1>
+        <hl2 class="online_headline">Symantec Said to Be in Talks for Veritas</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW ROSS SORKIN; Laurie J. Flynn and John Schwartz contributed reporting for this article.</byline>
+      <byline class="normalized_byline">Flynn, Laurie J; Sorkin, Andrew Ross; Schwartz, John</byline>
+      <abstract>
+        <p>Symantec, software company that produces Norton line of computer security and maintenance products, is in advanced talks to acqire Veritas Software, maker of data backup and storage programs, for more than $13 billion (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Symantec, the software company that produces the Norton line of computer security and maintenance products, is in advanced talks to acquire Veritas Software, a maker of data backup and storage programs, for more than $13 billion, executives close to the negotiations said yesterday.</p>
+        <p>The deal, which could be announced as early as this week, would create a huge competitor in the software industry that would be a one-stop shop for products to fight a wide range of threats to personal computers and corporate networks. If successfully completed, it would represent one of the largest software mergers.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Symantec, which produces the Norton line of computer products, is in talks to acquire Veritas Software, a maker of data backup programs.</p>
+      </block>
+      <block class="full_text">
+        <p>Symantec, the software company that produces the Norton line of computer security and maintenance products, is in advanced talks to acquire Veritas Software, a maker of data backup and storage programs, for more than $13 billion, executives close to the negotiations said yesterday.</p>
+        <p>The deal, which could be announced as early as this week, would create a huge competitor in the software industry that would be a one-stop shop for products to fight a wide range of threats to personal computers and corporate networks. If successfully completed, it would represent one of the largest software mergers.</p>
+        <p>The negotiations, which have gone on for more than a month, are almost complete, the executives said. Still, they cautioned that several outstanding issues remained unresolved and that it was possible that the talks could collapse. The exact terms of the deal could not be determined.</p>
+        <p>Spokesmen for Veritas and Symantec did not return phone calls seeking comment late yesterday. Symantec, like its best-known competitors, McAfee and Trend Micro, is trying to become the de facto provider of software to protect networks and personal computers. This means that stopping viruses is not enough anymore -- a company that wants to compete has to tackle a broader array of digital ills, including spam and newer, more intrusive threats like ''spyware,'' which are programs that track Internet use.</p>
+        <p>Veritas Software, which was founded in 1989 and is based in Mountain View, Calif., is by far the leading seller of software for data backup, storage and archiving.</p>
+        <p>According to the market research firm IDC, the company has 40 percent of the market for backup and archiving software, compared with Computer Associates International's 19 percent and EMC's 12 percent. In the market for file system software, which stores and organizes data files, Veritas is the market leader by an even wider margin, with a 60 percent share.</p>
+        <p>Last year, Veritas had revenue of $1.75 billion. The company operates in about 40 countries and employs some 6,700 people.</p>
+        <p>Through a series of acquisitions in recent years, Veritas has transformed itself from a storage software company into a company that provides end-to-end services. It has a market capitalization of $10.6 billion.</p>
+        <p>Symantec already has one of the best-known brands in the software business with Norton. But it has enlarged its arsenal in a buying spree since the second half of 2003, acquiring Brightmail, ON Technology and SafeWeb -- companies that brought strengths in fighting spam and making large corporate networks operate smoothly. These acquisitions cost nearly a half-billion dollars. Symantec's $48 million purchase of the security firm @stake, announced in September, brought it expertise in security audits and risk management.</p>
+        <p>The strategy of growth through acquisition seems to be working. In October, the company posted revenue for its fiscal second quarter of $618 million, a 44 percent increase over the quarter a year earlier. Symantec's stock price has risen more than 90 percent this year.</p>
+        <p>Veritas has been singled out by Lawrence J. Ellison, the founder and chief executive of the Oracle Corporation, as an example of the kind of independent software company that is unlikely to survive industry consolidation. Mr. Ellison points to Oracle's acquisition of PeopleSoft, which PeopleSoft agreed to only after an 18-month battle, as the kind of deal that is inevitable in an industry where Microsoft is king. Veritas has countered that corporations will still want to choose from a range of software vendors.</p>
+        <p>Veritas shares, which were around $40 in early January, closed yesterday at $25.19, up 18 cents. Symantec closed yesterday at $32.86, up $1.38.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

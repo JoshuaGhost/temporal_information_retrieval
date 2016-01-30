@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding the Hydrogen For Hydrogen-Powered Cars</title>
+    <meta content="LTR012417" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1452330"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Hydrogen</classifier>
+        <person class="indexing_service">Scott, Paul</person>
+        <person class="indexing_service">scott, zan dubin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrogen</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E2DD163FF93AA15751C1A9649C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding the Hydrogen For Hydrogen-Powered Cars</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul Scott and Zan Dubin Scott letter comments on Dec 15 article on hydrogen-powered vehicles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The column notes that fuel cell technology, while promising, is unlikely to be viable for decades. We have just taken possession of our new Toyota RAV4 EV, an all-electric car that we will charge with power generated from our rooftop solar panels.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The column notes that fuel cell technology, while promising, is unlikely to be viable for decades. We have just taken possession of our new Toyota RAV4 EV, an all-electric car that we will charge with power generated from our rooftop solar panels.</p>
+        <p>Our new car will easily accelerate up to 80 miles an hour and travel 100 miles on a single charge. Installing a charger at work would give the car a traveling range of 200 miles. More than enough for most folks.</p>
+        <p>The column says we must cut our dependence on foreign oil. I strongly agree that self-sufficiency is a laudable goal. However, while auto companies go on searching for their fuel-cell holy grail, we'll be cruising the streets and freeways of Southern California in a 100 percent pollution-free vehicle using technology that's been around for over a century.</p>
+        <p>PAUL SCOTT  ZAN DUBIN SCOTT  Santa Monica, Calif., Dec. 23</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

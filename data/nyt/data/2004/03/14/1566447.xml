@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231554" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1566447"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <classifier class="indexing_service" type="descriptor">Lipitor (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E1DE1F3EF937A25750C0A9629C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>March 7 article about catchy names given by drug companies to clinical trials misspelled generic name of Lipitor; it is atorvastatin</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article last Sunday about the catchy names given by drug companies to clinical trials misspelled the generic name of Lipitor, a lipid-lowering drug in one such trial. It is atorvastatin, not atrovastatin.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article last Sunday about the catchy names given by drug companies to clinical trials misspelled the generic name of Lipitor, a lipid-lowering drug in one such trial. It is atorvastatin, not atrovastatin.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

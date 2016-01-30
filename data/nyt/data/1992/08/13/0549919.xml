@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Telemundo Group Inc. reports earnings for Qtr to June 30</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="549919"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E5D61F31F930A2575BC0A964958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Telemundo Group Inc. reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Telemundo Group Inc.</p>
+        <p>Qtr to June 30</p>
+        <p>1992</p>
+        <p>1991</p>
+        <p>Revenue</p>
+        <p>39,629,000</p>
+        <p>32,266,000</p>
+        <p>Net loss</p>
+        <p>7,116,000</p>
+        <p>11,368,000</p>
+        <p>6mo rev</p>
+        <p>69,881,000</p>
+        <p>58,528,000</p>
+        <p>Net loss</p>
+        <p>20,437,000</p>
+        <p>b26,597,000</p>
+        <p>b-Included an extraordinary gain of $ 1,045,000, or 3 cents a share, from the early extinguishment of debt. The latest second quarter's net loss included $ 1.2 million for costs associated with the company's proposed financial restructuring.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

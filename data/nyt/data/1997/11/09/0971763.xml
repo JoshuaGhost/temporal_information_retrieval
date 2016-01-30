@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Show Me the Original</title>
+    <meta content="LTR142439" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="971763"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Exploration and Explorers</classifier>
+        <classifier class="indexing_service" type="descriptor">Jews</classifier>
+        <location class="indexing_service">China</location>
+        <person class="indexing_service">Jochnowitz, George</person>
+        <person class="indexing_service">Jacob D'Ancona</person>
+        <person class="indexing_service">Polo, Marco (1254-1324)</person>
+        <person class="indexing_service">Selbourne, David</person>
+        <person class="indexing_service">Spence, Jonathan</person>
+        <object.title class="indexing_service">City of Light, The: An Authentic Traveler's Tale (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exploration and Explorers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6D71131F93AA35752C1A961958260" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Show Me the Original</hl1>
+      </hedline>
+      <abstract>
+        <p>George Jochnowitz letter on Jonathan Spence Oct 19 article that expressed doubts about authenticity of manuscript translated by David Selbourne puporting to show that Italian Jewish merchant named Jacob preceded Marco Polo to China (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Jonathan Spence raises many important points in his essay about a manuscript, supposedly by one Jacob of Ancona, that the British writer David Selbourne claims to have found (''Leaky Boat to China,'' Oct. 19). The language of this text will probably turn out to be the most crucial evidence in determining its authenticity. Spence reports that Selbourne ''tells us that it is written in Italian vernacular, with many words of Hebrew interlacing the texts.'' There are many similar documents in existence that date from the Middle Ages and the Renaissance, generally translations of the Bible and the Prayer Book, written in a language that is not quite Italian and spelled out phonetically in Hebrew letters. A 1997 Ph.D. dissertation by Jana L. De Benedetti informs us that Judeo-Italian still survives among the Jews of Rome and that there is today a theater group writing Judeo-Italian plays. A study of the lexicon and orthography of the memoir of Jacob of Ancona is essential, but perhaps even the ''brief appendix in which Selbourne comments on some of the linguistic problems posed by the manuscript'' can shed light on the question of language.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Jonathan Spence raises many important points in his essay about a manuscript, supposedly by one Jacob of Ancona, that the British writer David Selbourne claims to have found (''Leaky Boat to China,'' Oct. 19). The language of this text will probably turn out to be the most crucial evidence in determining its authenticity. Spence reports that Selbourne ''tells us that it is written in Italian vernacular, with many words of Hebrew interlacing the texts.'' There are many similar documents in existence that date from the Middle Ages and the Renaissance, generally translations of the Bible and the Prayer Book, written in a language that is not quite Italian and spelled out phonetically in Hebrew letters. A 1997 Ph.D. dissertation by Jana L. De Benedetti informs us that Judeo-Italian still survives among the Jews of Rome and that there is today a theater group writing Judeo-Italian plays. A study of the lexicon and orthography of the memoir of Jacob of Ancona is essential, but perhaps even the ''brief appendix in which Selbourne comments on some of the linguistic problems posed by the manuscript'' can shed light on the question of language.</p>
+        <p>Spence asks why Jacob calls China ''Sinim.'' The word means ''Chinese people'' in modern Hebrew; what it meant in Isaiah 49:12 is not clear. Imperial Rome knew about silk, which had traveled from China along the Silk Road. In Late Latin, the Chinese were called ''Sinae,'' a word borrowed from the Arabic ''Sin'' (''China''), ultimately from the name of the Qin Dynasty. Our own prefix ''Sino-'' remains in use.</p>
+        <p>If the manuscript ever becomes public, we will know if it is real. Until then, we must, with Spence, question ''the believability of this particular offering.''</p>
+        <p>George Jochnowitz  Staten Island</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

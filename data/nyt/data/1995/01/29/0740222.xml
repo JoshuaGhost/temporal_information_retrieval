@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nation; A Church's Life Reflects A Nation's</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="740222"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ST STEPHEN'S ROMAN CATHOLIC CHURCH (BOSTON)</classifier>
+        <org class="indexing_service">ROMAN CATHOLIC CHURCH</org>
+        <person class="indexing_service">KENNEDY, ROSE FITZGERALD</person>
+        <person class="indexing_service">CLYMER, ADAM</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0DF143FF93AA15752C0A963958260" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nation; A Church's Life Reflects A Nation's</hl1>
+      </hedline>
+      <byline class="print_byline">By ADAM CLYMER</byline>
+      <byline class="normalized_byline">CLYMER, ADAM</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROSE FITZGERALD KENNEDY, 104 years old and a symbol of faith and determination, died last Sunday. She was buried Tuesday after a funeral mass in a Boston church that itself reflects the history of the city where her son, John Fitzgerald Kennedy, set forth to become the nation's first Catholic President -- and the fourth to be assassinated.</p>
+        <p>Bernard Cardinal Law, Archbishop of Boston, told the congregation in St. Stephen's Roman Catholic Church: "Her joys have been moments of triumph for millions. Her personal losses and sorrows have been epic tragedies which have moved the world."</p>
+      </block>
+      <block class="full_text">
+        <p>ROSE FITZGERALD KENNEDY, 104 years old and a symbol of faith and determination, died last Sunday. She was buried Tuesday after a funeral mass in a Boston church that itself reflects the history of the city where her son, John Fitzgerald Kennedy, set forth to become the nation's first Catholic President -- and the fourth to be assassinated.</p>
+        <p>Bernard Cardinal Law, Archbishop of Boston, told the congregation in St. Stephen's Roman Catholic Church: "Her joys have been moments of triumph for millions. Her personal losses and sorrows have been epic tragedies which have moved the world."</p>
+        <p>The setting was as historic as the occasion. The nation's first great architect, Charles Bulfinch, designed the church for Congregationalists in 1802. Paul Revere, a church member, cast its bell. Theology and demography changed the church. As Unitarianism swept New England, it became Boston's second Unitarian church. Then Irish immigrants moved into the North End after the potato famine, and the Unitarians sold the church in 1862. When Rose was baptized in 1890, paintings of saints adorned it. By then, Italians immigrants were dominating the neighborhood, as their descendants do today. In 1965 Richard Cardinal Cushing had it restored to the austere Bulfinch design.</p>
+        <p>Tuesday the only color in the church came from overflowing bouquets -- of pink and red roses. ADAM CLYMER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

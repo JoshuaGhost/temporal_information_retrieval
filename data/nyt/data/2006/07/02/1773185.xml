@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Correction</title>
+    <meta content="02alscorr-2" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1773185"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DC1430F931A35754C0A9609C8B63" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Correction</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on June 11 about golf landscapes by the painter Linda Hartough and a correction in this space last week referred incorrectly to the length of the ninth hole at the Winged Foot Golf Club. The entire hole, not the approach, is 510 yards, not feet.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on June 11 about golf landscapes by the painter Linda Hartough and a correction in this space last week referred incorrectly to the length of the ninth hole at the Winged Foot Golf Club. The entire hole, not the approach, is 510 yards, not feet.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

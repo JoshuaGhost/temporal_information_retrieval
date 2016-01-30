@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="83100"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="ADVERTISING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Marketing and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DE103CF936A25753C1A961948260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Philip H. Dougherty</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: * Karon Cullen was named executive vice president of Doyle Graf Mabley.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: * Karon Cullen was named executive vice president of Doyle Graf Mabley.</p>
+        <p>* Karon Cullen was named executive vice president of Doyle Graf Mabley.</p>
+        <p>* Pamela Maythenyi joined Kornhauser &amp; Calene as senior vice president in charge of television production.</p>
+        <p>* Vivian Young was promoted to the newly created position of senior vice president, director of strategic services, at Ammirati &amp; Puris.</p>
+        <p>* Peter R. Wells was named senior vice president at Needham &amp; Grohmann.</p>
+        <p>* Jean Pool has become senior vice president and director of local broadcast operations for J. Walter Thompson U.S.A..</p>
+        <p>* Eugene H. Camoosa Jr. will join Burton-Campbell/EPB as senior vice president and media director of the Atlanta office.</p>
+        <p>* Jan Starr was named general manager of a new Ogilvy &amp; Mather office in Dearborn, Mich.</p>
+        <p>ADVERTISING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>End the Homeless Battle</title>
+    <meta content="CI$HOM$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/20/opinion/opinionspecial/20homeless.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1658515"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="The City"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEEDE113CF933A15750C0A9639C8B63" item-length="401" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>End the Homeless Battle</hl1>
+        <hl2 class="online_headline">End the Homeless Battle</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial deplores protracted litigation between City of New York and lawyers for the homeless; says that while Mayor Bloomberg has at times been disrespectful to advocates for homeless, he has shown far more flexibility and sympathy than previous mayors, as well as greater grasp of issues associated with homelessness; holds his administration deserves right to continue its work without restrictions of court oversight; contends city and advocates for homeless should return to bargaining table</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The City of New York and lawyers for the homeless have been locked in courtroom warfare for nearly a quarter of a century. The lawsuits, which began when women and children were sleeping in the streets, forced the city to create a humane shelter system that actually cares for the homeless as the state Constitution requires. But the more than 40 court rulings that have flowed from this epic battle have become an obstruction to further progress.</p>
+        <p>Endless battles over eligibility requirements for shelters, as well as endless appeal procedures, have tied the city system in knots and kept officials from focusing on ways to improve the shelter system. In 2003, in an effort to achieve a cease-fire, the Bloomberg administration and the Legal Aid Society agreed to the appointment of a three-member special masters' panel. The panel was supposed to suggest systemic changes in the shelter system, and work with both sides to boil down the court rulings into a coherent set of operating guidelines. The old legal rulings would then be vacated, and control of the shelter system returned to city government.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The city and advocates for the homeless should be working together to pass a coherent set of operating guidelines for shelters.</p>
+      </block>
+      <block class="full_text">
+        <p>The City of New York and lawyers for the homeless have been locked in courtroom warfare for nearly a quarter of a century. The lawsuits, which began when women and children were sleeping in the streets, forced the city to create a humane shelter system that actually cares for the homeless as the state Constitution requires. But the more than 40 court rulings that have flowed from this epic battle have become an obstruction to further progress.</p>
+        <p>Endless battles over eligibility requirements for shelters, as well as endless appeal procedures, have tied the city system in knots and kept officials from focusing on ways to improve the shelter system. In 2003, in an effort to achieve a cease-fire, the Bloomberg administration and the Legal Aid Society agreed to the appointment of a three-member special masters' panel. The panel was supposed to suggest systemic changes in the shelter system, and work with both sides to boil down the court rulings into a coherent set of operating guidelines. The old legal rulings would then be vacated, and control of the shelter system returned to city government.</p>
+        <p>The process seemed to be working until last month, when negotiations fell apart. Since then, both sides have seemed more interested in scoring points than in solving problems. Mayor Michael R. Bloomberg, who has a history of disrespectful conduct toward the advocates, did not help matters by blowing up publicly and vindictively when the talks ran aground.</p>
+        <p>For their part, the advocates need to recognize that Mr. Bloomberg has shown far more sympathy and flexibility than previous mayors, as well as a greater grasp of the issues associated with homelessness. He has streamlined the admissions process and, as the advocates have long urged, has focused on moving people more quickly from shelters into permanent housing or -- even better -- on preventing them from becoming homeless in the first place.</p>
+        <p>His administration deserves the right to continue its work without the restrictions of the court oversight. And the advocates need to give up on the arcane strategy of seeking to have the city fined -- or threatening city officials with jail -- when problems arise in the shelter system.</p>
+        <p>The city and the advocates for the homeless should return to the bargaining table. Working together, they could drive this very important agreement home.</p>
+        <p>The City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

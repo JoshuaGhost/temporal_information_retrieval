@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sarah Pinckney, T. R. Whitmire</title>
+    <meta content="08PINC$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993844"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PINCKNEY, SARAH WHITLEY (SARAH WHITLEY WHITMIRE)</person>
+        <person class="indexing_service">WHITMIRE, TIMOTHY ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E2D6123DF93BA35751C0A96E958260" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sarah Pinckney, T. R. Whitmire</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sarah Whitley Pinckney, a book editor, was married last evening to Timothy Robert Whitmire, a reporter. The Rev. Thom Blair performed the ceremony at St. Stephen's Episcopal Church in Richmond.</p>
+        <p>Mrs. Whitmire, 29, works in the trade division of Simon &amp; Schuster, the publisher in New York. She graduated from Princeton University. She is the daughter of Mr. and Mrs. Charles Cotesworth Pinckney of Richmond. Her father is a partner in Mays &amp; Valentine, the Richmond law firm.</p>
+      </block>
+      <block class="full_text">
+        <p>Sarah Whitley Pinckney, a book editor, was married last evening to Timothy Robert Whitmire, a reporter. The Rev. Thom Blair performed the ceremony at St. Stephen's Episcopal Church in Richmond.</p>
+        <p>Mrs. Whitmire, 29, works in the trade division of Simon &amp; Schuster, the publisher in New York. She graduated from Princeton University. She is the daughter of Mr. and Mrs. Charles Cotesworth Pinckney of Richmond. Her father is a partner in Mays &amp; Valentine, the Richmond law firm.</p>
+        <p>Mr. Whitmire, 27, is a reporter on the New York City desk of The Associated Press. He graduated magna cum laude from Harvard University. His mother, Carol Levi Whitmire of Woodacre, Calif., is an independent land-use planner. His father, Robert Lee Whitmire, lives in Jacksonville, Fla., where he is a lawyer in private practice.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

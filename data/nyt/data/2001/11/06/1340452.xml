@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hospitals' Bigger Loss</title>
+    <meta content="L06AMB$03" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1340452"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Emergency Medical Treatment</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Metrocare</org>
+        <person class="indexing_service">Zakheim, Steven</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0D61539F935A35752C1A9679C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hospitals' Bigger Loss</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Steven Zakheim, chief operating officer, MetroCare Ambulance Group, expresses sorrow at loss of emergency medical workers in World Trade Center disaster (Oct 30 news article on hospitals' losses)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Sept. 11 Exacts an Economic Toll From the Hospitals of New York'' (news article, Oct. 30) is a welcome acknowledgment of the sacrifices that private and nonprofit hospitals have made. However, while New York Presbyterian may have lost seven ambulances, this is nearly insignificant when placed against the deaths of two of its emergency medical services workers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Sept. 11 Exacts an Economic Toll From the Hospitals of New York'' (news article, Oct. 30) is a welcome acknowledgment of the sacrifices that private and nonprofit hospitals have made. However, while New York Presbyterian may have lost seven ambulances, this is nearly insignificant when placed against the deaths of two of its emergency medical services workers.</p>
+        <p>My company lost seven ambulances and several other vehicles. But far more painful was the death of one of our workers, Yamel Merino, a 24-year-old mother of an 8-year-old son. We and the area's other emergency medical providers may be able to replace our equipment, but we'll never be able to replace the lives we have lost.</p>
+        <p>STEVEN ZAKHEIM  Chief Operating Officer  MetroCare Ambulance Group  New York, Oct. 31, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

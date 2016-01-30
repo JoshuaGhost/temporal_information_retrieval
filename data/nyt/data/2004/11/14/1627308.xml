@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Houses to Replace Golf Driving Range</title>
+    <meta content="MB233552" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1627308"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <location class="indexing_service">Greenburgh (NY)</location>
+        <org class="indexing_service">Garson Development Co</org>
+        <person class="indexing_service">Vizioli, Louis</person>
+        <person class="indexing_service">Grossman, Jeff</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/Upstate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDE143FF937A25752C1A9629C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Houses to Replace Golf Driving Range</hl1>
+      </hedline>
+      <byline class="print_byline">By JEFF GROSSMAN</byline>
+      <byline class="normalized_byline">Grossman, Jeff</byline>
+      <abstract>
+        <p>Louis Vizioli, owner of golf driving range in Greenburgh, NY, plans to sell property to Garson Development Co for $10.5 million for development of private homes; construction will begin after environmental review process, which could take 14 to 16 months; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A golf driving range that the Town of Greenburgh had wanted two years ago for a new town hall and library will now be developed as private homes.</p>
+        <p>Through its power of eminent domain, the town had sought to buy the land over the objections in 2002. A petition signed by 5,000 people helped persuaded town officials to look elsewhere. The town subsequently renovated a building at 177 Hillside Avenue for its new Town Hall.</p>
+      </block>
+      <block class="full_text">
+        <p>A golf driving range that the Town of Greenburgh had wanted two years ago for a new town hall and library will now be developed as private homes.</p>
+        <p>Through its power of eminent domain, the town had sought to buy the land over the objections in 2002. A petition signed by 5,000 people helped persuaded town officials to look elsewhere. The town subsequently renovated a building at 177 Hillside Avenue for its new Town Hall.</p>
+        <p>The family that owns and operates the Westchester Golf Range has contracted to sell the property to the Garson Development Company, based in Bedford.</p>
+        <p>''I think the time is right for housing, and the price is right,'' said Louis Vizioli, 73, who owns the range with his wife, his sister and his brother-in-law.</p>
+        <p>The developers plan to use the 32-acre parcel on Dobbs Ferry Road to build 36 houses, said Jeffrey Garson, one of the company's owners. Prices for the three-bedroom homes will start at $1.5 million, he said. Construction will begin after a required environmental review process, which Mr. Garson estimates will take 14 to 16 months.</p>
+        <p>The town had originally sought to buy the property for about $7 million, said Paul Feiner, the town supervisor. The developers have arranged to buy it for $10.5 million, Mr. Garson said.</p>
+        <p>JEFF GROSSMAN</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

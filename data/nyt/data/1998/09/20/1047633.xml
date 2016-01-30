@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Buddy System</title>
+    <meta content="20MANDELT" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1047633"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Mandelbaum, Michael</person>
+        <person class="indexing_service">Weart, Spencer R</person>
+        <object.title class="indexing_service">Never at War (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4D91E3EF933A1575AC0A96E958260" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Buddy System</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Mandelbaum</byline>
+      <byline class="normalized_byline">Mandelbaum, Michael</byline>
+      <abstract>
+        <p>Michael Mandelbaum reviews book Never at War: Why Democracies Will Not Fight One Another by Spencer R Weart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEVER AT WAR  Why Democracies Will Not Fight One Another.  By Spencer R. Weart.  424 pp. New Haven:  Yale University Press. $35.</p>
+      </block>
+      <block class="full_text">
+        <p>NEVER AT WAR  Why Democracies Will Not Fight One Another.  By Spencer R. Weart.  424 pp. New Haven:  Yale University Press. $35.</p>
+        <p>The most interesting idea to emerge from the study of international relations in the last two decades is the theory that democracies do not go to war with each other. The proponents of this theory seek both to establish a law of history and to offer a way to end one of the greatest scourges of humanity -- war. To their democratic peace literature ''Never at War,'' by Spencer R. Weart, the director of the Center for History of Physics at the American Institute of Physics, is a stimulating, impressive and important contribution.</p>
+        <p>It has three particular virtues. First, it is clearly written, and is thus fully accessible to an audience beyond the academy. Second, the scope of its inquiry is wide. One difficulty in testing the literature's central proposition is that full-fledged democracies were rare until recently, but Weart includes in his study the small independent political communities of ancient Greece, the cantons of 14th-century Switzerland and the city-states of Renaissance Italy. Third, he offers a refined and expanded version of the democratic peace hypothesis.</p>
+        <p>Peace is maintained, Weart contends, between and among republics, defined as political communities where decisions are made by citizens with equal rights. Republics, he says, come in two varieties: the democratic kind, in which the decision makers constitute at least two-thirds of the adult male population, and the oligarchic kind, where one-third or fewer have decision-making power. Similar republics, when well established, do not fight each other; republics of different types can and do.</p>
+        <p>The reason for this pattern, Weart argues, is an empirical version of the Golden Rule: political leaders do unto others as they expect others to do unto them. Their expectations abroad come from their experience at home. If they are accustomed to dealing with domestic opponents by bargaining and compromise rather than by violence, they will expect to follow the same procedures in relations with leaders of other countries, provided that they see these leaders as people who share their political values.</p>
+        <p>Weart's argument relies on classification. It requires deciding what political communities are republics and what kinds of republics they are. He pays particular attention to wars between seemingly similar states. Inevitably, the distinctions he draws are matters of interpretation, and not all the interpretations will command universal agreement.</p>
+        <p>But Weart seeks to bring his investigation as close as possible to the rigorous standards of the natural sciences. He has investigated the foreign policy of every republic he could discover, consulting more than 1,000 works of history in several languages, as well as the literature of social psychology and anthropology. He defines his categories carefully. And he states clearly his reasons for including each case in one or another of them.</p>
+        <p>His conclusion is sweeping: when all cases are considered and properly understood, the rule he has discovered is absolute. Similar republics have never fought each other. There are no exceptions.</p>
+        <p>So categorical a finding is bound to attract the attention of professional students of international affairs, as well as some dissent. The response of the general public is more likely to be the pleasant surprise that comes with the discovery that something esteemed for one reason has other benefits as well, like the medicinal value of the occasional glass of red wine. After all, in the English-speaking world enthusiasm for democracy is not exactly controversial.</p>
+        <p>Still, even among general readers, Weart's hypothesis is likely to provoke the question: if democracy is the key to establishing peace, what is the key to establishing democracy? On that issue, the certainty that characterizes ''Never at War'' is lacking. If Weart is right, the study of how to make peace is approaching the status of an applied science. But on the question of how to make democracy we have a very long way to go.</p>
+        <p>Michael Mandelbaum's most recent book is ''The Dawn of Peace in Europe.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Michael Mandelbaum's most recent book is ''The Dawn of Peace in Europe.''</tagline>
+    </body.end>
+  </body>
+</nitf>

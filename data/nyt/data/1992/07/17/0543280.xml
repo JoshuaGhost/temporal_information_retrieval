@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gatx Corp. reports earnings for Qtr to June 30</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="543280"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5D6103BF934A25754C0A964958260" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gatx Corp. reports earnings for Qtr to June 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Gatx Corp. (NYSE)</p>
+        <p>Qtr to June 30</p>
+        <p>1992</p>
+        <p>1991</p>
+        <p>Revenue</p>
+        <p>259,300,000</p>
+        <p>242,600,000</p>
+        <p>Net inc</p>
+        <p>16,500,000</p>
+        <p>20,600,000</p>
+        <p>Share earns</p>
+        <p>.68</p>
+        <p>.89</p>
+        <p>6mo rev</p>
+        <p>491,200,000</p>
+        <p>454,400,000</p>
+        <p>Net loss</p>
+        <p>b10,600,000</p>
+        <p>c39,500,000</p>
+        <p>Share earns</p>
+        <p>-</p>
+        <p>1.69</p>
+        <p>b-After a charge from an accounting adjustment of $ 42,900,000. c-Net income</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

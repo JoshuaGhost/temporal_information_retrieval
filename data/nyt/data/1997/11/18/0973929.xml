@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Glasses, The Hair, The Angst</title>
+    <meta content="18JAME" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="973929"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="TELEVISION REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">James, Caryn</person>
+        <object.title class="indexing_service">Just Shoot Me (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Television/Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DB1138F93BA25752C1A961958260" item-length="407" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Glasses, The Hair, The Angst</hl1>
+      </hedline>
+      <byline class="print_byline">By CARYN JAMES</byline>
+      <byline class="normalized_byline">James, Caryn</byline>
+      <abstract>
+        <p>Caryn James reviews NBC comedy Just Shoot Me (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Woody Allen phones the heroine of ''Just Shoot Me'' at the end of tonight's show, that really is Woody Allen's voice, not an impersonator's. The brief, disembodied guest appearance has everything to do with impersonators, though. This exceptionally funny and clever episode of the series, about an intellectual named Maya (Laura San Giacomo) who works for her philistine father (George Segal) at a fashion magazine called Blush, is shaped as an ''Annie Hall'' parody and features a character who looks, talks and acts like the Woody Allen of Maya's dreams.</p>
+        <p>Like the Allen character in ''Annie Hall,'' Maya looks at the camera, in black and white, and comments on a strange and wonderful romance. After she writes a fantasy article called ''My Dinner With Woody,'' she gets a call from a man who sounded like the real thing. When he shows up he is clearly an impostor, but one who steps so perfectly into Maya's caricatured image of her idol -- the plaid shirt, the neuroses, the love of Chinese food -- that she goes out with him anyway. The ''Annie Hall'' flashbacks include a parody of the famous lobster scene, this time with Maya and the fake Woody terrified by an ear of corn they're about to toss into a pot. When the genuine Woody Allen finally phones Maya, it serves as a seal of approval for an episode that fondly touches one of his own favorite themes: the way idealized romances collide with reality.</p>
+      </block>
+      <block class="full_text">
+        <p>When Woody Allen phones the heroine of ''Just Shoot Me'' at the end of tonight's show, that really is Woody Allen's voice, not an impersonator's. The brief, disembodied guest appearance has everything to do with impersonators, though. This exceptionally funny and clever episode of the series, about an intellectual named Maya (Laura San Giacomo) who works for her philistine father (George Segal) at a fashion magazine called Blush, is shaped as an ''Annie Hall'' parody and features a character who looks, talks and acts like the Woody Allen of Maya's dreams.</p>
+        <p>Like the Allen character in ''Annie Hall,'' Maya looks at the camera, in black and white, and comments on a strange and wonderful romance. After she writes a fantasy article called ''My Dinner With Woody,'' she gets a call from a man who sounded like the real thing. When he shows up he is clearly an impostor, but one who steps so perfectly into Maya's caricatured image of her idol -- the plaid shirt, the neuroses, the love of Chinese food -- that she goes out with him anyway. The ''Annie Hall'' flashbacks include a parody of the famous lobster scene, this time with Maya and the fake Woody terrified by an ear of corn they're about to toss into a pot. When the genuine Woody Allen finally phones Maya, it serves as a seal of approval for an episode that fondly touches one of his own favorite themes: the way idealized romances collide with reality.</p>
+        <p>Generally, ''Just Shoot Me'' has a split personality, too often relying on juvenile office pranks and leering looks at models. But that may be one secret of its appeal. As in last week's episode, which involved tickets to see ''King Lear'' in London, the series is best when it plays off the tension between the art-loving Maya and her shallow, scheming colleagues. The show is developing into a hit, with the nerve to make a television in-joke: the Woody impersonator's character (played by Ed Krasnick) is named Preston Beckman, the real name of NBC's head of scheduling.</p>
+        <p>JUST SHOOT ME  NBC, tonight at 9:30</p>
+        <p>TELEVISION REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

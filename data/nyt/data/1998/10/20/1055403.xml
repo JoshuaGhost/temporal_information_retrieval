@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  BLOCK, MANUEL L.</title>
+    <meta content="DN102098" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055403"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">BLOCK, MANUEL L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3D8113AF933A15753C1A96E958260" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  BLOCK, MANUEL L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLOCK-Manuel L. The Officers, Board of Trustees and members of Temple Sinai of Bergen County, Tenafly, N.J. deeply mourns the passing of Manuel L. Block beloved father of our Rabbi, Bruce S. Block. We extend our heartfelt condolences to his wife Lillian and daughter-in-law Terrie and his grandsons Jeremy and Joshua and to the entire family. The funeral was held Monday, October 19th in Newport Beach, CA. Richard Simon, President Nitza Amit, Cantor</p>
+      </block>
+      <block class="full_text">
+        <p>BLOCK-Manuel L. The Officers, Board of Trustees and members of Temple Sinai of Bergen County, Tenafly, N.J. deeply mourns the passing of Manuel L. Block beloved father of our Rabbi, Bruce S. Block. We extend our heartfelt condolences to his wife Lillian and daughter-in-law Terrie and his grandsons Jeremy and Joshua and to the entire family. The funeral was held Monday, October 19th in Newport Beach, CA. Richard Simon, President Nitza Amit, Cantor</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

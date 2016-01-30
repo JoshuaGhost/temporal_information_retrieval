@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Thrifting'</title>
+    <meta content="RV000406" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1260427"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cotter, Holland</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E0DE163AF936A35752C0A9679C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Thrifting'</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews out-of-towner showcase of works by young talent at Lombard-Freid Fine Arts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lombard-Freid Fine Arts</p>
+        <p>531 West 26th Street, Chelsea</p>
+        <p>Through tomorrow</p>
+        <p>All the artists in this out-of-towner showcase organized by Kerry Inman are represented by the Inman Gallery of Houston, known as a seedbed for young talent. And as the title suggests, much of the work is made of used and castoff materials.</p>
+      </block>
+      <block class="full_text">
+        <p>Lombard-Freid Fine Arts</p>
+        <p>531 West 26th Street, Chelsea</p>
+        <p>Through tomorrow</p>
+        <p>All the artists in this out-of-towner showcase organized by Kerry Inman are represented by the Inman Gallery of Houston, known as a seedbed for young talent. And as the title suggests, much of the work is made of used and castoff materials.</p>
+        <p>Bill Davenport is a ringleader here, touching on many formal bases in a still-life painting of vintage paperbacks, a plaster sculpture of a snowman and a child-size pink mitten emblazoned with the word ''go.'' Francesca Fuchs uses ''found'' patterns in her paintings: the horizontal colored stripes on a thermos are turned into a mural. And Brad Tucker does ingenious things with carved skateboards and cut-out foam rubber words. (He is also included in the current ''Some New Minds'' at the P.S. 1 Contemporary Art Center in Long Island City, Queens.)</p>
+        <p>The real magician of recycling, though, is Dario Robleto, who is represented here by modest pieces, among them a couple of his wry diva homages. One, ''I Wish I Could Give Maria All the Love She Will Ever Need,'' is made of thrift store trophy parts recast from melted Callas recordings.</p>
+        <p>Mr. Robleto has a mad-scientist's way of mixing music, technology, art history, philosophy and stand-up comedy to create fresh, mutant forms. He recently completed an installation-style project at ArtPace in San Antonio, and judging by photos, it would be the perfect centerpiece for an overdue New York solo.</p>
+        <p>HOLLAND COTTER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

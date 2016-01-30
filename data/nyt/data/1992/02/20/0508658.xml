@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pop and Jazz in Review</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="508658"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <org class="indexing_service">SIOUXSIE SIOUX (MUSIC GROUP)</org>
+        <person class="indexing_service">PARELES, JON</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DA133BF933A15751C0A964958260" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pop and Jazz in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">PARELES, JON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Siouxsie and the Banshees  The Ritz</p>
+        <p>Siouxsie Sioux danced like a showgirl as she led the Banshees at the Ritz on Monday night. Her hands fluttered, her arms described spirals, she shimmied and did high kicks. But she was singing about things showgirls wouldn't mention: crumbling cities, asylums for the insane, peep shows, dark compulsions. And those were only the hits.</p>
+      </block>
+      <block class="full_text">
+        <p>Siouxsie and the Banshees  The Ritz</p>
+        <p>Siouxsie Sioux danced like a showgirl as she led the Banshees at the Ritz on Monday night. Her hands fluttered, her arms described spirals, she shimmied and did high kicks. But she was singing about things showgirls wouldn't mention: crumbling cities, asylums for the insane, peep shows, dark compulsions. And those were only the hits.</p>
+        <p>Siouxsie and the Banshees, founded in 1976 by the band's songwriters, Miss Sioux and Steve Severin (bass player), has outlived most punk-era bands by continually updating its music. Yet it has maintained a fascination with the imagery of what one song calls "a twilight world," full of formless terrors and unknown choices. It's something like late adolescence.</p>
+        <p>In a husky, ululating voice, Miss Sioux sings lyrics that probe fears, invoke doomed romance and offer glimmers of decadence amid the band's drone, beat and noise. The songs are incantations for the dance floor, with exotic tinges of Indian and Arabic music. (Behind the band, a backdrop in the style of Hindu art showed a couple embracing.)</p>
+        <p>For the first part of the set, the Banshees threatened to become formulaic, offering a riff, a boom-boom-chicka-boom dance beat and the screech and chomp of Jon Klein's guitar; Martin McCarrick alternated between keyboards and electric cello, deepening the drone. But after a pair of slow, sustained songs, the Banshees shifted into the clipped, lurching "Peek-a-Boo," the near-funk of "Fear (of the Unknown)," even a touch of salsa in "El Dia de los Muertos," all showing the Banshees adapting to the rhythm-driven 1990's.</p>
+        <p>By now, Siouxsie and the Banshees is a virtual institution, a band for haunted introverts who want to dance. "It's a funeral, but it's a happy one," Miss Sioux said as she collected flowers from admirers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

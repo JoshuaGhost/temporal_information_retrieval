@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Outward Bound</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Leisure Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="448229"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="THIS WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <object.title class="indexing_service">TERMINI STATION (MOVIE)</object.title>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0DF163EF935A15756C0A967958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Outward Bound</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>THIS WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

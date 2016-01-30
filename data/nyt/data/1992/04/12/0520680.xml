@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Above the Andes</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="520680"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="IN SHORT: NONFICTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">RANCK, ROSEMARY</person>
+        <person class="indexing_service">BRIDGES, MARILYN</person>
+        <object.title class="indexing_service">PLANET PERU (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920412T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DD163AF931A25757C0A964958260" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Above the Andes</hl1>
+      </hedline>
+      <byline class="print_byline">By ROSEMARY RANCK</byline>
+      <byline class="normalized_byline">RANCK, ROSEMARY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marilyn Bridges's striking black-and-white aerial photographs taken in Peru during 1988 and 1989 give an otherworldly view of a country too often noted for cholera, inflation, economic scandals and political terrorism. Flying over the country's majestic terrain, Ms. Bridges recorded abstract patterns and forms, concentrating on archeological traces of earlier Andean peoples. PLANET PERU: An Aerial Journey Through a Timeless Land (Kodak/Aperture, $35) conveys an atmosphere of stillness and wonder quite unlike the usual arid archeological images. From her elevated perspective, Mrs. Bridges uses the raking light of early morning and late afternoon to delineate and animate adobe pyramids, ancient roadways and terraced fields. A large section of the book is devoted to geoglyphs -- drawings and geometric markings made many hundreds of years ago that stretch for miles over the land. The few photographs that include vestiges of modern life -- a truck on a coastal highway, a desert billboard, a cement factory -- share with the others a concern for formal beauty and the elemental power of nature. John Hyslop, an archeologist with the Institute of Andean Research and the American Museum of Natural History, provides the accompanying historical commentary on Incan and pre-Incan civilizations, and Fernando Belaunde Terry, a former president of Peru, offers an introduction. Although the photographs are attractively reproduced, the design of "Planet Peru" does not serve them well. The horizontal images seem to run together across the pages, and the book's brash Day-Glo cover undermines the seriousness and artistry of its contents.</p>
+      </block>
+      <block class="full_text">
+        <p>Marilyn Bridges's striking black-and-white aerial photographs taken in Peru during 1988 and 1989 give an otherworldly view of a country too often noted for cholera, inflation, economic scandals and political terrorism. Flying over the country's majestic terrain, Ms. Bridges recorded abstract patterns and forms, concentrating on archeological traces of earlier Andean peoples. PLANET PERU: An Aerial Journey Through a Timeless Land (Kodak/Aperture, $35) conveys an atmosphere of stillness and wonder quite unlike the usual arid archeological images. From her elevated perspective, Mrs. Bridges uses the raking light of early morning and late afternoon to delineate and animate adobe pyramids, ancient roadways and terraced fields. A large section of the book is devoted to geoglyphs -- drawings and geometric markings made many hundreds of years ago that stretch for miles over the land. The few photographs that include vestiges of modern life -- a truck on a coastal highway, a desert billboard, a cement factory -- share with the others a concern for formal beauty and the elemental power of nature. John Hyslop, an archeologist with the Institute of Andean Research and the American Museum of Natural History, provides the accompanying historical commentary on Incan and pre-Incan civilizations, and Fernando Belaunde Terry, a former president of Peru, offers an introduction. Although the photographs are attractively reproduced, the design of "Planet Peru" does not serve them well. The horizontal images seem to run together across the pages, and the book's brash Day-Glo cover undermines the seriousness and artistry of its contents.</p>
+        <p>IN SHORT: NONFICTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

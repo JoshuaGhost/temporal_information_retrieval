@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Tropical Storm Forms in Caribbean</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="796137"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HURRICANES AND TROPICAL STORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">TROPICAL STORM ROXANNE</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E4DD1339F933A25753C1A963958260" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Tropical Storm Forms in Caribbean</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>MIAMI, Oct. 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The first tropical storm with an "R" name Roxanne -- formed in the Caribbean  today, taking a path similar to the one Hurricane Opal followed when it killed 10 people in the Yucatan Peninsula of Mexico last week.</p>
+        <p>The new storm was the 17th the 1995 Atlantic hurricane season when its sustained winds reached the 39 mile-an-hour threshold. The record for tropical storms and hurricanes in a season is 21, set in 1933.</p>
+      </block>
+      <block class="full_text">
+        <p>The first tropical storm with an "R" name Roxanne -- formed in the Caribbean  today, taking a path similar to the one Hurricane Opal followed when it killed 10 people in the Yucatan Peninsula of Mexico last week.</p>
+        <p>The new storm was the 17th the 1995 Atlantic hurricane season when its sustained winds reached the 39 mile-an-hour threshold. The record for tropical storms and hurricanes in a season is 21, set in 1933.</p>
+        <p>I can't believe this," said Max Mayfield, a hurricane specialist. "I keep looking for the on-off switch, and I can't find it."</p>
+        <p>Opal was the ninth hurricane of the June-through-November season and the first "O" storm since the National Hurricane Center began issuing names in 1950. Tropical Storm Pablo dissipated over the western Caribbean on Sunday.</p>
+        <p>The new storm's winds had increased to 70 m.p.h. by 11 P.M. today, when the storm center was about 200 miles southeast of Cozumel. It was heading northwest  at about 9 m.p.h.</p>
+        <p>"It seems like all the forecasts have it turning toward the Yucatan," said Lixion Avila, another hurricane specialist. "It's the same as Opal, in the beginning."</p>
+        <p>Hurricane watches were issued for western Cuba and the Isle of Youth and the  east coast of the Yucatan Peninsula from Chetumal to Cabo Catoche. In addition, residents in the Florida Keys were urged to monitor the storm since its outer bands could reach the Florida Straits.</p>
+        <p>Hurricane Opal hit Mexico's Gulf Coast of last Monday. It then struck the Florida Panhandle, killing 19 people in four states.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

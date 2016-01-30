@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="742493"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">POSTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOWS (EXHIBITS)</classifier>
+        <person class="indexing_service">COTTER, HOLLAND</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Posters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DC113FF933A25751C0A963958260" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">COTTER, HOLLAND</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Guerrilla Girls</p>
+        <p>Printed Matter  77 Wooster Street  SoHo  Through Feb. 26</p>
+        <p>The Guerrilla Girls are artist vigilantes whose names and number remain secret. Their targets have been racially and sexually discriminatory practices in the art world, and their main weapon has been a series of tersely worded posters that periodically cover the walls of SoHo and beyond.</p>
+      </block>
+      <block class="full_text">
+        <p>Guerrilla Girls</p>
+        <p>Printed Matter  77 Wooster Street  SoHo  Through Feb. 26</p>
+        <p>The Guerrilla Girls are artist vigilantes whose names and number remain secret. Their targets have been racially and sexually discriminatory practices in the art world, and their main weapon has been a series of tersely worded posters that periodically cover the walls of SoHo and beyond.</p>
+        <p>In celebration of their 10th anniversary, a selection of posters is on view at Printed Matter, a gallery and bookstore devoted to artist's publications. The black-and-white posters rely on lists, statistics, spare graphics and a wry turn of phrase to deliver the message that, even with the raised political awareness of the past decade, the New York art world remains a predominantly white male shop.</p>
+        <p>If you would like to know the offending institutions and personalities of seasons past ("These galleries show no more than 10 percent woman artists or none at all" states one poster; "Which art mag was worst for women last year?" asks another), this is the place to look. Although some recent posters address issues outside an art context, the Guerrilla Girls always come back to it, and when they state "You're seeing less than half the picture without the vision of woman artists and artists of color," who could argue? HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

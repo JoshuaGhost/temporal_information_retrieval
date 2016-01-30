@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="MOST" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1450042"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDB103DF93AA25751C1A9649C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction: 'Most Wanted' chart in special Outlook issue of Business Day carried incorrect ranking, based on advertising pages, for top nationally circulated magazines in shelter category</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The ''Most Wanted'' chart in the special Outlook issue of Business Day on Monday carried incorrect rankings, based on advertising pages, for the top nationally circulated magazines in the shelter category. A corrected list appears today, on Page C7.</p>
+        <p>In addition, the list of top-ranked broadcast television series misstated the title of the No. 1 program. It is N.F.L. Post Gun, not N.F.L. (Sunday). And the list of rankings for television specials misstated the rating for the Super Bowl. It was 40.4, not 35.2.</p>
+      </block>
+      <block class="full_text">
+        <p>The ''Most Wanted'' chart in the special Outlook issue of Business Day on Monday carried incorrect rankings, based on advertising pages, for the top nationally circulated magazines in the shelter category. A corrected list appears today, on Page C7.</p>
+        <p>In addition, the list of top-ranked broadcast television series misstated the title of the No. 1 program. It is N.F.L. Post Gun, not N.F.L. (Sunday). And the list of rankings for television specials misstated the rating for the Super Bowl. It was 40.4, not 35.2.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

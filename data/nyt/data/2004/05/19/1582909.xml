@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National Briefing | Washington: Scientist Falsified DNA Reports</title>
+    <meta content="MB011725" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1582909"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Dna (Deoxyribonucleic Acid)</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Blake, Jacqueline M</person>
+        <person class="indexing_service">Lichtblau, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDE133FF93AA25756C0A9629C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National Briefing | Washington: Scientist Falsified DNA Reports</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Lichtblau (NYT)</byline>
+      <byline class="normalized_byline">Lichtblau, Eric</byline>
+      <abstract>
+        <p>Former FBI scientist Jacqueline M Blake pleads guilty to falsifying DNA evidence reports in over 100 cases by certifying that she had completed DNA control tests when she had not; Justice Department officials say her false statements did not affect outcome of any criminal case (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A former F.B.I. scientist pleaded guilty to falsifying DNA evidence reports in dozens of cases. The scientist, Jacqueline M. Blake, 40, faces a maximum sentence of one year in prison and a $100,000 fine. She admitted that from 1999 to 2002, she certified that she had completed DNA control tests in more than 100 cases when she had not. Justice Department officials said her false statements did not affect the outcome of any criminal cases.</p>
+        <p>Eric Lichtblau (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A former F.B.I. scientist pleaded guilty to falsifying DNA evidence reports in dozens of cases. The scientist, Jacqueline M. Blake, 40, faces a maximum sentence of one year in prison and a $100,000 fine. She admitted that from 1999 to 2002, she certified that she had completed DNA control tests in more than 100 cases when she had not. Justice Department officials said her false statements did not affect the outcome of any criminal cases.</p>
+        <p>Eric Lichtblau (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

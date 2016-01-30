@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="825740"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EFDF1639F934A15752C0A960958260" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CARMIKE CINEMAS INC., Columbus, Ga., which owns a chain of theaters, agreed to acquire 12 movie theaters from Fox Theaters Corp. of Wyomissing, Pa., for undisclosed terms.</p>
+      </block>
+      <block class="full_text">
+        <p>CARMIKE CINEMAS INC., Columbus, Ga., which owns a chain of theaters, agreed to acquire 12 movie theaters from Fox Theaters Corp. of Wyomissing, Pa., for undisclosed terms.</p>
+        <p>MINNESOTA MINING AND MANUFACTURING CO., St. Paul, known as 3M, said it planned to close a plant in Baltimore, Ohio, with 115 employees that makes car and truck trim.</p>
+        <p>NOKIA OY A.B., Helsinki, Finland, a telecomunications company, won a contract valued at $22 million to supply its Guestlink hotel communications system to Thorn EMI of London.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

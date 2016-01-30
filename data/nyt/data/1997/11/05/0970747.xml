@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="CXX052" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="970747"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Nasdaq Stock Market</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DA1130F936A35752C1A961958260" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Nov 3 article about increasing capacity of Wall Street computers; Oct 28 problem with Nasdaq reporting explained (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Monday about efforts to increase the capacity of Wall Street computers referred incorrectly to a problem on Oct. 28 with the Nasdaq trade reporting system. While Nasdaq stopped providing some stock price data that afternoon to users of the market's terminals, it continued to provide all the data to users of other terminals.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Monday about efforts to increase the capacity of Wall Street computers referred incorrectly to a problem on Oct. 28 with the Nasdaq trade reporting system. While Nasdaq stopped providing some stock price data that afternoon to users of the market's terminals, it continued to provide all the data to users of other terminals.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

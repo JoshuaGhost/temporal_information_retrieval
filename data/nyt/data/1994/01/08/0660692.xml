@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Well-Rested Messier Is Back</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="660692"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOCKEY, ICE</classifier>
+        <org class="indexing_service">NEW YORK RANGERS</org>
+        <person class="indexing_service">MESSIER, MARK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E0DC1731F93BA35752C0A962958260" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Well-Rested Messier Is Back</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After missing six games with a sprained right wrist, Mark Messier joined the Rangers on their trip to Montreal yesterday and is expected to play tonight when the Rangers meet the Canadiens at the Forum.</p>
+        <p>Messier was injured on Dec. 22 against the Panthers in Florida and has held himself out for six games as a precautionary measure. The Rangers were 4-2 without him.</p>
+      </block>
+      <block class="full_text">
+        <p>After missing six games with a sprained right wrist, Mark Messier joined the Rangers on their trip to Montreal yesterday and is expected to play tonight when the Rangers meet the Canadiens at the Forum.</p>
+        <p>Messier was injured on Dec. 22 against the Panthers in Florida and has held himself out for six games as a precautionary measure. The Rangers were 4-2 without him.</p>
+        <p>His return comes just after the Rangers lost forward Steve Larmer for four weeks. Larmer fractured a bone in his pinky Wednesday night at Madison Square Garden after being slashed by Gary Roberts of the Calgary Flames. Larmer underwent surgery yesterday at Lenox Hill Hospital in Manhattan, and Roberts, who was not penalized during the game for the incident, drew a suspension from the National Hockey League yesterday, effectively immediately. The terms of the suspension will be determined after an investigation and a hearing.</p>
+        <p>Tonight's game will be the first Larmer has missed because of injury since the 1982-83 season. He played in 884 consecutive games, the third-longest streak in N.H.L. history, before he held out during Chicago's training camp last fall and missed the start of the season. He has played in 27 games for New York after being obtained in a trade on Nov. 2.  HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

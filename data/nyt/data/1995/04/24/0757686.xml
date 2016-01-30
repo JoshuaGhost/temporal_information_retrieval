@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Traders</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="757686"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="A DAY IN THE DECLINE OF THE DOLLAR: TOKYO"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CURRENCY</classifier>
+        <location class="indexing_service">JAPAN</location>
+        <person class="indexing_service">WUDUNN, SHERYL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D81F39F937A15757C0A963958260" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Traders</hl1>
+      </hedline>
+      <byline class="print_byline">By SHERYL WUDUNN</byline>
+      <byline class="normalized_byline">WUDUNN, SHERYL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hiroyuki Mizoguchi jumped up and reached across a row of colorful flashing screens to grab a blue order slip from a colleague.</p>
+        <p>As traders in New York arrived home and dealers in London were fast asleep, Mr. Mizoguchi was starting his trading day. He had just sold $3.6 million to a customer at 83.37 yen to the dollar and made a slim profit for the First National Bank of Chicago, where he buys and sells currencies.</p>
+      </block>
+      <block class="full_text">
+        <p>Hiroyuki Mizoguchi jumped up and reached across a row of colorful flashing screens to grab a blue order slip from a colleague.</p>
+        <p>As traders in New York arrived home and dealers in London were fast asleep, Mr. Mizoguchi was starting his trading day. He had just sold $3.6 million to a customer at 83.37 yen to the dollar and made a slim profit for the First National Bank of Chicago, where he buys and sells currencies.</p>
+        <p>At 30, Mr. Mizoguchi is one of this city's agile traders -- and he needs to be. It has been a frenzied month as he and traders around the world maneuver to profit as the dollar plunges, hitting a postwar intraday low of 79.75 yen on Wednesday.</p>
+        <p>But when Mr. Mizoguchi sat down at his desk Friday morning at 7:30 to chart his trading strategy, no clear picture of the yen's future came to mind. He had read the financial news during his 40-minute train ride to work. He had checked the news wires. He had analyzed the busy trading patterns of his night-shift colleagues.</p>
+        <p>It was four days until the meeting in Washington of the Group of Seven industrial nations and traders know that what they say about the dollar can move markets. But no one expected any major announcements this Friday. So, how should he bet today?</p>
+        <p>At first, Mr. Mizoguchi thought the dollar might go up, so he bought dollars by selling yen. He now held $5 million at a cost of 83.32 yen to a dollar. But the quiet market dipped slightly, so Mr. Mizoguchi sold his $5 million position, incurring a small loss, and then sold an additional $10 million. He now owned, net, $10 million of yen.</p>
+        <p>Then a news item flashed across his Reuters screen: Japan's Finance Minister says the G-7 meeting will make progress in ways to support the dollar.</p>
+        <p>The comment could be interpreted as an encouraging remark for the dollar. Unfortunately, it would not be helpful to his bet that the dollar would fall. So he switched again and sold yen to buy $13 million. Now he had a net position of $3 million. But later he decided to get out and sold his $3 million. "This market is boring," he said.</p>
+        <p>The dollar was up, after seesawing, but the unlucky timing of Mr. Mizoguchi's bets cost him about $20,000. Still, he took it in stride -- some days he makes that in a few minutes. SHERYL WuDUNN  A DAY IN THE DECLINE OF THE DOLLAR: TOKYO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

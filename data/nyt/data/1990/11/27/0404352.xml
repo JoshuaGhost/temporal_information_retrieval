@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hawaiian Group May Buy Ameron</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="404352"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">AMERON INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D8153BF934A15752C1A966958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hawaiian Group May Buy Ameron</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Nov. 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Hawaiian investment group said it was considering the purchase of Ameron Inc., a Monterey Park, Calif., construction products manufacturer. In a filing with the Securities and Exchange Commission, the investment group said that it had talked with third parties about financing an acquisition but that no agreements had been reached.</p>
+        <p>The investment group already controls 8.5 percent of Ameron's 3.7 million shares outstanding. The group is led by two Hawaiian businessmen, Jay H. Shidler and James C. Reynolds. Ameron's stock rose 25 cents today, to $35.50, on the New York Stock Exchange.</p>
+      </block>
+      <block class="full_text">
+        <p>A Hawaiian investment group said it was considering the purchase of Ameron Inc., a Monterey Park, Calif., construction products manufacturer. In a filing with the Securities and Exchange Commission, the investment group said that it had talked with third parties about financing an acquisition but that no agreements had been reached.</p>
+        <p>The investment group already controls 8.5 percent of Ameron's 3.7 million shares outstanding. The group is led by two Hawaiian businessmen, Jay H. Shidler and James C. Reynolds. Ameron's stock rose 25 cents today, to $35.50, on the New York Stock Exchange.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

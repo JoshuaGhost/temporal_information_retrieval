@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sara Goldstein, Andrew Blotner</title>
+    <meta content="16GOLD" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1039410"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">GOLDSTEIN, SARA BETH</person>
+        <person class="indexing_service">BLOTNER, ANDREW EVAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DC133AF935A2575BC0A96E958260" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sara Goldstein, Andrew Blotner</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sara Beth Goldstein, a daughter of Barbara Goldstein and Dr. Robert S. Goldstein of Great Neck, N.Y., was married last evening to Andrew Evan Blotner, a son of Nancy and Robert Blotner of Westport, Conn. Rabbi Robert J. Orkand officiated at the University Club in New York.</p>
+        <p>The bride, 32, is a vice president and trademark counsel at Citibank in New York. She graduated from Syracuse University and received a Master of Fine Arts degree from the Fashion Institute of Technology and a law degree from Yeshiva University. Her father, an orthopedic surgeon, is a partner in Madison Avenue Orthopaedic Associates in New York. Her mother is a certified public accountant at Marks Shron &amp; Company, an accounting firm in Great Neck.</p>
+      </block>
+      <block class="full_text">
+        <p>Sara Beth Goldstein, a daughter of Barbara Goldstein and Dr. Robert S. Goldstein of Great Neck, N.Y., was married last evening to Andrew Evan Blotner, a son of Nancy and Robert Blotner of Westport, Conn. Rabbi Robert J. Orkand officiated at the University Club in New York.</p>
+        <p>The bride, 32, is a vice president and trademark counsel at Citibank in New York. She graduated from Syracuse University and received a Master of Fine Arts degree from the Fashion Institute of Technology and a law degree from Yeshiva University. Her father, an orthopedic surgeon, is a partner in Madison Avenue Orthopaedic Associates in New York. Her mother is a certified public accountant at Marks Shron &amp; Company, an accounting firm in Great Neck.</p>
+        <p>The bridegroom, 32, is a brand director in the media department at Grey Advertising, the New York agency. He graduated from Clark University. His mother is a freelance medical marketing writer. His father is the vice president of Rental Uniform, a family-owned uniform cleaning and delivery service company in Hartford.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

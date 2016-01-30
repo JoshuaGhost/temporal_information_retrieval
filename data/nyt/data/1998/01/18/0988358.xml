@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Memorials  GORDON, CHARLOTTE</title>
+    <meta content="DN011898" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="988358"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">GORDON, CHARLOTTE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Memorial Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DD1639F93BA25752C0A96E958260" item-length="21" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Memorials  GORDON, CHARLOTTE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GORDON-Charlotte. Thanks for Queens College days, for hamburgers on English muffins, for the New York Library and much more. Love, Ruth</p>
+      </block>
+      <block class="full_text">
+        <p>GORDON-Charlotte. Thanks for Queens College days, for hamburgers on English muffins, for the New York Library and much more. Love, Ruth</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

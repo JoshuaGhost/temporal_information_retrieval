@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kimberly-Clark Corp.(KMB,N) reports earnings for 2d qtr to Jun 30</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="777563"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2D6143FF936A15754C0A963958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kimberly-Clark Corp.(KMB,N) reports earnings for 2d qtr to Jun 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Kimberly-Clark Corp.(KMB,N)</p>
+        <p>2d qtr to Jun 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Sales</p>
+        <p>2,152,000,000</p>
+        <p>1,838,500,000</p>
+        <p>Net inc</p>
+        <p>163,300,000</p>
+        <p>151,500,000</p>
+        <p>Share earns</p>
+        <p>1.02</p>
+        <p>.94</p>
+        <p>Share earnings for the latest quarter included a gain of 5 cents a share from the translation of dollar-denominated liabilities into pesos at the company's Mexican affiliate, and a charge of 2 cents a share from the disposition of the company's trucking operation. Share earnings for the year-ago quarter included a gain of 4 cents a share from the change in accounting at the company's South African affiliate. Sales are net sales.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

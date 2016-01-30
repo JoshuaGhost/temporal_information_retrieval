@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High Marks For a Walk To School</title>
+    <meta content="23walk" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/08/23/health/nutrition/23walk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1696718"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Hiking</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Walking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Walking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E4DB113EF930A1575BC0A9639C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High Marks For a Walk To School</hl1>
+        <hl2 class="online_headline">High Marks for a Walk to School</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS BAKALAR</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Walking to school may be the cure for teenage couch potatoes. A Scottish study demonstrates that the walkers are more active during the rest of the day than their peers who arrive by car, bus or train.</p>
+        <p>Why walking to school encourages greater physical activity is not clear, but the authors speculate that a morning walk may stimulate further social interaction and lead to more exercise.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A Scottish study demonstrates that the teenage walkers are more active during the rest of the day than their peers who arrive at school by car, bus or train.</p>
+      </block>
+      <block class="full_text">
+        <p>Walking to school may be the cure for teenage couch potatoes. A Scottish study demonstrates that the walkers are more active during the rest of the day than their peers who arrive by car, bus or train.</p>
+        <p>Why walking to school encourages greater physical activity is not clear, but the authors speculate that a morning walk may stimulate further social interaction and lead to more exercise.</p>
+        <p>They said that similar results had been found for 10-year-olds, but that walking to school made no difference in the physical activity level of 5-year-olds.</p>
+        <p>The researchers recruited 13- and 14-year-olds from four schools near Edinburgh, giving each an instrument that records the time and distance of vertical movement. They were asked to wear the devices all day except while bathing or swimming.</p>
+        <p>The results were published online by BMJ on Aug. 16.</p>
+        <p>By every measurement, the teenagers who walked to school exercised more than those who rode. Those who walked both to and from school got 25 percent more exercise than riders over the entire weekday, 8.9 percent more during school hours, 4.2 percent more while on morning break, 18.4 percent more during lunch break and 17 percent more exercise outside school.</p>
+        <p>The teenagers who walked one way had increases over the riders that were almost as great.</p>
+        <p>Turning down a lift to school may have other advantages, said Joanna Inchley, a research fellow at the University of Edinburgh and co-author of the study.</p>
+        <p>''Obviously cutting down on car travel has much broader environmental and safety benefits as well as the health benefits for children,'' she said.</p>
+        <p>Driving the teenagers to soccer practice may not be enough, Ms. Inchley said. ''Parents need the support of schools and community groups to provide a range of age-appropriate opportunities for children and adolescents to be active. It's not just about team-based sports.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

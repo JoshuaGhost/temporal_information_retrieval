@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Barnes Names a Chief From Outside Family</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="424550"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="BUSINESS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">BARNES GROUP INC</org>
+        <person class="indexing_service">CUFF, DANIEL F</person>
+        <person class="indexing_service">FENOGLIO, WILLIAM R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6D6153BF93AA25751C0A967958260" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Barnes Names a Chief From Outside Family</hl1>
+      </hedline>
+      <byline class="print_byline">By Daniel F. Cuff</byline>
+      <byline class="normalized_byline">CUFF, DANIEL F</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Barnes Group, a 134-year-old industrial company in Bristol, Conn., has named William R. Fenoglio chief executive. He is the first executive from outside the Barnes family to lead the company.</p>
+        <p>Mr. Fenoglio, 51, will take over in April after Wallace Barnes steps down at age 65. Mr. Barnes will continue as chairman.</p>
+      </block>
+      <block class="full_text">
+        <p>The Barnes Group, a 134-year-old industrial company in Bristol, Conn., has named William R. Fenoglio chief executive. He is the first executive from outside the Barnes family to lead the company.</p>
+        <p>Mr. Fenoglio, 51, will take over in April after Wallace Barnes steps down at age 65. Mr. Barnes will continue as chairman.</p>
+        <p>Barnes, with sales last year of $550 million, is in the precision spring and aircraft component businesses and the distribution of maintenance supplies.</p>
+        <p>The company was founded by Mr. Barnes's great-grandfather, and the family owns a third of the stock, which is traded on the New York Stock Exchange. Some Barnes family members serve on the board, including Carlyle F. Barnes, Mr. Barnes's first cousin and a retired executive officer of the company.</p>
+        <p>But there are no other Barneses in the company's executive offices. Mr. Fenoglio was recruited six years ago from the General Electric Company and joined Barnes as president and chief operating officer. Mr. Fenoglio will continue as president as well as being chief executive.</p>
+        <p>"There will be no dramatic changes in store," Mr. Fenoglio said. "We believe in focus. We've got three good business with a lot of opportunities."</p>
+        <p>The company is feeling the effects of recession, especially in the auto industry. "This is a fairly tough time, with the auto market a big part of our precision spring business," he said. "People are worried about the war and about having jobs. I don't see it being too short term," he said of the slump.</p>
+        <p>But he said that Barnes was a "well-managed company able to handle adversity."</p>
+        <p>Mr. Fenoglio is a graduate of the Rose-Hulman Institute of Technology in Terre Haute, Ind. From there he went to G.E., where he spent 23 years. In his last job at G.E., he was general manager of the component motor division in Fort Wayne, Ind.</p>
+        <p>Wallace Barnes was named president in 1964 and that year the company diversified away from its Associated Spring business with the acquisition of the Bowman Distribution Group. It entered the aerosapce business in the early 1980's.</p>
+        <p>BUSINESS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

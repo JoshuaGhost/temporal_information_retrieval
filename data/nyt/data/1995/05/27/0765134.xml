@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Worst May Be Over in Zaire's Ebola Outbreak</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="765134"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EBOLA VIRUS</classifier>
+        <location class="indexing_service">ZAIRE</location>
+        <org class="indexing_service">WORLD HEALTH ORGANIZATION (WHO)</org>
+        <person class="indexing_service">ALTMAN, LAWRENCE K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Congo, The Democratic Republic of</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ebola Virus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Congo, The Democratic Republic of the</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D81E3FF934A15756C0A963958260" item-length="492" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Worst May Be Over in Zaire's Ebola Outbreak</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE K. ALTMAN</byline>
+      <byline class="normalized_byline">ALTMAN, LAWRENCE K</byline>
+      <dateline>WASHINGTON, May 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With only six new cases of Ebola infection reported in Zaire over the last week, the World Health Organization said today that the epidemic of the deadly viral disease in the African country was "coming under control."</p>
+        <p>"The acute phase of the epidemic is over and transmission now has been greatly reduced, if not completely halted," W.H.O. said in a news release issued from the headquarters of the United Nations agency in Geneva.</p>
+      </block>
+      <block class="full_text">
+        <p>With only six new cases of Ebola infection reported in Zaire over the last week, the World Health Organization said today that the epidemic of the deadly viral disease in the African country was "coming under control."</p>
+        <p>"The acute phase of the epidemic is over and transmission now has been greatly reduced, if not completely halted," W.H.O. said in a news release issued from the headquarters of the United Nations agency in Geneva.</p>
+        <p>The international team of scientists investigating the epidemic has now identified a total of 160 confirmed or suspected cases, including 121 deaths, that have occurred in Zaire since late December. Of the 160 cases, 138 were in Kikwit, a city of about 600,000 about 300 miles from Kinshasa, the capital. The remaining cases occurred in five other areas near Kikwit in Bandundu province. The victims ranged in age from 3 months to 71 years. Only five were under 16 years old.</p>
+        <p>The number of cases is smaller than health officials had predicted. Last week, W.H.O. officials warned that the total would rise substantially. They said they suspected that people were incubating the virus and would become ill in a new wave of the epidemic. Some health officials involved in the investigation estimated that the total might reach several hundred cases.</p>
+        <p>The incubation period ranges from 2 to 21 days.</p>
+        <p>Health officials' worst fears were that the virus would spread from Kikwit to Kinshasa, a city of six million, and possibly to other countries. But no such cases have been reported, W.H.O. said.</p>
+        <p>The international team has included more than 60 scientists, and new members are arriving to replace some who have left, said Valery Abramov, a W.H.O. spokesman. Now that the initial phase of the investigation -- finding cases and cleaning the hospitals -- has been accomplished, the scientists are aiming to improve the quality of health care in the epidemic area.</p>
+        <p>The scientists also are beginning studies to learn where the virus resides between epidemics. Ebola is one of the hemorrhagic fever virusus, which produce flu-like symptoms and fever and kill by causing uncontrollable bleeding throughout the body. Most such viruses are carried by rodents and other animals.  The location of the Ebola virus between epidemics is unknown despite attempts to find it during the two previously known outbreaks, in 1976 and 1979 in Zaire and Sudan.</p>
+        <p>At this point, the initial case appears to be a forest worker who was infected in late December. Members of the international team have expressed hope that clues from his case may lead them to the virus's path. The studies will take months as the scientists test scores of species to determine which are infected.</p>
+        <p>The investigation found that 7 of 12 members of one household died in a chain of transmission of Ebola virus last winter. One area of interest to researchers is to determine why five members of the household apparently escaped infection or recovered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

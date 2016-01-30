@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alexander Brozan and Jodi Sugerman</title>
+    <meta content="23SUGE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1041093"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">SUGERMAN, JODI ELLEN (JODI ELLEN BROZAN)</person>
+        <person class="indexing_service">BROZAN, ALEXANDER MICHAEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6D6103DF930A1575BC0A96E958260" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alexander Brozan and Jodi Sugerman</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jodi Ellen Sugerman, a daughter of Louise and Stephen Sugerman of Marshfield, Mass., is to be married this afternoon to Alexander Michael Brozan, the son of Nadine and Ralph Brozan of New York. Rabbi Toba Spitzer is to perform the ceremony at the Nahant Country Club in Nahant, Mass.</p>
+        <p>The bride, 29, is a co-director of educational programs at Alternatives for Community and Environment, an environmental justice organization in Roxbury, Mass. She graduated from Connecticut College and received a master's degree in urban and environmental policy from Tufts University. Her father is a pharmacist at a CVS pharmacy in Hanover, Mass. Her mother is a travel agent at Garber Travel in Braintree, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>Jodi Ellen Sugerman, a daughter of Louise and Stephen Sugerman of Marshfield, Mass., is to be married this afternoon to Alexander Michael Brozan, the son of Nadine and Ralph Brozan of New York. Rabbi Toba Spitzer is to perform the ceremony at the Nahant Country Club in Nahant, Mass.</p>
+        <p>The bride, 29, is a co-director of educational programs at Alternatives for Community and Environment, an environmental justice organization in Roxbury, Mass. She graduated from Connecticut College and received a master's degree in urban and environmental policy from Tufts University. Her father is a pharmacist at a CVS pharmacy in Hanover, Mass. Her mother is a travel agent at Garber Travel in Braintree, Mass.</p>
+        <p>The bridegroom, 27, graduated summa cum laude from Tufts, where he was elected to Phi Beta Kappa. He is to begin studying for a law degree at Northeastern University later this month. His mother is a reporter on the metropolitan desk of The New York Times. His father is the senior partner in Brozan &amp; Brozan, a law firm in New York.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

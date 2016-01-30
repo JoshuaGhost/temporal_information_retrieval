@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   ROCCHIO, JOSEPH P. JR.</title>
+    <meta content="DN010604" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1548683"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">ROCCHIO, JOSEPH P. JR.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040106T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4DD1331F935A35752C0A9629C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   ROCCHIO, JOSEPH P. JR.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROCCHIO--Joseph P. Jr., M.D. Of New York City, January 2, 2004. Beloved son of Mildred and the late Joseph P. Rocchio Sr.; dear brother of Lemoyne (P. Richard Jr.) Rhoades; devoted uncle of P. Richard (Deborah) Rhoades III and Kristen E. (Matthew) Webb; survived by countless friends and patients in his 23 year Pediatric Practice who fondly referred to him as Dr. Joe or Doc Roc. He will be remembered for his dedication to children and medicine and for his unselfish generous spirit. Funeral services were private.</p>
+      </block>
+      <block class="full_text">
+        <p>ROCCHIO--Joseph P. Jr., M.D. Of New York City, January 2, 2004. Beloved son of Mildred and the late Joseph P. Rocchio Sr.; dear brother of Lemoyne (P. Richard Jr.) Rhoades; devoted uncle of P. Richard (Deborah) Rhoades III and Kristen E. (Matthew) Webb; survived by countless friends and patients in his 23 year Pediatric Practice who fondly referred to him as Dr. Joe or Doc Roc. He will be remembered for his dedication to children and medicine and for his unselfish generous spirit. Funeral services were private.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

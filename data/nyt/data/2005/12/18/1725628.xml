@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Building Stories</title>
+    <meta content="18funny--strip" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <meta content="CORRECTION APPENDED" name="banner"/>
+    <meta content="20060101T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1725628"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="THE FUNNY PAGES: I: THE STRIP"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Series</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DB1E31F93BA25751C1A9639C8B63" item-length="8" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Building Stories</hl1>
+      </hedline>
+      <byline class="print_byline">By Chris Ware</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PART 13: 9 a.m.</p>
+      </block>
+      <block class="full_text">
+        <p>PART 13: 9 a.m.  THE FUNNY PAGES: I: THE STRIP</p>
+        <p>Correction:  January 1, 2006, Sunday  The Building Stories comic strip on Dec. 18 carried an erroneous headline. It was Part 14, 10 a.m., not Part 13, 9 a.m.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 1, 2006, Sunday</p>
+        <p>The Building Stories comic strip on Dec. 18 carried an erroneous headline. It was Part 14, 10 a.m., not Part 13, 9 a.m.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

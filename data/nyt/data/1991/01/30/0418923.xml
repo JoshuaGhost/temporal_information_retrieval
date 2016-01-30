@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Commodore Net Soars on Europe Sales</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="418923"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">COMMODORE INTERNATIONAL LTD</org>
+        <org class="indexing_service">UNISYS CORP</org>
+        <org class="indexing_service">CONTROL DATA CORP</org>
+        <person class="indexing_service">FISHER, LAWRENCE M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7DE1738F933A05752C0A967958260" item-length="654" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Commodore Net Soars on Europe Sales</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER, Special to The New York Times</byline>
+      <byline class="normalized_byline">FISHER, LAWRENCE M</byline>
+      <dateline>SAN FRANCISCO, Jan. 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Continuing its rebound, Commodore International Ltd. today reported more than a threefold gain in earnings for the quarter ended Dec. 31, primarily because of strong European sales of personal computers.</p>
+        <p>Also today, two longtime makers of large computer systems, the Unisys Corporation and the Control Data Corporation, reported losses.</p>
+      </block>
+      <block class="full_text">
+        <p>Continuing its rebound, Commodore International Ltd. today reported more than a threefold gain in earnings for the quarter ended Dec. 31, primarily because of strong European sales of personal computers.</p>
+        <p>Also today, two longtime makers of large computer systems, the Unisys Corporation and the Control Data Corporation, reported losses.</p>
+        <p>Commodore said its growth in the quarter was dominated by its Amiga personal computers, whose sales have surged on the strength of their powerful graphics and video capabilities. Sales of the company's I.B.M.-compatible personal computers also grew, while sales of the inexpensive Commodore 64 model remained equal to last year. Commodore said it was confident it could maintain its momentum.</p>
+        <p>Unisys cited a weak economy and a poor outlook for computer orders, while Control Data attributed its loss to a big charge against earnings and said it was in the process of turning itself around.</p>
+        <p>Following are details of the companies' results: Commodore</p>
+        <p>For its second fiscal quarter, Commodore had earnings of $36.5 million, or $1.12 a share, more than three times the $11.3 million, or 35 cents a share, it reported in the period a year ago. Sales rose 23.6 percent, to $384.1 million, from $310.7 million in the second quarter a year earlier. The company said gross profit increased 42 percent in the quarter as a result of increased revenues and favorable currency effects, because much of the company's sales are in European currencies.</p>
+        <p>"The December quarter was the second-largest sales quarter in our history," Irving Gould, Commodore's chairman and chief executive, said in a statement. "We are pleased with the strong sales performance of our European operations, which accounted for 85 percent of total sales for the quarter. Several European countries experienced sales growth of over 50 percent."</p>
+        <p>On the New York Stock Exchange today, Commodore shares gained $1.125, to $14.875. Unisys</p>
+        <p>Unisys reported a fourth-quarter loss of $119.0 million, compared with earnings of $7.2 million, or 5 cents a share, in the period a year ago. Revenues dropped 1.3 percent, to $2.93 billion, from $2.97 million in the fourth quarter of 1989.</p>
+        <p>For the year, Unisys reported a loss of $551.0 million, compared with a loss of $746.5 million in 1989. Revenues were essentially flat at $10.11 billion, compared with $10.10 billion in the previous year.</p>
+        <p>"Our fourth-quarter results reflect generally weakening economic conditions and the adverse impact on gross margins of lower volumes and industry pricing pressures," James A. Unruh, the Unisys chairman and chief executive, said in a statement. "Facing a weak outlook for computer orders, we will post a loss in the first quarter and expect a very difficult first half."</p>
+        <p>Shares of Unisys were unchanged at $2.625 in Big Board trading. Control Data</p>
+        <p>Control Data reported a fourth-quarter loss of $23.8 million, compared with a loss of $196.4 million in the period a year ago. Sales dropped 18 percent, to $429.7 million, from $523.7 million in the fourth quarter of 1989. Fourth-quarter 1990 results reflect restructuring and other pretax charges totaling $47.7 million.</p>
+        <p>"The fourth-quarter charges did not permit the company to realize the level of profitability we expected earlier in the year, and they demonstrate that Control Data is still very much in the middle of the turnaround process," Lawrence Perlman, Commodore's president and chief executive, said in a statement.</p>
+        <p>For the year, Control Data had earnings of $2.7 million, or 5 cents a share, compared with a loss of $680.4 million in 1989. Revenues dropped 42.3 percent, to $1.69 billion, from $2.93 billion in the previous year. The company's 1989 results included several businesses that have since been sold, most notably the Imprimis disk drive subsidiary.</p>
+        <p>Control Data's shares rose 12.5 cents, to $9.75, on the Big Board.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

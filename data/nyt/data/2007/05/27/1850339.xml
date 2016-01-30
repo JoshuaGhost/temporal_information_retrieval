@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BANNED BUT NOT BOWED</title>
+    <meta content="27suits-2" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1850339"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070527T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EEDC1730F934A15756C0A9619C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BANNED BUT NOT BOWED</hl1>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Martin B. Leon, a cardiologist at Columbia University Medical Center, is still denying accusations that he prematurely disclosed the basic result of a major clinical trial. Nor is he willingly retreating from his roles as a prominent agenda-setter for debate in his profession and a go-to guy for companies working on new medical devices.</p>
+        <p>But he is accepting the punishment meted out by the American College of Cardiology for comments about the clinical trial, which studied the value of treating clogged arteries with heart stents in addition to drugs. The college said last week that Dr. Leon would be barred from presenting research or participating in expert panels at its annual scientific meeting in Chicago next year.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Martin B. Leon, a cardiologist at Columbia University Medical Center, is still denying accusations that he prematurely disclosed the basic result of a major clinical trial. Nor is he willingly retreating from his roles as a prominent agenda-setter for debate in his profession and a go-to guy for companies working on new medical devices.</p>
+        <p>But he is accepting the punishment meted out by the American College of Cardiology for comments about the clinical trial, which studied the value of treating clogged arteries with heart stents in addition to drugs. The college said last week that Dr. Leon would be barred from presenting research or participating in expert panels at its annual scientific meeting in Chicago next year.</p>
+        <p>Dr. Leon issued a statement last week saying that he was not contesting the penalty and letter of censure regarding what he described as ''informal remarks'' at a symposium sponsored by Boston Scientific in New Orleans two days before the results were to be released. He said the comments, reported in The Wall Street Journal, had been ''exaggerated.''</p>
+        <p>Now that his punishment is settled, Dr. Leon said, attention should turn to ''what some regard as a flawed research embargo process.'' Presumably, he was referring to the practices imposed by publicity-conscious medical journals and medical societies to control the release of research results. But Dr. Leon, who was in Barcelona last week for a major European cardiology meeting, was not available to elaborate.</p>
+        <p>BARNABY J. FEDER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

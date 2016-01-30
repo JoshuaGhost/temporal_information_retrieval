@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Key Rates</title>
+    <meta content="Y15KEY0AA" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1375887"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="THE MARKETS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE4DC1139F936A25750C0A9649C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Key Rates</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In percent</p>
+        <p>Day</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Ago</p>
+        <p>Ago</p>
+        <p>Prime rate</p>
+        <p>4.75</p>
+        <p>4.75</p>
+        <p>8.50</p>
+        <p>Discount rate</p>
+        <p>1.25</p>
+        <p>1.25</p>
+        <p>5.00</p>
+        <p>Federal funds</p>
+        <p>1.81</p>
+        <p>1.73</p>
+        <p>5.52</p>
+        <p>3-month T-bills</p>
+        <p>1.80</p>
+        <p>1.78</p>
+        <p>4.39</p>
+        <p>6-month T-bills</p>
+        <p>2.00</p>
+        <p>1.95</p>
+        <p>4.23</p>
+        <p>10-yr. T-infl.</p>
+        <p>3.40</p>
+        <p>3.37</p>
+        <p>3.31</p>
+        <p>10-yr. T-note</p>
+        <p>5.41</p>
+        <p>5.26</p>
+        <p>4.78</p>
+        <p>30-yr. T-bond</p>
+        <p>5.83</p>
+        <p>5.73</p>
+        <p>5.27</p>
+        <p>Telephone bd.</p>
+        <p>7.97</p>
+        <p>7.75</p>
+        <p>7.68</p>
+        <p>Municipal bds.</p>
+        <p>5.41</p>
+        <p>5.38</p>
+        <p>5.33</p>
+        <p>(Sources: Salomon Smith Barney; Telerate; The Bond Buyer)</p>
+      </block>
+      <block class="full_text">
+        <p>In percent</p>
+        <p>Day</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Ago</p>
+        <p>Ago</p>
+        <p>Prime rate</p>
+        <p>4.75</p>
+        <p>4.75</p>
+        <p>8.50</p>
+        <p>Discount rate</p>
+        <p>1.25</p>
+        <p>1.25</p>
+        <p>5.00</p>
+        <p>Federal funds</p>
+        <p>1.81</p>
+        <p>1.73</p>
+        <p>5.52</p>
+        <p>3-month T-bills</p>
+        <p>1.80</p>
+        <p>1.78</p>
+        <p>4.39</p>
+        <p>6-month T-bills</p>
+        <p>2.00</p>
+        <p>1.95</p>
+        <p>4.23</p>
+        <p>10-yr. T-infl.</p>
+        <p>3.40</p>
+        <p>3.37</p>
+        <p>3.31</p>
+        <p>10-yr. T-note</p>
+        <p>5.41</p>
+        <p>5.26</p>
+        <p>4.78</p>
+        <p>30-yr. T-bond</p>
+        <p>5.83</p>
+        <p>5.73</p>
+        <p>5.27</p>
+        <p>Telephone bd.</p>
+        <p>7.97</p>
+        <p>7.75</p>
+        <p>7.68</p>
+        <p>Municipal bds.</p>
+        <p>5.41</p>
+        <p>5.38</p>
+        <p>5.33</p>
+        <p>(Sources: Salomon Smith Barney; Telerate; The Bond Buyer)</p>
+        <p>THE MARKETS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

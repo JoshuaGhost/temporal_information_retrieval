@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Chip That Mimics Neurons, Firing Up the Memory</title>
+    <meta content="20NEXT" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/06/20/technology/circuits/20NEXT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1401947"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Alzheimer's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Stroke</classifier>
+        <classifier class="indexing_service" type="descriptor">Language and Languages</classifier>
+        <classifier class="indexing_service" type="descriptor">Memory</classifier>
+        <org class="indexing_service">University of Southern California</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <person class="indexing_service">Berger, Theodore W (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Alzheimer's</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stroke</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Memory</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alzheimer's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stroke</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">University of Southern California</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E3D9173FF933A15755C0A9649C8B63" item-length="1010" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Chip That Mimics Neurons, Firing Up the Memory</hl1>
+        <hl2 class="online_headline">A Chip That Mimics Neurons, Firing Up the Memory</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Dr Theodore W Berger, professor of biomedical engineering at University of Southern California, is developing basics for chip-assisted hippocampus, offering potential remedy for Alzheimer's and stroke-related language and memory deficits; advances in neuroscience make it possible to develop implanted circuits that mimic neural activity; Berger has created mathematical models of activities of neurons in hippocampus of lab animals and devised circuits that duplicate those activities; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the 2001 movie ''Memento,'' the hero cannot hold onto any new memories. He forgets whatever he sees or hears within moments, distracted by new events that he also forgets in turn.</p>
+        <p>Profound amnesia like this comes about in real life, too, from trauma or disease to the hippocampus, the cortical section of the brain where memories are formed.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Researchers are designing chips that one day may help compensate for damage to the part of the brain where memories are formed.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the 2001 movie ''Memento,'' the hero cannot hold onto any new memories. He forgets whatever he sees or hears within moments, distracted by new events that he also forgets in turn.</p>
+        <p>Profound amnesia like this comes about in real life, too, from trauma or disease to the hippocampus, the cortical section of the brain where memories are formed.</p>
+        <p>One day, though, a computer chip may do some of the work of a damaged hippocampus, replacing living neurons with silicon ones. That is the goal of Dr. Theodore W. Berger, a professor of biomedical engineering at the University of Southern California in Los Angeles and the director of the Center for Neural Engineering there. Dr. Berger has spent the past decade developing some of the basics for a chip-assisted hippocampus.</p>
+        <p>The shrinking of the hippocampus is thought to indicate early cognitive impairment that is a precursor to Alzheimer's disease. A chip such as the one envisioned by Dr. Berger might one day help combat not only the ravages associated with Alzheimer's, but also language deficits that result from stroke and memory problems associated with epilepsy as well.</p>
+        <p>As a basis for the brain prosthetic, Dr. Berger and his group created mathematical models of the activities of neurons in the rat hippocampus, an organ that is similar to the human hippocampus, and then devised circuits that duplicate these activities.</p>
+        <p>Chips based on these mathematical models have yet to be implanted in rats, much less in humans, but scientists in the field say that work like Dr. Berger's augurs well for the future of neural prosthetics.</p>
+        <p>''The brain is so complex that one wouldn't at the outset think that replacing any of its parts is doable,'' said Dr. Howard Eichenbaum, a professor of psychology at Boston University and director of the Laboratory of Cognitive Neurobiology there.</p>
+        <p>But advances in neuroscience and computer engineering have made it possible to develop implanted circuits that mimic neural activities, he said. ''At least in principle, it looks as though a chip imitating some functions of the hippocampus could be implanted in the future,'' he said. ''It's a huge, huge advance in simply duplicating the functions of the hippocampus, which in many ways Dr. Berger has done.''</p>
+        <p>Dr. Berger and his colleagues study the way biology has created its circuits using slices of rat hippocampus that can be kept alive in nutrients for a day or more. The transverse slices preserve a substantial portion of the intrinsic circuitry, he said, allowing detailed study of their principal neurons and how they are connected.</p>
+        <p>''Neurons send information to one another in the form of impulses of varying intervals,'' he said. When neurons receive an incoming pattern, they transform it into a different, outgoing pattern. ''We've created mathematical models of what a neuron does when it receives a signal, and then, having processed it, sends out a different signal,'' he said.</p>
+        <p>The silicon neurons are meant to act for the damaged neurons they replace, accepting electrical impulses, processing them and then communicating with the functioning part of the live brain. The models for these interactions are developed by generating all possible input patterns that neurons could encounter and by recording the electrical activity of the neurons as they receive and reprocess these signals.</p>
+        <p>Dr. Vasilis Z. Marmarelis, a professor of biomedical engineering at U.S.C., assisted Dr. Berger in developing the mathematical models. Another U.S.C. colleague, Dr. John J. Granacki of the School of Engineering, is translating the models into computer chips. ''The chips behave like the model predicts -- they act like a network of real biological neurons in the hippocampus,'' he said.</p>
+        <p>So far, the circuits Dr. Granacki has built will take the place of 50 to 100 brain cells. The group has also designed chips with up to 10,000 neurons and tested these in simulation, although they have not yet built them. ''We know that we can fabricate them,'' Dr. Berger said, ''and at some point we will.''</p>
+        <p>Dr. Berger hopes eventually to implant the chips in the brains of rats or monkeys, working with Dr. Samuel A. Deadwyler, vice chairman of the department of physiology and pharmacology at Wake Forest University. Dr. Deadwyler's work includes recordings from the hippocampus of rats who are doing memory tasks that show, for example, the differences in neural firings in the hippocampus when the rats remember a task correctly or incorrectly.</p>
+        <p>The devices Dr. Berger has in mind are in a different category from other chips being developed in the growing field of neuroprosthetics, said Dr. Joel Davis, a program officer at the Office of Naval Research in Arlington, Va., which with the Defense Advanced Research Projects Agency is financing some of Dr. Berger's work.</p>
+        <p>The more familiar category of bionic chips is designed to enhance the senses, Dr. Davis said -- in cochlear or retinal implants, for example. These chips translate an external stimulus like a sound into an electrical impulse delivered to the brain.</p>
+        <p>Another kind of implantable brain chips are designed for motor skills, for instance, operating a robotic arm. In preliminary versions of some of these chips, brain waves produced by monkeys as they think about a motion are translated into programs that move a lever. Such programs might in the future help paralyzed people use their thoughts to control a computer.</p>
+        <p>But Dr. Berger's neuroprosthetic, Dr. Davis said, is different: it is meant to augment cognition itself.</p>
+        <p>Dr. Davis said he was certain that such efforts would bear fruit. ''Using implantables to enhance competency is down the road,'' he said. ''It's just a matter of time.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life at Life</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="994"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">WAINWRIGHT, LOUDON</person>
+        <classifier class="online_producer" type="types_of_material">letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEEDB1630F937A35752C0A961948260" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life at Life</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>For a month I've sat on the urge to write you a letter about Lewis H. Lapham's review of my book ''The Great American Magazine'' (Nov. 16). Until now I kept deciding that nothing would be served by such a communication, and I am reluctant to grieve in print for readers who are rightly skeptical of authors' claims of foul. Even so, I continue to believe that Mr. Lapham's review is really awful, a meanspirited, condescending and smarmy piece of work that intemperately trashes Life, Henry Luce and other targets of easy opportunity. With a passing lordly pat on the head, Mr. Lapham says that I write with ''grace and charm,'' but at his hands such a compliment is more like a poke in the eye with a sharp stick. Within the grand sweep of his contempt Mr. Lapham includes ''the makers of the press'' in general, which makes me wonder what he has done all these years to keep his own principles intact while he toiled eagerly at various levels in the pits of magazine publishing, including, on numerous occasions, at Life.</p>
+        <p>Indeed, Mr. Lapham seems altogether capable of the sort of tiresome little rhetorical sins we all find so familiar. For instance, in his review he uses a quotation from Bernard De Voto to counter something I wrote about the early Life, but he neglects to tell the reader that the De Voto quote can be found in the book - which is possibly where Mr. Lapham found it, too. On another occasion he says that I don't ''dwell on the reasons for the magazine's rise and fall,'' preferring instead ''to remember all the swell times and all the swell people.'' This is less than accurate. The book deals often and at length with the reasons for Life's failure, focuses strongly on its impending doom, and its recollections include a lot of not-so-swell times and portraits of not entirely swell people, like Luce.</p>
+        <p>Mr. Lapham appears to find it particularly damning that I enjoyed working for Life, and his review somehow suggests that the author of a really good book about such a rag would have better spent a career hating it.  LOUDON WAINWRIGHT  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

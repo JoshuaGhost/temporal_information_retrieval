@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="467724"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">SHULEVITZ, JUDITH</person>
+        <person class="indexing_service">EAGLETON, TERRY</person>
+        <object.title class="indexing_service">IDEOLOGY (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DC133FF93BA2575BC0A967958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By JUDITH SHULEVITZ</byline>
+      <byline class="normalized_byline">SHULEVITZ, JUDITH</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IDEOLOGY  An Introduction. By Terry Eagleton. Verso, Cloth, $59.95; Paper, $17.95.</p>
+      </block>
+      <block class="full_text">
+        <p>IDEOLOGY  An Introduction. By Terry Eagleton. Verso, Cloth, $59.95; Paper, $17.95.</p>
+        <p>"Ideology," like "freedom" or "common sense," is one of those terms people like to toss around but never quite grasp. In "Ideology: An Introduction," Terry Eagleton, the Lecturer in Critical Theory at the University of Oxford, excavates the word's philosophical history, from its Enlightenment origins as "the scientific study of human ideas" to contradictory explanations of it in the early and late writings of Karl Marx. Mr. Eagleton then walks us through more than a century's worth of Marxist and post-Marxist, structuralist and post-structuralist, modernist and post-modernist thoughts on the matter. People sick of hearing historians crow about "the end of ideology" should arm themselves with this book, but they should also proceed with caution. For, in his haste to cook up his own position on this trickiest of notions, Mr. Eagleton is all too quick to dismiss some of his contemporaries. This mars an otherwise brilliant book.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="CXMG1805" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="895589"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4D7163EF936A25751C1A960958260" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption on Nov. 24 with the article about women as icons misspelled the surname of the renowned cosmetics executive and philanthropist. She was Helena Rubinstein, not Rubenstein.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption on Nov. 24 with the article about women as icons misspelled the surname of the renowned cosmetics executive and philanthropist. She was Helena Rubinstein, not Rubenstein.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

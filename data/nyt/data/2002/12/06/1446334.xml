@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After the Breakup</title>
+    <meta content="LTR232201" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1446334"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Divorce, Separations and Annulments</classifier>
+        <classifier class="indexing_service" type="descriptor">Alimony</classifier>
+        <classifier class="indexing_service" type="descriptor">Families and Family Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Legal Profession</classifier>
+        <org class="indexing_service">American Law Institute</org>
+        <person class="indexing_service">Carlsson, Kathleen A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alimony</classifier>
+        <classifier class="online_producer" type="general_descriptor">Divorce, Separations and Annulments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D9133BF935A35751C1A9649C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After the Breakup</hl1>
+      </hedline>
+      <abstract>
+        <p>Kathleen Carlsson letter on American Law Institute proposal that states update their family law (Nov 30 article), objecting to proposal to expand right to alimony and asset reallocation for former spouses</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Legal Group Urges States to Update Their Family Law'' (front page, Nov. 30):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Legal Group Urges States to Update Their Family Law'' (front page, Nov. 30):</p>
+        <p>As a lawyer, I object to the proposal by the American Law Institute to expand the right to alimony and asset reallocation for former spouses. The availability of these remedies should be narrowed rather than expanded. The law should not encourage women to be less self-reliant.</p>
+        <p>As to unmarried couples, why bring them into a mandatory legal system instead of simply leaving them with the right to individually enter into contracts or make gifts? A law that would make unmarried couples liable for each other's support would cause havoc with long-term care planning for the elderly. At present, as long as they are not married, neither party is responsible for the other's cost of care. If they became liable, a lifetime of asset accumulation would be at stake.</p>
+        <p>KATHLEEN CARLSSON  Sayville, N.Y., Nov. 30, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

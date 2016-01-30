@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More TV, Less Sleep, a Children's Study Finds</title>
+    <meta content="13habi" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health&amp;Fitness" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/06/13/health/13habi.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1768722"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="VITAL SIGNS: HABITS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sleep</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">University of Helsinki</org>
+        <org class="indexing_service">Journal of Sleep Research</org>
+        <person class="indexing_service">Bakalar, Nicholas</person>
+        <person class="indexing_service">Paavonen, Juulia (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Sleep</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Television</classifier>
+        <classifier class="online_producer" type="descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sleep</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1DC1331F930A25755C0A9609C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More TV, Less Sleep, a Children's Study Finds</hl1>
+        <hl2 class="online_headline">Habits: More TV, Less Sleep, a Children's Study Finds</hl2>
+      </hedline>
+      <byline class="print_byline">By Nicholas Bakalar</byline>
+      <byline class="normalized_byline">Bakalar, Nicholas</byline>
+      <abstract>
+        <p>Dr Juulia Paavonen of University of Helsinki leads study on TV and sleep habits of five- and six-year-old children; findings, which are published in Journal of Sleep Research, show that children with highest amount of time in passive viewing of television have triple risk of sleep problems compared to children who watch least amount; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Five- and 6-year-old children who watch television, especially police dramas, news broadcasts and movies directed at adults, have a markedly increased risk for sleep problems, a new study suggests.</p>
+        <p>The families of 297 children completed questionnaires on sleep routines and TV viewing habits that included details about the time spent watching, the types of shows they saw and whether the parents and the children watched together. The researchers estimated the time spent in ''passive viewing'' -- when the television was on, but the child was not actively paying attention -- from the data they gathered.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Five- and 6-year-old children who watch television have a markedly increased risk for sleep problems, a new study suggests.</p>
+      </block>
+      <block class="full_text">
+        <p>Five- and 6-year-old children who watch television, especially police dramas, news broadcasts and movies directed at adults, have a markedly increased risk for sleep problems, a new study suggests.</p>
+        <p>The families of 297 children completed questionnaires on sleep routines and TV viewing habits that included details about the time spent watching, the types of shows they saw and whether the parents and the children watched together. The researchers estimated the time spent in ''passive viewing'' -- when the television was on, but the child was not actively paying attention -- from the data they gathered.</p>
+        <p>The study, which appears in the June issue of The Journal of Sleep Research, was conducted in three university cities in Finland. On average, the television was on 2.8 hours a day during the children's waking hours, and they watched it actively for 1.4 hours.</p>
+        <p>The total amount of time the television was on, the amount of active TV watching and exposure to passive TV were all correlated with decreased sleep duration. The more that children watched programs intended for adults and the more passive TV exposure they had, the more severe their sleep problems. Watching TV at bedtime or watching alone was also significantly correlated with the severity of sleep disturbances.</p>
+        <p>Children who spent the most time in passive viewing had almost triple the risk of sleep difficulties of those who spent the least. Dr. Juulia Paavonen, the study's lead author and a postdoctoral researcher at the University of Helsinki, said television watching should be limited to one or two hours a day. ''Our results suggest,'' she said, ''that parents should control the program contents that are actively watched by their children, and that children's exposure to background TV should be limited.''</p>
+        <p>VITAL SIGNS: HABITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

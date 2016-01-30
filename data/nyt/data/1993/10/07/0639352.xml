@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transactions</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="639352"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DE1E3DF934A35753C1A965958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transactions</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Basketball  National Basketball Association</p>
+        <p>CHICAGO BULLS -- Announced the retirement of Michael Jordan, guard.</p>
+      </block>
+      <block class="full_text">
+        <p>Basketball  National Basketball Association</p>
+        <p>CHICAGO BULLS -- Announced the retirement of Michael Jordan, guard.</p>
+        <p>DENVER NUGGETS -- Signed Rodney Rogers, forward.</p>
+        <p>INDIANA PACERS -- Signed Mitchell Anderson, guard-forward; Jean Prioleau, guard; and Jackie Robinson, forward.</p>
+        <p>NEW JERSEY NETS -- Matched the Milwaukee Bucks' offer sheet to Dwayne Schintzius, center.</p>
+        <p>PHOENIX SUNS -- Agreed to terms with Rod Higgins, forward.</p>
+        <p>PORTLAND TRAIL BLAZERS -- Named Jim Paxson offensive skills coach. National Basketball League</p>
+        <p>NBL -- Named Michael E. Doyle executive vice president and director of marketing. Football  National Football League</p>
+        <p>ATLANTA FALCONS -- Signed Ernie Jones, defensive end. Placed Rick Bryan, defensive end, on injured reserve.</p>
+        <p>GREEN BAY PACKERS -- Signed Paul Hutchins, tackle. Waived Brett Collins, linebacker.</p>
+        <p>NEW YORK JETS -- Waived Don Jones, linebacker.</p>
+        <p>PHILADELPHIA EAGLES -- Placed Fred Barnett and Jeff Sydner, wide receivers, on injured reserve.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

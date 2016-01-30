@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  ROSEMAN, BETTY</title>
+    <meta content="DN112802" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1444451"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">ROSEMAN, BETTY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4DF1238F93BA15752C1A9649C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  ROSEMAN, BETTY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROSEMAN-Betty. The National Officers of EMUNAH of America mourn the passing of Betty Roseman, Honarary National President of our organization. She worked tirelessly for EMUNAH's children in Israel. Betty was an outstanding Past President of the Sarah Herzog Chapter. We express our heartfelt condolences to her children, our Life Members, Rena, Surella and Chani, grandchildren and great grandchildren. Marcia Genuth, National President</p>
+      </block>
+      <block class="full_text">
+        <p>ROSEMAN-Betty. The National Officers of EMUNAH of America mourn the passing of Betty Roseman, Honarary National President of our organization. She worked tirelessly for EMUNAH's children in Israel. Betty was an outstanding Past President of the Sarah Herzog Chapter. We express our heartfelt condolences to her children, our Life Members, Rena, Surella and Chani, grandchildren and great grandchildren. Marcia Genuth, National President</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

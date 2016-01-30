@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Atlanta Plans To Overhaul Narcotics Unit</title>
+    <meta content="23atlanta" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/23/us/23atlanta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1849337"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia/Atlanta</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police Brutality and Misconduct</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <location class="online_producer">Atlanta (Ga)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6D81F31F930A15756C0A9619C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Atlanta Plans To Overhaul Narcotics Unit</hl1>
+        <hl2 class="online_headline">Atlanta Plans to Overhaul Narcotics Unit</hl2>
+      </hedline>
+      <byline class="print_byline">By BRENDA GOODMAN</byline>
+      <byline class="normalized_byline">Goodman, Brenda</byline>
+      <dateline>ATLANTA May 22</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chief Richard J. Pennington announced 140 personnel changes in the Atlanta Police Department on Tuesday, including an overhaul of the narcotics unit, which has been under scrutiny since November, when an elderly woman was shot and killed in a botched drug raid.</p>
+        <p>Saying he felt it necessary to ''start anew,'' Chief Pennington said the eight officers currently serving in narcotics would be reassigned and replaced by 14 new investigators and 3 sergeants.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The narcotics unit of the Atlanta Police Department has been under scrutiny since November, when an elderly woman was shot and killed in a botched drug raid.</p>
+      </block>
+      <block class="full_text">
+        <p>Chief Richard J. Pennington announced 140 personnel changes in the Atlanta Police Department on Tuesday, including an overhaul of the narcotics unit, which has been under scrutiny since November, when an elderly woman was shot and killed in a botched drug raid.</p>
+        <p>Saying he felt it necessary to ''start anew,'' Chief Pennington said the eight officers currently serving in narcotics would be reassigned and replaced by 14 new investigators and 3 sergeants.</p>
+        <p>Chief Pennington also said he hoped to have a total of 30 officers in the unit by the end of the year.</p>
+        <p>''I just thought it was appropriate to rebuild confidence in the narcotics unit to the community, to the citizens of this city, to let them know I took this very serious,'' Chief Pennington said at a news conference.</p>
+        <p>The restructuring comes about a month after federal investigators said they had found evidence to support a widespread ''culture of misconduct'' in the department.</p>
+        <p>Prosecutors said in court documents that officers often lied to obtain search warrants and fabricated evidence of drug purchases, as they did when they burst into the home of Kathryn Johnston, 92, last November, killing her in a hail of gunfire.</p>
+        <p>Two officers who were indicted in the raid on Ms. Johnston's home pleaded guilty last month to state charges of voluntary manslaughter and federal civil rights violations.</p>
+        <p>A third officer who was indicted in the shooting is awaiting trial.</p>
+        <p>''I wanted to make sure we restored confidence in the ability of our unit in order to go out and enforce the narcotics laws,'' Chief Pennington said.</p>
+        <p>The newly assigned narcotics officers will receive two weeks of training, including tutorials about how to obtain and execute search warrants before they take up their new posts.</p>
+        <p>Sgt. Scott Kreher, president of the local International Brotherhood of Police Officers, said he was still looking over the changes but remained skeptical about their efficacy.</p>
+        <p>''When you have the mayor, the chief, and everybody else screaming that we need at least 100 narcotics officers in the unit, 14 is a joke,'' Sergeant Kreher said referring to the recommendation of an independent review of the Police Department conducted in 2004.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

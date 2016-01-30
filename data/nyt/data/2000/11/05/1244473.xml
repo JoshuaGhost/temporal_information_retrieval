@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Of Dahlias and Shrubs</title>
+    <meta content="05CBOX$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1244473"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CUTTINGS: THIS WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="indexing_service" type="descriptor">Dahlias (Flowers)</classifier>
+        <person class="indexing_service">Jonas, Patricia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden/Columns/Cuttings</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E3DB1639F936A35752C1A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Of Dahlias and Shrubs</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICIA JONAS</byline>
+      <byline class="normalized_byline">Jonas, Patricia</byline>
+      <abstract>
+        <p>Cut back dahlia stems after frost blackens foliage (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After frost blackens foliage, cut dahlia stems to 3 inches, carefully dig up, and cure in a dry spot for a day. Tuck tubers into boxes in barely moist peat or vermiculite, and store in a dark frost-free place. The ground is warm enough to plant shrubs. After leaves fall, energies go to root development. Keep watering -- in particular, transplants, container plants and evergreens.</p>
+        <p>PATRICIA JONAS</p>
+      </block>
+      <block class="full_text">
+        <p>After frost blackens foliage, cut dahlia stems to 3 inches, carefully dig up, and cure in a dry spot for a day. Tuck tubers into boxes in barely moist peat or vermiculite, and store in a dark frost-free place. The ground is warm enough to plant shrubs. After leaves fall, energies go to root development. Keep watering -- in particular, transplants, container plants and evergreens.</p>
+        <p>PATRICIA JONAS</p>
+        <p>CUTTINGS: THIS WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

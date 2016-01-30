@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World News Briefs;Lightning at Palace Misses Royal Family</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="866978"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LIGHTNING</classifier>
+        <classifier class="indexing_service" type="descriptor">BUCKINGHAM PALACE (LONDON)</classifier>
+        <location class="indexing_service">LONDON (ENG)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lightning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palaces and Castles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D61639F937A15754C0A960958260" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World News Briefs;Lightning at Palace Misses Royal Family</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LONDON, July 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A lightning bolt slightly injured two women at a Buckingham Palace garden party today, knocking them to the ground and burning their skin.</p>
+        <p>The lightning struck 150 feet from a tent where Queen Elizabeth II, Prince Philip and Prince Charles had taken shelter during a cloudburst.</p>
+      </block>
+      <block class="full_text">
+        <p>A lightning bolt slightly injured two women at a Buckingham Palace garden party today, knocking them to the ground and burning their skin.</p>
+        <p>The lightning struck 150 feet from a tent where Queen Elizabeth II, Prince Philip and Prince Charles had taken shelter during a cloudburst.</p>
+        <p>A loud thunderclap sent a shock wave through the gardens behind Buckingham palace, where 8,000 guests were attending one of the Queen's summer parties. The Queen gives several garden parties each year and invites people from all walks of life, particularly those who have worked for the benefit of their communities.</p>
+        <p>St. Thomas' Hospital said the injured women, who did not wish to be identified, had superficial burns.</p>
+        <p>One, aged 45, was unconscious for a short time and had burns on her arm, the  hospital reported. The other woman, 55, had a burn on her abdomen and left leg.</p>
+        <p>The Queen was informed and she sent a message through the police to ask after the two women.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

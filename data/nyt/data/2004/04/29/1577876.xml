@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="MB005253" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1577876"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Hill Holliday Connors Cosmopulos Inc</org>
+        <person class="indexing_service">Shoval, Alon</person>
+        <person class="indexing_service">Carr, David</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040429T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E6D7163DF93AA15757C0A9629C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CARR</byline>
+      <byline class="normalized_byline">Carr, David</byline>
+      <abstract>
+        <p>Alon Shoval is named second executive vice president and executive creative director at New York office of Hill, Holliday, Connors, Cosmopulos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alon Shoval was named as a second executive vice president and executive creative director at the New York office of Hill, Holliday, Connors, Cosmopulos, part of the Interpublic Group of Companies, joining Jeroen Bours, who continues in his post. Mr. Shoval had most recently been executive creative director at Price McNabb, Charlotte, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>Alon Shoval was named as a second executive vice president and executive creative director at the New York office of Hill, Holliday, Connors, Cosmopulos, part of the Interpublic Group of Companies, joining Jeroen Bours, who continues in his post. Mr. Shoval had most recently been executive creative director at Price McNabb, Charlotte, N.C.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can Dole Proposal Transcend Party?</title>
+    <meta content="LTR005144" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1070435"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Impeachment</classifier>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Kelly, Robert</person>
+        <person class="indexing_service">Dole, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Impeachment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981217T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1D9103DF934A25751C1A96E958260" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can Dole Proposal Transcend Party?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Robert Kelly says Bob Dole's proposal of joint resolution of condemnation of Pres Clinton is welcome but flawed; claims bipartisan solution is impossible when all power is held by representatives of one party (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Dole's proposal (Op-Ed, Dec. 15) is welcome but flawed.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Dole's proposal (Op-Ed, Dec. 15) is welcome but flawed.</p>
+        <p>Does Mr. Dole really expect that a process that allows levels of control approaching the dictatorial to staunch partisans like Trent Lott and Robert L. Livingston could possibly satisfy the requirements of basic fairness? Or that a process waiving all points of order and meaningful debate would also do so?</p>
+        <p>A bipartisan solution is impossible when all power is held by representatives of one party.</p>
+        <p>ROBERT KELLY  New Brunswick, N.J., Dec. 15, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

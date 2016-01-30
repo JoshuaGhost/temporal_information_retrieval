@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scotland Led in Science, and in Tolerance</title>
+    <meta content="LKATZ.$03" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="937871"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <location class="indexing_service">Scotland</location>
+        <person class="indexing_service">Katz, Paul (Dr)</person>
+        <object.title class="indexing_service">Editorial Notebook (Times Column)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/Scotland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D71F3FF93BA25755C0A961958260" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scotland Led in Science, and in Tolerance</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Paul Katz letter comments on June 15 Editorial Notebook column on Scotland's educational system (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re Karl E. Meyer's ''Genius of Scotland'' (Editorial Notebook, June 15): In the 1930's and 40's more than a thousand American medical students, including myself, were admitted to Scottish universities. Most of us were Jews, as this was a time of discrimination in our own universities.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re Karl E. Meyer's ''Genius of Scotland'' (Editorial Notebook, June 15): In the 1930's and 40's more than a thousand American medical students, including myself, were admitted to Scottish universities. Most of us were Jews, as this was a time of discrimination in our own universities.</p>
+        <p>Among my more noted colleagues was Dr. Irving J. Selikoff, who became a leader in developing tuberculosis therapy and also a pioneer in environmental medicine, helping to link asbestos with cancer. Scotland took us in when we were kept out here.</p>
+        <p>PAUL KATZ, M.D.  Richmond Hill, Queens, June 15, 1997</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

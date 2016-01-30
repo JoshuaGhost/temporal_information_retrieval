@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Auerbach on Mend From Heart Surgery</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="617068"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SPORTS PEOPLE: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">HEART</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <org class="indexing_service">BOSTON CELTICS</org>
+        <person class="indexing_service">AUERBACH, RED</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/Boston Celtics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D91131F931A15755C0A965958260" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Auerbach on Mend From Heart Surgery</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Boston Celtics' president, RED AUERBACH, was progressing satisfactorily at Massachusetts General Hospital yesterday, three days after undergoing heart bypass surgery.</p>
+      </block>
+      <block class="full_text">
+        <p>The Boston Celtics' president, RED AUERBACH, was progressing satisfactorily at Massachusetts General Hospital yesterday, three days after undergoing heart bypass surgery.</p>
+        <p>Auerbach, 75, underwent surgery on five coronary arteries Friday. He had coronary angioplasty on two arteries five weeks ago. At the time, his cardiologist, Dr. ROMAN W. DeSANCTIS, warned he might also need a bypass. (AP)  SPORTS PEOPLE: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

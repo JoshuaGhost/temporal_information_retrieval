@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ms. Saroff, Dr. Singerman</title>
+    <meta content="06SARO$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1044303"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">SAROFF, LAURIE BETH (LAURIE BETH SINGERMAN)</person>
+        <person class="indexing_service">SINGERMAN, RICHARD WARREN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DF1E3FF935A3575AC0A96E958260" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ms. Saroff, Dr. Singerman</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laurie Beth Saroff, a legislative counsel for the National League of Cities in Washington, is to be married this afternoon to Dr. Richard Warren Singerman, the president of Bioquest, a biotechnology company in Washington. Rabbi Alvin Berkin is to perform the ceremony at the Tree of Life Synagogue in Pittsburgh.</p>
+        <p>The bride, 30, graduated from Bryn Mawr College and received a master's degree in public policy from Harvard University. She is a daughter of Prof. Joan Saroff and Dr. Lawrence Saroff of Pittsburgh. Her father is a program manager in the Department of Energy in Washington. Her mother is a professor of developmental studies at Allegheny Community College in Pittsburgh.</p>
+        <p>The bridegroom, 33, graduated from the Massachusetts Institute of Technology and received a Ph.D. in physics from Cornell University. He was a Marshall Scholar at Cambridge University in England. His parents, Marjorie and Millard Singerman, live in Los Angeles, where his father is an accountant.</p>
+      </block>
+      <block class="full_text">
+        <p>Laurie Beth Saroff, a legislative counsel for the National League of Cities in Washington, is to be married this afternoon to Dr. Richard Warren Singerman, the president of Bioquest, a biotechnology company in Washington. Rabbi Alvin Berkin is to perform the ceremony at the Tree of Life Synagogue in Pittsburgh.</p>
+        <p>The bride, 30, graduated from Bryn Mawr College and received a master's degree in public policy from Harvard University. She is a daughter of Prof. Joan Saroff and Dr. Lawrence Saroff of Pittsburgh. Her father is a program manager in the Department of Energy in Washington. Her mother is a professor of developmental studies at Allegheny Community College in Pittsburgh.</p>
+        <p>The bridegroom, 33, graduated from the Massachusetts Institute of Technology and received a Ph.D. in physics from Cornell University. He was a Marshall Scholar at Cambridge University in England. His parents, Marjorie and Millard Singerman, live in Los Angeles, where his father is an accountant.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Washington; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="447829"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NAZI ERA</classifier>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <classifier class="indexing_service" type="descriptor">JEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCENTRATION CAMPS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEPORTATION</classifier>
+        <classifier class="indexing_service" type="descriptor">CITIZENSHIP</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES INTERNATIONAL RELATIONS</classifier>
+        <person class="indexing_service">BAUMANN, ANTON</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Concentration Camps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Citizenship</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DB1539F936A15756C0A967958260" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article by The Associated Press on May 22 about a Federal court order revoking the citizenship of a Milwaukee man accused of having been a guard at a Nazi concentration camp misstated a judge's finding. The judge, Thomas Curran, said the Government had established that the man, Anton Bauman, served as an armed guard at the Stutthof concentration camp. He did not say that it had not been proved that the man was at the camp.</p>
+      </block>
+      <block class="full_text">
+        <p>An article by The Associated Press on May 22 about a Federal court order revoking the citizenship of a Milwaukee man accused of having been a guard at a Nazi concentration camp misstated a judge's finding. The judge, Thomas Curran, said the Government had established that the man, Anton Bauman, served as an armed guard at the Stutthof concentration camp. He did not say that it had not been proved that the man was at the camp.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

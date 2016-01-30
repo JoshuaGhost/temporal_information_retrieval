@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fairchild to Sell 2 Subsidiaries</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="71293"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <org class="indexing_service">FAIRCHILD INDUSTRIES INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE7D71138F930A3575AC0A961948260" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fairchild to Sell 2 Subsidiaries</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Fairchild Industries, a diversified military contractor, said yesterday that it had agreed to sell its aircraft operations to an investor group headed by senior management. The company also said it had agreed to sell a subsidiary that makes building products to Pacific Precision Metals Inc., a company formed by</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Fairchild Industries, a diversified military contractor, said yesterday that it had agreed to sell its aircraft operations to an investor group headed by senior management. The company also said it had agreed to sell a subsidiary that makes building products to Pacific Precision Metals Inc., a company formed by</p>
+        <p>Fairchild Industries, a diversified military contractor, said yesterday that it had agreed to sell its aircraft operations to an investor group headed by senior management. The company also said it had agreed to sell a subsidiary that makes building products to Pacific Precision Metals Inc., a company formed by Fairchild employees.</p>
+        <p>The company said the price for the two transactions totaled about $75 million.</p>
+        <p>The Fairchild aircraft operations include two units in San Antonio and one in Crestview, Fla. The operations, which modify aircraft and make turboprop planes, reported 1986 revenues of $132.1 million and operating income of $13.1 million. The building products subsidiaries reported combined revenues of $24 million and operating profits of $4.2 million last year.</p>
+        <p>The company said that the two deals are part of a restructuring plan announced last month. At that time, the company said it was narrowing its focus to aerospace and defense electronics.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

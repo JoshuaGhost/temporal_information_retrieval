@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bozell Files to Offer Stock in Its Poppe Unit</title>
+    <meta content="ADD4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health; Business" name="online_sections"/>
+    <meta content="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA" name="column_name"/>
+    <docdata>
+      <doc-id id-string="871102"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <org class="indexing_service">Poppe Tyson</org>
+        <org class="indexing_service">Bozell Jacobs Kenyon &amp; Eckhardt Inc</org>
+        <org class="indexing_service">safecycle (co)</org>
+        <person class="indexing_service">Bryant, Adam</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Doctors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EEDB1F3EF931A2575BC0A960958260" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bozell Files to Offer Stock in Its Poppe Unit</hl1>
+      </hedline>
+      <byline class="print_byline">By Adam Bryant</byline>
+      <byline class="normalized_byline">Bryant, Adam</byline>
+      <abstract>
+        <p>Bozell, Jacobs, Kenyon &amp; Eckhardt sets $50 million initial public stock offering for its Poppe Tyson unit; seeks Nasdaq listing for unit; Safecyle names Poppe Tyson to handle advertising and public realitons for its fluid-waste management device for use in operating rooms (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bozell, Jacobs, Kenyon &amp; Eckhardt has, as expected, filed a registration statement with the Securities and Exchange Commission for a $50 million initial public offering of stock for its Poppe Tyson unit that specializes in interactive communications.</p>
+        <p>According to the registration statement, Bozell, Jacobs, which owns other agencies like Bozell Worldwide and Temerlin McClain, has applied for a listing of Poppe Tyson on Nasdaq. The number of shares to be sold has not been determined. Bozell, Jacobs said in February that it was considering an initial public offering for Poppe Tyson.</p>
+      </block>
+      <block class="full_text">
+        <p>Bozell, Jacobs, Kenyon &amp; Eckhardt has, as expected, filed a registration statement with the Securities and Exchange Commission for a $50 million initial public offering of stock for its Poppe Tyson unit that specializes in interactive communications.</p>
+        <p>According to the registration statement, Bozell, Jacobs, which owns other agencies like Bozell Worldwide and Temerlin McClain, has applied for a listing of Poppe Tyson on Nasdaq. The number of shares to be sold has not been determined. Bozell, Jacobs said in February that it was considering an initial public offering for Poppe Tyson.</p>
+        <p>Separately, the Steris Corporation in Mentor, Ohio, has named the Cleveland office of Poppe Tyson to handle advertising and public relations for Safecycle 40, a fluid-waste management device for use in operating rooms. Billings were not disclosed.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fixing Flaws, Microsoft Invites Attack</title>
+    <meta content="29SOFT$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/29/technology/29SOFT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1523377"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Microsoft Corporation</org>
+        <org class="online_producer">CERT</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E3D8103DF93AA1575AC0A9659C8B63" item-length="2017" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fixing Flaws, Microsoft Invites Attack</hl1>
+        <hl2 class="online_headline">To Fix Software Flaws, Microsoft Invites Attack</hl2>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>Attacks on Microsoft's computer software have surged, in part as digital vandals make use of weaknesses revealed when Microsoft identifies flaw and issues patch; new viruses particularly threaten computer users who fail to download many patches company has released; security flaws Microsoft scrambles to catch and patch emerge because programs are increasingly large, complex and filled with bugs, problem magnified because most computers are now linked to Internet; experts say security holes are manifestations of fragile and often unreliable software foundation that underlies economy; diagram of how worm works; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Microsoft's Security Response Center in Redmond, Wash., is the computing equivalent of a hospital emergency ward. When a problem comes in the door the center's director, Kevin Kean, and his staff must swiftly make an assessment: Is the security weakness detected in a Microsoft software product only minor? Or is it possibly so serious that, if exploited by a vandal's malicious code (as happened last month with the Blaster worm) it might crash computers and networks around the world?</p>
+        <p>If the threat appears grave, the problem goes immediately into the center's emergency operating room, where it is attended to by a team of Microsoft engineers, working nearly round-the-clock to analyze the flawed code, anticipate paths of attack, devise a software patch to fix the defect and alert millions of customers of the problem and the patch.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why is it still so difficult to make software that is not vulnerable to network attacks like the SoBig virus and Blaster worm?</p>
+      </block>
+      <block class="full_text">
+        <p>Microsoft's Security Response Center in Redmond, Wash., is the computing equivalent of a hospital emergency ward. When a problem comes in the door the center's director, Kevin Kean, and his staff must swiftly make an assessment: Is the security weakness detected in a Microsoft software product only minor? Or is it possibly so serious that, if exploited by a vandal's malicious code (as happened last month with the Blaster worm) it might crash computers and networks around the world?</p>
+        <p>If the threat appears grave, the problem goes immediately into the center's emergency operating room, where it is attended to by a team of Microsoft engineers, working nearly round-the-clock to analyze the flawed code, anticipate paths of attack, devise a software patch to fix the defect and alert millions of customers of the problem and the patch.</p>
+        <p>''It's triage and emergency response -- so it's a lot like an E.R. ward in that sense,'' Mr. Kean observed last week.</p>
+        <p>The race to protect the computing patient has begun again.</p>
+        <p>On Sept. 10, after Mr. Kean's team completed another E.R. mission, Microsoft issued an emergency warning of a critical vulnerability in its Windows operating systems and released a patch -- its 39th so far this year. What particularly worries computer professionals about the warning is that the security hole in Windows is the same kind of flaw, in the same feature of the operating system, that was exploited in August by the notorious Blaster worm.</p>
+        <p>Those who monitor Internet crises know that once Microsoft raises the alarm and releases a patch, a curious race begins. Digital vandals -- those who write worms, viruses and other rogue programs -- eagerly download the patch and reverse-engineer, taking it apart to search for clues on how to exploit the very Microsoft security hole the patch was meant to cover.</p>
+        <p>Some portion of Microsoft customers, from corporations to home PC users, takes the time to download the patch, but most do not. Meanwhile, there is a scramble to write malicious code and spread it across the Internet.</p>
+        <p>The Blaster worm was sighted on the Internet 25 days after Microsoft warned of that security hole. The company issued the latest warning 19 days ago. So if recent history is a guide, Blaster 2 may be coming soon to a computer near you.</p>
+        <p>The brand-name worms and viruses of the last couple of years -- Blaster, SoBig, Slammer, Code Red, Nimda, ILoveYou and others -- are simply the most virulent representatives of an alarming surge in attacks by malicious programmers.</p>
+        <p>The CERT Coordination Center at Carnegie Mellon University, which monitors rogue computer programs, reported 76,404 attack incidents in the first half of this year, approaching the total of 82,094 for all of last year. And the 2002 incident count was nearly four times the total in 2000. If anything, the CERT statistics may understate the problem, because the organization counts all related attacks as a single incident. A worm or virus like Blaster or SoBig, a self-replicating program that can infect millions of computers, is but one event.</p>
+        <p>The security flaws Mr. Kean's team is scrambling to catch and patch are part of the larger problem with software today. The programs that people rely on for all manner of tasks -- from writing reports and sending e-mail, to monitoring factory floors and managing electric power grids -- are becoming increasingly large, complex and, all but inevitably, filled with bugs. The problem is magnified by the fact that most computers are now linked to the Internet, enabling programs to travel around the globe and mingle with other programs in unforeseen ways.</p>
+        <p>Most software bugs are a result of small oversights by a programmer. And most large software programs are combinations of newer code and old code, accumulated over time, almost as if in sedimentary layers. A programmer working years ago could not have foreseen the additional complexity and the interaction of software programs in the Internet era. Yet much of that old code lives on, sometimes causing unintended trouble.</p>
+        <p>Security holes, computer experts say, are a manifestation of the fragile and often unreliable software foundation that underlies today's economy. ''These worms and virus attacks are just the visible tip of a massive iceberg,'' said Peter G. Neumann, a computer scientist at SRI International, a research firm.</p>
+        <p>The major rogue programs all exploit vulnerabilities in Microsoft products, and Microsoft is the leading target of criticism by computer security experts. Indeed, Microsoft must shoulder a lot of the responsibility for the security woes suffered by its customers, analysts say. But the security weaknesses in Microsoft products, it seems, stem mainly from the company's success as the leader of the PC era of computing.</p>
+        <p>The PC business model has been to push products out the door fast, add features constantly and market each product version as a millennial event. Microsoft perfected the model and attracted millions of customers. But security experts note that the PC business model has not placed much value on building secure, well-engineered software.</p>
+        <p>The other reason Microsoft is the white whale for most digital vandals is that more than 90 percent of all desktop PC's run on the Windows operating system software. And the company's Office package of programs has more than 90 percent of the market for word processing, spreadsheet and presentation software.</p>
+        <p>Other operating systems like Linux, Unix and Macintosh, experts say, all have security vulnerabilities. ''But they don't get the attention and the attacks because, unlike Microsoft, the other technologies are not deployed on 300 million computers,'' said Russ Cooper, a security expert at TruSecure, a computer security company. ''This is not just Microsoft's problem.''</p>
+        <p>The task of making software more reliable and secure will not be quick or easy. But computer scientists and industry analysts say that the goal is achievable, and that some encouraging steps have been taken. Improvements, they note, will depend largely on changing attitudes in the marketplace so that software makers have a greater incentive to invest in building better software.</p>
+        <p>''By and large, vendors build what people are willing to pay for,'' said Edward Lazowska, a professor of computer science at the University of Washington. ''People have historically been willing to pay for features -- not reliability or security.''</p>
+        <p>There is evidence, though, that corporations and the federal government are placing a greater emphasis on obtaining secure software. Within the last two years, the government has pushed security initiatives in its technology policy, especially in the aftermath of the Sept. 11 terrorist attacks.</p>
+        <p>Recent moves by the government include placing greater emphasis during the purchasing process on software design and reliability standards like the Common Criteria and the National Security Telecommunications and Information Systems Security Policy No. 11, a Pentagon directive that went into effect 14 months ago.</p>
+        <p>Such standards now apply mainly to the Department of Defense and national security agencies, but Congress is looking to extend similar standards to other federal agencies. The federal government is the world's largest buyer of information technology, spending nearly $60 billion a year.</p>
+        <p>''If the government made a serious commitment to buying better software, it would change the industry,'' said Mary Ann Davidson, chief security officer of Oracle, the big database software company.</p>
+        <p>Two weeks ago, the House Subcommittee on Technology, Information Policy, Intergovernmental Relations and the Census, which is under the Committee on Government Reform, held a hearing on the impact of the Pentagon's programs to link procurement to tighter security standards for software.</p>
+        <p>Representative Adam H. Putnam, the Florida Republican who is chairman of the subcommittee, said he saw great promise for adopting similar standards for civilian agencies. ''The government can leverage its purchasing power,'' he said, ''and can be a leader for the entire industry in setting rules and standards of engineering behavior.''</p>
+        <p>A decisive step toward changing market incentives would be to expand product liability law to include software products. So far, software companies have sidestepped liability suits partly by selling customers licenses to use their programs, not own them, with a lengthy list of caveats and disclaimers.</p>
+        <p>The industry has resisted any suggestion that software should be held legally liable for bugs. The industry's argument is that software is a highly complex product, which users tend to misuse or modify, so trying to assign responsibility for a failure would be unfair to any single company.</p>
+        <p>Whether the software industry can continue to operate beyond the reach of product liability suits is uncertain.</p>
+        <p>A report last year by a panel of the National Academy of Sciences, ''Cybersecurity Today and Tomorrow: Pay Now or Pay Later,'' included the recommendation that ''policy makers should consider legislative responses to the failure of existing incentives to cause the market to respond adequately to the security challenge.''</p>
+        <p>Professor Lazowska, a member of the panel who at times has advised Microsoft, explained, ''You could draw an analogy to auto safety, where a set of government actions has caused automobiles to become far more safe over the course of the past 35 years.''</p>
+        <p>Technology is giving programmers tools to build more reliable software. The Java programming language, created at Sun Microsystems, and C#, developed later by Microsoft, are technologies for creating ''managed code,'' which sharply limits the damage that can be done by errant lines of programming. ''You have to design it so that bad things don't happen when programmers make mistakes,'' said William Joy, the former chief scientist at Sun.</p>
+        <p>At Microsoft, much more time is now being set aside in the design cycle of products for security considerations, a mandate approved by senior management this spring. ''There is a shift from mainly an emphasis on working features to an emphasis on trustworthy and secure computing,'' said Steven B. Lipner, director of security engineering strategy at Microsoft.</p>
+        <p>Some of the tougher security standards, Mr. Lipner said, have shown measurable improvement in Windows Server 2003, which shipped earlier this year. The number of security vulnerabilities detected so far is half as many as at this stage after the release of Windows Server 2000, Mr. Lipner said.</p>
+        <p>Yet years of steady progress in the quality of software engineering will be needed for big gains in security and reliability to become apparent. And it starts with education, noted Shawn Hernan, a security specialist at CERT. He makes a game of seeing how quickly he can find security vulnerabilities in the programming examples used in college textbooks. It rarely takes him more than few minutes.</p>
+        <p>''The textbook examples are riddled with vulnerabilities,'' Mr. Hernan noted. ''Computer science culture is based on, build it, get it working and fix it later. We need a culture change away from the cowboy and toward the engineer.''</p>
+        <p>Even as his E.R. team scrambles to patch Microsoft's security holes, Mr. Kean agreed. ''It's not just Microsoft,'' he said. ''The world will commit itself to more secure computing. There will be a cultural change.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

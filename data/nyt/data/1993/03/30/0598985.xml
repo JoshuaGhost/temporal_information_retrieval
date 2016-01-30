@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sun Operating System Is Aimed at PC Market</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="598985"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">LICENSES</classifier>
+        <classifier class="indexing_service" type="descriptor">COPYRIGHTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <org class="indexing_service">SUN MICROSYSTEMS INC</org>
+        <org class="indexing_service">MICROSOFT CORP</org>
+        <person class="indexing_service">MARKOFF, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930330T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DE1F3FF933A05750C0A965958260" item-length="502" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sun Operating System Is Aimed at PC Market</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF,</byline>
+      <byline class="normalized_byline">MARKOFF, JOHN</byline>
+      <dateline>SAN FRANCISCO, March 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sun Microsystems, continuing its effort to expand beyond powerful work stations for elite computer users, today demonstrated a version of its Solaris operating system that will run the Microsoft Windows programs on mass-market personal computers.</p>
+        <p>The demonstration was part of a software conference sponsored by Sun at which the company introduced versions of Solaris for I.B.M.-compatible personal computers and also said it would develop Solaris for various types of machines using the Power PC chip jointly developed by Apple Computer, International Business Machines and Motorola. Risking a Lawsuit</p>
+        <p>But because Sun Microsystems Inc. has no licensing agreement with the Microsoft Corporation, Sun executives acknowledged that the company was risking a legal challenge from Microsoft by adding a Windows capability. Extremely popular among personal computer users, Windows simplifies computing tasks by allowing the user to issue commands by pointing and clicking a "mouse" instead of typing arcane commands.</p>
+      </block>
+      <block class="full_text">
+        <p>Sun Microsystems, continuing its effort to expand beyond powerful work stations for elite computer users, today demonstrated a version of its Solaris operating system that will run the Microsoft Windows programs on mass-market personal computers.</p>
+        <p>The demonstration was part of a software conference sponsored by Sun at which the company introduced versions of Solaris for I.B.M.-compatible personal computers and also said it would develop Solaris for various types of machines using the Power PC chip jointly developed by Apple Computer, International Business Machines and Motorola. Risking a Lawsuit</p>
+        <p>But because Sun Microsystems Inc. has no licensing agreement with the Microsoft Corporation, Sun executives acknowledged that the company was risking a legal challenge from Microsoft by adding a Windows capability. Extremely popular among personal computer users, Windows simplifies computing tasks by allowing the user to issue commands by pointing and clicking a "mouse" instead of typing arcane commands.</p>
+        <p>Windows as an add-on capability is already offered by I.B.M., which has a license from Microsoft to include Windows applications with I.B.M.'s OS/2 operating system; that license will expire later this year.</p>
+        <p>Sun's new version could raise infringement issues similar to those being fought in Apple's lawsuit against Microsoft, executives at both Sun and Microsoft said. Apple accuses Microsoft of illegally copying features of Apple's Macintosh software.</p>
+        <p>But a Microsoft official said that the company was not eager to rush into the courts to protect its trademarks, patents and copyrights. Instead, said Jonathan Lazarus, Microsoft's vice president for systems strategy, the company intends to maintain its competitive edge by adding new technologies to future versions of Windows.</p>
+        <p>"I don't believe that these guys are going to be able to run enough Windows applications to make it useful for customers," Mr. Lazarus said. "If even I.B.M. can't do a perfect job, how is somebody else going to keep up with us?" Bid for a Larger PC Role</p>
+        <p>Although Sun did not say how soon it might bring out a Windows version of Solaris, the Windows development effort is clearly part of Sun's bid to play an increasing role in the traditional personal computer market. Most of Sun's hardware and software products have been aimed at high-powered work stations that use the sophisticated, but complicated, Unix operating system.</p>
+        <p>Solaris, Sun's version of Unix for personal computers, will be available in May, the company said.</p>
+        <p>In reaching out to the personal computer market, Sun is moving to respond to a growing threat to the core of its business by the imminent arrival of Microsoft's NT operating system and the recent introduction of Intel's Pentium processor. Many analysts and executives in the computer industry believe that Sun's market for technical work stations will be vulnerable to the combination of the more powerful Intel chip and Microsoft's NT operating system.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

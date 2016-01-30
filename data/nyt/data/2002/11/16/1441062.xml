@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="16TRAN$12" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1441062"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF1330F935A25752C1A9649C8B63" item-length="466" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Sports transactions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  MINNESOTA TWINS--Traded RHP Matt Kinney and C Javier Valentin to the Milwaukee Brewers for RHP Matt Yeatman and RHP Gerard Oakes.  SEATTLE MARINERS--Named Bob Melvin manager.  TEXAS RANGERS--Agreed to terms with LHP C.J. Nitkowski and LHP Ray Beasley on minor league contracts.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  MINNESOTA TWINS--Traded RHP Matt Kinney and C Javier Valentin to the Milwaukee Brewers for RHP Matt Yeatman and RHP Gerard Oakes.  SEATTLE MARINERS--Named Bob Melvin manager.  TEXAS RANGERS--Agreed to terms with LHP C.J. Nitkowski and LHP Ray Beasley on minor league contracts.</p>
+        <p>National League  CHICAGO CUBS--Named Dusty Baker manager.  MILWAUKEE BREWERS--Named Rich Dauer third base coach and Dave Nelson first base coach.  SAN DIEGO PADRES--Traded OF Gene Kingsale to the Detroit Tigers for C Michael Rivera.  SAN FRANCISCO GIANTS--Waived OF Tsuyoshi Shinjo.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  MEMPHIS GRIZZLIES--Placed F Robert Archibald on the injured list. Activated C Cezary Trybanski from the injured list.  MIAMI HEAT--Activated C Ken Johnson from the injured list. Placed C Sean Marks on the injured list.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  CINCINNATI BENGALS--Signed DT Mario Monds to the practice squad.  INDIANAPOLIS COLTS--Waived RB Autry Denson. Re-signed DB Brian Leigeb.  TAMPA BAY BUCCANEERS--Placed RB Travis Stephens on injured reserve. Signed DT DeVone Claybrooks from the practice squad.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  COLUMBUS BLUE JACKETS--Placed C Tyler Wright and C Espen Knutsen on injured reserve. Recalled LW Andrej Nedorost and C Blake Bellefeuille from Syracuse of the AHL.  NASHVILLE PREDATORS--Recalled F Nathan Perrott from Milwaukee of the AHL.</p>
+        <p>COLLEGE  BARTON--Announced the resignation of Todd Bailess, women's soccer coach.  CLARKSON--Fired Mark Morris, hockey coach. Named Fred Parker interim hockey coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

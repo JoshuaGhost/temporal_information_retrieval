@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anti-Drug Group Shifts</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="692431"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">PARTNERSHIP FOR A DRUG-FREE AMERICA</org>
+        <person class="indexing_service">HEDRICK, THOMAS A JR</person>
+        <person class="indexing_service">HAGOPIAN, LOUIS</person>
+        <person class="indexing_service">BONNETTE, RICHARD D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DF123AF93AA35755C0A962958260" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anti-Drug Group Shifts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Partnership for a Drug-Free America, a nonprofit organization based in New York and best known for its national anti-drug public service advertising campaigns, has made a series of changes involving its top executives. Thomas A. Hedrick Jr., 46, who has been president of the organization since 1990, was promoted to vice chairman. He assumes the title from Louis Hagopian, who retired in March, but Mr. Hedrick's duties have been revamped to include broader contact with news organizations. Richard D. Bonnette, 58, executive director, was named to succeed Mr. Hedrick as president and was also named chief executive.</p>
+      </block>
+      <block class="full_text">
+        <p>The Partnership for a Drug-Free America, a nonprofit organization based in New York and best known for its national anti-drug public service advertising campaigns, has made a series of changes involving its top executives. Thomas A. Hedrick Jr., 46, who has been president of the organization since 1990, was promoted to vice chairman. He assumes the title from Louis Hagopian, who retired in March, but Mr. Hedrick's duties have been revamped to include broader contact with news organizations. Richard D. Bonnette, 58, executive director, was named to succeed Mr. Hedrick as president and was also named chief executive.  THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

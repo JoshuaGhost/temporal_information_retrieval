@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carol Mezzacappa, 47, Choreographer</title>
+    <meta content="15MEZZ$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/15/arts/dance/15mezzacappa.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1627503"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Carol Mezzacappa</classifier>
+        <person class="indexing_service">Mezzacappa, Carol</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="descriptor">Dancing</classifier>
+        <classifier class="online_producer" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6D8143FF936A25752C1A9629C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carol Mezzacappa, 47, Choreographer</hl1>
+        <hl2 class="online_headline">Carol Mezzacappa, 47, Choreographer, Is Dead</hl2>
+      </hedline>
+      <byline class="print_byline">By ANNA KISSELGOFF</byline>
+      <abstract>
+        <p>Carol Mezzacappa, dancer and choreographer who staged many works by modern-dance pioneer Charles Weidman, dies at age 47 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Carol Mezzacappa, a dancer and choreographer who staged many works by the modern-dance pioneer Charles Weidman, died on Oct. 12 in a hospice in Brooklyn, where she lived. She was 47.</p>
+        <p>The cause was brain cancer, according to an announcement from the Charles Weidman Foundation.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Ms. Mezzacappa was a dancer and choreographer who staged many works by the modern-dance pioneer Charles Weidman.</p>
+      </block>
+      <block class="full_text">
+        <p>Carol Mezzacappa, a dancer and choreographer who staged many works by the modern-dance pioneer Charles Weidman, died on Oct. 12 in a hospice in Brooklyn, where she lived. She was 47.</p>
+        <p>The cause was brain cancer, according to an announcement from the Charles Weidman Foundation.</p>
+        <p>Ms. Mezzacappa was president of the foundation and the artistic and executive director of Dance Consort: Mezzacappa-Gabrian, a company she founded with her husband, the dancer Craig Gabrian.</p>
+        <p>The dance idiom developed by Doris Humphrey and Weidman in 1928 after they left Denishawn, the company that spawned other pioneers like Martha Graham, remained at the heart of Ms. Mezzacappa's performances. Writing in The New York Times in 1994, Jennifer Dunning praised the ''playful, robust'' style of Dance Consort in Weidman's ''Brahms Waltzes.''</p>
+        <p>Both Dance Consort and its junior troupe in Brooklyn, Young Dancers in Repertory, were devoted to Weidman's movement principles and the presentation of his works.</p>
+        <p>Born in Brooklyn, Ms. Mezzacappa studied the Humphrey-Weidman technique with Weidman, Nona Schurman, Peter Hamilton and Ernestine Stodelle. A graduate of Brooklyn College, Ms. Mezzacappa brought her expertise in staging Weidman works to theaters in New York and to colleges and dance programs.</p>
+        <p>She is survived by her husband; her parents, Beatrice and Michael Mezzacappa; and her sister, Diane Alvaro.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fritz Cos.(FRTZ,NNM) reports earnings for Qtr to Dec 31</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="747544"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950308T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2D61F3BF93BA35750C0A963958260" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fritz Cos.(FRTZ,NNM) reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Fritz Cos.(FRTZ,NNM)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Revenue</p>
+        <p>160,571,000</p>
+        <p>102,736,000</p>
+        <p>Net inc</p>
+        <p>6,353,000</p>
+        <p>4,046,000</p>
+        <p>Share earns</p>
+        <p>.53</p>
+        <p>.37</p>
+        <p>Shares outst</p>
+        <p>11,912,000</p>
+        <p>10,957,000</p>
+        <p>Yr rev</p>
+        <p>515,969,000</p>
+        <p>341,758,000</p>
+        <p>Net inc</p>
+        <p>19,571,000</p>
+        <p>14,024,000</p>
+        <p>Share earns</p>
+        <p>1.73</p>
+        <p>1.30</p>
+        <p>Shares outst</p>
+        <p>11,337,000</p>
+        <p>10,819,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

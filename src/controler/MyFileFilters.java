@@ -21,10 +21,7 @@ public class MyFileFilters implements FileFilter, IOFileFilter{
 	public boolean accept(File pathname) {
 		String pattern = "(.*)xml$";
 		Pattern r = Pattern.compile(pattern);
-		Matcher m = r.matcher(pathname.toString());
-		if (m.find()) {
-			return true;
-		}
-		return false;
+		Matcher m = r.matcher(pathname.getName());
+		return m.find();
 	}
 }

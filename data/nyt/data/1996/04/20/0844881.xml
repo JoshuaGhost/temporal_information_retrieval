@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Key Rates</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="844881"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTEREST RATES</classifier>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <classifier class="indexing_service" type="descriptor">GOVERNMENT BONDS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Government Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E1D81E39F933A15757C0A960958260" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Key Rates</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In percent</p>
+        <p>Previous</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Day</p>
+        <p>Ago</p>
+      </block>
+      <block class="full_text">
+        <p>In percent</p>
+        <p>Previous</p>
+        <p>Year</p>
+        <p>Yesterday</p>
+        <p>Day</p>
+        <p>Ago</p>
+        <p>PRIME RATE</p>
+        <p>8.25</p>
+        <p>8.25</p>
+        <p>9.00 DISCOUNT RATE</p>
+        <p>5.00</p>
+        <p>5.00</p>
+        <p>5.25 FEDERAL FUNDS*</p>
+        <p>5.06</p>
+        <p>5.19</p>
+        <p>5.93 3-MO. TREAS. BILLS</p>
+        <p>4.88</p>
+        <p>4.84</p>
+        <p>5.60 6-MO. TREAS. BILLS</p>
+        <p>5.03</p>
+        <p>5.03</p>
+        <p>5.69 10-YR. TREAS. NOTES</p>
+        <p>6.51</p>
+        <p>6.55</p>
+        <p>6.99 30-YR. TREAS. BONDS</p>
+        <p>6.78</p>
+        <p>6.83</p>
+        <p>7.33 TELEPHONE BONDS</p>
+        <p>7.91</p>
+        <p>7.95</p>
+        <p>8.18 MUNICIPAL BONDS**</p>
+        <p>6.04</p>
+        <p>6.05</p>
+        <p>6.22</p>
+        <p>*Estimated daily average, source Telerate **Municipal Bond Index, The Bond Buyer Salomon Brothers and Telerate for Treasury's bellwether bonds, notes and bills</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

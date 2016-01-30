@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Voice in the Dark</title>
+    <meta content="LTR104121" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1170616"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <person class="indexing_service">Rogers, Thomas</person>
+        <person class="indexing_service">Shepherd, Jean</person>
+        <person class="indexing_service">Pinkwater, Daniel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1D6173DF930A15752C0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Voice in the Dark</hl1>
+      </hedline>
+      <abstract>
+        <p>Thomas Rogers comments on Daniel Pinkwater's reflections on Jean Shepherd's masterful radio storytelling (Jan 2)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daniel Pinkwater's reflections on Jean Shepherd's masterful radio storytelling released a memory: my older brother and I, two South Bronx teenagers in the 1960's, huddled under the covers in the twin bed we shared in our family's four-room tenement apartment. A transistor radio conjured Shepherd's raspy voice and brought us his charm and laughter. Here we found an adult who loved life.</p>
+        <p>Thomas Rogers  Tucson</p>
+      </block>
+      <block class="full_text">
+        <p>Daniel Pinkwater's reflections on Jean Shepherd's masterful radio storytelling released a memory: my older brother and I, two South Bronx teenagers in the 1960's, huddled under the covers in the twin bed we shared in our family's four-room tenement apartment. A transistor radio conjured Shepherd's raspy voice and brought us his charm and laughter. Here we found an adult who loved life.</p>
+        <p>Thomas Rogers  Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

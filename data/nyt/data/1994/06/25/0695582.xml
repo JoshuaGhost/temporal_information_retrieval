@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="695582"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">JEWISH MUSEUM (NYC)</org>
+        <person class="indexing_service">HURST, ROBERT J</person>
+        <person class="indexing_service">GOODKIND, E ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DE163CF936A15755C0A962958260" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new slate for the Jewish Museum in Manhattan: On Thursday, the board elected E. ROBERT GOODKIND chairman of the museum and ROBERT J. HURST president.</p>
+        <p>Mr. Goodkind, a founder of and a senior partner in the New York law firm of Goodkind, Labaton, Rudoff &amp; Sucharow, is chairman of the board of the American Jewish Committee and chairman emeritus of the Jewish Foundation for Christian Rescuers of the Anti-Defamation League. He has also been chairman of the American Academy of Dramatic Arts.</p>
+      </block>
+      <block class="full_text">
+        <p>A new slate for the Jewish Museum in Manhattan: On Thursday, the board elected E. ROBERT GOODKIND chairman of the museum and ROBERT J. HURST president.</p>
+        <p>Mr. Goodkind, a founder of and a senior partner in the New York law firm of Goodkind, Labaton, Rudoff &amp; Sucharow, is chairman of the board of the American Jewish Committee and chairman emeritus of the Jewish Foundation for Christian Rescuers of the Anti-Defamation League. He has also been chairman of the American Academy of Dramatic Arts.</p>
+        <p>Mr. Hurst, a general partner in Goldman, Sachs, is vice chairman of Clark University and a member of the graduate executive board of the Wharton School. He and Mr. Goodkind were elected to two-year terms. NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Men Are Shot Dead on Brooklyn Streets</title>
+    <meta content="30killings" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/30/nyregion/30killings.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1779693"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <location class="online_producer">Brooklyn (NYC)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DB133FF933A05754C0A9609C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Men Are Shot Dead on Brooklyn Streets</hl1>
+        <hl2 class="online_headline">2 Are Shot Dead on Brooklyn Streets</hl2>
+      </hedline>
+      <abstract>
+        <p>Two men are killed in unrelated shootings on streets of Brooklyn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two men were killed in unrelated shootings on Brooklyn streets on Friday night. One was in a wheelchair, and the other was beaten before an attacker shot him, the police said.</p>
+        <p>In the first shooting, about 7:25 p.m., in front of 140 Tapscott Street, in Brownsville, a 33-year-old man, whom the police did not identify, was chased by three men who beat him, the police said. At least one of the men then shot the man, who had a long history of arrests for mostly minor crimes, a law enforcement official said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Two men were killed in unrelated shootings on Brooklyn streets on Friday night. One was in a wheelchair, and the other was beaten before an attacker shot him, the police said.</p>
+      </block>
+      <block class="full_text">
+        <p>Two men were killed in unrelated shootings on Brooklyn streets on Friday night. One was in a wheelchair, and the other was beaten before an attacker shot him, the police said.</p>
+        <p>In the first shooting, about 7:25 p.m., in front of 140 Tapscott Street, in Brownsville, a 33-year-old man, whom the police did not identify, was chased by three men who beat him, the police said. At least one of the men then shot the man, who had a long history of arrests for mostly minor crimes, a law enforcement official said.</p>
+        <p>The second shooting occurred about 8:40 p.m. in front of 1144 Blake Avenue in East New York.</p>
+        <p>A 23-year-old man whom residents identified as Tyrell Pope was approached by another man, who shot him seven times in the face and upper body, residents and the authorities said.</p>
+        <p>A resident, Helen Bragg, 69, and other residents said that Mr. Pope used a wheelchair after being shot in the spine several years ago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

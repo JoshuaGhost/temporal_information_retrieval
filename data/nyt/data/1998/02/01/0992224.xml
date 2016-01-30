@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Carry-On Bags</title>
+    <meta content="LTR030301" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="992224"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Luggage</classifier>
+        <person class="indexing_service">Barron, Barbara</person>
+        <person class="indexing_service">Wade, Betsy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Luggage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EEDB133AF932A35751C0A96E958260" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Carry-On Bags</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Barbara Barron on Betsy Wade's Dec 21, 1997 Practical Traveler column on crackdown by airline carriers on carry-on luggage (S)1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: The luggage bins' latches are very weak. What they need are bracelet-type double locks, one that overlaps the under latch.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: The luggage bins' latches are very weak. What they need are bracelet-type double locks, one that overlaps the under latch.</p>
+        <p>It's not what is put into the bins, if it fits properly; it's how the items are prevented from falling out onto an innocent passenger.</p>
+        <p>BARBARA BARRON  New York, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

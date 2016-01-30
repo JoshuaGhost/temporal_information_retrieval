@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Football Ratings Up for Fox</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="710544"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="PRO FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">RATINGS AND RATING SYSTEMS</classifier>
+        <org class="indexing_service">NATIONAL FOOTBALL LEAGUE (NFL)</org>
+        <org class="indexing_service">CBS INC</org>
+        <org class="indexing_service">FOX NETWORK</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5DF1038F935A3575AC0A962958260" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Football Ratings Up for Fox</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fox's overnight rating for its first Sunday of regular-season National Football League coverage was 18 percent higher than CBS's rating for the first weekend of the 1993 season.</p>
+        <p>Sunday's games on Fox got a 13.0 overnight rating and a 32 share, Nielsen Media Research said yesterday. The rating is the percentage of television households tuned in from 32 major markets and the share is the percentage watching among televisions in those markets that are on at the time. National ratings will be released later this week.</p>
+      </block>
+      <block class="full_text">
+        <p>Fox's overnight rating for its first Sunday of regular-season National Football League coverage was 18 percent higher than CBS's rating for the first weekend of the 1993 season.</p>
+        <p>Sunday's games on Fox got a 13.0 overnight rating and a 32 share, Nielsen Media Research said yesterday. The rating is the percentage of television households tuned in from 32 major markets and the share is the percentage watching among televisions in those markets that are on at the time. National ratings will be released later this week.</p>
+        <p>Fox took over National Conference coverage from CBS, which had the rights for 38 years. Fox also beat NBC, which averaged a 12.4 overnight rating and 31 share for its coverage of American Conference games. NBC's overnight rating for 1 P.M. Eastern time games was up 16 percent from its opening Sunday rating last year. Both networks had the benefit of not having to compete with local baseball coverage in many markets.  PRO FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

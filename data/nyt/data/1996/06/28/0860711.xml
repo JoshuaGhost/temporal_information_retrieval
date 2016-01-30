@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Space Mission Surveys Moon Near Jupiter</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="860711"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">GALILEO PROJECT</classifier>
+        <classifier class="indexing_service" type="descriptor">GANYMEDE (MOON)</classifier>
+        <location class="indexing_service">JUPITER</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jupiter (Planet)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Planets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D81239F93BA15755C0A960958260" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Space Mission Surveys Moon Near Jupiter</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LOS ANGELES, June 27</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Galileo spacecraft swooped within 524 miles of the solar system's largest moon, Ganymede, early today, training 9 of its 10 instruments on the planet-sized chunk of icy rock.</p>
+        <p>Scientists hope to determine the nature of Ganymede's interior by measuring how its gravity disturbs the spacecraft's curving path. They believe Ganymede may have shifting crustal plates similar to those that cause earthquake activity on Earth, and that an iron or rock core may be beneath the water and ice.</p>
+      </block>
+      <block class="full_text">
+        <p>The Galileo spacecraft swooped within 524 miles of the solar system's largest moon, Ganymede, early today, training 9 of its 10 instruments on the planet-sized chunk of icy rock.</p>
+        <p>Scientists hope to determine the nature of Ganymede's interior by measuring how its gravity disturbs the spacecraft's curving path. They believe Ganymede may have shifting crustal plates similar to those that cause earthquake activity on Earth, and that an iron or rock core may be beneath the water and ice.</p>
+        <p>The 2 1/2-ton Galileo spacecraft began taking some of the planned 1,500 pictures in its mission to Jupiter, which it is now orbiting after being launched in 1989. The pictures should be available on July 10.</p>
+        <p>A problem discovered on Monday had automatically shut down the energetic particle detector, which would have measured the composition of high-energy particles in Jupiter's radiation belt. But engineers were confident that they could get the device working in time for three other Ganymede passes.</p>
+        <p>Employees of the Jet Propulsion Laboratory in Pasadena, Calif., where the mission is directed, gathered on Wednesday night to celebrate the flight by Ganymede.  "There are a lot of engineers and scientists who spent a career working on this mission," said a spokesman for the laboratory, Frank O'Donnell,  "so tonight was a big payoff for a lot of people."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

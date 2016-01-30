@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: France: Luxury Sales Increase</title>
+    <meta content="MB223826" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1387084"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Lvmh Moet Hennessy Louis Vuitton</org>
+        <person class="indexing_service">Shaw, Kerry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE2D6143EF936A15757C0A9649C8B63" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: France: Luxury Sales Increase</hl1>
+      </hedline>
+      <byline class="print_byline">By Kerry Shaw (NYT)</byline>
+      <byline class="normalized_byline">Shaw, Kerry</byline>
+      <abstract>
+        <p>LVMH Moet Hennessy says sales grew 8 percent in first quarter, compared with period year ago (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The world's largest maker of luxury goods, LVMH Moët Hennessy Louis Vuitton, said that sales grew 8 percent in the first quarter, compared with the period one year earlier, helped by demand for Champagne, fashion products and leather goods. Sales in the fashion and leather goods division increased 22 percent, to 1.1 billion euros ($978 million), and sales in the wines and spirits division increased 10 percent, to 457 million euros. In January this year, LVMH reported a 20 percent decline in operating income for 2001, which it attributed to the Sept. 11 attacks and the subsequent decline in tourism. LVMH relies heavily on its own retail stores, like the Sephora cosmetics chain; such stores cater heavily to travelers.</p>
+        <p>Kerry Shaw (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The world's largest maker of luxury goods, LVMH Moët Hennessy Louis Vuitton, said that sales grew 8 percent in the first quarter, compared with the period one year earlier, helped by demand for Champagne, fashion products and leather goods. Sales in the fashion and leather goods division increased 22 percent, to 1.1 billion euros ($978 million), and sales in the wines and spirits division increased 10 percent, to 457 million euros. In January this year, LVMH reported a 20 percent decline in operating income for 2001, which it attributed to the Sept. 11 attacks and the subsequent decline in tourism. LVMH relies heavily on its own retail stores, like the Sephora cosmetics chain; such stores cater heavily to travelers.</p>
+        <p>Kerry Shaw (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

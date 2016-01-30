@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>State of Salomon Bros.</title>
+    <meta content="LWEILL$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1063307"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <org class="indexing_service">Citigroup Inc</org>
+        <org class="indexing_service">Salomon Brothers</org>
+        <person class="indexing_service">Norris, Floyd</person>
+        <person class="indexing_service">Reed, John</person>
+        <person class="indexing_service">Weill, Sanford I</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EED71730F93AA25752C1A96E958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>State of Salomon Bros.</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Sandy Weill and John Reed, co-chief executives of Citigroup, replies to Floyd Norris's Nov 13 column on Salomon Brothers; say firm is neither dead nor sick and has been made even stronger by formation of Citigroup</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Contrary to Floyd Norris's assertions (Editorial Observer, Nov. 13), Salomon Brothers is neither dead nor sick. Rather, the company is changing to reflect today's realities. As we build Citigroup, we are working hard to respect the old as we build the new.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Contrary to Floyd Norris's assertions (Editorial Observer, Nov. 13), Salomon Brothers is neither dead nor sick. Rather, the company is changing to reflect today's realities. As we build Citigroup, we are working hard to respect the old as we build the new.</p>
+        <p>Moreover, Mr. Norris ignores that Salomon Brothers' global reach, strength in underwriting and world leadership in fixed income and trading strategically meshed with Smith Barney's retail distribution network, asset management business and strength in equities and municipal finance. The two firms' prominent investment banking and research franchises complemented each other well. The two firms are much stronger together.</p>
+        <p>With the formation of Citigroup, Salomon Smith Barney has an even stronger platform from which to grow. Have we had a rocky start? Yes. But we have already demonstrated that together, Salomon Smith Barney and Citicorp bankers can make a real difference in  meeting our clients' financial  needs.</p>
+        <p>SANDY WEILL  JOHN REED  New York, Nov. 16, 1998</p>
+        <p>The writers are co-chief executives of Citigroup.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

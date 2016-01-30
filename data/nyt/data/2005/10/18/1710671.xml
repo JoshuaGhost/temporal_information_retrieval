@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="18corrections-7" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Theater; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1710671"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <object.title class="indexing_service">Walking Down Broadway (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DEFD8153FF93BA25753C1A9639C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 1 review of play Walking Down Broadway, regarding director of movie cited</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A theater review on Oct. 1 about ''Walking Down Broadway,'' at the Mint Theater, referred imprecisely to Erich von Stroheim's involvement in a film version called ''Hello, Sister!'' He did not make it himself; while he initially directed it, the film was extensively reworked by other directors.</p>
+      </block>
+      <block class="full_text">
+        <p>A theater review on Oct. 1 about ''Walking Down Broadway,'' at the Mint Theater, referred imprecisely to Erich von Stroheim's involvement in a film version called ''Hello, Sister!'' He did not make it himself; while he initially directed it, the film was extensively reworked by other directors.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

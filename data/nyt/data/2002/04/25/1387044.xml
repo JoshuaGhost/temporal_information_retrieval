@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Opening Files in Mexico</title>
+    <meta content="Y25MEX0AB" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/04/25/international/americas/25MEXI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1387044"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">Mexico</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legislatures and Parliaments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Freedom and Human Rights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Mexico</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020425T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D8143EF936A15757C0A9649C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Opening Files in Mexico</hl1>
+        <hl2 class="online_headline">Opening Files in Mexico</hl2>
+      </hedline>
+      <dateline>MEXICO CITY, April 24</dateline>
+      <abstract>
+        <p>Mexico's lower house of Congress unanimously passes country's first freedom of information bill; Senate is expected to approve measure, which would compel government to release most public records (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The lower house of Congress unanimously passed Mexico's first freedom of information bill today. The Senate is expected to approve the measure, which would compel the government to release most public records.</p>
+        <p>Under the law, the federal government, the legislature, the courts and the national bank would have to publish basic information on decisions and operations. Officials who refuse to disclose information or destroy documents could be prosecuted.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The lower house of Congress unanimously passed Mexico's first freedom of information bill Wednesday.</p>
+      </block>
+      <block class="full_text">
+        <p>The lower house of Congress unanimously passed Mexico's first freedom of information bill today. The Senate is expected to approve the measure, which would compel the government to release most public records.</p>
+        <p>Under the law, the federal government, the legislature, the courts and the national bank would have to publish basic information on decisions and operations. Officials who refuse to disclose information or destroy documents could be prosecuted.</p>
+        <p>In Mexico, basic information on the government and federal records of land deals and loans have been treated with secrecy, and past presidents have purged the national archives of records that might tend to incriminate them.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="612496"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">DIVIDENDS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D9153BF932A35755C0A965958260" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following is a partial list of dividend meetings this week:: TUESDAY</p>
+        <p>Phillips-Van Heusen Corp WEDNESDAY</p>
+        <p>Browning-Ferris Inds</p>
+        <p>Discount Corp New York</p>
+        <p>General Dynamics Corp</p>
+        <p>Helmerich &amp; Payne Inc</p>
+        <p>LG&amp; E Energy Corp</p>
+        <p>Stanley Works</p>
+        <p>Starrett L S Co THURSDAY</p>
+        <p>General Pub Utils Corp</p>
+        <p>Santa Fe Energy Res Inc</p>
+        <p>Times Mirror Co</p>
+        <p>TIS Mtg Invt Co</p>
+        <p>Wal-Mart Stores Inc</p>
+        <p>Zurn Inds Incc FRIDAY</p>
+        <p>Allegheny Pwr Sys Inc</p>
+        <p>Fed Home Ln Mtg Corp</p>
+      </block>
+      <block class="full_text">
+        <p>Following is a partial list of dividend meetings this week:: TUESDAY</p>
+        <p>Phillips-Van Heusen Corp WEDNESDAY</p>
+        <p>Browning-Ferris Inds</p>
+        <p>Discount Corp New York</p>
+        <p>General Dynamics Corp</p>
+        <p>Helmerich &amp; Payne Inc</p>
+        <p>LG&amp; E Energy Corp</p>
+        <p>Stanley Works</p>
+        <p>Starrett L S Co THURSDAY</p>
+        <p>General Pub Utils Corp</p>
+        <p>Santa Fe Energy Res Inc</p>
+        <p>Times Mirror Co</p>
+        <p>TIS Mtg Invt Co</p>
+        <p>Wal-Mart Stores Inc</p>
+        <p>Zurn Inds Incc FRIDAY</p>
+        <p>Allegheny Pwr Sys Inc</p>
+        <p>Fed Home Ln Mtg Corp</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

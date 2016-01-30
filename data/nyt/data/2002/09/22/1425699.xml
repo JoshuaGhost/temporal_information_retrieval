@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thinking Big</title>
+    <meta content="LTR093502" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1425699"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DC1430F931A1575AC0A9649C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thinking Big</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Herbert Muschamp, the other creative thinkers who participated in the project and The Times itself have done a tremendous service by positing such a vast -- yet utterly imaginable -- reinterpretation of Lower Manhattan (Sept. 8). Profound thanks to you all.</p>
+        <p>Jane Savitt Tennen  Montclair, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Herbert Muschamp, the other creative thinkers who participated in the project and The Times itself have done a tremendous service by positing such a vast -- yet utterly imaginable -- reinterpretation of Lower Manhattan (Sept. 8). Profound thanks to you all.</p>
+        <p>Jane Savitt Tennen  Montclair, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

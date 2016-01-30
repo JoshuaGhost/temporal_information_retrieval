@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Health; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="807431"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">HIPS</classifier>
+        <org class="indexing_service">COLUMBIA UNIVERSITY</org>
+        <person class="indexing_service">RUDIN, JACK</person>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">RUDIN, JACK</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DF1439F934A35752C1A963958260" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JACK RUDIN is giving a talk this afternoon, not as a builder, but as a satisfied patient. Mr. Rudin, the real estate developer and philanthropist, will address 60 medical students at Columbia University's College of Physicians and Surgeons.</p>
+        <p>"I was invited by Herbert Pardes, dean of the school, to talk about the hip replacement I had in July, and he asked if I could bring my surgeons, too," Mr. Rudin said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>JACK RUDIN is giving a talk this afternoon, not as a builder, but as a satisfied patient. Mr. Rudin, the real estate developer and philanthropist, will address 60 medical students at Columbia University's College of Physicians and Surgeons.</p>
+        <p>"I was invited by Herbert Pardes, dean of the school, to talk about the hip replacement I had in July, and he asked if I could bring my surgeons, too," Mr. Rudin said yesterday.</p>
+        <p>He will appear with Dr. Chitranjan S. Ranawat, director of orthopedic surgery at Lenox Hill Hospital, and Dr. James Nicholas, director of the Nicholas Institute of Sports Medicine and Athletic Trauma at Lenox Hill.</p>
+        <p>"The surgery was very successful, but what interested Dean Pardes was that it was my first experience in an American hospital," Mr. Rudin, 71, said. "The last time I was in a hospital it was in a military hospital in France just after the  war, and it wasn't for anything heroic. I had my appendix out."</p>
+        <p>Mr. Rudin, who likes to promote communication between hospitals, said, "I will tell them how wonderful this community hospital was."</p>
+        <p>But to make sure everything went off just so, he added, "before the surgery,  I had my wife draw two targets on my hips in lipstick: the one on the right said, 'Enter,' and the one on the left said, 'Do not enter.' "</p>
+        <p>NADINE BROZAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ROCK</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="700780"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="IN PERFORMANCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">PARELES, JON</person>
+        <person class="indexing_service">HAWKINS, TED</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E3DE143EF933A15754C0A962958260" item-length="352" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ROCK</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">PARELES, JON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Blues About Lost Love With a Hint of Country  The Bottom Line</p>
+        <p>Ted Hawkins has enough idiosyncrasies for a whole band. Playing at the Bottom Line on Monday night, he sat on a cushion atop a milk crate. On his left hand he wore a black glove, which he sprinkled with talcum powder; he tapped his left foot on a piece of wood, ticking out a beat. His guitar was tuned to an open chord, so he simply moved his gloved hand up and down the neck to change chords, picking the strings with long fingernails. To let a song fade out, he would slowly pivot away from the microphone.</p>
+      </block>
+      <block class="full_text">
+        <p>Blues About Lost Love With a Hint of Country  The Bottom Line</p>
+        <p>Ted Hawkins has enough idiosyncrasies for a whole band. Playing at the Bottom Line on Monday night, he sat on a cushion atop a milk crate. On his left hand he wore a black glove, which he sprinkled with talcum powder; he tapped his left foot on a piece of wood, ticking out a beat. His guitar was tuned to an open chord, so he simply moved his gloved hand up and down the neck to change chords, picking the strings with long fingernails. To let a song fade out, he would slowly pivot away from the microphone.</p>
+        <p>His voice is woolly and pensive, with touches of Sam Cooke's phrasing; his songs are at once plainspoken and otherworldly. They are closer to soul and country music than to the blues, but they are steeped in the serene fatalism of the deep blues. His early set was filled with songs about lost love, and as he sang them, simple lines took on a melancholy obsessiveness: "Green-eyed girl, let me do something that'll thrill me to do/I want to touch you," he sang with enigmatic calm. More often, he's an errant partner, pleading for a second chance: "Come on back home baby, where you belong," he begged in "Strange Conversation."</p>
+        <p>For most of the 1980's, Mr. Hawkins sang his own songs, along with some soul and country oldies, on Venice Beach in California. He was born in Lakeshore, Miss., in 1936 and has been "discovered" sporadically. His first album, recorded in 1971, was belatedly released by Rounder Records in 1982, and he recorded four more albums in the 80's, including two of other people's songs. This year, he made his major label debut with "The Next Hundred Years" (Geffen). "Ain't nothing professional about me," he said from the stage.</p>
+        <p>But there is nothing tentative about him, either. His version of a Webb Pierce hit, "There Stands the Glass," was despondent and vehement, the word "there" sustained like an indrawn scream, once at the beginning and again, with the same mixture of suspense and bravado, before the end. Mr. Hawkins knows exactly how he wants the songs to be heard. JON PARELES  IN PERFORMANCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

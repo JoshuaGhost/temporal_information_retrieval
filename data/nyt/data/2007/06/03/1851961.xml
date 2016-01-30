@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>6 Billion Bits of Data About Me, Me, Me!</title>
+    <meta content="03harm" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health; Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/03/weekinreview/03harm.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1851961"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="IDEAS &amp; TRENDS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <org class="online_producer">Harvard Medical School</org>
+        <person class="online_producer">Watson, James D</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFDF1030F930A35755C0A9619C8B63" item-length="1181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>6 Billion Bits of Data About Me, Me, Me!</hl1>
+        <hl2 class="online_headline">6 Billion Bits of Data About Me, Me, Me!</hl2>
+      </hedline>
+      <byline class="print_byline">By AMY HARMON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JAMES D. WATSON, who helped crack the DNA code half a century ago, last week became the first person handed the full text of his own DNA on a small computer disk. But he won't be the last.</p>
+        <p>Soon enough, scientists say, we will all be able to decipher our own genomes -- the six billion letters of genetic code containing the complete inventory of the traits we inherited from our parents -- for as little as $1,000.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A DNA code cracker got his genome. Lines form now for everyone else.</p>
+      </block>
+      <block class="full_text">
+        <p>JAMES D. WATSON, who helped crack the DNA code half a century ago, last week became the first person handed the full text of his own DNA on a small computer disk. But he won't be the last.</p>
+        <p>Soon enough, scientists say, we will all be able to decipher our own genomes -- the six billion letters of genetic code containing the complete inventory of the traits we inherited from our parents -- for as little as $1,000.</p>
+        <p>Just what we will do with the essence of who we are once we bottle it, however, is likely to be as much a social experiment as a scientific one.</p>
+        <p>As thousands of people decode their DNA over the next few years, they are likely to find themselves facing a genetic mirror whose reflection changes on an almost daily basis.</p>
+        <p>The more genomes that scientists have to work with, the more they can learn about them. So staying on top of your own health outlook may begin to resemble checking the performance of your stock portfolio. One day you find you have a gene that puts you at risk for diabetes; the next it's one that may make you live longer.</p>
+        <p>''Nobody quite knows how to manage expectations in such a rapidly changing and deeply personal field,'' said George M. Church, a Harvard Medical School geneticist who directs the Personal Genome Project. ''The picture is getting more and more complete, but along the way there's going to be a lot of, 'You told us this last week and now you're telling us this!' ''</p>
+        <p>By the end of the summer, Dr. Church's research project promises to deliver sequences to its first 10 volunteers. Unlike Dr. Watson, whose complete genome cost $1 million, the project's volunteers will receive the one percent of their genome currently deemed most useful at a cost of $1,000.</p>
+        <p>One start-up company, 23andme, recently announced plans to provide affordable chunks of their DNA to individual consumers, along with tools to help them keep track of and understand their genetic information.</p>
+        <p>And technology companies like Illumina, Applied Biosystems and 454 Life Sciences, which solicited Dr. Watson's DNA to prove its abilities, say the price of a complete human genome has already dropped to $100,000. They are competing for a $10 million ''X prize'' to sequence 100 human genomes within 10 days. (Dr. Watson's took about two months.)</p>
+        <p>Those who have signed up to be sequenced as part of the competition include Paul Allen, co-founder of Microsoft; the astrophysicist Stephen Hawking; the television interviewer Larry King; and the financier Michael Milken.</p>
+        <p>''It's the start of an era of comparative individual genomics,'' said J. Craig Venter, who as president of the Celera Corporation sequenced much of his own genome in 2000 and recently completed it. ''Hopefully we'll have tens of thousands to compare in the next year or two.''</p>
+        <p>Dr. Venter said he consulted his genetic profile every time a new announcement of a gene discovery came out. Just last month, having read a report in this newspaper about a gene that raises the risk of heart disease, he found that he indeed carried the mutation.</p>
+        <p>He might have guessed that from his family history, but knowing his individual risk, rather than a statistical average, is a stronger motivator to change, Dr. Venter said. Because of another risk gene he carries for heart disease, he altered his diet and has been taking a cholesterol-lowering drug for several years.</p>
+        <p>''Now we can do something to alter what might have been our genetic destiny,'' he added.</p>
+        <p>Beyond heart disease, there are a growing number of genes already known to influence predispositions to common diseases like breast and colon cancer, depression and dementia.</p>
+        <p>There are other reasons to unravel your genome. Embracers of nature over nurture may sift through their 20,000 genes to find an explanation for personality traits thought to have a partial genetic basis -- like early rising, risk-taking, shyness and addiction.</p>
+        <p>And the curiosity is unlikely to be restricted to our own genetic code. A generation of personally motivated amateur geneticists may seek out others who have similar traits and similar quirks in their genetic code, hoping to deduce a connection.</p>
+        <p>Friends and families, too, may begin to compare notes.</p>
+        <p>''You can imagine a family who won't let someone marry their daughter until they examined her prospective husband's genome,'' Dr. Watson suggested at a news conference on Thursday. ''You'll want to know what your mate is going to have.''</p>
+        <p>The mate, of course, may not want to know himself. Dr. Watson told the company that sequenced his genome not to reveal to him the status of one gene known to predispose people to Alzheimer's disease. ''Who wants to know that?'' he said.</p>
+        <p>But Dr. Watson, 79, may yet learn that his genome contains Alzheimer's risk genes that may be discovered tomorrow or next month or next year. On the other hand, he may find that he carries genes that offset the risk. Or both.</p>
+        <p>Moreover, because the way genes influence health and behavior depends heavily on their interaction with the environment, what our genome can tell us may change depending on lifestyle choices.</p>
+        <p>People who learn they carry a higher genetic risk of Type II diabetes, for instance, may see that risk increase if they start to gain weight. A gene that makes it difficult for some people to sweat in extreme heat might not matter to you if you live in Seattle. But if you are thinking of moving to Miami, knowing it exists in your genome could prove useful.</p>
+        <p>The lack of established medical authorities to interpret or filter such information could cause deep discomfort, some experts caution. And the technology is quickly outpacing social debate over how it should be handled.</p>
+        <p>''Some people are going to have information that they don't know what to do with,'' said Angela Trepanier, president elect of the National Society of Genetic Counselors. ''And that can do more harm than good.''</p>
+        <p>Still, the early boosters of the personal genome say the best bet for improving individual health care is not only to embrace genetic knowledge about ourselves, but to share it with others.</p>
+        <p>If hundreds of thousands of people make their genomes public -- along with personal information about their ancestry, their health history, what they look like, what they do and where they live -- they argue, scientists will finally be able to draw meaningful correlations between variations in DNA sequence and any trait that has even a partial genetic basis, from what drugs we should take to what foods we like to eat.</p>
+        <p>As that happens, everyone with a sequenced genome will learn how the new findings affect them.</p>
+        <p>''Let's sequence prominent Texans,'' Dr. Watson said at the press conference in Houston last week. ''What we really want now is a lot of data.''</p>
+        <p>Until then, even Dr. Watson, who posted his genome on the Internet last week, has to wait. At a ceremony marking the occasion, he stared at the disk containing his genome for a few seconds, then stuck it in his pocket.</p>
+        <p>IDEAS &amp; TRENDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

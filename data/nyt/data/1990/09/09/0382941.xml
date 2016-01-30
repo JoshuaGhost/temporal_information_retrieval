@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Steeler Rookie Signs</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="382941"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <org class="indexing_service">PITTSBURGH STEELERS</org>
+        <person class="indexing_service">GREEN, ERIC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Pittsburgh Steelers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D81230F93AA3575AC0A966958260" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Steeler Rookie Signs</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: He's the last man into the fold, but if the Pittsburgh Steelers' history with rookie holdouts is any precedent, it won't take long to get Eric Green out of the gate and on to the playing field.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: He's the last man into the fold, but if the Pittsburgh Steelers' history with rookie holdouts is any precedent, it won't take long to get Eric Green out of the gate and on to the playing field.</p>
+        <p>He is expected to sign the contract tomorrow if he passes a physical examination and to begin practice on Tuesday.</p>
+        <p>Green, the 21st draft pick over all, had come close to signing a similar deal earlier, but the negotiations were prolonged first when his agent, Ralph Cindrich, insisted on technical adjustments in the proposed contract, and later when the Steeler coach, Chuck Noll, suggested that holdouts who missed training camp weren't worth the effort.</p>
+        <p>''I'd just as soon not see them signed,'' he said. ''He's not going to help us this year, anyway. He's not going to know how to do it. This is a different league. It's not Division II or whatever he played in.''</p>
+        <p>Green, who was good enough in Division II to become the Steelers' first draft choice, reportedly took offense at that, but was finally convinced that the Steelers really did want him no matter what Noll said.</p>
+        <p>As for Nolls's comments, there was some reason to suspect they were merely a bluff. He made similar remarks 1n 1987 during a three-month holdout by Rod Woodson, then used the rookie four days after he finally came to terms.(AP)  SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

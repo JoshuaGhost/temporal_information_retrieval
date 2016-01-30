@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BLOOSTEIN, ALLAN, J.</title>
+    <meta content="dn021007" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1824987"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">BLOOSTEIN, ALLAN, J.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2D9163AF933A25751C0A9619C8B63" item-length="56" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BLOOSTEIN, ALLAN, J.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLOOSTEIN--Allan, J. On February 8th, 2007. Beloved husband of Sally (Boxer), dear father of Oren (Nancy), Jonathan, Ellen McNulty (Gerard), devoted brother of Soul (Susan), Rita Teiler and Debrah Downes (deceased), loving Zayda of Benjamin, Andrew, Adam, Samuel and Emily. Services at the ''Riverside'' 76th St. and Amsterdam Ave. Sunday, February 11th at 11:45 am.</p>
+      </block>
+      <block class="full_text">
+        <p>BLOOSTEIN--Allan, J. On February 8th, 2007. Beloved husband of Sally (Boxer), dear father of Oren (Nancy), Jonathan, Ellen McNulty (Gerard), devoted brother of Soul (Susan), Rita Teiler and Debrah Downes (deceased), loving Zayda of Benjamin, Andrew, Adam, Samuel and Emily. Services at the ''Riverside'' 76th St. and Amsterdam Ave. Sunday, February 11th at 11:45 am.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

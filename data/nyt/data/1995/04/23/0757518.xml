@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What's Ahead on the Electronic Highway</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="757518"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="DRIVING SMART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW YORK AUTOMOBILE SHOW</classifier>
+        <classifier class="indexing_service" type="descriptor">TRADE SHOWS AND FAIRS</classifier>
+        <person class="indexing_service">SCHUON, MARSHALL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE5DD1E3CF930A15757C0A963958260" item-length="598" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What's Ahead on the Electronic Highway</hl1>
+      </hedline>
+      <byline class="print_byline">By MARSHALL SCHUON</byline>
+      <byline class="normalized_byline">SCHUON, MARSHALL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A LOT has been said about Kirk Kerkorian, not much of it kind, since the mysterious billionaire moved to gobble up the Chrysler Corporation. But no one has faulted his impeccable sense of timing.</p>
+        <p>On the morning he announced his intent, much of the world's automotive press was digging into soggy scrambled eggs at the breakfast preview of the New York Auto Show. They were hungry for news, and news they got.</p>
+      </block>
+      <block class="full_text">
+        <p>A LOT has been said about Kirk Kerkorian, not much of it kind, since the mysterious billionaire moved to gobble up the Chrysler Corporation. But no one has faulted his impeccable sense of timing.</p>
+        <p>On the morning he announced his intent, much of the world's automotive press was digging into soggy scrambled eggs at the breakfast preview of the New York Auto Show. They were hungry for news, and news they got.</p>
+        <p>The tizzy that followed was a wallow in rumor and confusion, overshadowing other events. Still, the hubbub energized the nation's oldest auto show and it added spark to the manufacturers' presentations, some of them highly electric in their own right.</p>
+        <p>The accent at the show, which ends at 8 tonight at the Jacob K. Javits Convention Center, has been on electronics and on safer and smarter cars and components. An example is Volvo's magical Dynaguide system.</p>
+        <p>Combining a dashboard video screen and full-color maps with a satellite positioning signal, the system tells a driver about congestion, accidents and road conditions ahead, using a traffic management center that gets its information from roadside sensors, radio stations and the police. It will be available in Europe this year and on these shores a bit later.</p>
+        <p>Then there is BMW's new side-impact system. Like Volvo, BMW will install side air bags up front. But BMW's bags will be complemented by ingenious inflatable tubes to keep heads from hitting windows, the main cause of death in T-bone crashes.</p>
+        <p>The tubes rise from the base of the windshield, run through the car's headliner, and are anchored behind the front doors. In an accident, they actually shorten as they inflate, ripping out of their housings and putting a diagonal band of safety across the glass. BMW's spokesmen said they could be expected on some models within two years.</p>
+        <p>More imminent, though, and one of the neater gadgets heading down the high-tech highway, is Lincoln's RESCU option. The acronym (and you can bet it existed before somebody thought up the words) stands for "remote emergency satellite cellular unit."</p>
+        <p>Just as Volvo's system uses global-positioning satellites to yield information to a driver, the 1996 Lincoln Continental will send the signal the other way, pinpointing the car on an emergency operator's video screen so that help can be dispatched.</p>
+        <p>There are two buttons in the overhead console, one marked with a tow-truck icon and the other with an ambulance. When the driver pushes a button, the system takes control of the car's cellular phone and dials the Westinghouse Emergency Response Center in Irving, Tex. At the same time, an antenna under the Lincoln's fiberglass trunk lid receives signals from global positioning satellites that pinpoint the car's location within 100 feet.</p>
+        <p>The screen in Texas shows the type of alarm, the last recorded speed and direction of the vehicle, its serial number and a call-back phone number. One of Lincoln's special operators can also talk to the driver over the Continental's voice-activated phone, and family members or friends will be notified of the emergency.</p>
+        <p>A password, established in the showroom, is used to confirm whether the button was pressed by mistake. If no password is given, or if the password is wrong -- as in the case of a carjacking -- the police will be notified so they can zero in on the vehicle.</p>
+        <p>The price, not firm but probably about $1,500, will entitle the buyer to unlimited responses while the car is under warranty. After that, a separate policy can be purchased.  Or maybe, by then, you'll just want to buy a new Kerkorian.  DRIVING SMART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

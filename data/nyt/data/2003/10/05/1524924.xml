@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note; Doing Homework</title>
+    <meta content="05CTHOME" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1524924"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Homework</classifier>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homework</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E4D7123CF936A35753C1A9659C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note; Doing Homework</hl1>
+      </hedline>
+      <abstract>
+        <p>Readers are asked to submit their best or worst homework assignments (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DID you do your homework?</p>
+        <p>If so, the Connecticut section would like to hear from you. Think back to the best homework assignment you ever had (or maybe the worst). The assignment could have come from an English teacher, a dance instructor, a bar mitzvah coach. Maybe you finished it five days ago; maybe you finished it 45 years ago. Why was it memorable? How did it improve your mind or your character?</p>
+      </block>
+      <block class="full_text">
+        <p>DID you do your homework?</p>
+        <p>If so, the Connecticut section would like to hear from you. Think back to the best homework assignment you ever had (or maybe the worst). The assignment could have come from an English teacher, a dance instructor, a bar mitzvah coach. Maybe you finished it five days ago; maybe you finished it 45 years ago. Why was it memorable? How did it improve your mind or your character?</p>
+        <p>In ''Connecticut at Its Best,'' a special issue on Nov. 9, we will publish a collection of short essays about homework. Contributions, 300 words or less, can be sent by e-mail to homework@nytimes.com or by mail to HOMEWORK c/o Connecticut weekly, The New York Times, 229 West 43rd Street New York, N.Y. 10036. Please include a daytime phone number.</p>
+        <p>The deadline is Oct. 31.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

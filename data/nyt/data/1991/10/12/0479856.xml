@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peter Galassi Is Modern's Photo Director</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="479856"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">MUSEUM OF MODERN ART (NYC)</org>
+        <person class="indexing_service">GALASSI, PETER</person>
+        <person class="indexing_service">SMITH, ROBERTA</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DD143FF931A25753C1A967958260" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peter Galassi Is Modern's Photo Director</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERTA SMITH</byline>
+      <byline class="normalized_byline">SMITH, ROBERTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Peter Galassi has been appointed director of the Museum of Modern Art's department of photography, Richard E. Oldenburg, the Modern's director, announced yesterday.</p>
+        <p>Mr. Galassi, 40 years old, had been associate director of photography at the museum since 1981. He becomes only the fourth person to head the department, one of the most prestigious posts in the field of photography. The department was founded by Beaumont Newhall in 1940. Its next director was Edward Steichen, the photographer, who served from 1947 until 1962, when he was succeeded by John Szarkowski. Mr. Szarkowski, who retired on July 1, was named director emeritus of the department yesterday, and will maintain a consulting role with the museum.</p>
+      </block>
+      <block class="full_text">
+        <p>Peter Galassi has been appointed director of the Museum of Modern Art's department of photography, Richard E. Oldenburg, the Modern's director, announced yesterday.</p>
+        <p>Mr. Galassi, 40 years old, had been associate director of photography at the museum since 1981. He becomes only the fourth person to head the department, one of the most prestigious posts in the field of photography. The department was founded by Beaumont Newhall in 1940. Its next director was Edward Steichen, the photographer, who served from 1947 until 1962, when he was succeeded by John Szarkowski. Mr. Szarkowski, who retired on July 1, was named director emeritus of the department yesterday, and will maintain a consulting role with the museum.</p>
+        <p>The announcement brings to an end several months of speculation about the successor to the influential Mr. Szarkowski, and about the direction that the museum wanted to take in the field of photography. Under Mr. Szarkowski, the Modern's photography department focused on a more traditionally modernist approach to the medium, one that emphasized documentary images and orthodox darkroom techniques. Curator of 'Pleasures and Terrors'</p>
+        <p>Mr. Galassi, who is curator of the current "Pleasures and Terrors of Domestic Comfort" exhibition at the Modern, has organized a range of historical and contemporary exhibitions that take a broad approach to the medium. Although "Pleasures and Terrors" includes a significant amount of documentary photography, it also includes the work of the post-modern variety that the museum tended to ignore under Mr. Szarkowski.</p>
+        <p>Mr. Galassi, who was born in Washington, earned a B.A. from Harvard College in 1972 and a Ph.D. in art history from Columbia University in 1986. His book, "Corot in Italy: Open-Air Painting and the Classical-Landscape Tradition," which was published this year by Yale University Press, is based on his doctoral dissertation. In addition to "Pleasures and Terrors," he has organized nine exhibitions at the Modern, including "Before Photography: Painting and the Invention of Photography" in 1981, "Henri Cartier-Bresson: The Early Work" in 1987 and "Nicholas Nixon: Pictures of People" in 1988.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

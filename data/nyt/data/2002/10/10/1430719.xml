@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Teenage Choices: One Mother's Role</title>
+    <meta content="LTR232225" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1430719"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcohol Abuse</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Marketing and Merchandising</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <person class="indexing_service">Schlegel, Amnon (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcohol Abuse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDA163AF933A25753C1A9649C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Teenage Choices: One Mother's Role</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Amnon Schlegel letter says ultimate cause of teenage alcohol abuse is culture that tolerates marketing of alcohol, tobacco and sex to young, easily manipulated, consumers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Teenagers' Binge Leads Scarsdale to Painful Self-Reflection'' (news article, Oct. 8):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Teenagers' Binge Leads Scarsdale to Painful Self-Reflection'' (news article, Oct. 8):</p>
+        <p>Attributing alcohol abuse by children too young to buy a drink to lack of parental discipline, intense pressure to succeed and affluence incorrectly draws attention to proximate causes while ignoring the ultimate cause: a culture that tolerates overt and covert marketing of alcohol, tobacco and sex to these easily manipulated, voracious consumers.</p>
+        <p>AMNON SCHLEGEL, M.D.  Boston, Oct. 8, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

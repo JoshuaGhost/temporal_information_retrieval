@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Field of 11 In Mother Goose</title>
+    <meta content="PL032802" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1027567"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: HORSE RACING -- BELMONT PARK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E3DA163FF935A15755C0A96E958260" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Field of 11 In Mother Goose</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH DURSO</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The leadership of this year's class of 3-year-old fillies will be on the line tomorrow when a strong field of 11 fillies meets at Belmont Park in the $200,000 Mother Goose Stakes, the middle race in the Triple Tiara series.</p>
+      </block>
+      <block class="full_text">
+        <p>The leadership of this year's class of 3-year-old fillies will be on the line tomorrow when a strong field of 11 fillies meets at Belmont Park in the $200,000 Mother Goose Stakes, the middle race in the Triple Tiara series.</p>
+        <p>The entries, filed yesterday, include Jersey Girl, who won her fifth straight race three weeks ago when she captured the Acorn, the opening race in the series; Keeper Hill, winner of the Kentucky Oaks at Churchill Downs last month; Added Gold, winner of the Black Eyed Susan Stakes at Pimlico, and Countess Diana, last year's juvenile filly champion.</p>
+        <p>JOSEPH DURSO</p>
+        <p>PLUS: HORSE RACING -- BELMONT PARK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech Notes;   Thwarting a Nuclear Tap Root</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="370416"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BATELLE INSTITUTE</classifier>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D8163BF931A15754C0A966958260" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech Notes;   Thwarting a Nuclear Tap Root</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: RESEARCHERS at the Batelle Institute's Pacific Northwest Laboratory in Richland, Wash., have developed a way to inhibit the growth of plant roots for as long as 100 years.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: RESEARCHERS at the Batelle Institute's Pacific Northwest Laboratory in Richland, Wash., have developed a way to inhibit the growth of plant roots for as long as 100 years.</p>
+        <p>RESEARCHERS at the Batelle Institute's Pacific Northwest Laboratory in Richland, Wash., have developed a way to inhibit the growth of plant roots for as long as 100 years.</p>
+        <p>The breakthrough came in response to an unusual problem. Tumbleweeds at the nearby Hanford nuclear reservation were driving roots through buried nuclear wastes and absorbing some of the radioactive molecules as they grew. When they came loose, Hanford officials had to patrol the grounds with Geiger counters to make sure radioactive tumbleweed was not accumulating too much in one location.</p>
+        <p>The inhibitor is an array of pellets embedded in a plastic sheet. When the sheet is buried between the ground surface and the waste dumps, the pellets gradually release treflan, an herbicide, to kill any roots that penetrate deeply into the ground.</p>
+        <p>Plants with shallow roots, like grasses, do not grow deep enough to be affected. Tests are underway to try to find out whether the pellets could be used for other purposes, like preventing the infiltration of roots into pipes and irrigation lines and controlling weed growth at airports and parking lots.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

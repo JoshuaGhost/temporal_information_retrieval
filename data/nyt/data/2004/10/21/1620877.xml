@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wave of Immigration</title>
+    <meta content="L21FRI$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1620877"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <person class="indexing_service">Packer, Arnold</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DE113AF932A15753C1A9629C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wave of Immigration</hl1>
+      </hedline>
+      <abstract>
+        <p>Arnold Packer letter on Thomas Friedman's Oct 17 column about demographic waves says Americans also need to be concerned about poorly educated immigrants from all countries</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re '''Oops. I Told the Truth''' (column, Oct. 17):</p>
+        <p>Thomas L. Friedman needs to add a fourth wave and a fifth to the triplet of demographic waves he warns about.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re '''Oops. I Told the Truth''' (column, Oct. 17):</p>
+        <p>Thomas L. Friedman needs to add a fourth wave and a fifth to the triplet of demographic waves he warns about.</p>
+        <p>In addition to retiring American boomers, ambitious Asian boomers and multiplying Arab populations, Americans need to be concerned about poorly educated immigrants from all countries.</p>
+        <p>According to a new study by the Center for Labor Market Studies at Northeastern University in Boston, more than two million new immigrants found jobs in the United States over the last three years while the employment of native-born Americans declined.</p>
+        <p>Finally, there is the next generation of technology, which will eliminate jobs that machines do faster and better.</p>
+        <p>In the last 30 years, the median wage of American workers declined and the poverty rate increased. Anyone want to guess what will happen in the next 30 years?</p>
+        <p>Arnold Packer  Baltimore, Oct. 18, 2004</p>
+        <p>The writer was an assistant secretary of labor in the Carter administration.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

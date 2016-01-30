@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MediaTalk; An Accusation Of Online Plagiarism</title>
+    <meta content="03RIFT$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1322249"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Plagiarism</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Business Week (Magazine)</org>
+        <org class="indexing_service">Online Journalism Review</org>
+        <org class="indexing_service">Business Week Online</org>
+        <person class="indexing_service">Barringer, Felicity</person>
+        <person class="indexing_service">Layne, Ken</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plagiarism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Writing and Writers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DB1F30F930A3575AC0A9679C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MediaTalk; An Accusation Of Online Plagiarism</hl1>
+      </hedline>
+      <byline class="print_byline">By FELICITY BARRINGER</byline>
+      <byline class="normalized_byline">Barringer, Felicity</byline>
+      <abstract>
+        <p>Ken Layne, columnist with Online Journalism Review, at University of Southern California's Annenberg School for Communications, goes to Web to shame Business Week Online reporter who, he believes, had stolen his work without credit; case reviewed (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ken Layne, a columnist with The Online Journalism Review, at the University of Southern California's Annenberg School for Communication, went to the Web last week to shame a Business Week Online reporter who, he believed, had stolen his work without credit.</p>
+        <p>As plagiarism accusations go, Mr. Layne's article, ''Want My Story? Help Yourself!'' had more heft than some. Comparing his Aug. 14 article about an Australian Web site and an Aug. 28 Business Week Online article that mentioned the site, he found suspicious similarities.</p>
+      </block>
+      <block class="full_text">
+        <p>Ken Layne, a columnist with The Online Journalism Review, at the University of Southern California's Annenberg School for Communication, went to the Web last week to shame a Business Week Online reporter who, he believed, had stolen his work without credit.</p>
+        <p>As plagiarism accusations go, Mr. Layne's article, ''Want My Story? Help Yourself!'' had more heft than some. Comparing his Aug. 14 article about an Australian Web site and an Aug. 28 Business Week Online article that mentioned the site, he found suspicious similarities.</p>
+        <p>Both pieces used identical language in reporting that the founder of the Web site, Crikey.com.au, was awarded a prize for 16 articles detailing ''his adventures as a loudmouth shareholder in 50 of the country's biggest companies.'' Each article compared Crikey.com's costs to those of salon.com, saying that salon loses $30,000 a day.</p>
+        <p>But nowhere in Ms. Black's article was there a sentence exactly identical to any of Mr. Layne's. Ms. Black was out of the country late last week and did not return a call and an e-mail message seeking comment. Bob Arnold, the editor of Business Week Online said Mr. Layne ''is exaggerating.'' He added, ''There are a couple of parallels that I wish weren't there. But it doesn't amount to plagiarism.''</p>
+        <p>In his formal response, posted at www.ojr.org, Mr. Arnold wrote, ''publishing independently verified facts that previously appeared elsewhere isn't plagiarism.''</p>
+        <p>Since the dispute, Business Week Online has credited Mr. Layne's work.</p>
+        <p>FELICITY BARRINGER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Mighty Fortress</title>
+    <meta content="LTR102843" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1184899"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Christians and Christianity</classifier>
+        <person class="indexing_service">Mangina, Joseph L</person>
+        <person class="indexing_service">Talbot, Margaret</person>
+        <person class="indexing_service">Scheibner Family</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4D7103BF93AA25750C0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Mighty Fortress</hl1>
+      </hedline>
+      <abstract>
+        <p>Wycliffe College Asst Prof Joseph L Ma�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Talbot's article will no doubt horrify and reassure secular readers in about equal measure. If the Scheibners are primitives, at least they seem unlikely to make trouble. But the real problem with the fundamentalist counterculture is not that it is backward by liberal standards, but that it is bad theology. Religious conservatives ''cocooning'' with their own simply re-enforce the dominant liberalism of our society and economic system. Retreat into a cozy enclave, after all, is for those who can afford to do so. This hardly seems consistent with a Savior who led a vulnerable existence, often in the company of the poor and outcast.</p>
+        <p>Joseph L. Mangina  Assistant Professor of Theology  Wycliffe College  Toronto School of Theology  Toronto</p>
+      </block>
+      <block class="full_text">
+        <p>Talbot's article will no doubt horrify and reassure secular readers in about equal measure. If the Scheibners are primitives, at least they seem unlikely to make trouble. But the real problem with the fundamentalist counterculture is not that it is backward by liberal standards, but that it is bad theology. Religious conservatives ''cocooning'' with their own simply re-enforce the dominant liberalism of our society and economic system. Retreat into a cozy enclave, after all, is for those who can afford to do so. This hardly seems consistent with a Savior who led a vulnerable existence, often in the company of the poor and outcast.</p>
+        <p>Joseph L. Mangina  Assistant Professor of Theology  Wycliffe College  Toronto School of Theology  Toronto</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

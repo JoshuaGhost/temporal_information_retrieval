@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="NIC302" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="CHRONICLE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="874310"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="CHRONICLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fasteners</classifier>
+        <person class="indexing_service">Newman, Andy</person>
+        <person class="indexing_service">Baker, Nicholson</person>
+        <object.title class="indexing_service">Chronicle (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0D91638F933A0575BC0A960958260" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDY NEWMAN</byline>
+      <byline class="normalized_byline">Newman, Andy</byline>
+      <abstract>
+        <p>Novelist and essayist Nicholson Baker comments on his renewed respect for zipper on 103d anniversary of its invention (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On Aug. 29, 1893, WHITCOMB L. JUDSON of Chicago was granted a patent for a ''clasp locker or unlocker for shoes.'' The device came to be known as the zipper, and NICHOLSON BAKER, the novelist and essayist, celebrated its anniversary by wrestling with several large ones attached to suitcases. Mr. Baker, who has written compellingly about staplers, paper clips, buttons and other fasteners, is leaving tomorrow with his wife and children for Ely, England, where he will work on a new novel.</p>
+        <p>''I have a renewed respect for the zipper,'' Mr. Baker said from his home in Berkeley, Calif. ''When you first study the situation, it seems like there's absolutely no way the suitcase can zip, but if you just stuff the socks and the T-shirts down ahead of the zipper, inch by inch, the entire contents of the suitcase disappear in its path.''</p>
+      </block>
+      <block class="full_text">
+        <p>On Aug. 29, 1893, WHITCOMB L. JUDSON of Chicago was granted a patent for a ''clasp locker or unlocker for shoes.'' The device came to be known as the zipper, and NICHOLSON BAKER, the novelist and essayist, celebrated its anniversary by wrestling with several large ones attached to suitcases. Mr. Baker, who has written compellingly about staplers, paper clips, buttons and other fasteners, is leaving tomorrow with his wife and children for Ely, England, where he will work on a new novel.</p>
+        <p>''I have a renewed respect for the zipper,'' Mr. Baker said from his home in Berkeley, Calif. ''When you first study the situation, it seems like there's absolutely no way the suitcase can zip, but if you just stuff the socks and the T-shirts down ahead of the zipper, inch by inch, the entire contents of the suitcase disappear in its path.''</p>
+        <p>Mr. Baker's attachment to the zipper goes back decades. He recalled that as a fourth grader, he designed a pair of pants that converted to shorts: the legs zipped on and off just above the knee. His mother executed the design for him, with mixed results.</p>
+        <p>''If you try to run around and jump with one half of a zipper bumping against your leg, it's not the best thing,'' he said. ''And it's not all that labor-saving because you still have to take off your shoes to get your pants legs off.''</p>
+        <p>CHRONICLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

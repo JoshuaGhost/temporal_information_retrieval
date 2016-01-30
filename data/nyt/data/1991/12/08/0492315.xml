@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Compare Magic to Tyson</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="492315"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <person class="indexing_service">JOHNSON, EARVIN (MAGIC)</person>
+        <person class="indexing_service">LERNER, BARRON</person>
+        <person class="indexing_service">ANDERSON, DAVE</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE0D8123DF93BA35751C1A967958260" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Compare Magic to Tyson</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>I appreciate Dave Anderson's concern that we are deifying Magic rather than examining the conduct that led to his tragedy. Johnson certainly seems to have ignored years of warnings as to the importance of "safe sex." Yet to term Johnson a sexist and compare his behavior with that of Mike Tyson is unfair. There is no indication that Johnson's sexual partners were anything but consenting adults, even if they were careless and un thinking. BARRON LERNER  Seattle</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>I appreciate Dave Anderson's concern that we are deifying Magic rather than examining the conduct that led to his tragedy. Johnson certainly seems to have ignored years of warnings as to the importance of "safe sex." Yet to term Johnson a sexist and compare his behavior with that of Mike Tyson is unfair. There is no indication that Johnson's sexual partners were anything but consenting adults, even if they were careless and un thinking. BARRON LERNER  Seattle</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

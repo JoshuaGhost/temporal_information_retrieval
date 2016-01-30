@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legacy of a War Survivor</title>
+    <meta content="22LEAG" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1055918"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">League of Composers</org>
+        <org class="indexing_service">International Society for Contemporary Music</org>
+        <person class="indexing_service">Griffiths, Paul</person>
+        <person class="indexing_service">Mamlok, Ursula</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3D7123DF931A15753C1A96E958260" item-length="428" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legacy of a War Survivor</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL GRIFFITHS</byline>
+      <byline class="normalized_byline">Griffiths, Paul</byline>
+      <abstract>
+        <p>Paul Griffiths reviews concert of music of Ursula Mamlok, sponsored by League of Composers and International Society for Contemporary Music, at Miller Theater</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ursula Mamlok, one of the last survivors from among the abundant gifts American music gained from the flight from Nazi Europe, was celebrated on Saturday evening in a concert at Miller Theater under the auspices of the League of Composers/International Society for Contemporary Music.</p>
+        <p>It was a nice occasion. Ms. Mamlok's music is at once fierce and gentle, a combination of qualities that might recall Webern, were it not that Ms. Mamlok's melody, at least in the fairly recent pieces included in this concert, is completely different from Webern's in its smoothness of contour. To have achieved that smoothness without relaxation is one of her great achievements.</p>
+      </block>
+      <block class="full_text">
+        <p>Ursula Mamlok, one of the last survivors from among the abundant gifts American music gained from the flight from Nazi Europe, was celebrated on Saturday evening in a concert at Miller Theater under the auspices of the League of Composers/International Society for Contemporary Music.</p>
+        <p>It was a nice occasion. Ms. Mamlok's music is at once fierce and gentle, a combination of qualities that might recall Webern, were it not that Ms. Mamlok's melody, at least in the fairly recent pieces included in this concert, is completely different from Webern's in its smoothness of contour. To have achieved that smoothness without relaxation is one of her great achievements.</p>
+        <p>The effect is well shown by the middle movement of her Second String Quartet, a work deftly played here by Calvin Wiersma, Deborah Wong, Lois Martin and Chris Finckel. Slow melody, almost scale-like in motion and passing from instrument to instrument, is supported by a continuous drone and pizzicatos. The texture, like the melody, could hardly be more simple, but both are fresh.</p>
+        <p>So are the other two movements of this fine piece. The first contrasts delicate, dancing music with passages that are slower and more uncertain, while the finale recalls both the earlier movements, especially the second, and appropriately ends with a heroic upbeat, like a fist raised in the air.</p>
+        <p>Also on the program were two souvenirs from Ms. Mamlok's garden at her home in California. ''From my Garden,'' a viola solo in the manner of the quartet's slow movement, was played firmly and effectively by Ms. Martin. ''The Andreas Garden,'' a set of songs for soprano, flutist and harpist, was done by the Jubal Trio, for whom it was written. Perhaps its best feature is the startlingly precise imitation of a hummingbird by flutter-tonguing piccolo.</p>
+        <p>All this was framed by the music of one of Ms. Mamlok's teachers, Roger Sessions. Mr. Finckel played the Six Pieces of 1966 and was joined by his colleagues in the Second Quartet, a big and powerful work from 1951. The moment when the somber fugal opening gives way to strident unanimity was breathtaking in this performance, and the grave, noble slow movement was strongly conveyed.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

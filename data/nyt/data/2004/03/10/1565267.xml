@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports Briefing</title>
+    <meta content="10BRIE$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1565267"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040310T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E0DE153EF933A25750C0A9629C8B63" item-length="460" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports Briefing</hl1>
+      </hedline>
+      <abstract>
+        <p>NFL cancels next season's kickoff concert (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOOTBALL  N.F.L. Drops Season-Opening Concert</p>
+        <p>The National Football League has canceled plans for a third season-opening kickoff concert, an action taken in the wake of the risqué halftime show at the Super Bowl in Houston.</p>
+        <p>The league held free concerts before its season-opening Thursday night games the past two seasons, but Greg Aiello, an N.F.L. spokesman, said yesterday that Commissioner Paul Tagliabue put an end to the concerts.</p>
+      </block>
+      <block class="full_text">
+        <p>FOOTBALL  N.F.L. Drops Season-Opening Concert</p>
+        <p>The National Football League has canceled plans for a third season-opening kickoff concert, an action taken in the wake of the risqué halftime show at the Super Bowl in Houston.</p>
+        <p>The league held free concerts before its season-opening Thursday night games the past two seasons, but Greg Aiello, an N.F.L. spokesman, said yesterday that Commissioner Paul Tagliabue put an end to the concerts.</p>
+        <p>Tagliabue informed club owners of the decision on Feb. 12, less than two weeks after Justin Timberlake tore off part of Janet Jackson's costume, exposing her right breast. Tagliabue was incensed at the show.</p>
+        <p>Aiello said there might be a different sort of event to coincide with the opening game, including musical entertainment. The site of the game has not been determined. (AP)</p>
+        <p>BUCS SIGN GARNER -- The Tampa Bay Buccaneers signed running back Charlie Garner yesterday, reuniting him with Jon Gruden, his former coach at Oakland.</p>
+        <p>Garner, 32, spent the past three seasons with the Raiders, rushing for 2,354 yards and 11 touchdowns. The Buccaneers' offense lost running back Thomas Jones as a free agent to the Chicago Bears last week. Jones rushed for 627 yards for Tampa Bay last season.</p>
+        <p>ESPN reported that Garner signed for $20 million over six years. The Buccaneers did not disclose the terms.</p>
+        <p>Gruden and former Raiders senior assistant Bruce Allen, now the Buccaneers' general manager, brought Garner to Oakland in 2001. Gruden was also Garner's offensive coordinator with the Philadelphia Eagles from 1995 to 1997. (Bloomberg News)</p>
+        <p>DHANI JONES GOING TO THE EAGLES -- Linebacker Dhani Jones signed with the Eagles as a free agent, three days after Philadelphia lost linebacker Carlos Emmons to the Giants, Jones's former team. Jones had 120 tackles and 3 sacks for the Giants last season. The Eagles signed Jones to a five-year contract, but terms were not available. (AP)</p>
+        <p>STEELERS GET STALEY -- Pittsburgh signed Duce Staley to a five-year, $14 million contract. Staley, who spent the last seven seasons with the Eagles, is expected to help the Steelers' running game, which ranked 31st last year, the worst in Coach Bill Cowher's tenure. The Steelers may release running back Amos Zereoue to make room for Staley. Zereoue is due to make $2.2 million this season. (AP)</p>
+        <p>JACKSON RETURNS TO SEAHAWKS -- The Seattle Seahawks yesterday agreed to terms with the free-agent receiver Darrell Jackson, who will reportedly receive a six-year, $25 million contract, which includes an $8 million bonus. Jackson, one of the most sought-after receivers in this year's free-agent class, led the Seahawks in receiving in two of his four seasons. Last season, he had 68 catches for a career-high 1,137 yards with 9 touchdowns. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

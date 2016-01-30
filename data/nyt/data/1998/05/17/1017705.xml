@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Depicting Women's Work: A Carnival of Roles</title>
+    <meta content="17BPLAY" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1017705"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLAYING IN THE NEIGHBORHOOD: TRIBECA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <person class="indexing_service">Conway, Merry</person>
+        <person class="indexing_service">Pratt, Noni</person>
+        <person class="indexing_service">Mcginley, Alexandra</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E1DB1030F934A25756C0A96E958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Depicting Women's Work: A Carnival of Roles</hl1>
+      </hedline>
+      <abstract>
+        <p>Exhibition assessing women's role in American culture is set to open, Tribeca, New York City; artists Merry Conway and Noni Pratt are primarily responsible for show; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MANY an artist worked from sun to sun to construct the exhibition ''A Woman's Work Is Never Done.'' The exhibition, an end-of-the-century assessment of women's roles in American culture, will begin on Wednesday and continue through June 21 at Hudson Square, a sprawling commercial expanse on Hudson Street that was once home to a furniture showroom.</p>
+        <p>The project is described as a ''living museum'' by Merry Conway and Noni Pratt, the artists primarily responsible for this show. It is part vaudeville, part installation and inspired by a fun-house or carnival atmosphere. (Ms. Pratt is shown at left performing in one exhibit.)</p>
+      </block>
+      <block class="full_text">
+        <p>MANY an artist worked from sun to sun to construct the exhibition ''A Woman's Work Is Never Done.'' The exhibition, an end-of-the-century assessment of women's roles in American culture, will begin on Wednesday and continue through June 21 at Hudson Square, a sprawling commercial expanse on Hudson Street that was once home to a furniture showroom.</p>
+        <p>The project is described as a ''living museum'' by Merry Conway and Noni Pratt, the artists primarily responsible for this show. It is part vaudeville, part installation and inspired by a fun-house or carnival atmosphere. (Ms. Pratt is shown at left performing in one exhibit.)</p>
+        <p>Nine actors and two musicians will enliven the displays, and interact with an audience that is encouraged to snoop around the tactile exhibits.</p>
+        <p>''A Woman's Work Is Never Done,'' Hudson Square, Wednesdays through Saturdays at 8 P.M. and 9:15 P.M., Sundays 2 P.M. and 3:15 P.M.; 200 Hudson Street (at Canal Street); free but reservations must be made in advance; (212) 334-9365.</p>
+        <p>PLAYING IN THE NEIGHBORHOOD: TRIBECA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

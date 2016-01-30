@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Assembly to Vote on Agency</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="815374"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">LAW AND LEGISLATION</classifier>
+        <classifier class="indexing_service" type="descriptor">URBAN AREAS</classifier>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">NEW JERSEY, USA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5DA1639F932A25751C1A963958260" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Assembly to Vote on Agency</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <dateline>TRENTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The State Assembly is scheduled to vote today on whether to create an Urban Redevelopment Authority to finance major development projects in urban centers.  Unlike the existing Urban Development Corporation, the proposed authority would operate independently and have the power to issue bonds and coordinate urban development policy, which is now fragmented among various agencies, said Senator Richard LaRossa, Republican of Trenton, the bill's sponsor. The measure  has already cleared the Senate.</p>
+      </block>
+      <block class="full_text">
+        <p>The State Assembly is scheduled to vote today on whether to create an Urban Redevelopment Authority to finance major development projects in urban centers.  Unlike the existing Urban Development Corporation, the proposed authority would operate independently and have the power to issue bonds and coordinate urban development policy, which is now fragmented among various agencies, said Senator Richard LaRossa, Republican of Trenton, the bill's sponsor. The measure  has already cleared the Senate.</p>
+        <p>NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

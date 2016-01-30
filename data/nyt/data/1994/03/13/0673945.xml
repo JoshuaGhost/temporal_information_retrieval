@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>14-Karat Spray</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="673945"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="SUNDAY, MARCH 13, 1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEODORANTS</classifier>
+        <org class="indexing_service">DAVIS, E, INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deodorants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940313T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0D6103AF930A25750C0A962958260" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>14-Karat Spray</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As an aerosol spray, it's quite a puzzle. The label of the product, commonly sold in bodegas and delis, reads Money House Blessing Gold Spray With Indian Spirit. What? The label is cryptic and obscure, but it certainly seems to suggest that using the spray will bring a blessing or money. Telephone pursuit of the makers of Money House Blessing led to E. Davis Inc., of Piscataway, N.J., a spokesman and the following interview:</p>
+      </block>
+      <block class="full_text">
+        <p>As an aerosol spray, it's quite a puzzle. The label of the product, commonly sold in bodegas and delis, reads Money House Blessing Gold Spray With Indian Spirit. What? The label is cryptic and obscure, but it certainly seems to suggest that using the spray will bring a blessing or money. Telephone pursuit of the makers of Money House Blessing led to E. Davis Inc., of Piscataway, N.J., a spokesman and the following interview:</p>
+        <p>Q: Hi.</p>
+        <p>A: I want to tell you that we do not seek publicity for this product.</p>
+        <p>Q: Do you think this spray has spiritual or magical powers?</p>
+        <p>A: I won't comment on that.</p>
+        <p>Q: Do your customers believe it will bring them money?</p>
+        <p>A: That would be conjecture.</p>
+        <p>Q: Who is the Indian on the label?</p>
+        <p>A: I won't say where he came from.</p>
+        <p>Q: What is the Genuine 9 Indian Gold Oil that's mentioned on the label? Is it real gold?</p>
+        <p>A: I can't comment on that. I've already given you more information than I've ever given anyone else.</p>
+        <p>Q: The label is bilingual. Do you have many Spanish-speaking customers?</p>
+        <p>A: All types of people buy it. Across the board, all over the country. This product has been very successful for us and we don't want to tamper with that.</p>
+        <p>Q: The label says, "Money House Blessing. . . .  There's Nothing Like It!" Is that true?</p>
+        <p>A: Yes. To the degree that when you use it it works better than anything else.</p>
+        <p>Q: Better at what? What does it do?</p>
+        <p>A: Freshens the air.</p>
+        <p>Q: That's it?</p>
+        <p>A: That's it.  SUNDAY, MARCH 13, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

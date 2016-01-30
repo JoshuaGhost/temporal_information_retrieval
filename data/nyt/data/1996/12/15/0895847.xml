@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pilot Comes Clean</title>
+    <meta content="GORDON" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="December 8-14" name="column_name"/>
+    <docdata>
+      <doc-id id-string="895847"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="December 8-14"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <location class="indexing_service">USSR (Former Soviet Union)</location>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">South Korea</location>
+        <org class="indexing_service">Korean Air Lines</org>
+        <person class="indexing_service">Osipovich, Gennadi (Lieut Col)</person>
+        <person class="indexing_service">Gordon, Michael R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6DC133EF936A25751C1A960958260" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pilot Comes Clean</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL R. GORDON</byline>
+      <byline class="normalized_byline">Gordon, Michael R</byline>
+      <abstract>
+        <p>Retired Soviet pilot Gennadi Osipovich's account of how he shot down Korean Air Lines flight 13 years ago noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When a Soviet fighter shot Korean Air Lines Flight 007 out of the sky over Soviet territory 13 years ago, Moscow kept the pilot under wraps. But now Gennadi Osipovich, the 52-year-old retired pilot who pulled the trigger, is free to tell his story. And his first-hand account raises new questions about the Soviet military's role.</p>
+      </block>
+      <block class="full_text">
+        <p>When a Soviet fighter shot Korean Air Lines Flight 007 out of the sky over Soviet territory 13 years ago, Moscow kept the pilot under wraps. But now Gennadi Osipovich, the 52-year-old retired pilot who pulled the trigger, is free to tell his story. And his first-hand account raises new questions about the Soviet military's role.</p>
+        <p>Mr. Osipovich said he had no doubt that the plane he downed over Sakhalin Island was a civilian aircraft. He also acknowledged that he did not tell Soviet ground controllers that the intruding aircraft was a civilian Boeing. But, steeped in the ideology of the cold war, Mr. Osipovich believed -- and still thinks -- that the civilian plane must have been in the service of the Central Intelligence Agency. Mr. Osipovich said his only regret is that he did not receive a large enough bounty for shooting down the plane.</p>
+        <p>MICHAEL R. GORDON</p>
+        <p>December 8-14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

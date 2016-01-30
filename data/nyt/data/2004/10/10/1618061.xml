@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mona Jhaveri, Michael Brown</title>
+    <meta content="10JHAV$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/10/fashion/weddings/10JHAV.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1618061"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">JHAVERI, DR. MONA SAVITRI</person>
+        <person class="indexing_service">BROWN, MICHAEL IRWIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EFD6153BF933A25753C1A9629C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mona Jhaveri, Michael Brown</hl1>
+        <hl2 class="online_headline">Mona Jhaveri, Michael Brown</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Mona Savitri Jhaveri and Michael Irwin Brown are to be married today by Rabbi Ruth A. Zlotnick at the Brooklyn Museum of Art.</p>
+        <p>The bride, 34, works in the intellectual property office of the Ludwig Institute for Cancer Research in Manhattan, where she helps file patents for vaccines and to license them to biotechnology and pharmaceutical companies. She graduated from the State University of New York at Binghamton and received a doctorate in biochemistry from Wake Forest University.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Dr. Mona Savitri Jhaveri and Michael Irwin Brown are to be married Sunday at the Brooklyn Museum of Art.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Mona Savitri Jhaveri and Michael Irwin Brown are to be married today by Rabbi Ruth A. Zlotnick at the Brooklyn Museum of Art.</p>
+        <p>The bride, 34, works in the intellectual property office of the Ludwig Institute for Cancer Research in Manhattan, where she helps file patents for vaccines and to license them to biotechnology and pharmaceutical companies. She graduated from the State University of New York at Binghamton and received a doctorate in biochemistry from Wake Forest University.</p>
+        <p>She is a daughter of K. Pramila Vishvanath of Westport, Conn., and Aziz A. Jhaveri of Dubai, United Arab Emirates.</p>
+        <p>The bridegroom, 52, is the president of Innovative Resources Management, a Washington group that works with organizations and governments in developing countries to reduce poverty and conserve forests and wildlife. He graduated from the University of Massachusetts and received a master's degree in anthropology from the University of Wisconsin.</p>
+        <p>He is the son of the late Pearl and Arthur Brown, who lived in Boston. The bridegroom was a widower.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MUSIC IN REVIEW: CLASSICAL MUSIC</title>
+    <meta content="RV002222" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1050057"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Tommasini, Anthony</person>
+        <person class="indexing_service">Yokoyama, Yukio</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7DB1039F93BA1575AC0A96E958260" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MUSIC IN REVIEW: CLASSICAL MUSIC</hl1>
+      </hedline>
+      <byline class="print_byline">By Anthony Tommasini</byline>
+      <byline class="normalized_byline">Tommasini, Anthony</byline>
+      <abstract>
+        <p>Anthony Tommasini reviews pianist Yukio Yokoyama at Weill Recital Hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Debut From Japan, By Way of France  Yukio Yokoyama, pianist  Weill Recital Hall</p>
+        <p>The Japan Arts Corporation has sponsored tours to Japan by the Metropolitan Opera, the National Symphony and other major American performing organizations. But the company has also brought Japanese artists to the United States and is giving special attention this season to three young musicians making their New York debuts. This series began on Thursday night at Weill Recital Hall with a recital by Yukio Yokoyama, a 27-year-old Tokyo-born, Paris-trained pianist.</p>
+      </block>
+      <block class="full_text">
+        <p>A Debut From Japan, By Way of France  Yukio Yokoyama, pianist  Weill Recital Hall</p>
+        <p>The Japan Arts Corporation has sponsored tours to Japan by the Metropolitan Opera, the National Symphony and other major American performing organizations. But the company has also brought Japanese artists to the United States and is giving special attention this season to three young musicians making their New York debuts. This series began on Thursday night at Weill Recital Hall with a recital by Yukio Yokoyama, a 27-year-old Tokyo-born, Paris-trained pianist.</p>
+        <p>Mr. Yokoyama, though retiring in manner, is a formidable technician who is most at home in the Romantic repertory of Liszt and Chopin.</p>
+        <p>He began with one of Beethoven's most sublime late works, the Piano Sonata No. 30, Opus 109. But the pianist seemed to be playing the work simply to prove by default that he had musical depth. The ethereal yet structurally taut first movement was treated like some sort of generic water music. The whole sonata sounded inconsequential in this reading and seemed to be over in a flash.</p>
+        <p>Mr. Yokoyama actually looked relieved to move from Beethoven to two of Liszt's technically daunting ''Transcendental Etudes.'' Though Mr. Yokoyama's technique was resourceful, the performances lacked fantasy. The 10th etude, a demonic outpouring in F minor, was ably executed but not dangerous enough.</p>
+        <p>Ravel's ''Gaspard de la Nuit'' was played with such fluency you would not have guessed it is one of the great pianistic challenges. Mr. Yokoyama's conception of the music was cool and restrained, almost to a fault. Chopin's Polonaise-Fantaisie was much richer musically, which made sense. And Chopin's Scherzo No. 2 received a crisp, high-charged reading.</p>
+        <p>Mr. Yokoyama's most involving and imaginative playing came with Liszt's seldom-heard ''Rhapsodie Espagnole.'' Here we had a Japanese pianist, trained in France, playing the work of a Hungarian composer evoking the music of Spain. And it was the most spirited and satisfying performance of the recital.</p>
+        <p>ANTHONY TOMMASINI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

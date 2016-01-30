@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bonuses Cut At Salomon</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="492763"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BONUSES</classifier>
+        <org class="indexing_service">SALOMON BROTHERS INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDA1430F93AA35751C1A967958260" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bonuses Cut At Salomon</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salomon Brothers completed its payout of bonuses on Friday, and the amount paid to top executives was slightly less than in previous years, people at the firm said.</p>
+        <p>They said the bonuses were handled much more selectively than in recent years, with executives who did not bring in much revenue seeing their bonuses drop the most. In terms of categories, they said, the managing directors, who hold the top positions at the firm, saw their bonuses drop the most, with the employees just below managing director seeing their income the least affected.</p>
+      </block>
+      <block class="full_text">
+        <p>Salomon Brothers completed its payout of bonuses on Friday, and the amount paid to top executives was slightly less than in previous years, people at the firm said.</p>
+        <p>They said the bonuses were handled much more selectively than in recent years, with executives who did not bring in much revenue seeing their bonuses drop the most. In terms of categories, they said, the managing directors, who hold the top positions at the firm, saw their bonuses drop the most, with the employees just below managing director seeing their income the least affected.</p>
+        <p>"There is a group of people here below managing director who make a lot of money for the firm, but did not get some of the big paychecks in the good years," a person at the firm said. "Those people are not taking the kinds of hits that others are seeing this year."</p>
+        <p>Salomon, which is still recovering from a scandal that began in August over Treasury securities trading , had earlier said it would cut the total bonuses by $110 million, largely because the firm, under its new chairman, Warren E. Buffett, did not believe that many of its traders and investment bankers deserved so much.</p>
+        <p>The changes in the bonus payments will not affect the firm's three-year deferred compensation program. Top executives will still get the total of $100 million in deferred payment that is scheduled to be distributed to them early next year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

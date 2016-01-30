@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  RAMLO, PETER L.</title>
+    <meta content="DN032702" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1379283"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">RAMLO, PETER L.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E2D9103BF934A15750C0A9649C8B63" item-length="41" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  RAMLO, PETER L.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RAMLO-Peter L. Of Bloomfield, New Jersey, suddenly on March 20, 2002. Loving brother and uncle. Cherished friend of many. He will be greatly missed. Services are in Decorah, Iowa. Contributions to In God's Name We Deliver and City Meals on Wheels.</p>
+      </block>
+      <block class="full_text">
+        <p>RAMLO-Peter L. Of Bloomfield, New Jersey, suddenly on March 20, 2002. Loving brother and uncle. Cherished friend of many. He will be greatly missed. Services are in Decorah, Iowa. Contributions to In God's Name We Deliver and City Meals on Wheels.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

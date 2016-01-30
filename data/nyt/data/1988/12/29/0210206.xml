@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Washington Talk: Briefing; Impregnable Fortress</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="210206"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">MILITARY BASES AND INSTALLATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <location class="indexing_service">FORT MONROE (VA)</location>
+        <person class="indexing_service">HALLORAN, RICHARD</person>
+        <person class="indexing_service">BINDER, DAVID</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Military Bases and Installations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19881229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DB163AF93AA15751C1A96E948260" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Washington Talk: Briefing; Impregnable Fortress</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD HALLORAN &amp; DAVID BINDER</byline>
+      <byline class="normalized_byline">BINDER, DAVID; HALLORAN, RICHARD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: This morning, when the long-awaited list of some two dozen military bases to be closed is announced, one of the usual suspects will almost certainly be missing.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: This morning, when the long-awaited list of some two dozen military bases to be closed is announced, one of the usual suspects will almost certainly be missing.</p>
+        <p>This morning, when the long-awaited list of some two dozen military bases to be closed is announced, one of the usual suspects will almost certainly be missing.</p>
+        <p>Fort Monroe sits on a choice piece of land overlooking the entrance to Hampton Roads in Virginia, but is only a headquarters for the Army's Training and Doctrine Command. That headquarters could easily be moved. Therefore, Fort Monroe has been high on everyone's list of candidates for closing. But it won't be ranked high by the Defense Secretary's Commission on Base Realignment and Closure because the Federal Government lacks clear title to the land.</p>
+        <p>When Fort Monroe was built as a coastal artillery station in the 1820's, Virginia ceded the land to the Federal Government with a clearly written provision that it would revert to Virginia if the Federal Government ever decided to give it up. That was reaffirmed in 1938.</p>
+        <p>Thus, closing Fort Monroe would provide no sale money to reduce the Federal deficit. Moreover, the Government in Washington would be required to pay for the costs of closing, including the disarming or destruction of some old shells and bombs that are lying around.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judith P. Clarke, William Nixon</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="698405"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">CLARKE, JUDITH PHYLLIS (JUDITH PHYLLIS NIXON)</person>
+        <person class="indexing_service">NIXON, WILLIAM ELLIOT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4D81F3CF933A25754C0A962958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judith P. Clarke, William Nixon</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judith Phyllis Clarke, a daughter of Mr. and Mrs. John B. Clarke of Laurelton, Queens, is to be married today to William Elliot Nixon, a son of Roberta Nixon of Port Washington, L.I., and the late Waddie Nixon. The Rev. Earle Pratt is to officiate at Trinity St. John Episcopal Church in Hewlett, L.I.</p>
+      </block>
+      <block class="full_text">
+        <p>Judith Phyllis Clarke, a daughter of Mr. and Mrs. John B. Clarke of Laurelton, Queens, is to be married today to William Elliot Nixon, a son of Roberta Nixon of Port Washington, L.I., and the late Waddie Nixon. The Rev. Earle Pratt is to officiate at Trinity St. John Episcopal Church in Hewlett, L.I.</p>
+        <p>The bride, 29, is the manager in Woodmere, L.I., at Earth's Harvest, a health-food store. She graduated from the New York Institute of Technology. The bridegroom, 33, is a financial consultant at Dime Securities in Manhasset, L.I. He graduated from Marist College.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

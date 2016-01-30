@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calendar</title>
+    <meta content="21FCAL$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="989194"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E5D81038F932A15752C0A96E958260" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calendar</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Champagne Toasts</p>
+        <p>The patron saint of Champagne, St. Vincent, will be honored on his day tomorrow with numerous festivities in France. Here in New York, the French Institute-Alliance Francaise will do its part by naming the winner of a contest in which participants will be tested on their knowledge of Champagne. Five regional finalists, who were selected from more than 2,000 entrants, will be quizzed by judges from 5:30 to 6:30 P.M. at the French Institute, 22 East 60th Street. The public may attend, at no charge, and drink free Champagne.</p>
+      </block>
+      <block class="full_text">
+        <p>Champagne Toasts</p>
+        <p>The patron saint of Champagne, St. Vincent, will be honored on his day tomorrow with numerous festivities in France. Here in New York, the French Institute-Alliance Francaise will do its part by naming the winner of a contest in which participants will be tested on their knowledge of Champagne. Five regional finalists, who were selected from more than 2,000 entrants, will be quizzed by judges from 5:30 to 6:30 P.M. at the French Institute, 22 East 60th Street. The public may attend, at no charge, and drink free Champagne.</p>
+        <p>Also to honor St. Vincent, Champagnes will be sold from 10 P.M. to 4 A.M. at Chaos, 23 Watts Street (West Broadway).</p>
+        <p>Celebrating the Year of the Tiger</p>
+        <p>The Chinese New Year -- this will be the Year of the Tiger -- will begin Jan. 28. On Sunday, Adventures on a Shoestring, an organization that runs walking tours, has scheduled four tours of the food and cultural highlights of Manhattan's Chinatown, at 11 A.M. and at 1, 3 and 5 P.M. Each tour is $5 and includes an optional Chinese meal, for $8 more. For information and reservations: (212) 265-2663.</p>
+        <p>Starting Tuesday, many of the city's Chinese restaurants will be holding banquets for the New Year, often with the traditional lion dances. It's not too early to reserve.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

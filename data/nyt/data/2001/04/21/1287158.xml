@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deal Reported in Long-Running Dispute on Putting Tourist on Space Station</title>
+    <meta content="Y21NASA" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/04/21/science/21NASA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1287158"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia/Moscow</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Space</classifier>
+        <classifier class="online_producer" type="descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Space Cooperation and Ventures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Stations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+        <location class="online_producer">Moscow</location>
+        <location class="online_producer">Russia</location>
+        <location class="online_producer">California</location>
+        <org class="online_producer">National Aeronautics and Space Administration</org>
+        <org class="online_producer">International Space Station</org>
+        <org class="online_producer">NASA</org>
+        <person class="online_producer">Tito, Dennis</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0DC1030F932A15757C0A9679C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deal Reported in Long-Running Dispute on Putting Tourist on Space Station</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <dateline>WASHINGTON, April 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Aeronautics and Space Administration has reportedly dropped its opposition to Russian plans to send an American millionaire to the International Space Station next week as the first tourist in space.</p>
+        <p>For months, NASA and the other partners in the international project have opposed a visit by the millionaire, Dennis Tito, while the space station is in a period of intense building, saying his presence could distract the station's crew and pose safety risks.</p>
+      </block>
+      <block class="full_text">
+        <p>The National Aeronautics and Space Administration has reportedly dropped its opposition to Russian plans to send an American millionaire to the International Space Station next week as the first tourist in space.</p>
+        <p>For months, NASA and the other partners in the international project have opposed a visit by the millionaire, Dennis Tito, while the space station is in a period of intense building, saying his presence could distract the station's crew and pose safety risks.</p>
+        <p>After weeks of negotiations between NASA officials and their Russian counterparts in Moscow, Mr. Tito has signed legal documents freeing NASA of responsibility if something goes wrong and requiring him to pay for any damages he might cause on the station, a report today on Time magazine's Web site says.</p>
+        <p>NASA spokesmen said they could not confirm an agreement with the Russians and Mr. Tito. A conference call scheduled for today among the heads of all the space agencies involved in the station project was canceled because negotiations were progressing between lower-level NASA and Russian officials, said Kirsten Larson, a NASA spokeswoman.</p>
+        <p>Daniel S. Goldin, the NASA administrator, expressed confidence on Thursday that the issues would be resolved before the scheduled April 28 flight of a Soyuz spacecraft with two Russian astronauts and Mr. Tito.</p>
+        <p>Michael Hawes, NASA's space station program director, said last month that except for Russia all of the nations taking part in the project recently voted to oppose letting tourists visit the station until guidelines on training and other issues could be drafted. These issues included legal liability for injuries to visitors and who would be responsible for damage they might cause, he said.</p>
+        <p>On Friday, Russian officials remained adamant about their right to send whomever they wanted to the station, half of which is now composed of Russian modules. Mr. Tito, a 60-year-old former NASA engineer who became a millionaire after founding a California investment company, is paying the cash-strapped Russian Space Agency up to $20 million to fulfill a lifelong dream of going into space.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

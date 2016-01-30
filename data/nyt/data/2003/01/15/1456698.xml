@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Crucial Decision on Race</title>
+    <meta content="15WED3$02" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/15/opinion/15WED3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1456698"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <org class="indexing_service">University of Michigan</org>
+        <org class="indexing_service">Supreme Court (US)</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">University of Michigan</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DE1031F936A25752C0A9659C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Crucial Decision on Race</hl1>
+        <hl2 class="online_headline">A Crucial Decision on Race</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial finds it appropriate for Pres Bush to get involved in deciding administration's position on important case before Supreme Court, on University of Michigan's affirmative action admissions policies; hopes Bush will show commitment to moving Republican party into more positive positions on race issues</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the government's briefs due tomorrow, President Bush has become personally involved in deciding the administration's position on the two big affirmative action cases scheduled for argument in the Supreme Court in April.</p>
+        <p>That is entirely appropriate. The two cases, which challenge the University of Michigan's use of race as a ''plus factor'' in undergraduate and law school admissions, have huge implications for the nation's efforts to widen racial equality and increase campus diversity by opening institutions of higher learning to more blacks and Hispanics. Moreover, in the aftermath of the Trent Lott embarrassment, the administration's stance will be seen as an indicator of the president's commitment to moving his party and the country beyond the segregationist past.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bush's stance on race and higher education admissions will be seen as an indicator of his commitment to moving his party beyond its past.</p>
+      </block>
+      <block class="full_text">
+        <p>With the government's briefs due tomorrow, President Bush has become personally involved in deciding the administration's position on the two big affirmative action cases scheduled for argument in the Supreme Court in April.</p>
+        <p>That is entirely appropriate. The two cases, which challenge the University of Michigan's use of race as a ''plus factor'' in undergraduate and law school admissions, have huge implications for the nation's efforts to widen racial equality and increase campus diversity by opening institutions of higher learning to more blacks and Hispanics. Moreover, in the aftermath of the Trent Lott embarrassment, the administration's stance will be seen as an indicator of the president's commitment to moving his party and the country beyond the segregationist past.</p>
+        <p>There are dismaying reports that Mr. Bush has asked the Justice Department to draft a brief opposing the university's affirmative action programs, which, like others used by admissions offices across the country, were crafted to comply with the Supreme Court's ruling in the 1978 Bakke case. The exact basis of the administration's opposition is unclear. But it would not be surprising if its brief were to argue that diversity can be achieved without explicitly taking race into account. If it does, it may cite a program in Mr. Bush's home state that requires the University of Texas to accept the top 10 percent of students from each graduating high school class.</p>
+        <p>That approach is necessarily flawed since its success depends on perpetuating a system of largely segregated secondary schools. It also fails to address the need to keep up minority enrollment at the best private colleges and professional schools. A president who wants his administration to stand for racial inclusion will not go down this path.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

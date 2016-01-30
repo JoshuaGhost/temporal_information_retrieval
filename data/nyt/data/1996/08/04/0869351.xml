@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About That Uniform</title>
+    <meta content="LTR020414" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <meta content="MILITARY ON FILM" name="column_name"/>
+    <docdata>
+      <doc-id id-string="869351"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="MILITARY ON FILM"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Washington, Denzel</person>
+        <person class="indexing_service">Cotter, Chester L (Col)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7D9143FF937A3575BC0A960958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About That Uniform</hl1>
+      </hedline>
+      <abstract>
+        <p>Col Chester F Cotter letter contends photo of Denzel Washington (July 7) depicting lieutenant colonel of United States Cavalry (Armor) has Washington in an incorrect uniform</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It struck me like cold water to see a photo of Denzel Washington on the front page of Arts and Leisure $(''Carnage and Glory, Legends and Lies,'' July 7$) depicting a lieutenant colonel of the United States Cavalry (Armor) in an incorrect uniform.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It struck me like cold water to see a photo of Denzel Washington on the front page of Arts and Leisure $(''Carnage and Glory, Legends and Lies,'' July 7$) depicting a lieutenant colonel of the United States Cavalry (Armor) in an incorrect uniform.</p>
+        <p>Mr. Washington was costumed in a dress blue uniform wearing cavalry crossed sabers, as the story line required. But the branch markings on his sleeve (the commission stripes), the background color on his shoulder boards and the band around his hat were orange (not cavalry yellow, as they should have been). Orange is the color of a signal officer, not a cavalryman.</p>
+        <p>COL.  CHESTER  F. COTTER , retired  Beaufort, S.C.</p>
+        <p>MILITARY ON FILM</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Larry King Signs CNN Accord Totaling $7 Million a Year</title>
+    <meta content="Y12RENE" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1016441"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <org class="indexing_service">Cable News Network</org>
+        <person class="indexing_service">King, Larry</person>
+        <person class="indexing_service">Carter, Bill</person>
+        <object.title class="indexing_service">Larry King Live (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EFDF1630F931A25756C0A96E958260" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Larry King Signs CNN Accord Totaling $7 Million a Year</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>Cable News Network has signed its talk show host, Larry King, to new contract that will bring his salary close to parity with leading news anchors on broadcast networks; CNN executives will not comment on terms, but King says that under the deal, a five-year contract, he will receive compensation package totaling close to $7 million a year (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cable News Network has signed its talk show host, Larry King, to a new contract that will bring his salary close to parity with the leading news anchors on the broadcast networks.</p>
+        <p>CNN executives would not comment on the terms, but Mr. King said that under the deal, a five-year contract, he would receive a compensation package totaling close to $7 million a year, including salary, stock options in Time Warner, the parent company of CNN, and a signing bonus.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cable News Network has signed its talk show host, Larry King, to a new contract that will bring his salary close to parity with the leading news anchors on the broadcast networks.</p>
+        <p>CNN executives would not comment on the terms, but Mr. King said that under the deal, a five-year contract, he would receive a compensation package totaling close to $7 million a year, including salary, stock options in Time Warner, the parent company of CNN, and a signing bonus.</p>
+        <p>''With everything that's included in the deal, I'll be in the same ball park as the network guys,'' Mr. King said in a phone interview yesterday. ''I certainly never thought they would pay this kind of money. I think it shows that cable is competing on all levels now.''</p>
+        <p>He cited deals that other cable networks operated by Turner Broadcasting, including TNT and TBS, had struck, including paying $1.2 million an episode for repeats of the NBC drama ''E.R.'' which will begin running on TNT this fall.</p>
+        <p>''We are delighted to be making this deal with Larry,'' said Tom Johnson, the president of CNN. ''Larry's ratings were up sharply last year and he's had a great first quarter of this year.''</p>
+        <p>In the last year, he has made offers to such top network news anchors as Tom Brokaw of NBC and Dan Rather of CBS, without success. He said yesterday that plans to build an 8 o'clock nightly newscast with a leading anchor were continuing but ''that's on a different track from where we are with Larry.''</p>
+        <p>Mr. King, who is 64, has been the host of the 9 o'clock week night interview show on CNN since 1985. ''I started out at $200,000 a year,'' he said. The new deal will pay him ''about double,'' he said, what he made in his previous CNN deal, which he signed four years ago.</p>
+        <p>Because he was still under contract with CNN, Mr. King said he had received no offers from any other network, though ''I had little feelers from a couple of places.''</p>
+        <p>''Larry King Live'' is the highest-rated regular program on CNN. This year it has averaged one million viewers a night, the highest for any talk show on cable television.</p>
+        <p>Mr. King interviews both news makers and celebrities on the show, but he said, ''We always lean to the news makers when something is in the news.''</p>
+        <p>The show is based in Los Angeles and Washington at the moment, but Mr. King said he would soon begin doing ''about 20 percent'' of the shows from New York.</p>
+        <p>THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

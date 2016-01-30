@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Secondhand Smoke</title>
+    <meta content="L09SMOK" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1390705"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <org class="indexing_service">American Cancer Society</org>
+        <person class="indexing_service">Deutsch, Elena</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D61230F93AA35756C0A9649C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Secondhand Smoke</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Elena Deutsch (American Cancer Society) on May 4 and 7 articles holds second-hand smoke is proven killer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Where There's Smoke There's a New Rule Against It'' (Public Lives, May 7) and ''The Puritans Run Amok Over Smoking'' (NYC column, May 4):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Where There's Smoke There's a New Rule Against It'' (Public Lives, May 7) and ''The Puritans Run Amok Over Smoking'' (NYC column, May 4):</p>
+        <p>The public discussion about whether smoking should be allowed indoors should emphasize a key fact: secondhand smoke is a proven killer.</p>
+        <p>In 1993, the Environmental Protection Agency classified secondhand smoke as a Group A carcinogen, the same category as asbestos, benzene, arsenic and radon. Would co-op residents prefer arsenic in their drinking water?</p>
+        <p>There is no safe exposure level for Group A carcinogens. It's more than a question of comfort. Secondhand smoke kills 50,000 people every year from heart and lung disease -- more than all other Group A carcinogens combined.</p>
+        <p>ELENA DEUTSCH  New York, May 7, 2002</p>
+        <p>The writer is director of tobacco control, American Cancer Society, Eastern Division.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

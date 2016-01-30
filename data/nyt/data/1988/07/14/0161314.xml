@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soviet Republic Rejects Move By Armenian Area to Secede</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="161314"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS</location>
+        <location class="indexing_service">AZERBAIJAN SOVIET SOCIALIST REPUBLIC (USSR)</location>
+        <location class="indexing_service">ARMENIAN SOVIET SOCIALIST REPUBLIC (USSR)</location>
+        <org class="indexing_service">TASS (SOVIET PRESS AGENCY)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Azerbaijan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Azerbaijan</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD7113CF937A25754C0A96E948260" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soviet Republic Rejects Move By Armenian Area to Secede</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>MOSCOW, July 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Azerbaijan has rejected an attempt by a predominantly Armenian enclave to secede and join Armenia, the Soviet press agency Tass reported today. The action deepens the stalemate in a territorial dispute that has caused months of ethnic turmoil in the southern Soviet republics.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Azerbaijan has rejected an attempt by a predominantly Armenian enclave to secede and join Armenia, the Soviet press agency Tass reported today. The action deepens the stalemate in a territorial dispute that has caused months of ethnic turmoil in the southern Soviet republics.</p>
+        <p>Azerbaijan has rejected an attempt by a predominantly Armenian enclave to secede and join Armenia, the Soviet press agency Tass reported today. The action deepens the stalemate in a territorial dispute that has caused months of ethnic turmoil in the southern Soviet republics.</p>
+        <p>Tass said the Presidium of Azerbaijan's Supreme Soviet, or nominal parliament, met in Baku on Tuesday night and declared ''null and void'' the secession declaration that the regional legislature of Nagorno-Karabakh had approved earlier in the day.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

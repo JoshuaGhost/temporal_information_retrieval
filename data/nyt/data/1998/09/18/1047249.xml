@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  RINDLER, JULIUS</title>
+    <meta content="DN091898" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1047249"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">RINDLER, JULIUS</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDA1138F93BA2575AC0A96E958260" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  RINDLER, JULIUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RINDLER-Julius on September 16 1998, 97. Devoted and loving father of Gerald and Peggy, beloved husband of the late Regina, dear brother of Erwin and uncle of Ronald, Joan, Judy and their spouses and children. Remembered with great love. Services were held September 16.</p>
+      </block>
+      <block class="full_text">
+        <p>RINDLER-Julius on September 16 1998, 97. Devoted and loving father of Gerald and Peggy, beloved husband of the late Regina, dear brother of Erwin and uncle of Ronald, Joan, Judy and their spouses and children. Remembered with great love. Services were held September 16.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

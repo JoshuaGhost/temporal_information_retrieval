@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>July 8-14; Stem Cells in Private Labs</title>
+    <meta content="MB005152" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1309705"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010715T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DE103BF936A25754C0A9679C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>July 8-14; Stem Cells in Private Labs</hl1>
+      </hedline>
+      <byline class="print_byline">By Sheryl Gay Stolberg</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Medical research raced ahead of public policy, with two reports that scientists are creating human embryos to extract stem cells, the primordial cells that may yield treatments and cures. Instead of using frozen embryos, a Virginia fertility center used donated eggs and sperm to make fresh embryos, while a Massachusetts biotechnology company is trying a different tack: cloning. The reports outraged abortion opponents and inflamed the already heated debate over whether President Bush should permit federal funding for stem cell research.</p>
+        <p>Sheryl Gay Stolberg</p>
+      </block>
+      <block class="full_text">
+        <p>Medical research raced ahead of public policy, with two reports that scientists are creating human embryos to extract stem cells, the primordial cells that may yield treatments and cures. Instead of using frozen embryos, a Virginia fertility center used donated eggs and sperm to make fresh embryos, while a Massachusetts biotechnology company is trying a different tack: cloning. The reports outraged abortion opponents and inflamed the already heated debate over whether President Bush should permit federal funding for stem cell research.</p>
+        <p>Sheryl Gay Stolberg</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

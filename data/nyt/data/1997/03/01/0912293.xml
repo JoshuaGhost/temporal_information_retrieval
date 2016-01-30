@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Estonian Conductor Presents a Compatriot's Concerto</title>
+    <meta content="01PHIL0AA" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="MUSIC REVIEW" name="column_name"/>
+    <docdata>
+      <doc-id id-string="912293"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">New York Philharmonic</org>
+        <person class="indexing_service">Griffiths, Paul</person>
+        <person class="indexing_service">Jarvi, Neeme</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDE1031F932A35750C0A961958260" item-length="434" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Estonian Conductor Presents a Compatriot's Concerto</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL GRIFFITHS</byline>
+      <byline class="normalized_byline">Griffiths, Paul</byline>
+      <abstract>
+        <p>Estonian conductor Neeme Jarvi leads New York Philharmonic; photo; Paul Griffiths review (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The rise of Arvo Part has given us an image of Estonian music as spaced out and ineffable, so it was good to have Neeme Jarvi, himself Estonian, showing us in his concert with the Philharmonic on Thursday that his country can also produce music that is crude and unpleasant.</p>
+        <p>Eino Tamberg's Trumpet Concerto of 1977 sounded like Shostakovich, right down to the on-the-beat xylophone, but like Shostakovich without the angst, unless you happened to be the soloist. Philip Smith, the Philharmonic's principal trumpet, played with brilliance and elan against unhelpful accompaniment. For instance, he could give only a sketch of what he might have done with the Coplandesque melody in the last movement if he'd not been rushed along by Mr. Jarvi's silly tempo.</p>
+      </block>
+      <block class="full_text">
+        <p>The rise of Arvo Part has given us an image of Estonian music as spaced out and ineffable, so it was good to have Neeme Jarvi, himself Estonian, showing us in his concert with the Philharmonic on Thursday that his country can also produce music that is crude and unpleasant.</p>
+        <p>Eino Tamberg's Trumpet Concerto of 1977 sounded like Shostakovich, right down to the on-the-beat xylophone, but like Shostakovich without the angst, unless you happened to be the soloist. Philip Smith, the Philharmonic's principal trumpet, played with brilliance and elan against unhelpful accompaniment. For instance, he could give only a sketch of what he might have done with the Coplandesque melody in the last movement if he'd not been rushed along by Mr. Jarvi's silly tempo.</p>
+        <p>A Haydn symphony, No. 86, was also disabled by extremes of speed (too fast in the finale, too slow in the trio), as it was by raw tone. It's hard to make Haydn sound dumb, but Mr. Jarvi came pretty close.</p>
+        <p>The second half was occupied by Brahms's Symphony No. 0 -- that is, his G minor Piano Quartet in the orchestration by Schoenberg. Even though the Philharmonic had been advertising the latter's name in the smallest typeface it could find, some people left at intermission, which was a pity, because the Brahms-Schoenberg was by far the best thing in the concert.</p>
+        <p>It's an odd piece. It belongs neither in Brahms's output nor in Schoenberg's but somewhere in between, which is not a bad place to be. It allows us to imagine a looser Brahms, one who would relish vivid colorings. And it allowed Schoenberg to be a looser Schoenberg, to enjoy again the pleasures of Romantic orchestration, pleasures that his compositional development had carried him beyond.</p>
+        <p>Mr. Jarvi brought to it both a strong Brahmsian surge and a delight in the Schoenbergian detail: the use of solo strings, the beautifully composed decrescendo at the end of the first movement, the stardust at the close of the second, with a twinkle of triangle.</p>
+        <p>In this music it's impossible to go over the top, because that's where Schoenberg already is. The monstrous militarism in the third movement, therefore, was perfectly in style. Mr. Jarvi clearly loves this score, and to love it is to fail to take it quite seriously. It glows from being smiled at. It glowed.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

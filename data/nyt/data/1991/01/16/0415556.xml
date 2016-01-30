@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Panel Says Some Pregnant Women Should Be Offered a Test for AIDS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="415556"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="indexing_service" type="descriptor">PREGNANCY AND OBSTETRICS</classifier>
+        <org class="indexing_service">NATIONAL ACADEMY OF SCIENCES</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE1039F935A25752C0A967958260" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Panel Says Some Pregnant Women Should Be Offered a Test for AIDS</hl1>
+      </hedline>
+      <byline class="print_byline">REUTERS</byline>
+      <dateline>WASHINGTON, Jan. 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tests for AIDS should be offered to all pregnant women who live where the disease is prevalent, a branch of the National Academy of Sciences said today.</p>
+        <p>A report by the academy's Institute of Medicine also said routine screening of newborn infants for infection with the AIDS virus was unjustified. Only one-third of the infants who test positive may truly be infected, the report said, and there are too many uncertainties about the benefits and risks of "potentially toxic" medical treatment for them.</p>
+      </block>
+      <block class="full_text">
+        <p>Tests for AIDS should be offered to all pregnant women who live where the disease is prevalent, a branch of the National Academy of Sciences said today.</p>
+        <p>A report by the academy's Institute of Medicine also said routine screening of newborn infants for infection with the AIDS virus was unjustified. Only one-third of the infants who test positive may truly be infected, the report said, and there are too many uncertainties about the benefits and risks of "potentially toxic" medical treatment for them.</p>
+        <p>The report, prepared by a panel of experts for the institute, stressed that pregnant women should be tested only if they chose to be and provided written consent.</p>
+        <p>More than 14,000 cases of acquired immune deficiency syndrome have been reported among American women as of October 1990. About 2,600 cases have been reported among children under the age of 13. Virtually all the children acquire their AIDS infection in the womb or at the time of delivery.</p>
+        <p>The most common causes of AIDS among women are sexual contact with an infected partner or use of a contaminated syringe by drug abusers.</p>
+        <p>The AIDS test identifies people whose immune system has created defenses to the AIDS virus. A positive result is not a definitive sign of infection, but in adults it means that infection is highly likely. Some newborn infants test positive at birth but later prove to be uninfected.</p>
+        <p>The report said voluntary screening would permit early identification and treatment and would help women make informed decisions about their pregnancy.</p>
+        <p>There is medical evidence that some AIDS therapies pose at least a theoretical risk of harm to the fetus. But the report said withholding treatment from the mother presented a greater risk.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

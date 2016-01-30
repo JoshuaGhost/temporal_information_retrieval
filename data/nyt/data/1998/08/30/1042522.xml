@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ralph Reed Is His Cross to Bear</title>
+    <meta content="LTR093146" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1042522"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <org class="indexing_service">Christian Coalition</org>
+        <person class="indexing_service">Russ, Lawrence</person>
+        <person class="indexing_service">Tate, Randy</person>
+        <person class="indexing_service">Henneberger, Melinda</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD163CF933A0575BC0A96E958260" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ralph Reed Is His Cross to Bear</hl1>
+      </hedline>
+      <abstract>
+        <p>Lawrence Russ letter says photo of Randy Tate accompanying Aug 9 Melinda Henneberger article made Tate look unecessarily demonic</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You must have pulled out a textbook on prejudicial photo-editing in Melinda Henneberger's article on Randy Tate (''Ralph Reed Is His Cross to Bear,'' Aug. 9). You managed to take the new leader of the Christian Coalition, a man whom the article reveals to be thoroughly mild-mannered, and create a full-page portrait that makes him look like (of all things) the Devil incarnate. The extreme close-up view and the dark, high-contrast printing magnify every pore on his face. Ah, the preternatural menace of it all.</p>
+        <p>Lawrence Russ</p>
+        <p>Southport, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>You must have pulled out a textbook on prejudicial photo-editing in Melinda Henneberger's article on Randy Tate (''Ralph Reed Is His Cross to Bear,'' Aug. 9). You managed to take the new leader of the Christian Coalition, a man whom the article reveals to be thoroughly mild-mannered, and create a full-page portrait that makes him look like (of all things) the Devil incarnate. The extreme close-up view and the dark, high-contrast printing magnify every pore on his face. Ah, the preternatural menace of it all.</p>
+        <p>Lawrence Russ</p>
+        <p>Southport, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>China Oil Giant Said to Weigh Making an Offer for Unocal</title>
+    <meta content="07UNOC$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/07/business/worldbusiness/07unocal.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1640110"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+        <org class="online_producer">Unocal Corporation</org>
+        <org class="online_producer">China National Offshore Oil</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6DB1139F934A35752C0A9639C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>China Oil Giant Said to Weigh Making an Offer for Unocal</hl1>
+        <hl2 class="online_headline">China Oil Giant Said to Weigh Making an Offer for Unocal</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>China's state-controlled offshore oil company is studying a possible bid for Unocal, the ninth-largest oil company in the United States, people close to the American company said yesterday.</p>
+        <p>The Chinese company, the China National Offshore Oil Corporation, or Cnooc, recently commissioned a review of Unocal's assets, the executives said, and has made a preliminary overture to Unocal to express its interest in a possible deal. Unocal, based in El Segundo, Calif., has a current market value of $11.7 billion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>China's state-controlled offshore oil company is studying a possible bid for Unocal, the ninth-largest oil company in the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>China's state-controlled offshore oil company is studying a possible bid for Unocal, the ninth-largest oil company in the United States, people close to the American company said yesterday.</p>
+        <p>The Chinese company, the China National Offshore Oil Corporation, or Cnooc, recently commissioned a review of Unocal's assets, the executives said, and has made a preliminary overture to Unocal to express its interest in a possible deal. Unocal, based in El Segundo, Calif., has a current market value of $11.7 billion.</p>
+        <p>The overture by Cnooc is another sign of China's intense appetite for energy resources abroad to power its fast-growing economy. China is now second only to the United States in its demand for oil, but its domestic production has been stagnant in recent years and is expected to decline in the years ahead.</p>
+        <p>Unocal has a large presence in Asia, including Thailand, Indonesia, Bangladesh and Myanmar.</p>
+        <p>Still, one executive cautioned that Cnooc's pursuit of a deal was ''in the earliest of early stages'' and that nothing may come of it.</p>
+        <p>Shares of Unocal, long a laggard among American energy producers, surged yesterday after Cnooc's interest was reported on the Web site of The Financial Times. The shares rose nearly 8 percent, or $3.15, to $44.34, their biggest one-day gain since April 1999.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

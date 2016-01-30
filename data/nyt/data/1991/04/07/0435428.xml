@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Many Hands Make Daylight Work</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="435428"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TIME</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">DAYLIGHT SAVING TIME</classifier>
+        <classifier class="indexing_service" type="descriptor">WATCHES AND CLOCKS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Time</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910407T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4DB1739F934A35757C0A967958260" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Many Hands Make Daylight Work</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the Land of the Rising Sun, the sun rises (and sets) on standard time all year. No "extra" daylight for the industrious Japanese, thank you. Having had daylight time imposed on them by the American occupation authorities after World War II, they ditched it as soon as they regained their sovereignty in 1952. Then they got even.</p>
+        <p>Sneaking digital timers into all sorts of electronic gadgets, Japan has vastly complicated the twice-a-year adjustments. Not only clocks, but TV's, computers, stoves and even coffee pots have to be reset. It's enough to make anyone yearn for the good old knobs of the good old days.</p>
+      </block>
+      <block class="full_text">
+        <p>In the Land of the Rising Sun, the sun rises (and sets) on standard time all year. No "extra" daylight for the industrious Japanese, thank you. Having had daylight time imposed on them by the American occupation authorities after World War II, they ditched it as soon as they regained their sovereignty in 1952. Then they got even.</p>
+        <p>Sneaking digital timers into all sorts of electronic gadgets, Japan has vastly complicated the twice-a-year adjustments. Not only clocks, but TV's, computers, stoves and even coffee pots have to be reset. It's enough to make anyone yearn for the good old knobs of the good old days.</p>
+        <p>Those days are alive and ticking in Bristol, Conn., where Eli Terry developed the mass production of wooden clock movements more than a century ago. The world's clock-making center in the early 1900's, Bristol is now the home of the American Clock and Watch Museum. The museum is the home of no digitals. It has 260 working mechanical clocks, with goodness knows how many different chimes all sounding at more or less the same time. All 260 have to be wound every week -- without interruptions, that's a day's work -- and reset twice a year for the beginning and end of daylight time.</p>
+        <p>Stuart Mitchell, the curator, and his wife, Martha, spend two and a half hours setting the hands forward in the spring, and even longer setting them back in the fall. Moving the hands backward can damage the works, so the Mitchells stop each clock for an hour and then start them all again.</p>
+        <p>Airlines, railroads and bus lines uniformly set their clocks and schedules forward at 2 A.M. today, the official switching hour in the 47 1/2 states that opt for later daylight. (Hawaii, Arizona and eastern Indiana don't.) The Mitchells, understandably, did their work last night. Ahead of time.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

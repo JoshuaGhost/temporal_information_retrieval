@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scrambling for Reformer's Credentials</title>
+    <meta content="28sat3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/01/28/opinion/28sat3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1735236"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lobbying and Lobbyists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <org class="online_producer">Republican Party</org>
+        <person class="online_producer">Blunt, Roy</person>
+        <person class="online_producer">Delay, Tom</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D9113FF93BA15752C0A9609C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scrambling for Reformer's Credentials</hl1>
+        <hl2 class="online_headline">Scrambling for Reformer's Credentials</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With scandal flames licking at the ties between lobbyists and Republican lawmakers, and Tom DeLay indicted and in retreat from leadership, Republicans will be choosing his replacement next week.</p>
+        <p>If the two main contenders are any measure, true lobbying reform will prove hard to come by. The front-runner, Representative Roy Blunt of Missouri, is deeply involved with the lobbying industry, both as a power in the DeLay money machine and as the husband of a lobbyist and the father of another. Mr. Blunt discreetly scrapped a $5,000-a-head fund-raiser next week for one of his political kitties, oddly called Rely on Your Beliefs. His main challenger, Representative John Boehner of Ohio, also has long and close ties to K Street, whose privileged entree to the Capitol is rooted in feeding campaign war chests. While promising reform, Mr. Boehner is still apologizing for handing out checks from tobacco interests on the House floor 10 years ago.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Neither contender to replace Tom DeLay has violated any laws. And this is exactly why neither is likely to feel a great compunction to really close loopholes in the law.</p>
+      </block>
+      <block class="full_text">
+        <p>With scandal flames licking at the ties between lobbyists and Republican lawmakers, and Tom DeLay indicted and in retreat from leadership, Republicans will be choosing his replacement next week.</p>
+        <p>If the two main contenders are any measure, true lobbying reform will prove hard to come by. The front-runner, Representative Roy Blunt of Missouri, is deeply involved with the lobbying industry, both as a power in the DeLay money machine and as the husband of a lobbyist and the father of another. Mr. Blunt discreetly scrapped a $5,000-a-head fund-raiser next week for one of his political kitties, oddly called Rely on Your Beliefs. His main challenger, Representative John Boehner of Ohio, also has long and close ties to K Street, whose privileged entree to the Capitol is rooted in feeding campaign war chests. While promising reform, Mr. Boehner is still apologizing for handing out checks from tobacco interests on the House floor 10 years ago.</p>
+        <p>Neither contender's behavior has violated any laws. And this is exactly why neither is likely to feel a great compunction to really close loopholes in the law and bite the hands that feed Washington politics. The way the Capitol culture works, leaders of both parties maintain special fund-raising committees -- often tied to power lobbyists -- set up to distribute money to individual lawmakers as a way of securing a power base. The conundrum is that money has become synonymous with leadership. It will take a special brand of politician to reform that.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

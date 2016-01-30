@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Sopranos' Stereotyping</title>
+    <meta content="L04SOP" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1268255"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Italian-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Fugazy, William D</person>
+        <object.title class="indexing_service">Sopranos, the (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE6DD123EF937A35751C0A9679C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Sopranos' Stereotyping</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by William Denis Fugazy, chairman of National Ethnic Coalition of Organizations, says January 29 news article about people and homes used in episodes of The Sopranos was just as guilty of stereotyping Italian-Americans as show itself (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Jan. 29 news article ''Mirrors Here, Mauve There: A 'Sopranos'-Worthy House,'' about the people and homes used in the filming of episodes of the HBO series ''The Sopranos,'' was just as guilty of stereotyping Italian-Americans as the show itself.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Jan. 29 news article ''Mirrors Here, Mauve There: A 'Sopranos'-Worthy House,'' about the people and homes used in the filming of episodes of the HBO series ''The Sopranos,'' was just as guilty of stereotyping Italian-Americans as the show itself.</p>
+        <p>This is not about political correctness. At worst, ethnic stereotyping can lead to the spate of hate crimes  so prevalent today that federal hate-crime legislation is urgently needed.</p>
+        <p>WILLIAM DENIS FUGAZY  Chairman, National Ethnic  Coalition of Organizations  New York, Feb. 1, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

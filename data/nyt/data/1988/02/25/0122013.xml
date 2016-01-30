@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hampshire College Students Present List of 12 Demands</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="122013"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COLLEGES AND UNIVERSITIES</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">RACIAL RELATIONS</classifier>
+        <org class="indexing_service">HAMPSHIRE COLLEGE</org>
+        <person class="indexing_service">SIMMONS, ADELE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D61039F936A15751C0A96E948260" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hampshire College Students Present List of 12 Demands</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>AMHERST, Mass., Feb. 24</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: About 100 students of Hampshire College who took over a dormitory office to protest racism, marched across campus today to present a list of 12 demands to the college president.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: About 100 students of Hampshire College who took over a dormitory office to protest racism, marched across campus today to present a list of 12 demands to the college president.</p>
+        <p>About 100 students of Hampshire College who took over a dormitory office to protest racism, marched across campus today to present a list of 12 demands to the college president.</p>
+        <p>The group then returned to the dormitory, Dakin House, which they seized Tuesday morning, and said they did not plan to meet again with the college president, Adele Simmons, until Thursday morning.</p>
+        <p>The protesters were escorted across campus by about 100 students.</p>
+        <p>Among the protesters' demands were additional library materials dealing with Third World nations, establishment of a college policy on racial harassment, a full-time adviser for minority students, a permanent meeting place for minority students, a minority recruitment week each semester and no retaliatory actions against the protesters.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

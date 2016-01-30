@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="802551"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AWARDS, DECORATIONS AND HONORS</classifier>
+        <org class="indexing_service">HARVARD UNIVERSITY</org>
+        <person class="indexing_service">BROZAN, NADINE</person>
+        <person class="indexing_service">COLES, ROBERT (DR)</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D91531F930A15753C1A963958260" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">BROZAN, NADINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DR. ROBERT COLES, 66, the psychiatrist, author and longtime Harvard professor who has taught in many schools of the university over the last four decades, has a new title there. He has been named James Agee Professor of Social Ethics at the Graduate School of Education.</p>
+        <p>The position, a new one at the school, is named for the novelist and critic whose book about Depression-era sharecroppers, "Let Us Now Praise Famous Men," is a staple of Dr. Coles's lectures. Besides focusing on the intellectual pursuit of public service and social ethics, Dr. Coles will be directly involved in fostering service programs. Such work has always been central to his writing and teaching, and for the last three summers he has helped undergraduates run academic youth camps for families in the community.</p>
+      </block>
+      <block class="full_text">
+        <p>DR. ROBERT COLES, 66, the psychiatrist, author and longtime Harvard professor who has taught in many schools of the university over the last four decades, has a new title there. He has been named James Agee Professor of Social Ethics at the Graduate School of Education.</p>
+        <p>The position, a new one at the school, is named for the novelist and critic whose book about Depression-era sharecroppers, "Let Us Now Praise Famous Men," is a staple of Dr. Coles's lectures. Besides focusing on the intellectual pursuit of public service and social ethics, Dr. Coles will be directly involved in fostering service programs. Such work has always been central to his writing and teaching, and for the last three summers he has helped undergraduates run academic youth camps for families in the community.</p>
+        <p>Dr. Coles is known for his work with children, and won a Pulitzer Prize in general nonfiction in 1973 for "Children of Crisis," Volumes II and III. He has taught at Harvard's medical and law schools and at the Kennedy School of Government, as well as in the undergraduate college. He will retain his title as professor of psychiatry and medical humanities at the medical school, although he told The Harvard Crimson that his primary focus would now be at the School of Education.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

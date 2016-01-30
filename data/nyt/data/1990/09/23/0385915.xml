@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Susanne Denk Has a Wedding</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="63" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="385915"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DENK, SUSANNE (SUSANNE ROMNEY)</person>
+        <person class="indexing_service">ROMNEY, ALAN JOHN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DB1138F930A1575AC0A966958260" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Susanne Denk Has a Wedding</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Susanne Romy Thelen Denk and Alan John Romney y de Cardenas were married yesterday at Brick Presbyterian Church in New York. The Rev. Dr. Herbert B. Anderson performed the ceremony, assisted by the Rev. Thomas C. Blessin, a Roman Catholic priest. Mrs. Romney is the daughter of Ruth E. Schreyer Denk of New York and the late Horst G.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Susanne Romy Thelen Denk and Alan John Romney y de Cardenas were married yesterday at Brick Presbyterian Church in New York. The Rev. Dr. Herbert B. Anderson performed the ceremony, assisted by the Rev. Thomas C. Blessin, a Roman Catholic priest. Mrs. Romney is the daughter of Ruth E. Schreyer Denk of New York and the late Horst G.</p>
+        <p>Susanne Romy Thelen Denk and Alan John Romney y de Cardenas were married yesterday at Brick Presbyterian Church in New York. The Rev. Dr. Herbert B. Anderson performed the ceremony, assisted by the Rev. Thomas C. Blessin, a Roman Catholic priest. Mrs. Romney is the daughter of Ruth E. Schreyer Denk of New York and the late Horst G. Denk. The bridegroom is a son of Piedad M. de Cardenas of New York and Dr. Harry Romney of Majorca, Spain.</p>
+        <p>The bride, a graduate of Wells College, is an administrative assistant to the New York regional administrator of the General Services Administration. Her father headed the Denk Baking Corporation in New York.</p>
+        <p>The bridegroom is a first vice president in the institutional futures division at Shearson Lehman Brothers in New York. He received a master's degree in piano from the Juilliard School of Music and an M.B.A. from New York University. His father is a retired orthopedic surgeon.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Avon Is Asked To Buy Shares</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="406077"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS (CORPORATE)</classifier>
+        <org class="indexing_service">AVON PRODUCTS INC</org>
+        <org class="indexing_service">CHARTWELL ASSOCIATES</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DC1E3DF937A35751C1A966958260" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Avon Is Asked To Buy Shares</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Dec. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chartwell Associates, an alliance of investors dissatisfied with the stock market performance of Avon Products Inc., recommended today that Avon repurchase $500 million of its common or preferred shares to enhance shareholder value.</p>
+        <p>Chartwell made the proposal in a letter to James E. Preston, Avon's chairman. The letter was contained in a filing with the Securities and Exchange Commission.</p>
+        <p>In October, Chartwell resigned from a special Avon committee that is examining ways to increase the company's stock price. Chartwell said the New York-based beauty products company was not seriously interested in enhancing shareholder value. It then hired Lehman Brothers to come up with proposals for Avon.</p>
+        <p>Chartwell, which controls 26.2 percent of Avon's common shares outstanding and 19.8 percent of the voting shares, also recommended in its letter that Avon explore raising its dividend, consider selling subsidiaries and rethink its plan to sell a portion of its Avon Japan business.</p>
+        <p>A spokesman for Avon said that the Chartwell proposal contained "nothing new." He said Avon's committee would present its recommendations to the board in January.</p>
+        <p>Avon's shares slipped 37.5 cents today, to $27, on the New York Stock Exchange.</p>
+      </block>
+      <block class="full_text">
+        <p>Chartwell Associates, an alliance of investors dissatisfied with the stock market performance of Avon Products Inc., recommended today that Avon repurchase $500 million of its common or preferred shares to enhance shareholder value.</p>
+        <p>Chartwell made the proposal in a letter to James E. Preston, Avon's chairman. The letter was contained in a filing with the Securities and Exchange Commission.</p>
+        <p>In October, Chartwell resigned from a special Avon committee that is examining ways to increase the company's stock price. Chartwell said the New York-based beauty products company was not seriously interested in enhancing shareholder value. It then hired Lehman Brothers to come up with proposals for Avon.</p>
+        <p>Chartwell, which controls 26.2 percent of Avon's common shares outstanding and 19.8 percent of the voting shares, also recommended in its letter that Avon explore raising its dividend, consider selling subsidiaries and rethink its plan to sell a portion of its Avon Japan business.</p>
+        <p>A spokesman for Avon said that the Chartwell proposal contained "nothing new." He said Avon's committee would present its recommendations to the board in January.</p>
+        <p>Avon's shares slipped 37.5 cents today, to $27, on the New York Stock Exchange.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

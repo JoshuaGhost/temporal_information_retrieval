@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Weekend Begins, on Wednesday</title>
+    <meta content="26FAMI0AA" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1065160"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Clinton, Chelsea</person>
+        <person class="indexing_service">Clinton, Hillary Rodham</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE2DD1539F935A15752C1A96E958260" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Weekend Begins, on Wednesday</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Pres and Hillary Clinton leaving for Camp David, Md, with daughter, Chelsea1</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

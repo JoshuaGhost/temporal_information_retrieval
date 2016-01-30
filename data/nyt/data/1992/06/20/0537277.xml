@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Classical Music in Review</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="537277"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OPERA</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <location class="indexing_service">PROSPECT PARK (NYC)</location>
+        <org class="indexing_service">METROPOLITAN OPERA</org>
+        <person class="indexing_service">OESTREICH, JAMES R</person>
+        <object.title class="indexing_service">BARBIERE DI SIVIGLIA (OPERA)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4DE153CF933A15755C0A964958260" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Classical Music in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By James R. Oestreich</byline>
+      <byline class="normalized_byline">OESTREICH, JAMES R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Il Barbiere di Siviglia' Metropolitan Opera in the Parks</p>
+        <p>New Yorkers from the outer boroughs and suburbanites who feel that Manhattan gets all the breaks may take perverse pleasure in the Met's schedule of parks concerts this summer. Budget cuts forced the company to reduce its season from three weeks to two, and for the first time since the mid-1970's, one of the operas is bypassing Central Park.</p>
+        <p>It is a considerable loss. "Il Barbiere di Siviglia," a happy choice for a large audience at any time, makes especially good sense in this Rossini bicentennial year. And to a number of small pleasures the Met's performance adds one major asset: the splendid Rosina of Ruth Ann Swenson.</p>
+      </block>
+      <block class="full_text">
+        <p>'Il Barbiere di Siviglia' Metropolitan Opera in the Parks</p>
+        <p>New Yorkers from the outer boroughs and suburbanites who feel that Manhattan gets all the breaks may take perverse pleasure in the Met's schedule of parks concerts this summer. Budget cuts forced the company to reduce its season from three weeks to two, and for the first time since the mid-1970's, one of the operas is bypassing Central Park.</p>
+        <p>It is a considerable loss. "Il Barbiere di Siviglia," a happy choice for a large audience at any time, makes especially good sense in this Rossini bicentennial year. And to a number of small pleasures the Met's performance adds one major asset: the splendid Rosina of Ruth Ann Swenson.</p>
+        <p>At the first performance, on Wednesday evening at Prospect Park in Brooklyn, Ms. Swenson easily stole the show, meeting the role's mezzo-soprano demands fully yet soaring freely into the heights with lavish, flowing roulades. This was a delightful, often thrilling performance, which carried well over the amplification system of the transportable Carlos Moseley Pavilion.</p>
+        <p>Mark Oswald, as Figaro, showed brave flair in his "Largo al factotum," then receded into the background. Michele Farruggia handled Almaviva's patter reasonably well, but merely suggested the coloratura in quavery arcs of edgy tone. Paul Plishka was a sturdy Basilio, Richard Byrne a resonant Fiorello, John Fiorito a rather colorless Bartolo. Sondra Kelly sang Berta well.</p>
+        <p>The conductor, Paul Nadler, seemed content to give the singers great leeway, and one of them rewarded him richly indeed.</p>
+        <p>"Barbiere" will be performed this evening at Great Kills Park in Staten Island with Jane Bunnell as Rosina and other cast changes. Ms. Swenson returns for the remaining performances, on Tuesday at Van Cortlandt Park in Riverdale, the Bronx, and on Friday at Brookdale Park in Bloomfield and Montclair, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

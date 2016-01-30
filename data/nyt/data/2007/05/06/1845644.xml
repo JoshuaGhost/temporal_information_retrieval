@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. QUALIFIES FOR UNDER-17 EVENT</title>
+    <meta content="06soccer-1" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1845644"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="SOCCER: ROUNDUP"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E7DC1E3EF935A35756C0A9619C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. QUALIFIES FOR UNDER-17 EVENT</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK BELL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States men's under-17 national team, despite a 3-2 loss to Jamaica on Friday, clinched a berth in the FIFA U-17 World Cup when Trinidad and Tobago defeated Canada, 2-1, in an earlier game in Kingston, Jamaica.</p>
+        <p>Costa Rica and the United States have advanced to the World Cup, which will be played in South Korea from Aug. 18 to Sept. 9. One more qualifier will emerge from among Canada, Jamaica, and Trinidad and Tobago after games today.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States men's under-17 national team, despite a 3-2 loss to Jamaica on Friday, clinched a berth in the FIFA U-17 World Cup when Trinidad and Tobago defeated Canada, 2-1, in an earlier game in Kingston, Jamaica.</p>
+        <p>Costa Rica and the United States have advanced to the World Cup, which will be played in South Korea from Aug. 18 to Sept. 9. One more qualifier will emerge from among Canada, Jamaica, and Trinidad and Tobago after games today.</p>
+        <p>The United States took a 2-0 lead in the first half on goals by Sheanon Williams and Alex Nimo. But Jamaica rallied to tie the score in the second half with three goals in the final 12 minutes. Jamaica won the match on John Ross Doyley's penalty kick in injury time.</p>
+        <p>The United States is the only country to have qualified for all 13 world championships in this age group, dating to 1985.</p>
+        <p>JACK BELL</p>
+        <p>SOCCER: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

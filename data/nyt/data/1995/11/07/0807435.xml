@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ADOBE VENTURES TO FOCUS ON IMAGING SOFTWARE</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="807435"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SCANNING DEVICES</classifier>
+        <org class="indexing_service">ADOBE SYSTEMS INC</org>
+        <org class="indexing_service">APPLE COMPUTER INC</org>
+        <org class="indexing_service">EASTMAN KODAK CO</org>
+        <org class="indexing_service">METATOOLSINC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6DF1439F934A35752C1A963958260" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ADOBE VENTURES TO FOCUS ON IMAGING SOFTWARE</hl1>
+      </hedline>
+      <byline class="print_byline">Dow Jones</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Adobe Systems Inc. announced yesterday that it had formed alliances with Apple Computer Inc., the Eastman Kodak Company and Metatools Inc. to simplify digital-imaging technology. Adobe also introduced Adobe Photodeluxe, software that lets personal computer users retouch photographs. The company said the alliances and its software, would allow easy access to technology for image input, editing and enhancement. Adobe and Apple are working to integrate the Apple Quicktake 150 digital camera with the Windows and Macintosh versions of the Photodeluxe software. Adobe and Kodak are trying to simplify the process of  accessing digital photos from a computer. And Adobe and Metatools are working on a variety of special-effects tools in Adobe PhotoDeluxe.</p>
+      </block>
+      <block class="full_text">
+        <p>Adobe Systems Inc. announced yesterday that it had formed alliances with Apple Computer Inc., the Eastman Kodak Company and Metatools Inc. to simplify digital-imaging technology. Adobe also introduced Adobe Photodeluxe, software that lets personal computer users retouch photographs. The company said the alliances and its software, would allow easy access to technology for image input, editing and enhancement. Adobe and Apple are working to integrate the Apple Quicktake 150 digital camera with the Windows and Macintosh versions of the Photodeluxe software. Adobe and Kodak are trying to simplify the process of  accessing digital photos from a computer. And Adobe and Metatools are working on a variety of special-effects tools in Adobe PhotoDeluxe.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

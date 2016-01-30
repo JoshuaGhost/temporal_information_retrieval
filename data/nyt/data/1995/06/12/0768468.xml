@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Officers In a Rowdy Fracas</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="768468"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1DB173DF931A25755C0A963958260" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Officers In a Rowdy Fracas</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A New York City police officer was arrested and three other officers were suspended from the force over the weekend after they became rowdy and fought with patrons and local police officers at a beachside bar in New Jersey, the police said yesterday.</p>
+        <p>The incident, in the shore community of Point Pleasant Beach, came just days after another New York City officer resigned and two others were suspended because of their participation in a drunken spree through several Washington hotels.</p>
+      </block>
+      <block class="full_text">
+        <p>A New York City police officer was arrested and three other officers were suspended from the force over the weekend after they became rowdy and fought with patrons and local police officers at a beachside bar in New Jersey, the police said yesterday.</p>
+        <p>The incident, in the shore community of Point Pleasant Beach, came just days after another New York City officer resigned and two others were suspended because of their participation in a drunken spree through several Washington hotels.</p>
+        <p>In the latest incident, officials from the officers' Staten Island precinct had to be called down to Point Pleasant because their officers could not be controlled by the local police, officials said.</p>
+        <p>Article, page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

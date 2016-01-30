@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brooklyn Union And Enron in Pact</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="3589"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GAS (FUEL)</classifier>
+        <org class="indexing_service">BROOKLYN UNION GAS CO (BUG)</org>
+        <org class="indexing_service">ENRON GAS MARKETING INC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4D91739F936A25752C0A961948260" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brooklyn Union And Enron in Pact</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Brooklyn Union Gas Company said it had signed a long-term agreement with the Enron Gas Marketing Inc. unit of the Enron Corporation of Houston for more than 230 billion cubic feet of natural gas, or about 25 percent of the company's gas supply. Craig G. Matthews, Brooklyn Union's chief financial officer, said the gas could serve up to 125,000 of its 1.1 million customers in Brooklyn, Queens and Staten</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Brooklyn Union Gas Company said it had signed a long-term agreement with the Enron Gas Marketing Inc. unit of the Enron Corporation of Houston for more than 230 billion cubic feet of natural gas, or about 25 percent of the company's gas supply. Craig G. Matthews, Brooklyn Union's chief financial officer, said the gas could serve up to 125,000 of its 1.1 million customers in Brooklyn, Queens and Staten</p>
+        <p>The Brooklyn Union Gas Company said it had signed a long-term agreement with the Enron Gas Marketing Inc. unit of the Enron Corporation of Houston for more than 230 billion cubic feet of natural gas, or about 25 percent of the company's gas supply. Craig G. Matthews, Brooklyn Union's chief financial officer, said the gas could serve up to 125,000 of its 1.1 million customers in Brooklyn, Queens and Staten Island.</p>
+        <p>The Transcontinental Gas Pipe Line Corporation of Houston will continue to be Brooklyn Union's major gas supplier, Mr. Matthews said. The Enron gas also will be transported to the area through Transcontinental's pipeline, he said. Mr. Matthews declined to specify the value or length of the agreeement.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

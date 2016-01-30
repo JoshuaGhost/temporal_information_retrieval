@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arno Breker, Sculptor,</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="423677"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">BREKER, ARNO</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D6133DF935A25751C0A967958260" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arno Breker, Sculptor,</hl1>
+      </hedline>
+      <byline class="print_byline">REUTERS</byline>
+      <dateline>DUSSELDORF, Germany, Feb. 15</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arno Breker, a sculptor who was one of Germany's most controversial artists because of his outsize statues glorifying the Nazis, died in his sleep on Wednesday after contracting influenza, German news agencies reported on Friday. He was 90 years old.</p>
+        <p>Mr. Breker studied in Paris and Dusseldorf before moving to Berlin after Adolf Hitler took power in 1933.</p>
+        <p>He created huge statues of muscular athletes for the 1936 Olympics in Berlin and also sculptured busts of Hitler and other Nazi leaders. In his later years, Mr. Breker produced busts of artists and politicians.</p>
+      </block>
+      <block class="full_text">
+        <p>Arno Breker, a sculptor who was one of Germany's most controversial artists because of his outsize statues glorifying the Nazis, died in his sleep on Wednesday after contracting influenza, German news agencies reported on Friday. He was 90 years old.</p>
+        <p>Mr. Breker studied in Paris and Dusseldorf before moving to Berlin after Adolf Hitler took power in 1933.</p>
+        <p>He created huge statues of muscular athletes for the 1936 Olympics in Berlin and also sculptured busts of Hitler and other Nazi leaders. In his later years, Mr. Breker produced busts of artists and politicians.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

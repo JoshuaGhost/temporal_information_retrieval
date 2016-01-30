@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: NONFICTION</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="454926"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">KAUFMAN, DAVID</person>
+        <person class="indexing_service">KEYES, EVELYN</person>
+        <object.title class="indexing_service">I'LL THINK ABOUT THAT TOMORROW (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5D81530F930A15755C0A967958260" item-length="193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID KAUFMAN</byline>
+      <byline class="normalized_byline">KAUFMAN, DAVID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I'LL THINK ABOUT THAT TOMORROW  By Evelyn Keyes. Dutton, $21.95.</p>
+      </block>
+      <block class="full_text">
+        <p>I'LL THINK ABOUT THAT TOMORROW  By Evelyn Keyes. Dutton, $21.95.</p>
+        <p>Evelyn Keyes's second memoir, "I'll Think About That Tomorrow," is most rewarding as the coming-of-age story of a woman who discovered her independence late in life and decided that growing up was ultimately necessary. The recollections begin in the 1960's, when Miss Keyes was "forty-something" and her life was "in shambles," after her fourth husband, the bandleader Artie Shaw, left her. The self-described "old broad," between self-deprecating sessions in front of a mirror, sought "</p>
+        <p>some</p>
+        <p>other direction" she could take, "some</p>
+        <p>thing</p>
+        <p>" to pursue; she yielded to an interest in writing, which she has realized ever since as novelist, columnist and memoirist. But if her journey through the 70's and 80's included periodic returns to an altered Hollywood -- as well as visits with a number of celebrated cronies and reconciliations with both Mr. Shaw and the film director John Huston, her third husband -- this chatty and sometimes rambling account can bring to mind the nameless person she once knew who "jumped from subject to subject like some demented kangaroo."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

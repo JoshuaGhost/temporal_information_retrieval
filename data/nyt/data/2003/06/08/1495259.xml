@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woman Arrested in Princeton Bomb Threat</title>
+    <meta content="08PRIN" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="52" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/06/08/nyregion/08PRIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1495259"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Threats and Threatening Messages</classifier>
+        <org class="indexing_service">Princeton University</org>
+        <person class="indexing_service">Dametz, Geraldine M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Threats and Threatening Messages</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Threats and Threatening Messages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">New Jersey</location>
+        <org class="online_producer">Princeton University</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE4D61439F93BA35755C0A9659C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woman Arrested in Princeton Bomb Threat</hl1>
+        <hl2 class="online_headline">Woman Arrested in Princeton Bomb Threat</hl2>
+      </hedline>
+      <abstract>
+        <p>Police arrest Geraldine M Dametz for calling in bomb threat on Princeton University, two days after calling in similar threat on another New Jersey campus (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman from Long Branch, N.J., was arrested yesterday after she called in a bomb threat from an academic building at Princeton University, two days after calling in a similar threat on another New Jersey campus, the police said.</p>
+        <p>The woman, Geraldine M. Dametz, 46, called the police in Long Branch, on the Jersey Shore, about 11 a.m. yesterday, saying she was at Princeton with a bomb, said Chief Charles Davall of the Princeton Borough police. She told the police that she ''wouldn't go peacefully,'' he said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A woman from Long Branch, N.J., was arrested yesterday after she called in a bomb threat from an academic building at Princeton University, two days after calling in a similar threat on another New Jersey campus, thepolice said.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman from Long Branch, N.J., was arrested yesterday after she called in a bomb threat from an academic building at Princeton University, two days after calling in a similar threat on another New Jersey campus, the police said.</p>
+        <p>The woman, Geraldine M. Dametz, 46, called the police in Long Branch, on the Jersey Shore, about 11 a.m. yesterday, saying she was at Princeton with a bomb, said Chief Charles Davall of the Princeton Borough police. She told the police that she ''wouldn't go peacefully,'' he said.</p>
+        <p>Chief Duvall added that Ms. Dametz had had ''a personal disenchantment'' with a man who now works at Princeton University and used to work at Monmouth University in Long Branch, where she also once worked. Monmouth was the target of the first threat.</p>
+        <p>Officers in Long Branch called the campus police, who tracked Ms. Dametz to the Wallace Social Sciences Building, Chief Davall said.</p>
+        <p>Police officers, Mercer County sheriff's deputies and a state police bomb squad rushed to the campus. Ms. Dametz was found in a conference room and arrested. No bomb was found.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

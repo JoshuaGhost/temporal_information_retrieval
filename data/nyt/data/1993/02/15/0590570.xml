@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dance in Review</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="590570"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">NEW CHOREOGRAPHERS ON POINT</org>
+        <person class="indexing_service">ANDERSON, JACK</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D61038F936A25751C0A965958260" item-length="493" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dance in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Ballet Builders'  Marymount Manhattan Theater</p>
+      </block>
+      <block class="full_text">
+        <p>'Ballet Builders'  Marymount Manhattan Theater</p>
+        <p>A program called "Ballet Builders" put neatly designed choreographic structures on display on Thursday night. The event was sponsored by New Choreographers on Point, an organization directed by Michael Kraus and Ruth Chester that encourages the production of new ballets.</p>
+        <p>The evening's choreographers assembled steps efficiently enough, and their works were performed by well-trained dancers. Nevertheless, several choreographers appeared to be more interested in the purely visual appeal of their compositions than in what those creations intellectually or emotionally could reveal. The ballets thereby resembled attractive facades with little behind them.</p>
+        <p>Paul Estabrook at least bewitched the eye with his "Untitled VII." As two women imperturbably arranged bouquets, three couples danced identical steps to recorded music by Arvo Part. The choreography was cool and mysterious from beginning to end.</p>
+        <p>In "The Sketches," Kathryn Moriarty and Dean Dufford portrayed two bored people who squabbled to music by Ron Fein. The bickerings would have been more compelling if George Nunes, the choreographer, had suggested why these malcontents were so perturbed.</p>
+        <p>Other ballets were more impressive for their concept than for their details. The most unusual of these was James Martin's "Muse Untied," in which Paul Sutherland was required to be a musician as well as a dancer. It began with Mr. Sutherland standing pensively beside a piano while Juliet Burrows danced in silence until her presence inspired him to sit down and play Debussy's "Sarabande." When he rose to partner her, which he did several times, the music continued on tape. Although the basic choreographic idea was imaginative, the steps never quite conveyed the intensity of the couple's feelings.</p>
+        <p>Keith Michael's "Ante Meridian" featured alliterative nonsense poems by Ilsa Gilbert, recited by Stephanie Myszak and Michael Schilke, and piano music by Nicholas Scarim, played on stage by Mimi Stern-Wolfe. These whimsies accompanied a pas de deux for Mr. Michael and Linda Lutzai that took classical ballet's emphasis upon verticality to a deliberately ludicrous extreme. Up and down the dancers kept going. Although some of their exertions were merely stilted, the preposterousness of many sequences became genuinely comic.</p>
+        <p>All six choreographers deserve praise for selecting challenging music. Yet on occasion the music overpowered the dancing. The pleasant entwinings Paul Abrahamson devised for himself, April Ball and Fara Scuilli in "Strauss Songs" failed to equal the lushness of the accompanying pieces by Richard Strauss.</p>
+        <p>A pas de deux for Valerie Madonia and Adam Sklute in which arms served as knives and legs turned into spikes was a highlight of Mr. Kraus's "Black Angels." But much of the rest of the ballet paled in comparison with the strange throbs, buzzings and drones of its score by George Crumb.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

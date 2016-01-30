@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  EISENSTAT, BONNIE</title>
+    <meta content="DN060102" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1396972"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">EISENSTAT, BONNIE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EEDB153AF932A35755C0A9649C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  EISENSTAT, BONNIE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EISENSTAT-Bonnie. Suddenly on May 30, 2002. Beloved wife of Mark, devoted mother of Stephanie and Nicole, loving daughter of Natalie and Stephen Gross, sister of Andrew Gross (Ann), cherished aunt, and caring friend to many. Services on Sunday 11:30 A.M. at Gutterman's Inc., 175 Long Beach Road, Rockville Centre, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>EISENSTAT-Bonnie. Suddenly on May 30, 2002. Beloved wife of Mark, devoted mother of Stephanie and Nicole, loving daughter of Natalie and Stephen Gross, sister of Andrew Gross (Ann), cherished aunt, and caring friend to many. Services on Sunday 11:30 A.M. at Gutterman's Inc., 175 Long Beach Road, Rockville Centre, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

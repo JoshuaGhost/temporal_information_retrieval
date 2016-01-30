@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   DREYFUSS, RALPH F.</title>
+    <meta content="DN090104" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1608376"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">DREYFUSS, RALPH F.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3DC1531F932A3575AC0A9629C8B63" item-length="48" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   DREYFUSS, RALPH F.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DREYFUSS--Ralph F., on August 30, 2004. Beloved husband and best friend of Helen. Wonderful father to Michele Sherrill, Jamie Dreyfuss and Madeleine Schnell. Special Grandpapa to Philip, Teddy, Emily, Isaac, Jordana, Justin, Amanda and Casey. Services Wednesday 11:15 AM at ''The Riverside,'' 76th St. and Amsterdam Ave.</p>
+      </block>
+      <block class="full_text">
+        <p>DREYFUSS--Ralph F., on August 30, 2004. Beloved husband and best friend of Helen. Wonderful father to Michele Sherrill, Jamie Dreyfuss and Madeleine Schnell. Special Grandpapa to Philip, Teddy, Emily, Isaac, Jordana, Justin, Amanda and Casey. Services Wednesday 11:15 AM at ''The Riverside,'' 76th St. and Amsterdam Ave.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

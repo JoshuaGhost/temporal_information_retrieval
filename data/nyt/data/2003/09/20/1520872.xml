@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Life as a Cheerleader On Theater's Fast Lane</title>
+    <meta content="20NAME" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/09/20/arts/theater/20NAME.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1520872"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="THEATER REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Van Gelder, Lawrence</person>
+        <person class="indexing_service">Rothenberg, David</person>
+        <person class="indexing_service">Kurtz, Marcia Jean</person>
+        <object.title class="indexing_service">Namedropping (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <org class="online_producer">Mint Theater Co</org>
+        <person class="online_producer">Rothenberg, David</person>
+        <object.title class="online_producer">Namedropping (Play)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DF103AF933A1575AC0A9659C8B63" item-length="480" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Life as a Cheerleader On Theater's Fast Lane</hl1>
+        <hl2 class="online_headline">A Life as a Cheerleader on Theater's Fast Lane</hl2>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+      <byline class="normalized_byline">Van Gelder, Lawrence</byline>
+      <abstract>
+        <p>Lawrence Van Gelder reviews one-man play Namedropping by David Rothenberg, directed by Marcia Jean Kurtz (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Namedropping'' lives up to its title.</p>
+        <p>In this amiable, unassuming one-man show, playing on Sunday nights at 7 at the Mint Theater, 311 West 43rd Street, David Rothenberg, a longtime theatrical press agent, reminisces about life among the stars.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In this amiable, unassuming one-man show, David Rothenberg, a longtime theatrical press agent, reminisces about life among the stars.</p>
+      </block>
+      <block class="full_text">
+        <p>''Namedropping'' lives up to its title.</p>
+        <p>In this amiable, unassuming one-man show, playing on Sunday nights at 7 at the Mint Theater, 311 West 43rd Street, David Rothenberg, a longtime theatrical press agent, reminisces about life among the stars.</p>
+        <p>As a child, he sought autographs from George Raft and Stan Musial at the Polo Grounds. When he grew older, his careers kept him among show business luminaries (those careers include 18 years as the executive director of the Fortune Society, a group he founded to help former prisoners after producing John Herbert's prison drama, ''Fortune and Men's Eyes'').</p>
+        <p>But as he sits on a stool, takes an occasional sip of water and supports his accounts by holding up photographs, Mr. Rothenberg is quick to make clear that associating with stars does not make one a star.</p>
+        <p>''You're not in their orbit,'' he says before telling how Joan Fontaine showed not a hint of recognition in New York two weeks after he spent a season having breakfast, lunch and dinner with her as he took her for interviews at newspapers, television stations and the state fair while she was appearing in summer stock in Maine.</p>
+        <p>Or how, after he spent weeks with Tennessee Williams during the production of ''Slapstick Tragedy,'' Williams said to him, ''I know I know you, but from where?''</p>
+        <p>Mr. Rothenberg tells stories like these in a low-key, conversational, good-humored way, and even when dealing with famous names he clearly dislikes (Lauren Bacall) or considers absolutely weird (Charles Laughton and Elsa Lanchester), he is never mean-spirited. Among his many favorites are Bette Davis, Elizabeth Taylor, John Gielgud and Peggy Lee, who sang ''Spring Will Be a Little Late This Year'' to him as he lay in bed. (He was in New York; she, in California.) He tells about the night he was Ms. Taylor's date; the dinner when his three table companions were Judy Garland, Vivien Leigh and Margot Fonteyn; why a lunch with Charles Boyer earned him a regular prime table at Sardi's; and how he came to be present when his friend Alvin Ailey, saying ''I'm creating something from the Bible,'' choreographed his great ''Revelations.''</p>
+        <p>''Namedropping,'' directed by Marcia Jean Kurtz, delivers revealing anecdotes, too, about Richard Burton, Fay Wray, Mel Tormé, the producer Alexander H. Cohen, and George C. Scott, a generous benefactor of the Fortune Society.</p>
+        <p>Anyone who likes show business stories should enjoy this modest show. Like the stars he talks about, Mr. Rothenberg has a way with an audience. He doesn't wear out his welcome.</p>
+        <p>THEATER REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

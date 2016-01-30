@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="706506"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7D81030F935A2575BC0A962958260" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KNOGO CORP., Hauppauge, L.I., an electronic anti-pilferage and security devices concern, has agreed to the acquisition by Sensormatic Electronics Corp., Deerfield Beach, Fla., an electronic surveillance equipment concern, in a merger transaction through which Knogo's shareholders will receive $19 a share in Sensormatic stock and shares of a new corporation, Knogo North America Inc., consisting of Knogo's North American operations.</p>
+      </block>
+      <block class="full_text">
+        <p>KNOGO CORP., Hauppauge, L.I., an electronic anti-pilferage and security devices concern, has agreed to the acquisition by Sensormatic Electronics Corp., Deerfield Beach, Fla., an electronic surveillance equipment concern, in a merger transaction through which Knogo's shareholders will receive $19 a share in Sensormatic stock and shares of a new corporation, Knogo North America Inc., consisting of Knogo's North American operations.</p>
+        <p>THOMAS COOK GROUP LTD., Princeton, N.J. the travel and financial services concern, announced an agreement with Barclays Bank P.L.C., a subsidiary of Barclays P.L.C., London, to acquire Interpayment Services Ltd., their traveler's check subsidiary. Terms of the deal were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

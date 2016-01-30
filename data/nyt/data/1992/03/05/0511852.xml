@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>President Is Appointed For a New Schwab Unit</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="511852"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="BUSINESS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">SCHWAB, CHARLES, CORP</org>
+        <org class="indexing_service">SCHWAB, CHARLES, CORP</org>
+        <person class="indexing_service">FISHER, LAWRENCE M</person>
+        <person class="indexing_service">ROWEN, HARVEY A</person>
+        <object.title class="indexing_service">BUSINESS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920305T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DB103FF936A35750C0A964958260" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>President Is Appointed For a New Schwab Unit</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">FISHER, LAWRENCE M</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Charles Schwab Corporation announced the opening yesterday of the Charles Schwab Trust Company, and named Harvey A. Rowen president and chief executive. Based in San Francisco, Charles Schwab is the nation's largest discount brokerage firm.</p>
+        <p>"The Trust Company is a requested extension to the services our affiliated discount broker now provides to 3,000 independent financial advisers who manage over 83,000 client accounts at Schwab nationwide," said Mr. Rowen, the former chairman of the trust committee of the Merrill Lynch Trust Company. Neither the advisers nor Schwab, as a dealer-broker, are allowed to provide trust services, which include holding assets and require that a company be chartered as a limited-purpose bank.</p>
+      </block>
+      <block class="full_text">
+        <p>The Charles Schwab Corporation announced the opening yesterday of the Charles Schwab Trust Company, and named Harvey A. Rowen president and chief executive. Based in San Francisco, Charles Schwab is the nation's largest discount brokerage firm.</p>
+        <p>"The Trust Company is a requested extension to the services our affiliated discount broker now provides to 3,000 independent financial advisers who manage over 83,000 client accounts at Schwab nationwide," said Mr. Rowen, the former chairman of the trust committee of the Merrill Lynch Trust Company. Neither the advisers nor Schwab, as a dealer-broker, are allowed to provide trust services, which include holding assets and require that a company be chartered as a limited-purpose bank.</p>
+        <p>"Advisers have requested trust services for many of their clients, and we believe high-quality custody and trust services, matched with Schwab's competitive cost structure, will be very attractive," said Mr. Rowen, who is 48. Although trust companies are allowed to manage portfolios, Schwab does not currently intend to offer that service, he said.</p>
+        <p>As a provider of custody services and as a trustee, the Trust Company will hold assets in safekeeping, manage record-keeping and customer tax reporting, settle trades made by client financial advisers, make distributions to client accounts and place orders for securities through the brokerage affiliate.</p>
+        <p>Mr. Rowen joined Merrill Lynch in 1977. Before becoming chairman of the trust committee, he was president of the Merrill Lynch Bank and Trust Company, a Federally insured bank engaged in private banking. He joined Merrill Lynch from the Stanford Research Institute, where he helped develop the Cash Management Account, a type of account now widely used by trust companies. Before that, he worked in Washington with the Securities and Exchange Commission and as counsel to the House Energy and Commerce Committee.</p>
+        <p>Raised in California, Mr. Rowen received his law degree from the University of California at Berkeley, and his B.S. in accounting from the University of California at Los Angeles. He also holds an M.B.A. degree in finance from New York University. For his new job, he will be moving from New York to the San Francisco area.</p>
+        <p>BUSINESS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

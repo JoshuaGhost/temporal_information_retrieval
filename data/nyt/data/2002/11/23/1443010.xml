@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>International Briefs | Europe: Belgium: Bank Posts Loss</title>
+    <meta content="MB235626" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1443010"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EED61339F930A15752C1A9649C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>International Briefs | Europe: Belgium: Bank Posts Loss</hl1>
+      </hedline>
+      <byline class="print_byline">By Paul Meller (NYT)</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fortis, the DutchBelgian banking and insurance group, posted a worse-than-expected third-quarter loss of 1.61 billion euros. Anton van Rossum, left, the chairman, said that next year would also be difficult. ''The recovery is frustratingly slow,'' he said, adding that Fortis did not see a solid recovery until 2004. Weak stock prices in the quarter cost the bank 2 billion euros, it said, adding that the recent rebound in share prices has alleviated that loss. On Nov. 15, it was calculated at 1.5 billion euros.</p>
+        <p>Paul Meller (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Fortis, the DutchBelgian banking and insurance group, posted a worse-than-expected third-quarter loss of 1.61 billion euros. Anton van Rossum, left, the chairman, said that next year would also be difficult. ''The recovery is frustratingly slow,'' he said, adding that Fortis did not see a solid recovery until 2004. Weak stock prices in the quarter cost the bank 2 billion euros, it said, adding that the recent rebound in share prices has alleviated that loss. On Nov. 15, it was calculated at 1.5 billion euros.</p>
+        <p>Paul Meller (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

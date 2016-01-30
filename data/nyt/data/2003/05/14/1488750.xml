@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="14OFF.$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/14/dining/14OFF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1488750"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="Off the Menu"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Terre (NYC Restaurant)</org>
+        <org class="indexing_service">Dumonet (NYC Restaurant)</org>
+        <org class="indexing_service">Carlyle Hotel (NYC)</org>
+        <org class="indexing_service">Dumonet (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Delouvrier, Christian</person>
+        <person class="indexing_service">Dumonet, Jean-Louis</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <location class="online_producer">New York City</location>
+        <person class="online_producer">Delouvrier, Christian</person>
+        <person class="online_producer">Dumonet, Jean-Louis</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDE113FF937A25756C0A9659C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+        <hl2 class="online_headline">A Chef on the Double</hl2>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Chef Christian Delouvrier, formerly of Lespinasse, plans two restaurants, Terre, to open this summer, and Delluvrier, to open in fall; restaurant in Carlyle Hotel is renamed Dumonet, for executive chef Jean-Louis Dumonet (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Chef on the Double</p>
+        <p>It's been only a few weeks since Lespinasse, the restaurant in the St. Regis, closed, but its chef, Christian Delouvrier, has not wasted time. He has plans for two restaurants, one a country-style place, Terre, to open this summer at 861 Washington Street (14th Street), where he will serve terrines and rotisserie meats. In the fall he plans to open Delouvrier, 150 East 50th Street, with a more high-end menu, including food from southwestern France.</p>
+        <p>In New Guises</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It's been only a few weeks since Lespinasse, the restaurant in the St. Regis, closed, but its chef, Christian Delouvrier, has not wasted time.</p>
+      </block>
+      <block class="full_text">
+        <p>A Chef on the Double</p>
+        <p>It's been only a few weeks since Lespinasse, the restaurant in the St. Regis, closed, but its chef, Christian Delouvrier, has not wasted time. He has plans for two restaurants, one a country-style place, Terre, to open this summer at 861 Washington Street (14th Street), where he will serve terrines and rotisserie meats. In the fall he plans to open Delouvrier, 150 East 50th Street, with a more high-end menu, including food from southwestern France.</p>
+        <p>In New Guises</p>
+        <p>The restaurant in the Carlyle Hotel has been renamed Dumonet, for the executive chef, Jean-Louis Dumonet. The menu is à la carte, with appetizers mostly $14, main dishes $36, a plat du jour at $32 and side dishes, $8.</p>
+        <p>The Monkey Bar, 60 East 54th Street, has been turned into Steakhouse at Monkey Bar, with a $20 ''cut of the night'' at dinner.</p>
+        <p>Short Orders</p>
+        <p>Nook, an appropriately named new cafe at 746 Ninth Avenue (50th Street), has sandwiches, salads and main dishes that wander the globe.</p>
+        <p>Snack Bar, a new spot at 111 West 17th Street, serves breakfast, lunch and dinner.</p>
+        <p>Della Femina, 131 East 54th Street, has closed.</p>
+        <p>Luna Park in Union Square hires a different chef each season. At the stove right now is Joey Fortunato, previously of the Tonic.</p>
+        <p>Off the Menu</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

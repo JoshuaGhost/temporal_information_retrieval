@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>There's Still Some Flab In the Dow</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="488998"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="MARKET WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">STOCKS AND BONDS</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCK PRICES AND TRADING VOLUME</classifier>
+        <org class="indexing_service">NEW YORK STOCK EXCHANGE</org>
+        <person class="indexing_service">MYERSON, ALLEN R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Gretchen Morgenson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEFD61739F937A15752C1A967958260" item-length="491" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>There's Still Some Flab In the Dow</hl1>
+      </hedline>
+      <byline class="print_byline">By Allen R. Myerson</byline>
+      <byline class="normalized_byline">MYERSON, ALLEN R</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even for Laszlo Birinyi's consulting firm, which watches historical trends as closely as anyone, it took a while to figure out that the Dow's 120-point drop Friday a week ago was only the 134th-largest percentage decline in the history of that index. But if the Nov. 15 squall presaged no hurricane, neither did fair weather return. With the economic outlook still dark, the market fell another 40 points to 2,902 by week's end.</p>
+        <p>In recent years, sharp drops like the Nov. 15 one have presented buying opportunities. But so far, the brave souls have held back. Some analysts think it's simple: even after the drop, stocks are still pricey. And, as the Birinyi Associates research implies, a 3.9 percent drop, although painful, is just not all that huge. Remember that the Dow dropped 22.6 percent in the 1987 crash, 6.9 percent in October 1989.</p>
+      </block>
+      <block class="full_text">
+        <p>Even for Laszlo Birinyi's consulting firm, which watches historical trends as closely as anyone, it took a while to figure out that the Dow's 120-point drop Friday a week ago was only the 134th-largest percentage decline in the history of that index. But if the Nov. 15 squall presaged no hurricane, neither did fair weather return. With the economic outlook still dark, the market fell another 40 points to 2,902 by week's end.</p>
+        <p>In recent years, sharp drops like the Nov. 15 one have presented buying opportunities. But so far, the brave souls have held back. Some analysts think it's simple: even after the drop, stocks are still pricey. And, as the Birinyi Associates research implies, a 3.9 percent drop, although painful, is just not all that huge. Remember that the Dow dropped 22.6 percent in the 1987 crash, 6.9 percent in October 1989.</p>
+        <p>The worst days in recent years have brought price-earnings ratios down to at least moderate levels -- 16 after the crash of 1987, 14 after the 190-point drop in 1989. But last week, it seems, the bargain-hunters never went shopping because bargains were few. A Standard and Poor's 500 that many regarded as overpriced at 20 times earnings before the drop was still no bargain at more than 19 times earnings on Friday.</p>
+        <p>Short-term interest rates, a crutch for a market that would otherwise be immobilized by weak earnings, fell again last week. But James Grant's a newsletter on interest rates, emphasized two more ominous signs:</p>
+        <p>First, the dollar continued its decline, reflecting and possibly aggravating the withdrawal of foreign investors from American markets. Second, the flight to the safety of Treasury securities, expected after a sharp stock decline, was confined to shorter maturities; bond yields actually rose. Wall Street loves Republican Presidents, but Mr. Grant fears George Bush will embark on an inflationary course to revive the economy before the election -- corroding the value of stocks and bonds.</p>
+        <p>After months of placid gains, the suddenness of the decline a week ago was actually more remarkable than its size. For all the talk about program trading, the markets are only slightly more jumpy than in recent decades. "Volatility has gone up somewhat, but not as much as the public perception," said Burton G. Malkiel of Princeton University.</p>
+        <p>Panics do occur, he added, and stocks tend to fall more abruptly than they rise. The Dow has had one-day drops of more than 100 points seven times, but has risen that much only three times. The more-frequent plunges represent virtually the only sensible occasions for a buyer to try to time the market, Mr. Malkiel said. But not this time around. "I don't think this was much of a decline," he said.</p>
+        <p>The Nov. 15 drop was, perhaps, underdone, not overdone -- smaller in percentage than dozens of movements now forgotten. These days, the fifth-largest point decline in history turns out to be not so historic after all.  MARKET WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

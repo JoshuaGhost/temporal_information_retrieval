@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALLY?</title>
+    <meta content="04REAL$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/01/04/health/04real.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1639375"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Really?"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lightning</classifier>
+        <classifier class="indexing_service" type="descriptor">Electrocutions</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Really?</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="descriptor">Lightning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lightning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDC1239F937A35752C0A9639C8B63" item-length="266" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALLY?</hl1>
+        <hl2 class="online_headline">The Claim: Never Talk on the Telephone During a Thunderstorm</hl2>
+      </hedline>
+      <byline class="print_byline">By ANAHAD O'CONNOR</byline>
+      <abstract>
+        <p>In rare instances lightning can travel through telephone lines and cause electrocution; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE CLAIM -- Never talk on the telephone during a thunderstorm.</p>
+        <p>THE FACTS -- It's been around so long that few people take it seriously. But the claim that chatting on the phone in a thunderstorm can electrocute you is no urban legend. A bolt of lightning that strikes a telephone line can cause an electrical surge to shoot through the wires and enter a handset.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A bolt of lightning that strikes a telephone line can cause an electrical surge to shoot through the wires and enter a handset, but the odds are small.</p>
+      </block>
+      <block class="full_text">
+        <p>THE CLAIM -- Never talk on the telephone during a thunderstorm.</p>
+        <p>THE FACTS -- It's been around so long that few people take it seriously. But the claim that chatting on the phone in a thunderstorm can electrocute you is no urban legend. A bolt of lightning that strikes a telephone line can cause an electrical surge to shoot through the wires and enter a handset.</p>
+        <p>The odds of this are relatively small, and most phone companies have protective measures in place. Still, the risk exists, and the National Oceanic and Atmospheric Administration recommends that people avoid using telephones and other appliances during electrical storms.</p>
+        <p>Cases of customers' being jolted while on the phone in a storm are well documented. A few have even died. In 1985, for example, a teenager in New Jersey was killed when lightning caused an electrical surge to flow through his telephone wire, enter his ear and stop his heart. Similar incidents have been reported.</p>
+        <p>But what about cellular phones? Because the danger comes from lightning traveling through outdoor wiring, cordless and cellular phones are generally safe. Use them outside during a storm, however, and they become a hazard like any other metal object.</p>
+        <p>THE BOTTOM LINE -- Very occasionally, lightning can travel through telephone lines and cause electrocution.</p>
+        <p>ANAHAD O'CONNOR</p>
+        <p>Really?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

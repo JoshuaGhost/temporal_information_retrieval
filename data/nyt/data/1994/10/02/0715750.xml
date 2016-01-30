@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Car Kills Pedestrian, 60</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="715750"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <person class="indexing_service">CORNETTA, MICHAEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DD173DF931A35753C1A962958260" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Car Kills Pedestrian, 60</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A 60-year-old woman was struck and killed in Queens last night by a car whose driver had an invalid license with multiple suspensions, the police said.</p>
+        <p>The woman, who was not identified, was killed instantly when the car struck her at an intersection in Flushing, said Sgt. John McCluskey, a Police Department spokesman.</p>
+      </block>
+      <block class="full_text">
+        <p>A 60-year-old woman was struck and killed in Queens last night by a car whose driver had an invalid license with multiple suspensions, the police said.</p>
+        <p>The woman, who was not identified, was killed instantly when the car struck her at an intersection in Flushing, said Sgt. John McCluskey, a Police Department spokesman.</p>
+        <p>The 24-year-old driver, Michael Cornetta of 189-12 43d Avenue, was charged with driving with a suspended license, the sergeant said. His license had been suspended on four separate occasions, but it was not clear what the suspensions were for.</p>
+        <p>The accident occurred shortly after 7 P.M. on 46th Avenue and Utopia Parkway, a busy intersection near a neighborhood shopping strip. Mr. Cornetta's 1970 Buick was traveling eastbound on 46th Avenue when the incident occurred.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Presidential Stone Walls</title>
+    <meta content="17sun2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/06/17/opinion/17sun2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1855226"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="descriptor">Executive Orders</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executive Orders</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1D7153FF934A25755C0A9619C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Presidential Stone Walls</hl1>
+        <hl2 class="online_headline">Presidential Stone Walls</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The template for the Bush administration's mania for secrecy was signed by the president six years ago -- Executive Order 13233, reversing the presumption of right of public access to presidential papers. This basic right of taxpayers and historians alike was embedded in the 1978 laws enacted after the Nixon administration. The reforms established a reasonable 12-year waiting period for access. But Mr. Bush's reversal lets presidents or vice presidents (guess who?) keep their records sealed in perpetuity unless they or their heirs approve access.</p>
+        <p>Fortunately, Congress is in the process of demonstrating that such hermetic devotion to secrecy has no place in a democracy. Mr. Bush's order would be rescinded by a proposal approved overwhelmingly in the House in March and now making its way to passage in the Senate. The White House, of course, is vowing to veto any final bill. So it is important that the Senate re-establish the public's obvious right to historical transparency with the same veto-proof support achieved in the House.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Hiding secrets and embarrassments may be a predictable part of a politician’s instinct for survival. But attempting to enshrine this instinct timelessly is a stain on the Constitution and an insult to history.</p>
+      </block>
+      <block class="full_text">
+        <p>The template for the Bush administration's mania for secrecy was signed by the president six years ago -- Executive Order 13233, reversing the presumption of right of public access to presidential papers. This basic right of taxpayers and historians alike was embedded in the 1978 laws enacted after the Nixon administration. The reforms established a reasonable 12-year waiting period for access. But Mr. Bush's reversal lets presidents or vice presidents (guess who?) keep their records sealed in perpetuity unless they or their heirs approve access.</p>
+        <p>Fortunately, Congress is in the process of demonstrating that such hermetic devotion to secrecy has no place in a democracy. Mr. Bush's order would be rescinded by a proposal approved overwhelmingly in the House in March and now making its way to passage in the Senate. The White House, of course, is vowing to veto any final bill. So it is important that the Senate re-establish the public's obvious right to historical transparency with the same veto-proof support achieved in the House.</p>
+        <p>Otherwise, Mr. Bush's dictum will stand, with no explanation required for denying requests, nor any appeal allowed. The executive order leaves a costly, lengthy lawsuit as Americans' only avenue of possible redress.</p>
+        <p>Hiding secrets and embarrassments may be a predictable part of a politician's instinct for survival. But attempting to enshrine this instinct timelessly is a stain on the Constitution and an insult to history. The administration insists that only 64 of more than two million pages have been sealed thus far. They would be a good place to start reading once Congress re-establishes the public's right to know.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

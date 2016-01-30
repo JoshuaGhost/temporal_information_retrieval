@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="PEOPLE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA" name="column_name"/>
+    <docdata>
+      <doc-id id-string="934419"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DB123DF930A35755C0A961958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* John Nardone, director for media and research services at Modem Media, Westport, Conn., a unit of True North Communications, was named to the additional duties of managing director at Modem Media New York, formerly named Northern Lights Interactive. He succeeds John Adams, who resigned. Also, Sean Connolly, managing director at Northern Lights Interactive, Hong Kong, becomes managing director of the renamed Modem Media Hong Kong.</p>
+      </block>
+      <block class="full_text">
+        <p>* John Nardone, director for media and research services at Modem Media, Westport, Conn., a unit of True North Communications, was named to the additional duties of managing director at Modem Media New York, formerly named Northern Lights Interactive. He succeeds John Adams, who resigned. Also, Sean Connolly, managing director at Northern Lights Interactive, Hong Kong, becomes managing director of the renamed Modem Media Hong Kong.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

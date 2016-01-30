@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Unit For Merrill</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="486520"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <org class="indexing_service">MERRILL LYNCH &amp; CO</org>
+        <org class="indexing_service">MERRILL LYNCH DERIVATIVE PRODUCTS</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19911112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3DC143EF931A25752C1A967958260" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Unit For Merrill</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Merrill Lynch &amp; Company yesterday announced that it was forming a new subsidiary to engage in the complex swaps business with large clients, including foreign countries and Government agencies.</p>
+        <p>Swaps transactions are used to adjust the currency rate, interest rate or other characteristics of a security. They involve a promise to make certain payments for up to seven years, so only those with the best credit ratings can participate.</p>
+      </block>
+      <block class="full_text">
+        <p>Merrill Lynch &amp; Company yesterday announced that it was forming a new subsidiary to engage in the complex swaps business with large clients, including foreign countries and Government agencies.</p>
+        <p>Swaps transactions are used to adjust the currency rate, interest rate or other characteristics of a security. They involve a promise to make certain payments for up to seven years, so only those with the best credit ratings can participate.</p>
+        <p>While Merrill Lynch already has a division in the swaps business, it does not have the high rating that the largest customers demand.</p>
+        <p>But the developers of the new subsidiary, called Merril Lynch Derivative Products, have structured it in coordination with Moody's Investors Service to obtain a triple-A credit rating. Such a high rating should attract the larger clients, Merrill Lynch executives said.</p>
+        <p>"It is clear that credit is very important in big parts of the derivative swap market," said Edson V. Mitchell, chairman of Merrill Lynch Derivative Products. "There are a lot of people who would like to do business with us but cannot because we did not have a triple-A entity."</p>
+        <p>Mr. Mitchell said Merrill Lynch Capital Services, which developed the company's swaps business, would continue to handle the swaps transactions of its current customers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

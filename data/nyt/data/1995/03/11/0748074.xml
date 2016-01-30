@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="748074"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <person class="indexing_service">SOLOMON, PEGGY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D8163DF932A25750C0A963958260" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Half a century ago the Philadelphia area had a group of outstanding players who were consistently prominent in national championships: B. Jay Becker, John Crawford, Charles Goren, Olive Peterson, Sidney Silodor, Charles Solomon, Peggy Solomon and Sally Young. The last survivor was Peggy Solomon, who died a week ago at the age of 86.</p>
+        <p>Her great year was 1944, when she won the National Board-a-Match Teams and was a runner-up in the Spingold Knockout Teams. She became Life Master No. 33, and the third woman to attain that title, then far more prestigious than it is now. In a long playing career, which included international appearances, she won 8 other national titles and finished second on 13 other occasions.</p>
+      </block>
+      <block class="full_text">
+        <p>Half a century ago the Philadelphia area had a group of outstanding players who were consistently prominent in national championships: B. Jay Becker, John Crawford, Charles Goren, Olive Peterson, Sidney Silodor, Charles Solomon, Peggy Solomon and Sally Young. The last survivor was Peggy Solomon, who died a week ago at the age of 86.</p>
+        <p>Her great year was 1944, when she won the National Board-a-Match Teams and was a runner-up in the Spingold Knockout Teams. She became Life Master No. 33, and the third woman to attain that title, then far more prestigious than it is now. In a long playing career, which included international appearances, she won 8 other national titles and finished second on 13 other occasions.</p>
+        <p>Mrs. Solomon's father, Jules Mastbaum, collected Rodin sculpture, built a museum to house it and presented everything to the City of Philadelphia. She was twice the first lady of the American Contract Bridge League: Her first husband, Benjamin Golder, was president in 1946, and her second, Charles Solomon, filled the same office in 1958 and was later president of the World Bridge Federation.</p>
+        <p>On the diagramed deal, played three decades ago in a National Women's Pairs in Toronto, Mrs. Solomon held the West cards and led a heart against three no-trump. Her partner gave a mild signal by dropping the six under dummy's ace, and South led the club jack. Her finesse lost to the queen, and South was on the way to using the club suit and making nine tricks.</p>
+        <p>But West threw a monkey wrench into the works by shifting to the spade king, attacking South's vital link to the dummy. South took the ace, and could not find a way to make nine tricks. The best chance was to allow the spade king to win, and unblock the queen from the closed hand.</p>
+        <p>West would then have led another spade, and South could have finessed the nine successfully. East would then have held up the club ace until the third round of the suit and returned a low heart. South would then have had no way to reach the dummy and would fail in her contract. She would have succeeded if Mrs. Solomon had led anything but the spade king at the third trick.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

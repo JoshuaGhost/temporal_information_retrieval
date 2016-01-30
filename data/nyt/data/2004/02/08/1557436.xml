@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="08TRAN$12" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1557436"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E0DD163AF93BA35751C0A9629C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Sports transactions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  MIAMI HEAT--Activated F Rasual Butler from the injured list. Placed C Wang Zhi-Zhi on the injured list.</p>
+      </block>
+      <block class="full_text">
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  MIAMI HEAT--Activated F Rasual Butler from the injured list. Placed C Wang Zhi-Zhi on the injured list.</p>
+        <p>COLLEGE</p>
+        <p>FLORIDA A&amp;M--Announced the resignation of J.R.E. Lee III, interim athletic director.  MISSISSIPPI STATE--Agreed to terms with Rick Stansbury, men's basketball coach, on a four-year contract extension through 2007-08 season.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

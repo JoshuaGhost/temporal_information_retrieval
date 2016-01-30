@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   LIMATO, FRANK</title>
+    <meta content="DN031404" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1566513"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">LIMATO, FRANK</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2DC1F3EF937A25750C0A9629C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   LIMATO, FRANK</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIMATO -- Frank. Beloved father of agent Ed Limato died on March 10, 2004. He was 94. He is survived by his wife of 77 years, Angelina. Friends may call the funeral home on Friday, Saturday, and Sunday from 4-8pm. A Mass of Christian Burial will be held on Monday March 15th at St. Peter and Paul Church at 11AM. In lieu of flowers, donations can be made to St. Peter and Paul Church in memory of Mr. Frank Limato: St. Peter and Paul Church, 129 East Birch St, Mount Vernon, NY 10552. 914-668-9815.</p>
+      </block>
+      <block class="full_text">
+        <p>LIMATO -- Frank. Beloved father of agent Ed Limato died on March 10, 2004. He was 94. He is survived by his wife of 77 years, Angelina. Friends may call the funeral home on Friday, Saturday, and Sunday from 4-8pm. A Mass of Christian Burial will be held on Monday March 15th at St. Peter and Paul Church at 11AM. In lieu of flowers, donations can be made to St. Peter and Paul Church in memory of Mr. Frank Limato: St. Peter and Paul Church, 129 East Birch St, Mount Vernon, NY 10552. 914-668-9815.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

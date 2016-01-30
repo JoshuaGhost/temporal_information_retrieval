@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Learning to Love A Place Called Brooklyn</title>
+    <meta content="LTR010222" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1580422"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <location class="indexing_service">Brooklyn (NYC)</location>
+        <org class="indexing_service">Brooklyn Botanic Garden</org>
+        <person class="indexing_service">Laney, Nancy R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFD9143CF93AA35756C0A9629C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Learning to Love A Place Called Brooklyn</hl1>
+      </hedline>
+      <abstract>
+        <p>Tucson Botanical Gardens director Nancy R Laney letter on April 25 Coping column praises Brooklyn and Brooklyn Botanic Garden</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Couple Who Saved Park Slope'' (Coping, April 25), about the efforts of Evelyn and Everett Ortner to attract new residents to brownstone Brooklyn: Like many tourists, I was largely unaware of the borough's allure. But I got the opportunity to experience Brooklyn with Don Moore, the former president of the Brooklyn Botanic Garden and the Brooklyn Chamber of Commerce. Thanks to him and his wife, Sue, I saw a part of New York filled with real neighborhoods that were discovering themselves anew.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Couple Who Saved Park Slope'' (Coping, April 25), about the efforts of Evelyn and Everett Ortner to attract new residents to brownstone Brooklyn: Like many tourists, I was largely unaware of the borough's allure. But I got the opportunity to experience Brooklyn with Don Moore, the former president of the Brooklyn Botanic Garden and the Brooklyn Chamber of Commerce. Thanks to him and his wife, Sue, I saw a part of New York filled with real neighborhoods that were discovering themselves anew.</p>
+        <p>Mr. Moore had arranged for Evelyn Ortner, a docent of the Brooklyn Museum, to give our group a special tour, and thanks to her skills, I will never again view Egyptian statuary the same. But the best part of the experience was accompanying Mrs. Ortner back to the Park Slope brownstone she has shared with her husband for more than 40 years. It was like a living museum -- beautiful, engaging, inspiring and filled with life.</p>
+        <p>As a result, I have become a loyal fan of Brooklyn as a tourist destination and a place to live.</p>
+        <p>NANCY R. LANEY  Director, Tucson Botanical Gardens</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

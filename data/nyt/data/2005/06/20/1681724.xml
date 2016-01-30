@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Help for Victims of Sexual Assault</title>
+    <meta content="20MON3$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/20/opinion/20mon3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1681724"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <org class="online_producer">Justice Department</org>
+        <person class="online_producer">Clinton, Hillary Rodham</person>
+        <person class="online_producer">Corzine, Jon</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDC123BF933A15755C0A9639C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Help for Victims of Sexual Assault</hl1>
+        <hl2 class="online_headline">Help for Victims of Sexual Assault</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial supports measure introduced by bipartisan group of lawmakers in Senate that would mandate that all hospitals receiving federal funds offer rape victims emergency contraception as matter of basic care; scores Food and Drug Administration for dawdling over this issue</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Of the 300,000 women who are sexually assaulted each year in this country, some 25,000 suffer the added trauma of finding they are pregnant as a result of the attack. Prompt administration of emergency contraceptives could prevent most of these unwanted pregnancies. Yet, a 2002 study found that most hospital emergency rooms do not routinely offer rape victims this safe and effective option.</p>
+        <p>The Justice Department could have helped ameliorate this problem last year when it issued voluntary medical and forensic guidelines for hospitals to follow in the treatment of rape victims. But emergency contraception got no mention as a possible option in the 141-page protocol. That is a cruel omission, and yet another instance of the Bush administration allowing right-wing religious groups to set national policy on issues that relate to women's reproductive health and rights.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Legislation is being introduced that would mandate that all hospitals receiving federal funds offer rape victims emergency contraception as a matter of basic care.</p>
+      </block>
+      <block class="full_text">
+        <p>Of the 300,000 women who are sexually assaulted each year in this country, some 25,000 suffer the added trauma of finding they are pregnant as a result of the attack. Prompt administration of emergency contraceptives could prevent most of these unwanted pregnancies. Yet, a 2002 study found that most hospital emergency rooms do not routinely offer rape victims this safe and effective option.</p>
+        <p>The Justice Department could have helped ameliorate this problem last year when it issued voluntary medical and forensic guidelines for hospitals to follow in the treatment of rape victims. But emergency contraception got no mention as a possible option in the 141-page protocol. That is a cruel omission, and yet another instance of the Bush administration allowing right-wing religious groups to set national policy on issues that relate to women's reproductive health and rights.</p>
+        <p>Looking to cut through the inertia and ideology, a bipartisan group of lawmakers last week introduced legislation that would mandate that all hospitals receiving federal funds offer rape victims emergency contraception as a matter of basic care. The measure, sponsored by Senators Hillary Rodham Clinton and Jon Corzine, both Democrats, and Olympia Snowe, a Republican, also includes provisions to ensure that women receive the necessary treatment for sexually transmitted diseases.</p>
+        <p>The Food and Drug Administration continues to dawdle over easing women's access to time-sensitive emergency contraception. We sincerely hope that Congress does not follow the F.D.A.'s lead. Rape victims deserve to be presented with all of the medical options available.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

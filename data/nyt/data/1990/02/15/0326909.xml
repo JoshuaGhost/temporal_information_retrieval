@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Currents;   The ABC's Of Interior Design</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="326909"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTERIOR DESIGN</classifier>
+        <org class="indexing_service">SCHOOL OF VISUAL ARTS (NYC)</org>
+        <person class="indexing_service">LOUIE, ELAINE</person>
+        <object.title class="indexing_service">CURRENTS (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900215T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DA173DF936A25751C0A966958260" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Currents;   The ABC's Of Interior Design</hl1>
+      </hedline>
+      <byline class="print_byline">by ELAINE LOUIE</byline>
+      <byline class="normalized_byline">LOUIE, ELAINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: ''THERE'S a clear misperception that the profession of interior design lacks intellectual rigor, and that it's synonymous with home decorating, so we're prepared to address that kind of criticism,'' said Mark Salmon, who will direct the first interior design program offered by the School of Visual Arts in Manhattan.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: ''THERE'S a clear misperception that the profession of interior design lacks intellectual rigor, and that it's synonymous with home decorating, so we're prepared to address that kind of criticism,'' said Mark Salmon, who will direct the first interior design program offered by the School of Visual Arts in Manhattan.</p>
+        <p>''THERE'S a clear misperception that the profession of interior design lacks intellectual rigor, and that it's synonymous with home decorating, so we're prepared to address that kind of criticism,'' said Mark Salmon, who will direct the first interior design program offered by the School of Visual Arts in Manhattan. The four-year program, which begins in September, leads to a Bachelor of Fine Arts degree.</p>
+        <p>The school joins such institutions as Pratt Institute, the Parsons School of Design, the New York School of Interior Design and the Fashion Institute of Technology, which offer degrees in interior design or related fields.</p>
+        <p>''While there is a decorative arts component to the profession, there's also a heavy emphasis on architectural knowledge, architectural skills, drafting ability and knowledge of building materials, systems and fire codes,'' Dr. Salmon said.</p>
+        <p>Freshmen will study the history of architecture and interiors, and will learn computer-aided drafting and design. There will also be courses in sociology, psychology and anthropology. During the last two years, students will study drafting, construction methods and mechanical systems. Tuition is $9,100 a year. For information, call 212-679-7350.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Christopher Hospitalized for Ulcer</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="745035"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HEALTH, PERSONAL</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <org class="indexing_service">STATE DEPARTMENT</org>
+        <person class="indexing_service">CHRISTOPHER, WARREN M (SEC)</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ulcers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DD123BF937A15751C0A963958260" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Christopher Hospitalized for Ulcer</hl1>
+      </hedline>
+      <dateline>OTTAWA, Feb. 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Secretary of State Warren Christopher was hospitalized tonight after falling ill with what doctors said was a small bleeding ulcer. The doctors said Mr. Christopher was otherwise healthy and would probably be released from the hospital on Friday.</p>
+        <p>The sudden illness forced the 69-year-old Secretary to miss a dinner given tonight by Prime Minister Jean Chretien. The State Department said that Mr. Christopher's appearances scheduled Friday as part of Mr. Clinton's visit would also canceled.</p>
+      </block>
+      <block class="full_text">
+        <p>Secretary of State Warren Christopher was hospitalized tonight after falling ill with what doctors said was a small bleeding ulcer. The doctors said Mr. Christopher was otherwise healthy and would probably be released from the hospital on Friday.</p>
+        <p>The sudden illness forced the 69-year-old Secretary to miss a dinner given tonight by Prime Minister Jean Chretien. The State Department said that Mr. Christopher's appearances scheduled Friday as part of Mr. Clinton's visit would also canceled.</p>
+        <p>Mr. Christopher asked to be taken to the hospital at about 6 P.M. after noticing blood in his stool, the doctors said at a briefing tonight at Ottawa Civic Hospital. They said they had discovered a small stomach ulcer after running a tube from his mouth into his abdomen.</p>
+        <p>Chris Carruthers, the hospital's vice president for medical affairs, said the doctors recommended that Mr. Christopher stay overnight as a precaution. He said that medication should allow the ulcer to heal within several weeks and that Mr. Chrisopher had been in no danger and was "fit as a fiddle."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hollywood -- Bush (Well, Not Exactly)</title>
+    <meta content="LTR234322" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1572000"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2004</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Tamblyn, Glenda</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040405T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE5DC1E39F936A35757C0A9629C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hollywood -- Bush (Well, Not Exactly)</hl1>
+      </hedline>
+      <abstract>
+        <p>Glenda Tamblyn letter on April 2 article hails television writers who attack Pres Bush's policies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Cheers to Hollywood for taking issues right to the living rooms of Middle America, the ones that are probably buying into the negative and downright false spin the Bush administration is putting on John Kerry (front page, April 2).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Cheers to Hollywood for taking issues right to the living rooms of Middle America, the ones that are probably buying into the negative and downright false spin the Bush administration is putting on John Kerry (front page, April 2).</p>
+        <p>All's fair in love, war and politics.</p>
+        <p>GLENDA TAMBLYN  Northridge, Calif., April 2, 2004</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

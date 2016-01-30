@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Heroic Boy and Two Outcomes to His Tale</title>
+    <meta content="11WEIL" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1190978"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Japan Society</org>
+        <person class="indexing_service">Griffiths, Paul</person>
+        <person class="indexing_service">Brecht, Bertolt (1889-1956)</person>
+        <person class="indexing_service">Weill, Kurt (1900-50)</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4D9173EF932A25757C0A9669C8B63" item-length="511" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Heroic Boy and Two Outcomes to His Tale</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL GRIFFITHS</byline>
+      <byline class="normalized_byline">Griffiths, Paul</byline>
+      <abstract>
+        <p>Paul Griffiths reviews two musical pieces created by Bertolt Brecht and Kurt Weill based on Noh play; they are presented at Japan Society (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In 1930, right after ''Mahagonny'' and ''The Threepenny Opera,'' Bertolt Brecht and Kurt Weill created a young people's show based on a Noh play. At the Japan Society on Wednesday, the two pieces were presented as a double bill: ''Taniko'' (''The Valley Rite'') performed by the Nohgaku-za of Tokyo and ''Der Jasager'' (''The Consenter''), in English by American singers.</p>
+        <p>Resemblances abound. Except for sententious choruses added by Brecht, religious references omitted by him and lengthy cuts made by his source, Arthur Waley, ''Der Jasager'' has virtually the same text as ''Taniko.'' And Weill's music for the boy hero even recalls the chanting of the child Noh actor, fixing on one note that is often approached by one or two upward steps.</p>
+      </block>
+      <block class="full_text">
+        <p>In 1930, right after ''Mahagonny'' and ''The Threepenny Opera,'' Bertolt Brecht and Kurt Weill created a young people's show based on a Noh play. At the Japan Society on Wednesday, the two pieces were presented as a double bill: ''Taniko'' (''The Valley Rite'') performed by the Nohgaku-za of Tokyo and ''Der Jasager'' (''The Consenter''), in English by American singers.</p>
+        <p>Resemblances abound. Except for sententious choruses added by Brecht, religious references omitted by him and lengthy cuts made by his source, Arthur Waley, ''Der Jasager'' has virtually the same text as ''Taniko.'' And Weill's music for the boy hero even recalls the chanting of the child Noh actor, fixing on one note that is often approached by one or two upward steps.</p>
+        <p>This cannot have been deliberate imitation, though, for all Brecht and Weill knew of their original was the script, which appealed to them as a lesson in how individuals should, for the good of the group, be ready to accept even death. The boy at the center goes with others into the mountains, in the hopes of gaining help for his sick mother. He falls ill and is given a choice. Either he must agree to being hurled down into the valley so that the expedition can proceed unhindered or they will all have to go back. He agrees to the plunge.</p>
+        <p>In the Noh play, a god arrives to restore him to his companions. In the Brecht-Weill version, his death is the end, which is perfectly all right, because ''Der Jasager'' is one of Brecht's most absolute achievements in avoiding the audience's sympathy with the characters. What he and Weill offer instead is an austere moral lesson.</p>
+        <p>One may think this a poor exchange for the pathos, intensity, grace, wisdom and humanity of ''Taniko,'' which, in a highly stylized form, presents the situation starkly. In this performance, once the boy had made his decision, his supine body was lifted swiftly by two companions, who then ran with him to a little square platform that stood for the mountain ridge and put him down to be covered with a brown cloth by his teacher. All this took about 10 seconds, used no emotion from the performers, and was frightening. The boy's covered body remained a scar on the stage. Divine intervention was desperately needed.</p>
+        <p>At the parallel place in ''Der Jasager,'' the three students who carry the boy sing a march-lament, and one could not care less.</p>
+        <p>The Noh actors include Umewaka Rokuro as the boy's mother, Hosho Kan as the teacher and Shibata Takanori as the boy. These roles in ''Der Jasager'' are taken by David Malis, Mimi Lerner and Zachary Eden Bernhard, in a production staged by Jonathan Eaton and conducted by Julius Rudel.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

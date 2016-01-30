@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="469320"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SOFTWARE PRODUCTS</classifier>
+        <classifier class="indexing_service" type="descriptor">ACCIDENTS AND SAFETY</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ARMAMENT AND DEFENSE</classifier>
+        <classifier class="indexing_service" type="descriptor">HELICOPTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">CORRECTION STORIES</classifier>
+        <person class="indexing_service">LEE, LEONARD</person>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Helicopters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D61F3FF936A1575BC0A967958260" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on July 14 about problems caused by errors in computer programs reported that in the mid- 1980's, electromagnetic interference from power lines, radio towers and other sources was blamed for software malfunctions in the Army's UH- 60 Blackhawk helicopters. Citing as its source "The Day the Phones Stopped," a book by Leonard Lee, the article said that the interference caused an accident in which 12 crew members were killed and that the same problem was possibly responsible for nearly two dozen other Blackhawk accidents.</p>
+        <p>But the article, unlike Mr. Lee's book, did not acknowledge that the Army rejects this explanation for the accidents. In fairness the article should have included a comment from the Army.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on July 14 about problems caused by errors in computer programs reported that in the mid- 1980's, electromagnetic interference from power lines, radio towers and other sources was blamed for software malfunctions in the Army's UH- 60 Blackhawk helicopters. Citing as its source "The Day the Phones Stopped," a book by Leonard Lee, the article said that the interference caused an accident in which 12 crew members were killed and that the same problem was possibly responsible for nearly two dozen other Blackhawk accidents.</p>
+        <p>But the article, unlike Mr. Lee's book, did not acknowledge that the Army rejects this explanation for the accidents. In fairness the article should have included a comment from the Army.</p>
+        <p>In a letter to The Times on Aug. 6, Secretary of the Army Michael P. W. Stone responded that in the early stages of developing the Blackhawk, defenses against electromagnetic interference were adopted and that the phenomenon has not been responsible for any accidents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

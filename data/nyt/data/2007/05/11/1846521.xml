@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Juvenile Injustice</title>
+    <meta content="11fri2" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/11/opinion/11fri2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1846521"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="Editorial"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="descriptor">Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <org class="online_producer">Centers for Disease Control and Prevention</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E7D71431F932A25756C0A9619C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Juvenile Injustice</hl1>
+        <hl2 class="online_headline">Juvenile Injustice</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial urges states to pass pending bills that would stop juveniles from being automatically transferred to adult courts; cites new federal study showing that juveniles who are imprisoned as adults later commit more violent crime than those who are handled through juvenile courts</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The United States made a disastrous miscalculation when it started automatically trying youthful offenders as adults instead of handling them through the juvenile courts. Prosecutors argued that the policy would get violent predators off the streets and deter further crime. But a new federally backed study shows that juveniles who do time as adults later commit more violent crime than those who are handled through the juvenile courts.</p>
+        <p>The study, published last month in The American Journal of Preventive Medicine, was produced by the Task Force on Community Preventive Services, an independent research group with close ties to the Centers for Disease Control and Prevention. After an exhaustive survey of the literature, the group determined that the practice of transferring children into adult courts was counterproductive, actually creating more crime than it cured.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A new federally backed study shows that juveniles who do time as adults later commit more violent crime than those who are handled through the juvenile courts.</p>
+      </block>
+      <block class="full_text">
+        <p>The United States made a disastrous miscalculation when it started automatically trying youthful offenders as adults instead of handling them through the juvenile courts. Prosecutors argued that the policy would get violent predators off the streets and deter further crime. But a new federally backed study shows that juveniles who do time as adults later commit more violent crime than those who are handled through the juvenile courts.</p>
+        <p>The study, published last month in The American Journal of Preventive Medicine, was produced by the Task Force on Community Preventive Services, an independent research group with close ties to the Centers for Disease Control and Prevention. After an exhaustive survey of the literature, the group determined that the practice of transferring children into adult courts was counterproductive, actually creating more crime than it cured.</p>
+        <p>A related and even more disturbing study by Campaign for Youth Justice in Washington finds that the majority of the more than 200,000 children a year who are treated as adults under the law come before the courts for nonviolent offenses that could be easily and more effectively dealt with at the juvenile court level.</p>
+        <p>Examples include a 17-year-old first-time offender charged with robbery after stealing another student's gym clothes, and another 17-year-old who violated his probation by stealing a neighbor's bicycle. Many of these young nonviolent offenders are held in adult prisons for months or even years.</p>
+        <p>The laws also are not equally applied. Youths of color, who typically go to court with inadequate legal counsel, account for three out of every four young people admitted to adult prison.</p>
+        <p>With 40 states allowing or requiring youthful offenders to spend at least some time in adult jails, state legislators all across the country are just waking up to the problems this practice creates. Some states now have pending bills that would stop juveniles from being automatically transferred to adult courts or that would allow them to get back into the juvenile system once the adult court was found to be inappropriate for them.</p>
+        <p>Given the damage being done to young lives all over the country, the bills can't pass soon enough.</p>
+        <p>Editorial</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

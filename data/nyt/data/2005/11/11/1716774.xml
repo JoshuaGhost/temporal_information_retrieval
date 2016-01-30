@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Queens: Father Admits Fatally Shaking Son</title>
+    <meta content="11mbrfs-5" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1716774"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE4D6123EF932A25752C1A9639C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Queens: Father Admits Fatally Shaking Son</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Queens man pleaded guilty to manslaughter yesterday for shaking his 3-month-old son to death, District Attorney Richard A. Brown announced. In a statement, he said that Victor Fuentes, 20, of Onderdonk Avenue in Ridgewood, admitted that he shook his son, Victor Fuentes Jr., on March 16, 2004, to stop him from crying. Mr. Fuentes's sentence will be 14 years in prison.</p>
+      </block>
+      <block class="full_text">
+        <p>A Queens man pleaded guilty to manslaughter yesterday for shaking his 3-month-old son to death, District Attorney Richard A. Brown announced. In a statement, he said that Victor Fuentes, 20, of Onderdonk Avenue in Ridgewood, admitted that he shook his son, Victor Fuentes Jr., on March 16, 2004, to stop him from crying. Mr. Fuentes's sentence will be 14 years in prison.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

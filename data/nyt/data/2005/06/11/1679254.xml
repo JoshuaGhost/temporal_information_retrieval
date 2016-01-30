@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Fat and the Divine</title>
+    <meta content="L11SEA$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1679254"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D81138F932A25755C0A9639C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Fat and the Divine</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Save That Seat'' (editorial, June 5), about seats on commuter trains, refers to ''extra-large people with shopping bags roaming the aisle like a flotilla of fat-bottomed boats.'' That's a cheap shot.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Save That Seat'' (editorial, June 5), about seats on commuter trains, refers to ''extra-large people with shopping bags roaming the aisle like a flotilla of fat-bottomed boats.'' That's a cheap shot.</p>
+        <p>If God had meant everyone to be thin, she'd have made us taller.</p>
+        <p>Marie Shear  Brooklyn, June 5, 2005</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

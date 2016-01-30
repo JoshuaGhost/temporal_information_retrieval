@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dying at Grace</title>
+    <meta content="23roun-2" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/23/movies/23dyin.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1849431"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="FILM IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Catsoulis, Jeannette</person>
+        <person class="indexing_service">King, Allan</person>
+        <object.title class="indexing_service">Dying at Grace (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <object.title class="online_producer">Dying at Grace (Movie)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1D61F31F930A15756C0A9619C8B63" item-length="219" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dying at Grace</hl1>
+        <hl2 class="online_headline">The Difficulty of Death</hl2>
+      </hedline>
+      <byline class="print_byline">By JEANNETTE CATSOULIS</byline>
+      <byline class="normalized_byline">Catsoulis, Jeannette</byline>
+      <abstract>
+        <p>Jeannette Catsoulis reviews Allan King documentary film Dying at Grace (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Opens today in Manhattan.  Directed by Allan King  Not rated; 148 minutes</p>
+        <p>In a movie culture filled with fake death and callous killing, ''Dying at Grace'' is not just a shock to the system; it's an accusation. Filmed over 14 weeks in the winter of 2002, in the palliative care ward of the Salvation Army Toronto Grace Health Center, Allan King's wrenching record of five real deaths is a potent reminder of the fearful gap between fiction and reality.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>In a movie culture filled with fake death and callous killing, “Dying at Grace” is not just a shock to the system; it’s an accusation.</p>
+      </block>
+      <block class="full_text">
+        <p>Opens today in Manhattan.  Directed by Allan King  Not rated; 148 minutes</p>
+        <p>In a movie culture filled with fake death and callous killing, ''Dying at Grace'' is not just a shock to the system; it's an accusation. Filmed over 14 weeks in the winter of 2002, in the palliative care ward of the Salvation Army Toronto Grace Health Center, Allan King's wrenching record of five real deaths is a potent reminder of the fearful gap between fiction and reality.</p>
+        <p>With almost unbearable intimacy, Mr. King and his director of photography, Peter Walker, film almost entirely in close-up, patiently capturing the fear, confusion and medicated blankness of the terminally ill. One fiercely independent woman worries that her powerful pain medications -- vaguely termed ''breakthroughs'' by the center's unfailingly compassionate staff -- will cause her to die in her sleep, while another is shown coping with the unexpected hope of an agonizingly brief remission.</p>
+        <p>Throughout, Mr. King retains the vérité style and inconspicuous approach he pioneered in ''Warrendale'' (his 1967 documentary about emotionally disturbed children); his only narration consists of the nurses' end-of-shift reports and the patients' labored last breaths.</p>
+        <p>''Dying is very hard,'' says one of the staff to a distressed relative. ''It's like going through labor.'' And, for this viewer, even more difficult to watch.</p>
+        <p>JEANNETTE CATSOULIS</p>
+        <p>FILM IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

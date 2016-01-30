@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jane S. Kaplan, Matt Epstein</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="54" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="714106"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">KAPLAN, JANE SUZANNE (JANE SUZANNE EPSTEIN)</person>
+        <person class="indexing_service">EPSTEIN, MATT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DA173AF936A1575AC0A962958260" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jane S. Kaplan, Matt Epstein</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jane Suzanne Kaplan, a Los Angeles-based producer for the ABC-TV program "Good Morning America," is to be married today to Matt Epstein, an owner of 800 Direct, a telemarketing service agency in Canoga Park, Calif. Rabbi Zvi Dershowitz is to perform the ceremony at the Adamson House in Malibu, Calif.</p>
+        <p>The bride graduated from Boston University. She is the daughter of Seymour Kaplan of Riverdale, the Bronx, and the late Jewel Kaplan. Mr. Kaplan retired as a vice president of ITC Entertainment, a television syndication company in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Jane Suzanne Kaplan, a Los Angeles-based producer for the ABC-TV program "Good Morning America," is to be married today to Matt Epstein, an owner of 800 Direct, a telemarketing service agency in Canoga Park, Calif. Rabbi Zvi Dershowitz is to perform the ceremony at the Adamson House in Malibu, Calif.</p>
+        <p>The bride graduated from Boston University. She is the daughter of Seymour Kaplan of Riverdale, the Bronx, and the late Jewel Kaplan. Mr. Kaplan retired as a vice president of ITC Entertainment, a television syndication company in New York.</p>
+        <p>The bridegroom is a son of Jackie and Robert Epstein of Carlsbad, Calif. His mother is a writer. His father, now retired, was an editor at The Los Angeles Times. The bridegroom's first marriage ended in divorce.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

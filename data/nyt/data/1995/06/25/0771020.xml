@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Checketts Takes A Trip to Utah</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="771020"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BASKETBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">COACHES AND MANAGERS</classifier>
+        <org class="indexing_service">NEW YORK KNICKS</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball/National Basketball Association/New York Knicks</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D61F3DF936A15755C0A963958260" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Checketts Takes A Trip to Utah</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While two candidates for the Knicks' coaching job are out of the country, the man responsible for finding Pat Riley's successor is out West, and may be meeting with another contender for the job.</p>
+        <p>Dave Checketts, the president of Madison Square Garden, is in Utah this weekend, where his friend Rick Majerus is the head coach at Checketts's alma mater, the University of Utah.</p>
+      </block>
+      <block class="full_text">
+        <p>While two candidates for the Knicks' coaching job are out of the country, the man responsible for finding Pat Riley's successor is out West, and may be meeting with another contender for the job.</p>
+        <p>Dave Checketts, the president of Madison Square Garden, is in Utah this weekend, where his friend Rick Majerus is the head coach at Checketts's alma mater, the University of Utah.</p>
+        <p>Majerus was an assistant with the world champion Dream Team II squad and is known as a personable and media-savvy coach.</p>
+        <p>Checketts's departure came shortly after Chuck Daly turned down the Knicks' coaching job on Friday. Checketts is due back tomorrow, as are Don Nelson and Chris Ford, two coaches who have interviewed with Knicks General Manager Ernie Grunfeld.  PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

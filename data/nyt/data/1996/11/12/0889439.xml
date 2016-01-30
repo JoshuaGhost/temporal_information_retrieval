@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Illinois Fires Coach Tepper</title>
+    <meta content="SP024604" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="SPORTS PEOPLE: FOOTBALL" name="column_name"/>
+    <docdata>
+      <doc-id id-string="889439"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">University of Illinois</org>
+        <org class="indexing_service">Ohio State University</org>
+        <person class="indexing_service">Tepper, Lou</person>
+        <object.title class="indexing_service">Sports People (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DC103BF931A25752C1A960958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Illinois Fires Coach Tepper</hl1>
+      </hedline>
+      <abstract>
+        <p>Illinois football coach Lou Tepper is fired following 48-0 loss to Ohio State (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOU TEPPER, his team on a four-game losing streak and coming off a 48-0 defeat to Ohio State, was fired yesterday as coach at Illinois.</p>
+        <p>Tepper will coach the Illini's last two games this season -- at Minnesota on Saturday and against Wisconsin on Nov. 23. Illinois (2-7 over all and 1-5 in the Big Ten Conference) lost its first three games by a combined score of 116-11.</p>
+      </block>
+      <block class="full_text">
+        <p>LOU TEPPER, his team on a four-game losing streak and coming off a 48-0 defeat to Ohio State, was fired yesterday as coach at Illinois.</p>
+        <p>Tepper will coach the Illini's last two games this season -- at Minnesota on Saturday and against Wisconsin on Nov. 23. Illinois (2-7 over all and 1-5 in the Big Ten Conference) lost its first three games by a combined score of 116-11.</p>
+        <p>Tepper has won praise for running a clean program with a player-graduation rate above 90 percent. His program to promote racial harmony among players has also earned him accolades.</p>
+        <p>But Tepper has a 25-29-2 record in five seasons. The former defensive coordinator has produced teams with inconsistent offenses. The program has had three offensive coordinators under Tepper.</p>
+        <p>(AP)</p>
+        <p>SPORTS PEOPLE: FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

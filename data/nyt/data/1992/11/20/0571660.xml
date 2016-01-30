@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alan H. Balsam; Film Editor, 42</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="571660"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">BALSAM, ALAN H</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6DE123CF933A15752C1A964958260" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alan H. Balsam; Film Editor, 42</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alan H. Balsam, a Hollywood feature film editor, died last Friday at his home in Los Angeles. He was 42 years old.</p>
+        <p>He died of AIDS, said his companion, Stephen Schneider.</p>
+      </block>
+      <block class="full_text">
+        <p>Alan H. Balsam, a Hollywood feature film editor, died last Friday at his home in Los Angeles. He was 42 years old.</p>
+        <p>He died of AIDS, said his companion, Stephen Schneider.</p>
+        <p>Among the films Mr. Balsam edited were "Revenge of the Nerds," "Better Off Dead," "One Crazy Summer," "Divine Madness," "Dead and Buried," "Moving," "Born to Ride" and the English version of "Das Boot." He was also a co-editor of "Harlem Nights" and assisted in editing "A League of Their Own."</p>
+        <p>He also edited the American Film Institute's tribute to Bette Davis and "Heroes of Rock 'n' Roll" for television.</p>
+        <p>He was born in Los Angeles and graduated from California State University at Long Beach in 1972.</p>
+        <p>In addition to Mr. Schneider, he is survived by his parents, Anita and Michael Balsam of Oceanside, Calif.; a grandmother, Yetta Striar of San Diego, and two brothers, Mark, of Santa Corrales, N.M., and Gary, of Oakland, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

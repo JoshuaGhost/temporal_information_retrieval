@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Courier and Agassi A Team in Davis Cup</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="472907"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="SPORTS PEOPLE: TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TENNIS</classifier>
+        <person class="indexing_service">AGASSI, ANDRE</person>
+        <person class="indexing_service">COURIER, JIM</person>
+        <object.title class="indexing_service">DAVIS CUP</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DD173AF932A2575AC0A967958260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Courier and Agassi A Team in Davis Cup</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After he was was eliminated in the first round of the United States Open, ANDRE AGASSI got a consoling call from the captain of the Davis Cup team telling him that he was still a member of the team that will take on Germany in the second round in Kansas City next week. Yesterday, Agassi got an even bigger boost, news that his singles partner would be JIM COURIER, who made it to the Open final, and that the doubles players would be Open finalists SCOTT DAVIS and DAVID PATE. Davis and Pate replace RICK LEACH and JIM PUGH, who were knocked out of the Open in the second round. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>After he was was eliminated in the first round of the United States Open, ANDRE AGASSI got a consoling call from the captain of the Davis Cup team telling him that he was still a member of the team that will take on Germany in the second round in Kansas City next week. Yesterday, Agassi got an even bigger boost, news that his singles partner would be JIM COURIER, who made it to the Open final, and that the doubles players would be Open finalists SCOTT DAVIS and DAVID PATE. Davis and Pate replace RICK LEACH and JIM PUGH, who were knocked out of the Open in the second round. (AP)  SPORTS PEOPLE: TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

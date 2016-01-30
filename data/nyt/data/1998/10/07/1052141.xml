@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affordable Basic Banking</title>
+    <meta content="07WED4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1052141"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Checks and Checking Accounts</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Funds Transfer Systems</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Federal Reserve System</org>
+        <org class="indexing_service">Comptroller of the Currency</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Funds Transfer Systems (EFTS)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EEDF173BF934A35753C1A96E958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affordable Basic Banking</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial endorses House-passed banking bill that would require banks setting up financial services holding companies to offer low-cost basic banking services, the need for which will greatly increase when new rules go into effect requiring that most recipients of Federal benefits--including Social Security--have the money transferred to them electronically; urges Senate to reinstate this provision in its bill; also urges Senate to overturn decision to strip Comptroller of Currency of important regulatory responsibilities that were left entirely with Federal Reserve</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Making banking services available to citizens who need them has long been a worthy goal, but it will become even more important in January, when new rules require that most recipients of Federal benefits -- including Social Security -- have the money transferred to them electronically. Paper checks will no longer be available.</p>
+        <p>That is why one section of the House-passed Financial Services bill was so welcome. It directed Federal regulators to require banks setting up financial services holding companies to offer low-cost basic banking services -- a low-fee checking account with limited withdrawals. Such accounts do not offer the flexibility of more popular accounts, but they are vital for many consumers.</p>
+      </block>
+      <block class="full_text">
+        <p>Making banking services available to citizens who need them has long been a worthy goal, but it will become even more important in January, when new rules require that most recipients of Federal benefits -- including Social Security -- have the money transferred to them electronically. Paper checks will no longer be available.</p>
+        <p>That is why one section of the House-passed Financial Services bill was so welcome. It directed Federal regulators to require banks setting up financial services holding companies to offer low-cost basic banking services -- a low-fee checking account with limited withdrawals. Such accounts do not offer the flexibility of more popular accounts, but they are vital for many consumers.</p>
+        <p>The lack of such a provision in the Senate bill is a significant problem. Before that bill is acted upon, the basic banking provision should be reinstated.</p>
+        <p>It would also be good if the Senate would overturn a decision to strip the Comptroller of the Currency of important regulatory responsibilities that were left entirely with the Federal Reserve. That far-reaching decision seems to have been made largely because Alan Greenspan, the Fed chairman, is very popular. But banking issues sometimes are very important for the economy, and the people, through officials appointed by the President, should have a say in them.</p>
+        <p>The pending bill has many good parts. But if Congress passes the version now pending in the Senate, it may be necessary for President Clinton to veto it and ask the next Congress to do a better job.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

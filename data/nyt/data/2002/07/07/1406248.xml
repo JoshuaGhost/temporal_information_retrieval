@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebecca Hewitt, Peter O'Reilly</title>
+    <meta content="07HEWI" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/07/fashion/weddings/07HEWI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1406248"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HEWITT, REBECCA</person>
+        <person class="indexing_service">O'REILLY, PETER LINDSAY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4DE1431F934A35754C0A9649C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebecca Hewitt, Peter O'Reilly</hl1>
+        <hl2 class="online_headline">Rebecca Hewitt and Peter O'Reilly</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rebecca Hewitt, a daughter of Barbara Best of Troy, Mich., and Charles Hewitt of Severna Park, Md., was married yesterday to Peter Lindsay O'Reilly, a son of Seton and Gerald A. O'Reilly of Litchfield, Conn. The Rev. Edward Lawlor performed the ceremony at St. Theresa's Roman Catholic Church in Charlestown, on Nevis, in the West Indies.</p>
+        <p>The bride, 31, is an actress in Manhattan who has appeared in commercials and independent films. She also acts in Off Off Broadway plays, most recently in ''The Sacred Virgin'' at the 13th Street Repertory Company in New York. She graduated from the University of Colorado. Her father, who is retired, was president of the Satellite Broadcasting and Communications Association, a trade organization in Alexandria, Va. The bride is a stepdaughter of Pamela Hewitt and of Scott Best.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Rebecca Hewitt, Peter O'Reilly Rebecca Hewitt, a daughter of Barbara Best of Troy, Mich., and Charles Hewitt of Severna Park, Md., was married yesterday to Peter Lindsay O'Reilly, a son of Seton and Gerald A. O'Reillyof Litchfield, Conn. The Rev. Edward Lawlor performed the ceremony at St. Theresa's Roman Catholic Church in Charlestown, on Nevis, in the West Indies.</p>
+      </block>
+      <block class="full_text">
+        <p>Rebecca Hewitt, a daughter of Barbara Best of Troy, Mich., and Charles Hewitt of Severna Park, Md., was married yesterday to Peter Lindsay O'Reilly, a son of Seton and Gerald A. O'Reilly of Litchfield, Conn. The Rev. Edward Lawlor performed the ceremony at St. Theresa's Roman Catholic Church in Charlestown, on Nevis, in the West Indies.</p>
+        <p>The bride, 31, is an actress in Manhattan who has appeared in commercials and independent films. She also acts in Off Off Broadway plays, most recently in ''The Sacred Virgin'' at the 13th Street Repertory Company in New York. She graduated from the University of Colorado. Her father, who is retired, was president of the Satellite Broadcasting and Communications Association, a trade organization in Alexandria, Va. The bride is a stepdaughter of Pamela Hewitt and of Scott Best.</p>
+        <p>The bridegroom, 29, graduated from the University of Notre Dame and last month received an M.B.A. from Harvard. His father, who is retired, was the vice president for trade relations at Procter &amp; Gamble in Cincinnati.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

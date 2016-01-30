@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="FRIEDMAN" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Books in Brief: Fiction" name="column_name"/>
+    <docdata>
+      <doc-id id-string="896852"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="Books in Brief: Fiction"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Friedman, Paula</person>
+        <person class="indexing_service">Madden, David</person>
+        <object.title class="indexing_service">Sharpshooter: A Novel of the Civil War (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4DA103EF931A15751C1A960958260" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By PAULA FRIEDMAN</byline>
+      <byline class="normalized_byline">Friedman, Paula</byline>
+      <abstract>
+        <p>Paula Friedman reviews book Sharpshooter: A Novel of the Civil War by David Madden (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SHARPSHOOTER  A Novel of the Civil War.  By David Madden.  University of Tennessee, $19.95.</p>
+        <p>What if history were no more than the winning compilation of the participants' assorted nightmares, fantasies and misrememberings? David Madden's latest novel raises just such a question, and in a startlingly immediate way. Set during and after the Civil War, ''Sharpshooter'' is narrated by Willis Carr, who begins his story when he is a boy of 13. Willis's family and neighbors try to send him home when they set off to keep a railroad bridge from falling into Confederate hands, but he is determined not to be left out. Unfortunately, he is taken prisoner and winds up gaining his freedom by becoming a sharpshooter for the rebel army. As Mr. Madden develops Willis's story, he suggests how little understanding or clear recollection the participants in a war can be left with. It is partly Willis's youth that causes his disorientation, yet, as he later discovers, plenty of older soldiers suffer the same problem. It takes time and a good deal of struggle for Willis to make sense of his involvement in sometimes pivotal historic events. As the novel unfolds, Mr. Madden puts us right at the center of this challenging, deeply unnerving process.</p>
+        <p>Paula Friedman</p>
+      </block>
+      <block class="full_text">
+        <p>SHARPSHOOTER  A Novel of the Civil War.  By David Madden.  University of Tennessee, $19.95.</p>
+        <p>What if history were no more than the winning compilation of the participants' assorted nightmares, fantasies and misrememberings? David Madden's latest novel raises just such a question, and in a startlingly immediate way. Set during and after the Civil War, ''Sharpshooter'' is narrated by Willis Carr, who begins his story when he is a boy of 13. Willis's family and neighbors try to send him home when they set off to keep a railroad bridge from falling into Confederate hands, but he is determined not to be left out. Unfortunately, he is taken prisoner and winds up gaining his freedom by becoming a sharpshooter for the rebel army. As Mr. Madden develops Willis's story, he suggests how little understanding or clear recollection the participants in a war can be left with. It is partly Willis's youth that causes his disorientation, yet, as he later discovers, plenty of older soldiers suffer the same problem. It takes time and a good deal of struggle for Willis to make sense of his involvement in sometimes pivotal historic events. As the novel unfolds, Mr. Madden puts us right at the center of this challenging, deeply unnerving process.</p>
+        <p>Paula Friedman</p>
+        <p>Books in Brief: Fiction</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

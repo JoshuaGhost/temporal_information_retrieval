@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Senator Sets Priorities for Tobacco Legislation</title>
+    <meta content="T12SMOK" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1001469"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Smoking and Tobacco</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Liability for Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Rosenbaum, David E</person>
+        <person class="indexing_service">Mccain, John (Sen)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Liability for Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoking and Tobacco</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980312T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EED81030F931A25750C0A96E958260" item-length="479" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Senator Sets Priorities for Tobacco Legislation</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID E. ROSENBAUM</byline>
+      <byline class="normalized_byline">Rosenbaum, David E</byline>
+      <dateline>WASHINGTON, March 11</dateline>
+      <abstract>
+        <p>Sen John McCain, pivotal Senator on tobacco issue, says several issues must be resolved before legislation can go forward such as extent of tobacco companies' protection from lawsuits and how Food and Drug Administration will regulate tobacco (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a session that illuminated sharp disagreements, Senator John McCain, the pivotal Senator on the tobacco issue, said today that he could now separate the central questions from the more secondary ones.</p>
+        <p>In the first category, issues that must be resolved before legislation can go forward, Mr. McCain, an Arizona Republican, listed these topics:</p>
+      </block>
+      <block class="full_text">
+        <p>After a session that illuminated sharp disagreements, Senator John McCain, the pivotal Senator on the tobacco issue, said today that he could now separate the central questions from the more secondary ones.</p>
+        <p>In the first category, issues that must be resolved before legislation can go forward, Mr. McCain, an Arizona Republican, listed these topics:</p>
+        <p>*The extent of tobacco companies' protection from lawsuits.</p>
+        <p>*How the Food and Drug Administration would regulate tobacco.</p>
+        <p>*The goals for the reduction in youth smoking and the fines that would be imposed on cigarette manufacturers if the goals were not met.</p>
+        <p>*How much the price of a pack of cigarettes would be increased.</p>
+        <p>On the more peripheral issues, Mr. McCain listed such questions as the size of lawyers' fees, the future of the Government's tobacco-price support program and the way the money raised from cigarette manufacturers would be distributed and spent.</p>
+        <p>There are major disputes over these secondary matters, Mr. McCain said in an interview after a hearing of the Commerce Committee, of which he is chairman, but the fate of the legislation does not hinge on their resolution.</p>
+        <p>While the senators debated tobacco issues today, new figures showed that tobacco interests have been spending an extraordinary amount, more than $75 million over the last two years, lobbying Congress and the Federal agencies.</p>
+        <p>House Democrats led by Representatives Vic Fazio and Henry A. Waxman, both of California, offered tough anti-smoking legislation that included a big price increase on cigarettes and no industry protection against lawsuits except for those filed by Federal, state and local governments. The bill is a companion to legislation proposed by Senator Kent Conrad, Democrat of North Dakota.</p>
+        <p>Under the agreement that tobacco companies reached last June with 40 state attorneys general, the industry would be given immunity from further government lawsuits and private class-action suits and considerable protection against other legal claims.</p>
+        <p>In return, the cigarette makers would restrain their advertising and marketing and pay a large sum to settle punitive damage claims based on past industry practices.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

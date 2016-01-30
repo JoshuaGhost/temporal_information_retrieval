@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="25NICK" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="CHRONICLE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="946042"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="CHRONICLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <org class="indexing_service">Metropolitan Museum of Art (NYC)</org>
+        <person class="indexing_service">Versace, Gianni</person>
+        <person class="indexing_service">Brozan, Nadine</person>
+        <person class="indexing_service">Martin, Richard</person>
+        <object.title class="indexing_service">Chronicle (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E1DF163AF936A15754C0A961958260" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">Brozan, Nadine</byline>
+      <abstract>
+        <p>Richard Martin, curator of Costume Institute of Metropolitan Museum of Art, has decided to turn institute's annual winter exhibition into tribute to slain designer Gianni Versace; show's opening gala is scheduled for Dec 8 and show will open to public on Dec 11 (Chronicle column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A few days after GIANNI VERSACE was killed last week, RICHARD MARTIN, the curator of the Costume Institute of the Metropolitan Museum of Art, decided to turn the institute's annual winter exhibition into a tribute to the slain designer.</p>
+        <p>Plans were already under way for a show on the history of fashion, but they were scuttled in favor of a comprehensive look at the various ways, from Greek classicism to plastic and leather, that Mr. Versace wove the past and future into his designs. The show's opening gala is scheduled for Dec. 8, and the show will open to the public on Dec. 11.</p>
+      </block>
+      <block class="full_text">
+        <p>A few days after GIANNI VERSACE was killed last week, RICHARD MARTIN, the curator of the Costume Institute of the Metropolitan Museum of Art, decided to turn the institute's annual winter exhibition into a tribute to the slain designer.</p>
+        <p>Plans were already under way for a show on the history of fashion, but they were scuttled in favor of a comprehensive look at the various ways, from Greek classicism to plastic and leather, that Mr. Versace wove the past and future into his designs. The show's opening gala is scheduled for Dec. 8, and the show will open to the public on Dec. 11.</p>
+        <p>Noting the incongruity between bloodshed and beauty, Mr. Martin said: ''The Metropolitan is the last museum in the world for which you would expect a 'real world' association. But art has restorative possibilities, and seeing Versace's work will be our collective recovery.''</p>
+        <p>Mr. Martin is unusually familiar with Mr. Versace's work. He wrote a book about it that was published in May by Universe.</p>
+        <p>Mr. Versace had strong ties to the museum and visited it frequently, sometimes spending hours at costume exhibits, Mr. Martin said.</p>
+        <p>Would the loss of Mr. Versace cast a pall over the opening night party, a highlight of the social season. ''No,'' Mr. Martin said, ''I think it will be a splendid reckoning, a moment of assessment and farewell. But I also think the work will be so splendid that we will be overjoyed.''</p>
+        <p>CHRONICLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Man Killed in Hostage Standoff in Oregon</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="437639"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <classifier class="indexing_service" type="descriptor">ATTACKS ON POLICE</classifier>
+        <classifier class="indexing_service" type="descriptor">HOSTAGES</classifier>
+        <location class="indexing_service">PORTLAND (ORE)</location>
+        <person class="indexing_service">HENRY, MICHAEL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Portland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hostages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D7123EF936A25757C0A967958260" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Man Killed in Hostage Standoff in Oregon</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>PORTLAND, Ore., April 14</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A gunman took two women hostage in a crowded store on Saturday and wounded two officers before he was killed by the police.</p>
+        <p>The man released one woman about 90 minutes after seizing her. When police officers tried to rescue the second hostage, about two hours later, he shot at them. The officers returned fire and killed him.</p>
+      </block>
+      <block class="full_text">
+        <p>A gunman took two women hostage in a crowded store on Saturday and wounded two officers before he was killed by the police.</p>
+        <p>The man released one woman about 90 minutes after seizing her. When police officers tried to rescue the second hostage, about two hours later, he shot at them. The officers returned fire and killed him.</p>
+        <p>The hostages, who worked at a branch of the Pacific First Bank inside the store in northeast Portland, were not harmed. Both officers were hospitalized, with one listed in fair condition and the other in good condition.</p>
+        <p>The police identified the gunman as Michael Henry, 19 years old, who they said had moved to Portland from Florida just a week ago.</p>
+        <p>At least 300 people were evacuated from the sprawling Fred Meyer Gateway store soon after the ordeal began about 2 P.M.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESULTS PLUS</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="510554"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Other Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DF113EF93AA15751C0A964958260" item-length="381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESULTS PLUS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TENNIS  Becker vs. McEnroe</p>
+      </block>
+      <block class="full_text">
+        <p>TENNIS  Becker vs. McEnroe</p>
+        <p>Boris Becker and John McEnroe scored strong victories yesterday and will play each other in the semifinals of the ABN-AMRO indoor tournament in Rotterdam, the Netherlands. Aleksandr Volkov of Russia and Paul Haarhuis of the Netherlands will play in the other semifinal today. Becker beat Patrick McEnroe, 6-3, 7-5. John McEnroe beat Alex Antonitsch of Austria, 2-6, 6-3, 7-5. Antonitsch saved three match points before McEnroe finally won. (AP) TRACK AND FIELD  O'Brien Sets Record  Dan O'Brien set a world record with 4,497 points and tied meet marks in the high jump and 60-meter high hurdles at the TAC-USA men's indoor pentathlon championships in Moscow, Idaho. O'Brien swept all five events. He ran the high hurdles in 7.88 seconds. He long jumped 24 feet 1 1/2 inches, threw the shot-put 48-2 1/2, high jumped 7 1/2 and ran the 1,000 meters in 2:40.12. (AP) Berezhnaya Wins: Larisa Berezhnaya of Ukraine, the 1991 world indoor champion, won the women's long jump at the European championships. GOLF  Coe Ahead by a Stroke  Dawn Coe, seeking her first victory in nine years on the L.P.G.A. Tour, birdied the final two holes and took a one-stroke lead after three rounds of the Women's Kemper Open in Wailea, Hawaii. Coe, who started the day in a six-way tie for first place, shot 69 on the par-72 course. She was at nine-under-par 207 entering the final round today. (AP) U.S. Team Takes Lead: Lee Trevino and Chi Chi Rodriguez combined for a 64, helping the United States take a 15-5 lead over the International team in the first round of the Chrysler Cup in Sarasota, Fla. The Americans won three of the four best-ball stroke-play matches, with each victory worth five points in the team standing. Trevino and Rodriguez beat Gary Player and Bob Charles, who shot a 67 in the three-day event for top senior golfers. (AP) BOXING  Lopez, 39, Knocked Out  Danny (Little Red) Lopez, away from the ring for a dozen years, was knocked out 37 seconds into the second round Thursday night by Jorge Rodriguez in a scheduled 10-round junior lightweight bout in Irvine, Calif. The 39-year-old Lopez retired in 1980 after being knocked down by Salvador Sanchez in consecutive fights. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

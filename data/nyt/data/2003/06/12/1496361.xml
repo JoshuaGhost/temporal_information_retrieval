@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="EDNO6" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1496361"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E4D61F39F931A25755C0A9659C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On May 11 The Times published an extensive report about plagiarism and fabrications by Jayson Blair before his resignation as a reporter for The Times a week earlier. The detailed account centered on articles written during and after October, when Mr. Blair began receiving national assignments. An editors' note with that account said The Times would continue spot-checking Mr. Blair's earlier articles and invited readers to report any discrepancies to retrace@nytimes.com.</p>
+        <p>Ten additional articles by Mr. Blair have since been found to include misstatements or possibly borrowed passages, or quotations that have been denied by the speaker to whom they were attributed. The list is online today at nytimes.com/corrections.html, where it will remain accessible for the next week. The corrective notes will be appended to the affected articles in The Times's online databases.</p>
+      </block>
+      <block class="full_text">
+        <p>On May 11 The Times published an extensive report about plagiarism and fabrications by Jayson Blair before his resignation as a reporter for The Times a week earlier. The detailed account centered on articles written during and after October, when Mr. Blair began receiving national assignments. An editors' note with that account said The Times would continue spot-checking Mr. Blair's earlier articles and invited readers to report any discrepancies to retrace@nytimes.com.</p>
+        <p>Ten additional articles by Mr. Blair have since been found to include misstatements or possibly borrowed passages, or quotations that have been denied by the speaker to whom they were attributed. The list is online today at nytimes.com/corrections.html, where it will remain accessible for the next week. The corrective notes will be appended to the affected articles in The Times's online databases.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

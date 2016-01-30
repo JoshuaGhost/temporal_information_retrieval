@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   BLUMENTHAL, RUTH MAGILL</title>
+    <meta content="dn022106" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1741240"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <person class="indexing_service">BLUMENTHAL, RUTH MAGILL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3DD163AF932A15751C0A9609C8B63" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   BLUMENTHAL, RUTH MAGILL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BLUMENTHAL--Ruth Magill. At home, on February 19. Wife of the late Maurice. Beloved mother of James &amp; Richard. Kindly mother-inlaw of Christine and Louise. Doting grandmother of Katherine &amp; Fiona. For numerous years after her widowhood, loyal companion of the late Dr. Percy Klingenstein. In lieu of flowers donations can be made to the Trinity School Brunner-Smith Fund.</p>
+      </block>
+      <block class="full_text">
+        <p>BLUMENTHAL--Ruth Magill. At home, on February 19. Wife of the late Maurice. Beloved mother of James &amp; Richard. Kindly mother-inlaw of Christine and Louise. Doting grandmother of Katherine &amp; Fiona. For numerous years after her widowhood, loyal companion of the late Dr. Percy Klingenstein. In lieu of flowers donations can be made to the Trinity School Brunner-Smith Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

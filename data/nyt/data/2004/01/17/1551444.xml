@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Judicial End Run</title>
+    <meta content="17SAT2$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/17/opinion/17SAT2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1551444"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Appeals Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Pickering, Charles Sr</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E6D61F30F934A25752C0A9629C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Judicial End Run</hl1>
+        <hl2 class="online_headline">A Judicial End Run</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial criticizes Pres Bush for using recess appointment to install Charles Pickering Sr on Fifth Circuit Court of Appeals; contends that Pickering is wrong choice for one of nation's most sensitive courts; notes that Senate inquiry into his nomination uncovered troubling questions of judicial ethics</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>President Bush has used the only avenue remaining to him to install Charles Pickering Sr. of Mississippi on the Fifth Circuit Court of Appeals: a recess appointment, which avoids the confirmation process. That recess appointments are a perfectly legal device used by other presidents in the past does not make this appointment any more palatable. Mr. Pickering is absolutely the wrong choice for one of the nation's most sensitive courts.</p>
+        <p>Mr. Bush claimed that only a ''handful'' of senators had opposed Mr. Pickering. The opposition was in fact a good deal broader than that.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>President Bushs decision to bypass the Senate in installing Charles Pickering Sr. to the Fifth Circuit Court of Appeals is "a finger in the eye" for all those seeking fairness in the nominations process.</p>
+      </block>
+      <block class="full_text">
+        <p>President Bush has used the only avenue remaining to him to install Charles Pickering Sr. of Mississippi on the Fifth Circuit Court of Appeals: a recess appointment, which avoids the confirmation process. That recess appointments are a perfectly legal device used by other presidents in the past does not make this appointment any more palatable. Mr. Pickering is absolutely the wrong choice for one of the nation's most sensitive courts.</p>
+        <p>Mr. Bush claimed that only a ''handful'' of senators had opposed Mr. Pickering. The opposition was in fact a good deal broader than that.</p>
+        <p>Mr. Pickering was rejected in 2002 by the Judiciary Committee when the Senate was still in Democratic hands. When the same committee, in Republican control, approved him last fall, the nomination was blocked by a filibuster. Another attempt on the president's part to win Senate approval of Mr. Pickering's nomination would almost certainly have produced the same result.</p>
+        <p>The reasons are clear enough. Over the years, Mr. Pickering has displayed skepticism toward cases involving civil rights and expressed doubts about well-settled principles like one person one vote. The Senate inquiry into the nomination uncovered troubling questions of judicial ethics. Mr. Pickering took up the case of a man convicted of burning a cross on the lawn of an interracial couple, urging prosecutors to drop a central charge and calling a prosecutor directly. He also seems outside the mainstream on abortion rights.</p>
+        <p>Mr. Pickering is not the only hard-right candidate Mr. Bush has pushed for high judicial office. But his nomination was among the most troublesome. As Senator Charles Schumer said, Mr. Bush's decision to bypass the Senate in this manner is ''a finger in the eye'' for all those seeking fairness in the nomination process.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

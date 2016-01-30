@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>State Office to Help Survivors Of Holocaust Recover Assets</title>
+    <meta content="16CLAI$03" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="958126"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Other Minorities</classifier>
+        <org class="indexing_service">Museum of Jewish Heritage (NYC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1D91438F935A2575AC0A961958260" item-length="411" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>State Office to Help Survivors Of Holocaust Recover Assets</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD PEREZ-PENA</byline>
+      <abstract>
+        <p>Photo of people at Museum of Jewish Heritage during its public opening</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gov. George E. Pataki opened a state office yesterday dedicated to helping Holocaust survivors and their heirs recover assets held by Swiss banks and insurance companies. State officials called it the first governmental office of its kind in the nation.</p>
+        <p>The Holocaust Claims Processing Office of the State Banking Department will help anyone -- not just residents of New York -- determine the validity of their claims, document them and pursue them.</p>
+      </block>
+      <block class="full_text">
+        <p>Gov. George E. Pataki opened a state office yesterday dedicated to helping Holocaust survivors and their heirs recover assets held by Swiss banks and insurance companies. State officials called it the first governmental office of its kind in the nation.</p>
+        <p>The Holocaust Claims Processing Office of the State Banking Department will help anyone -- not just residents of New York -- determine the validity of their claims, document them and pursue them.</p>
+        <p>In opening the office, in the Banking Department's offices at 2 Rector Street in Manhattan, Mr. Pataki was joined by Senator Alfonse M. D'Amato, who has publicized the plight of European Jews who had been unable to recover deposits in Swiss banks, and who has helped force those banks into disclosing the existence of such accounts.</p>
+        <p>''For the first time, people with claims will have an official advocate,'' said Elan Steinberg, executive director of the World Jewish Congress. He said the number of American Holocaust survivors or heirs with forgotten or missing assets in Swiss banks is ''certainly in the thousands.''</p>
+        <p>The new state office, with a staff of eight people, has designed a detailed form for documenting claims and will help applicants fill it out. It will also try to judge the validity of such claims, through access the state gained earlier this year to Swiss banking archives. If the office deems the claims to be valid, it will help pursue them with the Swiss companies involved.</p>
+        <p>The state has some regulatory power over foreign banks that do business in New York. But Michael Barry, a spokesman for the Banking Department, said the state can only penalize Swiss financial companies over Holocaust claims if they were doing business in the state during the period of the claims, from 1933 to 1945. He said this left just three banks: Union Bank of Switzerland, Swiss Bank Corporation and Credit Suisse.</p>
+        <p>But state officials and leaders of Jewish groups say they expect other Swiss companies to comply voluntarily, if only to avoid more adverse publicity.</p>
+        <p>People can contact the Holocaust Claims Processing Office at 1-800-695-3318, or at the Banking Department's World Wide Web site, at www.banking.state.ny.us.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

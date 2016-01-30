@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>3 Injured in Motorcycle Chase</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="784541"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="NEW JERSEY DAILY BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTORCYCLES, MOTOR BIKES AND MOTORSCOOTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">ROBBERIES AND THEFTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GEORGE WASHINGTON BRIDGE</classifier>
+        <person class="indexing_service">PRISTIN, TERRY</person>
+        <person class="indexing_service">WILLIAMS, CHRISTOPHER</person>
+        <person class="indexing_service">WILLIAMS, RASHEEDA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE0D91130F937A1575BC0A963958260" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>3 Injured in Motorcycle Chase</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY PRISTIN</byline>
+      <byline class="normalized_byline">PRISTIN, TERRY</byline>
+      <dateline>FORT LEE</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Paterson man and woman and a Port Authority police officer were injured early yesterday morning after a police chase. The man and woman, riding a stolen motorcycle, were being pursued by Paterson housing police when their vehicle rammed a patrol car at the entrance to the George Washington Bridge, the authorities said. The man, Christopher Williams, 24, and the woman, Rasheeda Williams, 18, were hospitalized in stable condition last night. Officer Gary Griffith, who was in the patrol car, was treated and released. Officials said that Mr. Williams was charged with theft of movable property and eluding the police after he refused to pull over. They said the couple would also be charged with aggravated assault of a police officer. TERRY PRISTIN</p>
+      </block>
+      <block class="full_text">
+        <p>A Paterson man and woman and a Port Authority police officer were injured early yesterday morning after a police chase. The man and woman, riding a stolen motorcycle, were being pursued by Paterson housing police when their vehicle rammed a patrol car at the entrance to the George Washington Bridge, the authorities said. The man, Christopher Williams, 24, and the woman, Rasheeda Williams, 18, were hospitalized in stable condition last night. Officer Gary Griffith, who was in the patrol car, was treated and released. Officials said that Mr. Williams was charged with theft of movable property and eluding the police after he refused to pull over. They said the couple would also be charged with aggravated assault of a police officer. TERRY PRISTIN  NEW JERSEY DAILY BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

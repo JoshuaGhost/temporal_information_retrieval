@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   MILITO, MICHAEL</title>
+    <meta content="dn052007.1" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1848445"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <person class="indexing_service">MILITO, MICHAEL</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EFDB173AF933A15756C0A9619C8B63" item-length="65" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   MILITO, MICHAEL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MILITO--Michael, passed away on May 18, 2007, after a long and valiant battle. Mike was a special human being, a loyal friend, a rabid Mets fan, and a gifted computer wizard. Despite years of health problems, he laughed easily and lived life to the fullest. Mike was loved by three generations of the Paul family. He lives on in our hearts and memories forever.</p>
+      </block>
+      <block class="full_text">
+        <p>MILITO--Michael, passed away on May 18, 2007, after a long and valiant battle. Mike was a special human being, a loyal friend, a rabid Mets fan, and a gifted computer wizard. Despite years of health problems, he laughed easily and lived life to the fullest. Mike was loved by three generations of the Paul family. He lives on in our hearts and memories forever.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note; About Mutual Funds</title>
+    <meta content="Y24REA$02" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1311735"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EFDC113AF937A15754C0A9679C8B63" item-length="235" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note; About Mutual Funds</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As a result of growth in the number of mutual funds, The Times is eliminating entries for some of the smallest ones and making its daily table more concise.</p>
+        <p>Beginning today, the table will list Nasdaq funds with assets of $50 million or more, no longer $30 million. The funds to be omitted -- accounting for 18 percent of the space formerly occupied by The Times's table -- represent slightly more than 1 percent of the total money invested in the listed funds. When a fund offers more than one share class, its classes will be grouped, no longer listed in separate categories.</p>
+      </block>
+      <block class="full_text">
+        <p>As a result of growth in the number of mutual funds, The Times is eliminating entries for some of the smallest ones and making its daily table more concise.</p>
+        <p>Beginning today, the table will list Nasdaq funds with assets of $50 million or more, no longer $30 million. The funds to be omitted -- accounting for 18 percent of the space formerly occupied by The Times's table -- represent slightly more than 1 percent of the total money invested in the listed funds. When a fund offers more than one share class, its classes will be grouped, no longer listed in separate categories.</p>
+        <p>On Sundays in Money &amp; Business, the mutual funds table will continue to list funds with assets of $30 million or more, but grouped as they are in the daily table. The order of fund family names will change slightly.</p>
+        <p>Information on more than 12,000 mutual funds is available at The New York Times on the Web at www.nytimes.com/ business.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-8443.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

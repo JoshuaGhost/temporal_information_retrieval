@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Asia: Cambodia: Khmer Rouge Tourist Sites</title>
+    <meta content="MB013628" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1352736"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Historic Buildings and Sites</classifier>
+        <location class="indexing_service">Cambodia</location>
+        <location class="indexing_service">Anlong Veng (Cambodia)</location>
+        <org class="indexing_service">Khmer Rouge (Cambodia)</org>
+        <person class="indexing_service">Mydans, Seth</person>
+        <person class="indexing_service">Hun Sen (Prime Min)</person>
+        <person class="indexing_service">Pol Pot</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Cambodia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E0DB123EF93AA25751C1A9679C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Asia: Cambodia: Khmer Rouge Tourist Sites</hl1>
+      </hedline>
+      <byline class="print_byline">By Seth Mydans (NYT)</byline>
+      <byline class="normalized_byline">Mydans, Seth</byline>
+      <abstract>
+        <p>Cambodian Prime Min Hun Sen orders homes of Pol Pot and other former Khmer Rouge leaders, Anlong Veng, preserved as tourist attractions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prime Minister Hun Sen has ordered that the homes of Pol Pot and other former leaders of the Khmer Rouge be preserved as tourist attractions. The homes are in the dusty town of Anlong Veng, a three-hour drive from the ancient temples of Angkor, which draw hundreds of thousands of visitors each year.</p>
+        <p>Seth Mydans (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Prime Minister Hun Sen has ordered that the homes of Pol Pot and other former leaders of the Khmer Rouge be preserved as tourist attractions. The homes are in the dusty town of Anlong Veng, a three-hour drive from the ancient temples of Angkor, which draw hundreds of thousands of visitors each year.</p>
+        <p>Seth Mydans (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Brooklyn: Woman Assaulted In Furniture Store</title>
+    <meta content="MB022153" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1603065"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Jennifer Convertibles Inc</org>
+        <person class="indexing_service">Lueck, Thomas J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDC1E3CF933A2575BC0A9629C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Brooklyn: Woman Assaulted In Furniture Store</hl1>
+      </hedline>
+      <byline class="print_byline">By Thomas J. Lueck (NYT); Compiled by George James</byline>
+      <byline class="normalized_byline">Lueck, Thomas J</byline>
+      <abstract>
+        <p>Armed man sexually assaults woman in Jennifer Convertibles store in Bay Ridge section Brooklyn and flees scene; police have not made any arrests (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An armed man walked into a Jennifer Convertibles store in Bay Ridge yesterday, forced a woman who was in the store into a back area, sexually assaulted her and fled, the police said. Investigators said the woman, whose identity was not disclosed, was taken to a nearby hospital. They said the attack occurred about 1 p.m. after the man entered the store, on 4th Avenue between 85th and 86th Streets, and displayed a handgun. There were no arrests as of last night, and it was unclear whether the man had taken any cash or merchandise, the police said.</p>
+        <p>Thomas J. Lueck (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>An armed man walked into a Jennifer Convertibles store in Bay Ridge yesterday, forced a woman who was in the store into a back area, sexually assaulted her and fled, the police said. Investigators said the woman, whose identity was not disclosed, was taken to a nearby hospital. They said the attack occurred about 1 p.m. after the man entered the store, on 4th Avenue between 85th and 86th Streets, and displayed a handgun. There were no arrests as of last night, and it was unclear whether the man had taken any cash or merchandise, the police said.</p>
+        <p>Thomas J. Lueck (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

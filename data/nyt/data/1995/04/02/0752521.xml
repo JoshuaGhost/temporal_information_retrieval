@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mallory Prestlien, Steven Cangialosi</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="53" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="752521"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">PRESTLIEN, MALLORY ANNE (MALLORY ANNE CANGIALOSI)</person>
+        <person class="indexing_service">CANGIALOSI, STEVEN DONATO</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD7133DF931A35757C0A963958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mallory Prestlien, Steven Cangialosi</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mallory Anne Prestlien, a television producer, was married yesterday to Steven Donato Cangialosi, a sports anchor and reporter. The Rev. James Reynolds performed the ceremony at the Roman Catholic Church of the Holy Child in Richmond Hill, Queens.</p>
+        <p>The couple work at New York 1, the cable television news service.</p>
+      </block>
+      <block class="full_text">
+        <p>Mallory Anne Prestlien, a television producer, was married yesterday to Steven Donato Cangialosi, a sports anchor and reporter. The Rev. James Reynolds performed the ceremony at the Roman Catholic Church of the Holy Child in Richmond Hill, Queens.</p>
+        <p>The couple work at New York 1, the cable television news service.</p>
+        <p>Mrs. Cangialosi, 32, graduated from the University of Southern California. She is a daughter of Robert Ivers Prestlien of Yakima, Wash., and the late Marcia Henderson-Prestlien. The bride's father owns Bob Ivers &amp; Associates, an advertising and public relations agency in Yakima. Her mother was an actress who played Wendy in the 1950 Broadway production of "Peter Pan."</p>
+        <p>Mr. Cangialosi, 31, graduated from New York University. He is a son of Mr. and Mrs. Victor Cangialosi of Richmond Hill. His father, who is retired, was a photographic technician at Authentic Color, formerly in New York.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

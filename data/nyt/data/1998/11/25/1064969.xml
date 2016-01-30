@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mr. Starr's Tactics</title>
+    <meta content="LTR001145" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1064969"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Smith, Thomas J</person>
+        <person class="indexing_service">Starr, Kenneth W</person>
+        <person class="indexing_service">Lewis, Anthony</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981125T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFD91739F936A15752C1A96E958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mr. Starr's Tactics</hl1>
+      </hedline>
+      <abstract>
+        <p>Thomas J Smith letter on Anthony Lewis's attacks on Kenneth W Starr's conduct</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While I do not wish to minimize the serious nature of the charges that Anthony Lewis makes against Kenneth W. Starr (column, Nov. 24), I do find Mr. Lewis's warnings of the resulting mortal threat to the Republic -- ''that way lies the rot of liberty for all of us'' -- to be selective.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While I do not wish to minimize the serious nature of the charges that Anthony Lewis makes against Kenneth W. Starr (column, Nov. 24), I do find Mr. Lewis's warnings of the resulting mortal threat to the Republic -- ''that way lies the rot of liberty for all of us'' -- to be selective.</p>
+        <p>Mr. Lewis finds great danger to the rule of law emanating from the independent counsel's office but appears to find no such threats to the same coming from the highest office in the land, whose occupant engaged in a similar pattern of deception. Real threats to our Republic are not partisan, and neither are those who wish to warn us.</p>
+        <p>THOMAS  J. SMITH  Portland, Ore., Nov. 24, 1998</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

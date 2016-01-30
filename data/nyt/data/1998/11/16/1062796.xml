@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  ODABASH, ARTHUR</title>
+    <meta content="DN111698" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1062796"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <person class="indexing_service">ODABASH, ARTHUR</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6D81131F935A25752C1A96E958260" item-length="47" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  ODABASH, ARTHUR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ODABASH-Arthur. Passed away on November 13, 1998. The Board of Trustees of Englewood Hospital and Medical Center deeply mourn the passing of our dear Association Member and friend Arthur Odabash. Heartfelt condolences are offered to his beloved wife Lois, and children Robin, Jamie, Melissa, Scott and Megan.</p>
+      </block>
+      <block class="full_text">
+        <p>ODABASH-Arthur. Passed away on November 13, 1998. The Board of Trustees of Englewood Hospital and Medical Center deeply mourn the passing of our dear Association Member and friend Arthur Odabash. Heartfelt condolences are offered to his beloved wife Lois, and children Robin, Jamie, Melissa, Scott and Megan.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CAPITAL CITIES/ABC INC. (CCB,N)</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="805761"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="COMPANY EARNINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">CAPITAL CITIES/ABC INC</org>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DF173AF932A05753C1A963958260" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CAPITAL CITIES/ABC INC. (CCB,N)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Capital Cities/ABC Inc. said yesterday that its profit slipped 5 percent in the third quarter after $47.3 million in charges for merger costs and a litigation settlement.</p>
+        <p>It said the legal costs were a settlement of a $10 billion libel suit brought by the Philip Morris Companies, but it did not separate those costs from those associated with its planned merger with the Walt Disney Company.</p>
+      </block>
+      <block class="full_text">
+        <p>Capital Cities/ABC Inc. said yesterday that its profit slipped 5 percent in the third quarter after $47.3 million in charges for merger costs and a litigation settlement.</p>
+        <p>It said the legal costs were a settlement of a $10 billion libel suit brought by the Philip Morris Companies, but it did not separate those costs from those associated with its planned merger with the Walt Disney Company.</p>
+        <p>Capital Cities/ABC earned $127 million, or 83 cents a share in the quarter, down from $133.7 million, or 87 cents a share, a year ago. Revenue rose to $1.57 billion from $1.46 billion.</p>
+        <p>Without the one-time merger and litigation expenses, it earned $1.02 a share, which was just under the $1.04 average expected by 10 analysts surveyed by Zacks Investment Research. Its operating profit rose 13 percent to $275.2 million.</p>
+        <p>In August, the ABC television network apologized for what it said was a mistake in a 1994 broadcast on the "Day One" program on the issue of how the tobacco industry uses nicotine and agreed to pay Philip Morris's legal expenses in the 17 months since the suit was filed.</p>
+        <p>Capital Cities/ABC agreed in late July to be acquired by Disney for $19 billion in cash and stock. The deal is subject to regulatory approval, however, and that is expected to delay the closing until next year.</p>
+        <p>Operating income at the company's ABC television network and its 80 percent-owned ESPN cable network each rose significantly. Operating income fell slightly at its TV stations while radio operations were flat and publishing earnings fell 3 percent. (AP)  COMPANY EARNINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

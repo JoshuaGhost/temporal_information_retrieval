@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Why So Many Disabled Workers?</title>
+    <meta content="LTR231623" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1422331"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Disability Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <person class="indexing_service">Sheerer, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDC1F3EF93AA3575AC0A9649C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Why So Many Disabled Workers?</hl1>
+      </hedline>
+      <abstract>
+        <p>Ben Sheerer letter, commenting on September 2 article on rising cost of disability pay, disputes assertion that rolls are swollen because laid-off workers are choosing not to look for new jobs</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A Sept. 2 front-page article implies that the disability rolls are swollen because laid-off workers are choosing not to look for new jobs. As a lawyer who handles disability cases, I find that most people keep working until they no longer can or until their employer forces them to leave because of their inability to do the job.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A Sept. 2 front-page article implies that the disability rolls are swollen because laid-off workers are choosing not to look for new jobs. As a lawyer who handles disability cases, I find that most people keep working until they no longer can or until their employer forces them to leave because of their inability to do the job.</p>
+        <p>The excessive time it takes to apply for and receive Social Security disability payments is a national scandal. Before checks start arriving, many workers lose their houses and cars and find themselves dependent on their children.</p>
+        <p>BEN SHEERER  Cleveland, Sept. 2, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

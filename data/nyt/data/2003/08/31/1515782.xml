@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV151513" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1515782"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Wolff, Katherine</person>
+        <person class="indexing_service">Han Shaogong</person>
+        <object.title class="indexing_service">Dictionary of Maqiao, A (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DD1739F932A0575BC0A9659C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Katherine Wolff</byline>
+      <byline class="normalized_byline">Wolff, Katherine</byline>
+      <abstract>
+        <p>Katherine Wolff reviews book A Dictionary of Maqiao by Han Shaogong (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A DICTIONARY OF MAQIAO</p>
+        <p>By Han Shaogong.</p>
+        <p>Columbia University, $27.95.</p>
+      </block>
+      <block class="full_text">
+        <p>A DICTIONARY OF MAQIAO</p>
+        <p>By Han Shaogong.</p>
+        <p>Columbia University, $27.95.</p>
+        <p>Han Shaogong, who worked in the Chinese countryside during the Cultural Revolution (1966-76), has written an eccentric handbook on one forgotten village. In this novel in the form of a dictionary, entries describe the provenance of local expressions. The result is a collage of stories that loosely cohere as the reader becomes fluent in the bizarre logic of Maqiao (''impossible to find, almost dropped off the map''). During the reign of Mao, standardization threatened to smooth the varied texture of Chinese dialects. Han's work exposes the subtle losses -- as well as the hilarious clashes -- that attended the project. For example, through stories about a man called Nine Pockets, whose wealth impedes his effectiveness as a beggar, and ''streetsickness,'' a disease that afflicts peasants who visit urban areas, the author illuminates what he calls linguistic blind spots. No pastoral romance, ''A Dictionary of Maqiao'' tells of villagers' abusive habits and the bloody, sweaty origins of native euphemisms. In a book whose dominant theme is frustrated understanding, the translator, Julia Lovell, faced an especially important task; her preface, pronunciation guide and other aids contribute to the novel's force in English. The book, the winner of several prizes in China, stubbornly resists analysis. To enter its pages is to cross into a world of bandits and ghosts, where ''rude'' means ''pretty,'' homosexuals are ''Red Flower Daddies'' and people don't die, they ''scatter.'' Cross-references abound, and slowly the novel emerges as one grand idiom. This is a meditation on the trapdoors of language and on the microhistories buried within words.</p>
+        <p>Katherine Wolff</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

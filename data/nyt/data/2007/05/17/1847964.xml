@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Highway Peril</title>
+    <meta content="l17debris" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1847964"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFDD1031F934A25756C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Highway Peril</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Highway Debris, Long an Eyesore, Grows as Hazard'' (front page, May 11):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Highway Debris, Long an Eyesore, Grows as Hazard'' (front page, May 11):</p>
+        <p>Several summers ago, as we returned to New York City from a long weekend at the beach, a boogie board flew off the roof top of the car in front of us. Catching the wind like a sail and snapping the ties that had ''secured'' it, the board came hurtling toward our car, smacked our windshield and by a stroke of good fortune flew over the roof without shattering the glass.</p>
+        <p>The speed and impact of this projectile were frightening, and it took all of my control not to veer off the highway.</p>
+        <p>Most Americans use their cars to vacation. As summer approaches, securing gear to be used on holiday should be a priority. Simply tying equipment to a car roof should be prohibited and deemed a traffic offense.</p>
+        <p>At the very least, bike racks and roof racks with accompanying equipment that can safely secure objects at high-speed travel (ropes, clamps, enclosures) should be a requirement.</p>
+        <p>Bonnie Maslin  New York, May 12, 2007</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

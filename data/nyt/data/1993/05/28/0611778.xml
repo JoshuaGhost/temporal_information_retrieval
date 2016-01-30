@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MORGAN STANLEY GROUP INC. (N)</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="611778"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="COMPANY REPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <org class="indexing_service">MORGAN STANLEY GROUP INC</org>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DB1F31F93BA15756C0A965958260" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MORGAN STANLEY GROUP INC. (N)</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Morgan Stanley Group announced record quarterly profits yesterday, sharing fully in Wall Street's boom times.</p>
+        <p>The net income of $198.8 million was nearly 40 percent higher than analysts' estimates, and helped raise Morgan Stanley's stock sharply.</p>
+      </block>
+      <block class="full_text">
+        <p>The Morgan Stanley Group announced record quarterly profits yesterday, sharing fully in Wall Street's boom times.</p>
+        <p>The net income of $198.8 million was nearly 40 percent higher than analysts' estimates, and helped raise Morgan Stanley's stock sharply.</p>
+        <p>The quarterly profit would have been larger but for a $29 million pretax loss on a loan made in 1990 to Sweetheart Holdings, a paper cup manufacturer that Morgan Stanley has agreed to sell to American Industrial Partners. The $29 million loss was in addition to $70 million the company subtracted from its profits in 1992 to create reserves for loan losses it expected.</p>
+        <p>At a time of record amounts of new stock and bond offerings, the company said revenues from investment banking totaled $378.8 million, up 40 percent from a year earlier and 66 percent from the previous quarter.</p>
+        <p>COMPANY REPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

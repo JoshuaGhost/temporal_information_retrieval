@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="01OFF.$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1608180"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Bar Americain (NYC Restaurant)</org>
+        <org class="indexing_service">Pace (NYC Restaurant)</org>
+        <org class="indexing_service">Il Mulino (Restaurant Chain)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Flay, Bobby</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E3DE1431F932A3575AC0A9629C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Bobby Flay plans to open brasserie called Bar Americain in space formerly occupied by Judson Grll at 152 West 52nd Street; photo; Pace opens at 121 Hudson Street; Il Mulino opens outpost on Northern Boulevard in Roslyn Estates on Long Island (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BOBBY FLAY, right, has changed his mind. Instead of opening a Latin-theme restaurant in the Judson Grill space at 152 West 52nd Street, he plans to put a brasserie there called BAR AMERICAIN. With DAVID ROCKWELL doing the design, Mr. Flay has started working on regional American dishes like slow-smoked pork chops with green onion grits, and cedar-roasted wild king salmon with a sauce of Oregon pinot noir. ''I decided that Latin was too limiting,'' he said. ''I've traveled all over America, and I really know the food well.''</p>
+        <p>PACE, 121 Hudson Street (North Moore Street), is the latest addition to the restaurant collection of JIMMY BRADLEY and DANNY ABRAMS, the owners of Red Cat, the Harrison and Mermaid Inn. JOEY CAMPANARO, formerly at the Harrison, is cooking hearty Italian fare, served on a 40-seat terrace and in a 118-seat dining room given the patina of age by JIM WALROD. The name (pronounced PAH-chay) means peace.</p>
+      </block>
+      <block class="full_text">
+        <p>BOBBY FLAY, right, has changed his mind. Instead of opening a Latin-theme restaurant in the Judson Grill space at 152 West 52nd Street, he plans to put a brasserie there called BAR AMERICAIN. With DAVID ROCKWELL doing the design, Mr. Flay has started working on regional American dishes like slow-smoked pork chops with green onion grits, and cedar-roasted wild king salmon with a sauce of Oregon pinot noir. ''I decided that Latin was too limiting,'' he said. ''I've traveled all over America, and I really know the food well.''</p>
+        <p>PACE, 121 Hudson Street (North Moore Street), is the latest addition to the restaurant collection of JIMMY BRADLEY and DANNY ABRAMS, the owners of Red Cat, the Harrison and Mermaid Inn. JOEY CAMPANARO, formerly at the Harrison, is cooking hearty Italian fare, served on a 40-seat terrace and in a 118-seat dining room given the patina of age by JIM WALROD. The name (pronounced PAH-chay) means peace.</p>
+        <p>IL MULINO has opened an outpost at 1042 Northern Boulevard in Roslyn Estates on Long Island. Copious plates of food like those at the Greenwich Village original are on the menu.</p>
+        <p>From 5 to 8 p.m., the lights dim in the bakery-cafe section of BAZZINI, a food store at 339 Greenwich Street (Jay Street), and it becomes ROSOLARE, a restaurant offering pastas, salads and such, mostly under $10. MICHAEL NOVARRO is at the stove. Wine is bring-your-own, with a $5 corkage fee.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

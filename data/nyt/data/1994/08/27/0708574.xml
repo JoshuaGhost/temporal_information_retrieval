@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technology Seen as Widening Income Gap</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="708574"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">LABOR</classifier>
+        <classifier class="indexing_service" type="descriptor">THIRD WORLD AND DEVELOPING COUNTRIES</classifier>
+        <person class="indexing_service">GREENSPAN, ALAN (CHMN)</person>
+        <person class="indexing_service">BRADSHER, KEITH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Third World and Developing Countries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0D71139F934A1575BC0A962958260" item-length="415" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technology Seen as Widening Income Gap</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER,</byline>
+      <byline class="normalized_byline">BRADSHER, KEITH</byline>
+      <dateline>JACKSON HOLE, Wyo., Aug. 26</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Alan Greenspan, the chairman of the Federal Reserve, said today that competitive pressures for the introduction of more high technology into the workplace appeared to produce wider differences between the rich and the poor in industrial societies.</p>
+        <p>Speaking at the Federal Reserve's annual conference here today, Mr. Greenspan said that "where such market forces are allowed to play out more evidently, such as in the United States, the unemployment rate is lower and measured income inequality higher."</p>
+      </block>
+      <block class="full_text">
+        <p>Alan Greenspan, the chairman of the Federal Reserve, said today that competitive pressures for the introduction of more high technology into the workplace appeared to produce wider differences between the rich and the poor in industrial societies.</p>
+        <p>Speaking at the Federal Reserve's annual conference here today, Mr. Greenspan said that "where such market forces are allowed to play out more evidently, such as in the United States, the unemployment rate is lower and measured income inequality higher."</p>
+        <p>The trade-off between income inequality and technology was described today by Paul Krugman, a Stanford University economist. Mr. Greenspan told the audience here that "the argument for this trade-off is a persuasive one."</p>
+        <p>If the free market is allowed to operate, then new technologies will continue to be introduced that allow skilled workers to replace unskilled workers, Mr. Krugman said.</p>
+        <p>As governments seek to balance this effect through expanded unemployment benefits, there will be less incentive for unemployed people to accept jobs that may pay less than their former jobs, so unemployment will tend to rise, he said. A Main Worry</p>
+        <p>Evidence that the gap between rich and poor is widening has become a pet concern of Mr. Greenspan, who is fond of pointing out that more and more of the economy's output consists of ideas made into products, like computer software, rather than bulky goods like cars and refrigerators that still require brawn.</p>
+        <p>Mr. Greenspan also repeated his previous criticisms of the theory that unemployment can be reduced by allowing inflation to rise. "Any tendency to seek a bit of macro policy relief by pushing on the outer limits of monetary policy risks longer-term financial instability," he said.</p>
+        <p>The theory that sustained reductions in unemployment can be achieved through higher inflation was popular during the 1960's and early 1970's, but it was widely discredited among academic economists when both inflation and unemployment rose in the late 1970's. Most economists now favor keeping inflation low at all times because large increases in inflation have tended to produce very modest gains in employment, while large increases in unemployment have then been needed to bring inflation down slightly.</p>
+        <p>Roughly half the members of the Federal Reserve's interest-rate policy committee are attending the conference, as are top central bank officials from Germany, Japan, South Korea, Canada, Spain, Chile, Mexico and New Zealand.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

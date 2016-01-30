@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$100 Million Fund Will Finance Java-Based Ventures</title>
+    <meta content="22JAVA" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="872750"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Kleiner Perkins Caufield &amp; Byers</org>
+        <org class="indexing_service">Sun Microsystems Inc</org>
+        <org class="indexing_service">KPCB Java Fund</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Doerr, John</person>
+        <person class="indexing_service">Schmidt, Eric</person>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D61330F931A1575BC0A960958260" item-length="725" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$100 Million Fund Will Finance Java-Based Ventures</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <dateline>SAN FRANCISCO, Aug. 21</dateline>
+      <abstract>
+        <p>Kleiner Perkins Caufield &amp; Byers, leading venture capital firm, forms $100 million fund to invest in companies that will create software and related products based on Java programming language developed by Sun Microsystems Inc; has attracted number of high-technology giants to fund, KPCB Java Fund; Kleiner Perkins aide John Doeer denies fund is anti-Microsoft Corp coalition, phone interview; Sun aide Eric Schmidt comments (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A leading venture capital firm has formed a $100 million fund to invest in companies that will create software and related products based on the Java programming language developed by Sun Microsystems Inc.</p>
+        <p>Kleiner Perkins Caufield &amp; Byers, the Menlo Park, Calif., firm that was the primary backer of the Netscape Communications Corporation, as well as an early investor in Sun, has attracted a parade of high-technology giants to the fund. Along with Sun Microsystems, other investors are Cisco Systems, Comcast, Compaq Computer, I.B.M., Itochu, Netscape, Oracle, Tele-Communications Inc.,Technology Ventures and the U S West Media Group.</p>
+      </block>
+      <block class="full_text">
+        <p>A leading venture capital firm has formed a $100 million fund to invest in companies that will create software and related products based on the Java programming language developed by Sun Microsystems Inc.</p>
+        <p>Kleiner Perkins Caufield &amp; Byers, the Menlo Park, Calif., firm that was the primary backer of the Netscape Communications Corporation, as well as an early investor in Sun, has attracted a parade of high-technology giants to the fund. Along with Sun Microsystems, other investors are Cisco Systems, Comcast, Compaq Computer, I.B.M., Itochu, Netscape, Oracle, Tele-Communications Inc.,Technology Ventures and the U S West Media Group.</p>
+        <p>But most of the capital in the KPCB Java Fund will come from Kleiner Perkins' usual limited partners, which are primarily endowments and institutions.</p>
+        <p>Shares of Sun rose 50 cents, to $53.75, in Nasdaq trading. Plans for the fund were reported in an article in The Wall Street Journal today.</p>
+        <p>''This fund is about investing in companies that are going to build applications,'' John Doerr, a general partner in Kleiner Perkins, said today in a phone interview. Those applications need not be written entirely in Java, and the companies are free to use rival products as well, like the Microsoft Corporation's Activex.</p>
+        <p>''This is not some kind of anti-Microsoft coalition,'' Mr. Doerr said. ''Some of Microsoft's strongest partners as well as some of their strongest foes are in the fund.'' He noted that Microsoft was already a co-investor with Kleiner Perkins in four start-up companies.</p>
+        <p>Still, other venture capitalists said the fund was likely to run up against Microsoft. ''If you're talking about Java with a capital 'J' as the structure for a new operating system, that's a challenge,'' said John Hummer, general partner in Hummer Winblad Venture Partners, a venture capital firm in Emeryville, Calif.</p>
+        <p>Pam Edstrom, a spokeswoman for Microsoft, declined to address the question of the Java fund directly, saying that ''Microsoft believes the Internet will spawn a whole host of venture funds and companies.''</p>
+        <p>Part of Java's appeal is that programs created with it can run on a multitude of operating systems, thus weakening, at least in theory, Microsoft's stranglehold on that part of the software market. Java also allows the distribution across the Internet of tiny ''applets,'' small programs that customers could pay for as used or as needed, with the potential to change the economic model of the software industry.</p>
+        <p>But to date, most programs created with Java have been whimsical bits of animation and other demonstration projects. For Sun, the fund is a way to promote the production of industrial-strength applications using its tools.</p>
+        <p>''When Java was really taking off, the question was how do you get applications going,'' Eric Schmidt, Sun's chief technical officer, said in a phone interview. ''We could have funded companies ourselves, but we don't have that kind of expertise.''</p>
+        <p>While Sun expects a positive return on its investment, ''the real goal is to continue the Java momentum,'' he said.</p>
+        <p>The fund has already invested in three companies: Active Software, Calico Technology and Marimba. Active's software allows dissimilar programs like applications, data bases and Java-enabled browsers to exchange data across corporate intranets and the Internet. Calico's products automate the configuration and quotation of build-to-order products and services. Marimba is producing technologies for deploying network-aware Java applications.</p>
+        <p>Mr. Doerr said that the fund would ultimately invest in 20 to 30 companies in the next three to four years, and that it would be a minority investor in each company.</p>
+        <p>Though Kleiner Perkins has already experienced a deluge of Java-based business models from would-be entrepreneurs, Mr. Doerr said he believed the creation of the fund would lead to more investment in the most viable companies.</p>
+        <p>''In our judgment, the best opportunity right now is in making intranet enterprise applications'' for corporate computing, Mr. Doerr said. ''I think this has moved well beyond the hype-and-fad phase.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

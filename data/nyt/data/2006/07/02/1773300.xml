@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Caroline Stark, Joshua Beer</title>
+    <meta content="02csta" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1773300"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Stark, Caroline Barrie</person>
+        <person class="indexing_service">Beer, Joshua Nathaniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DF1530F931A35754C0A9609C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Caroline Stark, Joshua Beer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caroline Barrie Stark, the daughter of Helen L. Stark and Dr. Robert M. Stark of Greenwich, Conn., is to be married today to Joshua Nathaniel Beer, a son of Joan F. Beer and Dr. Dennis J. Beer of Waban, Mass. Rabbi Steven Stark Lowenstein, an uncle of the bride, is to officiate at Tarrytown House in Tarrytown, N.Y.</p>
+        <p>The bride, 27, is the manager of business development for Amicus Therapeutics, a biotechnology company in Cranbury, N.J. Last month she received an M.B.A. from the Massachusetts Institute of Technology. She graduated magna cum laude from Duke University.</p>
+      </block>
+      <block class="full_text">
+        <p>Caroline Barrie Stark, the daughter of Helen L. Stark and Dr. Robert M. Stark of Greenwich, Conn., is to be married today to Joshua Nathaniel Beer, a son of Joan F. Beer and Dr. Dennis J. Beer of Waban, Mass. Rabbi Steven Stark Lowenstein, an uncle of the bride, is to officiate at Tarrytown House in Tarrytown, N.Y.</p>
+        <p>The bride, 27, is the manager of business development for Amicus Therapeutics, a biotechnology company in Cranbury, N.J. Last month she received an M.B.A. from the Massachusetts Institute of Technology. She graduated magna cum laude from Duke University.</p>
+        <p>Her father, a cardiologist, practices in Greenwich and is an assistant clinical professor of medicine at the Yale University School of Medicine.</p>
+        <p>The bridegroom, 28, was until last month an associate at Charlesbank Capital Partners, an investment firm in Boston; he helped analyze potential investment opportunities. He is to begin studying next month for an M.B.A. at the University of Pennsylvania, from which he graduated magna cum laude.</p>
+        <p>His mother is a lawyer in Waban. His father, a pulmonary and critical-care specialist, is the chief of pulmonary medicine at Newton-Wellesley Hospital in Newton, Mass., and a director of the hospital's intensive-care unit.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

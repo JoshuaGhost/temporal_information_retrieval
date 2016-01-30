@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frank Carpenter, 91, Expert on Fossil Insects</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="663202"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">CARPENTER, FRANK (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5DA1430F933A15752C0A962958260" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frank Carpenter, 91, Expert on Fossil Insects</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Frank M. Carpenter, a Harvard University zoologist whose life's work was the study of insects, died on Tuesday at the Pine Knoll Nursing Home in Lexington, Mass. He was 91 and lived in Lexington.</p>
+        <p>His wife, Ruth, said he had a heart attack.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Frank M. Carpenter, a Harvard University zoologist whose life's work was the study of insects, died on Tuesday at the Pine Knoll Nursing Home in Lexington, Mass. He was 91 and lived in Lexington.</p>
+        <p>His wife, Ruth, said he had a heart attack.</p>
+        <p>Dr. Carpenter, a former chairman of the biology department, served as both the Fisher Professor of Natural History and the Alexander Agassiz Professor of Zoology at Harvard, where he had been a member of the faculty since 1932. He graduated from Harvard in 1926 and received his doctorate three years later.</p>
+        <p>His life's work, "Superclass Hexapoda," a two-volume treatise on fossil insects, was published by the Geological Society of America in 1992. It is regarded as the first comprehensive work of its kind, covering all the known history of fossil insects.</p>
+        <p>From 1961 to 1963 he was the national president of Sigma Xi, the national scientific honorary society, and for 30 years he was the managing editor of the entomological journal Psyche.</p>
+        <p>Last month Dr. Carpenter received the Thomas Say Award from the Entomological Society of America in recognition of his lifelong contributions to the study of insects.</p>
+        <p>Besides his wife, he is survived by two daughters, Ellen Church of Bass Harbor, Me., and Cynthia Harvey of Acton, Mass., and a son, Alden, of Fullerton, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Melinda Duryea, Alexander Draper</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="588659"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="ENGAGEMENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">DURYEA, MELINDA FARNSWORTH</person>
+        <person class="indexing_service">DRAPER, ALEXANDER YEARLEY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DD1731F934A35751C0A965958260" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Melinda Duryea, Alexander Draper</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. James M. Duryea of Lattingtown, L.I., have announced the engagement of their daughter Melinda Farnsworth Duryea to Alexander Yearley Draper, the son of Mr. and Mrs. Frank W. Draper of Atlanta. A June wedding is planned.</p>
+        <p>Miss Duryea, 23, and her fiance, 26, graduated from the University of Virginia. Her father is a principal in J. M. Duryea Inc., a specialist firm on the New York Stock Exchange. Her mother, Linda V. P. Duryea, is the owner and president of Min-Meg II, a retail and corporate stationery company in Lattingtown.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. James M. Duryea of Lattingtown, L.I., have announced the engagement of their daughter Melinda Farnsworth Duryea to Alexander Yearley Draper, the son of Mr. and Mrs. Frank W. Draper of Atlanta. A June wedding is planned.</p>
+        <p>Miss Duryea, 23, and her fiance, 26, graduated from the University of Virginia. Her father is a principal in J. M. Duryea Inc., a specialist firm on the New York Stock Exchange. Her mother, Linda V. P. Duryea, is the owner and president of Min-Meg II, a retail and corporate stationery company in Lattingtown.</p>
+        <p>Mr. Draper, 26, is an English teacher at the Baylor School in Chattanooga, Tenn. His mother, Fontaine Draper, is the director of admissions for the Lovett School in Atlanta. His father is the senior partner of Frank Draper &amp; Company, an investment advisory firm there.</p>
+        <p>ENGAGEMENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Southern Utilities Make Assignments</title>
+    <meta content="SOUTHERN" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA" name="column_name"/>
+    <docdata>
+      <doc-id id-string="905067"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <org class="indexing_service">Entergy Corp</org>
+        <org class="indexing_service">Thompson, J Walter, Co</org>
+        <org class="indexing_service">Florida Power Corp</org>
+        <org class="indexing_service">west wayne inc</org>
+        <org class="indexing_service">lipphardt advertising</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4D6113AF93BA15752C0A961958260" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Southern Utilities Make Assignments</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Entergy Corp names J Walter Thompson to handle its advertising account, which had been at varous local agencies; Florida Power Corp names West Wayne Inc to handle its account, which had been at Lipphardt Advertising (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two power companies have named agencies to handle their accounts, with combined billings estimated at more than $15 million.</p>
+        <p>The Entergy Corporation in New Orleans named J. Walter Thompson Atlanta to handle its account, which had been at various local agencies. Billings were estimated at more than $8.5 million. The decision came after a review that began with 20 agencies and had been narrowed to Thompson Atlanta, a unit of WPP Group, and 2 other finalists: Campbell Mithun Esty in Minneapolis, owned by top managers and the Interpublic Group of Companies, and Temerlin McClain in Dallas, part of Bozell, Jacobs, Kenyon &amp; Eckhardt.</p>
+      </block>
+      <block class="full_text">
+        <p>Two power companies have named agencies to handle their accounts, with combined billings estimated at more than $15 million.</p>
+        <p>The Entergy Corporation in New Orleans named J. Walter Thompson Atlanta to handle its account, which had been at various local agencies. Billings were estimated at more than $8.5 million. The decision came after a review that began with 20 agencies and had been narrowed to Thompson Atlanta, a unit of WPP Group, and 2 other finalists: Campbell Mithun Esty in Minneapolis, owned by top managers and the Interpublic Group of Companies, and Temerlin McClain in Dallas, part of Bozell, Jacobs, Kenyon &amp; Eckhardt.</p>
+        <p>And the Florida Power Corporation in St. Petersburg, Fla., named the Tampa office of West Wayne Inc. to handle its account, which had been at Lipphardt Advertising in Tampa for six years. The decision came after a monthlong review that also included three other finalists whose identities were not disclosed.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

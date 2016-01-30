@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Before Deal, Options Rose</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="460559"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">BANKS AND BANKING</classifier>
+        <classifier class="indexing_service" type="descriptor">STOCKS (CORPORATE)</classifier>
+        <org class="indexing_service">CHEMICAL BANKING CORP</org>
+        <org class="indexing_service">MANUFACTURERS HANOVER CORP</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D8113AF934A25754C0A967958260" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Before Deal, Options Rose</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, July 16</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Volume in options on Manufacturers Hanover's stock soared late last week, in advance of Monday's announcement that the bank would merge with the Chemical Banking Corporation.</p>
+        <p>Officials at the American Stock Exchange, where the options are traded, and the Securities and Exchange Commission declined to comment today on whether the surge was under investigation.</p>
+      </block>
+      <block class="full_text">
+        <p>Volume in options on Manufacturers Hanover's stock soared late last week, in advance of Monday's announcement that the bank would merge with the Chemical Banking Corporation.</p>
+        <p>Officials at the American Stock Exchange, where the options are traded, and the Securities and Exchange Commission declined to comment today on whether the surge was under investigation.</p>
+        <p>Typically, securities exchanges and the S.E.C. look at the performance of issues before and after significant news that could affect market price.</p>
+        <p>The S.E.C. staff, as a matter of routine, "looks at all trading routines and monitors carefully any trading that appears to be unusual," an S.E.C. spokeswoman said.</p>
+        <p>An option is the right -- but not the obligation -- to buy or sell a stock by a fixed date at a previously set price. Options trading is a market strategy that lets an investor lock in a price on a security in expectation it is about to rise or fall.</p>
+        <p>Volume on Manufacturers Hanover's call options, purchased in anticipation of the stock's price rising rapidly, jumped considerably on Friday, according to the Amex, and the options price rose from 50 cents to $1.06 on Friday and to $4.75 on Monday. The stock surged $6.125, to $29.375, on Monday. Today, the stock fell back 50 cents, to $28.875.</p>
+        <p>Volume in Aug. 25 call options on Manufacturers Hanover, which over the last month averaged 13 contracts a day, soared to 666 contracts on Friday -- before the merger was announced -- and 974 on Monday after the news was made public. An options contract is an agreement to buy or sell 100 shares of a security.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

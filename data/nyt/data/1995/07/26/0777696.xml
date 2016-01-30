@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Breed Technologies (BDT,N) reports earnings for Qtr to Jun 30</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="777696"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS
+&lt;p&gt;</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2D61038F935A15754C0A963958260" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Breed Technologies (BDT,N) reports earnings for Qtr to Jun 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Breed Technologies (BDT,N)</p>
+        <p>Qtr to Jun 30</p>
+        <p>1995</p>
+        <p>1994</p>
+        <p>Sales</p>
+        <p>104,736,000</p>
+        <p>94,777,000</p>
+        <p>Net inc</p>
+        <p>20,927,000</p>
+        <p>13,592,000</p>
+        <p>Share earns</p>
+        <p>.66</p>
+        <p>.43</p>
+        <p>Shares outst</p>
+        <p>31,487,000</p>
+        <p>31,320,000</p>
+        <p>Yr sales</p>
+        <p>400,972,000</p>
+        <p>324,673,000</p>
+        <p>Net inc</p>
+        <p>72,333,000</p>
+        <p>44,623,000</p>
+        <p>Share earns</p>
+        <p>2.30</p>
+        <p>1.43</p>
+        <p>Shares outst</p>
+        <p>31,434,000</p>
+        <p>31,247,000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

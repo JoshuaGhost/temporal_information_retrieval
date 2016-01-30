@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Child or More?</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="144570"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FAMILIES AND FAMILY LIFE</classifier>
+        <person class="indexing_service">VICTOR, ALICE</person>
+        <person class="indexing_service">KUTNER, LAWRENCE (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Families and Family Life</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7DA103CF931A25756C0A96E948260" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Child or More?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To The Home Section:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To The Home Section:</p>
+        <p>To The Home Section:</p>
+        <p>Although my children are grown, I read the Parent &amp; Child column by Lawrence Kutner from time to time and was prompted to react to the one about the ''right'' number of children to have  [ April 14 ] . What struck me was that he talks as if the relationship between siblings, good or bad, ends with their youth. He does not mention at all the advantages or disadvantages in adult life of being an only child or one of several.</p>
+        <p>I, now middle aged, am one of three children. I do not feel one way or another about whether I would have been happier, better adjusted or worse off if I had been an only child. But I would feel lonely as an only child now.</p>
+        <p>I was never particularly close to my sister and brother when we grew up, and now they both live abroad. But I feel closer to them than any of my friends, purely based on our siblingness, and I value their support, and happily give mine to them.</p>
+        <p>This is particularly important as parents get older. I am glad that my own children will have each other in my later years. And after my death and that of their father, they will have each other for a good period afterward. ALICE VICTOR  Greenwich, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

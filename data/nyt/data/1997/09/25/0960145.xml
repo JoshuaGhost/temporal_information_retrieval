@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SO FRENCH, IT MUST BE FROM CALIFORNIA</title>
+    <meta content="25FURN$03" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960145"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="CURRENTS: FRESH LOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Baker, Knapp &amp; Tubbs</org>
+        <person class="indexing_service">Barry, Barbara</person>
+        <person class="indexing_service">Ward, Timothy Jack</person>
+        <object.title class="indexing_service">Currents (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E3D8103BF936A1575AC0A961958260" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SO FRENCH, IT MUST BE FROM CALIFORNIA</hl1>
+      </hedline>
+      <byline class="print_byline">By Timothy Jack Ward</byline>
+      <byline class="normalized_byline">Ward, Timothy Jack</byline>
+      <abstract>
+        <p>Barbara Barry, Los Angeles furniture designer, exhibits new additions to her Southern California neo-traditional style furniture at Baker, Knapp &amp; Tubbs furniture showroom in Manhattan (Currents); photos (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Barbara Barry, the Los Angeles furniture designer, is known for a Southern California neo-traditional style. Much of her collection has a spare elegance, with fluted carving; her upholstery is often in creamy parchment colors or in leather with oversize nailheads. She credits 1930's French designers like Jules Leleu and Jean-Michel Frank for her inspiration.</p>
+      </block>
+      <block class="full_text">
+        <p>Barbara Barry, the Los Angeles furniture designer, is known for a Southern California neo-traditional style. Much of her collection has a spare elegance, with fluted carving; her upholstery is often in creamy parchment colors or in leather with oversize nailheads. She credits 1930's French designers like Jules Leleu and Jean-Michel Frank for her inspiration.</p>
+        <p>For the reopening last week of the expanded and renovated Baker, Knapp &amp; Tubbs furniture showroom at 200 Lexington Avenue (32d Street), Ms. Barry, below, presented several additions to her collection. The chicly tailored Oval-Back armchair (in watercolor, above) costs from $1,826 to $2,250.</p>
+        <p>CURRENTS: FRESH LOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

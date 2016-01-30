@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  HAVEY, AMBROSE S. III</title>
+    <meta content="DN120201" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="47" name="print_page_number"/>
+    <meta content="1A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1348017"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">HAVEY, AMBROSE S. III</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0D8113DF931A35751C1A9679C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  HAVEY, AMBROSE S. III</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAVEY-Ambrose S. III of Lakewood Ranch, FL. Died November 29, 2001. Former President of Havey Funeral Homes Inc., Yonkers, NY. Husband of Agnes S., father of Barbara of Sarasota, FL and Rev. A. Stewart IV of Lawrenceville, GA. Sister of Jean H. Seward; brother of Perry; 2 grandchildren, Elizabeth and Peter. A memorial will be held at a later date. Memorial donations may be made to The Kidney Foundation.</p>
+      </block>
+      <block class="full_text">
+        <p>HAVEY-Ambrose S. III of Lakewood Ranch, FL. Died November 29, 2001. Former President of Havey Funeral Homes Inc., Yonkers, NY. Husband of Agnes S., father of Barbara of Sarasota, FL and Rev. A. Stewart IV of Lawrenceville, GA. Sister of Jean H. Seward; brother of Perry; 2 grandchildren, Elizabeth and Peter. A memorial will be held at a later date. Memorial donations may be made to The Kidney Foundation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

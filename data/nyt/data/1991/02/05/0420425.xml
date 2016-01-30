@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Moceli Eyes Mile Record</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="420425"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TRACK AND FIELD</classifier>
+        <classifier class="indexing_service" type="descriptor">RECORDS AND ACHIEVEMENTS</classifier>
+        <person class="indexing_service">MORCELI, NOUREDDINE</person>
+        <object.title class="indexing_service">MEADOWLANDS/VITALIS INVITATIONAL</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D6173FF936A35751C0A967958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Moceli Eyes Mile Record</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Noureddine Morceli's winning time of 3 minutes 53.50 seconds in the Wanamaker Mile of the Millrose Games last Friday has given rise to the notion he might break the world indoor record this Friday night in the Meadowlands/Vitalis Invitational.</p>
+        <p>"I will try," the 20-year-old Algerian said yesterday. "I think I can do it."</p>
+        <p>The world indoor record-holder is Eamonn Coghlan, whose second of four victories in the meet came in 1983 and lowered the mark to 3:49.78. The race is now named in his honor.</p>
+        <p>Morceli's winning time Friday night was the second-fastest mile ever run in the Millrose Games, behind the 3:53.0 Coghlan ran in 1981. It was an impressive performance from the gun, and especially so over the last lap and a half, when he sprinted past Marcus O'Sullivan, the three-time defending champion.</p>
+        <p>What could make the effort easier in the Meadowlands meet is the size of the track, 160 meters, which is about 10 percent longer than the 160-yard track at Madison Square Garden. More than recognition as the world's fastest indoor miler, the record would also bring Morceli -- or any other man or woman -- a bonus of $100,000.</p>
+      </block>
+      <block class="full_text">
+        <p>Noureddine Morceli's winning time of 3 minutes 53.50 seconds in the Wanamaker Mile of the Millrose Games last Friday has given rise to the notion he might break the world indoor record this Friday night in the Meadowlands/Vitalis Invitational.</p>
+        <p>"I will try," the 20-year-old Algerian said yesterday. "I think I can do it."</p>
+        <p>The world indoor record-holder is Eamonn Coghlan, whose second of four victories in the meet came in 1983 and lowered the mark to 3:49.78. The race is now named in his honor.</p>
+        <p>Morceli's winning time Friday night was the second-fastest mile ever run in the Millrose Games, behind the 3:53.0 Coghlan ran in 1981. It was an impressive performance from the gun, and especially so over the last lap and a half, when he sprinted past Marcus O'Sullivan, the three-time defending champion.</p>
+        <p>What could make the effort easier in the Meadowlands meet is the size of the track, 160 meters, which is about 10 percent longer than the 160-yard track at Madison Square Garden. More than recognition as the world's fastest indoor miler, the record would also bring Morceli -- or any other man or woman -- a bonus of $100,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</title>
+    <meta content="10holl" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1853492"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="CLASSICAL RECORDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <org class="indexing_service">Rochester Philharmonic Orchestra</org>
+        <person class="indexing_service">Holland, Bernard</person>
+        <person class="indexing_service">Gershwin, George (1898-1937)</person>
+        <person class="indexing_service">Nakamatsu, Jon</person>
+        <person class="indexing_service">Tyzik, Jeff</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3DF1E30F933A25755C0A9619C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stormy Schubert, Soaring Mahler, Easy-Does-It Gershwin</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD HOLLAND</byline>
+      <byline class="normalized_byline">Holland, Bernard</byline>
+      <abstract>
+        <p>Bernard Holland reviews new CD of Gershwin's Piano Concerto in F, Rhapsody in Blue and Cuban Overture with Jon Nakamatsu, pianist, and Rochester Philharmonic conducted by Jeff Tyzik; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gershwin: Piano Concerto in F; 'Rhapsody in Blue,' 'Cuban Overture'  Jon Nakamatsu, pianist; Rochester Philharmonic, conducted by Jeff Tyzik. Harmonia Mundi France HMU 907441; CD.</p>
+        <p>IT was the misguided ambition of jazz geniuses like Duke Ellington to write so-called classical music, as if the concert hall were some pinnacle toward which lower musical orders yearned to climb. We have learned better, I hope. Ellington's jazz repertory, divorced from his uneasy stabs at symphonic forms, occupies the high ground these days, with the vast body of American classical music stretched out below it.</p>
+      </block>
+      <block class="full_text">
+        <p>Gershwin: Piano Concerto in F; 'Rhapsody in Blue,' 'Cuban Overture'  Jon Nakamatsu, pianist; Rochester Philharmonic, conducted by Jeff Tyzik. Harmonia Mundi France HMU 907441; CD.</p>
+        <p>IT was the misguided ambition of jazz geniuses like Duke Ellington to write so-called classical music, as if the concert hall were some pinnacle toward which lower musical orders yearned to climb. We have learned better, I hope. Ellington's jazz repertory, divorced from his uneasy stabs at symphonic forms, occupies the high ground these days, with the vast body of American classical music stretched out below it.</p>
+        <p>Gershwin was a different matter. There was a trajectory to his career and with it a confidence that the popular music in his bones made perfect sense in growingly sophisticated orchestra pieces. The ''Cuban Overture'' is filled with harmonic ambiguity. The Piano Concerto and ''Rhapsody in Blue'' adapt European rhetoric to a wholly American language. All three pieces are on a new CD with the pianist Jon Nakamatsu and the Rochester Philharmonic conducted by Jeff Tyzik. On his way toward a musical style we shall never know about, Gershwin left behind songs of Schubertian quality and ''Porgy and Bess.'' Whether they were his pinnacle or a staging area for a higher climb are questions his early death reduces to speculation.</p>
+        <p>Mr. Nakamatsu's relaxed virtuosity in the concerto and the rhapsody is in contrast to the usual ''wired'' approach to these pieces. He lingers and ruminates where others press on.</p>
+        <p>If Americans like Mr. Nakamatsu don't necessarily play this music better than others, it is easier for them. Imperfections identify peculiar national styles. Gershwin's syncopations have a genetic drawl that defies what is on the page, just as the second beat of a Viennese waltz misappropriates both the note lengths and accents of three-in-a-bar.</p>
+        <p>The Rochester players do very well. Appropriately, brass and percussion are pushed forward, including Gershwin's unfortunate gong stroke in the finale of the concerto.</p>
+        <p>BERNARD HOLLAND</p>
+        <p>CLASSICAL RECORDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR022432" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1185930"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Orchestre National De France</org>
+        <org class="indexing_service">London Philharmonic</org>
+        <person class="indexing_service">Masur, Kurt</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000322T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E7DF163DF931A15750C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>March 21 report about appointment of Kurt Masur as music director of Orchestre National de France referred incorrectly to his future with London Philharmonic Orchestra; he will be principal conductor of London orchestra from Sept through 2004-05 season</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A brief report yesterday about the appointment of Kurt Masur as music director of the Orchestre National de France referred incorrectly to his future with the London Philharmonic Orchestra. Mr. Masur, who is also music director of the New York Philharmonic, will be the principal conductor of the London orchestra from September through the 2004-05 season; he does not plan to step down next year.</p>
+      </block>
+      <block class="full_text">
+        <p>A brief report yesterday about the appointment of Kurt Masur as music director of the Orchestre National de France referred incorrectly to his future with the London Philharmonic Orchestra. Mr. Masur, who is also music director of the New York Philharmonic, will be the principal conductor of the London orchestra from September through the 2004-05 season; he does not plan to step down next year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tito Puente Takes His Place On His Music's Time Line</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="748863"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="JAZZ REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">JAZZ</classifier>
+        <person class="indexing_service">PUENTE, TITO</person>
+        <person class="indexing_service">WATROUS, PETER</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Jazz</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jazz</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950315T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED9113CF936A25750C0A963958260" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tito Puente Takes His Place On His Music's Time Line</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER WATROUS</byline>
+      <byline class="normalized_byline">WATROUS, PETER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>"The Latin Tinge: Jazz Music and the Influence of Latin Rhythms," a concert featuring the music of Tito Puente presented by Jazz at Lincoln Center, was a fine idea. Mr. Puente, a percussionist, band leader, composer and arranger, recorded an extraordinary series of performances during the 1950's and 60's. A legacy of synthesists like Dizzy Gillespie, Machito, Mario Bauza and others, the music drew from jazz's big bands and from Afro-Cuba's disciplined percussion sections, and it was visionary.</p>
+        <p>But Mr. Puente, who with Celia Cruz is still the biggest draw in Afro-Cuban music, doesn't seem to have adapted to the idea of being a historical figure. At Alice Tully Hall on Friday night, the show fell apart for several reasons. Though Mr. Puente seemed genuinely happy to air out the music, he performed lesser work from a new album, told jokes and gave long monologues. And he brought out dancers. There was a tension in the presentation that suggested a lack of ease.</p>
+      </block>
+      <block class="full_text">
+        <p>"The Latin Tinge: Jazz Music and the Influence of Latin Rhythms," a concert featuring the music of Tito Puente presented by Jazz at Lincoln Center, was a fine idea. Mr. Puente, a percussionist, band leader, composer and arranger, recorded an extraordinary series of performances during the 1950's and 60's. A legacy of synthesists like Dizzy Gillespie, Machito, Mario Bauza and others, the music drew from jazz's big bands and from Afro-Cuba's disciplined percussion sections, and it was visionary.</p>
+        <p>But Mr. Puente, who with Celia Cruz is still the biggest draw in Afro-Cuban music, doesn't seem to have adapted to the idea of being a historical figure. At Alice Tully Hall on Friday night, the show fell apart for several reasons. Though Mr. Puente seemed genuinely happy to air out the music, he performed lesser work from a new album, told jokes and gave long monologues. And he brought out dancers. There was a tension in the presentation that suggested a lack of ease.</p>
+        <p>The concert didn't always work musically, either, and it didn't seem particularly well planned. The first half, which lasted an hour and a half, didn't integrate the rhythm section and the horns well, and the sound -- and perhaps the orchestra's execution (it was hard to tell which) -- made the horn parts blurry, lacking the necessary precision to drive the music. The percussion section drowned out the horns as well, and on several occasions, the trumpeters, improvising without a microphone, could barely be heard.</p>
+        <p>The trumpeter Arturo Sandoval dropped in to perform Dizzy Gillespie's "Groovin' High," and his own quiet "A Mis Abuelos"; he played with a hard bright tone that filled the hall. And a percussion trio, including Milton Cardona, performed a graceful section of religious music that is the source of the Afro-Cuban sound.</p>
+        <p>The second half started with a short, introspective set of music by the Fort Apache band, which has figured out the balance between jazz and Afro-Cuban rhythms better than most current small groups. Then came a wait, and out sauntered Mr. Puente and his orchestra again. This time the band sounded better, and it and the trumpeter Wynton Marsalis performed "Manteca," with Mr. Marsalis adding New Orleans ideas and a burred, distorted tone to his improvisation. The band played "Oye Como Va" and "Ran Kan Kan," ending an exhausting night.  JAZZ REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fans Hope It Isn't the End For a Shop Selling Donated Books</title>
+    <meta content="04BOOK$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1268222"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="NEIGHBORHOOD REPORT: UPPER EAST SIDE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Book Trade</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Bryn Mawr College</org>
+        <person class="indexing_service">Kugel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE1D7153EF937A35751C0A9679C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fans Hope It Isn't the End For a Shop Selling Donated Books</hl1>
+      </hedline>
+      <byline class="print_byline">By SETH KUGEL</byline>
+      <byline class="normalized_byline">Kugel, Seth</byline>
+      <abstract>
+        <p>Article on Bryn Mawr College used book store on East 79th Street and York Avenue, closed last December when its basement home flooded; college hopes to find new location and reopen; logo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the detriment of avid readers, used book dealers, college-bound girls and people with lots of old paperbacks to get rid off, the Bryn Mawr Book Shop closed in December when its basement home, at East 79th Street and York Avenue, became a nightmare of bursting pipes.</p>
+        <p>Since 1974, the store had sold donated books to finance scholarships for students at Bryn Mawr, the women's college outside Philadelphia. The store's board has begun forming a business plan and looking for new space, but that may be hard: its rent was  well below market.</p>
+      </block>
+      <block class="full_text">
+        <p>To the detriment of avid readers, used book dealers, college-bound girls and people with lots of old paperbacks to get rid off, the Bryn Mawr Book Shop closed in December when its basement home, at East 79th Street and York Avenue, became a nightmare of bursting pipes.</p>
+        <p>Since 1974, the store had sold donated books to finance scholarships for students at Bryn Mawr, the women's college outside Philadelphia. The store's board has begun forming a business plan and looking for new space, but that may be hard: its rent was  well below market.</p>
+        <p>''At this point we're not sure of the limits of what we can pay,'' said Laura Thomas, the board president.</p>
+        <p>The New York store, one of eight Bryn Mawr bookstores from Pittsburgh to Cambridge, Mass., was run by volunteers and a paid manager. The basement space was musty, lighted by bare bulbs, and so crisscrossed with pipes that anyone more than 5 feet 5 inches tall had to duck to get to the fiction section. Books packed the shelves, not quite tamed into the categories noted on index-card-and-Magic-Marker signs.</p>
+        <p>''You couldn't come with a specific title in mind, but you could always find a treasure of sorts,'' Ms. Thomas said.</p>
+        <p>A Grisham novel might cost $1. A volume from a 1903 set of Edgar Allan Poe's works went for $4. Some clients bought baskets of books, read them and redonated them. Others bought a single book but stayed for hours to talk.</p>
+        <p>Dealers came to check out the small valuable books collection, which once included a first edition of Virginia Woolf's first novel, ''The Voyage Out.'' In all, more than $1 million has been raised for scholarships since the store opened.</p>
+        <p>The flooding was getting progressively worse since last summer, so the board decided to close shop. It hopes to reopen elsewhere.</p>
+        <p>''There are people who say the time for volunteer bookstores has come and gone,''  Ms. Thomas said. ''We feel it is still really possible.''</p>
+        <p>SETH KUGEL</p>
+        <p>NEIGHBORHOOD REPORT: UPPER EAST SIDE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

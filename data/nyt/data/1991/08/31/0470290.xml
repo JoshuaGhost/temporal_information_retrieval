@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="470290"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <org class="indexing_service">AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS</org>
+        <org class="indexing_service">AMERICAN BROADCASTING COS INC (ABC)</org>
+        <person class="indexing_service">CARAS, ROGER</person>
+        <person class="indexing_service">DANIELS, LEE A</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D91039F932A0575BC0A967958260" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By LEE A. DANIELS</byline>
+      <byline class="normalized_byline">DANIELS, LEE A</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROGER CARAS, the television reporter and author of nearly 60 books on nature and animal life, will become president of the American Society for the Prevention of Cruelty to Animals next month. Mr. Caras, 63 years old, who joined ABC News 17 years ago as its wildlife correspondent, is returning to his former career in conservation and animal preservation.</p>
+        <p>"The immediate tasks before us," Mr. Caras said by telephone from the society's headquarters in Manhattan, "are absolutely no different than when the society was founded in 1866: alleviating pain, fear and suffering."</p>
+      </block>
+      <block class="full_text">
+        <p>ROGER CARAS, the television reporter and author of nearly 60 books on nature and animal life, will become president of the American Society for the Prevention of Cruelty to Animals next month. Mr. Caras, 63 years old, who joined ABC News 17 years ago as its wildlife correspondent, is returning to his former career in conservation and animal preservation.</p>
+        <p>"The immediate tasks before us," Mr. Caras said by telephone from the society's headquarters in Manhattan, "are absolutely no different than when the society was founded in 1866: alleviating pain, fear and suffering."</p>
+        <p>Mr. Caras said that his work would include setting up a "professional counseling program for people to get sensible, sympathetic advice about their pets."</p>
+        <p>He said that two of his goals would be to strengthen the society's policy barring the adoption of any dog or cat until the animal has been spayed or neutered and to push for state legislation to impose the same restrictions on all such pet adoptions.</p>
+        <p>The A.S.P.C.A. is one of many humane societies that have similar names but are not formally linked. The group Mr. Caras will head has 400,000 members and offices in Washington and Los Angeles.</p>
+        <p>Mr. Caras put the country's dog and cat population at 50 million to 55 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  ZABELL, BEATRICE</title>
+    <meta content="DN012600" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1171640"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">ZABELL, BEATRICE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000126T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE2D7143CF935A15752C0A9669C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  ZABELL, BEATRICE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ZABELL-Beatrice, (nee Gabin). Beloved wife of the late Emil. Dear mother of Sandy Zabell. Fond sister of the late Selma (the late Abe) Frankel and Lee (the late Solomon) Friedman. Due to weather, graveside services will be Thursday, 1:00PM Cedar Park Cemetery, Paramus, N.J. Information Lloyd Mandel Levayah Funerals, 847-679-3939, 888-LEVAYAH or www.levayah.com</p>
+      </block>
+      <block class="full_text">
+        <p>ZABELL-Beatrice, (nee Gabin). Beloved wife of the late Emil. Dear mother of Sandy Zabell. Fond sister of the late Selma (the late Abe) Frankel and Lee (the late Solomon) Friedman. Due to weather, graveside services will be Thursday, 1:00PM Cedar Park Cemetery, Paramus, N.J. Information Lloyd Mandel Levayah Funerals, 847-679-3939, 888-LEVAYAH or www.levayah.com</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

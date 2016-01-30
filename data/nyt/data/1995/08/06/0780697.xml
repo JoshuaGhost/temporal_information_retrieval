@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>July 30-Aug. 5; The Old Man</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="780697"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ILLEGITIMACY</classifier>
+        <classifier class="indexing_service" type="descriptor">PREGNANCY AND OBSTETRICS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DD103FF935A3575BC0A963958260" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>July 30-Aug. 5; The Old Man</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When teenage girls have babies, about 40 percent of the birth certificates are missing the father's age. To get a better picture of whom the fathers are, the Alan Guttmacher Institute analyzed a Federal survey of women who gave birth in 1988, and released its findings last week.</p>
+      </block>
+      <block class="full_text">
+        <p>When teenage girls have babies, about 40 percent of the birth certificates are missing the father's age. To get a better picture of whom the fathers are, the Alan Guttmacher Institute analyzed a Federal survey of women who gave birth in 1988, and released its findings last week.</p>
+        <p>The results have implications for the welfare reform debate - three-quarters of the fathers of babies born to girls age 15 to 17 are adults. Since more than half of those children start life below the poverty line, adult fathers, ince identified, might be pressured to take on more financial responsibility in the rearing of their children.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

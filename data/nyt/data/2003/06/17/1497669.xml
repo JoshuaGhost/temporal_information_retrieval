@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New York: Manhattan: Man Dies After Fleeing Through Window</title>
+    <meta content="MB015121" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1497669"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Falls</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Kelley, Tina</person>
+        <person class="indexing_service">Sanchez Vasquez, Jual Carlos</person>
+        <person class="indexing_service">Abando, Andres (Drugs)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D61238F934A25755C0A9659C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New York: Manhattan: Man Dies After Fleeing Through Window</hl1>
+      </hedline>
+      <byline class="print_byline">By Tina Kelley (NYT); Compiled by Anthony Ramirez</byline>
+      <byline class="normalized_byline">Kelley, Tina</byline>
+      <abstract>
+        <p>Juan Carlos Sanchez Vasquez dies after falling out window of apartment in Upper Manhattan while police are investigating drug operations there; Andres Abando is arrested at scene, known drug location on Sugar Hill, where police found drugs and paraphernalia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man died yesterday after falling from a fourth-floor apartment in Upper Manhattan that the police were investigating for drugs, the authorities said. About 4:15 p.m., an officer at 470 West 150th Street in Sugar Hill saw a man leave and re-enter an apartment that the police said was a known drug location. As the officer arrested the man, Andres Abando, 37, another man in the apartment fled through a rear window. That man, Juan Carlos Sanchez Vasquez, 30, of Manhattan, was pronounced dead at the scene. The police said they found drugs and paraphernalia at the apartment. Mr. Abando was charged with criminal possession of a controlled substance.</p>
+        <p>Tina Kelley (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A man died yesterday after falling from a fourth-floor apartment in Upper Manhattan that the police were investigating for drugs, the authorities said. About 4:15 p.m., an officer at 470 West 150th Street in Sugar Hill saw a man leave and re-enter an apartment that the police said was a known drug location. As the officer arrested the man, Andres Abando, 37, another man in the apartment fled through a rear window. That man, Juan Carlos Sanchez Vasquez, 30, of Manhattan, was pronounced dead at the scene. The police said they found drugs and paraphernalia at the apartment. Mr. Abando was charged with criminal possession of a controlled substance.</p>
+        <p>Tina Kelley (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

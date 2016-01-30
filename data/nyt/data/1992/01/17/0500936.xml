@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Chang's In, but McEnroe's Out</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="500936"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <series series.name="TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OLYMPIC GAMES (1992)</classifier>
+        <classifier class="indexing_service" type="descriptor">SUMMER GAMES (OLYMPICS)</classifier>
+        <classifier class="indexing_service" type="descriptor">TENNIS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <org class="indexing_service"></org>
+        <org class="indexing_service">UNITED STATES TENNIS ASSOCIATION</org>
+        <person class="indexing_service">MCENROE, JOHN</person>
+        <person class="indexing_service">CHANG, MICHAEL</person>
+        <person class="indexing_service">SAMPRAS, PETE</person>
+        <person class="indexing_service">COURIER, JIM</person>
+        <person class="indexing_service">CAPRIATI, JENNIFER</person>
+        <person class="indexing_service">FERNANDEZ, MARY JOE</person>
+        <person class="indexing_service">GARRISON, ZINA</person>
+        <person class="indexing_service">FERNANDEZ, GIGI</person>
+        <person class="indexing_service">FINN, ROBIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004/Tennis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DE133CF934A25752C0A964958260" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Chang's In, but McEnroe's Out</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBIN FINN</byline>
+      <byline class="normalized_byline">FINN, ROBIN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John McEnroe is off the Olympic list and Michael Chang is on it.</p>
+        <p>The United States Tennis Association has completed the selection process for the men's and women's tennis teams that will compete in the Barcelona Games this summer, provided that the United States Olympic Committee likes what it sees and submits that list to the International Tennis Federation by the deadline tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>John McEnroe is off the Olympic list and Michael Chang is on it.</p>
+        <p>The United States Tennis Association has completed the selection process for the men's and women's tennis teams that will compete in the Barcelona Games this summer, provided that the United States Olympic Committee likes what it sees and submits that list to the International Tennis Federation by the deadline tomorrow.</p>
+        <p>Suddenly, McEnroe, who is calling this year his last of serious competition, is on nobody's Olympic list.</p>
+        <p>Jim Courier, Pete Sampras and Chang, who agreed yesterday to revise his summer schedule to make room for the Olympics, will make up the three-man singles squad.</p>
+        <p>Courier and Sampras have also been nominated as a doubles team; they have a 27-20 record as doubles partners.</p>
+        <p>Jennifer Capriati, Mary Joe Fernandez, Zina Garrison, and Gigi Fernandez, the same group that represented the United States in the Federation Cup final in July, have been nominated for the women's team.</p>
+        <p>A potential conflict over the affiliation of Gigi Fernandez, who had been approached by Olympic officials from her native Puerto Rico, was resolved when Puerto Rico agreed to honor her prior commitment to the United States team.</p>
+        <p>Selecting the men's squad became tricky once McEnroe volunteered for duty and 10th-ranked Andre Agassi declined. As the world's most highly ranked Americans, the second-ranked Courier and sixth-ranked Sampras had an automatic claim to the top singles spots.</p>
+        <p>That left the U.S.T.A. undecided about nominating a two-man singles roster, nominating McEnroe for doubles, and attempting to get him a wild card into singles once the Games began. When McEnroe, ranked 28th in the world, expressed reservations about reprising his current doubles-only Davis Cup role at the Olympics, the U.S.T.A. decided to stick to rankings and clay-court expertise and select a third singles player behind Courier and Sampras.</p>
+        <p>TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

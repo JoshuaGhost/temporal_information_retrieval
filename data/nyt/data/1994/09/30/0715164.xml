@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="715164"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DD1F3AF933A0575AC0A962958260" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott,</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+      <dateline>ALBUQUERQUE, N.M., Sept. 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An ebullient American team, marked by destiny since a stunning escape from elimination a week earlier, captured the Rosenblum Open Team title here Wednesday night at the NEC World Championships.</p>
+        <p>Seymon Deutsch of Laredo, Tex., with Michael Rosenberg of Manhattan, Chip Martel of Davis, Calif., Lew Stansby of Castro Valley, Calif., Roger Bates of Las Vegas, Nev., and Gaylor Kasle of La Quinta, Calif., trailed a Polish team into the last quarter of the final by 8 imps, but then surged ahead to win by 24.</p>
+      </block>
+      <block class="full_text">
+        <p>An ebullient American team, marked by destiny since a stunning escape from elimination a week earlier, captured the Rosenblum Open Team title here Wednesday night at the NEC World Championships.</p>
+        <p>Seymon Deutsch of Laredo, Tex., with Michael Rosenberg of Manhattan, Chip Martel of Davis, Calif., Lew Stansby of Castro Valley, Calif., Roger Bates of Las Vegas, Nev., and Gaylor Kasle of La Quinta, Calif., trailed a Polish team into the last quarter of the final by 8 imps, but then surged ahead to win by 24.</p>
+        <p>It was the fourth world title for Martel and Stansby and the second for Deutsch. The other three won for the first time. The losers were Piotr Gawrys, Krzysztof Lasocki, Adam Zmudzinski and Cezary Balicki, together with Erwin Otvosi and Marek Borewicz, who were on the sidelines virtually throughout.</p>
+        <p>In the World Open Pairs Championship, the leaders into the final stage, beginning today, are:</p>
+        <p>1st, Apolinary Kowalski and Jacek Romanski of Poland, 58.78 percent; 2d, Gabriel Chagas and Marcelo Branco of Brazil, 58.42; 3d, David Berkowitz of Old Tappan, N.J., and Larry Cohen of Little Falls, N.J., 57.79.</p>
+        <p>Leaders in the final of the World Women's Pairs are:</p>
+        <p>1st, Dianna Gordon of Toronto and Sharyn Reus of St. Laurent, Quebec, 57.95 percent; 2d, Cheri Bjerkan of Elmhurst, Ill., and Janice Seamon of Miami, 57.61; 3d, Petra Mansell and Merle Modlin of South Africa, 57.52.</p>
+        <p>On the diagramed deal from the final session of the Rosenblum, Bates and Rosenberg sat East and West. They ventured six spades but South saved in seven diamonds. This was doubled and defeated by four tricks for a penalty of 800. In the replay, the contract was six diamonds doubled, down 500, and the Americans gained 7 imps.</p>
+        <p>This left unresolved this question: What would have happened in six spades? This contract would have been easy after a routine diamond lead, but would have been in jeopardy after an inspired heart lead by North. Then Rosenberg would have needed to be equally inspired by playing to drop the club king, and he probably would not have done so.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

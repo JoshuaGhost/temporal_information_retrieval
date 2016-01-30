@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Federal Grand Jury Foreman Jailed for Missing Sessions</title>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="439856"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">JURY SYSTEM</classifier>
+        <location class="indexing_service">GEORGIA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Georgia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Georgia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jury System</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910424T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DA1439F937A15757C0A967958260" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Federal Grand Jury Foreman Jailed for Missing Sessions</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>SAVANNAH, Ga., April 23</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man who was chosen foreman of a Federal grand jury in January has been jailed and fined for missing the jury's monthly three-day sessions in February, March and April.</p>
+        <p>The foreman, Edwin Paul Schaffhauser, who insists that he called in sick on those days, spent the weekend in jail, his second weekend behind bars as he works off a five-day sentence imposed by Federal District Judge B. Avant Edenfield for contempt of court.</p>
+      </block>
+      <block class="full_text">
+        <p>A man who was chosen foreman of a Federal grand jury in January has been jailed and fined for missing the jury's monthly three-day sessions in February, March and April.</p>
+        <p>The foreman, Edwin Paul Schaffhauser, who insists that he called in sick on those days, spent the weekend in jail, his second weekend behind bars as he works off a five-day sentence imposed by Federal District Judge B. Avant Edenfield for contempt of court.</p>
+        <p>Judge Edenfield also fined Mr. Schaffhauser $1,000 and removed him from the jury.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

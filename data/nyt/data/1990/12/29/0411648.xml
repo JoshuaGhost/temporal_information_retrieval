@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="411648"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901229T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DB103AF93AA15751C1A966958260" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Economic Index Fell 1.2% Last Month</p>
+        <p>The Government's index of leading indicators, its main gauge for predicting the economy, fell in November for the fifth straight month. The decline suggested there would be no end soon to the contraction that now lacks only formal designation as the nation's ninth postwar recession. Page 29.  Farewell to Nancy Cruzan</p>
+        <p>A once-vivacious young woman who became a national symbol for the right to die was buried in a country cemetery in Missouri. Page 8. Advice on Direct Deposits</p>
+        <p>Direct deposits of salaries and other funds are convenient, but problems can arise. What to do if things go awry. Consumer's World, page 46.</p>
+      </block>
+      <block class="full_text">
+        <p>Economic Index Fell 1.2% Last Month</p>
+        <p>The Government's index of leading indicators, its main gauge for predicting the economy, fell in November for the fifth straight month. The decline suggested there would be no end soon to the contraction that now lacks only formal designation as the nation's ninth postwar recession. Page 29.  Farewell to Nancy Cruzan</p>
+        <p>A once-vivacious young woman who became a national symbol for the right to die was buried in a country cemetery in Missouri. Page 8. Advice on Direct Deposits</p>
+        <p>Direct deposits of salaries and other funds are convenient, but problems can arise. What to do if things go awry. Consumer's World, page 46.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Editor for I.D. Magazine</title>
+    <meta content="12MAGG$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1447845"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="CURRENTS: DESIGN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Id Magazine</org>
+        <person class="indexing_service">Mckee, Bradford</person>
+        <person class="indexing_service">Lasky, Julie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDB153AF931A25751C1A9649C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Editor for I.D. Magazine</hl1>
+      </hedline>
+      <byline class="print_byline">By BRADFORD McKEE</byline>
+      <byline class="normalized_byline">Mckee, Bradford</byline>
+      <abstract>
+        <p>Julie Lasky is new editor of design magazine ID; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.D., a design magazine whose influence far outweighs its subscription base of 31,000, has a new editor, Julie Lasky. Ms. Lasky, 42, the last editor of the now defunct Interiors magazine, plans to revive the New York operations of I.D., which was moved to Cincinnati in 1999, shortly after being acquired by F&amp;W Publications. Steven C. Pippin, the magazine's publisher, said that I.D. still has a loyal following but ''we've not expanded the brand as much as we would like.'' The magazine, which won four National Magazine Awards in the last decade, has been without a well-known editor since 2000. ''What I need to do is beef up circulation,'' Ms. Lasky said. The June 2003 issue will be the first to reflect her leadership. ''I'm thinking of nanotechnology, surveillance tools and, of course, Italian furniture,'' she said. ''If Isaac Mizrahi were to take over Popular Mechanics -- that is the kind of magazine I want.''</p>
+        <p>BRADFORD McKEE</p>
+      </block>
+      <block class="full_text">
+        <p>I.D., a design magazine whose influence far outweighs its subscription base of 31,000, has a new editor, Julie Lasky. Ms. Lasky, 42, the last editor of the now defunct Interiors magazine, plans to revive the New York operations of I.D., which was moved to Cincinnati in 1999, shortly after being acquired by F&amp;W Publications. Steven C. Pippin, the magazine's publisher, said that I.D. still has a loyal following but ''we've not expanded the brand as much as we would like.'' The magazine, which won four National Magazine Awards in the last decade, has been without a well-known editor since 2000. ''What I need to do is beef up circulation,'' Ms. Lasky said. The June 2003 issue will be the first to reflect her leadership. ''I'm thinking of nanotechnology, surveillance tools and, of course, Italian furniture,'' she said. ''If Isaac Mizrahi were to take over Popular Mechanics -- that is the kind of magazine I want.''</p>
+        <p>BRADFORD McKEE</p>
+        <p>CURRENTS: DESIGN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

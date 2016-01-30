@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  FINGER, SIDNEY</title>
+    <meta content="DN033103" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1477068"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <person class="indexing_service">FINGER, SIDNEY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030331T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E2DF1339F932A05750C0A9659C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  FINGER, SIDNEY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FINGER-Sidney. On March 27th, 2003 at age 76. Beloved husband of Elaine, loving father of William (Elizabeth) and Carol (Marc), cherished grandfather of David, John, Jacob and Caroline. Fond brother of Harold. Interment private. Memorial service on Tuesday, April 1st, 11 AM, at Temple Emanu - El, 5th Avenue at 65th Street. Flowers graciously declined.</p>
+      </block>
+      <block class="full_text">
+        <p>FINGER-Sidney. On March 27th, 2003 at age 76. Beloved husband of Elaine, loving father of William (Elizabeth) and Carol (Marc), cherished grandfather of David, John, Jacob and Caroline. Fond brother of Harold. Interment private. Memorial service on Tuesday, April 1st, 11 AM, at Temple Emanu - El, 5th Avenue at 65th Street. Flowers graciously declined.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

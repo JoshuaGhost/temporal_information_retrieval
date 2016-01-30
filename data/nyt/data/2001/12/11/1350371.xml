@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="L11COR$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/12/11/opinion/L11CORR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1350371"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <object.title class="indexing_service">Saving Private Ryan (Movie)</object.title>
+        <object.title class="indexing_service">Editorial Observer (Times Column)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="descriptor">Royal Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Royal Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20011211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0DB163FF932A25751C1A9679C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+        <hl2 class="online_headline">Correction</hl2>
+      </hedline>
+      <abstract>
+        <p>Correction of December 9 Editorial Observer column, which mischaracterized World War II movie, Saving Private Ryan</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A letter yesterday advocating the end of the Japanese monarchy misstated the relationship between the newly born princess and Emperor Akihito. She is his granddaughter, not daughter.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A letter yesterday advocating the end of the Japanese monarchy misstated the relationship between the newly born princess and Emperor Akihito. She is his granddaughter, not daughter.</p>
+      </block>
+      <block class="full_text">
+        <p>A letter yesterday advocating the end of the Japanese monarchy misstated the relationship between the newly born princess and Emperor Akihito. She is his granddaughter, not daughter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

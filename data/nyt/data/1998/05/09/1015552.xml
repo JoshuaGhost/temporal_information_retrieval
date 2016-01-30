@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arthur Miller Gets Award From PEN</title>
+    <meta content="09PEN" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1015552"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE1DD1031F93AA35756C0A96E958260" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arthur Miller Gets Award From PEN</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE VAN GELDER</byline>
+      <abstract>
+        <p>PEN American Center presents its annual literary and theatrical awards to Arthur Miller, Richard Greenberg, Peter Constantine, Eamon Grennan, Adam Hochschild, Peter Balakian, Serge Schmemann, C K Williams, Gregory Kolovakos</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The playwright Arthur Miller was named the winner yesterday of the first PEN/Laura Pels Foundation Award to a master American dramatist.</p>
+        <p>His award highlighted a list of prizes announced by PEN American Center, the association of literary writers. They will be presented on Thursday in the Time Life Building.</p>
+      </block>
+      <block class="full_text">
+        <p>The playwright Arthur Miller was named the winner yesterday of the first PEN/Laura Pels Foundation Award to a master American dramatist.</p>
+        <p>His award highlighted a list of prizes announced by PEN American Center, the association of literary writers. They will be presented on Thursday in the Time Life Building.</p>
+        <p>In choosing Mr. Miller, the judges for the PEN/Laura Pels award cited not only his longstanding achievements but his recent work on ''innovative productions'' like the current revival of 'A View From the Bridge' on Broadway and Nicholas Hytner's film 'The Crucible.'</p>
+        <p>Richard Greenberg, the author of ''Eastern Standard'' and the book for a new version of ''Pal Joey,'' among other works for the stage, will receive a $5,000 stipend for an American playwright in mid-career.</p>
+        <p>The PEN/Book-of-the-Month Club Translation Prize of $3,000 goes to Peter Constantine, translator of ''Six Early Stories'' by Thomas Mann, published by Sun &amp; Moon. The $1,000 PEN Award for Poetry in Translation goes to Eamon Grennan for his translation of ''Selected Poems'' by Giacomo Leopardi (Princeton).</p>
+        <p>The $3,000 PEN/Spielvogel-Diamonstein Award for the Art of the Essay goes to Adam Hochschild for ''Finding the Trapdoor'' (Syracuse). The $1,000 PEN/Martha Albrand Award for the Art of the Memoir goes to Peter Balakian for ''Black Dog of Fate'' (Basic), about growing up in the New Jersey suburbs and  his discovery of the historical massacres of Armenians.</p>
+        <p>The PEN/Martha Albrand Award for First Nonfiction, carrying a prize of $1,000 and residence at the Vermont Studio Center, goes to Serge Schmemann, a New York Times correspondent, for ''Echoes of a Native Land'' (Knopf), a chronicle of two centuries of a Russian village.</p>
+        <p>The $5,000 PEN/Voelcker Award for Poetry goes to C. K. Williams. The $2,000 Gregory Kolovakos Award for a translator, scholar or educator whose career has contributed to the appreciation of Hispanic literatures by English-language readers goes to Johannes Wilbert, professor emeritus at the University of California, Los Angeles, for his role as series editor of the 24-volume ''Folk Literature of South American Indians.''</p>
+        <p>The $3,000 Renato Poggioli Translation Award for a translator at work on an English-language version of Italian literature goes to Minna Proctor for a translation of ''Stories'' by Federigo Tozzi.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

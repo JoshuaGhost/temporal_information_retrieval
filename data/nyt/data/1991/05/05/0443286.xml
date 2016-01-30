@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cara Stein Is Engaged</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="70" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="443286"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">STEIN, CARA ANN</person>
+        <person class="indexing_service">ROSENFELD, BARRY DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDF153EF936A35756C0A967958260" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cara Stein Is Engaged</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mr. and Mrs. Leonard Stein of Huntington Station, L.I., have announced August wedding plans for their daughter, Cara Ann Stein, and Barry David Rosenfeld, a son of Elizabeth Rocklin of Washington and Stuart Rosenfeld of Durham, N.C. Ms. Stein, 28 years old, is a television talent scout for the William Morris Agency in New York. She graduated from Grinnell College. Mr. Rosenfeld, 30, graduated from Boston University and is a doctoral candidate in clinical psychology at the University of Virginia.</p>
+      </block>
+      <block class="full_text">
+        <p>Mr. and Mrs. Leonard Stein of Huntington Station, L.I., have announced August wedding plans for their daughter, Cara Ann Stein, and Barry David Rosenfeld, a son of Elizabeth Rocklin of Washington and Stuart Rosenfeld of Durham, N.C. Ms. Stein, 28 years old, is a television talent scout for the William Morris Agency in New York. She graduated from Grinnell College. Mr. Rosenfeld, 30, graduated from Boston University and is a doctoral candidate in clinical psychology at the University of Virginia.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nancy Liu, Sergio Canales</title>
+    <meta content="20LIU" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2007/05/20/fashion/weddings/20LIU.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1848745"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Liu, Nancy Hui</person>
+        <person class="indexing_service">Canales, Sergio Emilio</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EEDC1131F933A15756C0A9619C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nancy Liu, Sergio Canales</hl1>
+        <hl2 class="online_headline">Nancy Liu, Sergio Canales</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nancy Hui Liu, the daughter of Jane Young and Dr. Shili Liu of Mansfield, Conn., was married yesterday to Sergio Emilio Canales, a son of Teresa and Emilio Canales of Falls Church, Va. The Rev. James R. Covington, a Unitarian Universalist minister, officiated at Sun West Studios, a photography studio in New York.</p>
+        <p>The bride and bridegroom met at Columbia University, where she graduated from Barnard College and he from Columbia College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Nancy Hui Liu, the daughter of Jane Young and Dr. Shili Liu of Mansfield, Conn., was married yesterday to Sergio Emilio Canales, a son of Teresa and Emilio Canales of Falls Church, Va. The Rev. James R. Covington, a Unitarian Universalist minister, officiated at Sun West Studios, a photography studio in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Nancy Hui Liu, the daughter of Jane Young and Dr. Shili Liu of Mansfield, Conn., was married yesterday to Sergio Emilio Canales, a son of Teresa and Emilio Canales of Falls Church, Va. The Rev. James R. Covington, a Unitarian Universalist minister, officiated at Sun West Studios, a photography studio in New York.</p>
+        <p>The bride and bridegroom met at Columbia University, where she graduated from Barnard College and he from Columbia College.</p>
+        <p>Ms. Liu-Canales, 28, received an M.B.A. degree last Sunday, also from Columbia University. In July, she is to become a senior consultant in the New York office of Kurt Salmon Associates, a consulting company for the retail industry.</p>
+        <p>Mr. Canales, 30, is the technology associate at CBA Commercial, a company in Stamford, Conn., that specializes in commercial mortgages.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: NonFiction</title>
+    <meta content="GOLDSTEIN" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Books in Brief: NonFiction" name="column_name"/>
+    <docdata>
+      <doc-id id-string="880050"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="Books in Brief: NonFiction"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Goldstein, Warren</person>
+        <person class="indexing_service">Harris, David</person>
+        <object.title class="indexing_service">Our War: What We Did in Vietnam and What It Did to US (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE6D9173CF93AA1575AC0A960958260" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: NonFiction</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN GOLDSTEIN</byline>
+      <byline class="normalized_byline">Goldstein, Warren</byline>
+      <abstract>
+        <p>Warren Goldstein reviews book Our War: What We Did in Vietnam and What It Did to Us by David Harris (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Our War  What We Did in Vietnam and What It Did to Us.  By David Harris.  Times Books/Random House, $21.</p>
+        <p>David Harris, perhaps this country's best-known imprisoned draft resister of the Vietnam era, has written a moving memoir of what the Vietnamese call ''the American War.'' Mr. Harris seeks to make Americans look unflinchingly at what he considers the evil of the Vietnam War -- the slaughter and the savagery, the lying and the secrecy, the cowardice and the calculation -- until we earn the right to ''clear our souls of this perpetual shadow.'' This is a tall order, and ''Our War'' is unlikely to persuade anyone not already in agreement, but Mr. Harris has blended reminiscence and commentary in a way that may make most readers uncomfortable. He warns us (correctly) that the ''nonsensical quality to our memories has helped insulate us'' from the real events of the war. In particularly chilling sections on the Phoenix program of rural pacification -- in reality an operation of ''rump legality, kidnapping, torture and assassination'' run by the Central Intelligence Agency -- and on the massacre at My Lai, Mr. Harris takes us back to the horror of a war that degraded those it did not kill and ruined so much of our public life.</p>
+        <p>Warren Goldstein</p>
+      </block>
+      <block class="full_text">
+        <p>Our War  What We Did in Vietnam and What It Did to Us.  By David Harris.  Times Books/Random House, $21.</p>
+        <p>David Harris, perhaps this country's best-known imprisoned draft resister of the Vietnam era, has written a moving memoir of what the Vietnamese call ''the American War.'' Mr. Harris seeks to make Americans look unflinchingly at what he considers the evil of the Vietnam War -- the slaughter and the savagery, the lying and the secrecy, the cowardice and the calculation -- until we earn the right to ''clear our souls of this perpetual shadow.'' This is a tall order, and ''Our War'' is unlikely to persuade anyone not already in agreement, but Mr. Harris has blended reminiscence and commentary in a way that may make most readers uncomfortable. He warns us (correctly) that the ''nonsensical quality to our memories has helped insulate us'' from the real events of the war. In particularly chilling sections on the Phoenix program of rural pacification -- in reality an operation of ''rump legality, kidnapping, torture and assassination'' run by the Central Intelligence Agency -- and on the massacre at My Lai, Mr. Harris takes us back to the horror of a war that degraded those it did not kill and ruined so much of our public life.</p>
+        <p>Warren Goldstein</p>
+        <p>Books in Brief: NonFiction</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

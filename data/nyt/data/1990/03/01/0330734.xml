@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Currents;   Let's See: the Big Hand Is on the IRT, and . . .</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="330734"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WATCHES AND CLOCKS</classifier>
+        <org class="indexing_service">DRENTTEL DOYLE PARTNERS</org>
+        <person class="indexing_service">LOUIE, ELAINE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D61039F932A35750C0A966958260" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Currents;   Let's See: the Big Hand Is on the IRT, and . . .</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE LOUIE</byline>
+      <byline class="normalized_byline">LOUIE, ELAINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: DRENTTEL DOYLE PARTNERS, a design and advertising concern in Manhattan, has designed three watches that are both witty and slightly hard to read. One shows the numbers on the rotary dial telephone, one the numbers on an oven dial and the third the numbers of subway trains.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: DRENTTEL DOYLE PARTNERS, a design and advertising concern in Manhattan, has designed three watches that are both witty and slightly hard to read. One shows the numbers on the rotary dial telephone, one the numbers on an oven dial and the third the numbers of subway trains.</p>
+        <p>DRENTTEL DOYLE PARTNERS, a design and advertising concern in Manhattan, has designed three watches that are both witty and slightly hard to read. One shows the numbers on the rotary dial telephone, one the numbers on an oven dial and the third the numbers of subway trains.</p>
+        <p>''If we were going to do new watches, they had to be friendly and have existing number systems,'' said William Drenttel, president of the company.</p>
+        <p>None of the watches, which have black leather bands, have 12 consecutive numbers. But Mr. Drenttel believes that people do not need that. ''People read watches off the position of the hands, not directly off the numbers,'' he said.</p>
+        <p>The watches, which he said were designed to make people smile, are $80 each at Dot Zero, 165 Fifth Avenue (22d Street).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

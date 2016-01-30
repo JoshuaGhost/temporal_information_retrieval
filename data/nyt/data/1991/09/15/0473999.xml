@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brenda C. Harper Marries in Paris</title>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="52" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="473999"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">HARPER, BRENDA CHRISTIAN (BRENDA CHRISTIAN VANDAMME)</person>
+        <person class="indexing_service">VANDAMME, MARC ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DE1031F936A2575AC0A967958260" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brenda C. Harper Marries in Paris</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brenda Christian Harper, a daughter of Mr. and Mrs. John C. Harper of Weston, Conn., was married yesterday at the American Cathedral in Paris to Marc Robert Vandamme, a son of Mr. and Mrs. Robert E. Vandamme of Lille, France. The Rev. Benjamin Shambaugh, an Episcopal priest, and the Rev. Joseph Chone, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The bride is a vice president in the international private banking department of J. P. Morgan in Paris. She graduated from Harvard University.</p>
+      </block>
+      <block class="full_text">
+        <p>Brenda Christian Harper, a daughter of Mr. and Mrs. John C. Harper of Weston, Conn., was married yesterday at the American Cathedral in Paris to Marc Robert Vandamme, a son of Mr. and Mrs. Robert E. Vandamme of Lille, France. The Rev. Benjamin Shambaugh, an Episcopal priest, and the Rev. Joseph Chone, a Roman Catholic priest, performed the ceremony.</p>
+        <p>The bride is a vice president in the international private banking department of J. P. Morgan in Paris. She graduated from Harvard University.</p>
+        <p>Mr. Vandamme founded and heads a computer sales concern in Paris. He graduated from LEcole Centrale de Paris and received his M.B.A. degree from the University of Pennsylvania.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

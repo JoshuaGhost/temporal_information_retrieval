@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Machines That Built the Renaissance</title>
+    <meta content="05MECH" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993019"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <location class="indexing_service">Italy</location>
+        <person class="indexing_service">Galluzzi, Paolo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980205T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E7D9173DF936A35751C0A96E958260" item-length="463" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Machines That Built the Renaissance</hl1>
+      </hedline>
+      <byline class="print_byline">By JULIE V. IOVINE</byline>
+      <abstract>
+        <p>Exhibition at World Financial Center, Mechanical Marvels: Invention in the Age of Leonardo, showcases machinery invented and used by builders and artists of Italian Renaissance; was curated by Paolo Galluzi, director of Institute and Museum of History of Science in Florence; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONSTRUCTION sites ain't what they used to be. In the Renaissance, according to the exhibition ''Mechanical Marvels: Invention in the Age of Leonardo'' at the World Financial Center through March 1, building sites were spectacular visions of ingenuity wedded to beauty.</p>
+        <p>The towering revolving cranes, Rube Goldberg-esque hydraulic propelling machines, pile drivers and pumps operated with balletic grace. They were invented by a burgeoning new class of artist-engineers adept at everything from painting and drawing to designing churches and firearms.</p>
+      </block>
+      <block class="full_text">
+        <p>CONSTRUCTION sites ain't what they used to be. In the Renaissance, according to the exhibition ''Mechanical Marvels: Invention in the Age of Leonardo'' at the World Financial Center through March 1, building sites were spectacular visions of ingenuity wedded to beauty.</p>
+        <p>The towering revolving cranes, Rube Goldberg-esque hydraulic propelling machines, pile drivers and pumps operated with balletic grace. They were invented by a burgeoning new class of artist-engineers adept at everything from painting and drawing to designing churches and firearms.</p>
+        <p>Paolo Galluzzi, director of the Institute and Museum of the History of Science in Florence and curator of the traveling exhibition, calls this  cultural phenomenon ''the renaissance of machines.'' To produce the show he spent 10 years pouring over nearly forgotten documents and organizing the construction of 50 handmade working models of building machines, using the same materials and techniques as the originals.</p>
+        <p>''I wanted to explore the backstage of Leonardo da Vinci's genius,'' he said. ''I have always been suspicious of the idea that Leonardo was born from nothing, that he invented everything.''</p>
+        <p>Mr. Galluzzi unearthed voluminous material on dozens of other inventors working in central Italy before Leonardo. Foremost is Filippo Brunelleschi, painter, architect and specialist in hydraulic engineering. His work on the famed Duomo of the Santa Maria del Fiore cathedral in Florence (at 165 feet across and 100 feet high, one of the most technically daring structures ever built) stunned the 17-year-old Leonardo when he arrived in Florence in 1469.</p>
+        <p>''Not to diminish Leonardo's greatness,'' Mr. Galluzzi said, ''but it's clear from his early drawings that Leonardo paid a great deal of attention to Brunelleschi. And like a dwarf on the shoulder of giants he was able to look even farther ahead because of this master.'' Portions of the exhibition are devoted to the works of Brunelleschi and Leonardo.</p>
+        <p>Among the many marvels Brunelleschi designed for building the Duomo was the gigantic three-speed hoist, capable of allowing a team of oxen to lift more than a ton of stones hundreds of feet in the air.</p>
+        <p>The models, made by Italian furniture makers, exude a sensuousness comparable to a Louis XVI console. As with the originals, different woods have been puzzled together -- chestnut for the main skeletons, oak for gears, softer woods for the hooks. A 14 1/2-foot model of the Duomo cost $200,000 to build.</p>
+        <p>The original machines were cannibalized for their parts, and none have survived intact. The models in the exhibition, however, are destined for a museum of their own in Florence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

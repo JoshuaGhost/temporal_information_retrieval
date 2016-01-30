@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: FICTION</title>
+    <meta content="RV122538" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/02/03/books/review/_0203br-boetius.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1364440"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Ferrell, Tom</person>
+        <person class="indexing_service">Boetius, Henning</person>
+        <object.title class="indexing_service">Phoenix, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Arizona/Phoenix</classifier>
+        <classifier class="online_producer" type="descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="descriptor">Islands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Islands</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <location class="online_producer">Phoenix</location>
+        <person class="online_producer">Cullen, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E0D61E3BF930A35751C0A9649C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: FICTION</hl1>
+        <hl2 class="online_headline">Books in Brief: 'The Phoenix'</hl2>
+      </hedline>
+      <byline class="print_byline">By Tom Ferrell</byline>
+      <byline class="normalized_byline">Ferrell, Tom</byline>
+      <abstract>
+        <p>Tom Ferrell reviews book The Phoenix by Henning Boetius (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE PHOENIX</p>
+        <p>By Henning Boëtius.</p>
+        <p>Nan A. Talese/Doubleday, $24.95.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>THE PHOENIX By Henning Boetius. Nan A. Talese/Doubleday, $24.95. .</p>
+      </block>
+      <block class="full_text">
+        <p>THE PHOENIX</p>
+        <p>By Henning Boëtius.</p>
+        <p>Nan A. Talese/Doubleday, $24.95.</p>
+        <p>Something plenty existential is going on in the first chapters of ''The Phoenix,'' a novel about the airship Hindenburg, by Henning Boëtius, whose father, the publisher tells us, is the last survivor of the Hindenburg disaster of 1937. Our first point-of-view character, Birger Lund, a Swedish journalist, enters the summer of 1947 under the pseudonym Per Olsen. He bears horrible facial scars and is subject to dreams of flames converging over his head. Hindenburg victim, of course. Sorry. He was on the flight, but actually . . . oops. Can't tell you that. He visits a cold, nasty German island so remote and alienated its Jewish art teacher was unmolested in the war. Lund-Olsen is looking for Edmund Boysen, a former Hindenburg officer, because he wants to check his theory of the disaster's cause. About 100 pages of flashback establish that Boysen is one swell Zep jockey and tell us a lot that is fun to know about the physics and politics of lighter-than-air transport. Now, Lund-Olsen's theory is . . . oops! Certainly can't tell you that. Boysen confirms it, though, and Lund-Olsen (a journalist, remember) says he will never reveal it. I don't see the word ''closure'' here (John Cullen's translation feels like English), but somebody must be thinking it real hard.</p>
+        <p>Tom Ferrell</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

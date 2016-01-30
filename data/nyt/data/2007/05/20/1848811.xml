@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHAT HOUSING SLUMP?</title>
+    <meta content="20suits-2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1848811"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <series series.name="OPENERS: SUITS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Suits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bonuses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0D71131F933A15756C0A9619C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHAT HOUSING SLUMP?</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHELLE LEDER</byline>
+      <byline class="normalized_byline">Leder, Michelle</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Boston Scientific announced this month that it had hired Sam Leno as its chief financial officer, the company threw in an unusual perk that might make anyone trying to sell a house during the current down market green with envy: it agreed to buy two homes owned by Mr. Leno for a guaranteed minimum price of $1.3 million each.</p>
+        <p>According to the employment letter filed with the Securities and Exchange Commission, one of the homes is in Winona Lake, Ind., near Zimmer Holdings, where Mr. Leno used to work.</p>
+      </block>
+      <block class="full_text">
+        <p>When Boston Scientific announced this month that it had hired Sam Leno as its chief financial officer, the company threw in an unusual perk that might make anyone trying to sell a house during the current down market green with envy: it agreed to buy two homes owned by Mr. Leno for a guaranteed minimum price of $1.3 million each.</p>
+        <p>According to the employment letter filed with the Securities and Exchange Commission, one of the homes is in Winona Lake, Ind., near Zimmer Holdings, where Mr. Leno used to work.</p>
+        <p>Paul Donovan, a Boston Scientific spokesman, declined to say where the other house was, or whether the company had ever offered to buy two homes from the same executive before.</p>
+        <p>''We're committed to attract and retaining the best people possible,'' Mr. Donovan said.</p>
+        <p>MICHELLE LEDER</p>
+        <p>OPENERS: SUITS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

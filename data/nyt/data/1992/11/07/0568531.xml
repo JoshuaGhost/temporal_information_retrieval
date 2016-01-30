@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Catharine A. Yard, Executive, 48</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="568531"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <person class="indexing_service">YARD, CATHARINE A</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE0DD1039F934A35752C1A964958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Catharine A. Yard, Executive, 48</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Catharine A. Yard, president of the American Timber Company, died on Thursday at the Jersey Shore Medical Center in Neptune, N.J. She was 48 years old and lived in Sea Girt.</p>
+        <p>Ms. Yard died of pneumonia, said Michael Cherenson, a family spokesman.</p>
+      </block>
+      <block class="full_text">
+        <p>Catharine A. Yard, president of the American Timber Company, died on Thursday at the Jersey Shore Medical Center in Neptune, N.J. She was 48 years old and lived in Sea Girt.</p>
+        <p>Ms. Yard died of pneumonia, said Michael Cherenson, a family spokesman.</p>
+        <p>In 1990 Ms. Yard became president of American Timber, which was founded by her grandfather in 1893. Ms. Yard, who attended Yuba College in Marysville, Calif., and Chico State University in Chico, Calif., had worked for the company since 1968.</p>
+        <p>Ms. Yard is survived by a son, Michael Saito, and three daughters, Michelle, Mikiko and Mary Catherine Saito, and her mother, Dorothy, all of Sea Girt; two sisters, Elizabeth Rasmussen, of Chico, Calif., and Victoria Steiner, of Seattle; four brothers, William, of Modesto, Calif., Carl Jr., of Wall Township, N.J., Richard, of Jackson Township, N.J., and Stephen, of Oroville, Calif., and two grandchildren.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

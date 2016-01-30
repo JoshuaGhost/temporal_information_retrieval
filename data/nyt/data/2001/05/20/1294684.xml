@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: NONFICTION</title>
+    <meta content="RV081821" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1294684"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Drape, Joe</person>
+        <person class="indexing_service">Dunham, Jillian</person>
+        <object.title class="indexing_service">Race for the Triple Crown, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EFDD113BF933A15756C0A9679C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Jillian Dunham</byline>
+      <byline class="normalized_byline">Dunham, Jillian</byline>
+      <abstract>
+        <p>Jillian Dunham reviews book The Race for the Triple Crown: Horses, High Stakes and Eternal Hope by Joe Drape (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Race for the Triple Crown</p>
+        <p>Horses, High Stakes, and Eternal Hope.</p>
+        <p>By Joe Drape.</p>
+        <p>Atlantic Monthly, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>The Race for the Triple Crown</p>
+        <p>Horses, High Stakes, and Eternal Hope.</p>
+        <p>By Joe Drape.</p>
+        <p>Atlantic Monthly, $25.</p>
+        <p>Ever since Sir Barton became the first horse to win it in 1919, the Triple Crown has been thrilling racing fans with dramatic achievements and unpredictable finishes. Bargain-basement champions like Seattle Slew have captured it, but it has eluded some of the greats, like Man o' War. So it seems odd that Joe Drape, a sportswriter at The New York Times, would choose to focus his book, ''The Race for the Triple Crown,'' on a single year, 2000, in which nothing really happened. There was a phenomenal horse, Fusaichi Pegasus, the brilliant, gorgeous colt that fetched $4 million at Keeneland in 1998. The first Saturday in May, FuPeg wowed spectators as he galloped from the back of the pack to win the Kentucky Derby in one of the fastest times in the race's history. But two weeks later, he lost the Preakness to Red Bullet, extinguishing all hopes for a Triple Crown. With the Belmont reduced to an anticlimax, Drape's primary subject becomes the racing scene -- the trainers, owners, jockeys and bettors. Profiling the top trainers -- like D. Wayne Lukas or Bob Baffert -- he glosses over their unsportsmanlike rivalries. Some passages are cluttered with excess detail, but Drape, who paid for his wife's engagement ring by winning a trifecta bet, writes poignantly of his personal ties to racing -- of his mother, who always bet on the gray, and his own quarter horse, Oh Desperado, who made it to the winner's circle.</p>
+        <p>Jillian Dunham</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

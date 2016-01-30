@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR003419" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1470431"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Biological and Chemical Warfare</classifier>
+        <org class="indexing_service">National Institutes of Health</org>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biological and Chemical Warfare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030307T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDB103FF934A35750C0A9659C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of picture caption Feb 4 about Pres Bush's visit to National Institutes of Health Vaccine Research Center, regarding what he was examining under microscope</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption on Feb. 4 about an appearance by President Bush at the National Institutes of Health Vaccine Research Center in Bethesda, Md., gave an erroneous identification from the White House for the specimen he examined under a microscope. It was human kidney cells modified with fragments of the Ebola virus, not Ebola cells. A reader's letter reported the error soon after publication; this correction awaited confirmation from the National Institutes of Health, which delayed its response.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption on Feb. 4 about an appearance by President Bush at the National Institutes of Health Vaccine Research Center in Bethesda, Md., gave an erroneous identification from the White House for the specimen he examined under a microscope. It was human kidney cells modified with fragments of the Ebola virus, not Ebola cells. A reader's letter reported the error soon after publication; this correction awaited confirmation from the National Institutes of Health, which delayed its response.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

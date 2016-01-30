@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putting Hard Parts Back in a Concerto</title>
+    <meta content="18ORPH" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/02/18/arts/music/18ORPH.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1465846"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Orpheus Chamber Ensemble</org>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <person class="indexing_service">Neidich, Charles</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="descriptor">Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <org class="online_producer">Orpheus Chamber Orchestra</org>
+        <org class="online_producer">Carnegie Hall</org>
+        <person class="online_producer">Neidich, Charles</person>
+        <person class="online_producer">Copland, Aaron</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D91E3AF93BA25751C0A9659C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putting Hard Parts Back in a Concerto</hl1>
+        <hl2 class="online_headline">Putting Hard Parts Back in a Concerto</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews concert by clarinetist Charles Neidich, accompanied by Orpheus, at Carnegie Hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One generation's virtuoso showpiece is often considered a bit on the easy side a generation or two later. When Aaron Copland wrote his Clarinet Concerto for Benny Goodman in 1948, it was considered suitably dazzling; in fact, Copland was told that parts of it made the clarinet play either too fast or too high, so he revised the score before it was published. But Charles Neidich, one of the most formidable clarinet soloists performing today, looked up the manuscript in the Library of Congress and has lately been playing the original version, as he did with Orpheus accompanying him on Saturday evening at Carnegie Hall.</p>
+        <p>The differences aren't vast: the cadenza, the coda and a few other passages have figuration that Copland either softened or distributed to other instruments. Mr. Neidich sailed through the high-flying passages without much strain. But the focus on these sections may have been overstated in any case: the work's real charm is in its lyrical, thoroughly Coplandesque themes, which Mr. Neidich played with a warm tone and soulful phrasing, and with the like-minded support of Orpheus's strings.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Charles Neidich played the original, more virtuosic, version of Aaron Copland's Clarinet Concerto with Orpheus at Carnegie Hall on Saturday.</p>
+      </block>
+      <block class="full_text">
+        <p>One generation's virtuoso showpiece is often considered a bit on the easy side a generation or two later. When Aaron Copland wrote his Clarinet Concerto for Benny Goodman in 1948, it was considered suitably dazzling; in fact, Copland was told that parts of it made the clarinet play either too fast or too high, so he revised the score before it was published. But Charles Neidich, one of the most formidable clarinet soloists performing today, looked up the manuscript in the Library of Congress and has lately been playing the original version, as he did with Orpheus accompanying him on Saturday evening at Carnegie Hall.</p>
+        <p>The differences aren't vast: the cadenza, the coda and a few other passages have figuration that Copland either softened or distributed to other instruments. Mr. Neidich sailed through the high-flying passages without much strain. But the focus on these sections may have been overstated in any case: the work's real charm is in its lyrical, thoroughly Coplandesque themes, which Mr. Neidich played with a warm tone and soulful phrasing, and with the like-minded support of Orpheus's strings.</p>
+        <p>As an encore, Mr. Neidich played ''In Memoriam'' (1996), a shapely, attractively meditative solo work of his own.</p>
+        <p>The program also included works that put Orpheus's players in the solo spotlight. Frank Morelli gave a delightfully agile account of the solo bassoon line in Villa-Lobos's ''Ciranda Das Sete Notas.'' And Ginastera's ''Variaciones Concertantes'' made its way around the orchestra's principals, who all used their solo moments to good effect. The orchestra opened the concert with a focused and solid if slightly tepid reading of the Ives Third Symphony.</p>
+        <p>MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

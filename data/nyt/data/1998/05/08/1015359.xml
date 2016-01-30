@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beware of Flaming Germans</title>
+    <meta content="08RAMM" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1015359"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="POP REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Rammstein (Music Group)</org>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6DE1231F93BA35756C0A96E958260" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beware of Flaming Germans</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff reviews performance by German techno-metal band Rammstein (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There must be an unseen seventh member of the German techno-metal band Rammstein; he would be the full-time fire consultant. During the band's show at the Roxy on Wednesday night, the vocalist Til Lindemann sang with arms outstretched in a flaming chain-mail tunic; at other points, fire and sparks shot out from his boots, his microphone, his gloves, and his oversize flame-shooting machine gun.</p>
+        <p>Rammstein is a prolonged, not-so-clever caricature of the German temperament's dark side, all severity and kinkiness. The muscular Mr. Lindemann sang in a dominating croak, the voice of a warlord spitting out orders. (Continuing the military theme, the musicians stood like stern sentinels, with arms folded, when they weren't playing.)</p>
+      </block>
+      <block class="full_text">
+        <p>There must be an unseen seventh member of the German techno-metal band Rammstein; he would be the full-time fire consultant. During the band's show at the Roxy on Wednesday night, the vocalist Til Lindemann sang with arms outstretched in a flaming chain-mail tunic; at other points, fire and sparks shot out from his boots, his microphone, his gloves, and his oversize flame-shooting machine gun.</p>
+        <p>Rammstein is a prolonged, not-so-clever caricature of the German temperament's dark side, all severity and kinkiness. The muscular Mr. Lindemann sang in a dominating croak, the voice of a warlord spitting out orders. (Continuing the military theme, the musicians stood like stern sentinels, with arms folded, when they weren't playing.)</p>
+        <p>Bulging his eyes and pursing his lips, Mr. Lindemann did something like dramatic readings of bad poetry; there was a little humor in his over-the-top performance, but not nearly enough. In each song, with the help of some props, he enacted ideas on the order of ''Engel'' (''Angel''), in which a female backup singer sang angelically, and ''Alter Mann'' (''Old Man''), in which Mr. Lindemann made long faces and looked decrepit. And in ''Buck Dich'' (''Bend Down''), the show worked in a little bondage-and-domination act, too moronic to describe.</p>
+        <p>In Germany, Rammstein has had a string of hit singles. In New York, the group hadn't been seen outside a few showcase performances at last year's CMJ Festival. This concert attracted the curious, who came for the fireworks. But if Mr. Lindemann and company don't want to flame out, they'd better think fast.</p>
+        <p>Rammstein has moments when it's essentially a German version of Gwar, the American band known for dressing up in superhero costumes and staging elaborate death matches, with tons of gratuitous fake carnage. But Rammstein isn't nearly as loony or inventive. And the music, one-dimensional metal riffs salted with thumping house-music synthesizer breaks, won't save it.</p>
+        <p>POP REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

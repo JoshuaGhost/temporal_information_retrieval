@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="746282"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CHESS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950302T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D91E3DF931A35750C0A963958260" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A player who is on lead with two aces can reasonably expect to defeat a grand slam. But if he picks the wrong one, the cost can be enormous. An example is the diagramed deal, played in January at the Grand Club in Franklin Square, L.I. It was reported by Mel Colchamiro of Merrick, L.I., who sat North. His partner was Stan Green of Muttontown, L.I.</p>
+        <p>A direct raise to the six level is rare when an opening bid is doubled, but was entirely reasonable for North here. He knew that his partnership had at least 12 hearts, and that one or both opponents was void. That it made it very likely that East-West could make a contract or had a cheap save available.</p>
+      </block>
+      <block class="full_text">
+        <p>A player who is on lead with two aces can reasonably expect to defeat a grand slam. But if he picks the wrong one, the cost can be enormous. An example is the diagramed deal, played in January at the Grand Club in Franklin Square, L.I. It was reported by Mel Colchamiro of Merrick, L.I., who sat North. His partner was Stan Green of Muttontown, L.I.</p>
+        <p>A direct raise to the six level is rare when an opening bid is doubled, but was entirely reasonable for North here. He knew that his partnership had at least 12 hearts, and that one or both opponents was void. That it made it very likely that East-West could make a contract or had a cheap save available.</p>
+        <p>East naturally tried six spades over six hearts, and South persevered to seven hearts. This was right in practice, although wrong on a double-dummy basis. Six spades would have been beaten, if, but only if, South had been inspired to lead a club, or the diamond king followed by a club shift. Double-dummy, North can score two club ruffs for down two.</p>
+        <p>In team play or a social game, West would probably have taken out insurance by bidding seven spades, willing to pay a small penalty to avoid a disaster. But this was match points, and he doubled. Now everything hinged on the opening lead, and it seemed highly probable that the spade ace would be ruffed.</p>
+        <p>Even if West had been permitted to peek into his partner's hand he would have not known what to do. As it was, he was confident that the club ace would cash. But that card was disastrous, for South was able to ruff in dummy, draw the missing trump, and maneuver to discard dummy's spades. One went on the club king and the other on the fifth diamond.</p>
+        <p>The post-mortem showed that even a passive diamond lead by West would have succeeded, since one spade discard in dummy is insufficient.</p>
+        <p>The Long Island Winter Regional Championships begin today at the Sheraton Hotel, Motor Parkway, Smithtown, L.I., with the following schedule:</p>
+        <p>Today, Stratified Open, Women's and Senior Pairs, 1 P.M. and 7:30 P.M.</p>
+        <p>Friday, Stratiflighted Open Pairs and Stratified Senior Pairs, 1 P.M. and 7:30 P.M.</p>
+        <p>Saturday, Imp Pairs, Frank Schuld Stratified Open Pairs and Stratified Senior Pairs, 1 P.M. and 7:30 P.M.</p>
+        <p>Sunday, Stratiflighted Open Swiss Teams and Stratified Senior Swiss Teams, 11 A.M. (two sessions).</p>
+        <p>Newcomer events throughout.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

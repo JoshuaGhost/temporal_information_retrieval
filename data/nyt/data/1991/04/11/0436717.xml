@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>T.W.A.'s Route Sale Is Delayed</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436717"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <location class="indexing_service">LONDON (ENG)</location>
+        <org class="indexing_service">TRANS WORLD AIRLINES (TWA)</org>
+        <org class="indexing_service">AMERICAN AIRLINES INC</org>
+        <person class="indexing_service">KERKORIAN, KIRK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England/London</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910411T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2D81130F932A25757C0A967958260" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>T.W.A.'s Route Sale Is Delayed</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>WASHINGTON, April 10</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Transportation Department delayed action today on the proposed sale of Trans World Airline Inc.'s primary London routes to American Airlines to give the investor Kirk Kerkorian until Friday to explain his proposal for taking over T.W.A.</p>
+        <p>Mr. Kerkorian, who owns the MGM Grand airline based in Las Vegas, Nev., has linked with T.W.A.'s unions on the proposal to buy the ailing carrier, but has said the sale must include the London routes. The unions agreed last month to put up $137 million in wage concessions a year for three years, and Mr. Kerkorian agreed to provide $250 million for working capital, both after a debt restructuring.</p>
+      </block>
+      <block class="full_text">
+        <p>The Transportation Department delayed action today on the proposed sale of Trans World Airline Inc.'s primary London routes to American Airlines to give the investor Kirk Kerkorian until Friday to explain his proposal for taking over T.W.A.</p>
+        <p>Mr. Kerkorian, who owns the MGM Grand airline based in Las Vegas, Nev., has linked with T.W.A.'s unions on the proposal to buy the ailing carrier, but has said the sale must include the London routes. The unions agreed last month to put up $137 million in wage concessions a year for three years, and Mr. Kerkorian agreed to provide $250 million for working capital, both after a debt restructuring.</p>
+        <p>American Airlines objected, saying the offer lacked details of how a debt restructuring would be accomplished.</p>
+        <p>Carl C. Icahn, T.W.A.'s chairman, has spurned Mr. Kerkorian as a "spoiler" trying to buy the airline at a bargain.</p>
+        <p>T.W.A. originally proposed selling six routes to American to raise $445 million, but the Transportation Department blocked the sale of three of them. T.W.A., which has said it must sell the routes to meet its debts, has defaulted on $75 million in debt payments and has said it may be forced to seek Federal bankruptcy protection.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

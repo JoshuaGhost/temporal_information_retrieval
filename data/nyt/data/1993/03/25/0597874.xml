@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597874"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DD1E39F936A15750C0A965958260" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.N. Bosnia Rescue Halted</p>
+        <p>An airlift of sick and wounded Muslims from a besieged town was halted when Serbian forces broke a cease-fire, killing two civilians. Page A3. A Siege of Sound</p>
+        <p>Chanting by Tibetan monks. An Andy Williams album. Reveille. They're all Federal weapons in the standoff with David Koresh in Texas. Page A16.  Tale of 2 New York Regions</p>
+        <p>More than ever, New York's economic landscape is divided between the densely populated south and industrial north, a report says. Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>U.N. Bosnia Rescue Halted</p>
+        <p>An airlift of sick and wounded Muslims from a besieged town was halted when Serbian forces broke a cease-fire, killing two civilians. Page A3. A Siege of Sound</p>
+        <p>Chanting by Tibetan monks. An Andy Williams album. Reveille. They're all Federal weapons in the standoff with David Koresh in Texas. Page A16.  Tale of 2 New York Regions</p>
+        <p>More than ever, New York's economic landscape is divided between the densely populated south and industrial north, a report says. Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

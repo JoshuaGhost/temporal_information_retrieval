@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Campaign Letter Excerpts</title>
+    <meta content="23EXCE$05" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1170923"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Senate (US)</org>
+        <person class="indexing_service">Giuliani, Rudolph W (Mayor)</person>
+        <person class="indexing_service">Clinton, Hillary Rodham</person>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E5DC1E3DF930A15752C0A9669C8B63" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Campaign Letter Excerpts</hl1>
+      </hedline>
+      <abstract>
+        <p>Excerpts from some of direct-mail appeal letters to raise donations being used by Senate campaigns of Mayor Giuliani and Hillary Rodham Clinton (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate campaigns of Mayor Rudolph W. Giuliani and Hillary Rodham Clinton are using direct-mail appeals to raise donations. Following are excerpts from some of the letters:</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate campaigns of Mayor Rudolph W. Giuliani and Hillary Rodham Clinton are using direct-mail appeals to raise donations. Following are excerpts from some of the letters:</p>
+        <p>Giuliani Campaign</p>
+        <p>I'm writing to you because I think you'll agree with me when I say that eight years of the Clintons in Washington has been more than enough. It's time for the country to move forward. But that's not going to happen if Hillary becomes a senator.</p>
+        <p>The fact is, Hillary Clinton is a leader of the ultra left-wing Democrats who are determined to save the gigantic federal bureaucracy and the high taxes and spending that go with it. And many people believe she's been the driving force behind some of the most radical ideas that have been put forth by the Clinton administration.</p>
+        <p>The left-wing elite is pouring everything into this race, not just because they see Mrs. Clinton as their champion. They are also furious that my tough law-and-order, pro-free enterprise policies have succeeded in making New York City great again.</p>
+        <p>If Hillary Clinton wins, she will immediately become the leader of the left wing of the Democrat Party in the U.S. Senate. In the Senate, she would quickly revive her socialist government-run health care plan and champion left-wing causes. And she would use her Senate seat . . . to become a leading Democrat prospect to run for president.</p>
+        <p>Clinton Campaign</p>
+        <p>We can defeat the forces of attack politics and personally negative campaigns by talking to people about the issues that matter to their lives, building a grass-roots network of committed volunteers who will join in helping to get our positive message out.</p>
+        <p>The more I listen and learn, the more excited I become about the progress we could make: for children, for families, for New York, for America. I hope you share my excitement because there is a tremendous challenge ahead of us, and I'll need all the help you can give. I haven't even formally announced my candidacy and already the divisive, negative Republican campaigning has begun. Already, my potential opponent is attacking me almost daily.</p>
+        <p>The Republican Party is attacking me with a vengeance. The Republicans even launched a ''Stop Hillary'' fund-raising effort on the Internet to prevent me from running for the Senate. I welcome healthy dialogue and fair competition. And I'm ready to meet any challenge in making the case for the values you and I share. But there's something cynical, and perhaps a little desperate, about efforts to discourage someone from even entering the contest.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

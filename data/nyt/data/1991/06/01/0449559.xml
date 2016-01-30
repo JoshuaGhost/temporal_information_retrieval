@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York and Virginia Inventor Conventions</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="449559"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="PATENTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INVENTIONS AND INVENTORS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONVENTIONS AND CONFERENCES</classifier>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Conventions and Conferences</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DE1F30F932A35755C0A967958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York and Virginia Inventor Conventions</hl1>
+      </hedline>
+      <byline class="print_byline">By Edmund L. Andrews</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>People interested in surveying new inventions can choose between two conventions, one taking place in New York this weekend and the other in Crystal City, Va., next week. Admission to both is free.</p>
+        <p>International Inventors Affiliates Ltd., a group that sponsors trade shows to promote licensing deals between inventors and potential investors, is holding an exposition at the Jacob K. Javits Convention Center through Monday.</p>
+      </block>
+      <block class="full_text">
+        <p>People interested in surveying new inventions can choose between two conventions, one taking place in New York this weekend and the other in Crystal City, Va., next week. Admission to both is free.</p>
+        <p>International Inventors Affiliates Ltd., a group that sponsors trade shows to promote licensing deals between inventors and potential investors, is holding an exposition at the Jacob K. Javits Convention Center through Monday.</p>
+        <p>The Patent and Trademark Office will sponsor its annual Inventors' Expo at its Virginia offices next Saturday and Sunday. It typically involves a wide range of independent and corporate inventors. In contrast to the Inventors Affiliates trade show, the Patent Office does not permit deal-making at its show.</p>
+        <p>PATENTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

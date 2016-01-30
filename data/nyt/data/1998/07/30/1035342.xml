@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fight, Survive And Conquer: The Shortcuts</title>
+    <meta content="30UNRE$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1035342"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="LIBRARY/COMPUTER BOOKS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer and Video Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Marriott, Michel</person>
+        <person class="indexing_service">Bell, Joe Grant</person>
+        <object.title class="indexing_service">Prima's Official Strategy Guide: Unreal (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer and Video Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4D61638F933A05754C0A96E958260" item-length="506" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fight, Survive And Conquer: The Shortcuts</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Michel Marriott reviews Prima's Official Strategy Guide: Unreal, by Joe Grant Bell; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PRIMA'S OFFICIAL STRATEGY GUIDE: UNREAL  By Joe Grant Bell (Prima Publishing, $19.99).</p>
+      </block>
+      <block class="full_text">
+        <p>PRIMA'S OFFICIAL STRATEGY GUIDE: UNREAL  By Joe Grant Bell (Prima Publishing, $19.99).</p>
+        <p>ANYONE who has ever played even a mildly engaging computer game, especially multimedia, 3-D challenges like Quake 2, Mech Warrior 2 and Warcraft II, knows that it takes only a few minutes to learn how to play but dozens of hours to learn to play well. Who has the time? It didn't take hard-core game players long to realize that they could considerably shorten their learning curves by trading tips and secrets about popular computer games.</p>
+        <p>It also didn't take the publishing world long to realize that there was a growing need among the millions of computer game players for well-written, easy-to-follow help in navigating the spooky digital domains of, say, Myst, or the temples of Tomb Robber II.</p>
+        <p>Prima Publishing, among others, took up the challenge, and the result is a long line of official as well as unauthorized guides to computer games. Joe Grant Bell's guide to Unreal, an intense, fight-your-way-through-a-hostile-alien-world game, is one of the latest.</p>
+        <p>Like all the Prima guides, the book has numerous but rudimentary illustrations in black and white. But what makes the books such hot sellers (Prima's ''Myst: The Official Strategy Guide'' sold more than a million copies) is the apparent depth of knowledge they impart about the games.</p>
+        <p>''Unreal'' is broadly organized into four sections: first, the many weapons and devices, like flak canons and antitoxin suits, and the myriad capabilities a player must know about them. Next there is a detailed discussion, bordering on the anthropological, about various enemies a player  is likely to encounter. What constitutes the bulk of this 193-page guide is a step-by-step tutorial in how to survive and win in the game's creepy labyrinths of terror and sudden game-ending mayhem. That includes a section on advanced combat techniques like circular strafing, which is the constant circling of a target while firing, inflicting maximum damage while making it difficult to get hit by enemy fire. The last section is for players who wish to enter the game's multiplayer matches on the Internet.</p>
+        <p>Throughout the guide, Mr. Bell effectively maintains an air of authenticity about the elements of the Unreal environment. Whole passages never hint that all the firepower specs and tactics concern a world that is only a game, a game that exists only on the shiny surface of a CD-ROM.</p>
+        <p>For example, Mr. Bell writes about the flak cannon that it ''fires high-velocity metal shards that rip a hole in your enemy in seconds flat. It isn't the prettiest weapon, but it makes up for its lack of beauty with raw power.'' Or consider his advice about fighting on the go: ''Never stop. Even the weakest alien in the galaxy is capable of hitting you if you stand still.''</p>
+        <p>Good thing the aliens can't read Prima's guides.</p>
+        <p>LIBRARY/COMPUTER BOOKS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

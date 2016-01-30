@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="439263"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910422T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D71138F931A15757C0A967958260" item-length="264" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following is a partial list of dividend meetings for the week of April 21, 1991: MONDAY Airborne Fght Lubrizol Corp</p>
+      </block>
+      <block class="full_text">
+        <p>Following is a partial list of dividend meetings for the week of April 21, 1991: MONDAY Airborne Fght Lubrizol Corp</p>
+        <p>TUESDAY Allergan Alltel Corp Amoco Ball Corp Black Hills Cash Amer Invts Cilcorp Cincinnati Milacron  Crawford &amp; Co Gleason Kentucky Utils Loral Corp  Noreast Norwest Rubbermaid Salomon Bros Fd  Schering-Plough Southwestern Pub Svc TCF Finl Union Elec United Dominion Inds USLife Warner-Lambert WEDNESDAY Alberto-Culver American Business Prods AMP Inc Bay St Gas Co Beckman Instrs Bethlehem Stl Cipsco Downey Svgs &amp; Ln Du Pont E. I. De Nemours Eaton Corp Energen Grainger W. W. Inland Stl Lukens McGraw-Hill McKesson Corp Minnesota Pwr &amp; Lt National Med Ent. NCNB Oneida Potomac Elec Pwr Russell Scana Corp Shaw Inds Sherwin Williams Standex Intl Union Carbide Wisconsin Energy THURSDAY Anadarko Pete Ashland Coal Avery Dennison Corning Crss Inc Delta Air Lines Dexter Corp Donnelley R.R. &amp; Sons Duke Pwr Empire Dist Elec Guilford Mls Handy &amp; Harman Iowa Ill Gas &amp; Elec Jostens Lawter Intl Morton Intl Olin Corp Oregon Stl Mls Outboard Marine Pfizer Quaker St Sara Lee Smith Food &amp; Drug Sonat SPS Technologies Torchmark Webb Del Wicor FRIDAY Brown &amp; Sharpe CMS Energy Entergy Corp Fedders Corp Ferro Corp First Wachovia Harland John H. Harris Corp Indiana Energy Kimberly-Clark Kysor Indl McDonnell Douglas Mobil Corp Oakwood Homes Snap-On Tools Timken  SATURDAY Wackenhut Corp SUNDAY Rollins Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

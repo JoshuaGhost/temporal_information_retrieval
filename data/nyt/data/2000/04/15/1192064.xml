@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  STARK, MOLLY</title>
+    <meta content="DN041500" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1192064"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">STARK, MOLLY</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2D91631F936A25757C0A9669C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  STARK, MOLLY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STARK-Molly. On April 14, 2000. Beloved wife of the late Sidney. Devoted mother of Judy and Jack Hollenberg, and Ellen and Peter Berek. Dear sister of Beatrice Joseph and Hannah Hyman. Cherished grandmother of Steven, Rachel, Jonathan, Martha, Lisa, Laura and Elizabeth. Loving GiGi to seven great-granddaughters. Services Sunday, 1:30pm at ''Gutterman's, Inc.'' 175 Long Beach, Road, Rockville Centre, L.I.</p>
+      </block>
+      <block class="full_text">
+        <p>STARK-Molly. On April 14, 2000. Beloved wife of the late Sidney. Devoted mother of Judy and Jack Hollenberg, and Ellen and Peter Berek. Dear sister of Beatrice Joseph and Hannah Hyman. Cherished grandmother of Steven, Rachel, Jonathan, Martha, Lisa, Laura and Elizabeth. Loving GiGi to seven great-granddaughters. Services Sunday, 1:30pm at ''Gutterman's, Inc.'' 175 Long Beach, Road, Rockville Centre, L.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

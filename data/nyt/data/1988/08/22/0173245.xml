@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Philharmonic Benefit</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="173245"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <org class="indexing_service">NEW YORK PHILHARMONIC</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DE1539F931A1575BC0A96E948260" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Philharmonic Benefit</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Schubert's ''Rosamunde'' Overture, the Beethoven Violin Concerto and excerpts from Wagner's ''Gotterdammerung'' form the program for the benefit concert that opens the New York Philharmonic season, on Sept. 14 at 7:30 P.M. at Avery Fisher Hall. Zubin Mehta is to conduct, with Isaac Stern as the soloist in the Beethoven.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Schubert's ''Rosamunde'' Overture, the Beethoven Violin Concerto and excerpts from Wagner's ''Gotterdammerung'' form the program for the benefit concert that opens the New York Philharmonic season, on Sept. 14 at 7:30 P.M. at Avery Fisher Hall. Zubin Mehta is to conduct, with Isaac Stern as the soloist in the Beethoven.</p>
+        <p>Schubert's ''Rosamunde'' Overture, the Beethoven Violin Concerto and excerpts from Wagner's ''Gotterdammerung'' form the program for the benefit concert that opens the New York Philharmonic season, on Sept. 14 at 7:30 P.M. at Avery Fisher Hall. Zubin Mehta is to conduct, with Isaac Stern as the soloist in the Beethoven. Tickets for the black-tie event are $125 (preconcert cocktails are included), $300 and $500 (dinner is included in both prices) and - for a box of eight seats -$6,000 (preconcert reception, intermission cocktails and dinner for eight included). Information: 874-2424.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

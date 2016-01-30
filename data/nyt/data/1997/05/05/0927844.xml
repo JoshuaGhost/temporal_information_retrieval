@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Creating Respect</title>
+    <meta content="LTR232456" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="'Ellen' Opened Our Eyes to Gay Humanity" name="column_name"/>
+    <docdata>
+      <doc-id id-string="927844"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="'Ellen' Opened Our Eyes to Gay Humanity"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Cloud, Sanford Jr</person>
+        <person class="indexing_service">Degeneres, Ellen</person>
+        <object.title class="indexing_service">Ellen (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0D91230F936A35756C0A961958260" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Creating Respect</hl1>
+      </hedline>
+      <abstract>
+        <p>Sanford Cloud Jr letter comments on May editorial on ABC-TV sitcom Ellen, in which title character played by Ellen DeGeneres who is lesbian in real life, announces she is gay (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your May 1 editorial got it right -- almost. You correctly commended the coming-out episode for being conceived and executed with wit and poignancy. But the program did more than promote ''tolerance.'' It created an opportunity for increased understanding of the pain a judgmental society imposes on the homosexual community.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your May 1 editorial got it right -- almost. You correctly commended the coming-out episode for being conceived and executed with wit and poignancy. But the program did more than promote ''tolerance.'' It created an opportunity for increased understanding of the pain a judgmental society imposes on the homosexual community.</p>
+        <p>Improving tolerance is not the same as creating understanding and respect. Tolerance implies holding one's nose and enduring differences, perhaps with disdain. Understanding implies empathy and caring, while respect defines the way our nation needs to treat all those who enrich its borders.</p>
+        <p>SANFORD CLOUD JR.  New York, May 1, 1997</p>
+        <p>'Ellen' Opened Our Eyes to Gay Humanity</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

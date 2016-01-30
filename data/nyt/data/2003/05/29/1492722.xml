@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="29TRANS" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1492722"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DD1F31F93AA15756C0A9659C8B63" item-length="586" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Sports transactions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Activated OF B.J. Surhoff from the 15-day disabled list.  CLEVELAND INDIANS--Placed RHP Jason Bere on the 15-day disabled list. Recalled LHP Brian Tallet from Buffalo of the IL.  KANSAS CITY ROYALS--Placed OF Dee Brown and 2B Carlos Febles on the 15-day disabled list. Designated LHP Scott Mullen for assignment. Purchased the contract of LHP Rick DeHart from Omaha of the PCL. Recalled OF Aaron Guiel and INF Brent Abernathy from Omaha.  MINNESOTA TWINS--Signed RHP Evan Meek. Optioned 1B Todd Sears to Rochester of the IL. Recalled OF Lew Ford from Rochester.  SEATTLE MARINERS--Signed OF Bryan Lahair, OF Michael Nesbit, RHP Cordoza Tucker, RHP Michael Moorhead and C Brock Griffin.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  BALTIMORE ORIOLES--Activated OF B.J. Surhoff from the 15-day disabled list.  CLEVELAND INDIANS--Placed RHP Jason Bere on the 15-day disabled list. Recalled LHP Brian Tallet from Buffalo of the IL.  KANSAS CITY ROYALS--Placed OF Dee Brown and 2B Carlos Febles on the 15-day disabled list. Designated LHP Scott Mullen for assignment. Purchased the contract of LHP Rick DeHart from Omaha of the PCL. Recalled OF Aaron Guiel and INF Brent Abernathy from Omaha.  MINNESOTA TWINS--Signed RHP Evan Meek. Optioned 1B Todd Sears to Rochester of the IL. Recalled OF Lew Ford from Rochester.  SEATTLE MARINERS--Signed OF Bryan Lahair, OF Michael Nesbit, RHP Cordoza Tucker, RHP Michael Moorhead and C Brock Griffin.</p>
+        <p>National League  ARIZONA DIAMONDBACKS--Recalled RHP John Patterson from Tucson of the PCL. Placed RHP Brandon Webb on the 15-day disabled list.  CINCINNATI REDS--Assigned RHP Brian Reith to Louisville of the IL. Purchased the contract of RHP Joey Hamilton from Louisville.  HOUSTON ASTROS--Purchased the contract of RHP Jonathan Johnson from New Orleans of the PCL. Designated INF Tripp Cromer for assignment.  MILWAUKEE BREWERS--Agreed to terms with LHP Dana Eveland, OF Adam Mannon, RHP Simon Beresford and RHP Tim Dillard.  SAN FRANCISCO GIANTS--Activated OF Marvin Benard from the 15-day disabled list. Designated RHP Manny Aybar for assignment.</p>
+        <p>BASKETBALL</p>
+        <p>National Basketball Association  NEW ORLEANS HORNETS--Named Allan Bristow assistant general manager.</p>
+        <p>Continental Basketball Association  IDAHO STAMPEDE--Named Larry Krystkowiak coach.</p>
+        <p>FOOTBALL</p>
+        <p>National Football League  PITTSBURGH STEELERS--Signed CB Ike Taylor and FB J.T. Wall.  SAN FRANCISCO 49ERS--Signed RB Rashaan Salaam, CB Keith Heyward-Johnson and DE Kai Ellis.</p>
+        <p>Canadian Football League  WINNIPEG BLUE BOMBERS--Signed LB Maurice Kelly.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  BUFFALO SABRES--Signed Lindy Ruff, coach, to a three-year contract. Signed F Derek Roy and F Chris Thorburn. Declined to tender a contract to F Denis Hamel.  CALGARY FLAMES--Signed RW Shean Donovan and RW Chris Clark.  COLORADO AVALANCHE--Announced the retirement of G Patrick Roy.  DALLAS STARS--Signed LW David Bararuk to a three-year contract.  EDMONTON OILERS--Signed D Doug Lynch and F Dan Baum to three-year contracts.  LOS ANGELES KINGS--Acquired G Roman Cechmanek from the Philadelphia Flyers for a 2004 second-round draft pick.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Customedix Corp. reports earnings for Qtr to Dec 31</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="421570"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6D6173CF93AA35751C0A967958260" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Customedix Corp. reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Customedix Corp. (AMEX)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Sales</p>
+        <p>10,561,545</p>
+        <p>12,885,819</p>
+        <p>Net inc</p>
+        <p>46,031</p>
+        <p>610,306</p>
+        <p>Share earns</p>
+        <p>--</p>
+        <p>.02</p>
+        <p>Shares outst</p>
+        <p>32,725,700</p>
+        <p>33,829,400</p>
+        <p>6mo sales</p>
+        <p>20,846,296</p>
+        <p>25,309,120</p>
+        <p>Net inc</p>
+        <p>477,496</p>
+        <p>1,005,312</p>
+        <p>Share earns</p>
+        <p>.01</p>
+        <p>.03</p>
+        <p>Shares outst</p>
+        <p>33,056,500</p>
+        <p>33,829,400</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

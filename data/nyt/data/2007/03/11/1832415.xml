@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Common Thread for Rare Illness</title>
+    <meta content="11inbox-4" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2007" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1832415"/>
+      <doc.copyright holder="The New York Times" year="2007"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20070311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DE1031F932A25750C0A9619C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Common Thread for Rare Illness</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>The death of the former Philadelphia Phillies player John Vukovich of brain cancer represents the sixth man who participated in the 1980 playoffs to have a documented case of brain cancer. Bobby Murcer, who played with the Yankees that year, is battling brain cancer. His manager, Dick Howser, died of primary brain cancer in 1987. Another player on that Yankees team, Johnny Oates, died of a primary brain tumor in 2004. The 1980 Yankees were beaten in the playoffs by the Kansas City Royals, whose star relief pitcher, Dan Quisenberry, died of primary brain cancer in 1998. The Royals were beaten in the World Series by the Philadelphia Phillies, whose star relief pitcher was Tug McGraw, who died of a brain tumor in 2004.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>The death of the former Philadelphia Phillies player John Vukovich of brain cancer represents the sixth man who participated in the 1980 playoffs to have a documented case of brain cancer. Bobby Murcer, who played with the Yankees that year, is battling brain cancer. His manager, Dick Howser, died of primary brain cancer in 1987. Another player on that Yankees team, Johnny Oates, died of a primary brain tumor in 2004. The 1980 Yankees were beaten in the playoffs by the Kansas City Royals, whose star relief pitcher, Dan Quisenberry, died of primary brain cancer in 1998. The Royals were beaten in the World Series by the Philadelphia Phillies, whose star relief pitcher was Tug McGraw, who died of a brain tumor in 2004.</p>
+        <p>Brain cancer is a rare disease with an expected incidence of roughly one to two cases per 10,000 people. In an office building, six workers out of 1,000 with brain cancer would merit an epidemiologic investigation.</p>
+        <p>Dr. Cory Franklin  Chicago</p>
+        <p>The writer is an intensive care doctor at Stroger Hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

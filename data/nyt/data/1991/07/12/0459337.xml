@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Budget Discord Sends Maine Workers Home</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="459337"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <location class="indexing_service">MAINE</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Maine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Maine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DC1030F931A25754C0A967958260" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Budget Discord Sends Maine Workers Home</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>AUGUSTA, Me., July 11</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maine's state government, closed last week for lack of a budget, was shut down again today after negotiations on a budget agreement stalled.</p>
+        <p>Gov. John R. McKernan, a Republican, ordered the latest government shutdown at 3:30 A.M. after failing to reach agreement with the Democratic-controlled Legislature on new taxes and a reduction in workers' compensation taxes for businesses.</p>
+      </block>
+      <block class="full_text">
+        <p>Maine's state government, closed last week for lack of a budget, was shut down again today after negotiations on a budget agreement stalled.</p>
+        <p>Gov. John R. McKernan, a Republican, ordered the latest government shutdown at 3:30 A.M. after failing to reach agreement with the Democratic-controlled Legislature on new taxes and a reduction in workers' compensation taxes for businesses.</p>
+        <p>The shutdown prompted criticism from a top official of a union representing state workers. "They've got to stop playing with people's lives," said Carl Leinonen, executive director of the Maine State Employees Association.</p>
+        <p>State employees protesting the stalemate set up half a dozen tents in a park across from the Statehouse, saying their "Union City" was meant to demonstrate the disruption caused by the government shutdown. Most state offices and agencies were closed all last week, idling about 10,000 employees judged to be non-essential.</p>
+        <p>Mr. McKernan has said the Republican legislators in both houses will support and he will sign a $3.2 billion budget only if negotiators reach final agreement on ways to reduce the workers' compensation tax.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

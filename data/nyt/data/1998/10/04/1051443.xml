@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tracy Ballard, John Gorman</title>
+    <meta content="04BALL$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1051443"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BALLARD, TRACY ELLEN</person>
+        <person class="indexing_service">GORMAN, JOHN KEVIN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6D91238F937A35753C1A96E958260" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tracy Ballard, John Gorman</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tracy Ellen Ballard, the daughter of Dr. Bruce L. Ballard and Eleanor Cross Ballard of Scarsdale, N.Y., was married yesterday to John Kevin Gorman, a son of Dr. Susan Black of Lowell, Mass., and Dr. Arthur Gorman of Marshfield, Mass. Rabbi Harold White officiated with the Rev. Margaret M. Graham, an Episcopal priest, at the National Press Club in Washington.</p>
+        <p>Ms. Ballard, 31, is keeping her name. She is an associate in the antitrust group in the Washington office of Rogers &amp; Wells, the New York law firm. She graduated from Cornell University and received a J. D. degree cum laude from Harvard University.</p>
+      </block>
+      <block class="full_text">
+        <p>Tracy Ellen Ballard, the daughter of Dr. Bruce L. Ballard and Eleanor Cross Ballard of Scarsdale, N.Y., was married yesterday to John Kevin Gorman, a son of Dr. Susan Black of Lowell, Mass., and Dr. Arthur Gorman of Marshfield, Mass. Rabbi Harold White officiated with the Rev. Margaret M. Graham, an Episcopal priest, at the National Press Club in Washington.</p>
+        <p>Ms. Ballard, 31, is keeping her name. She is an associate in the antitrust group in the Washington office of Rogers &amp; Wells, the New York law firm. She graduated from Cornell University and received a J. D. degree cum laude from Harvard University.</p>
+        <p>Her father, a psychiatrist, is the associate dean for student affairs at the Joan and Sanford I. Weill Medical College and Graduate School of Medical Sciences of Cornell University in New York.</p>
+        <p>Mr. Gorman, 30, is the president of Managed Care Compliance Solutions, a health-care consulting company in Washington. He was a staff director for Representative John Conyers Jr. of Michigan and the assistant to the director of the Office of Managed Care at the Federal Health Care Financing Administration. He graduated from Oberlin College.</p>
+        <p>His mother, a family physician in Lowell, was a vice president of the American Academy of Family Physicians from 1994 to 1997. His father is the chief of the emergency department at Jordan Hospital in Plymouth, Mass.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

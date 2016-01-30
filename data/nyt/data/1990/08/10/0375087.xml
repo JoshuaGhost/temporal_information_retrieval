@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baby Bells' $2.4 Billion Deal Gains</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="375087"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MERGERS, ACQUISITIONS AND DIVESTITURES</classifier>
+        <classifier class="indexing_service" type="descriptor">DECISIONS AND VERDICTS</classifier>
+        <org class="indexing_service">TELECOM CORP</org>
+        <org class="indexing_service">BELL ATLANTIC CORP</org>
+        <org class="indexing_service">AMERITECH CORP</org>
+        <person class="indexing_service">GREENE, HAROLD H (JUDGE)</person>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DD1130F933A2575BC0A966958260" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baby Bells' $2.4 Billion Deal Gains</hl1>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS, Special to The New York Times</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON, Aug. 9</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Federal District Judge Harold H. Greene today removed one of the lingering legal uncertainties in the proposed $2.4 billion acquisition of New Zealand's state-owned telephone company by the Bell Atlantic Corporation and the American Information Technologies Corporation, or Ameritech.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Federal District Judge Harold H. Greene today removed one of the lingering legal uncertainties in the proposed $2.4 billion acquisition of New Zealand's state-owned telephone company by the Bell Atlantic Corporation and the American Information Technologies Corporation, or Ameritech.</p>
+        <p>Federal District Judge Harold H. Greene today removed one of the lingering legal uncertainties in the proposed $2.4 billion acquisition of New Zealand's state-owned telephone company by the Bell Atlantic Corporation and the American Information Technologies Corporation, or Ameritech.</p>
+        <p>The ruling allows the two regional Bell companies to retain control of the international services provided by the Telecom Corporation of New Zealand. The ruling was necessary because the Bell companies are prohibited from providing long-distance services under Judge Greene's 1984 consent decree that dismantled the Bell System.</p>
+        <p>Officials at Bell Atlantic, based in Philadelphia, and Ameritech, based in Chicago, said the ruling would lower the cost and complexity of the purchase, which is scheduled to be completed on Sept. 12. Had the waiver not been granted, the Bell companies had planned to sell the international services as well as the New Zealand company's interests in satellite and undersea cable operations.</p>
+        <p>''We're pleased with the decision because it allows us to proceed the way we had wanted,'' said Stephen Ford, a spokesman for Ameritech. Patricia Rimo, a spokeswoman for Bell Atlantic, commented, ''We are pleased that Judge Greene reaffirmed his consistent policy of encouraging foreign business ventures by the regional Bell companies.''</p>
+        <p>Decline in Share Prices</p>
+        <p>The share price of Bell Atlantic fell 37.5 cents, to $46.125, in trading today on the New York Stock Exchange. Ameritech fell 25 cents a share, to $59.875.</p>
+        <p>The decision was a defeat for two American long-distance carriers, the MCI Communications Corporation and U S Sprint, a subsidiary of United Telecommunications Inc. They had argued that the Bell companies would use their position to block competition in service between New Zealand and the United States.</p>
+        <p>But Judge Greene ruled that the Bell companies had provided adequate safeguards, because they had agreed not to provide service directly to the United States. Instead, calls originating in New Zealand will be handed off to American carriers at a halfway point. In addition, the companies have pledged to limit their ownership positions in international satellite and cable properties to less than 10 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

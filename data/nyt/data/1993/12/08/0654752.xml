@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Pop; From Metal Into Melody</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="654752"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <org class="indexing_service">PAW (BAND)</org>
+        <org class="indexing_service">PAW (BAND)</org>
+        <person class="indexing_service">PARELES, JON</person>
+        <person class="indexing_service">PARELES, JON</person>
+        <object.title class="indexing_service">PAW (BAND)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931208T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D91130F93BA35751C1A965958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Pop; From Metal Into Melody</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">PARELES, JON</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Paw could be an all-out heavy-metal band if it wanted to be. At CBGB on Thursday night, Mark Hennessy sang his lyrics in a deep, bleak baritone growl; Grant Fitch on guitar, Charles Bryan on bass and Peter Fitch on drums blasted out belligerent, bulldozing riffs. But while Paw's songs often start out thrashing, they don't stay that way; heavy-metal verses give way to choruses and bridges that ease back into folk-rock and sometimes hint at country-rock. Often, Paw (which comes from Lawrence, Kan.) does what might be called a reverse Nirvana; where Nirvana's songs often start out quietly and break into a roar, Paw's songs move from metal to melody. The music's colliding styles match shifting emotions in the lyrics. On Paw's album, "Dragline" (A &amp; M Records), Mr. Hennessy sings about anger and trust, about breaking connections and trying to save them, about the inevitability of death. In "Jessie," the singer is trying to run away from home, but his dog follows him; in "Lolita," a father romances and denounces the daughter he has abused. "Sleeping Bag" juxtaposes an attempted suicide and an auto accident; in "Pansy," an old man howls, "I just want to lay down long enough to die!" Mr. Hennessy's conviction, and his ability to distill situations into terse, allusive lyrics, make him a rival of Pearl Jam's Eddie Vedder. And Paw's music, unsettled but carefully shaped, suits a band that distrusts its only inheritance.</p>
+      </block>
+      <block class="full_text">
+        <p>Paw could be an all-out heavy-metal band if it wanted to be. At CBGB on Thursday night, Mark Hennessy sang his lyrics in a deep, bleak baritone growl; Grant Fitch on guitar, Charles Bryan on bass and Peter Fitch on drums blasted out belligerent, bulldozing riffs. But while Paw's songs often start out thrashing, they don't stay that way; heavy-metal verses give way to choruses and bridges that ease back into folk-rock and sometimes hint at country-rock. Often, Paw (which comes from Lawrence, Kan.) does what might be called a reverse Nirvana; where Nirvana's songs often start out quietly and break into a roar, Paw's songs move from metal to melody. The music's colliding styles match shifting emotions in the lyrics. On Paw's album, "Dragline" (A &amp; M Records), Mr. Hennessy sings about anger and trust, about breaking connections and trying to save them, about the inevitability of death. In "Jessie," the singer is trying to run away from home, but his dog follows him; in "Lolita," a father romances and denounces the daughter he has abused. "Sleeping Bag" juxtaposes an attempted suicide and an auto accident; in "Pansy," an old man howls, "I just want to lay down long enough to die!" Mr. Hennessy's conviction, and his ability to distill situations into terse, allusive lyrics, make him a rival of Pearl Jam's Eddie Vedder. And Paw's music, unsettled but carefully shaped, suits a band that distrusts its only inheritance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

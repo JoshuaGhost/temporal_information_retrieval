@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  MELAMID, ALEXANDER</title>
+    <meta content="DN032301" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1280141"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <person class="indexing_service">MELAMID, ALEXANDER</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E7DE153CF930A15750C0A9679C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  MELAMID, ALEXANDER</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MELAMID - Alexander. The American Geographical Society notes with sadness the death on March 19, of Alexander Melamid, a councilor of the Society since 1975, Vice President for many years, and long time Chair of our Honors Committee. We will miss the cosmopolitan range of his knowledge, his stalwart spirit, and his unflagging devotion to the Society. We have lost a good friend and a treasured colleague. John E. Gould, Chair William P. Doyle, President Mary Lynne Bird, Exec Director</p>
+      </block>
+      <block class="full_text">
+        <p>MELAMID - Alexander. The American Geographical Society notes with sadness the death on March 19, of Alexander Melamid, a councilor of the Society since 1975, Vice President for many years, and long time Chair of our Honors Committee. We will miss the cosmopolitan range of his knowledge, his stalwart spirit, and his unflagging devotion to the Society. We have lost a good friend and a treasured colleague. John E. Gould, Chair William P. Doyle, President Mary Lynne Bird, Exec Director</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harassment in the Schools</title>
+    <meta content="23TUE1" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1026771"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Sexual Harassment</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <org class="indexing_service">Supreme Court (US)</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sexual Harassment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E3DB123CF930A15755C0A96E958260" item-length="460" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harassment in the Schools</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial scores US Supreme Court decision that public school victims of sexual harassment can recover damages from school district only if officials knew of misconduct and deliberately failed to act; says decision granted schools immunity they do not deserve as matter of law and public policy (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A sharply divided Supreme Court yesterday emphasized the ''extraordinary harm'' suffered by student victims of sexual harassment or abuse by teachers, but then perversely deprived them and their families of an effective legal remedy.</p>
+        <p>The 5-to-4 ruling, shattering the Court's usual unanimity on sexual-harassment issues, was the product of a conservative bloc of justices who sought to substitute their own views for those of Congress in interpreting Title IX, the Federal law that bars sex discrimination in schools receiving Federal funds. The majority ruled that victims of harassment could recover damages from a school district only if officials knew of the misconduct and deliberately failed to act. In thus greatly narrowing the ability of victims to hold school districts liable for the abusive behavior of teachers, the Court granted schools an immunity they do not deserve as a matter of law or public policy.</p>
+      </block>
+      <block class="full_text">
+        <p>A sharply divided Supreme Court yesterday emphasized the ''extraordinary harm'' suffered by student victims of sexual harassment or abuse by teachers, but then perversely deprived them and their families of an effective legal remedy.</p>
+        <p>The 5-to-4 ruling, shattering the Court's usual unanimity on sexual-harassment issues, was the product of a conservative bloc of justices who sought to substitute their own views for those of Congress in interpreting Title IX, the Federal law that bars sex discrimination in schools receiving Federal funds. The majority ruled that victims of harassment could recover damages from a school district only if officials knew of the misconduct and deliberately failed to act. In thus greatly narrowing the ability of victims to hold school districts liable for the abusive behavior of teachers, the Court granted schools an immunity they do not deserve as a matter of law or public policy.</p>
+        <p>In doing so, the Court also rejected the Department of Education's reasonable interpretation of  Title IX, under which a school district could be found liable, regardless of whether officials knew of the misconduct, if a teacher had misused his position of authority in imposing the harassment.</p>
+        <p>Under the new ruling, a harassment victim may not recover damages from a school district absent a showing that a school official with power to intervene had ''actual notice'' of the abuse and, acting with ''deliberate indifference,'' failed to stop it. The majority opinion, by Justice Sandra Day O'Connor, with concurrence from Chief Justice William Rehnquist and Justices Antonin Scalia, Clarence Thomas and Anthony Kennedy, held that lack of a formal school policy against harassment or any system for reporting complaints should not be deemed evidence of ''deliberate indifference.''</p>
+        <p>The four dissenters -- Justices John Paul Stevens, David Souter, Ruth Bader Ginsburg and Stephen Breyer -- rightly scored the majority's disingenuous reading of Title IX's legislative history and the harmful impact their stringent liability standard will have in insulating school districts from  nearly all harassment suits. As Justice Stevens said in his minority opinion, the Court put ''protection of the school district's purse above the protection of immature high school students.''</p>
+        <p>It is little solace that the victim is still free to sue the district for damages under state laws and the individual teacher for damages under Federal and state laws. Many states lack a remedy for this kind of serious sexual harassment, and going after a teacher with little ability to pay ignores the responsibility of schools for preventing abuse.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muster to Make His Point With I.T.F.</title>
+    <meta content="SP024046" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="SPORTS PEOPLE: TENNIS" name="column_name"/>
+    <docdata>
+      <doc-id id-string="880690"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="SPORTS PEOPLE: TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Davis Cup</classifier>
+        <classifier class="indexing_service" type="descriptor">Fines (Penalties)</classifier>
+        <org class="indexing_service">International Tennis Federation</org>
+        <person class="indexing_service">Muster, Thomas</person>
+        <object.title class="indexing_service">Sports People (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fines (Penalties)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Davis Cup</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFD61E3CF932A35753C1A960958260" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muster to Make His Point With I.T.F.</hl1>
+      </hedline>
+      <abstract>
+        <p>Austrian tennis player Thomas Muster, who stomped off court during Davis Cup match with Brazil and called fans 'animals,' will go to London on Oct 7 to argue his case before the International Tennis Federation, which has fined him about $8,000 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THOMAS MUSTER, who stomped off the court during a Davis Cup match with Brazil and called the fans ''animals,'' will go to London on Oct. 7 to argue his case before the International Tennis Federation.</p>
+        <p>Muster, the world's No. 3-ranked player, will be joined by his coach, RONALD LEITGEB, and Austrian teammates and officials.</p>
+        <p>''We are preparing to fight,'' CHRISTIAN RANSMAYR, vice president of the Austrian Tennis Federation, told The Associated Press yesterday in Vienna.</p>
+      </block>
+      <block class="full_text">
+        <p>THOMAS MUSTER, who stomped off the court during a Davis Cup match with Brazil and called the fans ''animals,'' will go to London on Oct. 7 to argue his case before the International Tennis Federation.</p>
+        <p>Muster, the world's No. 3-ranked player, will be joined by his coach, RONALD LEITGEB, and Austrian teammates and officials.</p>
+        <p>''We are preparing to fight,'' CHRISTIAN RANSMAYR, vice president of the Austrian Tennis Federation, told The Associated Press yesterday in Vienna.</p>
+        <p>Muster left the court on Sept. 21 when he and his doubles partner trailed, 0-2, 15-30, in the fifth set in Sao Paulo, Brazil. The Austrian complained that fans had cursed and spit at him. He said they threw things at him and blinded him with a mirror. He contended security was insufficient for him to continue playing.</p>
+        <p>The Austrians forfeited the match and the series when they refused to play the remaining two singles, losing by 4-1.</p>
+        <p>Muster has been fined about $8,000 by the I.T.F. for leaving the court and making an obscene gesture. Austria has appealed that decision.</p>
+        <p>(AP)</p>
+        <p>SPORTS PEOPLE: TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

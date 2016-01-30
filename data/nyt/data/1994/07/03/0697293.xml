@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jill Boudreau, Howard Present</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="697293"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BOUDREAU, JILL ANN</person>
+        <person class="indexing_service">PRESENT, HOWARD BRIAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DC103CF930A35754C0A962958260" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jill Boudreau, Howard Present</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jill Ann Boudreau, a daughter of Mr. and Mrs. Donald L. Boudreau of Scarsdale, N.Y., was married yesterday to Howard Brian Present, a son of Mr. and Mrs. Harvey J. Present of Chesterfield, Mo. The Rev. Walter Pitman officiated at the First Congregational Church in Chatham, Mass. Rabbi Ari Fridkis took part in the ceremony.</p>
+        <p>Ms. Boudreau, 28, is keeping her name. She is a marketing manager at Fidelity Investments in Boston. She graduated from Lehigh University and received an M.B.A. from Columbia University. Her father is an executive vice president of Chase Manhattan Bank in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>Jill Ann Boudreau, a daughter of Mr. and Mrs. Donald L. Boudreau of Scarsdale, N.Y., was married yesterday to Howard Brian Present, a son of Mr. and Mrs. Harvey J. Present of Chesterfield, Mo. The Rev. Walter Pitman officiated at the First Congregational Church in Chatham, Mass. Rabbi Ari Fridkis took part in the ceremony.</p>
+        <p>Ms. Boudreau, 28, is keeping her name. She is a marketing manager at Fidelity Investments in Boston. She graduated from Lehigh University and received an M.B.A. from Columbia University. Her father is an executive vice president of Chase Manhattan Bank in New York.</p>
+        <p>Mr. Present, 33, is a vice president of the Boston Financial Group. He graduated from the University of Texas and received an M.B.A. from Emory University. His father is the owner and president of Allied Industrial Packaging Inc., in St. Louis.  WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

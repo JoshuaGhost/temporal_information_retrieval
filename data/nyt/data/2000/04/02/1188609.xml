@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Save Those Shirts</title>
+    <meta content="LTR141231" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1188609"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Doucette, Diane</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E3DE123CF931A35757C0A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Save Those Shirts</hl1>
+      </hedline>
+      <abstract>
+        <p>Diane Doucette letter criticizes advice to travelers to discard old t-shirts as they go along (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I quickly grabbed the Travel section when I saw the feature on spas with new age amenities (''Feel the Burn? It's More of a Glow,'' March 5). On a cold, rainy Sunday morning I was ready for exactly this type of escape. But I was distressed to see the suggestion by the Women's Travel Club that it was cheaper to throw away T-shirts than have them laundered (''Plotting a Spa Getaway'').</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I quickly grabbed the Travel section when I saw the feature on spas with new age amenities (''Feel the Burn? It's More of a Glow,'' March 5). On a cold, rainy Sunday morning I was ready for exactly this type of escape. But I was distressed to see the suggestion by the Women's Travel Club that it was cheaper to throw away T-shirts than have them laundered (''Plotting a Spa Getaway'').</p>
+        <p>This sort of thinking is reminiscent of the ''old age'' values that supported our society's throwaway mentality and its view that it was convenient and natural to use the earth as a receptacle for our unwanted goods. I would have preferred to see more earth-friendly suggestions, such as rinsing out the shirts, giving them away or taking them home.</p>
+        <p>DIANE DOUCETTE  Berkeley, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

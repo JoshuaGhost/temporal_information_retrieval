@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When the Menu Says Chicken 'Legs' But Means 'Feet'</title>
+    <meta content="26BOOK$04" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1584544"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Chinese Language</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Mccawley, James D</person>
+        <object.title class="indexing_service">Eater's Guide to Chinese Characters, The (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chinese Language</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E6D8143EF935A15756C0A9629C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When the Menu Says Chicken 'Legs' But Means 'Feet'</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>The Eater's Guide to Chinese Characters by James D McCawley can help customers navigate Chinese restaurant menus; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you want to eat the way the Chinese do when you are in Chinatown but have no familiarity with Mandarin or Cantonese, how do you face the untranslated lists of dishes posted on walls or menus? ''The Eater's Guide to Chinese Characters,'' by James D. McCawley (University of Chicago, $15), a paperback edition of a book first published in 1984, could help. But this is not ''Chinese Menus for Dummies.'' It will take some serious study to recognize and understand the characters while you are waiting for your pot of tea, but in the end, you might be able to tell whether those stuffed buns are baked or steamed, and whether something called chicken legs is really chicken feet. Chinese characters are often more specific in describing dishes, and English translations are error-prone. For example, a dish called Two Crisp in English is actually pig tripe and dried squid. The book also has a rudimentary guide to pronunciation.</p>
+      </block>
+      <block class="full_text">
+        <p>If you want to eat the way the Chinese do when you are in Chinatown but have no familiarity with Mandarin or Cantonese, how do you face the untranslated lists of dishes posted on walls or menus? ''The Eater's Guide to Chinese Characters,'' by James D. McCawley (University of Chicago, $15), a paperback edition of a book first published in 1984, could help. But this is not ''Chinese Menus for Dummies.'' It will take some serious study to recognize and understand the characters while you are waiting for your pot of tea, but in the end, you might be able to tell whether those stuffed buns are baked or steamed, and whether something called chicken legs is really chicken feet. Chinese characters are often more specific in describing dishes, and English translations are error-prone. For example, a dish called Two Crisp in English is actually pig tripe and dried squid. The book also has a rudimentary guide to pronunciation.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

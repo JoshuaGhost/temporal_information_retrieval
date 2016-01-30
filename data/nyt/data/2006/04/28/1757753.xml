@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Gedi Sibony and Josh Smith</title>
+    <meta content="28gall-4" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1757753"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Johnson, Ken</person>
+        <person class="indexing_service">Sibony, Gedi</person>
+        <person class="indexing_service">Smith, Josh</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E7DD103FF93BA15757C0A9609C8B63" item-length="269" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Gedi Sibony and Josh Smith</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews Gedi Sibony and Josh Smith exhibition at Harris Lieberman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Harris Lieberman  89 Vandam Street, near Greenwich Street, SoHo  Through May 6</p>
+        <p>Gedi Sibony and Josh Smith each make art that arouses in the viewer a mildly irate bemusement. Mr. Sibony is currently in the Whitney Biennial, and Mr. Smith has been in exhibitions at the maverick gallery Reena Spaulings Fine Art.</p>
+      </block>
+      <block class="full_text">
+        <p>Harris Lieberman  89 Vandam Street, near Greenwich Street, SoHo  Through May 6</p>
+        <p>Gedi Sibony and Josh Smith each make art that arouses in the viewer a mildly irate bemusement. Mr. Sibony is currently in the Whitney Biennial, and Mr. Smith has been in exhibitions at the maverick gallery Reena Spaulings Fine Art.</p>
+        <p>Nominally a painter, Mr. Smith roughly paints his own name in large, blocky letters over collages made from newspaper pages and photocopied ephemera or on stretched, store-bought printed fabric. These works are totally uninteresting visually, so the point -- a stunningly sophomoric one -- is presumably to mock the bourgeois overvaluation of the big-name artist's signature.</p>
+        <p>Mr. Sibony, a sculptor, has seemingly casually placed various sorts of flat raw material -- cardboard, plywood, sheetrock, perforated metal -- in different parts of the gallery. He has also partly covered one room's floor with carpet, which extends up a narrow section of wall. And he has removed a wall section so that you can see into a normally hidden dark, empty space. On the floor in one room of the gallery lies a scrap of polyethylene plastic that looks like a piece of rubbish gallery workers forgot to pick up.</p>
+        <p>Mr. Sibony might be a kind of formalist who, like Richard Tuttle, prompts a heightened attention to sensory experience. But in the company of Mr. Smith, he seems like a Duchampian provocateur who challenges the viewer to rethink his or her assumptions about the nature and purpose of art. If you think that is still an interesting thing to do, then you may enjoy this otherwise enervating show.</p>
+        <p>KEN JOHNSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

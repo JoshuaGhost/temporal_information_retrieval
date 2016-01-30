@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Young People Strut Their Stuff</title>
+    <meta content="06YOUT$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/06/arts/music/06yout.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1662702"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="CLASSICAL MUSIC REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">American Youth Symphony</org>
+        <person class="indexing_service">Kozinn, Allan</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews/Classical</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Classical Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <person class="online_producer">Yundi Li</person>
+        <person class="online_producer">Auerbach, Lera</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6D91F3FF935A35757C0A9639C8B63" item-length="361" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Young People Strut Their Stuff</hl1>
+        <hl2 class="online_headline">Young People Strut Their Stuff</hl2>
+      </hedline>
+      <byline class="print_byline">By ALLAN KOZINN</byline>
+      <byline class="normalized_byline">Kozinn, Allan</byline>
+      <abstract>
+        <p>Allan Kozinn reviews 40th anniversary performance by American Youth Symphony at Carnegie Hall (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The American Youth Symphony, a Los Angeles training orchestra for musicians between 16 and 25, is celebrating its 40th anniversary this season, and among its festivities was a visit to Carnegie Hall on Saturday evening. The program was, as such programs tend to be, a carefully rounded demonstration of the orchestra's strengths.</p>
+        <p>Led by Alexander Treger, the orchestra's music director, the program opened with Lera Auerbach's ''Dreams and Whispers of Poseidon,'' a new work written for the ensemble. Ms. Auerbach, at 30, is an eloquent composer who handles an orchestra easily; in fact, for this picturesque score, with its contrasting sections of churning depths and lighter, harp-tinted dreaminess, she calls for some unusual additions, including a theremin, a musical saw and an expanded percussion array. Her language is accessible and often lyrical, but it is also invitingly sophisticated, and it yielded a work that unquestionably evoked the imagery of the title.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Saturday's program of works by Lera Auerbach, Chopin and Tchaikovsky at Carnegie Hall was a carefully rounded demonstration of the orchestra's strengths.</p>
+      </block>
+      <block class="full_text">
+        <p>The American Youth Symphony, a Los Angeles training orchestra for musicians between 16 and 25, is celebrating its 40th anniversary this season, and among its festivities was a visit to Carnegie Hall on Saturday evening. The program was, as such programs tend to be, a carefully rounded demonstration of the orchestra's strengths.</p>
+        <p>Led by Alexander Treger, the orchestra's music director, the program opened with Lera Auerbach's ''Dreams and Whispers of Poseidon,'' a new work written for the ensemble. Ms. Auerbach, at 30, is an eloquent composer who handles an orchestra easily; in fact, for this picturesque score, with its contrasting sections of churning depths and lighter, harp-tinted dreaminess, she calls for some unusual additions, including a theremin, a musical saw and an expanded percussion array. Her language is accessible and often lyrical, but it is also invitingly sophisticated, and it yielded a work that unquestionably evoked the imagery of the title.</p>
+        <p>Mr. Treger led the orchestra in an appropriately vivid reading, and then let his players relax a bit in Chopin's Piano Concerto No.1. Here, the orchestral component was supportive if undistinguished. But the real focus was Yundi Li's fluid reading of the solo line. Mr. Li is a poetic player with a sensitive touch (but also ample power when he needs it), as well as an ear for textural clarity and an impeccable sense of line. Those qualities, notable on his handful of recordings for Deutsche Grammophon, served the Chopin perfectly.</p>
+        <p>With the spotlight to itself again, the orchestra gave a superb performance of the Tchaikovsky Fifth Symphony. Jenny Kim's rendering of the French horn solo in the second movement was note-perfect, and her colleagues among the brass and woodwinds contributed some admirably robust ensemble work. The orchestra responded to Mr. Treger's brisk tempos with all the energy and precision a listener would expect of a fully professional ensemble.</p>
+        <p>CLASSICAL MUSIC REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

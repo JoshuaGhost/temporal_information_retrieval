@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Recital by Two Pianists</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="654242"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <classifier class="indexing_service" type="descriptor">MUSIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CONCERTS AND RECITALS</classifier>
+        <person class="indexing_service">ALDWELL, EDWARD</person>
+        <person class="indexing_service">GOODE, RICHARD</person>
+        <person class="indexing_service">ALDWELL, EDWARD</person>
+        <person class="indexing_service">GOODE, RICHARD</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE2DB143DF935A35751C1A965958260" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Recital by Two Pianists</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The pianists Edward Aldwell and Richard Goode are to perform a benefit recital on Dec. 16 at 8 P.M. at Mannes College of Music, 150 West 85th Street, Manhattan. The proceeds are to go to the Sheila Aldendorff Scholarship Fund -- named for a pianist and teacher -- to help students in the college's preparatory division. Mr. Aldwell will perform Bach's "French" Suite No. 6 and Chopin's Fantasy (Op. 49); Mr. Goode is to play Beethoven's Sonatas Nos. 26 and 27; both artists, who are Mannes faculty members, will play the four-hand version of Ravel's "Mother Goose" Suite. Tickets are $25 and $50. Information: (212) 496-8524.</p>
+      </block>
+      <block class="full_text">
+        <p>The pianists Edward Aldwell and Richard Goode are to perform a benefit recital on Dec. 16 at 8 P.M. at Mannes College of Music, 150 West 85th Street, Manhattan. The proceeds are to go to the Sheila Aldendorff Scholarship Fund -- named for a pianist and teacher -- to help students in the college's preparatory division. Mr. Aldwell will perform Bach's "French" Suite No. 6 and Chopin's Fantasy (Op. 49); Mr. Goode is to play Beethoven's Sonatas Nos. 26 and 27; both artists, who are Mannes faculty members, will play the four-hand version of Ravel's "Mother Goose" Suite. Tickets are $25 and $50. Information: (212) 496-8524.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gypsy-Cab Driver Is Accused of Two Rapes</title>
+    <meta content="28RAPE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="51" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/28/nyregion/28rape.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1630694"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex Crimes</classifier>
+        <classifier class="indexing_service" type="descriptor">Taxicabs and Taxicab Drivers</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Lafayette, Joel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex Crimes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxicabs and Taxicab Drivers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0D9133EF93BA15752C1A9629C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gypsy-Cab Driver Is Accused of Two Rapes</hl1>
+        <hl2 class="online_headline">Gypsy-Cab Driver Is Accused of Two Rapes</hl2>
+      </hedline>
+      <abstract>
+        <p>Police arrest Joel Lafayette, gypsy-cab driver accused of raping two women in separate incidents in Brooklyn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A gypsy-cab driver accused of raping two women in separate incidents in Brooklyn last week was arrested last night, police said.</p>
+        <p>The authorities identified the driver as Joel Lafayette, 24. They said that he picked up a 21-year-old female passenger early yesterday at the intersection of Nostrand and Church Avenues in the Flatbush section of Brooklyn and stopped at Avenue J and Troy Avenue, where he raped her at knifepoint.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A gypsy-cab driver accused of raping two women in separate incidents in Brooklyn last week was arrested last night, police said.</p>
+      </block>
+      <block class="full_text">
+        <p>A gypsy-cab driver accused of raping two women in separate incidents in Brooklyn last week was arrested last night, police said.</p>
+        <p>The authorities identified the driver as Joel Lafayette, 24. They said that he picked up a 21-year-old female passenger early yesterday at the intersection of Nostrand and Church Avenues in the Flatbush section of Brooklyn and stopped at Avenue J and Troy Avenue, where he raped her at knifepoint.</p>
+        <p>On Wednesday, the police said, Mr. Lafayette picked up an 18-year-old woman at Flatbush and Church Avenues and drove a short distance before he pulled his vehicle over and raped her.</p>
+        <p>The police said that Mr. Lafayette was operating a van without a license from the city's Taxi and Limousine Commission.</p>
+        <p>So-called gypsy cabs are popular in the city because they often run along the same routes as city buses and typically charge a $1 fare.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

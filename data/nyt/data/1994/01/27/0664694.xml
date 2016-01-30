@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conrail Inc.  reports earnings for Qtr to Dec 31</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="664694"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEEDF1639F934A15752C0A962958260" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conrail Inc.  reports earnings for Qtr to Dec 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Conrail Inc.  (NYSE)</p>
+        <p>Qtr to Dec 31</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Revenue</p>
+        <p>910,000,000</p>
+        <p>857,000,000</p>
+        <p>Net inc</p>
+        <p>106,000,000</p>
+        <p>92,000,000</p>
+        <p>Share earns</p>
+        <p>1.27</p>
+        <p>1.10</p>
+        <p>Yr rev</p>
+        <p>3,453,000,000</p>
+        <p>3,345,000,000</p>
+        <p>Net inc</p>
+        <p>b160,000,000</p>
+        <p>282,000,000</p>
+        <p>Share earns</p>
+        <p>1.82</p>
+        <p>3.28</p>
+        <p>b-Included loss of $ 50 million from disposition of subsidiary and a $ 34 million increase in deferred income taxes recorded in the third quarter for the retroactive effects of the federal corporate income tax rate increase. The period was also after a charge of $ 74 million, or 92 cents a share, from an adjustment in accounting.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

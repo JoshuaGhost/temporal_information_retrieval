@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SCHLOSS, EMANUEL M.</title>
+    <meta content="DN032404" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1568939"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <person class="indexing_service">SCHLOSS, EMANUEL M.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040324T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0DA1430F937A15750C0A9629C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SCHLOSS, EMANUEL M.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHLOSS--Emanuel M. Congregation Emanu-El of the city of NY records with deep sorrow the death of our cherished member Emanuel M. Schloss. To his family and loved ones we express our profound sympathy. May beautiful memory bring comfort to those who mourn his passing. Rabbi David M. Posner Robert A. Bernhard, Pres Herbert M. Bernard, Sec'y</p>
+      </block>
+      <block class="full_text">
+        <p>SCHLOSS--Emanuel M. Congregation Emanu-El of the city of NY records with deep sorrow the death of our cherished member Emanuel M. Schloss. To his family and loved ones we express our profound sympathy. May beautiful memory bring comfort to those who mourn his passing. Rabbi David M. Posner Robert A. Bernhard, Pres Herbert M. Bernard, Sec'y</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

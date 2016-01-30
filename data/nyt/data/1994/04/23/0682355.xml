@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kellogg Co. (K,N) reports earnings for Qtr to Mar 31</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="51" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="682355"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940423T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5D91639F930A15757C0A962958260" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kellogg Co. (K,N) reports earnings for Qtr to Mar 31</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Kellogg Co. (K,N)</p>
+        <p>Qtr to Mar 31</p>
+        <p>1994</p>
+        <p>1993</p>
+        <p>Revenue</p>
+        <p>1,619,300,000</p>
+        <p>1,524,900,000</p>
+        <p>Net inc</p>
+        <p>b183,900,000</p>
+        <p>c179,200,000</p>
+        <p>Share earns</p>
+        <p>.81</p>
+        <p>.76</p>
+        <p>b-Included an after-tax gain of $ 13.3 million, or of 6 cents a share, from the sale of the Mrs. Smith's Frozen Foods pie business and an after-tax charge of $ 13.1 million, or 6 cents a share, from the initial funding of the Kellogg Corporate Citizenship Fund. c-Included an after-tax gain of $ 24.1 million, or 10 cents a share, from the sale of Cereal Packaging Ltd. and an after-tax charge of $ 18.5 million, or 8 cents a share, primarily from the write-down of North American assets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

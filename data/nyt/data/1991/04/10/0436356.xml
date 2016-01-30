@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="436356"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <org class="indexing_service">WISTAR INSTITUTE</org>
+        <person class="indexing_service">KOPROWSKI, HILARY (DR)</person>
+        <person class="indexing_service">ROVERA, GIOVANNI (DR)</person>
+        <person class="indexing_service">ANDERSON, SUSAN HELLER</person>
+        <object.title class="indexing_service">CHRONICLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910410T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DB113BF933A25757C0A967958260" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN HELLER ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, SUSAN HELLER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. GIOVANNI ROVERA has been named the director of the Wistar Institute, the nation's oldest independant biomedical research institution. He succeeds Dr. HILARY KOPROWSKI , who becomes the institute's president.</p>
+        <p>Dr. Rovera, 50, a molecular biologist, has been associated with the institute since 1975. He has been its associate director since 1988. Childhood leukemia is his research field, and he has attempted to determine different forms of leukemia and treatments for them, and to detect the presence of cancer cells that therapy has not eliminated.</p>
+        <p>Dr. Koprowski, 74, a leading expert in viruses and vaccines, has been the institute's director since 1957. He helped develop the current rabies treatment and was one of the first inventors of a live polio vaccine. He will continue to supervise research programs and serve as liaison to scientific financing organizations.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. GIOVANNI ROVERA has been named the director of the Wistar Institute, the nation's oldest independant biomedical research institution. He succeeds Dr. HILARY KOPROWSKI , who becomes the institute's president.</p>
+        <p>Dr. Rovera, 50, a molecular biologist, has been associated with the institute since 1975. He has been its associate director since 1988. Childhood leukemia is his research field, and he has attempted to determine different forms of leukemia and treatments for them, and to detect the presence of cancer cells that therapy has not eliminated.</p>
+        <p>Dr. Koprowski, 74, a leading expert in viruses and vaccines, has been the institute's director since 1957. He helped develop the current rabies treatment and was one of the first inventors of a live polio vaccine. He will continue to supervise research programs and serve as liaison to scientific financing organizations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

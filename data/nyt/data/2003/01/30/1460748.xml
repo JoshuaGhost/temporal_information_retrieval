@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pedestrians vs. Scooter</title>
+    <meta content="LTR010739" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1460748"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <person class="indexing_service">Saul, Carol</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motorcycles, Motor Bikes and Motorscooters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E4DA1F39F933A05752C0A9659C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pedestrians vs. Scooter</hl1>
+      </hedline>
+      <abstract>
+        <p>Carol Saul letter welcomes Segway personal scooters as alternative to polluting vehicles and suggests they share bicycle lanes (Jan 23 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''On the Pavement, a New Contender'' (Jan. 23): I would welcome Segways only as an alternative to polluting vehicles like cars or motorcycles. Let its proponents share bicycle lanes with in-line skaters.</p>
+        <p>CAROL SAUL  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''On the Pavement, a New Contender'' (Jan. 23): I would welcome Segways only as an alternative to polluting vehicles like cars or motorcycles. Let its proponents share bicycle lanes with in-line skaters.</p>
+        <p>CAROL SAUL  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

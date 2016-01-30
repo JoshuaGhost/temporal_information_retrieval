@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Briefing | Europe: France: Refugee Camp To Stay Open</title>
+    <meta content="MB022709" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1364364"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Aliens</classifier>
+        <classifier class="indexing_service" type="descriptor">Channel Tunnel</classifier>
+        <location class="indexing_service">Great Britain</location>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Eurotunnel Plc and Eurotunnel Sa</org>
+        <person class="indexing_service">Daley, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020202T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EEDC153DF931A35751C0A9649C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Briefing | Europe: France: Refugee Camp To Stay Open</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Daley (NYT)</byline>
+      <byline class="normalized_byline">Daley, Suzanne</byline>
+      <abstract>
+        <p>French court rejects Eurotunnel plea to close refugee camp near Channel Tunnel that is being used as staging point for illegal immigrants trying to get into Britain(S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A court rejected a plea by the operator of the Channel Tunnel to shut a refugee camp that it says acts as a handy starting point for immigrants trying to cross illegally to Britain. It was the second time the operator, Eurotunnel, had asked the court to shut the Sangatte camp, about a mile from the entrance of the tunnel near Calais. Eurotunnel had apparently hoped that an incident at Christmas, in which hundreds of immigrants tried to storm the tunnel, would convince the courts that emergency measures were needed.</p>
+        <p>Suzanne Daley (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A court rejected a plea by the operator of the Channel Tunnel to shut a refugee camp that it says acts as a handy starting point for immigrants trying to cross illegally to Britain. It was the second time the operator, Eurotunnel, had asked the court to shut the Sangatte camp, about a mile from the entrance of the tunnel near Calais. Eurotunnel had apparently hoped that an incident at Christmas, in which hundreds of immigrants tried to storm the tunnel, would convince the courts that emergency measures were needed.</p>
+        <p>Suzanne Daley (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

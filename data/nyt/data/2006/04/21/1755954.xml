@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art in Review; Lisa Ross</title>
+    <meta content="21gall-1" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1755954"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Cotter, Holland</person>
+        <person class="indexing_service">Ross, Lisa</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060421T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFDF153FF932A15757C0A9609C8B63" item-length="283" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art in Review; Lisa Ross</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews photographs by Lisa Ross at Nelson Hancock Gallery; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Traces of Devotion  Nelson Hancock Gallery  111 Front Street, No. 204, Dumbo, Brooklyn  Through May 8</p>
+        <p>Nelson Hancock Gallery is fairly new. It has been in business for just a year and could not observe its first anniversary with a more beautiful and auspicious show than this one of photographs by Lisa Ross.</p>
+      </block>
+      <block class="full_text">
+        <p>Traces of Devotion  Nelson Hancock Gallery  111 Front Street, No. 204, Dumbo, Brooklyn  Through May 8</p>
+        <p>Nelson Hancock Gallery is fairly new. It has been in business for just a year and could not observe its first anniversary with a more beautiful and auspicious show than this one of photographs by Lisa Ross.</p>
+        <p>Although based in New York, Ms. Ross traveled far for these pictures, to the Taklamakan Desert in Xinjiang, the region in western China. The area is home to the Uighurs, a Turkic-speaking people who largely practice Sufism, a mystical, pacifistic form of Islam.</p>
+        <p>Sufi devotion focuses on generations of saints, ''friends of God,'' and specifically on their burial sites. Such graves dot the Taklamakan, indicated by the most fragile of markers: dried branches staked vertically in the ground or piled up to serve as prayer huts. What makes the markers visually distinctive is the way they are ornamented by visiting pilgrims with amulets, dolls and ribbon-like strips of bright-colored cloth, brilliant against a landscape of unbroken sand-brown.</p>
+        <p>An awareness of transience lies at the heart of all devotion, and it finds an apt emblem in these grave markers, bent and tattered by the wind. Ms. Ross's photographs hint at a less elemental source of destruction, too. The Chinese government, intent on making the area accessible to the rest of the country, is building new roads. And as they pave the desert, they suppress the religious traditions that have, against all odds, flourished there. Politics is its own functionalist faith, a powerfully coercive one. In time, and not much time, it could transform Ms. Ross's exquisite anthropological images of living monuments into documents of relics.</p>
+        <p>HOLLAND COTTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

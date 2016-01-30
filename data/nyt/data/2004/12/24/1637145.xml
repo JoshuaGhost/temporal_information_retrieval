@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Briefing | New Jersey: Trenton: Moratorium On Windmills</title>
+    <meta content="MB021338" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1637145"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E6DB1E30F937A15751C1A9629C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Briefing | New Jersey: Trenton: Moratorium On Windmills</hl1>
+      </hedline>
+      <byline class="print_byline">By Josh Benson (NYT); Compiled by Thomas J. Lueck</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Acting Gov. Richard J. Codey ordered a moratorium yesterday on the planning and construction of energy-generating windmills off the Jersey Shore. The moratorium will be in effect for 15 months, pending the results of a study of the potential costs and benefits of investing in wind power.</p>
+        <p>Josh Benson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Acting Gov. Richard J. Codey ordered a moratorium yesterday on the planning and construction of energy-generating windmills off the Jersey Shore. The moratorium will be in effect for 15 months, pending the results of a study of the potential costs and benefits of investing in wind power.</p>
+        <p>Josh Benson (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

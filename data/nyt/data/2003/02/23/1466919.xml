@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ready, Jet Set, Go!</title>
+    <meta content="WFOTLOVET" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Fashions of The Times Magazine" name="dsk"/>
+    <meta content="172" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1466919"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="WHY WE LOVE FASHION? LOCATION, LOCATION, LOCATION. . . ."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE0DF1038F930A15751C0A9659C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ready, Jet Set, Go!</hl1>
+      </hedline>
+      <abstract>
+        <p>Fashion photos taken along French Riviera (special section, Fashions of The Times) (part 2 of 2-part section)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The beau monde still frolic on the Riviera. Only the clothes are different. This season, go coastal in a pencil skirt, tight pants and a blouse fit for a wench.</p>
+      </block>
+      <block class="full_text">
+        <p>The beau monde still frolic on the Riviera. Only the clothes are different. This season, go coastal in a pencil skirt, tight pants and a blouse fit for a wench.</p>
+        <p>WHY WE LOVE FASHION? LOCATION, LOCATION, LOCATION. . . .</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

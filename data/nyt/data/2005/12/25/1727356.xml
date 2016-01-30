@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="25alscorr-1" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1727356"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFDA1430F936A15751C1A9639C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article on Dec. 18 about two videos for the Kanye West single ''Heard 'Em Say'' misstated the circumstances of the departure of the director of the first clip. That director, Michel Gondry, finished the video. He was not fired.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article on Dec. 18 about two videos for the Kanye West single ''Heard 'Em Say'' misstated the circumstances of the departure of the director of the first clip. That director, Michel Gondry, finished the video. He was not fired.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

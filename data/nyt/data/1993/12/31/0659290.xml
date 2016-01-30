@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>N. William Pandell, Inventor, 70</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="659290"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">PANDELL, N WILLIAM</person>
+        <person class="indexing_service">PANDELL, N WILLIAM</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931231T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DD1030F932A05751C1A965958260" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>N. William Pandell, Inventor, 70</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>N. William Pandell, an inventor and former textile executive, died on Monday at his home in Niskayuna, N.Y. He was 70.</p>
+        <p>The cause was cancer, said his daughter, Karen.</p>
+      </block>
+      <block class="full_text">
+        <p>N. William Pandell, an inventor and former textile executive, died on Monday at his home in Niskayuna, N.Y. He was 70.</p>
+        <p>The cause was cancer, said his daughter, Karen.</p>
+        <p>Mr. Pandell, who held 15 patents including one for measuring textile shrinkage, was an executive of the Sanforized Company for 16 years. He served in Manhattan as its president president from 1966 to 1971. He became an independent consultant and later served as president of Loretex, a textile firm in Guilderland, N.Y.</p>
+        <p>He is survived by his wife of 50 years, Sylvia Pandell of Niskayuna, and two daughters, Ms. Pandell of Schenectady, N.Y., and Debra Engle of Romulus, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

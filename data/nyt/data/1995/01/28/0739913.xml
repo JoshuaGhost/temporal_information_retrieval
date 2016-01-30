@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>United Suspends Cantona</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="739913"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SPORTS PEOPLE: SOCCER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCCER</classifier>
+        <classifier class="indexing_service" type="descriptor">ASSAULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <location class="indexing_service">FRANCE</location>
+        <org class="indexing_service">MANCHESTER UNITED (SOCCER TEAM)</org>
+        <person class="indexing_service">CANTONA, ERIC</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Assaults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950128T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6D61E3DF93BA15752C0A963958260" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>United Suspends Cantona</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Manchester United suspended ERIC CANTONA, the striker who was last season's Premier League player of the year, yesterday for kicking and punching a fan during a match on Wednesday. France also dropped Cantona, its captain, from the national team.</p>
+        <p>Cantona jumped into the stands at Crystal Palace and aimed a two-footed kick at a spectator who had been taunting him. Cantona then punched the fan, MATTHEW SIMMONS, before being restrained by officials and teammates. Simmons has been banned from the stadium.</p>
+      </block>
+      <block class="full_text">
+        <p>Manchester United suspended ERIC CANTONA, the striker who was last season's Premier League player of the year, yesterday for kicking and punching a fan during a match on Wednesday. France also dropped Cantona, its captain, from the national team.</p>
+        <p>Cantona jumped into the stands at Crystal Palace and aimed a two-footed kick at a spectator who had been taunting him. Cantona then punched the fan, MATTHEW SIMMONS, before being restrained by officials and teammates. Simmons has been banned from the stadium.</p>
+        <p>The club also fined Cantona the maximum sum permissible under his contract, reportedly $32,000. Cantona will miss 16 league games as United -- currently second in the Premier League standing -- tries to retain the league title it has won for the past two seasons.</p>
+        <p>The suspension comes amid speculation that Cantona may be transferred to the Italian club Inter Milan. (AP)  SPORTS PEOPLE: SOCCER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

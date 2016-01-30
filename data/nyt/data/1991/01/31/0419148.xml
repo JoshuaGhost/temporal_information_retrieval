@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Competitors in Pact On Advanced TV Plan</title>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="419148"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">JOINT VENTURES AND CONSORTIUMS</classifier>
+        <classifier class="indexing_service" type="descriptor">HIGH-DEFINITION TELEVISION (HDTV)</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <org class="indexing_service">MASSACHUSETTS INSTITUTE OF TECHNOLOGY</org>
+        <org class="indexing_service">GENERAL INSTRUMENT CORP</org>
+        <person class="indexing_service">ANDREWS, EDMUND L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television Sets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910131T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1339F932A05752C0A967958260" item-length="457" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Competitors in Pact On Advanced TV Plan</hl1>
+      </hedline>
+      <byline class="print_byline">By EDMUND L. ANDREWS, Special to The New York Times</byline>
+      <byline class="normalized_byline">ANDREWS, EDMUND L</byline>
+      <dateline>WASHINGTON, Jan. 30</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two competitors in the effort to develop a standard for transmitting high-definition television, the Massachusetts Institute of Technology and the General Instrument Corporation, said today that they would work together to develop an all-digital technology.</p>
+        <p>The move means that all but one of the organizations competing to develop a technical standard have adopted technologies based on transmitting material entirely in computer code. The only exception is NHK, Japan's state-owned broadcasting company, which remains committed to a system that transmits material in analog form, as waves.</p>
+      </block>
+      <block class="full_text">
+        <p>Two competitors in the effort to develop a standard for transmitting high-definition television, the Massachusetts Institute of Technology and the General Instrument Corporation, said today that they would work together to develop an all-digital technology.</p>
+        <p>The move means that all but one of the organizations competing to develop a technical standard have adopted technologies based on transmitting material entirely in computer code. The only exception is NHK, Japan's state-owned broadcasting company, which remains committed to a system that transmits material in analog form, as waves.</p>
+        <p>The move could also strengthen the previously separate proposals by M.I.T. and General Instrument, a New York-based manufacturer of encryption devices for cable television systems. Beginning in April, the Federal Communications Commission will oversee the testing of six rival systems, one of which will be chosen as an industry standard in 1993.</p>
+        <p>Last June, General Instrument became the first company to propose an all-digital approach to HDTV, which promises images with film-like crispness and the full dimensions of a movie screen.</p>
+        <p>Since then, all-digital approaches have been announced by two groups: a consortium formed by NBC, Thomson S.A. of France, Philips N.V. of the Netherlands and the David Sarnoff Research Center in Princeton, N.J.; and a venture by the Zenith Electronics Corporation and the American Telephone and Telegraph Company.</p>
+        <p>In the wake of the General Instrument proposal, researchers at M.I.T.'s Advanced Television Research Program became convinced they could replace their earlier proposal with an all-digital approach.</p>
+        <p>General Instrument appears to be interested in capitalizing on some of M.I.T.'s advances. Experts have speculated that General Instrument's system may not be able to send signals over sufficiently long distances before they break up. They have also wondered whether the system can cope with the volumes of interference encountered in transmitting signals from local televison towers.</p>
+        <p>The M.I.T. system uses what is called "progressive scanning" to replace the television image completely 60 times a second. Other approaches, except the one developed by Zenith, use a system called "interlaced" scanning that refreshes only half the lines on a television screen at a time. By some accounts, progressive scanning yields a stronger picture.</p>
+        <p>Under the agreement announced today, General Instrument and M.I.T. will form what officials called the American Television Alliance, which will submit two systems for testing.</p>
+        <p>The first, scheduled for testing next August, will essentially be General Instrument's existing proposal. The second is expected to incorporate technology from M.I.T.</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

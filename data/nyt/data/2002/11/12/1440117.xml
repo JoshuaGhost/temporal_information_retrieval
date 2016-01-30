@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  LEE, MARION B.</title>
+    <meta content="DN111202" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1440117"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <person class="indexing_service">LEE, MARION B.</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DE1131F931A25752C1A9649C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  LEE, MARION B.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEE-Marion B., 96. Of the Bronx, New York on Saturday, November 9, 2002 in Stamford, CT. Loving mother of Therese. Beloved grandmother of Christine and Nicholas. Visiting hours will be held at Leo P. Gallagher &amp; Son Funeral Home, 2900 Summer St, Stamford on Tuesday, November 12 from 2-4 and 7-9 PM. A Funeral Mass will be held on Wednesday, November 13 at Our Lady Star of the Sea, 1200 Shippan Avenue, Stamford at 10 A.M. Burial will follow at Calvary Cemetery, Queens, NY.</p>
+      </block>
+      <block class="full_text">
+        <p>LEE-Marion B., 96. Of the Bronx, New York on Saturday, November 9, 2002 in Stamford, CT. Loving mother of Therese. Beloved grandmother of Christine and Nicholas. Visiting hours will be held at Leo P. Gallagher &amp; Son Funeral Home, 2900 Summer St, Stamford on Tuesday, November 12 from 2-4 and 7-9 PM. A Funeral Mass will be held on Wednesday, November 13 at Our Lady Star of the Sea, 1200 Shippan Avenue, Stamford at 10 A.M. Burial will follow at Calvary Cemetery, Queens, NY.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

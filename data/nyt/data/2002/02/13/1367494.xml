@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR031705" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1367494"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Accounting and Accountants</classifier>
+        <org class="indexing_service">Enron Corp</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accounting and Accountants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020213T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE1DD163FF930A25751C0A9649C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Jan 25 table listing mutual funds and companies that invested in Enron Corp trust called Osprey; debt held by mutual funds explained</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A table in Business Day on Jan. 25 listing mutual funds and companies that had invested in notes issued by Osprey, a trust created by the Enron Corporation in 1997 to finance several partnerships, misstated the amount of debt held by First American and Firstar, mutual fund families owned by U.S. Bancorp. Firstar was merged with First American in September. Combined, they held $7.8 million in debt, not $11.8 million. Firstar did not hold $3.75 million separately.</p>
+      </block>
+      <block class="full_text">
+        <p>A table in Business Day on Jan. 25 listing mutual funds and companies that had invested in notes issued by Osprey, a trust created by the Enron Corporation in 1997 to finance several partnerships, misstated the amount of debt held by First American and Firstar, mutual fund families owned by U.S. Bancorp. Firstar was merged with First American in September. Combined, they held $7.8 million in debt, not $11.8 million. Firstar did not hold $3.75 million separately.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

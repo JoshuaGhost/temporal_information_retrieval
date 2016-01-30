@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths   SCHNEIDER, PHILIP</title>
+    <meta content="dn032306" name="slug"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1748835"/>
+      <identified-content>
+        <person class="indexing_service">SCHNEIDER, PHILIP</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060323T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E0D8143AF930A15750C0A9609C8B63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths   SCHNEIDER, PHILIP</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SCHNEIDER - Philip. Great Neck. Beloved husband of Sandra. Father of Gail, Aaron, Perry, Charlotte, Yola. Grandfather of Shira, Gary, Elana, Avi, David, Lauren, Heather and four great grandchildren. U. of Wisconsin graduate, U.S. Army Purple Heart, ZOA lifetime member. Sinai Chapels, 16205 Horace Harding Expressway, Queens, Thursday 12:15.</p>
+      </block>
+      <block class="full_text">
+        <p>SCHNEIDER - Philip. Great Neck. Beloved husband of Sandra. Father of Gail, Aaron, Perry, Charlotte, Yola. Grandfather of Shira, Gary, Elana, Avi, David, Lauren, Heather and four great grandchildren. U. of Wisconsin graduate, U.S. Army Purple Heart, ZOA lifetime member. Sinai Chapels, 16205 Horace Harding Expressway, Queens, Thursday 12:15.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

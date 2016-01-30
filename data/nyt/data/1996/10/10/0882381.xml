@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHRONICLE</title>
+    <meta content="10NICK$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Stlye Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="CHRONICLE" name="column_name"/>
+    <docdata>
+      <doc-id id-string="882381"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <series series.name="CHRONICLE"/>
+      <identified-content>
+        <person class="indexing_service">Burstein, John</person>
+        <person class="indexing_service">Brozan, Nadine</person>
+        <object.title class="indexing_service">Chronicle (Times Column)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3D9153EF933A25753C1A960958260" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHRONICLE</hl1>
+      </hedline>
+      <byline class="print_byline">By NADINE BROZAN</byline>
+      <byline class="normalized_byline">Brozan, Nadine</byline>
+      <abstract>
+        <p>John Burstein discusses his role in playing character Slim Goodbody, who teaches children about health through books and television programs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOHN BURSTEIN is one of six children, some of whom have become reasonably well known. But he is the only one in his family who goes to work every day in a bodysuit that bears the design of the human skeleton and internal organs.</p>
+        <p>That is because for the last 23 years, Mr. Burstein has been Slim Goodbody, a character who teaches children about health through books and television programs. He appeared on ''Captain Kangaroo'' for four years, and since 1980 he has done numerous series for PBS. This week, three new Slim Goodbody books -- ''Wonderful You: The Body,'' ''Wonderful You: The Mind'' and ''Wonderful You: The Spirit'' -- were published by Fairview Press in Minneapolis.</p>
+      </block>
+      <block class="full_text">
+        <p>JOHN BURSTEIN is one of six children, some of whom have become reasonably well known. But he is the only one in his family who goes to work every day in a bodysuit that bears the design of the human skeleton and internal organs.</p>
+        <p>That is because for the last 23 years, Mr. Burstein has been Slim Goodbody, a character who teaches children about health through books and television programs. He appeared on ''Captain Kangaroo'' for four years, and since 1980 he has done numerous series for PBS. This week, three new Slim Goodbody books -- ''Wonderful You: The Body,'' ''Wonderful You: The Mind'' and ''Wonderful You: The Spirit'' -- were published by Fairview Press in Minneapolis.</p>
+        <p>''I come from a typical New York family,'' Mr. Burstein said, enumerating his parents' and siblings' accomplishments as judges, lawyers and writers. His mother, BEATRICE S. BURSTEIN, is a former New York State Supreme Court justice. His sister KAREN BURSTEIN is a former state senator and former Family Court judge who lost two highly publicized political races, for State Attorney General in 1994 and for Surrogate Court judge in Manhattan last month.</p>
+        <p>''We're all involved in the public eye in one way or another,'' Mr. Burstein said, ''and I guess we all seem to need some kind of spotlight. But I'm the only one who wears this funny suit.''</p>
+        <p>But that suit has kept him true to his pseudonym. ''I'm now 46, and I have to work to stay in shape,'' he said.</p>
+        <p>NADINE BROZAN</p>
+        <p>CHRONICLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

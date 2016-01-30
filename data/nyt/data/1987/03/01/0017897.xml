@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Supernova Brings News From Another Galaxy</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="17897"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <series series.name="IDEAS &amp; TRENDS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">STARS AND GALAXIES</classifier>
+        <person class="indexing_service">JOHNSON, GEORGE</person>
+        <person class="indexing_service">MANSNERUS, LAURA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870301T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEED9153EF932A35750C0A961948260" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Supernova Brings News From Another Galaxy</hl1>
+      </hedline>
+      <byline class="print_byline">By George Johnson and Laura Mansnerus</byline>
+      <byline class="normalized_byline">JOHNSON, GEORGE; MANSNERUS, LAURA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: About 163,000 years ago, a star exploded in the Greater Magellanic Cloud, a cluster of small galaxies near the Milky Way. Meanwhile, on Earth, civilization developed, and by the time the light of this supernova arrived, there were telescopes to record it and astronomers to appreciate a rare celestial find.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: About 163,000 years ago, a star exploded in the Greater Magellanic Cloud, a cluster of small galaxies near the Milky Way. Meanwhile, on Earth, civilization developed, and by the time the light of this supernova arrived, there were telescopes to record it and astronomers to appreciate a rare celestial find.</p>
+        <p>About 163,000 years ago, a star exploded in the Greater Magellanic Cloud, a cluster of small galaxies near the Milky Way. Meanwhile, on Earth, civilization developed, and by the time the light of this supernova arrived, there were telescopes to record it and astronomers to appreciate a rare celestial find.</p>
+        <p>Last week, scientists at the Cerro Tololo Interamerican Observatory in the Chilean mountains confirmed what the University of Toronto's nearby observatory had glimpsed a day earlier: the nearest supernova since 1604, when one was described by the astronomer Johannes Kepler.</p>
+        <p>This ''is an event every astronomer in the world had been hoping would occur in his or her lifetime,'' said Dr. Robert E. Williams, the director of the Cerro Tololo Observatory, ''and you may be sure we'll make the most of the opportunity.''</p>
+        <p>A supernova occurs when a very massive star, having spent its nuclear fuel, collapses under its own weight. This sudden contraction compresses the star so tightly that a fusion reaction erupts. Powered by this energy, the star explodes with the light of a galaxy.</p>
+        <p>Since most stars are hundreds of millions of light years away, supernovas are usually very dim. But in the Southern Hemisphere the new specimen is visible to the naked eye. Within weeks, it is expected to flare and fade, but its aftermath will be studied for years to better understand the birth and death of stars.</p>
+        <p>Such research has implications beyond those of astronomy. Stars are believed to be the factories in which lighter elements such as hydrogen and helium are fused to form the heavier ones from which much of our world is made. When a star explodes, it spreads these products into space where occasionally they condense into planets. According to this theory, the atoms of silicon and oxygen that formed the lens that recorded last week's event - and the carbon atoms in the eyes of the beholders - may have come themselves from a supernova eons ago.</p>
+        <p>IDEAS &amp; TRENDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

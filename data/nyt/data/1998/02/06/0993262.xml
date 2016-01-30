@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Draculian Gore, Sound and Fury</title>
+    <meta content="06KING$03" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993262"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="FILM REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Pavia, Mark</person>
+        <person class="indexing_service">King, Stephen</person>
+        <person class="indexing_service">Holden, Stephen</person>
+        <object.title class="indexing_service">Stephen King's The Night Flier (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews/By Stephen Holden</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980206T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E6D9153DF935A35751C0A96E958260" item-length="533" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Draculian Gore, Sound and Fury</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN HOLDEN</byline>
+      <byline class="normalized_byline">Holden, Stephen</byline>
+      <abstract>
+        <p>Stephen Holden reviews film Stephen King's The Night Flier, directed by Mark Pavia; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Richard Dees (Miguel Ferrer), a terminally cynical tabloid reporter in ''Stephen King's 'The Night Flier,' '' explains his philosophy of journalism, it boils down to two sentences: ''Never believe what you publish. And never publish what you believe.''</p>
+        <p>Richard, a star reporter for a sleazy, gore-obsessed magazine called Inside View, is so hardened from his job that when he chances upon the scene of a highway collision, his automatic response is to jump from his car and gleefully snap pictures of the victims' mangled bodies.</p>
+      </block>
+      <block class="full_text">
+        <p>When Richard Dees (Miguel Ferrer), a terminally cynical tabloid reporter in ''Stephen King's 'The Night Flier,' '' explains his philosophy of journalism, it boils down to two sentences: ''Never believe what you publish. And never publish what you believe.''</p>
+        <p>Richard, a star reporter for a sleazy, gore-obsessed magazine called Inside View, is so hardened from his job that when he chances upon the scene of a highway collision, his automatic response is to jump from his car and gleefully snap pictures of the victims' mangled bodies.</p>
+        <p>Richard is overdue for a comeuppance, and in ''The Night Flier,'' adapted from a story by Mr. King, it arrives in a metaphysical showdown at an airport terminal with a caped Draculian monster amid a din of fake thunder and lightning. The story, which suggests a crude sketch for an episode of ''The Twilight Zone,'' isn't top-drawer or even second-drawer Stephen King. Adapted for the screen by Mark Pavia, who makes his directorial debut with the movie, it is a thuddingly blunt contemporary morality tale devoid of wit and only minimally suspenseful.</p>
+        <p>Richard is assigned to investigate the story of a homicidal pilot who flies his black Cessna plane into small, remote airports and slaughters whoever is around, leaving huge gaping holes in his victims' necks. He tracks down the killer, who, in the guise of a dashing airman named Dwight Renfield (Michael H. Moss),  charms his victims before massacring them.</p>
+        <p>The story has been so poorly adapted that intriguing clues to the killer's motives and modus operandi are introduced, then left hanging. Richard's assignment is complicated by the fact that his unscrupulous editor, Merton Morrison (Dan Monahan), a cackling yuppie fiend, pits Richard against a rookie reporter, Katherine Blair (Julie Entwisle), in a contest to chase down the story.</p>
+        <p>The movie's sole strength is Mr. Ferrer's relentlessly hard-boiled performance. The actor has a harsh  drill-instructor voice, which would give Lee Marvin a run for his money in a tough-guy barking contest, and a matching squint that twists his expression into a permanent sneer of contemptuous disbelief.</p>
+        <p>''Stephen King's 'The Night Flier,' '' is rated R (Under 17 requires accompanying parent or adult guardian). It is very gory, with many close-up shots of murder victims.</p>
+        <p>STEPHEN KING'S 'THE NIGHT FLIER'</p>
+        <p>Directed by Mark Pavia; written by Mr. Pavia and Jack O'Donnell, based on a story by Stephen King; director of photography, David Connell; edited by Elizabeth Schwartz; music by Brian Keane; production designer, Burton Rencher; produced by Richard P. Rubinstein and Mitchell Galin; released by New Line Cinema. Running time: 99 minutes. This film is rated R.</p>
+        <p>WITH: Miguel Ferrer (Richard Dees), Julie Entwisle (Katherine Blair), Dan Monahan (Merton Morrison) and Michael H. Moss (Dwight Renfield).</p>
+        <p>FILM REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

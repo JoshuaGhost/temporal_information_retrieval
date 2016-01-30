@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: COMMODITIES</title>
+    <meta content="Y28COM$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1042178"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Gold</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2D9103CF93BA1575BC0A96E958260" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: COMMODITIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Gold and other precious metals slump as gold producers in nations with weak currencies sell to raise dollars; graphs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLD TUMBLES.  Gold and other precious metals, priced in dollars, slumped as gold producers in nations with weak currencies sold to raise dollars. In New York, gold for December delivery fell $5.80, to $280.10 an ounce.</p>
+      </block>
+      <block class="full_text">
+        <p>GOLD TUMBLES.  Gold and other precious metals, priced in dollars, slumped as gold producers in nations with weak currencies sold to raise dollars. In New York, gold for December delivery fell $5.80, to $280.10 an ounce.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

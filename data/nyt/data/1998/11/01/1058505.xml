@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What the Folkies Felt</title>
+    <meta content="LTR045513" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1058505"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="BOB DYLAN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Dylan, Bob</person>
+        <person class="indexing_service">Viertel, Jack</person>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E1DD1F3CF932A35752C1A96E958260" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What the Folkies Felt</hl1>
+      </hedline>
+      <abstract>
+        <p>Jack Viertel letter corrects misimpression in Jon Pareles' October 11 article on Bob Dylan's conversion to amplified music (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As one of the ''wrongheaded'' folkies who objected to Bob Dylan's conversion to amplified music (I have long since seen the error of my ways. What could I have been thinking?), I'd like to correct a misimpression given in Jon Pareles's article ''When Dylan's Genius Burned Brightest'' [Oct. 11].</p>
+        <p>Mr. Pareles describes the schism between us and them as ''an early sign of the rift between the doctrinaire, Puritanical old left, which wanted straightforward agitprop for the masses, and the more amorphous, hedonistic counterculture.'' The truth is, however, that even folk finks like myself had eagerly gobbled up Dylan's album ''Another Side of Bob Dylan,'' which was neither doctrinaire nor agitproppy and which contained some of his most lyrical, not to say impenetrable, flights, but which featured Dylan on acoustic guitar, unamplified. Our battle, believe it or not, was more about style than about substance, Pete Seeger and the lefties of Sing Out Magazine to the contrary notwithstanding.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As one of the ''wrongheaded'' folkies who objected to Bob Dylan's conversion to amplified music (I have long since seen the error of my ways. What could I have been thinking?), I'd like to correct a misimpression given in Jon Pareles's article ''When Dylan's Genius Burned Brightest'' [Oct. 11].</p>
+        <p>Mr. Pareles describes the schism between us and them as ''an early sign of the rift between the doctrinaire, Puritanical old left, which wanted straightforward agitprop for the masses, and the more amorphous, hedonistic counterculture.'' The truth is, however, that even folk finks like myself had eagerly gobbled up Dylan's album ''Another Side of Bob Dylan,'' which was neither doctrinaire nor agitproppy and which contained some of his most lyrical, not to say impenetrable, flights, but which featured Dylan on acoustic guitar, unamplified. Our battle, believe it or not, was more about style than about substance, Pete Seeger and the lefties of Sing Out Magazine to the contrary notwithstanding.</p>
+        <p>And while we were, indeed, wrong, it can certainly be argued that Dylan's conversion to electricity and the ''hedonistic counterculture'' was at once his brightest moment and the beginning of the end of his genius.</p>
+        <p>JACK VIERTEL  Tarrytown, N.Y.</p>
+        <p>BOB DYLAN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

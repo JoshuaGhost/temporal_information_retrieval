@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Westmin Resources reports earnings for Qtr to Sept 30</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="401269"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY REPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7D6103BF935A25752C1A966958260" item-length="59" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Westmin Resources reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Westmin Resources</p>
+        <p>Qtr to Sept 30</p>
+        <p>1990</p>
+        <p>1989</p>
+        <p>Revenue</p>
+        <p>33,429,000</p>
+        <p>46,266,000</p>
+        <p>Net loss</p>
+        <p>3,162,000</p>
+        <p>b1,087,000</p>
+        <p>9mo rev</p>
+        <p>108,732,000</p>
+        <p>147,882,000</p>
+        <p>Net loss</p>
+        <p>1,874,000</p>
+        <p>b7,232,000</p>
+        <p>b-Net income Preferred-share dividends were not immediately available. Figures are in Canadian funds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

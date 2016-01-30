@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Studies Point to Fungus As Leading to AIDS Deaths</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="170928"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">FUNGI</classifier>
+        <person class="indexing_service">ALTMAN, LAWRENCE K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880814T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DF1130F937A2575BC0A96E948260" item-length="537" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Studies Point to Fungus As Leading to AIDS Deaths</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE K. ALTMAN</byline>
+      <byline class="normalized_byline">ALTMAN, LAWRENCE K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Clearing up a longstanding mystery, new genetic studies indicate that the microbe responsible for a kind of pneumonia that is a major killer of AIDS patients is a fungus.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Clearing up a longstanding mystery, new genetic studies indicate that the microbe responsible for a kind of pneumonia that is a major killer of AIDS patients is a fungus.</p>
+        <p>Clearing up a longstanding mystery, new genetic studies indicate that the microbe responsible for a kind of pneumonia that is a major killer of AIDS patients is a fungus.</p>
+        <p>For decades scientists have been uncertain about the nature of the organism that causes Pneumocystis carinii pneumonia, a potentially lethal disease that strikes people in whom the immune system is impaired.</p>
+        <p>They include cancer patients who are undergoing chemotherapy and people with acquired immune deficiency syndrome.</p>
+        <p>Scientists have debated whether the microbe is a protozoan, like the parasite responsible for malaria, or a fungus, like yeast. Studies to clarify the issue have been hampered by the inability to grow the organism in the laboratory. Help in Treatment Seen</p>
+        <p>The determination that Pneumocystis carinii is a fungus was a result of genetic studies carried out by a team of Federal and private scientists working in California, Maryland and Colorado.</p>
+        <p>The team, headed by Dr. Jeffrey C. Edman, reported in the current issue of Nature that the finding could help in developing more effective treatments of infections caused by the fungus. Two drugs, Pentamidine and Bactrim, are useful against Pneumocystis infections, and other drugs are being tried experimentally. But current treatments do not always work and some patients cannot tolerate them.</p>
+        <p>Dr. Donald B. Louria, an expert on fungi who directs preventive medicine and community health at the New Jersey Medical School in Newark, called the new findings ''important.''</p>
+        <p>Dr. Louria said he expected that researchers would now be stimulated to study drugs being used against fungi and to come up with new compounds in hopes that one would be more effective in combating Pneumocystis than the existing drugs.</p>
+        <p>''There has not been adequate systematic studies of antifungal agents for Pneumocystis,'' Dr. Louria said.</p>
+        <p>If scientists could grow the fungus in the laboratory, they could more easily test the ability of experimental drugs to kill it. Scientists have tried a number of ways to simulate the conditions that favor growth of the fungus in the lung, and all the tests have failed. An Impetus for Scientists</p>
+        <p>Dr. Donald Armstrong, an expert in fungal diseases at the Memorial Sloan-Kettering Cancer Center in New York City, said evidence that the organism is a fungus will provide an impetus for scientists to renew their efforts to ''learn how we might grow it.''</p>
+        <p>The new evidence in favor of classifying of Pneumocystis carinii as a fungus came from studies of the sequence of the microbe's genes that make ribosomal RNA.</p>
+        <p>The RNA, or ribonucleic acid, a key component of the microbe's machinery that makes proteins, is similar in all forms of life, from microbes to humans. But the small differences that exist in the sequences of the genes allow comparisons that are used for classification. Dr. Edman's team found that Pneumocystis's RNA was closer to that of yeast than that of malarial parasites. Dr. Peter D. Walzer, an expert in fungi at the University of Cincinnati, said a group he heads and a group in Japan had also found that Pneumocystis seemed to be a fungus by using techniques that were different from those used in Dr. Edman's study.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

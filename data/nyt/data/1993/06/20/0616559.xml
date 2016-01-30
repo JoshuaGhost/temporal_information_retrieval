@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters; Oooooo, That Absolut</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="616559"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ADVERTISING</classifier>
+        <classifier class="indexing_service" type="descriptor">ALCOHOLIC BEVERAGES</classifier>
+        <classifier class="indexing_service" type="descriptor">VODKA</classifier>
+        <person class="indexing_service">KOCH, ARNOLD T JR</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDC133CF933A15755C0A965958260" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters; Oooooo, That Absolut</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Have they no shame?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Have they no shame?</p>
+        <p>The description of publications' advertising executives "auditioning" for a piece of the Absolut vodka advertising reminds me of the Hollywood actress who, when asked by the producer to go over to his couch to discuss a possible role in a new film, replied, "I don't have to do that anymore . . . I'm a star." ARNOLD T. KOCH JR. Melrose, Mass., June 6</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

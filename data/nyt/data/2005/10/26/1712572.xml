@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>World Business Briefing | Europe: Russia: Gazprom Seeks U.S. Stake</title>
+    <meta content="26fobriefs-1" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1712572"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Liquefied Natural Gas</classifier>
+        <location class="indexing_service">Barents Sea</location>
+        <location class="indexing_service">Russia</location>
+        <org class="indexing_service">Gazprom (Russia)</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E1DD113FF935A15753C1A9639C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>World Business Briefing | Europe: Russia: Gazprom Seeks U.S. Stake</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero (NYT)</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Gazprom, world's largest natural gas producer, signals its intent to take stake in liquefied natural gas terminal; venture will provide Gazprom with outlet in US for natural gas from its Shtokman field in Barents Sea above Arctic Circle (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gazprom, the world's largest natural gas producer, signaled its intent yesterday to take a stake in a liquefied natural gas terminal. Alexander Medvedev, the deputy chairman of Gazprom, which is also Russia's largest company, said in an interview that such a venture would provide Gazprom with an outlet in the United States for natural gas from its Shtokman field in the Barents Sea above the Arctic Circle. Mr. Medvedev said Gazprom was discussing the plan with the companies vying to take part in the Arctic project, which include two American concerns, Chevron and ConocoPhillips; two Norwegian companies, Statoil and Norsk Hydro; and Total of France.</p>
+        <p>Simon Romero (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Gazprom, the world's largest natural gas producer, signaled its intent yesterday to take a stake in a liquefied natural gas terminal. Alexander Medvedev, the deputy chairman of Gazprom, which is also Russia's largest company, said in an interview that such a venture would provide Gazprom with an outlet in the United States for natural gas from its Shtokman field in the Barents Sea above the Arctic Circle. Mr. Medvedev said Gazprom was discussing the plan with the companies vying to take part in the Arctic project, which include two American concerns, Chevron and ConocoPhillips; two Norwegian companies, Statoil and Norsk Hydro; and Total of France.</p>
+        <p>Simon Romero (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

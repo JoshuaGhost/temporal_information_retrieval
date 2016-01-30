@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Finding Hidden Senders in All That E-Mail Gobbledygook</title>
+    <meta content="26MAILXX" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1005104"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="FUNDAMENTALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and Information Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <person class="indexing_service">Wayner, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980326T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DE163BF935A15750C0A96E958260" item-length="1220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Finding Hidden Senders in All That E-Mail Gobbledygook</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER WAYNER</byline>
+      <byline class="normalized_byline">Wayner, Peter</byline>
+      <abstract>
+        <p>Advise on how to trace E-mail source to determine whether message is likely to be false; explains how to read routing data that accompanies E-mail; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BY now, most of America has enough experience with electronic mail to realize that it is often not what it seems. Spoofs and pranks are easy to pull off. Most E-mail programs make it as easy to claim a false name as it is to write a false return address on a paper envelope.</p>
+        <p>Still, the system has some protections against fraud, developed precisely because people sending junk E-mail have abused the system and used fake addresses to avoid being tracked down. These protections make it possible for anyone to trace an E-mail and find out whether it is likely to be false. This approach is not guaranteed because there are many more sophisticated approaches to faking E-mail, but it does expose some of the simpler schemes. In other words, if your friends are ribbing you, you can find out. If it is serious spam, see the User's Guide column below.</p>
+      </block>
+      <block class="full_text">
+        <p>BY now, most of America has enough experience with electronic mail to realize that it is often not what it seems. Spoofs and pranks are easy to pull off. Most E-mail programs make it as easy to claim a false name as it is to write a false return address on a paper envelope.</p>
+        <p>Still, the system has some protections against fraud, developed precisely because people sending junk E-mail have abused the system and used fake addresses to avoid being tracked down. These protections make it possible for anyone to trace an E-mail and find out whether it is likely to be false. This approach is not guaranteed because there are many more sophisticated approaches to faking E-mail, but it does expose some of the simpler schemes. In other words, if your friends are ribbing you, you can find out. If it is serious spam, see the User's Guide column below.</p>
+        <p>The accompanying illustration includes a message from monica@whitehouse.gov that appeared in my E-mail box. It was not really sent by anyone named Monica or anyone at the White House. In fact, I made it up and then proceeded to route it through several computers that I own just to give it a history that could be parsed.</p>
+        <p>The best place to start explaining how to read not the E-mail itself but the routing information that accompanies it is to look at how computers exchange pieces of E-mail. Everywhere on the Internet where mail is sent or received by any computer and any software, there is a set of instructions that tells computers what to do when mail arrives. That process for moving mail through the Internet goes by the name Standard Mail Transfer Protocol.</p>
+        <p>The S.M.T.P. is naive and trusting. The receiving computer asks a few questions (like ''Who is the message to?'' and ''Who is the message from?'') and believes whatever it is told. If the sending computer says that the message is from monica@whitehouse.gov, the receiving computer dutifully takes this on faith.</p>
+        <p>I use Eudora to send and receive E-mail, and it, like all other E-mail programs, uses S.M.T.P. My version of the program lets me type in whatever I want on the From line. Most versions of Netscape and Internet Explorer, and some Eudora versions, let the user do the same thing by changing some settings. In this case, I could have easily typed elvis@cool.com just for fun.</p>
+        <p>While the E-mail system is trusting, on the surface, it does keep some records that can reveal fraud or deceit. The header of a message contains many details about the route taken by a message. Many E-mail programs do not show this header because it is virtually unreadable to most people and it is rarely important to anyone. Eudora users can expose the headers by clicking on the Blah Blah Blah icon at the top of an opened message. Microsoft Access users, on the other hand, must dig deeper and look in their menus for the Property of a message. Each E-mail program is different.</p>
+        <p>Once you get to the header, examining it reveals the path that the message has taken. The header looks the way it does because each computer that handles the message has added a line to the top of the message. Often, several computers have handled a message.</p>
+        <p>The message ostensibly from Monica had five stops. It began with me, of course, sitting at my computer --  *1</p>
+        <p>newray.digex.net -- writing it on my Eudora program and sending it off to myself at pcw@flyzone.com. The next stop was the computer that handles mail at my Internet Service Provider,</p>
+        <p>*2  pony-2.mail.digex.net. That machine passed the message to a second computer in my office:</p>
+        <p>*3  flyzone.com.</p>
+        <p>I have that computer programmed to take all the E-mail it gets for pcw@flyzone.com and forward it to another address of mine: pcw@access.digex.net. To do that, the flyzone computer sent the mail back to</p>
+        <p>*4</p>
+        <p>pony-2.mail.digex.net for a second stop. That machine finally sent the message to me, at the computer at which I composed it. There is no *5</p>
+        <p>in the message because the header does not include the final hop.</p>
+        <p>The easiest way to reveal that this message is a fake is to compare the From line with the first Received line.</p>
+        <p>The From line says that the message is from someone at whitehouse.gov, but the Received line says the message began at some machine with the name newray.digex.net. While it is possible that someone at the real White House might have a machine with this weird name, it is highly unlikely. That machine, newray.digex.net, is the name of the first computer on my desk.</p>
+        <p>The number 199.125.128.5 is the I.P. (Internet Protocol) address of that machine. There is a one-to-one correspondence between I.P. addresses and computers connected to the Internet. Some names, like www.nytimes.com, actually refer to multiple machines because one machine is not large enough to handle the traffic.</p>
+        <p>If the received line said the message had come from a machine like westwing.whitehouse.gov, then it might be accurate. Of course, it might just be a better fake. It could be coming from someone inside the White House or even someone with access to the network.</p>
+        <p>Just getting a computer name isn't necessarily much help. Machine names are often assigned at random as people dial into pools of modems. Sometimes the I.S.P. maintains records that in concert with phone records could identify someone, but these are often incomplete.</p>
+        <p>There are solutions on the horizon. Good cryptography can scramble the message so only the right person can read it and can also create digital versions of signatures that are very difficult to fake. But cryptography runs into a lot of political resistance because of the question of whether it would block authorized police surveillance.</p>
+        <p>For now, most people should put only a moderate amount of trust in the E-mail system. Most messages are not faked, and the faked ones usually stick out. Analyzing the header will reveal the simplest fakes. For instance, one from robots asking you to report to a human-slave-processing center is almost certainly a fake. If only the stories from Washington were so obvious.</p>
+        <p>FUNDAMENTALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

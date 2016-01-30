@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laura Stanton, Craig Hopkins</title>
+    <meta content="01stanton" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/10/01/fashion/weddings/01stanton.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1794025"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">Stanton, Laura Anne</person>
+        <person class="indexing_service">Hopkins, Dr. Craig Liam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DD1730F932A35753C1A9609C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laura Stanton, Craig Hopkins</hl1>
+        <hl2 class="online_headline">Laura Stanton, Craig Hopkins</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laura Anne Stanton, a medical student, and Dr. Craig Liam Hopkins, a veterinarian, were married yesterday. The Very Rev. Samuel T. Lloyd III, an Episcopal priest and the dean of the National Cathedral in Washington, performed the ceremony at Trinity Church in Boston.</p>
+        <p>Ms. Stanton, 30, is keeping her name. She is in her fourth year at the Drexel University College of Medicine in Philadelphia. She graduated cum laude from Bowdoin College.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Laura Anne Stanton, a medical student, and Dr. Craig Liam Hopkins, a veterinarian, were married yesterday. The Very Rev. Samuel T. Lloyd III, an Episcopal priest and the dean of the National Cathedral in Washington, performed the ceremony at Trinity Church in Boston.</p>
+      </block>
+      <block class="full_text">
+        <p>Laura Anne Stanton, a medical student, and Dr. Craig Liam Hopkins, a veterinarian, were married yesterday. The Very Rev. Samuel T. Lloyd III, an Episcopal priest and the dean of the National Cathedral in Washington, performed the ceremony at Trinity Church in Boston.</p>
+        <p>Ms. Stanton, 30, is keeping her name. She is in her fourth year at the Drexel University College of Medicine in Philadelphia. She graduated cum laude from Bowdoin College.</p>
+        <p>The bride is a daughter of Jeanne and Donald R. Stanton of Boston. Her father is a senior vice president for investments in the Boston office of UBS, the Swiss bank; he works in the private wealth management division. He is also a trustee of the Rhode Island School of Design. Her mother, the author of ''Being All Things: How to Be a Wife, Lover, Boss and Mother (and Still be Yourself)'' (Doubleday, 1988), retired as the associate dean of the Simmons Graduate School of Management in Boston.</p>
+        <p>Dr. Hopkins, 35, is a staff emergency veterinarian at Veterinary and Surgical Diagnostic Specialists in Clarksburg, N.J. He also graduated cum laude from Bowdoin, although the couple did not meet there. He received his veterinary degree from the University of Pennsylvania.</p>
+        <p>The bridegroom is a son of Mary and Robert P. Hopkins of Londonderry, N.H. His mother retired in June as a sixth-grade teacher at Londonderry Middle School. His father is a history teacher at Trinity High School in Manchester, N.H.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

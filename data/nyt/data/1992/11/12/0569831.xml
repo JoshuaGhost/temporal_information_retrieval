@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. and NBC Will Market A News Service to PC Users</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="569831"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSONAL COMPUTERS</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <org class="indexing_service">INTERNATIONAL BUSINESS MACHINES CORP (IBM)</org>
+        <org class="indexing_service">NATIONAL BROADCASTING CO (NBC)</org>
+        <person class="indexing_service">CARTER, BILL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D81730F931A25752C1A964958260" item-length="417" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. and NBC Will Market A News Service to PC Users</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">CARTER, BILL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. and NBC said yesterday that they planned to test the market with a desktop news service that would essentially turn a personal computer into a television, providing news and information on demand.</p>
+        <p>The project will use technology developed by the Numedia Corporation, another partner in the venture, that makes it possible to collect news information in both text and video form on a personal computer. The information, which can be indexed to a user's specific needs, can be stored and replayed on the computer monitor.</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. and NBC said yesterday that they planned to test the market with a desktop news service that would essentially turn a personal computer into a television, providing news and information on demand.</p>
+        <p>The project will use technology developed by the Numedia Corporation, another partner in the venture, that makes it possible to collect news information in both text and video form on a personal computer. The information, which can be indexed to a user's specific needs, can be stored and replayed on the computer monitor.</p>
+        <p>The International Business Machines Corporation will attempt to sign a number of companies as subscribers to the pilot program of the service, NBC Desktop News. NBC and I.B.M. said a leading drug company had already signed on, but both declined to name the company.</p>
+        <p>Tom Rogers, president of NBC Cable and Business Development, said the market test will be conducted through the middle of 1993. "We'll look at the results then," he said. "It could roll out by this time next year."</p>
+        <p>The potential market is the more than 35 million users of personal computers. But Mr. Rogers said the service initially intended to concentrate only on corporate users.</p>
+        <p>The Armonk, N.Y., computer giant and the broadcasting unit of the General Electric Company, Fairfield, Conn., declined to say how much they would invest in the service.</p>
+        <p>Mr. Rogers, who last week was also named executive vice president of NBC, said his company was in an especially good position to take advantage of this convergence of technology and business needs because it had sources of news information through the NBC network and more specific business information through its all-business cable channel, CNBC.</p>
+        <p>"The guts of what this is is taking already produced news and information and making it available in a way that a user wants to see it," Mr. Rogers said. "This could be a significant business."</p>
+        <p>Chris Clough, a spokesman for I.B.M., called the project "the culmination of something that everyone has been talking about -- the convergence of the computer, video and telecommunications."</p>
+        <p>Mr. Rogers said the technology needed to make this service work was available, but the test-marketing project would provide information on such areas as "how to price the service and what works for users and what doesn't."</p>
+        <p>ABC is investigating creating a business for material it produces, using similar technology, but it is likely to aim its effort at the consumer market and not corporate users.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

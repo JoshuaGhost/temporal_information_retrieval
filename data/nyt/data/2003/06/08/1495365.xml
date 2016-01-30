@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: FICTION</title>
+    <meta content="RV111202" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1495365"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Williams, Mary Elizabeth</person>
+        <person class="indexing_service">Crittenden, Danielle</person>
+        <object.title class="indexing_service">Amanda Bright at Home (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFD91630F93BA35755C0A9659C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: FICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Mary Elizabeth Williams</byline>
+      <byline class="normalized_byline">Williams, Mary Elizabeth</byline>
+      <abstract>
+        <p>Mary Elizabeth Williams reviews book Amanda Bright at Home by Danielle Crittenden (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMANDA BRIGHT@HOME</p>
+        <p>By Danielle Crittenden.</p>
+        <p>Warner, $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>AMANDA BRIGHT@HOME</p>
+        <p>By Danielle Crittenden.</p>
+        <p>Warner, $23.95.</p>
+        <p>In her first novel, Danielle Crittenden, the author of ''What Our Mothers Didn't Tell Us,'' positions her protagonist in the tradition of flustered 30-something heroines -- the twist being that this neurotic cappuccino drinker is a Washington stay-at-home mother of two. Though Crittenden has an insider's easy way with the agonies of Beltway parties and private school interviews (her husband is David Frum, a former speechwriter for the current president), she lacks affection for her characters and the sharp insight of a true satirist. Poor unfunny Amanda is too disconnected from her overactive children and her workaholic, Scotch-swilling mate to register as anything but sad and self-pitying. Marriage and motherhood are to Crittenden a grueling, unpleasant lot, but safer than career or spinsterhood. One of Amanda's best friends is an ambitious, millionaire-chasing pundit who ''used her beauty the way an increasingly desperate gambler plays his dwindling stack of chips.'' Her mother is a shrill feminist activist who ''had long ago shorn away every aspect of her appearance that might be misconstrued as feminine.'' Eventually Crittenden throws in life-changing plot twists meant to illuminate the rightness of Amanda's priorities. Instead, they illustrate the shallowness of a story that relies more on gimmickry than persuasion.</p>
+        <p>Mary Elizabeth Williams</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

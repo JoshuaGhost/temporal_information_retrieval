@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dance in Review</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="606271"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DANCING</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <org class="indexing_service">NEW YORK CITY BALLET</org>
+        <person class="indexing_service">ANDERSON, JACK</person>
+        <person class="indexing_service">NICHOLS, KYRA</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDD123BF930A35756C0A965958260" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dance in Review</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">ANDERSON, JACK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Dance by Neil Greenberg'  La Mama E.T.C. Annex</p>
+        <p>Anguish can be fun. That appeared to be the theme of the first of the two thematically related works presented on Friday night.</p>
+      </block>
+      <block class="full_text">
+        <p>'Dance by Neil Greenberg'  La Mama E.T.C. Annex</p>
+        <p>Anguish can be fun. That appeared to be the theme of the first of the two thematically related works presented on Friday night.</p>
+        <p>All the cast members of Mr. Greenberg's "I Am a Miserable and Selfish Person (Kick Me Dance)" had the words "kick me" written on the seats of their pants. The stage was dominated by three doors: a tiny one labeled "Happy," and two big ones identified as "Sad" and "Guilty." No one bothered with the "Happy" door. But dancers kept going through the other two.</p>
+        <p>Appearing to thrive on self-induced nervous tension, they kept pacing fretfully to a taped score by Zeena Parkins. Several unison passages suggested that Mr. Greenberg thought it was true that misery loves company. Finally, the "Happy" door was opened.</p>
+        <p>What lay beyond it was implied in "A Truth Dance," the premiere that shared the program with "I Am a Miserable and Selfish Person," which was choreographed last year. Everyone now wore shining gold costumes designed by Kate Lynch and Mr. Greenberg. Because the movement was less troubled than the electronic musical outbursts by Chris Cochrane that served as accompaniment, it was possible to suspect that the dancers had cast aside the cares of the world and were now in paradise.</p>
+        <p>Paradise soon became an unduly placid place. Yet the turmoil of the opening work was also monotonous in its own way. Mr. Greenberg has often been a quirkily imaginative choreographer, and these dances certainly had their own moments of wit and invention. But Mr. Greenberg established his basic points long before each was over. Both could have benefitted from judicious trimming.</p>
+        <p>The dancers included C. Batenhorst, Nathaniel Lee, Justine Lynch, Jo McKendry, Julienne Pollitt and Mr. Greenberg.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

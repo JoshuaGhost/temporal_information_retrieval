@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Union Plans To Prohibit Minicamps</title>
+    <meta content="15METS$02" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/15/sports/baseball/15METS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1456671"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Organized Labor</classifier>
+        <org class="indexing_service">Major League Baseball Players Assn</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Hermoso, Rafael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League</classifier>
+        <classifier class="online_producer" type="descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organized Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <org class="online_producer">New York Mets</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030115T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E5DF1031F936A25752C0A9659C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Union Plans To Prohibit Minicamps</hl1>
+        <hl2 class="online_headline">Union Plans to Prohibit Minicamps</hl2>
+      </hedline>
+      <byline class="print_byline">By RAFAEL HERMOSO</byline>
+      <byline class="normalized_byline">Hermoso, Rafael</byline>
+      <abstract>
+        <p>Major League Baseball players union will enforce basic union agreement, prohibiting teams, including New York Mets, from holding unofficial off-season workouts (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unhappy that the Mets and other teams have assembled players this winter for what were billed as optional minicamps, the players association plans to enforce the basic agreement and essentially prohibit teams from such off-season workouts.</p>
+        <p>''I'm simply going to tell the labor relations board that this will not happen again,'' said Gene Orza, the union's associate general counsel.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Unhappy that the Mets and other teams have assembled players for optional minicamps, the players association plans to prohibit teams from such off-season workouts.</p>
+      </block>
+      <block class="full_text">
+        <p>Unhappy that the Mets and other teams have assembled players this winter for what were billed as optional minicamps, the players association plans to enforce the basic agreement and essentially prohibit teams from such off-season workouts.</p>
+        <p>''I'm simply going to tell the labor relations board that this will not happen again,'' said Gene Orza, the union's associate general counsel.</p>
+        <p>Orza said that beginning next year, teams that wanted to hold such camps could ask the union to ask its members to attend. The union has had concerns in the past but did not act, Orza said, because ''it never got to the point it was this year.''</p>
+        <p>The Mets and the commissioner's office have contended that such camps are purely optional and players do not have to accept invitations. Orza said he was not accusing clubs of deliberately forcing players to attend, but that even extending an invitation before spring training was a form of coercion.</p>
+        <p>The Mets conducted a minicamp last week at their facility in Port St. Lucie, Fla., with Manager Art Howe greeting players and team executives monitoring the training of 40 players, including 25 on the 40-man roster, team officials said. The Dodgers are conducting two-hour optional workouts three times a week this month in Los Angeles.</p>
+        <p>''This is not only the Mets,'' Orza said in a telephone interview from his Manhattan office yesterday. ''Such camps are violations of the basic agreement. They can't even invite players before 45 days before the start of the season.''</p>
+        <p>Article XIV of the basic agreement stipulates that pitchers, catchers and injured players may be invited to work out 45 days before the season starts. No player is required to work out until 33 days before opening day, or Feb. 25 this year.</p>
+        <p>Orza said he was not against players asking to use team facilities for off-season regimens, especially if they live nearby, and that the union had been lenient on such workouts in the past. ''We're not going to press the issue, but our reasonableness has been taken advantage of,'' Orza said. ''In 2004 we're going to address it.''</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

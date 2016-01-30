@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EXECUTIVE CHANGES</title>
+    <meta content="20EXCS" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="938302"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">King World Productions Inc</org>
+        <person class="indexing_service">Haimovitz, Jules</person>
+        <person class="indexing_service">King, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EED8153EF933A15755C0A961958260" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EXECUTIVE CHANGES</hl1>
+      </hedline>
+      <abstract>
+        <p>King World Productions Inc names Jules Haimovitz president and chief operating officer succeeding Michael King, who remains chief executive and takes new post of vice chairman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* KING WORLD PRODUCTIONS INC., New York, named Jules Haimovitz president and chief operating officer. Mr. Haimovitz, who had been president and chief executive at ITC Entertainment Group, succeeds Michael King as president. Mr. King, who remains chief executive, takes the new post of vice chairman.</p>
+      </block>
+      <block class="full_text">
+        <p>* KING WORLD PRODUCTIONS INC., New York, named Jules Haimovitz president and chief operating officer. Mr. Haimovitz, who had been president and chief executive at ITC Entertainment Group, succeeds Michael King as president. Mr. King, who remains chief executive, takes the new post of vice chairman.</p>
+        <p>* MILLENNIUM INORGANIC CHEMICALS, Baltimore, a unit of Millennium Chemicals Inc., named Robert E. Lee president and chief executive. Mr. Lee, who had been president and chief operating officer at Millennium Chemicals, succeeds Donald V. Borst, who is retiring.</p>
+        <p>* NETCOM ON-LINE COMMUNICATION SERVICES INC., San Jose, Calif., named Dan Yost to the newly created posts of president and chief operating officer. Mr. Yost had been president for the Southwest region at AT&amp;T Wireless Services.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

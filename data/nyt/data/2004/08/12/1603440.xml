@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Respect Your Handyman</title>
+    <meta content="LTR001224" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1603440"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Home Repairs and Improvements</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <person class="indexing_service">Aufiero, Tod</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Repairs and Improvements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1D8163FF931A2575BC0A9629C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Respect Your Handyman</hl1>
+      </hedline>
+      <abstract>
+        <p>Tod Aufiero letter defends handyman's billing as described in Aug 5 Online Shopper column and says handymen deserve pay consistent with skill and time</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''$220 for Two Hours? Clocking Mr. Fix-It'' (Online Shopper, Aug. 5) reflects little or no understanding of the work that home maintenance requires, and unreasonable expectations of the services necessary to perform it. Your writer is pleased with the results of Mr. Handyman's service but feels ripped off by the extra 15 minutes she was billed when the billing seems consistent with everything she was told and agreed to before the work was started.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''$220 for Two Hours? Clocking Mr. Fix-It'' (Online Shopper, Aug. 5) reflects little or no understanding of the work that home maintenance requires, and unreasonable expectations of the services necessary to perform it. Your writer is pleased with the results of Mr. Handyman's service but feels ripped off by the extra 15 minutes she was billed when the billing seems consistent with everything she was told and agreed to before the work was started.</p>
+        <p>The handyman deserves to be paid for his services and time.</p>
+        <p>TOD AUFIERO  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

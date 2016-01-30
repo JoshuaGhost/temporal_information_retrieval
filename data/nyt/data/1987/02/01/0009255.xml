@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Voted of Sexuality Plan</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="9255"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOMOSEXUALITY</classifier>
+        <classifier class="indexing_service" type="descriptor">PROTESTANT EPISCOPAL CHURCH</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Episcopal Church</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DD103DF932A35751C0A961948260" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Voted of Sexuality Plan</hl1>
+      </hedline>
+      <byline class="print_byline">Special to the New York Times</byline>
+      <dateline>NEWARK, N.J., Jan. 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Delegates to the annual convention of the Episcopal Diocese of Newark today called for a yearlong study of a controversial proposal to recognize and bless nonmarital relationships, including those between homosexual couples.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Delegates to the annual convention of the Episcopal Diocese of Newark today called for a yearlong study of a controversial proposal to recognize and bless nonmarital relationships, including those between homosexual couples.</p>
+        <p>Delegates to the annual convention of the Episcopal Diocese of Newark today called for a yearlong study of a controversial proposal to recognize and bless nonmarital relationships, including those between homosexual couples.</p>
+        <p>The approximately 600 delegates who met at the Quality Inn here approved the proposal by voice vote.</p>
+        <p>During the yearlong study, the 133 congregations in the diocese are to solicit views on how the Church can best respond to the hurt and rejection that homosexuals feel.</p>
+        <p>The action was taken after a 13-member committee of clergy and laity proposed earlier this week that homosexuals and couples who are living together out of wedlock be included in the life and liturgy of the Church. It went beyond the stand taken by the governing body of the Episcopal Church, but was strongly endorsed by Bishop John S. Spong, head of the 55,000 Episcopalians in the diocese.</p>
+        <p>In 1979, the general convention of the 2.8 million member denomination rejected a similar proposal.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

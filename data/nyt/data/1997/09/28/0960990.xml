@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laura Jacobs, Robert Girvin 5th</title>
+    <meta content="28JACO" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="960990"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="WEDDINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">JACOBS, LAURA FELICE (LAURA FELICE GIRVIN)</person>
+        <person class="indexing_service">GIRVIN, ROBERT M. 5TH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFDA1F3BF93BA1575AC0A961958260" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laura Jacobs, Robert Girvin 5th</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laura Felice Jacobs, a daughter of Mr. and Mrs. Howard S. Jacobs of Roslyn, N.Y., was married last evening to Robert M. Girvin 5th, a son of Mr. and Mrs. Girvin 4th of Breckenridge, Colo. Rabbi Eugene Lipsey performed the ceremony at Harrison House, a conference center in Glen Cove, N.Y.</p>
+        <p>The bride, 28, is a senior director of marketing at Banana Republic, the clothing retailer, in San Francisco. She graduated from Duke University. Her father is a partner in Rosemann &amp; Colin, a New York law firm. Her mother, Arlene C. Jacobs, teaches English at the Herricks Middle School in Albertson, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Laura Felice Jacobs, a daughter of Mr. and Mrs. Howard S. Jacobs of Roslyn, N.Y., was married last evening to Robert M. Girvin 5th, a son of Mr. and Mrs. Girvin 4th of Breckenridge, Colo. Rabbi Eugene Lipsey performed the ceremony at Harrison House, a conference center in Glen Cove, N.Y.</p>
+        <p>The bride, 28, is a senior director of marketing at Banana Republic, the clothing retailer, in San Francisco. She graduated from Duke University. Her father is a partner in Rosemann &amp; Colin, a New York law firm. Her mother, Arlene C. Jacobs, teaches English at the Herricks Middle School in Albertson, N.Y.</p>
+        <p>The bridegroom, 33, is a vice president and an institutional stockbroker in San Francisco for Credit Suisse First Boston. He graduated from Amherst College and received an M.B.A. from the University of California at Los Angeles. His mother, Judy Girvin, owns the Bay Street Company, a housewares store, and his father is an owner of Timberhill Associates Real Estate, both in Breckenridge.</p>
+        <p>WEDDINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

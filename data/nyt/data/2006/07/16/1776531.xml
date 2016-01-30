@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paying for More Than a U-Haul</title>
+    <meta content="CT-edit-biz" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/07/16/opinion/nyregionopinions/CT-edit-biz.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1776531"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Connecticut"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Relocation of Business</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Small Business</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <location class="indexing_service">Shelton (Conn)</location>
+        <location class="indexing_service">Monroe (Conn)</location>
+        <org class="indexing_service">Swiss Army Brands</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Relocation of Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Small Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <location class="online_producer">Connecticut</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E1D91F30F935A25754C0A9609C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paying for More Than a U-Haul</hl1>
+        <hl2 class="online_headline">Paying for More Than a U-Haul</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial questions Connecticut's motives in giving Swiss Army Brands $1.5 million in loans and $650,000 in sales tax exemptions on construction materials to help it move seven miles, from Shelton to Monroe; holds it is highly unlikely that small business, which accounts for 73 percent of all business in state, is treated as well</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The news that Swiss Army Brands Inc. is getting financial help from Connecticut to build a new corporate headquarters is unsurprising. The state has for years given companies grants or loans to encourage expansion or new construction. But Swiss Army Brands got $1.5 million in loans and $650,000 on sales tax exemptions on construction materials to help the company move exactly seven miles -- from Shelton to Monroe.</p>
+        <p>At the groundbreaking ceremony, Gov. M. Jodi Rell said that the new construction would be good for the state's economy and would create jobs. No doubt it will. But the state Department of Economic and Community Development told another story. The department said that the company, which employs 170 workers, got the money because it was considering moving to New York State.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The subsidies that Swiss Army Brands Inc. is getting from Connecticut seem more a knee-jerk reaction than an economic strategy.</p>
+      </block>
+      <block class="full_text">
+        <p>The news that Swiss Army Brands Inc. is getting financial help from Connecticut to build a new corporate headquarters is unsurprising. The state has for years given companies grants or loans to encourage expansion or new construction. But Swiss Army Brands got $1.5 million in loans and $650,000 on sales tax exemptions on construction materials to help the company move exactly seven miles -- from Shelton to Monroe.</p>
+        <p>At the groundbreaking ceremony, Gov. M. Jodi Rell said that the new construction would be good for the state's economy and would create jobs. No doubt it will. But the state Department of Economic and Community Development told another story. The department said that the company, which employs 170 workers, got the money because it was considering moving to New York State.</p>
+        <p>The department has long defended such tactics because it considers subsidizing businesses a necessary part of fending off poachers from other states. But in this case the subsidies seem more a knee-jerk reaction than an economic strategy, especially in light of the fact that Connecticut is dead last in business creation out of 50 states.</p>
+        <p>Moreover, an astonishing 73 percent of all businesses in Connecticut employ 10 or fewer employees. It's highly unlikely that such enterprises get even a passing glance from the bureaucracy, let alone generous low-interest loans, even though small businesses are the engines for economic growth here. Indeed, they would count themselves lucky if the state gave them a U-Haul.</p>
+        <p>Connecticut</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

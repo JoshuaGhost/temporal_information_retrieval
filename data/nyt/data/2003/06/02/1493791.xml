@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ads That Registered</title>
+    <meta content="02MOST" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1493791"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="MOST WANTED: DRILLING DOWN/TELEVISION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Intermedia Advertising Group</org>
+        <person class="indexing_service">Ives, Nat</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DB1230F931A35755C0A9659C8B63" item-length="294" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ads That Registered</hl1>
+      </hedline>
+      <byline class="print_byline">By NAT IVES</byline>
+      <byline class="normalized_byline">Ives, Nat</byline>
+      <abstract>
+        <p>Intermedia Advertising Group compiles list of ten most-remembered advertisements that ran during May's television season program finales; photo; list of ads (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The season finales on prime-time television in May attracted huge audiences. More than 38 million people, for example, watched the final round of ''American Idol'' on Fox. And fans flocked to the final farewells of series that are going off the air, among them UPN's ''Buffy the Vampire Slayer'' and WB's ''Dawson's Creek.''</p>
+      </block>
+      <block class="full_text">
+        <p>The season finales on prime-time television in May attracted huge audiences. More than 38 million people, for example, watched the final round of ''American Idol'' on Fox. And fans flocked to the final farewells of series that are going off the air, among them UPN's ''Buffy the Vampire Slayer'' and WB's ''Dawson's Creek.''</p>
+        <p>Advertisers spent heavily to appear amid the dramatic departures. Were viewers paying attention? The Intermedia Advertising Group, which ranks commercials based on audience recall of ads and the products they promote, has compiled a list of the 10 most-remembered ads during last month's season finales. Two Old Navy ads, paying homage to the old TV series ''Love Boat'' and featuring the actress Morgan Fairchild, topped the list.</p>
+        <p>NAT IVES</p>
+        <p>MOST WANTED: DRILLING DOWN/TELEVISION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

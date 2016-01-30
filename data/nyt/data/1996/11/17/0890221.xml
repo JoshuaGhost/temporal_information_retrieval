@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NATIONAL EDUCATION STANDARDS</title>
+    <meta content="LTR033948" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="890221"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Standards and Standardization</classifier>
+        <person class="indexing_service">Engel, Susan</person>
+        <person class="indexing_service">Mosle, Sara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Standards and Standardization</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19961117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DA1F3BF934A25752C1A960958260" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NATIONAL EDUCATION STANDARDS</hl1>
+      </hedline>
+      <abstract>
+        <p>Susan Engel letter on Sara Mosle's Oct 27 article calling for national education standards; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is neither the structure of a school nor the specific curriculum students work with that determines whether children are well educated or not. The one thing that really matters is good teachers. Anyone who has had more than one of them knows that great teachers can vary widely in what they teach and how they teach it. Strict or not strict, memorization or analysis, projects or papers, Russian Revolution or Aztec architecture, you may well forget content and pedagogical style. But the experience of working with that teacher remains.</p>
+      </block>
+      <block class="full_text">
+        <p>It is neither the structure of a school nor the specific curriculum students work with that determines whether children are well educated or not. The one thing that really matters is good teachers. Anyone who has had more than one of them knows that great teachers can vary widely in what they teach and how they teach it. Strict or not strict, memorization or analysis, projects or papers, Russian Revolution or Aztec architecture, you may well forget content and pedagogical style. But the experience of working with that teacher remains.</p>
+        <p>Teachers who are smart, passionate and knowledgeable, both about their topic and their students, who feel confident and valued and who themselves have been well educated are the key to a nation of well-educated children. If we could spend time, money and, most important, thought on how to create a population of great teachers, we would be a lot closer to having a well-educated nation.</p>
+        <p>SUSAN ENGEL  Bennington, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

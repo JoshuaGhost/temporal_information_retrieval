@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="27CARD" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Bridge" name="column_name"/>
+    <docdata>
+      <doc-id id-string="918475"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Bridge"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <object.title class="indexing_service">Bridge (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970327T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E1DC163AF934A15750C0A961958260" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Alan Truscott's Bridge column on knockout team events as the way for a young player to make quick reputation; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The best way for young players to make a mark in the tournament world is to do well in knockout team events, where they can expect to clash with experts vastly superior in experience and reputation. Doing just that in a seven-week period at the beginning of the year were John Ramos, Brady Richter, Scott Bieber and Mark Paltrowitz, all of Manhattan.</p>
+        <p>At three consecutive regional championships, in Manhattan, Rye, N.Y., and Cromwell, Conn., they reached the knockout final, a remarkable feat. They lost in the first two, to teams including several national champions, but won the third against comparably strong opposition. Bieber was unavailable, and they recruited Aaron Silverstein and Robin Kay in his place.</p>
+      </block>
+      <block class="full_text">
+        <p>The best way for young players to make a mark in the tournament world is to do well in knockout team events, where they can expect to clash with experts vastly superior in experience and reputation. Doing just that in a seven-week period at the beginning of the year were John Ramos, Brady Richter, Scott Bieber and Mark Paltrowitz, all of Manhattan.</p>
+        <p>At three consecutive regional championships, in Manhattan, Rye, N.Y., and Cromwell, Conn., they reached the knockout final, a remarkable feat. They lost in the first two, to teams including several national champions, but won the third against comparably strong opposition. Bieber was unavailable, and they recruited Aaron Silverstein and Robin Kay in his place.</p>
+        <p>On the diagramed deal, Richter and Paltrowitz, as North and South, bid aggressively to four hearts after East had opened the bidding with one diamond. When West led the diamond queen, South paused to consider the distribution. West's pass of three clubs suggested he had more clubs than diamonds, so East's minor suits were likely to be divided 6-4.</p>
+        <p>On this assumption, South ducked the opening lead. The defense shifted to clubs and South ruffed the third round. He led to the diamond ace and then finessed the spade jack successfully.</p>
+        <p>Confident that East held a singleton trump, he cashed the heart ace and finessed the ten. When this succeeded, he cashed the heart king and returned to his hand with a spade lead to remove West's last trump.  Now he could claim his game, for the club jack in dummy provided a discard for the diamond loser.</p>
+        <p>It would have been slightly harder if the defense had not established a club trick in the dummy, but Paltrowitz would still have prevailed. This proved to be a gain of 9 imps, for in the replay East-West were permitted to play in three diamonds, failing by one trick.</p>
+        <p>Bridge</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

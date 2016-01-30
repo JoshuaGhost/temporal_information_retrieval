@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Review/Film; A Burglar, Once, but Also a Mom</title>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Weekend Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="633515"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MOTION PICTURES</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">CANBY, VINCENT</person>
+        <object.title class="indexing_service">REAL MCCOY, THE (MOVIE)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D6153AF933A2575AC0A965958260" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Review/Film; A Burglar, Once, but Also a Mom</hl1>
+      </hedline>
+      <byline class="print_byline">By VINCENT CANBY</byline>
+      <byline class="normalized_byline">CANBY, VINCENT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>"The Real McCoy" looks like a television movie that won a raffle and became a theatrical film instead.</p>
+        <p>The high concept: a beautiful cat burgler (Kim Basinger) wants nothing more than to go straight and raise her young son after serving six years in prison. Mother love is thwarted when her former associates kidnap the child to force her to carry out one last bank job. The movie has a certain store-bought surface polish, but, inside, it's just as rickety as it sounds.</p>
+      </block>
+      <block class="full_text">
+        <p>"The Real McCoy" looks like a television movie that won a raffle and became a theatrical film instead.</p>
+        <p>The high concept: a beautiful cat burgler (Kim Basinger) wants nothing more than to go straight and raise her young son after serving six years in prison. Mother love is thwarted when her former associates kidnap the child to force her to carry out one last bank job. The movie has a certain store-bought surface polish, but, inside, it's just as rickety as it sounds.</p>
+        <p>The cast includes Val Kilmer, as a nonprofessional criminal who comes to Ms. Basinger's aid; Terence Stamp, as the vile "Mr. Big" who blackmails the woman, and Gailard Sartain, as Ms. Basinger's lecherous and crooked parole officer. The movie was shot entirely in Atlanta. It features a lot of high-tech equipment for breaking, entering and cutting through bank-vault doors, and not one moment that surprises.</p>
+        <p>"The Real McCoy" isn't ghastly in the way of something pretentious. It's wan: a movie that totally fails its small purpose to make the time between commercials pass quickly.</p>
+        <p>"The Real McCoy" has been rated PG-13 (parents strongly cautioned).The film has vulgar language and one scene in which a mother is badly beaten as her small son watches in horror.  The Real McCoy  Directed by Russell Mulcahy; written by William Davies and William Osborne; director of photography, Denis Crossan; edited by Peter Honess; music by Brad Fiedel; production designer, Kim Colefax; produced by Martin Bregman, Willi Baer and Michael S. Bregman; released by Universal. Running time: 105 minutes. This film is rated PG-13. Karen McCoy . . . Kim Basinger J. T. Barker . . . Val Kilmer Jack Schmidt . . . Terence Stamp Gary Buckner . . . Gailard Sartain</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

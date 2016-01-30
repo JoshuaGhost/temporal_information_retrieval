@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rachel Benson, Michael Demmer</title>
+    <meta content="07BENS" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/08/07/fashion/weddings/07BENS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1692873"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEDDINGS/CELEBRATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEDDINGS AND ENGAGEMENTS</classifier>
+        <person class="indexing_service">BENSON, RACHEL ELAINE (RACHEL ELAINE DEMMER)</person>
+        <person class="indexing_service">DEMMER, MICHAEL JOSHUA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050807T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E0DF113CF934A3575BC0A9639C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rachel Benson, Michael Demmer</hl1>
+        <hl2 class="online_headline">Rachel Benson and Michael Demmer</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rachel Elaine Benson, the daughter of Elizabeth Benson of San Francisco and Arnold Benson of New York, was married last evening to Michael Joshua Demmer, a son of Regina Demmer and Peter Demmer, also of New York. The Rev. Tamara Markwick, a nondenominational minister, officiated at the Mayacamas Ranch in Calistoga, Calif.</p>
+        <p>The bride, 29, is a candidate for a master's degree in television and video production at San Francisco State University. She graduated from Connecticut College. Her father is a cardiologist in New York. Her mother is a lawyer in San Francisco.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Rachel Elaine Benson, the daughter of Elizabeth Benson of San Francisco and Arnold Benson of New York, was married last evening to Michael Joshua Demmer, a son of Regina Demmer and Peter Demmer, also of New York. The Rev. Tamara Markwick, a nondenominational minister, officiated at the Mayacamas Ranch in Calistoga, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Rachel Elaine Benson, the daughter of Elizabeth Benson of San Francisco and Arnold Benson of New York, was married last evening to Michael Joshua Demmer, a son of Regina Demmer and Peter Demmer, also of New York. The Rev. Tamara Markwick, a nondenominational minister, officiated at the Mayacamas Ranch in Calistoga, Calif.</p>
+        <p>The bride, 29, is a candidate for a master's degree in television and video production at San Francisco State University. She graduated from Connecticut College. Her father is a cardiologist in New York. Her mother is a lawyer in San Francisco.</p>
+        <p>The bridegroom, 28, is a candidate for a doctorate in computer science at the University of California, Berkeley. He graduated from Brown. His mother is an account manager at Knowtions, a software and services company in Paramus, N.J. His father is the founder and the chief executive of Sterling Resources, a management consulting and market research company, also in Paramus.</p>
+        <p>WEDDINGS/CELEBRATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

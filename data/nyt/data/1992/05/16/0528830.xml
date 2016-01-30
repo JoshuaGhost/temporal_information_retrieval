@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="528830"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ATHLETICS AND SPORTS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D71338F935A25756C0A964958260" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Basketball  National Basketball Association</p>
+      </block>
+      <block class="full_text">
+        <p>Basketball  National Basketball Association</p>
+        <p>NBA -- Fined John Starks, New York Knicks guard, $5,000 for a flagrant foul in a game on May 14. Fined Phil Jackson, Chicago Bulls coach, $2,500 for comments on officiating following a game on May 10.</p>
+        <p>LOS ANGELES LAKEERS -- Extended the contract of Jerry West, general manager. Continental Basketball Association</p>
+        <p>ROCKFORD LIGHTNING -- Named Mike Bonczyk director of operations-marketing, and Pat Campbell director of tickets-merchandising. Football  Canadian Football League</p>
+        <p>TORONTO ARGONAUTS -- Signed David Giacomazzo, guard, and Hugh Lawson and Chris Hughes, defensive lineman. Hockey  International Hockey League</p>
+        <p>PEORIA RIVERMEN -- Named Nicki Lopez account executive. College</p>
+        <p>IDAHO -- Promoted Dawn Colston, women's interim assistant volleyball coach, to women's full-time assitant volleyball coach.</p>
+        <p>NORTHERN IOWA -- Named Christopher Ritrievi athletic director.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

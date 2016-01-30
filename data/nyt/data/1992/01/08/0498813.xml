@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bridge</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="498813"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BRIDGE (CARD GAME)</classifier>
+        <person class="indexing_service">TRUSCOTT, ALAN</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5DC143BF93BA35752C0A964958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bridge</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">TRUSCOTT, ALAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The first tournament of the year for players in the New York metropolitan area begins today at the Rye Town Hilton in Port Chester, N.Y.</p>
+        <p>The following major events are scheduled at the tournament, the Tri-State Regional Championships:</p>
+        <p>Today: Open and Women's Pairs, 1 P.M. and 7:30 P.M.; Open Pairs, 7:30 P.M. (and continues).</p>
+        <p>Thursday: Flighted Knockout Teams, 9 A.M.; Senior Pairs, Open and Women's Swiss Teams, 1 P.M. and 7:30 P.M.</p>
+        <p>Friday: Stratified Open and Women's Pairs, 1 P.M and 7:30 P.M.</p>
+        <p>Saturday: Flighted Open Pairs, 1 P.M. and 7:30 P.M.</p>
+        <p>Sunday: Flighted Swiss Teams, 11:30 A.M. and 6:30 P.M.; Senior Pairs, 11:30 A.M. and 5:30 P.M.</p>
+      </block>
+      <block class="full_text">
+        <p>The first tournament of the year for players in the New York metropolitan area begins today at the Rye Town Hilton in Port Chester, N.Y.</p>
+        <p>The following major events are scheduled at the tournament, the Tri-State Regional Championships:</p>
+        <p>Today: Open and Women's Pairs, 1 P.M. and 7:30 P.M.; Open Pairs, 7:30 P.M. (and continues).</p>
+        <p>Thursday: Flighted Knockout Teams, 9 A.M.; Senior Pairs, Open and Women's Swiss Teams, 1 P.M. and 7:30 P.M.</p>
+        <p>Friday: Stratified Open and Women's Pairs, 1 P.M and 7:30 P.M.</p>
+        <p>Saturday: Flighted Open Pairs, 1 P.M. and 7:30 P.M.</p>
+        <p>Sunday: Flighted Swiss Teams, 11:30 A.M. and 6:30 P.M.; Senior Pairs, 11:30 A.M. and 5:30 P.M.</p>
+        <p>Among the contestants will be Dr. Dan Hertz and Natalie Hertz of Harrison, N.Y., who recently returned to tournament play after a long absence and won a Regional Senior Master Pairs in Pine Mountain, Ga., with help from the diagramed deal. They avoided the obvious four-spade contract, which would have been hopeless, and Dr. Hertz played skillfully to overcome the bad break in spades and bring home three no-trump.</p>
+        <p>East won the opening heart lead with the king, an error, and continued with the ace and four. South won, cashed the ace and king of spades and reviewed the situation. He felt sure that East held the club king and a diamond honor to justify the opening bid, so he led the diamond ten to the king, led to the ace and reached this position:  [ DIAGRAM ]</p>
+        <p>The diamond three was led to West's jack, and East reluctantly gave up one of his heart winners. West exited with his last diamond to dummy's nine and East gave up his remaining heart. South discarded his club six, surrendered a spade trick and claimed his game.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

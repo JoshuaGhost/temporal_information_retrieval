@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jockey Is Suspended</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="410395"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <series series.name="SPORTS PEOPLE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HORSE RACING</classifier>
+        <classifier class="indexing_service" type="descriptor">SUSPENSIONS, DISMISSALS AND RESIGNATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">THOROUGHBRED RACING</classifier>
+        <org class="indexing_service">HOLLYWOOD PARK RACE TRACK (CALIF)</org>
+        <person class="indexing_service">VALENZUELA, PAT</person>
+        <object.title class="indexing_service">SPORTS PEOPLE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD8123BF930A15751C1A966958260" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jockey Is Suspended</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STEWARDS at Hollywood Park gave Patrick Valenzuela, who rode Sunday Silence to victory in last year's Kentucky Derby, a six-month suspension yesterday. Valenzuela was initially placed on an indefinite suspension after he failed to honor his riding assignments at Santa Anita on Nov. 3. The suspension is retroactive to Nov. 12 and will be in effect until May 11. (AP)</p>
+      </block>
+      <block class="full_text">
+        <p>STEWARDS at Hollywood Park gave Patrick Valenzuela, who rode Sunday Silence to victory in last year's Kentucky Derby, a six-month suspension yesterday. Valenzuela was initially placed on an indefinite suspension after he failed to honor his riding assignments at Santa Anita on Nov. 3. The suspension is retroactive to Nov. 12 and will be in effect until May 11. (AP)  SPORTS PEOPLE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

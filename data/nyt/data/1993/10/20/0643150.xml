@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Honeywell Inc. reports earnings for Qtr to Sept 30</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="643150"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E4D6143DF933A15753C1A965958260" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Honeywell Inc. reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Honeywell Inc. (NYSE)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Sales</p>
+        <p>1,452,300,000</p>
+        <p>1,550,000,000</p>
+        <p>Net inc</p>
+        <p>80,900,000</p>
+        <p>b167,100,000</p>
+        <p>Share earns</p>
+        <p>.60</p>
+        <p>1.21</p>
+        <p>9mo sales</p>
+        <p>4,342,900,000</p>
+        <p>4,517,400,000</p>
+        <p>Net inc</p>
+        <p>209,600,000</p>
+        <p>b217,800,000</p>
+        <p>Share earns</p>
+        <p>1.55</p>
+        <p>1.57</p>
+        <p>b-After an extraordinary charge from debt redemption of $ 5,500,000 in both the quarter and 9 months, and the 9 months also included a charge of $ 144,500,000 from effects of accounting changes. Year-ago quarter and 9 months' income from continuing operations of $ 172,600,000, or $ 1.25 a share, and $ 367,800,000, or $ 2.65 a share, respectively, included after-tax gains from litigation settlements of $ 91.6 million, or 66 cents a share, for the quarter and $ 164 million, or $ 1.18 a share, for the 9 months.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

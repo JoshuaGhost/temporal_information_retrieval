@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Housing Nominee Is Attacked</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="610268"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">DISCRIMINATION</classifier>
+        <classifier class="indexing_service" type="descriptor">HOMOSEXUALITY</classifier>
+        <org class="indexing_service">HOUSING AND URBAN DEVELOPMENT DEPARTMENT (HUD)</org>
+        <person class="indexing_service">KRAUSS, CLIFFORD</person>
+        <person class="indexing_service">ACHTENBERG, ROBERTA</person>
+        <person class="indexing_service">HELMS, JESSE (SEN)</person>
+        <person class="indexing_service">LOTT, TRENT (SEN)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6D8123BF932A15756C0A965958260" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Housing Nominee Is Attacked</hl1>
+      </hedline>
+      <byline class="print_byline">By CLIFFORD KRAUSS,</byline>
+      <byline class="normalized_byline">KRAUSS, CLIFFORD</byline>
+      <dateline>WASHINGTON, May 20</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Calling Roberta Achtenberg an intolerant gay-rights activist unfit for high office, conservative Republicans have begun a strenuous campaign to block her appointment as Assistant Secretary of Housing and Urban Development.</p>
+        <p>Republican strategists have noted that President Clinton has suffered political damage from his support for gay rights, and the campaign to defeat Ms. Achtenberg appeared to be part of a strategy to underscore differences between the two parties.</p>
+      </block>
+      <block class="full_text">
+        <p>Calling Roberta Achtenberg an intolerant gay-rights activist unfit for high office, conservative Republicans have begun a strenuous campaign to block her appointment as Assistant Secretary of Housing and Urban Development.</p>
+        <p>Republican strategists have noted that President Clinton has suffered political damage from his support for gay rights, and the campaign to defeat Ms. Achtenberg appeared to be part of a strategy to underscore differences between the two parties.</p>
+        <p>Most Republican moderates have remained neutral or declared their support for Ms. Achtenberg, and Republican leaders have decided not to try a filibuster. A vote on the nomination is scheduled for Monday afternoon, and supporters said they expected Ms. Achtenberg to be approved.</p>
+        <p>Led by Senators Jesse Helms of North Carolina and Trent Lott of Mississippi, conservatives have risen on the Senate floor in two days of heated debate to charge that she would be a dangerous social activist in enforcing the nation's fair housing laws.  Nominee Criticized Boy Scouts</p>
+        <p>"I am not going to put a lesbian into a position like that," Mr. Helms said. Other conservatives would not criticize Ms. Achtenberg's sexual orientation directly, but they raised as a serious issue her past criticism of the Boy Scouts for prohibiting homosexuals from becoming Scoutmasters.</p>
+        <p>They noted that Ms. Achtenberg, a lawyer who is a member of the San Francisco Board of Supervisors, introduced a resolution there suggesting that the city withdraw $6 million from a bank account because the bank had donated money to the Boy Scouts.</p>
+        <p>"I wonder about someone who engages in vendettas against people they disagree with," said Senator Phil Gramm, Republican of Texas. "I have no doubt about her dedication, but I am concerned about her temperament." 'Worse Than Intolerant'</p>
+        <p>Senator Orrin G. Hatch, Republican of Utah, said, "Ms. Achtenberg is worse than intolerant. By using her position to attack the Boy Scouts, she brought the power of government to bear against a private association because that private association does not mirror her beliefs about what is good and true and just."</p>
+        <p>Democratic liberals characterized her detractors as opponents of civil rights seeking "red herrings."</p>
+        <p>"It's not about qualifications, it's about a private life style," said Senator Barbara Boxer, Democrat of California. "I say America is better than that."</p>
+        <p>Senator Edward M. Kennedy, Democrat of Massachusetts, complimented Ms. Achtenberg for her willingness to openly announce her homosexuality.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

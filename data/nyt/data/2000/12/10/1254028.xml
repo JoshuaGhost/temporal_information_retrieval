@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grin, Then Bear The Dividends</title>
+    <meta content="10PDIG$03" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/12/10/business/10PDIG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1254028"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Indiana University</org>
+        <person class="indexing_service">Meece, Mickey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4D7113CF933A25751C1A9669C8B63" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grin, Then Bear The Dividends</hl1>
+      </hedline>
+      <byline class="print_byline">By Mickey Meece</byline>
+      <byline class="normalized_byline">Meece, Mickey</byline>
+      <abstract>
+        <p>Indiana University researchers find being kind at work, and a team player, boosts career advancement and corporate performance (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>December can be a pleasant month at work, with people seemingly cheery, and some, well, even nice.</p>
+        <p>The skeptic in you may think that the situation will change come January, after the holidays. But that might not be the case if you, your co-workers and your company hope to get ahead.</p>
+      </block>
+      <block class="full_text">
+        <p>December can be a pleasant month at work, with people seemingly cheery, and some, well, even nice.</p>
+        <p>The skeptic in you may think that the situation will change come January, after the holidays. But that might not be the case if you, your co-workers and your company hope to get ahead.</p>
+        <p>Two researchers from Indiana University's Kelley School of Business have found that being kind at work, and a team player, pays dividends in career advancement and corporate performance.</p>
+        <p>''For the vast majority of people, what we've proven is that nice people don't finish last -- far from it,'' said one of the researchers, Scott B. MacKenzie, a marketing professor.</p>
+        <p>Since 1989, Professor MacKenzie and Philip M. Podsakoff, professor of management, have studied how the careers of thousands of employees -- from insurance sales representatives to store clerks to executives -- have been affected by their workplace behavior. In a 1996 study, for example, they found that 26 percent of the variation in the quantity of paper produced by mill work crews was tied to good behavior.</p>
+        <p>Engaging in good ''organizational citizenship behavior,'' the researchers found, is just as important as an employee's performance numbers. They also found that companies populated with nice people tended to generate better bottom lines.</p>
+        <p>Most workers are about average in skills and performance, Professor MacKenzie says. ''That's where individual citizenship efforts make the biggest difference'' in raises, promotions and careers.</p>
+        <p>Even so, the researchers note, a stellar performer who is not so kind can still rise to the top. Likewise, they say, being nice only gets you so far; you still have to produce results.</p>
+        <p>The researchers listed attributes that they deemed vital to success -- and an example of each:</p>
+        <p>* Altruism. Helping colleagues with work-related problems.</p>
+        <p>* Courtesy. Keeping co-workers abreast of what you are doing.</p>
+        <p>* Civic virtue. Being willing to say what you think is in the best interest of the company, even if it may not be popular.</p>
+        <p>* Sportsmanship. Being a good sport, and not complaining all the time.</p>
+        <p>Finally, a study last year found that the higher the rank, the more that executives appeared to be behaving in kind ways.</p>
+        <p>''It's the way to get ahead,'' Professor MacKenzie said.</p>
+        <p>Mickey Meece</p>
+        <p>PERSONAL BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

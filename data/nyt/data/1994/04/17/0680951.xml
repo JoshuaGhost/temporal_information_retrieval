@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crossing Swords</title>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="680951"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">ROAZEN, PAUL</person>
+        <person class="indexing_service">JAMES, CARYN</person>
+        <person class="indexing_service">MALCOLM, JANET</person>
+        <object.title class="indexing_service">SILENT WOMAN, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940417T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DF1E3EF934A25757C0A962958260" item-length="462" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crossing Swords</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In Caryn James's excellent review of Janet Malcolm's "Silent Woman," Ms. Malcolm is quoted in favor of biographical bias: "The pose of fair-mindedness, the charade of evenhandedness, the striking of an attitude of detachment can never be more than rhetorical ruses."</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In Caryn James's excellent review of Janet Malcolm's "Silent Woman," Ms. Malcolm is quoted in favor of biographical bias: "The pose of fair-mindedness, the charade of evenhandedness, the striking of an attitude of detachment can never be more than rhetorical ruses."</p>
+        <p>At the risk of sounding wild or old-fashioned, I have to insist that such words are devastating, and constitute a betrayal of the struggle toward the ideal of objectivity, however elusive truthfulness must inevitably remain. The alternative to opposing Ms. Malcolm seems to me to endorse propagandizing, an art in which I can testify that Ms. Malcolm has become a specialist.</p>
+        <p>It seems only fair to admit that I am writing now having twice been the butt of Ms. Malcolm's glossy sensationalism. One of my books, for example, comes up arbitrarily within the early pages of the artifice of molding Ms. Malcolm's "In the Freud Archives." Since Ms. Malcolm has such a complicated ideological agenda, despite her apparent candor, I think she rarely puts her cards on the table. So I am not surprised to find now that she is romanticizing Ted Hughes. He had the good sense (which I belatedly came to myself) not to risk a meeting with Ms. Malcolm. When she was writing so much about psychoanalysis, her devilish sparkle was always directed not only toward a defense of the powers that be in control of archival material, but in behalf of the big battalions in general.</p>
+        <p>I do now fail to understand how your reviewer does not link more directly Ms. Malcolm's attack on Joe McGinniss, for supposedly betraying Jeffrey MacDonald, to the theme of self-destructiveness. Ms. Malcolm's legal troubles with Jeffrey Masson, and her early allegation that he was his own worst enemy, have attracted abundant journalistic attention, which ought not to be ignored in evaluating her purposes in "The Silent Woman."</p>
+        <p>Mr. Masson's lawyers will presumably have to restrain what he might otherwise be buoyantly eager to say in his reaction to Ms. James's review. (To be fair, he and I have been crossing swords for some years.) But for the sake of humdrum academics like me who daily strive to overcome their natural biases, Ms. Malcolm's proposition that the appeal of biography is based on "voyeurism and busybodyism" is an insult, based on pop psychoanalysis, to the reading public as well as scholars. In truth, biography remains a chief means by which history gets communicated from one generation to the next.</p>
+        <p>Ms. James would seem to be correct that Ms. Malcolm has made the reporter into an "antihero," which then makes relevant the immortal words of Hegel: "No man is a hero to his valet; not, however, because the man is not a hero, but because the valet is a valet."  PAUL ROAZEN  Toronto</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

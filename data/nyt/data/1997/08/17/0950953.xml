@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bookshelf</title>
+    <meta content="17SHELF" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Children's Books" name="column_name"/>
+    <docdata>
+      <doc-id id-string="950953"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Children's Books"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E6D7153CF934A2575BC0A961958260" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bookshelf</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GANDHI: Great Soul. By John B. Severance. Clarion Books. $15.95. (Ages 10 and up) Half a century after Indian independence from Britain, a new generation of readers might find this clearly written account of the life of Mohandas K. Gandhi, the pacifist leader known as the Mahatma (Sanskrit for ''great soul''), enlightening. Fine photographs.</p>
+        <p>BONNIE'S BLUE HOUSE. Written and illustrated by Kelly Asbury. Holt. $7.95. (Ages 2 to 5) The design style of this cheerful book is reminiscent of the 1950's, as simple illustrations highlight a little girl's account of her suburban existence.</p>
+        <p>THE LIBRARY CARD. By Jerry Spinelli. Scholastic Press. $15.95. (Ages 8 to 14) Here are four amusingly extravagant stories about how a modest library card can change lives. For example, find out what happens to Brenda during the Great TV Turn-Off. A strange library book she finds describes a life for her that she does not want to live.</p>
+        <p>WATCH WILLIAM WALK. Written and illustrated by Ann Jonas. Greenwillow. $15. (Ages 2 to 6) Every word in this alliterative story begins with ''W'': the boy, William; his friend Wilma; the dog, Wally; the duck, Wanda. They walk, waddle, wade and, what is more, their adventures are seen from directly above, as though from the perspective of, say, a giant. Great fun.</p>
+        <p>WANTED: Best Friend. By A. M. Monson. Illustrated by Lynn Munsinger. Dial. $14.99. (Ages 4 to 8) Cat and Mouse squabble over checkers. Mouse leaves and Cat advertises for a new best friend. Mole is a slob and empties the refrigerator, Otter wants to play contact sports in the house, and Raccoon is into skateboarding. Come back, Mouse.</p>
+        <p>EMPIRES LOST AND WON: The Spanish Heritage in the Southwest. By Albert Marrin. Atheneum. $19. (Ages 10 and up) Here is a sophisticated and handsomely illustrated history of the Spanish in the American Southwest from 1528 to 1861 and the Civil War. Period illustrations and ample bibliography.</p>
+      </block>
+      <block class="full_text">
+        <p>GANDHI: Great Soul. By John B. Severance. Clarion Books. $15.95. (Ages 10 and up) Half a century after Indian independence from Britain, a new generation of readers might find this clearly written account of the life of Mohandas K. Gandhi, the pacifist leader known as the Mahatma (Sanskrit for ''great soul''), enlightening. Fine photographs.</p>
+        <p>BONNIE'S BLUE HOUSE. Written and illustrated by Kelly Asbury. Holt. $7.95. (Ages 2 to 5) The design style of this cheerful book is reminiscent of the 1950's, as simple illustrations highlight a little girl's account of her suburban existence.</p>
+        <p>THE LIBRARY CARD. By Jerry Spinelli. Scholastic Press. $15.95. (Ages 8 to 14) Here are four amusingly extravagant stories about how a modest library card can change lives. For example, find out what happens to Brenda during the Great TV Turn-Off. A strange library book she finds describes a life for her that she does not want to live.</p>
+        <p>WATCH WILLIAM WALK. Written and illustrated by Ann Jonas. Greenwillow. $15. (Ages 2 to 6) Every word in this alliterative story begins with ''W'': the boy, William; his friend Wilma; the dog, Wally; the duck, Wanda. They walk, waddle, wade and, what is more, their adventures are seen from directly above, as though from the perspective of, say, a giant. Great fun.</p>
+        <p>WANTED: Best Friend. By A. M. Monson. Illustrated by Lynn Munsinger. Dial. $14.99. (Ages 4 to 8) Cat and Mouse squabble over checkers. Mouse leaves and Cat advertises for a new best friend. Mole is a slob and empties the refrigerator, Otter wants to play contact sports in the house, and Raccoon is into skateboarding. Come back, Mouse.</p>
+        <p>EMPIRES LOST AND WON: The Spanish Heritage in the Southwest. By Albert Marrin. Atheneum. $19. (Ages 10 and up) Here is a sophisticated and handsomely illustrated history of the Spanish in the American Southwest from 1528 to 1861 and the Civil War. Period illustrations and ample bibliography.  Children's Books</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

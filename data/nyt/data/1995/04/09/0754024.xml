@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN SHORT: FICTION</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="754024"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">DUFFY, MALACHY</person>
+        <person class="indexing_service">VAN WORMER, LAURA</person>
+        <object.title class="indexing_service">ANY GIVEN MOMENT (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950409T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE6DF123FF93AA35757C0A963958260" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN SHORT: FICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By MALACHY DUFFY</byline>
+      <byline class="normalized_byline">DUFFY, MALACHY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANY GIVEN MOMENT  By Laura Van Wormer. Crown, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>ANY GIVEN MOMENT  By Laura Van Wormer. Crown, $23.</p>
+        <p>It would be easy to dismiss "Any Given Moment" as a potboiler if you didn't look too carefully at what's in the pot and what keeps it boiling. The action begins when Dorothy and Henry Hil lings, two elderly New York literary agents, discover that the 35-year-old chairman of I.C.A., the powerhouse Hollywood talent agency with which they have just merged, has locked them out of their offices. Heedless of the consequences to their careers, five of the Hillings's clients rush to their rescue: Elizabeth Robinson, a lonely but commercially successful historian; Patty Kleczak, a New Jersey housewife who is just about to publish her first romance novel; Georgiana Hamilton-Ayres, a stunning Hollywood actress who wrote a best seller when she was just a child; David Aussenhoff, a novelist who has sold out to produce B movies; and, most entertaining of all, Montgomery Grant Smith, the corpulent, right-wing host of an enormously popular radio show. On their way to discovering why I.C.A. is so anxious to get its hands on the contents of the Hillingses' office, the members of this intrepid band encounter crooked lawyers, financial intrigue -- and one another. Fleshed out with convincing behind-the-scenes glimpses of the hypercharged worlds of New York publishing and the Hollywood studios, the plot bubbles away -- if not always at full boil, then at least at a very satisfying simmer. MALACHY DUFFY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

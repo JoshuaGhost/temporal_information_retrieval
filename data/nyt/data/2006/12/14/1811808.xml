@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="14corrections-9" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1811808"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings and Downloads (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1D71531F937A25751C1A9609C8B63" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Dec 5 Critic's Choice column on new DVDs, which misidentified studio that made one film cited</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Critic's Choice column on Dec. 5, about new DVDs, misidentified the studio for which Ernst Lubitsch made the film ''Ninotchka,'' a Hollywood movie that was compared to films Lubitsch made in Berlin that were recently released on DVDs. It was MGM, not Paramount.</p>
+      </block>
+      <block class="full_text">
+        <p>The Critic's Choice column on Dec. 5, about new DVDs, misidentified the studio for which Ernst Lubitsch made the film ''Ninotchka,'' a Hollywood movie that was compared to films Lubitsch made in Berlin that were recently released on DVDs. It was MGM, not Paramount.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oriental Federal Savings Bank reports earnings for Qtr to Sept 30</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="644620"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">COMPANY EARNINGS</classifier>
+        <classifier class="online_producer" type="types_of_material">Statistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19931025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E4D6133BF936A15753C1A965958260" item-length="44" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oriental Federal Savings Bank reports earnings for Qtr to Sept 30</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>*3*** COMPANY REPORTS **</p>
+        <p>*3*Oriental Federal Savings Bank (AMEX)</p>
+        <p>Qtr to Sept 30</p>
+        <p>1993</p>
+        <p>1992</p>
+        <p>Net inc</p>
+        <p>2,313,000</p>
+        <p>712,000</p>
+        <p>Per share</p>
+        <p>.72</p>
+        <p>.23</p>
+        <p>Year-ago per share earnings were adjusted for a 3-for-2 stock split paid in August.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Information 'Have Nots'</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="786807"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ELECTRONIC INFORMATION SYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEPHONES AND TELECOMMUNICATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">LIBRARIES AND LIBRARIANS</classifier>
+        <classifier class="indexing_service" type="descriptor">DATA PROCESSING (COMPUTERS)</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD9163FF936A3575AC0A963958260" item-length="568" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Information 'Have Nots'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The most basic promise of the information age -- that books, facts and figures will be widely and cheaply disseminated over the telephone lines -- will come to nothing unless public access to computers and telecommunications technology is broadly expanded. The public libraries should be one source of easy access. They are struggling to offer the services, but are faltering because of high telecommunications costs.</p>
+        <p>A recent survey of what the Department of Commerce describes as the "information have nots" revealed that about 20 percent of America's poorest households do not have telephones. Only a fraction of those who do will be able to afford the computers and related equipment that grant access to the information society. The children of those households start out at an obvious disadvantage, as do adults who could benefit from on-line training or avail themselves of on-line job search materials and so on. States that house a disproportionate number of the country's poor will need to take special care to secure broad access, to avoid creating an information underclass.</p>
+      </block>
+      <block class="full_text">
+        <p>The most basic promise of the information age -- that books, facts and figures will be widely and cheaply disseminated over the telephone lines -- will come to nothing unless public access to computers and telecommunications technology is broadly expanded. The public libraries should be one source of easy access. They are struggling to offer the services, but are faltering because of high telecommunications costs.</p>
+        <p>A recent survey of what the Department of Commerce describes as the "information have nots" revealed that about 20 percent of America's poorest households do not have telephones. Only a fraction of those who do will be able to afford the computers and related equipment that grant access to the information society. The children of those households start out at an obvious disadvantage, as do adults who could benefit from on-line training or avail themselves of on-line job search materials and so on. States that house a disproportionate number of the country's poor will need to take special care to secure broad access, to avoid creating an information underclass.</p>
+        <p>The current round of deliberations by the New York State Public Service Commission bears heavily on this issue. The commission, which regulates the telephone industry and other utilities, has many responsibilities, among them examining the question of what will aid "full participation" in the information society. The issue arises because the public service department is preparing to deregulate local telephone service, which will increase the number of phone companies in New York from the current 40 to something considerably higher.</p>
+        <p>Librarians have a strong case when they argue that deregulation should not go forward without some form of rate relief for public libraries. With 70 percent of the state's households lacking computers, the libraries have been overrun with requests for Internet searches, job information and basic information from New Yorkers seeking to start small businesses. Libraries have had to limit their services because of the high costs of data transmission over so-called "local loops," the dedicated lines between local libraries and the central libraries that have sophisticated computer searching capabilities.</p>
+        <p>The problem is particularly acute in rural parts of the state, where populations are smaller and more widely scattered, resulting in higher calling costs. The Southern Adirondacks Library System, which covers Hamilton, Warren, Washington and Saratoga counties and provides computer services for four other counties, paid $50,000 in data-transmission costs last year, a ruinous sum given its meager automation budget of $300,000. Only 14 of the system's 44 libraries are connected to a central branch and to each other via dedicated computer lines. Edward M. O'Connor, the system's director, estimates that connecting all branches would cost an additional $100,000 to $200,000.</p>
+        <p>Mr. O'Connor has asked the Public Service Commission to mandate reduced data-transmission rates over the local loops for libraries. A similar logic mandates cheaper telephone service -- known as "life-line service" -- for New Yorkers who are too poor to pay the market rate.</p>
+        <p>The commission would do well to follow Mr. O'Connor's advice. Libraries are and will remain the door to the information age for tens of thousands of people. Without subsidies, that door could well close.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

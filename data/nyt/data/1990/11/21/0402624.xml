@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Building Falls in Quarter</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="402624"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING STARTS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing Starts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0D81E39F932A15752C1A966958260" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Building Falls in Quarter</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Housing construction fell by 20 percent in the third quarter, with the Northeast suffering the biggest drop, according to a survey.</p>
+        <p>F. W. Dodge, the construction information division of McGraw-Hill Inc., said on Monday that starts on new houses, condominiums and apartments totaled 299,299 units in the July- September period, down from 371,792 in the 1989 period.</p>
+        <p>Only three of the nation's 25 largest home-building areas, Phoenix, Dallas and Indianapolis, showed gains in the period, F. W. Dodge said.</p>
+        <p>"The Northeast, with its 36 percent setback, continued to set the downward pace," said George A. Christie, vice president and chief economist at Dodge. "The North and South Central regions, with smaller- than-average cutbacks, dampened the general collapse."</p>
+      </block>
+      <block class="full_text">
+        <p>Housing construction fell by 20 percent in the third quarter, with the Northeast suffering the biggest drop, according to a survey.</p>
+        <p>F. W. Dodge, the construction information division of McGraw-Hill Inc., said on Monday that starts on new houses, condominiums and apartments totaled 299,299 units in the July- September period, down from 371,792 in the 1989 period.</p>
+        <p>Only three of the nation's 25 largest home-building areas, Phoenix, Dallas and Indianapolis, showed gains in the period, F. W. Dodge said.</p>
+        <p>"The Northeast, with its 36 percent setback, continued to set the downward pace," said George A. Christie, vice president and chief economist at Dodge. "The North and South Central regions, with smaller- than-average cutbacks, dampened the general collapse."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

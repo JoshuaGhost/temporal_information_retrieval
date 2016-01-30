@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHAT THEY'RE READING</title>
+    <meta content="10REEDE" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1439547"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <person class="indexing_service">O'Brien, Kathleen</person>
+        <person class="indexing_service">Zacks, Mitch</person>
+        <person class="indexing_service">Krivickas, Joseph K</person>
+        <person class="indexing_service">Gorelick, Jamie S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20021110T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DC1531F933A25752C1A9649C8B63" item-length="586" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHAT THEY'RE READING</hl1>
+      </hedline>
+      <byline class="print_byline">COMPILED BY KATHLEEN OBRIEN</byline>
+      <abstract>
+        <p>Three executives, Mitch Zacks, Joseph K Krivickas and Jamie S Gorelick, comment on current reading (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mitch Zacks, 29  Portfolio manager, Zacks Investment Management</p>
+        <p>BOOK: ''Irrational Exuberance'' by Robert J. Shiller (2000)</p>
+        <p>WHY: ''In order to understand the Internet bubble, it helps to understand the reasons behind the last great market crash. What Shiller found was the main reason given by portfolio managers for selling billions of dollars worth of stock at what turned out to be all-time lows was that prices were falling.</p>
+        <p>The basic message of the book is that the market is as much driven by rational thought as by mass psychology. As a result, you should always be careful of following the crowd.''</p>
+      </block>
+      <block class="full_text">
+        <p>Mitch Zacks, 29  Portfolio manager, Zacks Investment Management</p>
+        <p>BOOK: ''Irrational Exuberance'' by Robert J. Shiller (2000)</p>
+        <p>WHY: ''In order to understand the Internet bubble, it helps to understand the reasons behind the last great market crash. What Shiller found was the main reason given by portfolio managers for selling billions of dollars worth of stock at what turned out to be all-time lows was that prices were falling.</p>
+        <p>The basic message of the book is that the market is as much driven by rational thought as by mass psychology. As a result, you should always be careful of following the crowd.''</p>
+        <p>Joseph K. Krivickas, 40  Chief executive, iPhrase Technologies</p>
+        <p>BOOK: ''Hope's Road'' by Joseph P. Kazickas (1999)</p>
+        <p>WHY ''Lithuania was closed off by the Iron Curtain for 50 years. Thousands of Lithuanians were shipped to Siberia. Thousands escaped to the west. Joseph Kazickas, a Lithuanian-American who was influential in helping Lithuania as it regained its independence, shares his story. Like Kazickas, my parents were forced to leave Lithuania during World War II. This book is helping me realize how my parent's Lithuanian-rooted values and traditions have been a foundation for my life and how I can attempt to pass them on to my 3-year-old son and 1-year-old daughter.''</p>
+        <p>Jamie S. Gorelick, 51  Vice chairwoman, Fannie Mae</p>
+        <p>BOOK: ''American: Beyond Our Grandest Notions'' by Chris Matthews (2002)</p>
+        <p>WHY: ''Matthews examines our political and cultural heroes -- and the qualities they have had in common -- revealing what he calls the iconic qualities for Americans. He steeps you in a rich brew of our history, our books, our movies, and you emerge with a strong sense for what makes us tick, what we respect and care about and what gets our juices flowing.''</p>
+        <p>BOOK: Sandy Koufax: A Lefty's Legacy by Jane Leavy (2002)</p>
+        <p>WHY: ''It's not just a baseball book, but a portrait of the 60's reflected through the life of one of our great sports heroes. The author, Jane Leavy, is one of the best sports journalists there is.</p>
+        <p>COMPILED BY KATHLEEN OBRIEN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

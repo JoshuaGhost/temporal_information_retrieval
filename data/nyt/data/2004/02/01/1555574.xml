@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Secession from Rye, Rye Brook Panel Says</title>
+    <meta content="MB010257" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1555574"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <location class="indexing_service">Rye Brook (NY)</location>
+        <location class="indexing_service">Rye (NY)</location>
+        <person class="indexing_service">Fuchs, Marek</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040201T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E5DC163BF932A35751C0A9629C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Secession from Rye, Rye Brook Panel Says</hl1>
+      </hedline>
+      <byline class="print_byline">By Marek Fuchs</byline>
+      <byline class="normalized_byline">Fuchs, Marek</byline>
+      <abstract>
+        <p>Committee in Rye Brook, NY, decides against seceding from town of Rye (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is perhaps no surprise that Rye Brook's talk of seceding from the Town of Rye did not rise to the level of musket fire, let alone legal separation. In a report released last week, a Rye Brook panel that convened last summer to study the issue of Rye Brook separating from Rye said the idea could not proceed.</p>
+      </block>
+      <block class="full_text">
+        <p>It is perhaps no surprise that Rye Brook's talk of seceding from the Town of Rye did not rise to the level of musket fire, let alone legal separation. In a report released last week, a Rye Brook panel that convened last summer to study the issue of Rye Brook separating from Rye said the idea could not proceed.</p>
+        <p>''We came to the conclusion that basically it was a financial wash,'' said Paul S. Rosenberg, committee chairman and a Rye Brook trustee, speaking by phone. ''We couldn't prove that there was a financial reason to go forward and we couldn't prove that there was financial reason not to go forward.'' That, combined with the fact that the support of other villages under the umbrella of the Town of Rye, like Port Chester, did not seem even remotely forthcoming, meant that the idea is currently dead.</p>
+        <p>Marek Fuchs</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

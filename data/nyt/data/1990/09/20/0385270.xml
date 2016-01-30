@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Optimism On Latin Debt</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="385270"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CREDIT</classifier>
+        <location class="indexing_service">LATIN AMERICA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D7153DF933A1575AC0A966958260" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Optimism On Latin Debt</hl1>
+      </hedline>
+      <byline class="print_byline">Reuters</byline>
+      <dateline>MIAMI, Sept. 19</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Traders in debt issued by third world countries expect the loans of Latin American nations to rise in value on the debt market next year, a magazine survey said.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Traders in debt issued by third world countries expect the loans of Latin American nations to rise in value on the debt market next year, a magazine survey said.</p>
+        <p>Traders in debt issued by third world countries expect the loans of Latin American nations to rise in value on the debt market next year, a magazine survey said.</p>
+        <p>The survey by Latinfinance magazine, conducted every six months, was released on Tuesday. It found that debt prices are expected to rise for the first time since the beginning of trading in the debt of undeveloped nations in the mid-1980's.</p>
+        <p>The survey found ''encouraging implications for Latin American efforts to restore creditworthiness and growth.''</p>
+        <p>It found that traders expect almost all leading Latin American debt instruments to be worth ''significantly more'' halfway through 1991 than they are now.</p>
+        <p>For the five biggest debtors - Brazil, Mexico, Argentina, Venezuela and Chile - traders expect average prices to be about 44 percent of face value by mid-1991, compared with 30 percent this month.</p>
+        <p>The survey also found the stock of outstanding commercial debt is expected to be cut in the next year in almost every Latin American country.</p>
+        <p>The magazine also said that big United States creditor banks - especially J. P. Morgan, Chase Manhattan and Manufacturers Hanover - now regard their third world trading units ''as major profit centers, as well as essential adjuncts to Latin American corporate finance and financial advisory services.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

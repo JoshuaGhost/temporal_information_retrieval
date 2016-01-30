@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="21INSI$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1048344"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE6D71330F932A1575AC0A96E958260" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caribbean Braces for Storm  As Hurricane Georges bears down on them with winds of 135 miles an hour, residents of Puerto Rico and a dozen smaller Caribbean islands are bracing for the season's most powerful storm. Page A10.</p>
+        <p>Florida's Other Side  There is a Florida less well known than the one of urban sprawl and sun-and-fun tourist spots, one that grows peanuts, cotton and timber, calls itself ''lower Alabama'' and can swing elections. Page A10.</p>
+        <p>Kohl Opponent's Baggage  During his quest to replace Helmut Kohl as Germany's Chancellor, Gerhard Schroder has been trying to show that he is worldly and modern. But his record in his home state is coming back to haunt him. Page A8.</p>
+      </block>
+      <block class="full_text">
+        <p>Caribbean Braces for Storm  As Hurricane Georges bears down on them with winds of 135 miles an hour, residents of Puerto Rico and a dozen smaller Caribbean islands are bracing for the season's most powerful storm. Page A10.</p>
+        <p>Florida's Other Side  There is a Florida less well known than the one of urban sprawl and sun-and-fun tourist spots, one that grows peanuts, cotton and timber, calls itself ''lower Alabama'' and can swing elections. Page A10.</p>
+        <p>Kohl Opponent's Baggage  During his quest to replace Helmut Kohl as Germany's Chancellor, Gerhard Schroder has been trying to show that he is worldly and modern. But his record in his home state is coming back to haunt him. Page A8.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

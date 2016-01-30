@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Time, Martin Is Victorious</title>
+    <meta content="PL005903" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1014681"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="PLUS: AUTO RACING -- CALIFORNIA 500"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">California 500 Auto Race</classifier>
+        <person class="indexing_service">Martin, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E2DF1F3EF937A35756C0A96E958260" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Time, Martin Is Victorious</hl1>
+      </hedline>
+      <abstract>
+        <p>Mark Martin wins California 500 auto race (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A year ago, Mark Martin saw his chance to win the inaugural California 500 in Fontana disappear when he had to make a late stop for gas. Yesterday, he had more than enough to put away the rest of the field for his third victory of the season.</p>
+        <p>''This was a redemption for last year,'' the driver from Arkansas said after leading 165 of the 250 laps on the two-mile banked oval. Martin averaged 140.220 miles an hour on the way to the 25th victory of his Winston Cup career.</p>
+      </block>
+      <block class="full_text">
+        <p>A year ago, Mark Martin saw his chance to win the inaugural California 500 in Fontana disappear when he had to make a late stop for gas. Yesterday, he had more than enough to put away the rest of the field for his third victory of the season.</p>
+        <p>''This was a redemption for last year,'' the driver from Arkansas said after leading 165 of the 250 laps on the two-mile banked oval. Martin averaged 140.220 miles an hour on the way to the 25th victory of his Winston Cup career.</p>
+        <p>The winner took the lead for the final time on Lap 206, during the final round of green-flag pit stops, and beat the new series points leader, Jeremy Mayfield, to the finish line by 1.287 seconds -- about 15 car lengths.</p>
+        <p>PLUS: AUTO RACING -- CALIFORNIA 500</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

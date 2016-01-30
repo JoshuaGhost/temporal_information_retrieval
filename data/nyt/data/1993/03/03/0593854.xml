@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Agents' Advice: Attack on a Sunday</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="593854"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <series series.name="SIEGE IN TEXAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RELIGIOUS CULTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SHOOTINGS</classifier>
+        <location class="indexing_service">WACO (TEX)</location>
+        <org class="indexing_service">BRANCH DAVIDIANS (RELIGIOUS SECT)</org>
+        <org class="indexing_service">ALCOHOL, TOBACCO AND FIREARMS, 
+BUREAU OF</org>
+        <person class="indexing_service">LABATON, STEPHEN</person>
+        <person class="indexing_service">KORESH, DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Texas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religious Cults</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930303T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DE1431F930A35750C0A965958260" item-length="286" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Agents' Advice: Attack on a Sunday</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN LABATON</byline>
+      <byline class="normalized_byline">LABATON, STEPHEN</byline>
+      <dateline>WASHINGTON, March 2</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Undercover agents penetrated the fortified compound outside Waco, Tex., by posing as members of the Branch Davidian cult, and told officials that Sunday mornings would be the safest time to seize weapons and arrest the group's leader, officials of the Bureau of Alcohol, Tobacco and Firearms said here today.</p>
+        <p>They gave this account of the bureau's raid on Sunday, which left four agents dead:</p>
+      </block>
+      <block class="full_text">
+        <p>Undercover agents penetrated the fortified compound outside Waco, Tex., by posing as members of the Branch Davidian cult, and told officials that Sunday mornings would be the safest time to seize weapons and arrest the group's leader, officials of the Bureau of Alcohol, Tobacco and Firearms said here today.</p>
+        <p>They gave this account of the bureau's raid on Sunday, which left four agents dead:</p>
+        <p>On the recommendation of Phil Chojnacki, the senior bureau agent in the Houston office, the raid was approved by Stephen E. Higgins, a career official at the bureau and its director since 1983.</p>
+        <p>The undercover agents, who had infiltrated the religious group months ago, reported that Sundays would be the safest time to seize weapons and arrest the cult's leader because during the Sunday morning prayer service the men were separated from the women and children and from a cache of weapons.</p>
+        <p>Shortly before the raid, an undercover agent sent a signal that it would be safe to raid the compound. But something went awry, because the cult members were clearly anticipating the raid and took the agents by surprise.</p>
+        <p>Officials in Washington today theorized that either the undercover agents had somehow been set up by the cult or that the cult's leaders had found out about the raid even as the undercover agent was signaling the local bureau agents to proceed.</p>
+        <p>Bureau officials called "absurd" suggestions that the undercover agent may have been a double agent, but they conceded that the agent's signal had misled other agents into believing they could safely approach the compound when it clearly was not safe.</p>
+        <p>Bureau officials here said that the undercover agents had got out of the compound safely.</p>
+        <p>SIEGE IN TEXAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
