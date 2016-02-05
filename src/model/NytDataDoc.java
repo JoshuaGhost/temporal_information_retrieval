@@ -1,6 +1,10 @@
 package model;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.List;
+
+import javax.xml.parsers.ParserConfigurationException;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.CDATASection;
@@ -19,12 +23,24 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.ProcessingInstruction;
 import org.w3c.dom.Text;
 import org.w3c.dom.UserDataHandler;
+import org.xml.sax.SAXException;
+
+import com.nytlabs.corpus.NYTCorpusDocument;
+import com.nytlabs.corpus.NYTCorpusDocumentParser;
 
 public class NytDataDoc implements XmlDocAdapter{
 	
+	private NYTCorpusDocumentParser ncDocParser = new NYTCorpusDocumentParser();
+	private NYTCorpusDocument ncDoc = null;
+	
+	
+	public NytDataDoc(File file) throws SAXException, IOException, ParserConfigurationException {
+		ncDoc = ncDocParser.parseNYTCorpusDocumentFromFile(file, true);
+	}
+	
 	@Override
-	public NodeList getPostsNodeList() {
-		return this.getElementsByTagName("nitf");
+	public NytPostsList getPostsNodeList() {
+		return new NytPostsList(ncDoc);
 	}
 
 	@Override

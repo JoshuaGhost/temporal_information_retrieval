@@ -1,7 +1,5 @@
 package model;
 
-import java.util.Date;
-
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
@@ -10,28 +8,14 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.UserDataHandler;
 
 import com.nytlabs.corpus.NYTCorpusDocument;
-import com.nytlabs.corpus.NYTCorpusDocumentParser;
 
-public class NytDataPost implements XmlPostNodeAdapter {
+public class NytPostNode implements Node {
 
-	NYTCorpusDocumentParser ncDocParser = null;
-	NYTCorpusDocument ncDoc = null;
-	
-	public NytDataPost(Node postNode) {
-		ncDoc = ncDocParser.parseNYTCorpusDocumentFromDOMDocument(null, (Document) postNode);
+	private NYTCorpusDocument ncDoc = null;
+	public NytPostNode(NYTCorpusDocument ncDoc) {
+		this.ncDoc = ncDoc;
 	}
-	public String getDate() {
-		Date pubDate = ncDoc.getPublicationDate();
-		System.out.println(pubDate.toString());
-		return pubDate.toString();
-	}
-	
-	public String getTitle() {
-		return null;
-	}
-	public String getContent() {
-		return null;
-	}
+
 	@Override
 	public Node appendChild(Node arg0) throws DOMException {
 		// TODO Auto-generated method stub

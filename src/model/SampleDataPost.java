@@ -20,7 +20,7 @@ public class SampleDataPost implements XmlPostNodeAdapter {
 		while (metaInfoNode.getNodeType() != Node.ELEMENT_NODE) {
 			metaInfoNode = metaInfoNode.getNextSibling();
 		}
-		
+
 		Node childOfMetaInfoNode = metaInfoNode.getFirstChild();
 		while (childOfMetaInfoNode.getNextSibling() != null) {
 			childOfMetaInfoNode = childOfMetaInfoNode.getNextSibling();
@@ -35,25 +35,36 @@ public class SampleDataPost implements XmlPostNodeAdapter {
 		}
 
 		Node textNode = metaInfoNode.getNextSibling();
-		while (textNode.getNodeType() != Node.ELEMENT_NODE) {
-			textNode = textNode.getNextSibling();
+		try {
+			while (textNode.getNodeType() != Node.ELEMENT_NODE) {
+				textNode = textNode.getNextSibling();
+			}
+			this.content = textNode.getTextContent();
+		} catch(NullPointerException nullPointer) {
+			System.out.println("[Error]: "+metaInfoNode.getFirstChild().getNextSibling().getFirstChild().getNodeValue());
 		}
-		this.content = textNode.getTextContent();
+	}
+
+	private String preventNullString(String str) {
+		if (str.length()==0 | str == null) {
+			return "";
+		}
+		return str;
 	}
 
 	@Override
 	public String getDate() {
-		return this.date;
+		return preventNullString(this.date);
 	}
 
 	@Override
 	public String getTitle() {
-		return this.title;
+		return preventNullString(this.title);
 	}
 
 	@Override
 	public String getContent() {
-		return this.content;
+		return preventNullString(this.content);
 	}
 
 	@Override
