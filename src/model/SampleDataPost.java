@@ -1,5 +1,13 @@
 package model;
 
+import java.sql.Date;
+import java.text.SimpleDateFormat;
+import java.util.Hashtable;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -8,14 +16,36 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.UserDataHandler;
 
+import utils.TemporalClass;
+
 public class SampleDataPost implements XmlPostNodeAdapter {
 
+	private double tempBase = 0.03;
+	Node currentPostNode = null;
+	DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+	DocumentBuilder builder = null;
+	Document currentPostDoc = null;
+	Node importedNode = null;
 	Node metaInfoNode = null;
-	String date = null;
+	//Note: date and publishDate infer the same date with different format
+	//date is '-'-split, i.e. "2015-12-11"
+	//publishDate is the same date without '-'-split and also converted into Integer, i.e. 20151211
+	SimpleDateFormat formatter = new SimpleDateFormat("yyyy-mm-dd");
+	int pubYear = 0;
+	int pubMonth = 0;
+	int pubDate = 0;
+	int publishDate = 0;
 	String title = null;
 	String content = null;
 
-	public SampleDataPost(Node post) {
+	public SampleDataPost(Node post) throws ParserConfigurationException {
+		currentPostNode = post;
+		factory.setNamespaceAware(true);
+		builder = factory.newDocumentBuilder();
+		currentPostDoc = builder.newDocument();
+		importedNode = currentPostDoc.importNode(currentPostNode, true);
+		currentPostDoc.appendChild(importedNode);
+
 		metaInfoNode = post.getFirstChild();
 		while (metaInfoNode.getNodeType() != Node.ELEMENT_NODE) {
 			metaInfoNode = metaInfoNode.getNextSibling();
@@ -27,7 +57,10 @@ public class SampleDataPost implements XmlPostNodeAdapter {
 			if (childOfMetaInfoNode.getNodeType() == Node.ELEMENT_NODE) {
 				Element childElement = (Element) childOfMetaInfoNode;
 				if (childElement.getAttribute("name").equals("date")) {
-					this.date = childElement.getFirstChild().getNodeValue();
+					String[] pubTimeParts = childElement.getFirstChild().getNodeValue().split("-");
+					pubYear = Integer.valueOf(pubTimeParts[0]);
+					pubMonth = Integer.valueOf(pubTimeParts[1]);
+					pubDate = Integer.valueOf(pubTimeParts[2]);
 				} else if (childElement.getAttribute("name").equals("title")) {
 					this.title = childElement.getFirstChild().getNodeValue();
 				}
@@ -54,7 +87,11 @@ public class SampleDataPost implements XmlPostNodeAdapter {
 
 	@Override
 	public String getDate() {
-		return preventNullString(this.date);
+		return preventNullString(String.valueOf(pubYear)+
+																"-"+
+																String.valueOf(pubMonth)+
+																"-"+
+																String.valueOf(pubDate));
 	}
 
 	@Override
@@ -65,6 +102,69 @@ public class SampleDataPost implements XmlPostNodeAdapter {
 	@Override
 	public String getContent() {
 		return preventNullString(this.content);
+	}
+
+	private int getTermInfo(String tTermTimeS) {
+		int tTermYear = 0;
+		int tTermMonth = 0;
+		int tTermDate = 0;
+		int termInfo = 0;
+		if (tTermTimeS.length() == 0) {
+			termInfo |= TemporalClass.ATEMP;
+			return termInfo;
+		}
+		if (tTermTimeS.length() >= 4) {
+			tTermYear = Integer.valueOf(tTermTimeS.substring(0, 4));
+			if (tTermYear - pubYear < -1) {
+				termInfo |= TemporalClass.PAST;
+				return termInfo;
+			} else if (tTermYear - pubYear > 1) {
+				termInfo |= TemporalClass.FUTURE;
+				return termInfo;
+			} else if (tTermTimeS.length() < 6){
+				termInfo |= TemporalClass.RECENT;
+			}
+		}
+		if (tTermTimeS.length() >= 6) {
+			tTermMonth = Integer.valueOf(tTermTimeS.substring(4,6));
+			int pub = pubYear * 12 + pubMonth;
+			int ter = tTermYear * 12 + tTermMonth;
+			if (pub == ter) {
+				termInfo |= TemporalClass.RECENT;
+			} else if (ter < pub) {
+				termInfo |= TemporalClass.PAST;
+				if (tTermTimeS.length() < 8) {
+					return termInfo;
+				}
+			} else {
+				termInfo |= TemporalClass.FUTURE;
+				if (tTermTimeS.length() < 8) {
+					return termInfo;
+				}
+			}
+		}
+		if (tTermTimeS.length() >= 8) {
+			tTermDate = Integer.valueOf(tTermTimeS.substring(6, 8));
+			if (tTermDate > pubDate) {
+				termInfo |= TemporalClass.FUTURE;
+			} else if (tTermDate < pubDate) {
+				termInfo |= TemporalClass.PAST;
+			} 
+		}
+		return termInfo;
+	}
+	
+	public Hashtable <String, Integer> getTemporalTerms() {
+		Hashtable <String, Integer> ret = new Hashtable <String, Integer> ();
+		NodeList temporalTerms = currentPostDoc.getElementsByTagName("t");
+		for (int i = 0; i < temporalTerms.getLength(); i++) {
+			Node tTermNode = temporalTerms.item(i);
+			String tTerm = tTermNode.getFirstChild().getNodeValue();
+			String tTermTimeS = tTermNode.getAttributes().getNamedItem("val").getNodeValue();
+			int termInfo = getTermInfo(tTermTimeS);
+			ret.put(tTerm, termInfo);
+		}
+		return ret;
 	}
 
 	@Override

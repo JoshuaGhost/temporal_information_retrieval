@@ -1,6 +1,7 @@
 package model;
 
 import java.util.Date;
+import java.util.Hashtable;
 
 import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
@@ -250,6 +251,11 @@ public class NytDataPost implements XmlPostNodeAdapter {
 
 	@Override
 	public Object setUserData(String arg0, Object arg1, UserDataHandler arg2) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public Hashtable<String, Integer> getTemporalTerms() {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -46,6 +46,7 @@ import org.apache.commons.io.filefilter.TrueFileFilter;
 public class LuceneRetriever {
 
 	public int build(String indexPath, String dataPath) throws Exception {
+		
 		Directory indexDir = FSDirectory.open(Paths.get(indexPath));
 
 		Analyzer analyzer = new StandardAnalyzer();
@@ -99,6 +100,7 @@ public class LuceneRetriever {
 		System.out.println(query.toString());
 		TopDocs tds = indexSearcher.search(query, numTopDocs);
 		ScoreDoc[] sds = tds.scoreDocs;
+		
 		// System.out.println(indexSearcher.explain(query, 1).toHtml());
 		// System.out.println(sds.length);
 		if (tds != null & sds.length != 0) {

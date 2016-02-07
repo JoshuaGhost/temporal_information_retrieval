@@ -6,4 +6,5 @@ public interface XmlPostNodeAdapter extends Node{
 	public String getDate();
 	public String getTitle();
 	public String getContent();
+	public java.util.Hashtable<String, Integer> getTemporalTerms();
 }

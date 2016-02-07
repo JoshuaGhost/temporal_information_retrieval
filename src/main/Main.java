@@ -15,6 +15,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
 import controler.LuceneRetriever;
+import controler.TemporalTermClassifier;
 import view.LineCharts;
 
 public class Main {
@@ -23,6 +24,7 @@ public class Main {
 	final static String root = ".";
 	///root/workspace/temporal_information_retrieval/indexes
 	final static String indexPath = root+"/indexes";
+	final static String timeTermPath = root+"/timeTerms";
 	//final String queryPath = root+"/data/queries/queries.xml";
 	final static String queryPath = root+"/data/queries/NTCIR-11TIRTopicsFormalRun.xml";
 	//final String dataPath = root+"/data/nyt/data";
@@ -103,8 +105,12 @@ public class Main {
 		endCalendar.setTime(endDate);
 		luceneRetriever = new controler.LuceneRetriever();
 		
+		//TemporalTermClassifier.build(timeTermPath, dataPath);
 		//luceneRetriever.build(indexPath, dataPath);
-
+		TemporalTermClassifier.search(timeTermPath, 
+																			"What should be done to reduce contracting waterborne diseases in the future", 
+																			100);
+		/*
 		File queryFile = new File(queryPath);
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 		DocumentBuilder db = dbf.newDocumentBuilder();
@@ -118,6 +124,7 @@ public class Main {
 		lineCharts.pack();
 		RefineryUtilities.centerFrameOnScreen(lineCharts);
 		lineCharts.setVisible(true);
+		*/
 	}
 	
 }
